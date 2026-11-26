@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **25** | 24 Nov 2026 | <a href="../../data/developers/TV.json">JSON</a> |
+| 🟡 Provisional | **26** | 24 Nov 2026 | <a href="../../data/developers/TV.json">JSON</a> |
 
 </div>
 
@@ -149,48 +149,55 @@
 </tr>
 <tr>
 <td align="right">19</td>
+<td><a href="https://github.com/KriminalExpert"><img src="https://avatars.githubusercontent.com/u/154278140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KriminalExpert"><b>KriminalExpert</b></a><br><sub>&#64;KriminalExpert</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Funafuti</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/s11253934-bit"><img src="https://avatars.githubusercontent.com/u/271346449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/s11253934-bit"><b>PELOSI</b></a><br><sub>&#64;s11253934-bit</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tuvalu</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/alessandroocapa"><img src="https://avatars.githubusercontent.com/u/124882769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alessandroocapa"><b>Randall Flagg</b></a><br><sub>&#64;alessandroocapa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>tuvalu</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/apfour"><img src="https://avatars.githubusercontent.com/u/83987724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apfour"><b>Ap4</b></a><br><sub>&#64;apfour</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tuvalu - Funafuti</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/martinbaudoin08-pdf"><img src="https://avatars.githubusercontent.com/u/249081706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/martinbaudoin08-pdf"><b>martinbaudoin08-pdf</b></a><br><sub>&#64;martinbaudoin08-pdf</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tuvalu</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
 <td><a href="https://github.com/Ninotainer"><img src="https://avatars.githubusercontent.com/u/183204450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ninotainer"><b>Ninotainer</b></a><br><sub>&#64;Ninotainer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tuvalu</sub></td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">25</td>
 <td><a href="https://github.com/openjuno"><img src="https://avatars.githubusercontent.com/u/258992926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/openjuno"><b>juno</b></a><br><sub>&#64;openjuno</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Funafuti, Tuvalu</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">26</td>
 <td><a href="https://github.com/Peachsr"><img src="https://avatars.githubusercontent.com/u/50031435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Peachsr"><b>Peachsr</b></a><br><sub>&#64;Peachsr</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -204,7 +211,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 25 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 26 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 3 of 21 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,16 +5,15 @@
 "cycle": 1,
 "cycleStartedAt": "2026-11-22T10:32:48.200Z",
 "queue": [
-  {"metric":[506,509],"created":null,"cursor":"Y3Vyc29yOjQwMA==","page":5,"retrieved":400,"attempts":0},
-  {"metric":[478,505],"created":null,"cursor":null,"page":1},
-  {"metric":[421,477],"created":null,"cursor":null,"page":1},
+  {"metric":[450,451],"created":null,"cursor":"Y3Vyc29yOjIwMA==","page":3,"retrieved":200,"attempts":0},
+  {"metric":[421,449],"created":null,"cursor":null,"page":1},
   {"metric":[307,420],"created":null,"cursor":null,"page":1},
   {"metric":[50,306],"created":null,"cursor":null,"page":1}
 ],
 "unresolved": [],
-"stats": {"pages":1339,"splits":182,"leaves":178,"nodes":124756,"cyclePages":1521,"cycleNodes":124756},
+"stats": {"pages":1487,"splits":201,"leaves":198,"nodes":138536,"cyclePages":1688,"cycleNodes":138536},
 "completedCycles": [],
 "createdAt": "2026-11-22T10:32:48.200Z",
-"updatedAt": "2026-11-25T14:37:49.309Z",
+"updatedAt": "2026-11-25T23:49:58.316Z",
 "nextFloor": 50
 }

@@ -5,14 +5,15 @@
 "country": {"code":"TC","name":"Turks & Caicos Islands","slug":"turks-caicos-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":32,"measuredAccounts":10,"measurementBacklog":22,"window":{"from":"2025-11-25T04:00:00Z","to":"2026-11-25T04:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":29,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":32,"measuredAccounts":12,"measurementBacklog":20,"window":{"from":"2025-11-25T04:00:00Z","to":"2026-11-25T04:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":29,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBgVdoQ","login":"haktanpolatt","name":"haktan","url":"https://github.com/haktanpolatt","avatarUrl":"https://avatars.githubusercontent.com/u/101014945?s=80&v=4","followers":10,"publicRepos":6,"location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":79,"commits":66,"pullRequests":10,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
   {"rank":2,"id":"MDQ6VXNlcjE3ODk0NDc3","login":"bdanny2","name":"Andrew Dunbar","url":"https://github.com/bdanny2","avatarUrl":"https://avatars.githubusercontent.com/u/17894477?s=80&v=4","followers":0,"publicRepos":20,"location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":3,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":3,"id":"MDQ6VXNlcjEyNTUzNzUz","login":"johnwuelk","name":"Johannes Wülk","url":"https://github.com/johnwuelk","avatarUrl":"https://avatars.githubusercontent.com/u/12553753?s=80&v=4","followers":3,"publicRepos":11,"location":"Providenciales","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":2,"repositories":0,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
+  {"rank":3,"id":"MDQ6VXNlcjEyNTUzNzUz","login":"johnwuelk","name":"Johannes Wülk","url":"https://github.com/johnwuelk","avatarUrl":"https://avatars.githubusercontent.com/u/12553753?s=80&v=4","followers":3,"publicRepos":11,"location":"Providenciales","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":2,"repositories":0,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":4,"id":"MDQ6VXNlcjc2NzU5NjAy","login":"MJennings97","name":"Marvin Jennings","url":"https://github.com/MJennings97","avatarUrl":"https://avatars.githubusercontent.com/u/76759602?s=80&v=4","followers":1,"publicRepos":4,"location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "64b0e314b26317a8",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "cc83768af050ab96",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

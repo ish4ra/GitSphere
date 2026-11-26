@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/BA.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/BA.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,33 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/vladimir-cicovic"><img src="https://avatars.githubusercontent.com/u/10092723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vladimir-cicovic"><b>Vladimir Cicovic</b></a><br><sub>&#64;vladimir-cicovic · 176 followers</sub></td>
+<td align="right"><b>160</b></td>
+<td align="right">149</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/Toni-d-e-v"><img src="https://avatars.githubusercontent.com/u/62844491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Toni-d-e-v"><b>toni-dev</b></a><br><sub>&#64;Toni-d-e-v · 153 followers</sub></td>
+<td align="right"><b>158</b></td>
+<td align="right">142</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/Admer456"><img src="https://avatars.githubusercontent.com/u/49600504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Admer456"><b>Admer</b></a><br><sub>&#64;Admer456 · 194 followers</sub></td>
+<td align="right"><b>96</b></td>
+<td align="right">95</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/adnanrahic"><img src="https://avatars.githubusercontent.com/u/15029531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adnanrahic"><b>Adnan Rahić</b></a><br><sub>&#64;adnanrahic · 382 followers</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">47</td>
@@ -60,7 +87,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">8</td>
 <td><a href="https://github.com/ribice"><img src="https://avatars.githubusercontent.com/u/5403700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ribice"><b>Emir Ribić</b></a><br><sub>&#64;ribice · 221 followers</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">68</td>
@@ -69,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">9</td>
 <td><a href="https://github.com/adnanh"><img src="https://avatars.githubusercontent.com/u/82367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adnanh"><b>Adnan Hajdarević</b></a><br><sub>&#64;adnanh · 229 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">13</td>
@@ -78,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">10</td>
 <td><a href="https://github.com/BenjaminMahmic"><img src="https://avatars.githubusercontent.com/u/89051381?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BenjaminMahmic"><b>Benjamin Mahmić</b></a><br><sub>&#64;BenjaminMahmic · 460 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">9</td>
@@ -87,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">11</td>
 <td><a href="https://github.com/elvirbrk"><img src="https://avatars.githubusercontent.com/u/20227334?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elvirbrk"><b>Elvir Brkić</b></a><br><sub>&#64;elvirbrk · 82 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">11</td>
@@ -96,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">12</td>
 <td><a href="https://github.com/adnanademovic"><img src="https://avatars.githubusercontent.com/u/4988490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adnanademovic"><b>Adnan Ademovic</b></a><br><sub>&#64;adnanademovic · 50 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
@@ -105,7 +132,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">13</td>
 <td><a href="https://github.com/nenadg"><img src="https://avatars.githubusercontent.com/u/1519100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nenadg"><b>Nenad Golubovic</b></a><br><sub>&#64;nenadg · 135 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -114,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">14</td>
 <td><a href="https://github.com/TheAdnan"><img src="https://avatars.githubusercontent.com/u/7202517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheAdnan"><b>Adnan Kičin</b></a><br><sub>&#64;TheAdnan · 179 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -129,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 413 discovered developers (395 awaiting measurement).
+- **Measured:** 21 of 414 discovered developers (393 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 123 in round 1.

@@ -235,21 +235,21 @@
 <td align="right">31</td>
 <td><a href="https://github.com/ambrop72"><img src="https://avatars.githubusercontent.com/u/2626481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ambrop72"><b>Ambroz Bizjak</b></a><br><sub>&#64;ambrop72</sub></td>
 <td align="right"><b>172</b></td>
-<td align="right">0</td>
+<td align="right">21</td>
 <td><sub>Slovenia</sub></td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td><a href="https://github.com/proteansec"><img src="https://avatars.githubusercontent.com/u/1753498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/proteansec"><b>Protean Security</b></a><br><sub>&#64;proteansec</sub></td>
+<td><a href="https://github.com/refaktor"><img src="https://avatars.githubusercontent.com/u/1375005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/refaktor"><b>Refaktor</b></a><br><sub>&#64;refaktor</sub></td>
 <td align="right"><b>168</b></td>
-<td align="right">39</td>
+<td align="right">43</td>
 <td><sub>Slovenia</sub></td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><a href="https://github.com/refaktor"><img src="https://avatars.githubusercontent.com/u/1375005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/refaktor"><b>Refaktor</b></a><br><sub>&#64;refaktor</sub></td>
-<td align="right"><b>166</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/proteansec"><img src="https://avatars.githubusercontent.com/u/1753498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/proteansec"><b>Protean Security</b></a><br><sub>&#64;proteansec</sub></td>
+<td align="right"><b>168</b></td>
+<td align="right">39</td>
 <td><sub>Slovenia</sub></td>
 </tr>
 <tr>

@@ -5,7 +5,7 @@
 "country": {"code":"TG","name":"Togo","slug":"togo"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":38,"ownerExpansionBacklog":142,"candidates":38,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":37,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":38,"ownerExpansionBacklog":138,"candidates":38,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":37,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"moodle_odoo","nameWithOwner":"syk1k/moodle_odoo","url":"https://github.com/syk1k/moodle_odoo","description":null,"stars":2,"forks":8,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2018-02-08T11:16:53Z","pushedAt":"2018-08-03T09:13:57Z","archived":false,"owner":{"login":"syk1k","name":"Gounténi Dambé TCHIMBIANDJA","type":"User","url":"https://github.com/syk1k","location":"Lomé, TOGO","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Assistant-Intelligent-RAG","nameWithOwner":"josaphatstar/Assistant-Intelligent-RAG","url":"https://github.com/josaphatstar/Assistant-Intelligent-RAG","description":null,"stars":2,"forks":5,"primaryLanguage":"Python","license":null,"createdAt":"2026-07-13T19:49:09Z","pushedAt":"2026-07-13T20:22:36Z","archived":false,"owner":{"login":"josaphatstar","name":"Gracia-josaphat Ewazam TAGBA","type":"User","url":"https://github.com/josaphatstar","location":"Lome - Togo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -46,8 +46,8 @@
   {"rank":37,"id":null,"name":"primus","nameWithOwner":"HRNaudZ/primus","url":"https://github.com/HRNaudZ/primus","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2019-07-18T18:36:16Z","pushedAt":"2022-12-09T18:52:39Z","archived":false,"owner":{"login":"HRNaudZ","name":"WOANA Yao Renaud","type":"User","url":"https://github.com/HRNaudZ","location":"TOGO","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":38,"id":null,"name":"hermes-plugin-gen","nameWithOwner":"iruzen-dono/hermes-plugin-gen","url":"https://github.com/iruzen-dono/hermes-plugin-gen","description":null,"stars":2,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-06-22T14:16:35Z","pushedAt":"2026-07-12T10:51:38Z","archived":false,"owner":{"login":"iruzen-dono","name":"Zhou jules","type":"User","url":"https://github.com/iruzen-dono","location":"Lomé, Togo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "117dd354fdd80bbc",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "42a4984479dcfa26",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

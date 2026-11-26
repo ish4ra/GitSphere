@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **93** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/RS.json">JSON</a> |
 
 </div>
 
@@ -59,21 +59,21 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/milanm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milanm/DotNet-Developer-Roadmap"><b>milanm/DotNet-Developer-Roadmap</b></a><br><sub>The comprehensive .NET Developer Roadmap for 2026 by seniority level.</sub></td>
-<td align="right"><b>3,770</b></td>
+<td align="right"><b>3,771</b></td>
 <td align="right">441</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/pamburus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pamburus/hl"><b>pamburus/hl</b></a><br><sub>A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.</sub></td>
-<td align="right"><b>3,336</b></td>
+<td align="right"><b>3,342</b></td>
 <td align="right">70</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/slevithan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slevithan/xregexp"><b>slevithan/xregexp</b></a><br><sub>Extended JavaScript regular expressions</sub></td>
-<td align="right"><b>3,325</b></td>
+<td align="right"><b>3,324</b></td>
 <td align="right">274</td>
 <td>JavaScript</td>
 </tr>
@@ -81,27 +81,27 @@
 <td align="right">9</td>
 <td><img src="https://github.com/ClusterM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ClusterM/hakchi2"><b>ClusterM/hakchi2</b></a> <sub>archived</sub><br><sub>Tool that allows you to add more games to your NES/SNES Classic Mini. WARNING: hakchi2 is no longer supported. Please u…</sub></td>
 <td align="right"><b>2,925</b></td>
-<td align="right">483</td>
+<td align="right">482</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/orangehill.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orangehill/iseed"><b>orangehill/iseed</b></a><br><sub>Laravel Inverse Seed Generator</sub></td>
-<td align="right"><b>2,895</b></td>
+<td align="right"><b>2,894</b></td>
 <td align="right">386</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/s3rius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/s3rius/FastAPI-template"><b>s3rius/FastAPI-template</b></a><br><sub>Feature rich robust FastAPI template.</sub></td>
-<td align="right"><b>2,835</b></td>
-<td align="right">237</td>
+<td align="right"><b>2,836</b></td>
+<td align="right">238</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/gen2brain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gen2brain/raylib-go"><b>gen2brain/raylib-go</b></a><br><sub>Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming.</sub></td>
-<td align="right"><b>2,576</b></td>
+<td align="right"><b>2,579</b></td>
 <td align="right">211</td>
 <td>C</td>
 </tr>
@@ -672,15 +672,64 @@
 <td align="right">20</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/mudroljub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mudroljub/programming-quotes-api"><b>mudroljub/programming-quotes-api</b></a><br><sub>Programming Quotes API for open source projects.</sub></td>
+<td align="right"><b>506</b></td>
+<td align="right">71</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/volotat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/volotat/DiffMorph"><b>volotat/DiffMorph</b></a><br><sub>Image morphing without reference points by applying warp maps and optimizing over them.</sub></td>
+<td align="right"><b>485</b></td>
+<td align="right">54</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/M1z23R.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/M1z23R/ESP8266-EvilTwin"><b>M1z23R/ESP8266-EvilTwin</b></a><br><sub>ESP8266-Evil Twin with deauth capability</sub></td>
+<td align="right"><b>481</b></td>
+<td align="right">83</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/saxon1964.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saxon1964/neovim-tips"><b>saxon1964/neovim-tips</b></a><br><sub>Discover hundreds of Neovim tips, tricks, and shortcuts — and even add your own! You’ll also get a beautifully formatte…</sub></td>
+<td align="right"><b>475</b></td>
+<td align="right">14</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/Delt06.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Delt06/urp-toon-shader"><b>Delt06/urp-toon-shader</b></a><br><sub>🌔 Toon shader for Unity&#39;s Universal Render Pipeline.</sub></td>
+<td align="right"><b>474</b></td>
+<td align="right">44</td>
+<td>ShaderLab</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/soulthreads.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/soulthreads/imgui-plot"><b>soulthreads/imgui-plot</b></a> <sub>archived</sub><br><sub>An improved plot widget for Dear ImGui, aimed at displaying audio data</sub></td>
+<td align="right"><b>470</b></td>
+<td align="right">48</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/mrven.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrven/Blender-Texel-Density-Checker"><b>mrven/Blender-Texel-Density-Checker</b></a><br><sub>Blender Addon: Texel Density Checker</sub></td>
+<td align="right"><b>464</b></td>
+<td align="right">35</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 508 stars; 93 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 464 stars; 106 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -191,17 +191,17 @@
 </tr>
 <tr>
 <td align="right">25</td>
-<td><a href="https://github.com/Tusneld"><img src="https://avatars.githubusercontent.com/u/109280117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tusneld"><b>Tusnelde Endjala</b></a><br><sub>&#64;Tusneld</sub></td>
-<td align="right"><b>22</b></td>
-<td align="right">107</td>
-<td><sub>Namibia</sub></td>
-</tr>
-<tr>
-<td align="right">26</td>
 <td><a href="https://github.com/rtonata88"><img src="https://avatars.githubusercontent.com/u/18032597?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rtonata88"><b>Richard Chambula</b></a><br><sub>&#64;rtonata88</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">46</td>
 <td><sub>Windhoek, Namibia</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/Tusneld"><img src="https://avatars.githubusercontent.com/u/109280117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tusneld"><b>Tusnelde Endjala</b></a><br><sub>&#64;Tusneld</sub></td>
+<td align="right"><b>21</b></td>
+<td align="right">108</td>
+<td><sub>Namibia</sub></td>
 </tr>
 <tr>
 <td align="right">27</td>

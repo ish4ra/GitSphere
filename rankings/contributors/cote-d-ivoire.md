@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 23 Nov 2026 | <a href="../../data/contributors/CI.json">JSON</a> |
+| 🟡 Provisional | **14** | 23 Nov 2026 | <a href="../../data/contributors/CI.json">JSON</a> |
 
 </div>
 
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/a-little-srdjan"><img src="https://avatars.githubusercontent.com/u/7049074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a-little-srdjan"><b>Srdjan Marinovic</b></a><br><sub>&#64;a-little-srdjan · 20 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">9</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/18serge45"><img src="https://avatars.githubusercontent.com/u/282552671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/18serge45"><b>L&#39;empereur18🧑💻🥷</b></a><br><sub>&#64;18serge45 · 0 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/201RichK"><img src="https://avatars.githubusercontent.com/u/44883539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/201RichK"><b>Amos Pascal Amos</b></a><br><sub>&#64;201RichK · 19 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
@@ -114,10 +123,28 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
+<td><a href="https://github.com/finlandhl"><img src="https://avatars.githubusercontent.com/u/38927449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/finlandhl"><b>Finland L.</b></a><br><sub>&#64;finlandhl · 61 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/2ok-k"><img src="https://avatars.githubusercontent.com/u/52870159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2ok-k"><b>Oumar Kouassi</b></a><br><sub>&#64;2ok-k · 14 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/angebagui"><img src="https://avatars.githubusercontent.com/u/5214752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angebagui"><b>Ange Bagui</b></a><br><sub>&#64;angebagui · 67 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -129,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 402 discovered developers (384 awaiting measurement).
+- **Measured:** 21 of 404 discovered developers (383 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 151 in round 1.

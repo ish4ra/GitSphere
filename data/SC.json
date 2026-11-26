@@ -5,7 +5,7 @@
 "country": {"code":"SC","name":"Seychelles","slug":"seychelles"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":146,"candidates":131,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":39,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":145,"candidates":131,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":39,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMTU1MjA5NQ==","name":"api-connectors","nameWithOwner":"BitMEX/api-connectors","url":"https://github.com/BitMEX/api-connectors","description":"Libraries for connecting to the BitMEX API.","stars":906,"forks":773,"primaryLanguage":"C++","license":null,"createdAt":"2014-07-07T01:07:10Z","pushedAt":"2024-05-29T01:29:07Z","archived":false,"owner":{"login":"BitMEX","name":"BitMEX: Bitcoin Mercantile Exchange","type":"Organization","url":"https://github.com/BitMEX","location":"Mahé, Seychelles","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":null,"name":"go-backend-boilerplate","nameWithOwner":"Azahir21/go-backend-boilerplate","url":"https://github.com/Azahir21/go-backend-boilerplate","description":null,"stars":2,"forks":2,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2025-07-10T02:33:35Z","pushedAt":"2026-01-18T12:46:28Z","archived":false,"owner":{"login":"Azahir21","name":"Kei","type":"User","url":"https://github.com/Azahir21","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"objektiveproof.github.io","nameWithOwner":"objektiveproof/objektiveproof.github.io","url":"https://github.com/objektiveproof/objektiveproof.github.io","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2021-07-11T08:24:01Z","pushedAt":"2022-05-15T09:20:43Z","archived":false,"owner":{"login":"objektiveproof","name":"Objektive Proof","type":"Organization","url":"https://github.com/objektiveproof","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"slides-for-young-innovators-challenge","nameWithOwner":"ocean-ai-seychelles/slides-for-young-innovators-challenge","url":"https://github.com/ocean-ai-seychelles/slides-for-young-innovators-challenge","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-04T14:12:00Z","pushedAt":"2026-09-04T14:14:14Z","archived":false,"owner":{"login":"ocean-ai-seychelles","name":"OCEAN AI","type":"Organization","url":"https://github.com/ocean-ai-seychelles","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "20592712026ffe05",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "abcfafff814593a2",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"KI","name":"Kiribati","slug":"kiribati"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":23,"ownerExpansionBacklog":28,"candidates":23,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":30,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":23,"ownerExpansionBacklog":28,"candidates":23,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":30,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"MY-PORTFOLIO","nameWithOwner":"bekarakaranabutae-oss/MY-PORTFOLIO","url":"https://github.com/bekarakaranabutae-oss/MY-PORTFOLIO","description":null,"stars":1,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2025-12-20T10:47:09Z","pushedAt":"2026-07-11T11:53:10Z","archived":false,"owner":{"login":"bekarakaranabutae-oss","name":"KEVIN TAAKE","type":"User","url":"https://github.com/bekarakaranabutae-oss","location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"wdd230","nameWithOwner":"abonteman/wdd230","url":"https://github.com/abonteman/wdd230","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2022-09-11T00:51:10Z","pushedAt":"2022-09-24T04:12:18Z","archived":false,"owner":{"login":"abonteman","name":"abonteman","type":"User","url":"https://github.com/abonteman","location":"Tabwakea, Kiritimati","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -31,8 +31,8 @@
   {"rank":22,"id":null,"name":"zsh-setup","nameWithOwner":"wreiher/zsh-setup","url":"https://github.com/wreiher/zsh-setup","description":null,"stars":0,"forks":0,"primaryLanguage":"Shell","license":null,"createdAt":"2023-04-05T22:06:24Z","pushedAt":"2025-10-10T23:50:08Z","archived":false,"owner":{"login":"wreiher","name":"Wayne Reiher","type":"User","url":"https://github.com/wreiher","location":"Bairiki, Tarawa, Kiribati","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":23,"id":null,"name":"UnicaScr","nameWithOwner":"XxFulecoxX/UnicaScr","url":"https://github.com/XxFulecoxX/UnicaScr","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-10-03T18:25:56Z","pushedAt":"2026-10-03T18:27:28Z","archived":false,"owner":{"login":"XxFulecoxX","name":"Fuleco","type":"User","url":"https://github.com/XxFulecoxX","location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "92f4c65af087a87c",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "9baa02852b893934",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

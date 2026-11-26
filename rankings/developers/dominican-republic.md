@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
+| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
 
 </div>
 
@@ -135,23 +135,30 @@
 </tr>
 <tr>
 <td align="right">17</td>
+<td><a href="https://github.com/robertlluberes"><img src="https://avatars.githubusercontent.com/u/13991439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robertlluberes"><b>Robert Lluberes</b></a><br><sub>&#64;robertlluberes</sub></td>
+<td align="right"><b>163</b></td>
+<td align="right">42</td>
+<td><sub>Dominican Republic</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/adonismendozaperez"><img src="https://avatars.githubusercontent.com/u/15876642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adonismendozaperez"><b>Adonis Mendoza</b></a><br><sub>&#64;adonismendozaperez</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">10</td>
 <td><sub>Dominican Republic</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/javisperez"><img src="https://avatars.githubusercontent.com/u/4766570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javisperez"><b>Javis V. Pérez</b></a><br><sub>&#64;javisperez</sub></td>
 <td align="right"><b>98</b></td>
-<td align="right">0</td>
+<td align="right">58</td>
 <td><sub>Dominican Republic</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/xhit"><img src="https://avatars.githubusercontent.com/u/51337247?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xhit"><b>Santiago De la Cruz</b></a><br><sub>&#64;xhit</sub></td>
 <td align="right"><b>37</b></td>
-<td align="right">0</td>
+<td align="right">35</td>
 <td><sub>Dominican Republic</sub></td>
 </tr>
 </tbody>
@@ -162,7 +169,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 19 attributed developers are tracked; the cutoff is 37 followers.
+- Organizations are excluded. 20 attributed developers are tracked; the cutoff is 37 followers.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

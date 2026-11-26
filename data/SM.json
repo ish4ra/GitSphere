@@ -5,7 +5,7 @@
 "country": {"code":"SM","name":"San Marino","slug":"san-marino"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":83,"ownerExpansionBacklog":100,"candidates":83,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":83,"ownerExpansionBacklog":98,"candidates":83,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":21,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ZS-SBSR","nameWithOwner":"GBerardi/ZS-SBSR","url":"https://github.com/GBerardi/ZS-SBSR","description":null,"stars":2,"forks":1,"primaryLanguage":null,"license":null,"createdAt":"2023-08-08T15:19:06Z","pushedAt":"2023-08-08T17:48:43Z","archived":false,"owner":{"login":"GBerardi","name":"Gianluca","type":"User","url":"https://github.com/GBerardi","location":"Milan / San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Creating-apps-Public","nameWithOwner":"Restoncomic/Creating-apps-Public","url":"https://github.com/Restoncomic/Creating-apps-Public","description":null,"stars":2,"forks":1,"primaryLanguage":null,"license":null,"createdAt":"2023-06-26T20:21:28Z","pushedAt":"2023-06-26T20:21:28Z","archived":false,"owner":{"login":"Restoncomic","name":"Max","type":"User","url":"https://github.com/Restoncomic","location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
@@ -91,8 +91,8 @@
   {"rank":82,"id":null,"name":"buyerportal","nameWithOwner":"VisualTechnologies/buyerportal","url":"https://github.com/VisualTechnologies/buyerportal","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2016-03-26T16:54:23Z","pushedAt":"2016-05-03T05:33:56Z","archived":false,"owner":{"login":"VisualTechnologies","name":"VisualTechnologies","type":"Organization","url":"https://github.com/VisualTechnologies","location":"2360 Huntington Dr, San Marino, CA 91108","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
   {"rank":83,"id":null,"name":"XiangxiangLi-Website","nameWithOwner":"Xiangxiang-Li/XiangxiangLi-Website","url":"https://github.com/Xiangxiang-Li/XiangxiangLi-Website","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2020-11-14T03:19:54Z","pushedAt":"2020-11-14T03:57:57Z","archived":false,"owner":{"login":"Xiangxiang-Li","name":"Xiangxiang Li","type":"User","url":"https://github.com/Xiangxiang-Li","location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true}
 ],
-"contentHash": "7bf1675d20cc897e",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "294892406256c821",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-10-30",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

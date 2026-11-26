@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/ID.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/ID.json">JSON</a> |
 
 </div>
 
@@ -122,8 +122,8 @@
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/ericc-ch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ericc-ch/copilot-api"><b>ericc-ch/copilot-api</b></a><br><sub>Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!</sub></td>
-<td align="right"><b>4,153</b></td>
-<td align="right">676</td>
+<td align="right"><b>4,155</b></td>
+<td align="right">675</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -136,8 +136,8 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/anggrayudi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anggrayudi/android-hidden-api"><b>anggrayudi/android-hidden-api</b></a><br><sub>A library that provides access to Android hidden APIs and internal resources.</sub></td>
-<td align="right"><b>3,623</b></td>
-<td align="right">648</td>
+<td align="right"><b>3,624</b></td>
+<td align="right">647</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -150,23 +150,23 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/fians.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fians/Waves"><b>fians/Waves</b></a><br><sub>Click effect inspired by Google&#39;s Material Design</sub></td>
-<td align="right"><b>3,454</b></td>
+<td align="right"><b>3,453</b></td>
 <td align="right">482</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">20</td>
-<td><img src="https://github.com/theodorusclarence.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/theodorusclarence/ts-nextjs-tailwind-starter"><b>theodorusclarence/ts-nextjs-tailwind-starter</b></a><br><sub>🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features</sub></td>
-<td align="right"><b>3,402</b></td>
-<td align="right">607</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/tegal1337.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tegal1337/CiLocks"><b>tegal1337/CiLocks</b></a><br><sub>Crack Interface lockscreen, Metasploit and More Android/IOS Hacking</sub></td>
+<td align="right"><b>3,411</b></td>
+<td align="right">625</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td><img src="https://github.com/tegal1337.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tegal1337/CiLocks"><b>tegal1337/CiLocks</b></a><br><sub>Crack Interface lockscreen, Metasploit and More Android/IOS Hacking</sub></td>
+<td><img src="https://github.com/theodorusclarence.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/theodorusclarence/ts-nextjs-tailwind-starter"><b>theodorusclarence/ts-nextjs-tailwind-starter</b></a><br><sub>🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features</sub></td>
 <td align="right"><b>3,400</b></td>
-<td align="right">619</td>
-<td>HTML</td>
+<td align="right">607</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
@@ -185,50 +185,50 @@
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/zuramai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zuramai/mazer"><b>zuramai/mazer</b></a><br><sub>Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page</sub></td>
-<td align="right"><b>3,106</b></td>
-<td align="right">925</td>
+<td align="right"><b>3,108</b></td>
+<td align="right">924</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/teler-sh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/teler-sh/teler"><b>teler-sh/teler</b></a> <sub>archived</sub><br><sub>Real-time HTTP Intrusion Detection</sub></td>
-<td align="right"><b>3,078</b></td>
+<td align="right"><b>3,080</b></td>
 <td align="right">250</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/bangtutorial.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bangtutorial/bang-motion"><b>bangtutorial/bang-motion</b></a><br><sub>Agent skill for browser motion graphics — openers, promos, bumpers, kinetic typography, and five explainer styles that…</sub></td>
-<td align="right"><b>2,929</b></td>
-<td align="right">343</td>
+<td align="right"><b>3,052</b></td>
+<td align="right">356</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/mubeng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mubeng/mubeng"><b>mubeng/mubeng</b></a><br><sub>An incredibly fast proxy checker &amp; IP rotator with ease.</sub></td>
-<td align="right"><b>2,809</b></td>
+<td align="right"><b>2,810</b></td>
 <td align="right">281</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/novalagung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/novalagung/dasarpemrogramangolang"><b>novalagung/dasarpemrogramangolang</b></a><br><sub>📖 Source Code Website/Ebook Dasar Pemrograman Golang</sub></td>
-<td align="right"><b>2,652</b></td>
+<td align="right"><b>2,655</b></td>
 <td align="right">420</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/subosito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/subosito/flutter-action"><b>subosito/flutter-action</b></a><br><sub>Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.</sub></td>
-<td align="right"><b>2,623</b></td>
-<td align="right">273</td>
+<td align="right"><b>2,622</b></td>
+<td align="right">274</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/zakirkun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zakirkun/deep-eye"><b>zakirkun/deep-eye</b></a><br><sub>Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM,…</sub></td>
-<td align="right"><b>2,377</b></td>
-<td align="right">423</td>
+<td align="right"><b>2,601</b></td>
+<td align="right">475</td>
 <td>Python</td>
 </tr>
 <tr>

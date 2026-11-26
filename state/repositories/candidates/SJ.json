@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SJ","name":"Svalbard & Jan Mayen","slug":"svalbard-jan-mayen"},
-"count": 24,
+"count": 25,
 "repositories": [
+  {"id":"R_kgDOHduiMA","name":"PrinsFrank/standards","stars":489,"forks":17,"language":"PHP","license":"MIT","description":"A collection of standards as PHP Enums: ISO3166, ISO4217, ISO639...","archived":false,"createdAt":"2022-06-07T17:07:27Z","pushedAt":"2026-11-24T11:37:37Z","owner":{"id":"MDQ6VXNlcjI1MDA2NDkw","login":"PrinsFrank","type":"User","location":"Haarlem, Netherlands & Longyearbyen, Svalbard"},"attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-25T23:41:00.356Z","verifiedAt":"2026-11-25T23:41:00.356Z","cycle":1},
   {"name":"slipeer/synapse-ldap-password-provider","stars":2,"forks":2,"language":"Python","license":"Apache-2.0","archived":false,"createdAt":"2017-05-31T10:54:07Z","pushedAt":"2018-05-17T11:53:22Z","owner":{"login":"slipeer","type":"User","name":"Pavel","location":"Barentsburg, Svalbard og Jan Mayen"},"attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:07:29.866Z","id":"legacy:slipeer/synapse-ldap-password-provider","legacy":true},
   {"name":"ThawingLYR/monitoring-portal","stars":2,"forks":1,"language":"Python","license":"EUPL-1.2","archived":false,"createdAt":"2026-05-05T09:58:51Z","pushedAt":"2026-10-05T12:35:30Z","owner":{"login":"ThawingLYR","type":"Organization","name":"UNIS - ThawingLYR","location":"Svalbard and Jan Mayen Islands"},"attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T18:07:29.866Z","id":"legacy:thawinglyr/monitoring-portal","legacy":true},
   {"name":"Alathra/AlathraHorseCombat","stars":1,"forks":0,"language":"Java","license":"MIT-0","archived":false,"createdAt":"2025-05-30T07:14:05Z","pushedAt":"2025-10-28T08:23:53Z","owner":{"login":"Alathra","type":"Organization","name":"Alathra","location":"Svalbard and Jan Mayen Islands"},"attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T18:07:29.866Z","id":"legacy:alathra/alathrahorsecombat","legacy":true},

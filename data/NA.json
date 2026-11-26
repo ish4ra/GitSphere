@@ -5,7 +5,7 @@
 "country": {"code":"NA","name":"Namibia","slug":"namibia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":143,"candidates":111,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":91,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":139,"candidates":111,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":91,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk1NTczMzgyNg==","name":"ebook","nameWithOwner":"dolotech/ebook","url":"https://github.com/dolotech/ebook","description":"学习资料","stars":2096,"forks":743,"primaryLanguage":"Vim Script","license":null,"createdAt":"2016-04-07T23:03:04Z","pushedAt":"2021-12-02T03:11:16Z","archived":false,"owner":{"login":"dolotech","name":"photo","type":"User","url":"https://github.com/dolotech","location":"photo","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":null,"name":"Int-Git-GitHub-Ops","nameWithOwner":"Zunda-Group/Int-Git-GitHub-Ops","url":"https://github.com/Zunda-Group/Int-Git-GitHub-Ops","description":null,"stars":2,"forks":9,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2024-07-25T08:48:23Z","pushedAt":"2024-08-02T07:08:02Z","archived":false,"owner":{"login":"Zunda-Group","name":"ZUNDA TECHNICAL COLLAGE","type":"Organization","url":"https://github.com/Zunda-Group","location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"pan-demo-proposal","nameWithOwner":"Kacelo/pan-demo-proposal","url":"https://github.com/Kacelo/pan-demo-proposal","description":null,"stars":1,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2024-07-16T08:10:13Z","pushedAt":"2024-07-16T14:53:44Z","archived":false,"owner":{"login":"Kacelo","name":"Vernon Kacelo","type":"User","url":"https://github.com/Kacelo","location":"Windhoek, Namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Drasin-Online-Shop","nameWithOwner":"Kagwedha/Drasin-Online-Shop","url":"https://github.com/Kagwedha/Drasin-Online-Shop","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2022-06-27T16:57:56Z","pushedAt":"2022-07-07T21:50:42Z","archived":false,"owner":{"login":"Kagwedha","name":"Helena Shikongo","type":"User","url":"https://github.com/Kagwedha","location":"Windhoek, Namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "e710a8e62d4382dc",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "c00739994d458456",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

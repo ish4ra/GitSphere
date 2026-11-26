@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/GA.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/GA.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,24 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/kenkleven"><img src="https://avatars.githubusercontent.com/u/98874041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenkleven"><b>ken kleven</b></a><br><sub>&#64;kenkleven · 4 followers</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">16</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/audreymengue"><img src="https://avatars.githubusercontent.com/u/51542962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/audreymengue"><b>Audrey Mengue</b></a><br><sub>&#64;audreymengue · 48 followers</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">20</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/El-GeorgesW"><img src="https://avatars.githubusercontent.com/u/35881726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/El-GeorgesW"><b>El Georges William</b></a><br><sub>&#64;El-GeorgesW · 34 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">2</td>
@@ -123,7 +141,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
+<td><a href="https://github.com/bangaromaric"><img src="https://avatars.githubusercontent.com/u/16958951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bangaromaric"><b>BANGA</b></a><br><sub>&#64;bangaromaric · 28 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/stoneC0der"><img src="https://avatars.githubusercontent.com/u/11365636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stoneC0der"><b>Cedric Megnie N.</b></a><br><sub>&#64;stoneC0der · 33 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -138,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 359 discovered developers (345 awaiting measurement).
+- **Measured:** 17 of 359 discovered developers (342 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 45 in round 1.

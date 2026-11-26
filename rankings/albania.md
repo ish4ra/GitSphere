@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 23 Nov 2026 | <a href="../data/AL.json">JSON</a> |
+| 🟡 Provisional | **11** | 23 Nov 2026 | <a href="../data/AL.json">JSON</a> |
 
 </div>
 
@@ -91,6 +91,13 @@
 <td align="right">60</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/james-see.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/james-see/ltx-video-mac"><b>james-see/ltx-video-mac</b></a><br><sub>Native macOS app for local AI video on Apple Silicon — LTX-2, LTX-2.3, LTX-2.5, and MiniMax H3</sub></td>
+<td align="right"><b>463</b></td>
+<td align="right">60</td>
+<td>Swift</td>
+</tr>
 </tbody>
 </table>
 
@@ -99,8 +106,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 514 stars; 10 attributed candidates are tracked.
-- 134 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 463 stars; 11 attributed candidates are tracked.
+- 129 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

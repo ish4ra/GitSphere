@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/TH.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/TH.json">JSON</a> |
 
 </div>
 
@@ -87,14 +87,14 @@
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/waf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/waf/CSharpRepl"><b>waf/CSharpRepl</b></a><br><sub>A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.</sub></td>
-<td align="right"><b>3,365</b></td>
-<td align="right">125</td>
+<td align="right"><b>3,366</b></td>
+<td align="right">124</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/plugin87.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/plugin87/ux-ui-agent-skills"><b>plugin87/ux-ui-agent-skills</b></a><br><sub>Design-system skills for Claude Code, Codex, Cursor, Copilot and Gemini CLI: DTCG tokens, WCAG 2.2 AA to AAA, 2,144 des…</sub></td>
-<td align="right"><b>3,217</b></td>
+<td align="right"><b>3,236</b></td>
 <td align="right">312</td>
 <td>JavaScript</td>
 </tr>
@@ -115,15 +115,15 @@
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/worawit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/worawit/blutter"><b>worawit/blutter</b></a><br><sub>Flutter Mobile Application Reverse Engineering Tool</sub></td>
-<td align="right"><b>2,831</b></td>
-<td align="right">401</td>
+<td align="right"><b>2,840</b></td>
+<td align="right">404</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/insthync.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/insthync/awesome-unity3d"><b>insthync/awesome-unity3d</b></a><br><sub>A categorized collection of awesome opensource unity3d repos</sub></td>
 <td align="right"><b>2,755</b></td>
-<td align="right">289</td>
+<td align="right">290</td>
 <td>—</td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/IlyaRice.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IlyaRice/RAG-Challenge-2"><b>IlyaRice/RAG-Challenge-2</b></a><br><sub>Implementation of my RAG system that won all categories in Enterprise RAG Challenge 2</sub></td>
-<td align="right"><b>2,473</b></td>
+<td align="right"><b>2,472</b></td>
 <td align="right">496</td>
 <td>Python</td>
 </tr>
@@ -164,15 +164,15 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/kittinan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kittinan/spotify-github-profile"><b>kittinan/spotify-github-profile</b></a><br><sub>Show your Spotify playing on your Github profile</sub></td>
-<td align="right"><b>2,283</b></td>
-<td align="right">893</td>
+<td align="right"><b>2,287</b></td>
+<td align="right">892</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/worawit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/worawit/MS17-010"><b>worawit/MS17-010</b></a><br><sub>MS17-010</sub></td>
-<td align="right"><b>2,261</b></td>
-<td align="right">1,070</td>
+<td align="right"><b>2,262</b></td>
+<td align="right">1,071</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 540 stars; 128 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 540 stars; 137 attributed candidates are tracked.
 - 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

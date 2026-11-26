@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **55** | 22 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟡 Provisional | **66** | 23 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -94,15 +94,15 @@
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/TrustTunnel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TrustTunnel/TrustTunnel"><b>TrustTunnel/TrustTunnel</b></a><br><sub>Modern, fast and obfuscated VPN protocol</sub></td>
-<td align="right"><b>3,604</b></td>
-<td align="right">257</td>
+<td align="right"><b>3,612</b></td>
+<td align="right">256</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/dnsproxy"><b>AdguardTeam/dnsproxy</b></a><br><sub>Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support</sub></td>
-<td align="right"><b>3,409</b></td>
-<td align="right">350</td>
+<td align="right"><b>3,414</b></td>
+<td align="right">352</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -406,6 +406,83 @@
 <td align="right">37</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/mavris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mavris/MMLanScan"><b>mavris/MMLanScan</b></a><br><sub>An iOS LAN Network Scanner library</sub></td>
+<td align="right"><b>501</b></td>
+<td align="right">124</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/tony2001.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tony2001/pinba_engine"><b>tony2001/pinba&#95;engine</b></a><br><sub>Pinba - MySQL plugin and storage engine</sub></td>
+<td align="right"><b>480</b></td>
+<td align="right">51</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/5andr0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/5andr0/PogoLocationFeeder"><b>5andr0/PogoLocationFeeder</b></a><br><sub>Json feed of pokemon location data</sub></td>
+<td align="right"><b>478</b></td>
+<td align="right">158</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/PopupBlocker"><b>AdguardTeam/PopupBlocker</b></a><br><sub>Popup blocking userscript</sub></td>
+<td align="right"><b>473</b></td>
+<td align="right">42</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/vladimir-kotikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vladimir-kotikov/clink-completions"><b>vladimir-kotikov/clink-completions</b></a><br><sub>Completion files to clink util</sub></td>
+<td align="right"><b>470</b></td>
+<td align="right">95</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/v4rl-ucy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/v4rl-ucy/covins"><b>v4rl-ucy/covins</b></a><br><sub>COVINS-(G) -- A (Generic) Framework for Collaborative Visual-Inertial SLAM and Multi-Agent 3D Mapping</sub></td>
+<td align="right"><b>465</b></td>
+<td align="right">72</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/alexanderskulikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexanderskulikov/discrete-math-python-scripts"><b>alexanderskulikov/discrete-math-python-scripts</b></a><br><sub>Python code snippets from Discrete Mathematics for Computer Science specialization at Coursera</sub></td>
+<td align="right"><b>463</b></td>
+<td align="right">174</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/lisachenko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lisachenko/z-engine"><b>lisachenko/z-engine</b></a><br><sub>:zap: PHP Engine Direct API</sub></td>
+<td align="right"><b>463</b></td>
+<td align="right">24</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/alekseylovchikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alekseylovchikov/ch-download"><b>alekseylovchikov/ch-download</b></a><br><sub>Download videos (course) from coursehunter.net</sub></td>
+<td align="right"><b>461</b></td>
+<td align="right">109</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/blackhatethicalhacking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blackhatethicalhacking/DDoSlayer"><b>blackhatethicalhacking/DDoSlayer</b></a><br><sub>An Advanced Layer 7 DDoS tool, Able to bypass CF and offers various DoS Techniques</sub></td>
+<td align="right"><b>461</b></td>
+<td align="right">101</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/Xiaohan-Chen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Xiaohan-Chen/bear_fault_diagnosis"><b>Xiaohan-Chen/bear&#95;fault&#95;diagnosis</b></a><br><sub>Bearing fault diagnosis model based on MCNN-LSTM</sub></td>
+<td align="right"><b>452</b></td>
+<td align="right">53</td>
+<td>Jupyter Notebook</td>
+</tr>
 </tbody>
 </table>
 
@@ -414,8 +491,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 508 stars; 55 attributed candidates are tracked.
-- 99 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 452 stars; 66 attributed candidates are tracked.
+- 95 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

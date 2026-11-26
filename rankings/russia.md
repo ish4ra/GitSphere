@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/RU.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/RU.json">JSON</a> |
 
 </div>
 
@@ -199,36 +199,36 @@
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/constverum.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/constverum/ProxyBroker"><b>constverum/ProxyBroker</b></a><br><sub>Proxy &#91;Finder &#124; Checker &#124; Server&#93;. HTTP(S) &amp; SOCKS :performing&#95;arts:</sub></td>
-<td align="right"><b>4,176</b></td>
+<td align="right"><b>4,177</b></td>
 <td align="right">1,179</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/esokolov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/esokolov/ml-course-hse"><b>esokolov/ml-course-hse</b></a><br><sub>Машинное обучение на ФКН ВШЭ</sub></td>
-<td align="right"><b>4,038</b></td>
-<td align="right">1,262</td>
+<td align="right"><b>4,042</b></td>
+<td align="right">1,260</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/lazychaser.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lazychaser/laravel-nestedset"><b>lazychaser/laravel-nestedset</b></a><br><sub>Effective tree structures in Laravel 4-8</sub></td>
-<td align="right"><b>3,802</b></td>
+<td align="right"><b>3,801</b></td>
 <td align="right">475</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/yandex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yandex/YaLM-100B"><b>yandex/YaLM-100B</b></a><br><sub>Pretrained language model with 100B parameters</sub></td>
-<td align="right"><b>3,755</b></td>
+<td align="right"><b>3,753</b></td>
 <td align="right">288</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/yandex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yandex/odyssey"><b>yandex/odyssey</b></a><br><sub>Scalable PostgreSQL connection manager</sub></td>
-<td align="right"><b>3,641</b></td>
-<td align="right">224</td>
+<td align="right"><b>3,643</b></td>
+<td align="right">223</td>
 <td>C</td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/mailru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mailru/FileAPI"><b>mailru/FileAPI</b></a><br><sub>FileAPI — a set of javascript tools for working with files. Multiupload, drag&#39;n&#39;drop and chunked file upload. Images: c…</sub></td>
-<td align="right"><b>3,544</b></td>
+<td align="right"><b>3,543</b></td>
 <td align="right">448</td>
 <td>JavaScript</td>
 </tr>
@@ -255,7 +255,7 @@
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/yandex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yandex/perforator"><b>yandex/perforator</b></a><br><sub>Perforator is a cluster-wide continuous profiling tool designed for large data centers</sub></td>
-<td align="right"><b>3,436</b></td>
+<td align="right"><b>3,435</b></td>
 <td align="right">158</td>
 <td>C++</td>
 </tr>
@@ -269,36 +269,36 @@
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/AlexanderPro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexanderPro/SmartSystemMenu"><b>AlexanderPro/SmartSystemMenu</b></a><br><sub>SmartSystemMenu extends system menu of all windows in the system</sub></td>
-<td align="right"><b>3,360</b></td>
-<td align="right">175</td>
+<td align="right"><b>3,365</b></td>
+<td align="right">176</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/InoriRus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/InoriRus/Kyty"><b>InoriRus/Kyty</b></a><br><sub>PS4 &amp; PS5 emulator</sub></td>
-<td align="right"><b>3,286</b></td>
-<td align="right">201</td>
+<td align="right"><b>3,291</b></td>
+<td align="right">203</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/catamphetamine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/catamphetamine/libphonenumber-js"><b>catamphetamine/libphonenumber-js</b></a><br><sub>A simpler (and smaller) rewrite of Google Android&#39;s libphonenumber library in javascript</sub></td>
-<td align="right"><b>3,003</b></td>
+<td align="right"><b>3,005</b></td>
 <td align="right">211</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/alexbatalov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexbatalov/fallout1-ce"><b>alexbatalov/fallout1-ce</b></a><br><sub>Fallout for modern operating systems</sub></td>
-<td align="right"><b>2,997</b></td>
-<td align="right">259</td>
+<td align="right"><b>2,998</b></td>
+<td align="right">260</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/t1m0n.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/t1m0n/air-datepicker"><b>t1m0n/air-datepicker</b></a><br><sub>Lightweight, dependency-free JavaScript datepicker.</sub></td>
 <td align="right"><b>2,871</b></td>
-<td align="right">1,352</td>
+<td align="right">1,351</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -311,35 +311,35 @@
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/mrmlnc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrmlnc/fast-glob"><b>mrmlnc/fast-glob</b></a><br><sub>:rocket: It&#39;s a very fast and efficient glob library for Node.js</sub></td>
-<td align="right"><b>2,832</b></td>
-<td align="right">155</td>
+<td align="right"><b>2,831</b></td>
+<td align="right">156</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/Entware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Entware/Entware"><b>Entware/Entware</b></a><br><sub>Ultimate repo for embedded devices</sub></td>
-<td align="right"><b>2,809</b></td>
+<td align="right"><b>2,812</b></td>
 <td align="right">185</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/khizmax.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khizmax/libcds"><b>khizmax/libcds</b></a><br><sub>A C++ library of Concurrent Data Structures</sub></td>
-<td align="right"><b>2,749</b></td>
-<td align="right">365</td>
+<td align="right"><b>2,750</b></td>
+<td align="right">366</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/sergree.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sergree/matchering"><b>sergree/matchering</b></a><br><sub>🎚️ Open Source Audio Matching and Mastering</sub></td>
-<td align="right"><b>2,727</b></td>
-<td align="right">305</td>
+<td align="right"><b>2,741</b></td>
+<td align="right">309</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/maypok86.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maypok86/otter"><b>maypok86/otter</b></a><br><sub>A high performance caching library for Go</sub></td>
-<td align="right"><b>2,712</b></td>
+<td align="right"><b>2,711</b></td>
 <td align="right">74</td>
 <td>Go</td>
 </tr>
@@ -353,7 +353,7 @@
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/tg-bomze.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tg-bomze/Face-Depixelizer"><b>tg-bomze/Face-Depixelizer</b></a><br><sub>Face Depixelizer based on &quot;PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models&quot; r…</sub></td>
-<td align="right"><b>2,567</b></td>
+<td align="right"><b>2,568</b></td>
 <td align="right">292</td>
 <td>Jupyter Notebook</td>
 </tr>
@@ -367,15 +367,15 @@
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/yeriomin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yeriomin/YalpStore"><b>yeriomin/YalpStore</b></a><br><sub>Download apks from Google Play Store</sub></td>
-<td align="right"><b>2,560</b></td>
+<td align="right"><b>2,562</b></td>
 <td align="right">268</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/alexbatalov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexbatalov/fallout2-ce"><b>alexbatalov/fallout2-ce</b></a><br><sub>Fallout 2 for modern operating systems</sub></td>
-<td align="right"><b>2,522</b></td>
-<td align="right">262</td>
+<td align="right"><b>2,524</b></td>
+<td align="right">263</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -388,21 +388,21 @@
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/VadimBoev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VadimBoev/FlappyBird"><b>VadimBoev/FlappyBird</b></a><br><sub>Less than 100 Kilobytes. Works for Android 5.0 and above</sub></td>
-<td align="right"><b>2,445</b></td>
+<td align="right"><b>2,448</b></td>
 <td align="right">156</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/Smorodov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Smorodov/Multitarget-tracker"><b>Smorodov/Multitarget-tracker</b></a><br><sub>Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter.</sub></td>
-<td align="right"><b>2,429</b></td>
+<td align="right"><b>2,430</b></td>
 <td align="right">672</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/anticensority.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anticensority/runet-censorship-bypass"><b>anticensority/runet-censorship-bypass</b></a><br><sub>Web-extension for bypassing censorship in Russia</sub></td>
-<td align="right"><b>2,428</b></td>
+<td align="right"><b>2,429</b></td>
 <td align="right">77</td>
 <td>JavaScript</td>
 </tr>
@@ -410,20 +410,20 @@
 <td align="right">56</td>
 <td><img src="https://github.com/ktaranov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ktaranov/sqlserver-kit"><b>ktaranov/sqlserver-kit</b></a><br><sub>Useful links, scripts, tools and best practice for Microsoft SQL Server Database</sub></td>
 <td align="right"><b>2,411</b></td>
-<td align="right">725</td>
+<td align="right">724</td>
 <td>TSQL</td>
 </tr>
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/antiden.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/antiden/macOS-cursors-for-Windows"><b>antiden/macOS-cursors-for-Windows</b></a><br><sub>Tested in Windows 10 &amp; 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!</sub></td>
-<td align="right"><b>2,395</b></td>
+<td align="right"><b>2,396</b></td>
 <td align="right">300</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/yse.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yse/easy_profiler"><b>yse/easy&#95;profiler</b></a><br><sub>Lightweight profiler library for c++</sub></td>
-<td align="right"><b>2,377</b></td>
+<td align="right"><b>2,378</b></td>
 <td align="right">202</td>
 <td>C++</td>
 </tr>
@@ -437,8 +437,8 @@
 <tr>
 <td align="right">60</td>
 <td><img src="https://github.com/jwadow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jwadow/kiro-gateway"><b>jwadow/kiro-gateway</b></a><br><sub>👻 Proxy API gateway for Kiro IDE &amp; CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any clien…</sub></td>
-<td align="right"><b>2,363</b></td>
-<td align="right">560</td>
+<td align="right"><b>2,361</b></td>
+<td align="right">558</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -450,29 +450,29 @@
 </tr>
 <tr>
 <td align="right">62</td>
-<td><img src="https://github.com/grishka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/grishka/Houseclub"><b>grishka/Houseclub</b></a><br><sub>A barebones unofficial Android app for Clubhouse</sub></td>
-<td align="right"><b>2,306</b></td>
-<td align="right">380</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">63</td>
 <td><img src="https://github.com/StressOzz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/StressOzz/Zapret-Manager"><b>StressOzz/Zapret-Manager</b></a><br><sub>Универсальный менеджер для обхода блокировок на OpenWrt</sub></td>
-<td align="right"><b>2,299</b></td>
+<td align="right"><b>2,313</b></td>
 <td align="right">108</td>
 <td>Shell</td>
 </tr>
 <tr>
+<td align="right">63</td>
+<td><img src="https://github.com/grishka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/grishka/Houseclub"><b>grishka/Houseclub</b></a><br><sub>A barebones unofficial Android app for Clubhouse</sub></td>
+<td align="right"><b>2,305</b></td>
+<td align="right">380</td>
+<td>Java</td>
+</tr>
+<tr>
 <td align="right">64</td>
 <td><img src="https://github.com/ldpreload.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ldpreload/BlackLotus"><b>ldpreload/BlackLotus</b></a><br><sub>BlackLotus UEFI Windows Bootkit</sub></td>
-<td align="right"><b>2,261</b></td>
-<td align="right">471</td>
+<td align="right"><b>2,262</b></td>
+<td align="right">472</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/Daniil-Osokin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch"><b>Daniil-Osokin/lightweight-human-pose-estimation.pytorch</b></a><br><sub>Fast and accurate human pose estimation in PyTorch. Contains implementation of &quot;Real-time 2D Multi-Person Pose Estimati…</sub></td>
-<td align="right"><b>2,235</b></td>
+<td align="right"><b>2,236</b></td>
 <td align="right">496</td>
 <td>Python</td>
 </tr>

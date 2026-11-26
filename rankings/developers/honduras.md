@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Siumauricio"><img src="https://avatars.githubusercontent.com/u/47042324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Siumauricio"><b>Mauricio Siu</b></a><br><sub>&#64;Siumauricio</sub></td>
-<td align="right"><b>622</b></td>
+<td align="right"><b>623</b></td>
 <td align="right">94</td>
 <td><sub>Honduras, San Pedro Sula</sub></td>
 </tr>
@@ -296,17 +296,17 @@
 </tr>
 <tr>
 <td align="right">40</td>
-<td><a href="https://github.com/MGeovany"><img src="https://avatars.githubusercontent.com/u/37640685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MGeovany"><b>Marlon Geovany Castro</b></a><br><sub>&#64;MGeovany</sub></td>
-<td align="right"><b>37</b></td>
-<td align="right">93</td>
-<td><sub>Honduras, Cortes</sub></td>
-</tr>
-<tr>
-<td align="right">41</td>
 <td><a href="https://github.com/JAAR91"><img src="https://avatars.githubusercontent.com/u/47152059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JAAR91"><b>Jose Arriaga</b></a><br><sub>&#64;JAAR91</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">65</td>
 <td><sub>Honduras</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><a href="https://github.com/MGeovany"><img src="https://avatars.githubusercontent.com/u/37640685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MGeovany"><b>Marlon Geovany Castro</b></a><br><sub>&#64;MGeovany</sub></td>
+<td align="right"><b>36</b></td>
+<td align="right">93</td>
+<td><sub>Honduras, Cortes</sub></td>
 </tr>
 <tr>
 <td align="right">42</td>
@@ -338,24 +338,24 @@
 </tr>
 <tr>
 <td align="right">46</td>
-<td><a href="https://github.com/angeldev96"><img src="https://avatars.githubusercontent.com/u/37201564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angeldev96"><b>Angel Valladares</b></a><br><sub>&#64;angeldev96</sub></td>
-<td align="right"><b>32</b></td>
-<td align="right">97</td>
-<td><sub>Tegucigalpa, Honduras</sub></td>
-</tr>
-<tr>
-<td align="right">47</td>
 <td><a href="https://github.com/DanielDevHN"><img src="https://avatars.githubusercontent.com/u/86884359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanielDevHN"><b>Daniel Reyes</b></a><br><sub>&#64;DanielDevHN</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">75</td>
 <td><sub>San Pedro Sula, Honduras</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">47</td>
 <td><a href="https://github.com/01Allan"><img src="https://avatars.githubusercontent.com/u/92226659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01Allan"><b>Allan Pineda</b></a><br><sub>&#64;01Allan</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">13</td>
 <td><sub>Honduras, Tegucigalpa.</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/angeldev96"><img src="https://avatars.githubusercontent.com/u/37201564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angeldev96"><b>Angel Valladares</b></a><br><sub>&#64;angeldev96</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">97</td>
+<td><sub>Tegucigalpa, Honduras</sub></td>
 </tr>
 <tr>
 <td align="right">49</td>

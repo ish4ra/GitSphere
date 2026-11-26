@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **60** | 22 Nov 2026 | <a href="../data/SK.json">JSON</a> |
+| 🟡 Provisional | **74** | 23 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
 </div>
 
@@ -59,14 +59,14 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Gallery"><b>SimpleMobileTools/Simple-Gallery</b></a><br><sub>A premium app for managing and editing your photos, videos, GIFs without ads</sub></td>
-<td align="right"><b>4,031</b></td>
-<td align="right">805</td>
+<td align="right"><b>4,032</b></td>
+<td align="right">806</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/nem0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nem0/LumixEngine"><b>nem0/LumixEngine</b></a><br><sub>3D C++ Game Engine - yet another open source game engine</sub></td>
-<td align="right"><b>3,913</b></td>
+<td align="right"><b>3,915</b></td>
 <td align="right">447</td>
 <td>C++</td>
 </tr>
@@ -80,22 +80,22 @@
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/tomasklaen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tomasklaen/uosc"><b>tomasklaen/uosc</b></a><br><sub>Feature-rich minimalist proximity-based UI for MPV player.</sub></td>
-<td align="right"><b>3,523</b></td>
-<td align="right">118</td>
+<td align="right"><b>3,532</b></td>
+<td align="right">121</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/dorny.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dorny/paths-filter"><b>dorny/paths-filter</b></a><br><sub>Conditionally run actions based on files modified by PR, feature branch or pushed commits</sub></td>
-<td align="right"><b>3,408</b></td>
+<td align="right"><b>3,410</b></td>
 <td align="right">395</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/darsain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darsain/sly"><b>darsain/sly</b></a><br><sub>JavaScript library for one-directional scrolling with item based navigation support.</sub></td>
-<td align="right"><b>2,831</b></td>
-<td align="right">478</td>
+<td align="right"><b>2,830</b></td>
+<td align="right">477</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -441,6 +441,104 @@
 <td align="right">185</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/igm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/igm/sockjs-go"><b>igm/sockjs-go</b></a><br><sub>WebSocket emulation - Go server library</sub></td>
+<td align="right"><b>505</b></td>
+<td align="right">98</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/MartinHeinz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MartinHeinz/go-project-blueprint"><b>MartinHeinz/go-project-blueprint</b></a><br><sub>Blueprint/Boilerplate For Golang Projects</sub></td>
+<td align="right"><b>501</b></td>
+<td align="right">103</td>
+<td>Makefile</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/skiselkov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skiselkov/BetterPushbackC"><b>skiselkov/BetterPushbackC</b></a> <sub>archived</sub><br><sub>This is the BetterPushback plugin for X-Plane 11 and X-Plane 12</sub></td>
+<td align="right"><b>497</b></td>
+<td align="right">142</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/JurajNyiri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JurajNyiri/pytapo"><b>JurajNyiri/pytapo</b></a><br><sub>Python library for communication with Tapo Cameras</sub></td>
+<td align="right"><b>497</b></td>
+<td align="right">106</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/matus-chochlik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matus-chochlik/oglplus"><b>matus-chochlik/oglplus</b></a><br><sub>OGLplus is a collection of open-source, cross-platform libraries which implement an object-oriented facade over the Ope…</sub></td>
+<td align="right"><b>496</b></td>
+<td align="right">70</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/SourceCode-AI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SourceCode-AI/aura"><b>SourceCode-AI/aura</b></a><br><sub>Python source code auditing and static analysis on a large scale</sub></td>
+<td align="right"><b>496</b></td>
+<td align="right">29</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/ocerman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ocerman/zenpower"><b>ocerman/zenpower</b></a><br><sub>Zenpower is Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen famil…</sub></td>
+<td align="right"><b>493</b></td>
+<td align="right">63</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/xhyrom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xhyrom/zed-discord-presence"><b>xhyrom/zed-discord-presence</b></a><br><sub>extension for zed that adds support for discord rich presence using lsp</sub></td>
+<td align="right"><b>480</b></td>
+<td align="right">44</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/sneakyevil.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sneakyevil/IL2CPP_Resolver"><b>sneakyevil/IL2CPP&#95;Resolver</b></a><br><sub>A run-time API resolver for IL2CPP Unity.</sub></td>
+<td align="right"><b>479</b></td>
+<td align="right">90</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/z00m128.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/z00m128/sjasmplus"><b>z00m128/sjasmplus</b></a><br><sub>Command-line cross-compiler of assembly language for Z80 CPU.</sub></td>
+<td align="right"><b>472</b></td>
+<td align="right">71</td>
+<td>Assembly</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/ckissi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ckissi/responsive-html-email-templates"><b>ckissi/responsive-html-email-templates</b></a><br><sub>Collection of Free responsive HTML templates for Startups</sub></td>
+<td align="right"><b>459</b></td>
+<td align="right">108</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/michalkvasnicak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/michalkvasnicak/aws-lambda-graphql"><b>michalkvasnicak/aws-lambda-graphql</b></a><br><sub>Use AWS Lambda + AWS API Gateway v2 for GraphQL subscriptions over WebSocket and AWS API Gateway v1 for HTTP</sub></td>
+<td align="right"><b>459</b></td>
+<td align="right">93</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/Stiivi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Stiivi/bubbles"><b>Stiivi/bubbles</b></a><br><sub>&#91;NOT MAINTAINED&#93; Bubbles – Python ETL framework</sub></td>
+<td align="right"><b>457</b></td>
+<td align="right">80</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-App-Launcher"><b>SimpleMobileTools/Simple-App-Launcher</b></a><br><sub>A simple holder for favourite apps for quick &amp; easy app launcher icon management</sub></td>
+<td align="right"><b>456</b></td>
+<td align="right">163</td>
+<td>Kotlin</td>
+</tr>
 </tbody>
 </table>
 
@@ -449,8 +547,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 522 stars; 60 attributed candidates are tracked.
-- 112 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 456 stars; 74 attributed candidates are tracked.
+- 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **248** | 22 Nov 2026 | <a href="../../data/developers/SS.json">JSON</a> |
+| 🟡 Provisional | **248** | 23 Nov 2026 | <a href="../../data/developers/SS.json">JSON</a> |
 
 </div>
 
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/AlierPM"><img src="https://avatars.githubusercontent.com/u/69401590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlierPM"><b>Alier Philip Maguet</b></a><br><sub>&#64;AlierPM</sub></td>
-<td align="right"><b>27</b></td>
+<td align="right"><b>28</b></td>
 <td align="right">62</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>

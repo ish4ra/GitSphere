@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **55** | 22 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟡 Provisional | **65** | 23 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -52,15 +52,15 @@
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/subbarayudu-j.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/subbarayudu-j/TheAlgorithms-Python"><b>subbarayudu-j/TheAlgorithms-Python</b></a><br><sub>TheAlgorithms/Python</sub></td>
-<td align="right"><b>3,615</b></td>
+<td align="right"><b>3,617</b></td>
 <td align="right">655</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/pluk-inc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pluk-inc/markdown-preview"><b>pluk-inc/markdown-preview</b></a><br><sub>A simple Markdown viewer for reading .md files</sub></td>
-<td align="right"><b>2,872</b></td>
-<td align="right">148</td>
+<td align="right"><b>2,913</b></td>
+<td align="right">151</td>
 <td>Swift</td>
 </tr>
 <tr>
@@ -73,28 +73,28 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/fathulfahmy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fathulfahmy/aio-usb-drive"><b>fathulfahmy/aio-usb-drive</b></a><br><sub>Curated collection of useful to have programs on a multiboot USB drive</sub></td>
-<td align="right"><b>2,811</b></td>
+<td align="right"><b>2,810</b></td>
 <td align="right">170</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/MoonTechLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MoonTechLab/Selene"><b>MoonTechLab/Selene</b></a><br><sub>一个以 MoonTV v100 版本 / Helios 为后端的客户端，支持 iOS、Android、MacOS 和 Windows，并针对各端体验优化</sub></td>
-<td align="right"><b>2,655</b></td>
+<td align="right"><b>2,658</b></td>
 <td align="right">426</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/EXALAB.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EXALAB/AnLinux-App"><b>EXALAB/AnLinux-App</b></a><br><sub>AnLinux allow you to run Linux on Android without root access.</sub></td>
-<td align="right"><b>2,370</b></td>
-<td align="right">351</td>
+<td align="right"><b>2,373</b></td>
+<td align="right">352</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/orchestral.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orchestral/testbench"><b>orchestral/testbench</b></a><br><sub>Laravel Testing Helper for Packages Development</sub></td>
-<td align="right"><b>2,240</b></td>
+<td align="right"><b>2,239</b></td>
 <td align="right">140</td>
 <td>PHP</td>
 </tr>
@@ -406,6 +406,76 @@
 <td align="right">78</td>
 <td>HTML</td>
 </tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/faizwashere.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/faizwashere/ScanDot"><b>faizwashere/ScanDot</b></a><br><sub>Experimental Android 3D scanning and point-cloud viewer</sub></td>
+<td align="right"><b>504</b></td>
+<td align="right">5</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/hollowaykeanho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hollowaykeanho/Upscaler"><b>hollowaykeanho/Upscaler</b></a><br><sub>A consolidation of various compiled open-source AI image/video upscaling product for a working CLI friendly image and v…</sub></td>
+<td align="right"><b>501</b></td>
+<td align="right">39</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/syamilmj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syamilmj/Aqua-Resizer"><b>syamilmj/Aqua-Resizer</b></a><br><sub>Resize WordPress images on the fly</sub></td>
+<td align="right"><b>499</b></td>
+<td align="right">195</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/paulschwarz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/paulschwarz/spring-dotenv"><b>paulschwarz/spring-dotenv</b></a><br><sub>Provides a Dotenv property source for Spring and Spring Boot</sub></td>
+<td align="right"><b>494</b></td>
+<td align="right">27</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/WizisCool.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WizisCool/oh-my-cpa"><b>WizisCool/oh-my-cpa</b></a><br><sub>Modern web console for CLIProxyAPI v8+ with provider and OAuth management, live routing, request analytics, pricing, an…</sub></td>
+<td align="right"><b>492</b></td>
+<td align="right">55</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/syamilmj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syamilmj/Options-Framework"><b>syamilmj/Options-Framework</b></a> <sub>archived</sub><br><sub>Slightly modified options framework, w/ drag &amp; drop slider and other customizations.</sub></td>
+<td align="right"><b>491</b></td>
+<td align="right">170</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/CITF-Malaysia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CITF-Malaysia/citf-public"><b>CITF-Malaysia/citf-public</b></a><br><sub>Official data on Malaysia&#39;s National Covid-19 Immunisation Programme (PICK). Powered by MySejahtera.</sub></td>
+<td align="right"><b>489</b></td>
+<td align="right">185</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/zulfajuniadi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zulfajuniadi/unity-ecs-navmesh"><b>zulfajuniadi/unity-ecs-navmesh</b></a><br><sub>A demo implementation of Unity Entity Component System with NavMesh</sub></td>
+<td align="right"><b>489</b></td>
+<td align="right">79</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/orchestral.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orchestral/parser"><b>orchestral/parser</b></a><br><sub>&#91;Package&#93; XML Document Parser for Laravel and PHP</sub></td>
+<td align="right"><b>459</b></td>
+<td align="right">52</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/limkokhole.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/limkokhole/pinterest-downloader"><b>limkokhole/pinterest-downloader</b></a><br><sub>Download all images/videos from Pinterest user/board/section.</sub></td>
+<td align="right"><b>457</b></td>
+<td align="right">63</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -414,8 +484,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 509 stars; 55 attributed candidates are tracked.
-- 118 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 457 stars; 65 attributed candidates are tracked.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

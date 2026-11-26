@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,24 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/mmalecki"><img src="https://avatars.githubusercontent.com/u/692459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmalecki"><b>Maciej Małecki</b></a><br><sub>&#64;mmalecki · 625 followers</sub></td>
+<td align="right"><b>740</b></td>
+<td align="right">654</td>
+<td align="right">54</td>
+<td align="right">0</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/kamilkisiela"><img src="https://avatars.githubusercontent.com/u/8167190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kamilkisiela"><b>Kamil Kisiela</b></a><br><sub>&#64;kamilkisiela · 668 followers</sub></td>
+<td align="right"><b>725</b></td>
+<td align="right">276</td>
+<td align="right">269</td>
+<td align="right">169</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/pplonski"><img src="https://avatars.githubusercontent.com/u/6959032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pplonski"><b>Piotr</b></a><br><sub>&#64;pplonski · 539 followers</sub></td>
 <td align="right"><b>708</b></td>
 <td align="right">594</td>
@@ -96,7 +114,16 @@
 <td align="right">96</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
+<td><a href="https://github.com/pjastr"><img src="https://avatars.githubusercontent.com/u/24464854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pjastr"><b>pjastr</b></a><br><sub>&#64;pjastr · 188 followers</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">273</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">52</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/peterblazejewicz"><img src="https://avatars.githubusercontent.com/u/14539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peterblazejewicz"><b>Piotr Błażejewicz (Peter Blazejewicz)</b></a><br><sub>&#64;peterblazejewicz · 273 followers</sub></td>
 <td align="right"><b>156</b></td>
 <td align="right">130</td>
@@ -105,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">13</td>
 <td><a href="https://github.com/sheerun"><img src="https://avatars.githubusercontent.com/u/292365?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sheerun"><b>Adam Stankiewicz</b></a><br><sub>&#64;sheerun · 549 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">35</td>
@@ -120,7 +147,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 1,076 discovered developers (1,065 awaiting measurement).
+- **Measured:** 14 of 1,138 discovered developers (1,124 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 170 in round 1.

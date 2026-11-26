@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/CU.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/contributors/CU.json">JSON</a> |
 
 </div>
 
@@ -169,6 +169,33 @@
 </tr>
 <tr>
 <td align="right">17</td>
+<td><a href="https://github.com/adrianfoya"><img src="https://avatars.githubusercontent.com/u/86851123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianfoya"><b>Adrián</b></a><br><sub>&#64;adrianfoya · 16 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/Adrianoxzzz"><img src="https://avatars.githubusercontent.com/u/118141438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adrianoxzzz"><b>Adriano Alberto Spinola Olivares</b></a><br><sub>&#64;Adrianoxzzz · 0 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/adrianhdez929"><img src="https://avatars.githubusercontent.com/u/43711136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianhdez929"><b>Adrian Hernandez</b></a><br><sub>&#64;adrianhdez929 · 15 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/acanive"><img src="https://avatars.githubusercontent.com/u/3910020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acanive"><b>Abel Espinosa</b></a><br><sub>&#64;acanive · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -177,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/acm-97"><img src="https://avatars.githubusercontent.com/u/29048839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acm-97"><b>Alejandro Cabrera Mena</b></a><br><sub>&#64;acm-97 · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -192,7 +219,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 402 discovered developers (384 awaiting measurement).
+- **Measured:** 21 of 402 discovered developers (381 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 90 in round 1.

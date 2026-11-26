@@ -5,7 +5,7 @@
 "country": {"code":"NC","name":"New Caledonia","slug":"new-caledonia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":144,"candidates":122,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":65,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":142,"candidates":122,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":65,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk2NjgyMTYzOA==","name":"yaac-another-awesome-cv","nameWithOwner":"darwiin/yaac-another-awesome-cv","url":"https://github.com/darwiin/yaac-another-awesome-cv","description":"YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.","stars":1054,"forks":286,"primaryLanguage":"TeX","license":{"spdxId":"LPPL-1.3c"},"createdAt":"2016-08-29T07:29:23Z","pushedAt":"2022-11-14T22:46:27Z","archived":false,"owner":{"login":"darwiin","name":"Christophe ROGER","type":"User","url":"https://github.com/darwiin","location":"New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":null,"name":"ww-perso","nameWithOwner":"sio-nc/ww-perso","url":"https://github.com/sio-nc/ww-perso","description":null,"stars":2,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2021-02-28T00:18:46Z","pushedAt":"2021-10-03T04:29:43Z","archived":false,"owner":{"login":"sio-nc","name":"Sioeli Tonga","type":"User","url":"https://github.com/sio-nc","location":"Noumea, New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"jquery-mobile-flat-ui-theme","nameWithOwner":"nor368ausgekontert/jquery-mobile-flat-ui-theme","url":"https://github.com/nor368ausgekontert/jquery-mobile-flat-ui-theme","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-23T19:03:56Z","pushedAt":"2023-12-23T19:03:56Z","archived":false,"owner":{"login":"nor368ausgekontert","name":"nor368ausgekontert","type":"User","url":"https://github.com/nor368ausgekontert","location":"New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"cartographie_erosion","nameWithOwner":"Oeil-NC/cartographie_erosion","url":"https://github.com/Oeil-NC/cartographie_erosion","description":null,"stars":0,"forks":0,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2021-07-15T04:42:06Z","pushedAt":"2021-07-22T02:00:33Z","archived":false,"owner":{"login":"Oeil-NC","name":"Oeil NC","type":"Organization","url":"https://github.com/Oeil-NC","location":"New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "ac78849adef33de9",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "31f359d4981895a0",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

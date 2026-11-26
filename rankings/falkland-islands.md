@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **15** | 25 Oct 2026 | <a href="../data/FK.json">JSON</a> |
+| 🟠 Stale | **13** | 25 Oct 2026 | <a href="../data/FK.json">JSON</a> |
 
-> **Not yet re-verified.** 15 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 13 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,104 +25,90 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/hewn-py.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hewn-py/hewn"><b>hewn-py/hewn</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">2</td>
-<td><img src="https://github.com/trrt54999.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trrt54999/notes-winui3"><b>trrt54999/notes-winui3</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">3</td>
 <td><img src="https://github.com/brian-j.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brian-j/BNJs-Liferay-Fragments"><b>brian-j/BNJs-Liferay-Fragments</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">2</td>
 <td><img src="https://github.com/toastershock.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/toastershock/PDF"><b>toastershock/PDF</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>R</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">3</td>
 <td><img src="https://github.com/Dunedayl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dunedayl/KNTU-2023"><b>Dunedayl/KNTU-2023</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">4</td>
 <td><img src="https://github.com/Jansen27.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jansen27/Student"><b>Jansen27/Student</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">5</td>
 <td><img src="https://github.com/martinglhf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martinglhf/paraliparis-bathypelagicus-poster-references"><b>martinglhf/paraliparis-bathypelagicus-poster-references</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">6</td>
 <td><img src="https://github.com/MauriOfc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MauriOfc/MauriBOT"><b>MauriOfc/MauriBOT</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">7</td>
 <td><img src="https://github.com/missprissmadk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/missprissmadk/missprissmadk"><b>missprissmadk/missprissmadk</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">8</td>
 <td><img src="https://github.com/netzeeek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/netzeeek/proyecto"><b>netzeeek/proyecto</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">9</td>
 <td><img src="https://github.com/OmaRadio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OmaRadio/omaradio-numbers-station"><b>OmaRadio/omaradio-numbers-station</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">10</td>
 <td><img src="https://github.com/OwenRF.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OwenRF/CSHARPWORK"><b>OwenRF/CSHARPWORK</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">11</td>
 <td><img src="https://github.com/saeri-ims.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saeri-ims/1956-aerial-imagery"><b>saeri-ims/1956-aerial-imagery</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">12</td>
 <td><img src="https://github.com/TipsetFalseBan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TipsetFalseBan/sphinx_rtd_theme"><b>TipsetFalseBan/sphinx&#95;rtd&#95;theme</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">13</td>
 <td><img src="https://github.com/warpathprostfrost.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/warpathprostfrost/warpathprostfrost"><b>warpathprostfrost/warpathprostfrost</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -136,8 +122,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 15 attributed candidates are tracked.
-- 15 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 0 stars; 13 attributed candidates are tracked.
+- 13 entries were carried over from the previous dataset and are pending revalidation.
 - 15 multi-repository owners are queued for expansion.
 - **Location discovery:** term 6 of 20 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

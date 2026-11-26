@@ -65,17 +65,17 @@
 </tr>
 <tr>
 <td align="right">7</td>
-<td><a href="https://github.com/julkwel"><img src="https://avatars.githubusercontent.com/u/30557565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/julkwel"><b>Julien Rajerison</b></a><br><sub>&#64;julkwel</sub></td>
-<td align="right"><b>343</b></td>
-<td align="right">99</td>
-<td><sub>Madagascar</sub></td>
-</tr>
-<tr>
-<td align="right">8</td>
 <td><a href="https://github.com/lahatra3"><img src="https://avatars.githubusercontent.com/u/89080737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lahatra3"><b>Lahatra Anjara RAVELONARIVO</b></a><br><sub>&#64;lahatra3</sub></td>
 <td align="right"><b>341</b></td>
 <td align="right">117</td>
 <td><sub>Madagascar-Antananarivo</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/julkwel"><img src="https://avatars.githubusercontent.com/u/30557565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/julkwel"><b>Julien Rajerison</b></a><br><sub>&#64;julkwel</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">99</td>
+<td><sub>Madagascar</sub></td>
 </tr>
 <tr>
 <td align="right">9</td>

@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SD","name":"Sudan","slug":"sudan"},
-"count": 99,
+"count": 100,
 "repositories": [
+  {"id":"R_kgDOLHB2EA","name":"wadgamaraldeen/My-Hunting-Methodology-","stars":456,"forks":84,"description":"My Private Bug Hunting Methodology","archived":false,"createdAt":"2024-01-19T16:08:39Z","pushedAt":"2026-09-22T01:18:31Z","owner":{"id":"MDQ6VXNlcjcxMDgyNzcy","login":"wadgamaraldeen","type":"User","name":"Mustafa Adam Gamaraldin Abdalla","location":"Sudan"},"attribution":{"code":"SD","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-25T23:48:47.248Z","verifiedAt":"2026-11-25T23:48:47.248Z","cycle":1},
   {"name":"AhmedSalahAhmed/pharmacy","stars":2,"forks":3,"language":"HTML","archived":false,"createdAt":"2020-03-05T09:34:53Z","pushedAt":"2022-12-11T23:47:53Z","owner":{"login":"AhmedSalahAhmed","type":"User","name":"Ahmed Salahaldin Ahmed","location":"Al Amarat, Khartoum, Sudan"},"attribution":{"code":"SD","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:26:30.321Z","id":"legacy:ahmedsalahahmed/pharmacy","legacy":true},
   {"name":"SudaneseOpenSourceSociety/PHPMVCFramework-SudaneseDevelopers","stars":2,"forks":2,"language":"PHP","license":"GPL-2.0","archived":false,"createdAt":"2017-12-16T12:06:22Z","pushedAt":"2017-12-20T11:27:56Z","owner":{"login":"SudaneseOpenSourceSociety","type":"User","name":"Sudanese Open Source","location":"Khartoum, Sudan"},"attribution":{"code":"SD","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:26:30.321Z","id":"legacy:sudaneseopensourcesociety/phpmvcframework-sudanesedevelopers","legacy":true},
   {"name":"almhdy24/habrin-cms","stars":2,"forks":1,"language":"PHP","archived":false,"createdAt":"2025-12-05T14:32:40Z","pushedAt":"2026-10-15T12:57:11Z","owner":{"login":"almhdy24","type":"User","name":"Elmahdi Abdallh","location":"Sudan"},"attribution":{"code":"SD","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:26:30.321Z","id":"legacy:almhdy24/habrin-cms","legacy":true},

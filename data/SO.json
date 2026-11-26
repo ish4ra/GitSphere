@@ -5,7 +5,7 @@
 "country": {"code":"SO","name":"Somalia","slug":"somalia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":75,"ownerExpansionBacklog":141,"candidates":75,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":99,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":75,"ownerExpansionBacklog":140,"candidates":75,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":99,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Flask-Students-Management-App","nameWithOwner":"Qoslaye/Flask-Students-Management-App","url":"https://github.com/Qoslaye/Flask-Students-Management-App","description":null,"stars":2,"forks":10,"primaryLanguage":"Python","license":null,"createdAt":"2024-12-03T03:21:17Z","pushedAt":"2024-12-03T03:26:12Z","archived":false,"owner":{"login":"Qoslaye","name":"Hassan Ali","type":"User","url":"https://github.com/Qoslaye","location":"Mogadishu-Somalia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"just-click","nameWithOwner":"AbdallahAlii/just-click","url":"https://github.com/AbdallahAlii/just-click","description":null,"stars":2,"forks":3,"primaryLanguage":"Python","license":null,"createdAt":"2026-02-02T10:02:03Z","pushedAt":"2026-08-20T06:09:42Z","archived":false,"owner":{"login":"AbdallahAlii","name":"Abdullahi Ali Abdullahi","type":"User","url":"https://github.com/AbdallahAlii","location":"Somalia - Mogadishu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -83,8 +83,8 @@
   {"rank":74,"id":null,"name":"project-php-school-manegment","nameWithOwner":"nasra111/project-php-school-manegment","url":"https://github.com/nasra111/project-php-school-manegment","description":null,"stars":2,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2026-01-10T11:41:50Z","pushedAt":"2026-01-10T11:42:54Z","archived":false,"owner":{"login":"nasra111","name":"Nasra Mohamed","type":"User","url":"https://github.com/nasra111","location":"Mogadishu, Somalia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":75,"id":null,"name":"university-project-1","nameWithOwner":"nopie1/university-project-1","url":"https://github.com/nopie1/university-project-1","description":null,"stars":2,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-01-17T12:26:54Z","pushedAt":"2025-02-08T04:50:00Z","archived":false,"owner":{"login":"nopie1","name":"nopie","type":"User","url":"https://github.com/nopie1","location":"somalia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "0a7199bf3ef7e3a4",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "508476efc4e2025f",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

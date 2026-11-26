@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **40** | 22 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **50** | 23 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -45,43 +45,43 @@
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/sameerasw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sameerasw/essentials"><b>sameerasw/essentials</b></a><br><sub>Essential tools and mods for Android nerds</sub></td>
-<td align="right"><b>3,982</b></td>
-<td align="right">111</td>
+<td align="right"><b>4,009</b></td>
+<td align="right">113</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/chanakaudaya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chanakaudaya/solution-architecture-patterns"><b>chanakaudaya/solution-architecture-patterns</b></a><br><sub>Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise</sub></td>
 <td align="right"><b>3,480</b></td>
-<td align="right">674</td>
+<td align="right">673</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/Worklenz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Worklenz/worklenz"><b>Worklenz/worklenz</b></a><br><sub>All in one project management tool for efficient teams</sub></td>
 <td align="right"><b>3,315</b></td>
-<td align="right">400</td>
+<td align="right">401</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
-<td><img src="https://github.com/xCuri0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xCuri0/ReBarUEFI"><b>xCuri0/ReBarUEFI</b></a><br><sub>Resizable BAR for (almost) any UEFI system</sub></td>
-<td align="right"><b>2,597</b></td>
-<td align="right">127</td>
-<td>C</td>
+<td><img src="https://github.com/ravindu644.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ravindu644/Droidspaces-OSS"><b>ravindu644/Droidspaces-OSS</b></a><br><sub>A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero perfor…</sub></td>
+<td align="right"><b>2,616</b></td>
+<td align="right">266</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">8</td>
-<td><img src="https://github.com/ravindu644.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ravindu644/Droidspaces-OSS"><b>ravindu644/Droidspaces-OSS</b></a><br><sub>A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero perfor…</sub></td>
-<td align="right"><b>2,595</b></td>
-<td align="right">263</td>
-<td>Kotlin</td>
+<td><img src="https://github.com/xCuri0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xCuri0/ReBarUEFI"><b>xCuri0/ReBarUEFI</b></a><br><sub>Resizable BAR for (almost) any UEFI system</sub></td>
+<td align="right"><b>2,600</b></td>
+<td align="right">128</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/CutWire-Studios.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CutWire-Studios/Drift"><b>CutWire-Studios/Drift</b></a><br><sub>Drift is a free, open-source, beginner-friendly desktop video editor built with Qt 6 and FFmpeg.</sub></td>
-<td align="right"><b>2,479</b></td>
-<td align="right">223</td>
+<td align="right"><b>2,506</b></td>
+<td align="right">224</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -301,6 +301,76 @@
 <td align="right">1,093</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/rockz5555.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rockz5555/NFG-Multi-Crack"><b>rockz5555/NFG-Multi-Crack</b></a><br><sub>Ultimate Android Toolkit</sub></td>
+<td align="right"><b>501</b></td>
+<td align="right">32</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/menukaonline.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/menukaonline/goindex-extended"><b>menukaonline/goindex-extended</b></a><br><sub>A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.</sub></td>
+<td align="right"><b>496</b></td>
+<td align="right">256</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/sameerasw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sameerasw/my-internet"><b>sameerasw/my-internet</b></a><br><sub>Custom CSS to make the web transparent, beautiful and zen. Main style repo for the Zen Internet add-on</sub></td>
+<td align="right"><b>490</b></td>
+<td align="right">141</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/truethari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/truethari/reactfolio"><b>truethari/reactfolio</b></a><br><sub>Reactfolio is a sleek and responsive personal portfolio template built using React, perfect for showcasing your work an…</sub></td>
+<td align="right"><b>488</b></td>
+<td align="right">315</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/Suvink.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Suvink/cut-it-out"><b>Suvink/cut-it-out</b></a><br><sub>A browser based background removal tool for images.</sub></td>
+<td align="right"><b>486</b></td>
+<td align="right">63</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/madushadhanushka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/madushadhanushka/github-readme"><b>madushadhanushka/github-readme</b></a><br><sub>Collection of GitHub readme widgets</sub></td>
+<td align="right"><b>465</b></td>
+<td align="right">40</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/s1n7ax.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/s1n7ax/nvim-window-picker"><b>s1n7ax/nvim-window-picker</b></a><br><sub>This plugins prompts the user to pick a window and returns the window id of the picked window</sub></td>
+<td align="right"><b>460</b></td>
+<td align="right">38</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/kadirahq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kadirahq/react-no-ssr"><b>kadirahq/react-no-ssr</b></a><br><sub>React component to wrap non SSR friendly components</sub></td>
+<td align="right"><b>458</b></td>
+<td align="right">22</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/Optane002.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Optane002/ZPhisher"><b>Optane002/ZPhisher</b></a><br><sub>Automated Phishing Tool.🐱💻🧷</sub></td>
+<td align="right"><b>453</b></td>
+<td align="right">112</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/Isuru-Nanayakkara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Isuru-Nanayakkara/Reach"><b>Isuru-Nanayakkara/Reach</b></a> <sub>archived</sub><br><sub>A simple class to check for internet connection availability in Swift.</sub></td>
+<td align="right"><b>453</b></td>
+<td align="right">109</td>
+<td>Swift</td>
+</tr>
 </tbody>
 </table>
 
@@ -309,8 +379,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 539 stars; 40 attributed candidates are tracked.
-- 126 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 453 stars; 50 attributed candidates are tracked.
+- 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/TW.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/TW.json">JSON</a> |
 
 </div>
 
@@ -290,57 +290,57 @@
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/swooletw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/swooletw/laravel-swoole"><b>swooletw/laravel-swoole</b></a> <sub>archived</sub><br><sub>High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.</sub></td>
-<td align="right"><b>4,016</b></td>
+<td align="right"><b>4,014</b></td>
 <td align="right">380</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">40</td>
-<td><img src="https://github.com/gyoridavid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gyoridavid/ai_agents_az"><b>gyoridavid/ai&#95;agents&#95;az</b></a></td>
-<td align="right"><b>3,949</b></td>
-<td align="right">941</td>
+<td><img src="https://github.com/Nanako0129.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nanako0129/sepia"><b>Nanako0129/sepia</b></a><br><sub>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code…</sub></td>
+<td align="right"><b>3,957</b></td>
+<td align="right">246</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">41</td>
+<td><img src="https://github.com/gyoridavid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gyoridavid/ai_agents_az"><b>gyoridavid/ai&#95;agents&#95;az</b></a></td>
+<td align="right"><b>3,953</b></td>
+<td align="right">942</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">42</td>
 <td><img src="https://github.com/kkdai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kkdai/youtube"><b>kkdai/youtube</b></a><br><sub>Download Youtube Video in Golang</sub></td>
 <td align="right"><b>3,949</b></td>
 <td align="right">498</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">42</td>
-<td><img src="https://github.com/Nanako0129.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nanako0129/sepia"><b>Nanako0129/sepia</b></a><br><sub>De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code…</sub></td>
-<td align="right"><b>3,929</b></td>
-<td align="right">243</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">43</td>
 <td><img src="https://github.com/Minidoracat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Minidoracat/mcp-feedback-enhanced"><b>Minidoracat/mcp-feedback-enhanced</b></a><br><sub>Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual inte…</sub></td>
 <td align="right"><b>3,749</b></td>
-<td align="right">351</td>
+<td align="right">352</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/vn7n24fzkq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><b>vn7n24fzkq/github-profile-summary-cards</b></a><br><sub>A tool to generate your GitHub summary card for profile README</sub></td>
-<td align="right"><b>3,703</b></td>
-<td align="right">522</td>
+<td align="right"><b>3,706</b></td>
+<td align="right">521</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/liangjingkanji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liangjingkanji/DrakeTyporaTheme"><b>liangjingkanji/DrakeTyporaTheme</b></a><br><sub>十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark</sub></td>
-<td align="right"><b>3,566</b></td>
+<td align="right"><b>3,568</b></td>
 <td align="right">284</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/qazbnm456.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qazbnm456/awesome-cve-poc"><b>qazbnm456/awesome-cve-poc</b></a><br><sub>✍️ A curated list of CVE PoCs.</sub></td>
-<td align="right"><b>3,547</b></td>
-<td align="right">715</td>
+<td align="right"><b>3,549</b></td>
+<td align="right">716</td>
 <td>—</td>
 </tr>
 <tr>
@@ -360,21 +360,21 @@
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/guillaumechereau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/guillaumechereau/goxel"><b>guillaumechereau/goxel</b></a><br><sub>Goxel: Free and Open Source 3D Voxel Editor</sub></td>
-<td align="right"><b>3,241</b></td>
+<td align="right"><b>3,244</b></td>
 <td align="right">284</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/FuYaoDe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FuYaoDe/react-native-app-intro"><b>FuYaoDe/react-native-app-intro</b></a><br><sub>react-native-app-intro is a react native component implementing a parallax effect welcome page using base on react-nati…</sub></td>
-<td align="right"><b>3,237</b></td>
-<td align="right">492</td>
+<td align="right"><b>3,236</b></td>
+<td align="right">489</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/kane50613.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kane50613/takumi"><b>kane50613/takumi</b></a><br><sub>One layout engine for JSX, HTML, and CSS. Render images, SVG, PDFs, or a paint tree. No headless browser.</sub></td>
-<td align="right"><b>3,218</b></td>
+<td align="right"><b>3,225</b></td>
 <td align="right">94</td>
 <td>Rust</td>
 </tr>
@@ -388,7 +388,7 @@
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/LittleSurvival.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LittleSurvival/copymanga-copy20"><b>LittleSurvival/copymanga-copy20</b></a><br><sub>Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme</sub></td>
-<td align="right"><b>3,083</b></td>
+<td align="right"><b>3,096</b></td>
 <td align="right">20</td>
 <td>Smali</td>
 </tr>
@@ -402,7 +402,7 @@
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/w181496.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/w181496/Web-CTF-Cheatsheet"><b>w181496/Web-CTF-Cheatsheet</b></a><br><sub>Web CTF CheatSheet 🐈</sub></td>
-<td align="right"><b>3,005</b></td>
+<td align="right"><b>3,006</b></td>
 <td align="right">572</td>
 <td>Ruby</td>
 </tr>
@@ -416,14 +416,14 @@
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/pionxzh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pionxzh/chatgpt-exporter"><b>pionxzh/chatgpt-exporter</b></a><br><sub>Export and Share your ChatGPT conversation history</sub></td>
-<td align="right"><b>2,900</b></td>
-<td align="right">282</td>
+<td align="right"><b>2,903</b></td>
+<td align="right">283</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/orangetw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>orangetw/My-CTF-Web-Challenges</b></a><br><sub>Collection of CTF Web challenges I made</sub></td>
-<td align="right"><b>2,863</b></td>
+<td align="right"><b>2,864</b></td>
 <td align="right">479</td>
 <td>PHP</td>
 </tr>
@@ -444,14 +444,14 @@
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/kwea123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kwea123/nerf_pl"><b>kwea123/nerf&#95;pl</b></a><br><sub>NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning</sub></td>
-<td align="right"><b>2,800</b></td>
+<td align="right"><b>2,799</b></td>
 <td align="right">457</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">62</td>
 <td><img src="https://github.com/Zero6992.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zero6992/chatGPT-discord-bot"><b>Zero6992/chatGPT-discord-bot</b></a><br><sub>Integrate ChatGPT into your own discord bot</sub></td>
-<td align="right"><b>2,730</b></td>
+<td align="right"><b>2,732</b></td>
 <td align="right">690</td>
 <td>Python</td>
 </tr>
@@ -465,28 +465,28 @@
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/KohakuBlueleaf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KohakuBlueleaf/LyCORIS"><b>KohakuBlueleaf/LyCORIS</b></a><br><sub>Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.</sub></td>
-<td align="right"><b>2,539</b></td>
+<td align="right"><b>2,541</b></td>
 <td align="right">187</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/hoochanlon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hoochanlon/Free-NTFS-for-Mac"><b>hoochanlon/Free-NTFS-for-Mac</b></a><br><sub>Nigate: An open-source NTFS utility for Mac. It supports Apple Silicon Macs, providing full read-write access, mounting…</sub></td>
-<td align="right"><b>2,528</b></td>
+<td align="right"><b>2,532</b></td>
 <td align="right">176</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/free5gc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/free5gc/free5gc"><b>free5gc/free5gc</b></a><br><sub>Open source 5G core network based on 3GPP R17</sub></td>
-<td align="right"><b>2,376</b></td>
-<td align="right">767</td>
+<td align="right"><b>2,381</b></td>
+<td align="right">768</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/david942j.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/david942j/one_gadget"><b>david942j/one&#95;gadget</b></a><br><sub>The best tool for finding one gadget RCE in libc.so.6</sub></td>
-<td align="right"><b>2,366</b></td>
+<td align="right"><b>2,368</b></td>
 <td align="right">151</td>
 <td>Ruby</td>
 </tr>
@@ -500,7 +500,7 @@
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/audreyt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/audreyt/node-webworker-threads"><b>audreyt/node-webworker-threads</b></a><br><sub>Lightweight Web Worker API implementation with native threads</sub></td>
-<td align="right"><b>2,274</b></td>
+<td align="right"><b>2,273</b></td>
 <td align="right">144</td>
 <td>C++</td>
 </tr>

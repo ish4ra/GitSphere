@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/GR.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/GR.json">JSON</a> |
 
 </div>
 
@@ -150,22 +150,22 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/kasketis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kasketis/netfox"><b>kasketis/netfox</b></a><br><sub>A lightweight, one line setup, iOS / OSX network debugging library! 🦊</sub></td>
-<td align="right"><b>3,752</b></td>
-<td align="right">405</td>
+<td align="right"><b>3,753</b></td>
+<td align="right">404</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/skorokithakis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skorokithakis/catt"><b>skorokithakis/catt</b></a><br><sub>Cast All The Things allows you to send videos from many, many online sources to your Chromecast.</sub></td>
 <td align="right"><b>3,725</b></td>
-<td align="right">177</td>
+<td align="right">176</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/chrisvel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chrisvel/tududi"><b>chrisvel/tududi</b></a><br><sub>A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or h…</sub></td>
-<td align="right"><b>3,574</b></td>
-<td align="right">296</td>
+<td align="right"><b>3,583</b></td>
+<td align="right">302</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -178,28 +178,28 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/Chalarangelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chalarangelo/mini.css"><b>Chalarangelo/mini.css</b></a> <sub>archived</sub><br><sub>A minimal, responsive, style-agnostic CSS framework!</sub></td>
-<td align="right"><b>2,947</b></td>
+<td align="right"><b>2,945</b></td>
 <td align="right">195</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/lipis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lipis/bootstrap-social"><b>lipis/bootstrap-social</b></a><br><sub>:couple: Social Sign-In Buttons for Bootstrap</sub></td>
-<td align="right"><b>2,882</b></td>
+<td align="right"><b>2,881</b></td>
 <td align="right">787</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/smartHomeHub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/smartHomeHub/SmartIR"><b>smartHomeHub/SmartIR</b></a><br><sub>Home Assistant integration to manage climate systems, TVs, fans and lights using IR/RF controllers. Compatible with Bro…</sub></td>
-<td align="right"><b>2,870</b></td>
-<td align="right">1,251</td>
+<td align="right"><b>2,872</b></td>
+<td align="right">1,252</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/Cranot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cranot/claude-code-guide"><b>Cranot/claude-code-guide</b></a><br><sub>The Complete Claude Code CLI Guide - Live &amp; Auto-Updated Every 2 Days</sub></td>
-<td align="right"><b>2,862</b></td>
+<td align="right"><b>2,864</b></td>
 <td align="right">312</td>
 <td>Shell</td>
 </tr>
@@ -213,7 +213,7 @@
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/k4m4.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/k4m4/kickthemout"><b>k4m4/kickthemout</b></a><br><sub>💤 Kick devices off your network by performing an ARP Spoof attack.</sub></td>
-<td align="right"><b>2,686</b></td>
+<td align="right"><b>2,688</b></td>
 <td align="right">444</td>
 <td>Python</td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/sfikas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sfikas/medical-imaging-datasets"><b>sfikas/medical-imaging-datasets</b></a><br><sub>A list of Medical imaging datasets.</sub></td>
-<td align="right"><b>2,578</b></td>
+<td align="right"><b>2,579</b></td>
 <td align="right">444</td>
 <td>—</td>
 </tr>
@@ -248,21 +248,21 @@
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/ggozad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ggozad/oterm"><b>ggozad/oterm</b></a><br><sub>the terminal client for LLMs</sub></td>
-<td align="right"><b>2,449</b></td>
+<td align="right"><b>2,451</b></td>
 <td align="right">142</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/Achno.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Achno/gowall"><b>Achno/gowall</b></a><br><sub>A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color p…</sub></td>
-<td align="right"><b>2,332</b></td>
+<td align="right"><b>2,335</b></td>
 <td align="right">38</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/AAndyProgram.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AAndyProgram/SCrawler"><b>AAndyProgram/SCrawler</b></a><br><sub>🏳️🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, BlueSky, TikTok, Threads, Facebook, OnlyFa…</sub></td>
-<td align="right"><b>2,264</b></td>
+<td align="right"><b>2,268</b></td>
 <td align="right">158</td>
 <td>Visual Basic .NET</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 693 stars; 140 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 693 stars; 150 attributed candidates are tracked.
 - 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 149 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/VG.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/VG.json">JSON</a> |
 
 </div>
 
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/Fraodd"><img src="https://avatars.githubusercontent.com/u/153751665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fraodd"><b>Fraodd</b></a><br><sub>&#64;Fraodd · 1 followers</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/Dener1111"><img src="https://avatars.githubusercontent.com/u/47250868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dener1111"><b>DK</b></a><br><sub>&#64;Dener1111 · 9 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">15</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/bluelink-os"><img src="https://avatars.githubusercontent.com/u/345057346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluelink-os"><b>BlueLink OS</b></a><br><sub>&#64;bluelink-os · 0 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/cryptsurf"><img src="https://avatars.githubusercontent.com/u/287033193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cryptsurf"><b>CryptSurf VPN</b></a><br><sub>&#64;cryptsurf · 0 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -129,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 86 discovered developers (68 awaiting measurement).
+- **Measured:** 21 of 86 discovered developers (65 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 19 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/RO.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/RO.json">JSON</a> |
 
 </div>
 
@@ -164,14 +164,14 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/bergside.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bergside/awesome-design-skills"><b>bergside/awesome-design-skills</b></a><br><sub>List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex…</sub></td>
-<td align="right"><b>3,771</b></td>
-<td align="right">343</td>
+<td align="right"><b>3,799</b></td>
+<td align="right">346</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/petruisfan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/petruisfan/node-supervisor"><b>petruisfan/node-supervisor</b></a></td>
-<td align="right"><b>3,716</b></td>
+<td align="right"><b>3,715</b></td>
 <td align="right">259</td>
 <td>JavaScript</td>
 </tr>
@@ -179,7 +179,7 @@
 <td align="right">23</td>
 <td><img src="https://github.com/axnsan12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/axnsan12/drf-yasg"><b>axnsan12/drf-yasg</b></a><br><sub>Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.</sub></td>
 <td align="right"><b>3,545</b></td>
-<td align="right">440</td>
+<td align="right">441</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -192,21 +192,21 @@
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/Bogdanp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bogdanp/awesome-advent-of-code"><b>Bogdanp/awesome-advent-of-code</b></a> <sub>archived</sub><br><sub>A collection of awesome resources related to the yearly Advent of Code challenge.</sub></td>
-<td align="right"><b>3,233</b></td>
+<td align="right"><b>3,234</b></td>
 <td align="right">945</td>
 <td>Markdown</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/bergside.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bergside/design-md-chrome"><b>bergside/design-md-chrome</b></a><br><sub>Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on Type…</sub></td>
-<td align="right"><b>3,206</b></td>
-<td align="right">347</td>
+<td align="right"><b>3,217</b></td>
+<td align="right">349</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/cretueusebiu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cretueusebiu/laravel-vue-spa"><b>cretueusebiu/laravel-vue-spa</b></a><br><sub>A Laravel-Vue SPA starter kit.</sub></td>
-<td align="right"><b>3,015</b></td>
+<td align="right"><b>3,014</b></td>
 <td align="right">927</td>
 <td>PHP</td>
 </tr>
@@ -220,7 +220,7 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/ovidiuch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ovidiuch/illustrated-algorithms"><b>ovidiuch/illustrated-algorithms</b></a> <sub>archived</sub><br><sub>Interactive algorithm visualizations</sub></td>
-<td align="right"><b>2,756</b></td>
+<td align="right"><b>2,755</b></td>
 <td align="right">160</td>
 <td>JavaScript</td>
 </tr>
@@ -241,7 +241,7 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/presslabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/presslabs/gitfs"><b>presslabs/gitfs</b></a><br><sub>Version controlled file system</sub></td>
-<td align="right"><b>2,606</b></td>
+<td align="right"><b>2,608</b></td>
 <td align="right">163</td>
 <td>Python</td>
 </tr>
@@ -255,7 +255,7 @@
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/bergside.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bergside/typeui"><b>bergside/typeui</b></a><br><sub>Build better UI with AI</sub></td>
-<td align="right"><b>2,268</b></td>
+<td align="right"><b>2,276</b></td>
 <td align="right">156</td>
 <td>TypeScript</td>
 </tr>

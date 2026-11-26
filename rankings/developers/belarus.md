@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/BEPb"><img src="https://avatars.githubusercontent.com/u/57312267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BEPb"><b>Andrej Marinchenko</b></a><br><sub>&#64;BEPb</sub></td>
-<td align="right"><b>28,618</b></td>
+<td align="right"><b>28,662</b></td>
 <td align="right">43</td>
 <td><sub>Belarus</sub></td>
 </tr>
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/nillerusr"><img src="https://avatars.githubusercontent.com/u/42746659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nillerusr"><b>nillerusr</b></a><br><sub>&#64;nillerusr</sub></td>
-<td align="right"><b>413</b></td>
+<td align="right"><b>415</b></td>
 <td align="right">72</td>
 <td><sub>Belarus</sub></td>
 </tr>
@@ -115,7 +115,7 @@
 <tr>
 <td align="right">14</td>
 <td><a href="https://github.com/ermig1979"><img src="https://avatars.githubusercontent.com/u/11633100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ermig1979"><b>Ihar Yermalayeu</b></a><br><sub>&#64;ermig1979</sub></td>
-<td align="right"><b>256</b></td>
+<td align="right"><b>257</b></td>
 <td align="right">11</td>
 <td><sub>Minsk, Belarus</sub></td>
 </tr>
@@ -185,15 +185,15 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/Duff89"><img src="https://avatars.githubusercontent.com/u/66443222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Duff89"><b>Serhey Davydovich</b></a><br><sub>&#64;Duff89</sub></td>
-<td align="right"><b>175</b></td>
-<td align="right">0</td>
+<td align="right"><b>176</b></td>
+<td align="right">21</td>
 <td><sub>Brest Belarus</sub></td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/alexzhirkevich"><img src="https://avatars.githubusercontent.com/u/63979218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexzhirkevich"><b>Alexander Zhirkevich</b></a><br><sub>&#64;alexzhirkevich</sub></td>
 <td align="right"><b>164</b></td>
-<td align="right">0</td>
+<td align="right">21</td>
 <td><sub>Belarus, Minsk</sub></td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/BE.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/BE.json">JSON</a> |
 
 </div>
 
@@ -241,14 +241,14 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/bendc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bendc/sprint"><b>bendc/sprint</b></a><br><sub>A tiny, lightning fast jQuery-like library for modern browsers.</sub></td>
-<td align="right"><b>4,175</b></td>
-<td align="right">159</td>
+<td align="right"><b>4,174</b></td>
+<td align="right">158</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/gijsroge.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gijsroge/tilt.js"><b>gijsroge/tilt.js</b></a><br><sub>A tiny 60+fps parallax tilt hover effect for jQuery.</sub></td>
-<td align="right"><b>3,853</b></td>
+<td align="right"><b>3,852</b></td>
 <td align="right">835</td>
 <td>JavaScript</td>
 </tr>
@@ -262,28 +262,28 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/Martichou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Martichou/rquickshare"><b>Martichou/rquickshare</b></a><br><sub>Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.</sub></td>
-<td align="right"><b>3,670</b></td>
-<td align="right">154</td>
+<td align="right"><b>3,675</b></td>
+<td align="right">155</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/Athou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Athou/commafeed"><b>Athou/commafeed</b></a><br><sub>Google Reader inspired self-hosted personal RSS reader.</sub></td>
-<td align="right"><b>3,653</b></td>
+<td align="right"><b>3,654</b></td>
 <td align="right">417</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/davideas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/davideas/FlexibleAdapter"><b>davideas/FlexibleAdapter</b></a><br><sub>Fast and versatile Adapter for RecyclerView which regroups several features into one library to considerably improve th…</sub></td>
-<td align="right"><b>3,572</b></td>
+<td align="right"><b>3,573</b></td>
 <td align="right">545</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/ctimmerm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ctimmerm/axios-mock-adapter"><b>ctimmerm/axios-mock-adapter</b></a><br><sub>Axios adapter that allows to easily mock requests</sub></td>
-<td align="right"><b>3,541</b></td>
+<td align="right"><b>3,539</b></td>
 <td align="right">249</td>
 <td>JavaScript</td>
 </tr>
@@ -291,7 +291,7 @@
 <td align="right">39</td>
 <td><img src="https://github.com/mariusandra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mariusandra/pigeon-maps"><b>mariusandra/pigeon-maps</b></a><br><sub>ReactJS Maps without external dependencies</sub></td>
 <td align="right"><b>3,518</b></td>
-<td align="right">144</td>
+<td align="right">143</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -304,56 +304,56 @@
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/rubenv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rubenv/sql-migrate"><b>rubenv/sql-migrate</b></a><br><sub>SQL schema migration tool for Go.</sub></td>
-<td align="right"><b>3,413</b></td>
+<td align="right"><b>3,414</b></td>
 <td align="right">293</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/aapatre.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE"><b>aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE</b></a><br><sub>Do you want to LEARN NEW STUFF for FREE? Don&#39;t worry, with the power of web-scraping and automation, this script will f…</sub></td>
-<td align="right"><b>3,290</b></td>
+<td align="right"><b>3,288</b></td>
 <td align="right">554</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-analytics"><b>spatie/laravel-analytics</b></a><br><sub>A Laravel package to retrieve pageviews and other data from Google Analytics</sub></td>
-<td align="right"><b>3,248</b></td>
+<td align="right"><b>3,247</b></td>
 <td align="right">472</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/nicoverbruggen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nicoverbruggen/phpmon"><b>nicoverbruggen/phpmon</b></a><br><sub>Easily install and configure your development environment with PHP. Serve sites with Laravel Valet, switch PHP versions…</sub></td>
-<td align="right"><b>3,227</b></td>
+<td align="right"><b>3,226</b></td>
 <td align="right">60</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/jobrunr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jobrunr/jobrunr"><b>jobrunr/jobrunr</b></a><br><sub>An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commerc…</sub></td>
-<td align="right"><b>3,112</b></td>
+<td align="right"><b>3,114</b></td>
 <td align="right">327</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/automagica.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/automagica/automagica"><b>automagica/automagica</b></a><br><sub>AI-powered Smart Robotic Process Automation 🤖</sub></td>
-<td align="right"><b>3,096</b></td>
+<td align="right"><b>3,098</b></td>
 <td align="right">483</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/ColinDuquesnoy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ColinDuquesnoy/QDarkStyleSheet"><b>ColinDuquesnoy/QDarkStyleSheet</b></a><br><sub>A dark style sheet for QtWidgets application</sub></td>
-<td align="right"><b>3,088</b></td>
-<td align="right">742</td>
+<td align="right"><b>3,089</b></td>
+<td align="right">741</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/nathanvda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nathanvda/cocoon"><b>nathanvda/cocoon</b></a><br><sub>Dynamic nested forms using jQuery made easy; works with formtastic, simple&#95;form or default forms</sub></td>
-<td align="right"><b>3,070</b></td>
+<td align="right"><b>3,069</b></td>
 <td align="right">375</td>
 <td>Ruby</td>
 </tr>
@@ -368,70 +368,70 @@
 <td align="right">50</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/image-optimizer"><b>spatie/image-optimizer</b></a><br><sub>Easily optimize images using PHP</sub></td>
 <td align="right"><b>2,882</b></td>
-<td align="right">225</td>
+<td align="right">224</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">51</td>
-<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/crawler"><b>spatie/crawler</b></a><br><sub>https://spatie.be/docs/crawler</sub></td>
-<td align="right"><b>2,827</b></td>
-<td align="right">368</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">52</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-responsecache"><b>spatie/laravel-responsecache</b></a><br><sub>Speed up a Laravel app by caching the entire response</sub></td>
 <td align="right"><b>2,827</b></td>
 <td align="right">249</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">52</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/sidekick.nvim"><b>folke/sidekick.nvim</b></a><br><sub>Your Neovim AI sidekick</sub></td>
-<td align="right"><b>2,825</b></td>
+<td align="right"><b>2,827</b></td>
 <td align="right">178</td>
 <td>Lua</td>
 </tr>
 <tr>
+<td align="right">53</td>
+<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/crawler"><b>spatie/crawler</b></a><br><sub>https://spatie.be/docs/crawler</sub></td>
+<td align="right"><b>2,826</b></td>
+<td align="right">367</td>
+<td>PHP</td>
+</tr>
+<tr>
 <td align="right">54</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/async"><b>spatie/async</b></a><br><sub>Easily run code asynchronously</sub></td>
-<td align="right"><b>2,807</b></td>
+<td align="right"><b>2,806</b></td>
 <td align="right">185</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/driesvints.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/driesvints/dotfiles"><b>driesvints/dotfiles</b></a><br><sub>Get started with your own dotfiles.</sub></td>
-<td align="right"><b>2,732</b></td>
-<td align="right">677</td>
+<td align="right"><b>2,734</b></td>
+<td align="right">675</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">56</td>
 <td><img src="https://github.com/kikipoulet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kikipoulet/SukiUI"><b>kikipoulet/SukiUI</b></a><br><sub>UI Theme for AvaloniaUI</sub></td>
-<td align="right"><b>2,716</b></td>
+<td align="right"><b>2,720</b></td>
 <td align="right">285</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-sitemap"><b>spatie/laravel-sitemap</b></a><br><sub>Create and generate sitemaps with ease</sub></td>
-<td align="right"><b>2,620</b></td>
+<td align="right"><b>2,617</b></td>
 <td align="right">293</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/AssistoLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AssistoLab/DropDown"><b>AssistoLab/DropDown</b></a><br><sub>A Material Design drop down for iOS</sub></td>
-<td align="right"><b>2,551</b></td>
+<td align="right"><b>2,552</b></td>
 <td align="right">648</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/driesvints.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/driesvints/blade-icons"><b>driesvints/blade-icons</b></a><br><sub>A package to easily make use of SVG icons in your Laravel Blade views.</sub></td>
-<td align="right"><b>2,486</b></td>
-<td align="right">161</td>
+<td align="right"><b>2,483</b></td>
+<td align="right">160</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -444,7 +444,7 @@
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-translatable"><b>spatie/laravel-translatable</b></a><br><sub>Making Eloquent models translatable</sub></td>
-<td align="right"><b>2,462</b></td>
+<td align="right"><b>2,460</b></td>
 <td align="right">295</td>
 <td>PHP</td>
 </tr>
@@ -452,7 +452,7 @@
 <td align="right">62</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/package-skeleton-laravel"><b>spatie/package-skeleton-laravel</b></a><br><sub>A skeleton repository for Spatie&#39;s Laravel Packages</sub></td>
 <td align="right"><b>2,431</b></td>
-<td align="right">653</td>
+<td align="right">652</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -466,14 +466,14 @@
 <td align="right">64</td>
 <td><img src="https://github.com/anthdm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anthdm/hollywood"><b>anthdm/hollywood</b></a><br><sub>Blazingly fast and light-weight Actor engine written in Golang</sub></td>
 <td align="right"><b>2,347</b></td>
-<td align="right">181</td>
+<td align="right">182</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/fniessen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fniessen/org-html-themes"><b>fniessen/org-html-themes</b></a><br><sub>Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your produc…</sub></td>
 <td align="right"><b>2,317</b></td>
-<td align="right">441</td>
+<td align="right">442</td>
 <td>CSS</td>
 </tr>
 <tr>
@@ -493,7 +493,7 @@
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/itext.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itext/itext-java"><b>itext/itext-java</b></a><br><sub>iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bri…</sub></td>
-<td align="right"><b>2,260</b></td>
+<td align="right"><b>2,259</b></td>
 <td align="right">477</td>
 <td>Java</td>
 </tr>

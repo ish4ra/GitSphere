@@ -5,7 +5,7 @@
 "country": {"code":"SG","name":"Singapore","slug":"singapore"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":6195,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":149,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":109,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":6195,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":109,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyOTkzNTQyMDc=","name":"rustdesk","nameWithOwner":"rustdesk/rustdesk","url":"https://github.com/rustdesk/rustdesk","description":"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.","stars":131433,"forks":21234,"primaryLanguage":"Rust","license":{"spdxId":"AGPL-3.0"},"createdAt":"2020-09-28T15:36:08Z","pushedAt":"2026-11-24T15:46:34Z","archived":false,"owner":{"login":"rustdesk","name":"RustDesk","type":"User","url":"https://github.com/rustdesk","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOL5OWWw","name":"crawl4ai","nameWithOwner":"unclecode/crawl4ai","url":"https://github.com/unclecode/crawl4ai","description":"Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this…","stars":87850,"forks":9158,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2024-05-09T09:48:50Z","pushedAt":"2026-11-23T06:00:27Z","archived":false,"owner":{"login":"unclecode","name":"UncleCode","type":"User","url":"https://github.com/unclecode","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOKQtbxA","name":"node-ws","nameWithOwner":"eooce/node-ws","url":"https://github.com/eooce/node-ws","description":"基于serverless实现的vless+trojan+shadowsocks+vmess四协议 + Telegram webproxy，无内核，node环境通用项目","stars":6245,"forks":10087,"primaryLanguage":"HTML","license":{"spdxId":"GPL-3.0"},"createdAt":"2023-09-07T17:57:56Z","pushedAt":"2026-10-11T10:51:37Z","archived":false,"owner":{"login":"eooce","name":"老王","type":"User","url":"https://github.com/eooce","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnk4MzY0NTgxOA==","name":"Masuit.Tools","nameWithOwner":"ldqk/Masuit.Tools","url":"https://github.com/ldqk/Masuit.Tools","description":"全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身…","stars":6195,"forks":1290,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2017-03-02T07:02:07Z","pushedAt":"2026-11-24T06:41:34Z","archived":false,"owner":{"login":"ldqk","name":"懒得勤快","type":"User","url":"https://github.com/ldqk","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "b875503849bdc4a4",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "5a4eedb1f86b69bc",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

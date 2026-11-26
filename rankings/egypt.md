@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/EG.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/EG.json">JSON</a> |
 
 </div>
 
@@ -80,56 +80,56 @@
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/TarekRaafat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TarekRaafat/autoComplete.js"><b>TarekRaafat/autoComplete.js</b></a><br><sub>Simple autocomplete pure vanilla Javascript library.</sub></td>
-<td align="right"><b>4,038</b></td>
+<td align="right"><b>4,037</b></td>
 <td align="right">246</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/llm-awq"><b>mit-han-lab/llm-awq</b></a><br><sub>&#91;MLSys 2024 Best Paper Award&#93; AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration</sub></td>
-<td align="right"><b>3,667</b></td>
-<td align="right">327</td>
+<td align="right"><b>3,666</b></td>
+<td align="right">326</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/M-Abozaid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/M-Abozaid/esp32-c3-adblock"><b>M-Abozaid/esp32-c3-adblock</b></a><br><sub>Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searche…</sub></td>
-<td align="right"><b>3,639</b></td>
-<td align="right">414</td>
+<td align="right"><b>3,661</b></td>
+<td align="right">417</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/efficientvit"><b>mit-han-lab/efficientvit</b></a><br><sub>Efficient vision foundation models for high-resolution generation and perception.</sub></td>
-<td align="right"><b>3,377</b></td>
-<td align="right">261</td>
+<td align="right"><b>3,378</b></td>
+<td align="right">260</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/bevfusion"><b>mit-han-lab/bevfusion</b></a> <sub>archived</sub><br><sub>&#91;ICRA&#39;23&#93; BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird&#39;s-Eye View Representation</sub></td>
-<td align="right"><b>3,234</b></td>
+<td align="right"><b>3,235</b></td>
 <td align="right">625</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/w4po.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/w4po/ExplorerTabUtility"><b>w4po/ExplorerTabUtility</b></a><br><sub>🚀 Supercharge Windows 11&#39;s File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!</sub></td>
-<td align="right"><b>3,055</b></td>
+<td align="right"><b>3,057</b></td>
 <td align="right">109</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/amElnagdy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amElnagdy/delegate-skills"><b>amElnagdy/delegate-skills</b></a><br><sub>Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.</sub></td>
-<td align="right"><b>2,651</b></td>
-<td align="right">226</td>
+<td align="right"><b>2,666</b></td>
+<td align="right">227</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/chemprop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chemprop/chemprop"><b>chemprop/chemprop</b></a><br><sub>Message Passing Neural Networks for Molecule Property Prediction</sub></td>
-<td align="right"><b>2,535</b></td>
+<td align="right"><b>2,536</b></td>
 <td align="right">765</td>
 <td>Python</td>
 </tr>
@@ -137,7 +137,7 @@
 <td align="right">17</td>
 <td><img src="https://github.com/moazbuilds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moazbuilds/CodeMachine-CLI"><b>moazbuilds/CodeMachine-CLI</b></a><br><sub>CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️</sub></td>
 <td align="right"><b>2,517</b></td>
-<td align="right">234</td>
+<td align="right">233</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/mhss1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhss1/MyBrain"><b>mhss1/MyBrain</b></a><br><sub>All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.</sub></td>
-<td align="right"><b>2,242</b></td>
+<td align="right"><b>2,244</b></td>
 <td align="right">196</td>
 <td>Kotlin</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 585 stars; 143 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 585 stars; 142 attributed candidates are tracked.
 - 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

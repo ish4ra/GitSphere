@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **53** | 22 Nov 2026 | <a href="../data/LT.json">JSON</a> |
+| 🟡 Provisional | **60** | 23 Nov 2026 | <a href="../data/LT.json">JSON</a> |
 
 </div>
 
@@ -46,49 +46,49 @@
 <td align="right">4</td>
 <td><img src="https://github.com/epicmaxco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/epicmaxco/vuestic-ui"><b>epicmaxco/vuestic-ui</b></a><br><sub>Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessi…</sub></td>
 <td align="right"><b>3,747</b></td>
-<td align="right">353</td>
+<td align="right">352</td>
 <td>Vue</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/viliusle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/viliusle/miniPaint"><b>viliusle/miniPaint</b></a><br><sub>online image editor</sub></td>
-<td align="right"><b>3,504</b></td>
+<td align="right"><b>3,505</b></td>
 <td align="right">819</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/aras-p.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aras-p/UnityGaussianSplatting"><b>aras-p/UnityGaussianSplatting</b></a><br><sub>Gaussian Splatting visualization for Unity</sub></td>
-<td align="right"><b>3,475</b></td>
-<td align="right">486</td>
+<td align="right"><b>3,478</b></td>
+<td align="right">488</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/justinas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/justinas/alice"><b>justinas/alice</b></a><br><sub>Painless middleware chaining for Go</sub></td>
-<td align="right"><b>3,374</b></td>
+<td align="right"><b>3,375</b></td>
 <td align="right">150</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/DarkaOnLine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DarkaOnLine/L5-Swagger"><b>DarkaOnLine/L5-Swagger</b></a><br><sub>OpenApi or Swagger integration to Laravel</sub></td>
-<td align="right"><b>2,933</b></td>
+<td align="right"><b>2,932</b></td>
 <td align="right">410</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/ArnasDon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ArnasDon/wacrm"><b>ArnasDon/wacrm</b></a><br><sub>Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations.…</sub></td>
-<td align="right"><b>2,767</b></td>
-<td align="right">7,001</td>
+<td align="right"><b>2,784</b></td>
+<td align="right">7,025</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/LiveHelperChat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LiveHelperChat/livehelperchat"><b>LiveHelperChat/livehelperchat</b></a><br><sub>Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice &amp; Video &amp; ScreenShare. Supports…</sub></td>
 <td align="right"><b>2,258</b></td>
-<td align="right">741</td>
+<td align="right">742</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -392,6 +392,55 @@
 <td align="right">37</td>
 <td>PHP</td>
 </tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/norkunas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/norkunas/youtube-dl-php"><b>norkunas/youtube-dl-php</b></a><br><sub>A PHP wrapper for youtube-dl or yt-dlp.</sub></td>
+<td align="right"><b>507</b></td>
+<td align="right">154</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/alvyxaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alvyxaz/barebones-masterserver"><b>alvyxaz/barebones-masterserver</b></a><br><sub>Master Server framework for Unity</sub></td>
+<td align="right"><b>485</b></td>
+<td align="right">94</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/p12tic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/p12tic/cppreference-doc"><b>p12tic/cppreference-doc</b></a><br><sub>C++ standard library reference</sub></td>
+<td align="right"><b>478</b></td>
+<td align="right">129</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/ramojus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ramojus/mellifluous.nvim"><b>ramojus/mellifluous.nvim</b></a><br><sub>Pleasant and productive colorscheme for Neovim</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">16</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/justasm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/justasm/DragLinearLayout"><b>justasm/DragLinearLayout</b></a><br><sub>Android LinearLayout with drag and drop to reorder.</sub></td>
+<td align="right"><b>453</b></td>
+<td align="right">118</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/wialon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wialon/gmqtt"><b>wialon/gmqtt</b></a><br><sub>Python MQTT v5.0 async client</sub></td>
+<td align="right"><b>453</b></td>
+<td align="right">57</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/Pawka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Pawka/phrozn"><b>Pawka/phrozn</b></a> <sub>archived</sub><br><sub>Phrozn is extremely flexible static site generator in PHP.</sub></td>
+<td align="right"><b>451</b></td>
+<td align="right">56</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -400,8 +449,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 511 stars; 53 attributed candidates are tracked.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 451 stars; 60 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

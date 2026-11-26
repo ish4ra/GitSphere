@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/DK.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/DK.json">JSON</a> |
 
 </div>
 
@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/firecow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/firecow/gitlab-ci-local"><b>firecow/gitlab-ci-local</b></a><br><sub>Tired of pushing to test your .gitlab-ci.yml?</sub></td>
-<td align="right"><b>4,167</b></td>
+<td align="right"><b>4,169</b></td>
 <td align="right">223</td>
 <td>TypeScript</td>
 </tr>
@@ -206,21 +206,21 @@
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/electricitymaps.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/electricitymaps/electricitymaps-contrib"><b>electricitymaps/electricitymaps-contrib</b></a><br><sub>The open source repository for Electricity Maps data parsers that powers the world&#39;s most comprehensive electricity dat…</sub></td>
-<td align="right"><b>4,055</b></td>
-<td align="right">1,071</td>
+<td align="right"><b>4,057</b></td>
+<td align="right">1,074</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/release-drafter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/release-drafter/release-drafter"><b>release-drafter/release-drafter</b></a><br><sub>Drafts your next release notes as pull requests are merged into master.</sub></td>
-<td align="right"><b>3,954</b></td>
+<td align="right"><b>3,956</b></td>
 <td align="right">390</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/Ruben2776.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ruben2776/PicView"><b>Ruben2776/PicView</b></a><br><sub>Fast, free and customizable picture viewer</sub></td>
-<td align="right"><b>3,805</b></td>
+<td align="right"><b>3,817</b></td>
 <td align="right">210</td>
 <td>C#</td>
 </tr>
@@ -228,7 +228,7 @@
 <td align="right">30</td>
 <td><img src="https://github.com/Siccity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Siccity/xNode"><b>Siccity/xNode</b></a><br><sub>Unity Node Editor: Lets you view and edit node graphs inside Unity</sub></td>
 <td align="right"><b>3,750</b></td>
-<td align="right">624</td>
+<td align="right">625</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -241,21 +241,21 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/ly4k.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ly4k/Certipy"><b>ly4k/Certipy</b></a><br><sub>Tool for Active Directory Certificate Services enumeration and abuse</sub></td>
-<td align="right"><b>3,733</b></td>
-<td align="right">500</td>
+<td align="right"><b>3,739</b></td>
+<td align="right">501</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/SebLague.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SebLague/Geographical-Adventures"><b>SebLague/Geographical-Adventures</b></a></td>
-<td align="right"><b>3,675</b></td>
-<td align="right">544</td>
+<td align="right"><b>3,676</b></td>
+<td align="right">545</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/ramokz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ramokz/phantom-camera"><b>ramokz/phantom-camera</b></a><br><sub>A Camera addon for Godot 4. Inspired by Cinemachine.</sub></td>
-<td align="right"><b>3,672</b></td>
+<td align="right"><b>3,676</b></td>
 <td align="right">146</td>
 <td>GDScript</td>
 </tr>
@@ -269,35 +269,35 @@
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/mortennobel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mortennobel/cpp-cheatsheet"><b>mortennobel/cpp-cheatsheet</b></a><br><sub>Modern C++ Cheatsheet</sub></td>
-<td align="right"><b>3,573</b></td>
-<td align="right">721</td>
+<td align="right"><b>3,576</b></td>
+<td align="right">722</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/firasdib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/firasdib/Regex101"><b>firasdib/Regex101</b></a><br><sub>This repository is currently only used for issue tracking for www.regex101.com</sub></td>
-<td align="right"><b>3,530</b></td>
-<td align="right">259</td>
+<td align="right"><b>3,531</b></td>
+<td align="right">260</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/mortbopet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mortbopet/Ripes"><b>mortbopet/Ripes</b></a><br><sub>A graphical processor simulator and assembly editor for the RISC-V ISA</sub></td>
-<td align="right"><b>3,497</b></td>
+<td align="right"><b>3,507</b></td>
 <td align="right">390</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/n3d1117.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/n3d1117/chatgpt-telegram-bot"><b>n3d1117/chatgpt-telegram-bot</b></a><br><sub>🤖 A Telegram bot that integrates with OpenAI&#39;s official ChatGPT APIs to provide answers, written in Python</sub></td>
-<td align="right"><b>3,460</b></td>
+<td align="right"><b>3,461</b></td>
 <td align="right">1,528</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/arfoundation-samples"><b>Unity-Technologies/arfoundation-samples</b></a><br><sub>Example content for Unity projects based on AR Foundation</sub></td>
-<td align="right"><b>3,439</b></td>
+<td align="right"><b>3,438</b></td>
 <td align="right">1,248</td>
 <td>C#</td>
 </tr>
@@ -305,20 +305,20 @@
 <td align="right">41</td>
 <td><img src="https://github.com/thomasahle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thomasahle/sunfish"><b>thomasahle/sunfish</b></a><br><sub>Sunfish: a Python Chess Engine in 111 lines of code</sub></td>
 <td align="right"><b>3,316</b></td>
-<td align="right">584</td>
+<td align="right">585</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/simonbs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/simonbs/Runestone"><b>simonbs/Runestone</b></a><br><sub>📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.</sub></td>
-<td align="right"><b>3,249</b></td>
+<td align="right"><b>3,253</b></td>
 <td align="right">229</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/open-rpa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/open-rpa/openrpa"><b>open-rpa/openrpa</b></a><br><sub>Free Open Source Enterprise Grade RPA</sub></td>
-<td align="right"><b>3,126</b></td>
+<td align="right"><b>3,131</b></td>
 <td align="right">666</td>
 <td>C#</td>
 </tr>
@@ -326,27 +326,27 @@
 <td align="right">44</td>
 <td><img src="https://github.com/mjebrahimi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mjebrahimi/Awesome-Microservices-DotNet"><b>mjebrahimi/Awesome-Microservices-DotNet</b></a><br><sub>💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservi…</sub></td>
 <td align="right"><b>3,096</b></td>
-<td align="right">387</td>
+<td align="right">388</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/NavMeshComponents"><b>Unity-Technologies/NavMeshComponents</b></a><br><sub>High Level API Components for Runtime NavMesh Building</sub></td>
-<td align="right"><b>3,083</b></td>
-<td align="right">1,082</td>
+<td align="right"><b>3,084</b></td>
+<td align="right">1,081</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/Graphics"><b>Unity-Technologies/Graphics</b></a><br><sub>Unity Graphics - Including Scriptable Render Pipeline</sub></td>
-<td align="right"><b>3,029</b></td>
-<td align="right">886</td>
+<td align="right"><b>3,032</b></td>
+<td align="right">885</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/watson.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/watson/awesome-computer-history"><b>watson/awesome-computer-history</b></a><br><sub>An Awesome List of computer history videos, documentaries and related folklore</sub></td>
-<td align="right"><b>2,982</b></td>
+<td align="right"><b>2,981</b></td>
 <td align="right">159</td>
 <td>—</td>
 </tr>
@@ -354,14 +354,14 @@
 <td align="right">48</td>
 <td><img src="https://github.com/keleshev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/keleshev/schema"><b>keleshev/schema</b></a><br><sub>Schema validation just got Pythonic</sub></td>
 <td align="right"><b>2,937</b></td>
-<td align="right">236</td>
+<td align="right">237</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/diku-dk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/diku-dk/futhark"><b>diku-dk/futhark</b></a><br><sub>:boom::computer::boom: A data-parallel functional programming language</sub></td>
-<td align="right"><b>2,823</b></td>
-<td align="right">212</td>
+<td align="right"><b>2,820</b></td>
+<td align="right">213</td>
 <td>Haskell</td>
 </tr>
 <tr>
@@ -374,8 +374,8 @@
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/syv-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syv-ai/HyperQwen"><b>syv-ai/HyperQwen</b></a><br><sub>Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with vLLM: 127 tok/s sing…</sub></td>
-<td align="right"><b>2,785</b></td>
-<td align="right">351</td>
+<td align="right"><b>2,793</b></td>
+<td align="right">354</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -395,14 +395,14 @@
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/rebus-org.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebus-org/Rebus"><b>rebus-org/Rebus</b></a><br><sub>:bus: Simple and lean service bus implementation for .NET</sub></td>
-<td align="right"><b>2,674</b></td>
-<td align="right">379</td>
+<td align="right"><b>2,675</b></td>
+<td align="right">380</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/esbenp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/esbenp/pdf-bot"><b>esbenp/pdf-bot</b></a><br><sub>🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying…</sub></td>
-<td align="right"><b>2,633</b></td>
+<td align="right"><b>2,630</b></td>
 <td align="right">148</td>
 <td>JavaScript</td>
 </tr>
@@ -410,13 +410,13 @@
 <td align="right">56</td>
 <td><img src="https://github.com/thomasp85.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thomasp85/patchwork"><b>thomasp85/patchwork</b></a><br><sub>The Composer of ggplots</sub></td>
 <td align="right"><b>2,620</b></td>
-<td align="right">169</td>
+<td align="right">171</td>
 <td>R</td>
 </tr>
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/Unity-Robotics-Hub"><b>Unity-Technologies/Unity-Robotics-Hub</b></a><br><sub>Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.</sub></td>
-<td align="right"><b>2,616</b></td>
+<td align="right"><b>2,617</b></td>
 <td align="right">473</td>
 <td>C#</td>
 </tr>
@@ -424,7 +424,7 @@
 <td align="right">58</td>
 <td><img src="https://github.com/SimonVT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimonVT/android-menudrawer"><b>SimonVT/android-menudrawer</b></a><br><sub>&#42;DEPRECATED&#42; A slide-out menu implementation, which allows users to navigate between views in your app.</sub></td>
 <td align="right"><b>2,565</b></td>
-<td align="right">1,095</td>
+<td align="right">1,094</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -436,17 +436,17 @@
 </tr>
 <tr>
 <td align="right">60</td>
-<td><img src="https://github.com/ErikEJ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ErikEJ/EFCorePowerTools"><b>ErikEJ/EFCorePowerTools</b></a><br><sub>Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio &amp; CLI</sub></td>
-<td align="right"><b>2,516</b></td>
-<td align="right">339</td>
-<td>C#</td>
+<td><img src="https://github.com/sepandhaghighi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sepandhaghighi/art"><b>sepandhaghighi/art</b></a><br><sub>🎨 ASCII art library for Python</sub></td>
+<td align="right"><b>2,519</b></td>
+<td align="right">168</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">61</td>
-<td><img src="https://github.com/sepandhaghighi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sepandhaghighi/art"><b>sepandhaghighi/art</b></a><br><sub>🎨 ASCII art library for Python</sub></td>
-<td align="right"><b>2,516</b></td>
-<td align="right">167</td>
-<td>Python</td>
+<td><img src="https://github.com/ErikEJ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ErikEJ/EFCorePowerTools"><b>ErikEJ/EFCorePowerTools</b></a><br><sub>Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio &amp; CLI</sub></td>
+<td align="right"><b>2,517</b></td>
+<td align="right">339</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">62</td>
@@ -458,15 +458,15 @@
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/AssetBundles-Browser"><b>Unity-Technologies/AssetBundles-Browser</b></a><br><sub>Editor tool for viewing and debugging asset bundle contents before and after builds</sub></td>
-<td align="right"><b>2,407</b></td>
-<td align="right">548</td>
+<td align="right"><b>2,409</b></td>
+<td align="right">549</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/chhoumann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chhoumann/quickadd"><b>chhoumann/quickadd</b></a><br><sub>QuickAdd for Obsidian</sub></td>
-<td align="right"><b>2,403</b></td>
-<td align="right">198</td>
+<td align="right"><b>2,405</b></td>
+<td align="right">197</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -486,21 +486,21 @@
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/Bottelet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bottelet/DaybydayCRM"><b>Bottelet/DaybydayCRM</b></a><br><sub>DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.</sub></td>
-<td align="right"><b>2,330</b></td>
-<td align="right">765</td>
+<td align="right"><b>2,328</b></td>
+<td align="right">764</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/UniversalRenderingExamples"><b>Unity-Technologies/UniversalRenderingExamples</b></a><br><sub>This project contains a collection of Custom Renderer examples. This will be updated as we refine the feature and add m…</sub></td>
-<td align="right"><b>2,320</b></td>
-<td align="right">407</td>
+<td align="right"><b>2,321</b></td>
+<td align="right">406</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/mikker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikker/LeaderKey"><b>mikker/LeaderKey</b></a><br><sub>The &#42;faster than your launcher&#42; launcher</sub></td>
-<td align="right"><b>2,313</b></td>
+<td align="right"><b>2,316</b></td>
 <td align="right">100</td>
 <td>Swift</td>
 </tr>
@@ -515,22 +515,22 @@
 <td align="right">71</td>
 <td><img src="https://github.com/MarcSkovMadsen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MarcSkovMadsen/awesome-streamlit"><b>MarcSkovMadsen/awesome-streamlit</b></a><br><sub>The purpose of this project is to share knowledge on how awesome Streamlit is and can be</sub></td>
 <td align="right"><b>2,280</b></td>
-<td align="right">357</td>
+<td align="right">358</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">72</td>
+<td><img src="https://github.com/lkarlslund.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lkarlslund/Adalanche"><b>lkarlslund/Adalanche</b></a><br><sub>Attack Graph Visualizer and Explorer (Active Directory) ...Who&#39;s &#42;really&#42; Domain Admin?</sub></td>
+<td align="right"><b>2,228</b></td>
+<td align="right">202</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">73</td>
 <td><img src="https://github.com/wandenberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wandenberg/nginx-push-stream-module"><b>wandenberg/nginx-push-stream-module</b></a><br><sub>A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.</sub></td>
 <td align="right"><b>2,227</b></td>
 <td align="right">288</td>
 <td>C</td>
-</tr>
-<tr>
-<td align="right">73</td>
-<td><img src="https://github.com/lkarlslund.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lkarlslund/Adalanche"><b>lkarlslund/Adalanche</b></a><br><sub>Attack Graph Visualizer and Explorer (Active Directory) ...Who&#39;s &#42;really&#42; Domain Admin?</sub></td>
-<td align="right"><b>2,227</b></td>
-<td align="right">202</td>
-<td>Go</td>
 </tr>
 <tr>
 <td align="right">74</td>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **98** | 22 Nov 2026 | <a href="../data/EE.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/EE.json">JSON</a> |
 
 </div>
 
@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/Voog.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Voog/wysihtml"><b>Voog/wysihtml</b></a><br><sub>Open source rich text editor for the modern web</sub></td>
-<td align="right"><b>3,343</b></td>
+<td align="right"><b>3,341</b></td>
 <td align="right">329</td>
 <td>JavaScript</td>
 </tr>
@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/joe-bell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joe-bell/plaiceholder"><b>joe-bell/plaiceholder</b></a> <sub>archived</sub><br><sub>Beautiful image placeholders, without the hassle.</sub></td>
-<td align="right"><b>2,314</b></td>
+<td align="right"><b>2,315</b></td>
 <td align="right">74</td>
 <td>TypeScript</td>
 </tr>
@@ -137,21 +137,21 @@
 <td align="right">17</td>
 <td><img src="https://github.com/Wirasm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Wirasm/prp"><b>Wirasm/prp</b></a><br><sub>Prompts, workflows and more for agentic engineering</sub></td>
 <td align="right"><b>2,266</b></td>
-<td align="right">596</td>
+<td align="right">597</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/postalsys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/postalsys/emailengine"><b>postalsys/emailengine</b></a><br><sub>Headless email client</sub></td>
-<td align="right"><b>2,254</b></td>
-<td align="right">228</td>
+<td align="right"><b>2,257</b></td>
+<td align="right">229</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/rebing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebing/graphql-laravel"><b>rebing/graphql-laravel</b></a><br><sub>Laravel wrapper for Facebook&#39;s GraphQL</sub></td>
-<td align="right"><b>2,225</b></td>
-<td align="right">272</td>
+<td align="right"><b>2,224</b></td>
+<td align="right">271</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -707,15 +707,29 @@
 <td align="right">141</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/aleksandr-m.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aleksandr-m/gitflow-maven-plugin"><b>aleksandr-m/gitflow-maven-plugin</b></a><br><sub>The Git-Flow Maven Plugin supports various Git workflows, including GitFlow and GitHub Flow. This plugin runs Git and M…</sub></td>
+<td align="right"><b>506</b></td>
+<td align="right">185</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/dennwc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dennwc/dom"><b>dennwc/dom</b></a><br><sub>DOM library for Go and WASM</sub></td>
+<td align="right"><b>506</b></td>
+<td align="right">59</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 518 stars; 98 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 506 stars; 108 attributed candidates are tracked.
 - 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

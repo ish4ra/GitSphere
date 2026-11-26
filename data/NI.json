@@ -5,7 +5,7 @@
 "country": {"code":"NI","name":"Nicaragua","slug":"nicaragua"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":75,"ownerExpansionBacklog":140,"candidates":75,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":112,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":75,"ownerExpansionBacklog":138,"candidates":75,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":112,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"clases_desarrollo_web","nameWithOwner":"jonathanquehay/clases_desarrollo_web","url":"https://github.com/jonathanquehay/clases_desarrollo_web","description":null,"stars":2,"forks":9,"primaryLanguage":"HTML","license":null,"createdAt":"2016-08-17T23:25:05Z","pushedAt":"2016-11-17T15:34:40Z","archived":false,"owner":{"login":"jonathanquehay","name":"Jonathán Moreno","type":"User","url":"https://github.com/jonathanquehay","location":"Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Magma-Orchastrator-in-a-Docker-Swarm","nameWithOwner":"edaspb/Magma-Orchastrator-in-a-Docker-Swarm","url":"https://github.com/edaspb/Magma-Orchastrator-in-a-Docker-Swarm","description":null,"stars":2,"forks":2,"primaryLanguage":"Shell","license":null,"createdAt":"2020-09-23T18:04:24Z","pushedAt":"2021-03-23T16:47:25Z","archived":false,"owner":{"login":"edaspb","name":"Dmitry Erankevich","type":"User","url":"https://github.com/edaspb","location":"Managua, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -83,8 +83,8 @@
   {"rank":74,"id":null,"name":"react-bolierplate","nameWithOwner":"slam24/react-bolierplate","url":"https://github.com/slam24/react-bolierplate","description":null,"stars":1,"forks":1,"primaryLanguage":"JavaScript","license":null,"createdAt":"2019-04-23T15:33:33Z","pushedAt":"2022-12-09T20:38:47Z","archived":false,"owner":{"login":"slam24","name":"Luis Alfredo Martínez Sánchez","type":"User","url":"https://github.com/slam24","location":"Managua, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":75,"id":null,"name":"corecode-io","nameWithOwner":"Walter-Gaitan/corecode-io","url":"https://github.com/Walter-Gaitan/corecode-io","description":null,"stars":1,"forks":1,"primaryLanguage":null,"license":null,"createdAt":"2021-11-28T01:41:33Z","pushedAt":"2022-07-20T14:05:32Z","archived":false,"owner":{"login":"Walter-Gaitan","name":"Walter Gaitan","type":"User","url":"https://github.com/Walter-Gaitan","location":"Managua, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "84ff2d80db8294ac",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "68599c1ee6b0e280",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

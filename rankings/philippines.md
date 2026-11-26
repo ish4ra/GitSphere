@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **70** | 22 Nov 2026 | <a href="../data/PH.json">JSON</a> |
+| 🟡 Provisional | **78** | 23 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
 </div>
 
@@ -66,8 +66,8 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/SeaDve.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SeaDve/Kooha"><b>SeaDve/Kooha</b></a><br><sub>Elegantly record your screen</sub></td>
-<td align="right"><b>3,562</b></td>
-<td align="right">105</td>
+<td align="right"><b>3,567</b></td>
+<td align="right">106</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/eromatiya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eromatiya/the-glorious-dotfiles"><b>eromatiya/the-glorious-dotfiles</b></a><br><sub>A glorified personal dot files</sub></td>
-<td align="right"><b>2,688</b></td>
+<td align="right"><b>2,690</b></td>
 <td align="right">144</td>
 <td>Lua</td>
 </tr>
@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/benborla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benborla/mcp-server-mysql"><b>benborla/mcp-server-mysql</b></a><br><sub>A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect…</sub></td>
-<td align="right"><b>2,227</b></td>
+<td align="right"><b>2,229</b></td>
 <td align="right">272</td>
 <td>JavaScript</td>
 </tr>
@@ -511,6 +511,62 @@
 <td align="right">37</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/jedld.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jedld/tensor_stream"><b>jedld/tensor&#95;stream</b></a><br><sub>A ground-up and standalone reimplementation of TensorFlow for ruby. Comes with a pure ruby and OpenCL opcode evaluator</sub></td>
+<td align="right"><b>502</b></td>
+<td align="right">16</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/AngeloJacobo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AngeloJacobo/UberDDR3"><b>AngeloJacobo/UberDDR3</b></a><br><sub>Opensource DDR3 Controller</sub></td>
+<td align="right"><b>498</b></td>
+<td align="right">83</td>
+<td>Verilog</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/arviedelgado.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arviedelgado/roro"><b>arviedelgado/roro</b></a> <sub>archived</sub><br><sub>roro is a free, open-source robotic process automation software</sub></td>
+<td align="right"><b>491</b></td>
+<td align="right">208</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/rustaccato.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rustaccato/road-to-being-master-rustacean"><b>rustaccato/road-to-being-master-rustacean</b></a></td>
+<td align="right"><b>488</b></td>
+<td align="right">123</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/WisdomSky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WisdomSky/Cloudflared-web"><b>WisdomSky/Cloudflared-web</b></a><br><sub>Cloudflared-web is a docker image that packages both cloudflared cli and a simple Web UI to easily start or stop remote…</sub></td>
+<td align="right"><b>482</b></td>
+<td align="right">53</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/jeffreycayao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeffreycayao/pinginfoview"><b>jeffreycayao/pinginfoview</b></a><br><sub>PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the resu…</sub></td>
+<td align="right"><b>473</b></td>
+<td align="right">86</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/benjsicam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benjsicam/nestjs-rest-microservices"><b>benjsicam/nestjs-rest-microservices</b></a><br><sub>REST API with gRPC back-end microservices built using the NestJS framework. Used for learning/trial &amp; boilerplate purpo…</sub></td>
+<td align="right"><b>464</b></td>
+<td align="right">120</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/WisdomSky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WisdomSky/LinuxServer-AppStore"><b>WisdomSky/LinuxServer-AppStore</b></a><br><sub>A CasaOS and ZimaOS custom Appstore containing over 100+ LinuxServer.io images.</sub></td>
+<td align="right"><b>453</b></td>
+<td align="right">67</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -519,8 +575,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 513 stars; 70 attributed candidates are tracked.
-- 120 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 453 stars; 78 attributed candidates are tracked.
+- 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

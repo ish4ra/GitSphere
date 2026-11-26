@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 02 Nov 2026 | <a href="../data/MX.json">JSON</a> |
 
-> **Not yet re-verified.** 19 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 11 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -75,22 +75,22 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/json-schema-faker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/json-schema-faker/json-schema-faker"><b>json-schema-faker/json-schema-faker</b></a><br><sub>JSON-Schema + fake data generators</sub></td>
-<td align="right"><b>3,450</b></td>
+<td align="right"><b>3,449</b></td>
 <td align="right">341</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/EliverLara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EliverLara/Nordic"><b>EliverLara/Nordic</b></a><br><sub>:snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.</sub></td>
-<td align="right"><b>2,748</b></td>
+<td align="right"><b>2,747</b></td>
 <td align="right">132</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/thepirat000.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thepirat000/Audit.NET"><b>thepirat000/Audit.NET</b></a><br><sub>An extensible framework to audit executing operations in .NET</sub></td>
-<td align="right"><b>2,663</b></td>
-<td align="right">326</td>
+<td align="right"><b>2,665</b></td>
+<td align="right">327</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -592,136 +592,136 @@
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/codeforced.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codeforced/handle"><b>codeforced/handle</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
+<td><img src="https://github.com/rulpalacios.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rulpalacios/FitnessApp"><b>rulpalacios/FitnessApp</b></a><br><sub>FitnessApp developed with ReactJS</sub></td>
+<td align="right"><b>503</b></td>
+<td align="right">95</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">83</td>
-<td><img src="https://github.com/eduardococh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eduardococh/Programming-Challenges"><b>eduardococh/Programming-Challenges</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
-<td>Java</td>
+<td><img src="https://github.com/PhantomInsights.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PhantomInsights/subreddit-analyzer"><b>PhantomInsights/subreddit-analyzer</b></a><br><sub>A comprehensive Data and Text Mining workflow for submissions and comments from any given public subreddit.</sub></td>
+<td align="right"><b>500</b></td>
+<td align="right">39</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/JEnriqueZS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JEnriqueZS/DAL-BaseLibrary"><b>JEnriqueZS/DAL-BaseLibrary</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
-<td>C#</td>
+<td><img src="https://github.com/dgox16.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dgox16/oldworld.nvim"><b>dgox16/oldworld.nvim</b></a><br><sub>Dark theme with relaxing and no-saturated colors</sub></td>
+<td align="right"><b>484</b></td>
+<td align="right">31</td>
+<td>Lua</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/Oimetra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Oimetra/AbsolverMoves"><b>Oimetra/AbsolverMoves</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
-<td>HTML</td>
+<td><img src="https://github.com/PhantomInsights.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PhantomInsights/mexican-government-report"><b>PhantomInsights/mexican-government-report</b></a><br><sub>Text Mining on the 2019 Mexican Government Report, covering from extracting text from a PDF file to plotting the result…</sub></td>
+<td align="right"><b>475</b></td>
+<td align="right">81</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/tr1d3r.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tr1d3r/ticoxs"><b>tr1d3r/ticoxs</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/ElectronicCats.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ElectronicCats/mpu6050"><b>ElectronicCats/mpu6050</b></a><br><sub>MPU6050 Arduino Library</sub></td>
+<td align="right"><b>473</b></td>
+<td align="right">157</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/alanlinio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alanlinio/useful-tools-devs"><b>alanlinio/useful-tools-devs</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/josejesusguzman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/josejesusguzman/acordeon-az900-innovaccion"><b>josejesusguzman/acordeon-az900-innovaccion</b></a><br><sub>Aquí podrás encontrar recursos clave y adicionales para tu paso por la certificación Microsoft Azure Fundamentals AZ-900</sub></td>
+<td align="right"><b>471</b></td>
+<td align="right">276</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/arturowmex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arturowmex/metrics_merger"><b>arturowmex/metrics&#95;merger</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>Java</td>
+<td><img src="https://github.com/ivam3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivam3/termux-packages"><b>ivam3/termux-packages</b></a><br><sub>Set of open source tools adapted to the Android OS packaged in a .deb extension for exclusive use in Termux.</sub></td>
+<td align="right"><b>469</b></td>
+<td align="right">75</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/Belsirk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belsirk/Red_Manager"><b>Belsirk/Red&#95;Manager</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/arcanite24.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arcanite24/gb-recompiled"><b>arcanite24/gb-recompiled</b></a><br><sub>Static recompiler for Game Boy and Game Boy Color ROMs that emits portable C projects with an SDL2 runtime.</sub></td>
+<td align="right"><b>467</b></td>
+<td align="right">39</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/emorteo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emorteo/FinShape3D"><b>emorteo/FinShape3D</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">91</td>
-<td><img src="https://github.com/HernanVM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HernanVM/Sistematica2020"><b>HernanVM/Sistematica2020</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">92</td>
-<td><img src="https://github.com/jladamen91.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jladamen91/ApiGateway"><b>jladamen91/ApiGateway</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/jorufua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jorufua/AR4A"><b>jorufua/AR4A</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/juanpadiaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juanpadiaz/NVD-Monitor"><b>juanpadiaz/NVD-Monitor</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/lalitoch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lalitoch/FacebookFikrado"><b>lalitoch/FacebookFikrado</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">96</td>
-<td><img src="https://github.com/llamagrati.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/llamagrati/llama-gratis"><b>llamagrati/llama-gratis</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/lowmyprice.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lowmyprice/lowpi.com"><b>lowmyprice/lowpi.com</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">98</td>
-<td><img src="https://github.com/ochoatorvic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ochoatorvic/Google-Maps-busqueda-en-perimetro"><b>ochoatorvic/Google-Maps-busqueda-en-perimetro</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">99</td>
-<td><img src="https://github.com/ReNhoSoft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ReNhoSoft/GGFrameDataBot"><b>ReNhoSoft/GGFrameDataBot</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">100</td>
 <td><img src="https://github.com/ChuckSalle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChuckSalle/UTAustinX-UT.7.10x-Foundations-of-Data-Analysis---Part-1"><b>ChuckSalle/UTAustinX-UT.7.10x-Foundations-of-Data-Analysis---Part-1</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>R</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/dropdead-Mx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dropdead-Mx/sistema"><b>dropdead-Mx/sistema</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/rikardoisidro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rikardoisidro/callcenter"><b>rikardoisidro/callcenter</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/ajresendiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ajresendiz/Practica"><b>ajresendiz/Practica</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/alecerritos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alecerritos/Integradora"><b>alecerritos/Integradora</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/AlkeinCasanova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlkeinCasanova/IdeaFactory-7.1"><b>AlkeinCasanova/IdeaFactory-7.1</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/alkreid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alkreid/railsinstaller_demo"><b>alkreid/railsinstaller&#95;demo</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/amarines2605.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amarines2605/SEW"><b>amarines2605/SEW</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/andresobregonl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andresobregonl/LabADC_Fab16_Workshop"><b>andresobregonl/LabADC&#95;Fab16&#95;Workshop</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/apolanco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/apolanco/AndroidAdmobApp"><b>apolanco/AndroidAdmobApp</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/ArcangelAsesino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ArcangelAsesino/PhoneGapTes"><b>ArcangelAsesino/PhoneGapTes</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>
@@ -731,9 +731,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 115 attributed candidates are tracked.
-- 19 entries were carried over from the previous dataset and are pending revalidation.
-- 116 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 1 stars; 105 attributed candidates are tracked.
+- 11 entries were carried over from the previous dataset and are pending revalidation.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

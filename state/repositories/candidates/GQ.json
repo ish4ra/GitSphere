@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GQ","name":"Equatorial Guinea","slug":"equatorial-guinea"},
-"count": 42,
+"count": 41,
 "repositories": [
-  {"name":"alexis-ngoyi/linkih-app","stars":2,"forks":0,"language":"TypeScript","archived":false,"createdAt":"2023-02-10T15:01:32Z","pushedAt":"2023-05-25T00:45:05Z","owner":{"login":"alexis-ngoyi","type":"User","name":"Alexis Ngoyi M.","location":"Guinee Equatoriale, Malabo"},"attribution":{"code":"GQ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:11.546Z","id":"legacy:alexis-ngoyi/linkih-app","legacy":true},
   {"name":"alterte/Alterte","stars":1,"forks":0,"language":"HTML","archived":false,"createdAt":"2025-06-20T12:46:45Z","pushedAt":"2025-06-20T12:55:30Z","owner":{"login":"alterte","type":"User","name":"Jose Alejandro Nuñez Andeme","location":"Malabo, Bioko Norte, Guinea Ecuatorial"},"attribution":{"code":"GQ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:alterte/alterte","legacy":true},
   {"name":"Asumu74/Deeploox","stars":1,"forks":0,"language":"JavaScript","license":"GPL-3.0","archived":false,"createdAt":"2026-04-29T08:36:31Z","pushedAt":"2026-04-29T08:43:19Z","owner":{"login":"Asumu74","type":"User","name":"Asumu","location":"Malabo, Guinea Ecuatorial"},"attribution":{"code":"GQ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:asumu74/deeploox","legacy":true},
   {"name":"Calbert-72-Git/malabocar-v3-2","stars":1,"forks":0,"language":"TypeScript","archived":false,"createdAt":"2025-04-09T09:06:22Z","pushedAt":"2025-04-29T08:05:43Z","owner":{"login":"Calbert-72-Git","type":"User","name":"Eni","location":"Malabo, Guinea Ecuatorial"},"attribution":{"code":"GQ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:calbert-72-git/malabocar-v3-2","legacy":true},

@@ -5,7 +5,7 @@
 "country": {"code":"VA","name":"Vatican City","slug":"vatican-city"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":49,"ownerExpansionBacklog":70,"candidates":49,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":17,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":49,"ownerExpansionBacklog":69,"candidates":49,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":17,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"gwadloup-alert","nameWithOwner":"Pineapple-Dev-s/gwadloup-alert","url":"https://github.com/Pineapple-Dev-s/gwadloup-alert","description":null,"stars":2,"forks":1,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-03-29T19:08:54Z","pushedAt":"2026-04-23T01:57:06Z","archived":false,"owner":{"login":"Pineapple-Dev-s","name":"Pineapple Dev's","type":"Organization","url":"https://github.com/Pineapple-Dev-s","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"rebound-rs","nameWithOwner":"Cosmic-Stars-Team/rebound-rs","url":"https://github.com/Cosmic-Stars-Team/rebound-rs","description":null,"stars":2,"forks":0,"primaryLanguage":"Rust","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-03-27T09:23:55Z","pushedAt":"2026-05-16T03:54:19Z","archived":false,"owner":{"login":"Cosmic-Stars-Team","name":"Cosmic Stars Team","type":"Organization","url":"https://github.com/Cosmic-Stars-Team","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -57,8 +57,8 @@
   {"rank":48,"id":null,"name":"boersenspiel","nameWithOwner":"vronton/boersenspiel","url":"https://github.com/vronton/boersenspiel","description":null,"stars":0,"forks":0,"primaryLanguage":"Vue","license":null,"createdAt":"2024-02-20T23:47:29Z","pushedAt":"2024-02-24T18:36:43Z","archived":false,"owner":{"login":"vronton","name":"Ve","type":"User","url":"https://github.com/vronton","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":49,"id":null,"name":".github","nameWithOwner":"wacky-tv-wall/.github","url":"https://github.com/wacky-tv-wall/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-02-26T03:22:54Z","pushedAt":"2023-02-26T03:30:15Z","archived":false,"owner":{"login":"wacky-tv-wall","name":"MDMA","type":"Organization","url":"https://github.com/wacky-tv-wall","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "739f4c61ba9c724a",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "4d3c5a04205262d4",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

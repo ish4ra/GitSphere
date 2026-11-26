@@ -5,7 +5,7 @@
 "country": {"code":"AI","name":"Anguilla","slug":"anguilla"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":25,"measuredAccounts":19,"measurementBacklog":6,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":22,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":25,"measuredAccounts":22,"measurementBacklog":3,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":22,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjk0NDI0NTI=","login":"shawnpjennings","name":null,"url":"https://github.com/shawnpjennings","avatarUrl":"https://avatars.githubusercontent.com/u/9442452?s=80&v=4","followers":0,"publicRepos":13,"location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":140,"commits":130,"pullRequests":1,"reviews":0,"issues":1,"repositories":8,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjIxNTU3MTU1","login":"Ideora2026","name":"Ideora","url":"https://github.com/Ideora2026","avatarUrl":"https://avatars.githubusercontent.com/u/21557155?s=80&v=4","followers":6,"publicRepos":194,"location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":85,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":85,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"U_kgDODubNmA","login":"anguillavacation","name":"anguilla","url":"https://github.com/anguillavacation","avatarUrl":"https://avatars.githubusercontent.com/u/250006936?s=80&v=4","followers":0,"publicRepos":0,"location":"anguilla","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-25T15:00:00Z","windowTo":"2026-11-25T15:00:00Z","measuredOn":"2026-11-25"}},
   {"rank":9,"id":"U_kgDOBsPk6g","login":"MindBreaker096","name":"Huazhe Wang","url":"https://github.com/MindBreaker096","avatarUrl":"https://avatars.githubusercontent.com/u/113501418?s=80&v=4","followers":0,"publicRepos":2,"location":"714 ,Noe Shore ,Warrenbury ,Iowa ,Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "f11c498e0c21e6c1",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "c7c12b01614df357",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

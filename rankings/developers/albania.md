@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/AL.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/developers/AL.json">JSON</a> |
 
 </div>
 
@@ -107,69 +107,83 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/AnXh3L0"><img src="https://avatars.githubusercontent.com/u/25004151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnXh3L0"><b>Anxhelo Lushka</b></a><br><sub>&#64;AnXh3L0</sub></td>
+<td align="right"><b>165</b></td>
+<td align="right">17</td>
+<td><sub>Albania</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/adamyi"><img src="https://avatars.githubusercontent.com/u/5311091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamyi"><b>Adam Yi</b></a><br><sub>&#64;adamyi</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">93</td>
 <td><sub>Planet Vulcan</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/banago"><img src="https://avatars.githubusercontent.com/u/339914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/banago"><b>Baki Goxhaj</b></a><br><sub>&#64;banago</sub></td>
 <td align="right"><b>158</b></td>
 <td align="right">28</td>
 <td><sub>Vlorë, Albania</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
+<td><a href="https://github.com/james-see"><img src="https://avatars.githubusercontent.com/u/616585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/james-see"><b>JC</b></a><br><sub>&#64;james-see</sub></td>
+<td align="right"><b>157</b></td>
+<td align="right">192</td>
+<td><sub>Planet</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/klendi"><img src="https://avatars.githubusercontent.com/u/20234738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/klendi"><b>Klendi Goci</b></a><br><sub>&#64;klendi</sub></td>
 <td align="right"><b>100</b></td>
-<td align="right">0</td>
+<td align="right">29</td>
 <td><sub>Tirana, Albania</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/jp7677"><img src="https://avatars.githubusercontent.com/u/17219293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jp7677"><b>Jens Peters</b></a><br><sub>&#64;jp7677</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>CET/CEST</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
 <td><a href="https://github.com/likashefqet"><img src="https://avatars.githubusercontent.com/u/22661589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/likashefqet"><b>Shefqet Lika</b></a><br><sub>&#64;likashefqet</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Albania</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
 <td><a href="https://github.com/12florinda"><img src="https://avatars.githubusercontent.com/u/142095500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/12florinda"><b>12florinda</b></a><br><sub>&#64;12florinda</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">5</td>
 <td><sub>Tirane Albania</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">21</td>
 <td><a href="https://github.com/554960"><img src="https://avatars.githubusercontent.com/u/252391242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/554960"><b>sharey</b></a><br><sub>&#64;554960</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">7</td>
 <td><sub>Albania</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">22</td>
 <td><a href="https://github.com/0xdbh"><img src="https://avatars.githubusercontent.com/u/192295831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xdbh"><b>iDev77</b></a><br><sub>&#64;0xdbh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Vlorë, Albania</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">23</td>
 <td><a href="https://github.com/0xermis"><img src="https://avatars.githubusercontent.com/u/58916563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xermis"><b>Ermis Braka</b></a><br><sub>&#64;0xermis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tirana, Albania</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">24</td>
 <td><a href="https://github.com/1klajdipriska"><img src="https://avatars.githubusercontent.com/u/47832393?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1klajdipriska"><b>Klajdi Priska</b></a><br><sub>&#64;1klajdipriska</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
@@ -183,7 +197,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 24 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

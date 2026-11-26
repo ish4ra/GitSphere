@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **48** | 23 Nov 2026 | <a href="../../data/developers/KN.json">JSON</a> |
+| 🟡 Provisional | **50** | 23 Nov 2026 | <a href="../../data/developers/KN.json">JSON</a> |
 
 </div>
 
@@ -191,167 +191,181 @@
 </tr>
 <tr>
 <td align="right">25</td>
+<td><a href="https://github.com/leshiyfulula"><img src="https://avatars.githubusercontent.com/u/183385514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leshiyfulula"><b>leshiyfulula</b></a><br><sub>&#64;leshiyfulula</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Saint Kitts en Nevis (KN)</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
 <td><a href="https://github.com/SusuChief"><img src="https://avatars.githubusercontent.com/u/89018211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SusuChief"><b>SusuChief</b></a><br><sub>&#64;SusuChief</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">27</td>
+<td><a href="https://github.com/wuddlyronaldinio"><img src="https://avatars.githubusercontent.com/u/183143081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wuddlyronaldinio"><b>wuddlyronaldinio</b></a><br><sub>&#64;wuddlyronaldinio</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Saint Kitts en Nevis (KN)</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/25x-casino"><img src="https://avatars.githubusercontent.com/u/70426473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/25x-casino"><b>25x</b></a><br><sub>&#64;25x-casino</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Saint Kitts and Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">29</td>
 <td><a href="https://github.com/JL-Scorpion"><img src="https://avatars.githubusercontent.com/u/25160284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JL-Scorpion"><b>JL.Scorpion</b></a><br><sub>&#64;JL-Scorpion</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Saint Kitts &amp; Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">30</td>
 <td><a href="https://github.com/ky-martin"><img src="https://avatars.githubusercontent.com/u/79098424?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ky-martin"><b>Kareem Martin</b></a><br><sub>&#64;ky-martin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Saint Kitts and Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">31</td>
 <td><a href="https://github.com/lubberayescobar"><img src="https://avatars.githubusercontent.com/u/183276705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lubberayescobar"><b>lubberayescobar</b></a><br><sub>&#64;lubberayescobar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>St. Kitts &amp; Nevis (KN)</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">32</td>
 <td><a href="https://github.com/PatcharaGun"><img src="https://avatars.githubusercontent.com/u/51184745?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PatcharaGun"><b>Little</b></a><br><sub>&#64;PatcharaGun</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>St. Kitts and Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">33</td>
 <td><a href="https://github.com/aba443"><img src="https://avatars.githubusercontent.com/u/105154355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aba443"><b>aba443</b></a><br><sub>&#64;aba443</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Basseterre, St Kitts &amp; Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">34</td>
 <td><a href="https://github.com/Aloapollo"><img src="https://avatars.githubusercontent.com/u/148084623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aloapollo"><b>Allondrae Fyfield</b></a><br><sub>&#64;Aloapollo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Saint Kitts</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">35</td>
 <td><a href="https://github.com/cryptodeposit"><img src="https://avatars.githubusercontent.com/u/272075982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cryptodeposit"><b>CryptoDeposit</b></a><br><sub>&#64;cryptodeposit</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>St Kitts and Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">36</td>
 <td><a href="https://github.com/CryptoSoftwareInc"><img src="https://avatars.githubusercontent.com/u/59388293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CryptoSoftwareInc"><b>CryptoSoftwareIncorporated</b></a><br><sub>&#64;CryptoSoftwareInc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Ste 3 Horsford&#39;s Business Centre, Long Point Ro…</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">37</td>
 <td><a href="https://github.com/dparis164"><img src="https://avatars.githubusercontent.com/u/128984851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dparis164"><b>Dwayne Paris</b></a><br><sub>&#64;dparis164</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>St. Kitts &amp; Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">38</td>
 <td><a href="https://github.com/GiggyDragoon"><img src="https://avatars.githubusercontent.com/u/154738165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GiggyDragoon"><b>GiggyDragoon</b></a><br><sub>&#64;GiggyDragoon</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Basseterre</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">39</td>
 <td><a href="https://github.com/gildercoin"><img src="https://avatars.githubusercontent.com/u/34689424?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gildercoin"><b>Gilder Ledger Project</b></a><br><sub>&#64;gildercoin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">40</td>
 <td><a href="https://github.com/lgayc"><img src="https://avatars.githubusercontent.com/u/15094938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lgayc"><b>Luis Gay Caraballo</b></a><br><sub>&#64;lgayc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Saint Kitts and Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">41</td>
 <td><a href="https://github.com/ll1301"><img src="https://avatars.githubusercontent.com/u/320465192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ll1301"><b>LL1301</b></a><br><sub>&#64;ll1301</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Basseterre, St Kitts &amp; Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">42</td>
 <td><a href="https://github.com/mouflon-apps"><img src="https://avatars.githubusercontent.com/u/308745061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mouflon-apps"><b>Mouflon Apps</b></a><br><sub>&#64;mouflon-apps</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Saint Kitts and Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">43</td>
 <td><a href="https://github.com/quotexvc"><img src="https://avatars.githubusercontent.com/u/234529111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/quotexvc"><b>Quotex vc</b></a><br><sub>&#64;quotexvc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>ON SPOT LLC GROUP. Address: Main Street, P.O. B…</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">44</td>
 <td><a href="https://github.com/Sofrinix"><img src="https://avatars.githubusercontent.com/u/140226255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sofrinix"><b>Sofrinix</b></a><br><sub>&#64;Sofrinix</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Basseterre, Saint Kitts &amp; Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">45</td>
 <td><a href="https://github.com/TechwithD"><img src="https://avatars.githubusercontent.com/u/233140882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TechwithD"><b>Danika</b></a><br><sub>&#64;TechwithD</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Saint Kitts and Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">46</td>
 <td><a href="https://github.com/vpn-testing"><img src="https://avatars.githubusercontent.com/u/47379085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vpn-testing"><b>VPN Testing</b></a><br><sub>&#64;vpn-testing</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>St Kitts and Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">47</td>
 <td><a href="https://github.com/aroy6471"><img src="https://avatars.githubusercontent.com/u/219120295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aroy6471"><b>Alfred Roy</b></a><br><sub>&#64;aroy6471</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>St. Kitts and Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">48</td>
 <td><a href="https://github.com/ineacho"><img src="https://avatars.githubusercontent.com/u/7709762?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ineacho"><b>Ineacho</b></a><br><sub>&#64;ineacho</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>St. Kitts &amp; Nevis</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">49</td>
 <td><a href="https://github.com/michaelcantrell23"><img src="https://avatars.githubusercontent.com/u/336490107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michaelcantrell23"><b>michaelcantrell23</b></a><br><sub>&#64;michaelcantrell23</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Windsor University School of Medicine - St. Kit…</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">50</td>
 <td><a href="https://github.com/neil-prog"><img src="https://avatars.githubusercontent.com/u/76566938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neil-prog"><b>Dr Ricardo Neil</b></a><br><sub>&#64;neil-prog</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -365,8 +379,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 48 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 3 of 47 in round 1.
+- Organizations are excluded. 50 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 6 of 47 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

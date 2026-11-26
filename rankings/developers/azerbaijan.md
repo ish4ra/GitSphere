@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **45** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
+| 🟡 Provisional | **53** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
 
 </div>
 
@@ -303,34 +303,90 @@
 </tr>
 <tr>
 <td align="right">41</td>
+<td><a href="https://github.com/nazarli-shabnam"><img src="https://avatars.githubusercontent.com/u/193402395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nazarli-shabnam"><b>Shabnam</b></a><br><sub>&#64;nazarli-shabnam</sub></td>
+<td align="right"><b>175</b></td>
+<td align="right">93</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><a href="https://github.com/fazilmemmedzade"><img src="https://avatars.githubusercontent.com/u/193615185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fazilmemmedzade"><b>Fazil Məmmədzadə</b></a><br><sub>&#64;fazilmemmedzade</sub></td>
+<td align="right"><b>175</b></td>
+<td align="right">20</td>
+<td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><a href="https://github.com/ibrahimov13"><img src="https://avatars.githubusercontent.com/u/69716805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibrahimov13"><b>Sayyad Ibrahimov</b></a><br><sub>&#64;ibrahimov13</sub></td>
+<td align="right"><b>173</b></td>
+<td align="right">21</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/Eagle9461"><img src="https://avatars.githubusercontent.com/u/127758614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eagle9461"><b>Dylan Devera Galera</b></a><br><sub>&#64;Eagle9461</sub></td>
+<td align="right"><b>172</b></td>
+<td align="right">68</td>
+<td><sub>Baku, Azerbaijan, AZ1005</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><a href="https://github.com/Ulvi9"><img src="https://avatars.githubusercontent.com/u/64775437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ulvi9"><b>Ulvi9</b></a><br><sub>&#64;Ulvi9</sub></td>
+<td align="right"><b>170</b></td>
+<td align="right">61</td>
+<td><sub>Baku</sub></td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><a href="https://github.com/orkhan-huseyn"><img src="https://avatars.githubusercontent.com/u/21221412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orkhan-huseyn"><b>Orkhan Huseynli</b></a><br><sub>&#64;orkhan-huseyn</sub></td>
+<td align="right"><b>164</b></td>
+<td align="right">130</td>
+<td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><a href="https://github.com/javadibrahimli"><img src="https://avatars.githubusercontent.com/u/76445357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javadibrahimli"><b>Javad Ibrahimli</b></a><br><sub>&#64;javadibrahimli</sub></td>
+<td align="right"><b>164</b></td>
+<td align="right">57</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/gurbangurbanzade"><img src="https://avatars.githubusercontent.com/u/98018715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gurbangurbanzade"><b>Gurban Gurbanzada</b></a><br><sub>&#64;gurbangurbanzade</sub></td>
+<td align="right"><b>163</b></td>
+<td align="right">66</td>
+<td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
 <td><a href="https://github.com/sabuhish"><img src="https://avatars.githubusercontent.com/u/46589585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sabuhish"><b>Sabuhi</b></a><br><sub>&#64;sabuhish</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Baku Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">50</td>
 <td><a href="https://github.com/mearashadowfax"><img src="https://avatars.githubusercontent.com/u/125820963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mearashadowfax"><b>Emil Gulamov</b></a><br><sub>&#64;mearashadowfax</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Baku, Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">51</td>
 <td><a href="https://github.com/Theyka"><img src="https://avatars.githubusercontent.com/u/34212813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Theyka"><b>Theyka</b></a><br><sub>&#64;Theyka</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">52</td>
 <td><a href="https://github.com/rasadov"><img src="https://avatars.githubusercontent.com/u/127891192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rasadov"><b>Rauf Asadov</b></a><br><sub>&#64;rasadov</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Azerbaijan, Baku</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">53</td>
 <td><a href="https://github.com/r14dd"><img src="https://avatars.githubusercontent.com/u/73396868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r14dd"><b>Riad Mukhtarov</b></a><br><sub>&#64;r14dd</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
@@ -344,7 +400,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 45 attributed developers are tracked; the cutoff is 24 followers.
+- Organizations are excluded. 53 attributed developers are tracked; the cutoff is 24 followers.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

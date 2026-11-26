@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/gmunkhbaatarmn"><img src="https://avatars.githubusercontent.com/u/67686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gmunkhbaatarmn"><b>Munkhbaatar</b></a><br><sub>&#64;gmunkhbaatarmn</sub></td>
-<td align="right"><b>175</b></td>
+<td align="right"><b>174</b></td>
 <td align="right">7</td>
 <td><sub>Mongolia</sub></td>
 </tr>

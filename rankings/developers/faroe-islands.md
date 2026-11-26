@@ -81,7 +81,7 @@
 <td align="right">9</td>
 <td><a href="https://github.com/argilzar"><img src="https://avatars.githubusercontent.com/u/60230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/argilzar"><b>Brian Bischoff</b></a><br><sub>&#64;argilzar</sub></td>
 <td align="right"><b>11</b></td>
-<td align="right">25</td>
+<td align="right">26</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>

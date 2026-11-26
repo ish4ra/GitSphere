@@ -184,31 +184,31 @@
 </tr>
 <tr>
 <td align="right">24</td>
-<td><a href="https://github.com/mkk2026"><img src="https://avatars.githubusercontent.com/u/175357468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkk2026"><b>Momodu Kamara-Kolleh</b></a><br><sub>&#64;mkk2026</sub></td>
-<td align="right"><b>18</b></td>
-<td align="right">84</td>
-<td><sub>Freetown, Sierra Leone</sub></td>
-</tr>
-<tr>
-<td align="right">25</td>
 <td><a href="https://github.com/khat-19"><img src="https://avatars.githubusercontent.com/u/81271883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khat-19"><b>Mawuliah Mansaray</b></a><br><sub>&#64;khat-19</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">29</td>
 <td><sub>Freetown Sierra Leone</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">25</td>
 <td><a href="https://github.com/eledastudio"><img src="https://avatars.githubusercontent.com/u/55087028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eledastudio"><b>Oluwatosin Babarinde Ayorinde</b></a><br><sub>&#64;eledastudio</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">10</td>
 <td><sub>Freetown, Sierra Leone</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">26</td>
 <td><a href="https://github.com/Godraises"><img src="https://avatars.githubusercontent.com/u/76961318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Godraises"><b>Joseph Fallah Yondah</b></a><br><sub>&#64;Godraises</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">10</td>
 <td><sub>Freetown, Sierra Leone.</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/mkk2026"><img src="https://avatars.githubusercontent.com/u/175357468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkk2026"><b>Momodu Kamara-Kolleh</b></a><br><sub>&#64;mkk2026</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">90</td>
+<td><sub>Freetown, Sierra Leone</sub></td>
 </tr>
 <tr>
 <td align="right">28</td>

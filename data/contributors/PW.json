@@ -5,14 +5,15 @@
 "country": {"code":"PW","name":"Palau","slug":"palau"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":16,"measuredAccounts":11,"measurementBacklog":5,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":40,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":16,"measuredAccounts":14,"measurementBacklog":2,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":40,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDODWJTHQ","login":"lustrecker-lang","name":"Lu Ca St","url":"https://github.com/lustrecker-lang","avatarUrl":"https://avatars.githubusercontent.com/u/224547613?s=80&v=4","followers":0,"publicRepos":3,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":41,"commits":37,"pullRequests":1,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"U_kgDOEM4ewA","login":"yukihikohatta","name":"Yukihiko Hatta","url":"https://github.com/yukihikohatta","avatarUrl":"https://avatars.githubusercontent.com/u/281943744?s=80&v=4","followers":0,"publicRepos":1,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":20,"commits":18,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
-  {"rank":3,"id":"MDQ6VXNlcjgwOTY4MDg=","login":"bcys","name":"Gaius bcys","url":"https://github.com/bcys","avatarUrl":"https://avatars.githubusercontent.com/u/8096808?s=80&v=4","followers":0,"publicRepos":14,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":3,"id":"MDQ6VXNlcjgwOTY4MDg=","login":"bcys","name":"Gaius bcys","url":"https://github.com/bcys","avatarUrl":"https://avatars.githubusercontent.com/u/8096808?s=80&v=4","followers":0,"publicRepos":14,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"U_kgDOFGgtcQ","login":"EAKonT","name":"EAKonT","url":"https://github.com/EAKonT","avatarUrl":"https://avatars.githubusercontent.com/u/342371697?s=80&v=4","followers":0,"publicRepos":0,"location":"PalaU","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "c9f7b966acbe82b6",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "8f6d90e1331b7770",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

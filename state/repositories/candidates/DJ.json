@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"DJ","name":"Djibouti","slug":"djibouti"},
-"count": 144,
+"count": 142,
 "repositories": [
-  {"name":"benkhaireh/tahajjud-calculator","stars":2,"forks":0,"language":"Python","license":"MIT","archived":false,"createdAt":"2021-03-08T12:30:34Z","pushedAt":"2022-03-31T08:49:10Z","owner":{"login":"benkhaireh","type":"User","name":"Mohamed Khaireh O.","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:benkhaireh/tahajjud-calculator","legacy":true},
-  {"name":"DrPower01/Ravenbooks","stars":2,"forks":0,"language":"PHP","archived":false,"createdAt":"2024-09-24T19:25:59Z","pushedAt":"2025-01-03T18:54:47Z","owner":{"login":"DrPower01","type":"User","name":"Wilsan yahya Mohamed","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:drpower01/ravenbooks","legacy":true},
   {"name":"Filsan648/HOOM","stars":1,"forks":1,"language":"TypeScript","archived":false,"createdAt":"2026-05-27T11:32:05Z","pushedAt":"2026-07-22T09:13:55Z","owner":{"login":"Filsan648","type":"User","name":"Filsan","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:filsan648/hoom","legacy":true},
   {"name":"kassimoussa/dtappmobile","stars":1,"forks":1,"language":"Dart","archived":false,"createdAt":"2025-06-08T10:47:40Z","pushedAt":"2026-10-01T17:44:19Z","owner":{"login":"kassimoussa","type":"User","name":"Kassim Moussa Ali","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:kassimoussa/dtappmobile","legacy":true},
   {"name":"AbassO71/AbassO71","stars":1,"forks":0,"archived":false,"createdAt":"2022-07-16T18:06:13Z","pushedAt":"2022-07-16T18:16:43Z","owner":{"login":"AbassO71","type":"User","name":"AbassO Gis Project","location":"Heron djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:abasso71/abasso71","legacy":true},

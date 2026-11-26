@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/VU.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/VU.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>26 Nov 2025</b> to <b>26 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/jah-ky"><img src="https://avatars.githubusercontent.com/u/66281541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jah-ky"><b>Jackson</b></a><br><sub>&#64;jah-ky · 3 followers</sub></td>
+<td align="right"><b>483</b></td>
+<td align="right">366</td>
+<td align="right">116</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/alfnitacoder"><img src="https://avatars.githubusercontent.com/u/10040170?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfnitacoder"><b>AlffieGeorge</b></a><br><sub>&#64;alfnitacoder · 16 followers</sub></td>
 <td align="right"><b>207</b></td>
 <td align="right">164</td>
@@ -33,7 +42,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/yjulio"><img src="https://avatars.githubusercontent.com/u/186765808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yjulio"><b>Julio Yaruel</b></a><br><sub>&#64;yjulio · 0 followers</sub></td>
 <td align="right"><b>145</b></td>
 <td align="right">135</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/Kalztar"><img src="https://avatars.githubusercontent.com/u/19895266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kalztar"><b>Griffith Kalpokas</b></a><br><sub>&#64;Kalztar · 0 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
@@ -51,7 +60,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
+<td><a href="https://github.com/angeu4"><img src="https://avatars.githubusercontent.com/u/15817263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angeu4"><b>Angelus Eutherius</b></a><br><sub>&#64;angeu4 · 4 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/SolaFide"><img src="https://avatars.githubusercontent.com/u/3750351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SolaFide"><b>Michael Smith</b></a><br><sub>&#64;SolaFide · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -66,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 78 discovered developers (68 awaiting measurement).
+- **Measured:** 12 of 78 discovered developers (66 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 21 in round 1.

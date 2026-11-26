@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
+| 🟡 Provisional | **27** | 23 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
 
 </div>
 
@@ -59,22 +59,22 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/lingdojo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lingdojo/kana-dojo"><b>lingdojo/kana-dojo</b></a><br><sub>Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponso…</sub></td>
-<td align="right"><b>3,898</b></td>
-<td align="right">3,978</td>
+<td align="right"><b>3,907</b></td>
+<td align="right">4,006</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/bestruirui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bestruirui/octopus"><b>bestruirui/octopus</b></a><br><sub>One Hub All LLMs For You &#124; 为个人打造的 LLM API 聚合网关</sub></td>
-<td align="right"><b>2,750</b></td>
-<td align="right">448</td>
+<td align="right"><b>2,755</b></td>
+<td align="right">449</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/bluefin"><b>ublue-os/bluefin</b></a><br><sub>The next generation Linux workstation, designed for reliability, performance, and sustainability.</sub></td>
 <td align="right"><b>2,648</b></td>
-<td align="right">263</td>
+<td align="right">262</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -196,6 +196,20 @@
 <td align="right">59</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/nekuroporisu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nekuroporisu/norris-android"><b>nekuroporisu/norris-android</b></a> <sub>archived</sub><br><sub>An app that existed before Android existed! 🔥</sub></td>
+<td align="right"><b>475</b></td>
+<td align="right">35</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/bestruirui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bestruirui/Alle"><b>bestruirui/Alle</b></a><br><sub>AI Powered Email Aggregation Client &#124; AI识别的邮件聚合客户端</sub></td>
+<td align="right"><b>461</b></td>
+<td align="right">159</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -204,8 +218,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 527 stars; 25 attributed candidates are tracked.
-- 62 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 461 stars; 27 attributed candidates are tracked.
+- 45 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

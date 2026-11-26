@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-23T12:47:00.644Z",
 "terms": {"count":23,"fingerprint":"23:9b1b1029"},
-"termIndex": 0,
-"specIndex": 0,
-"active": {"term":"Monaco","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-23T12:47:00.644Z","stats":{"pages":6}},
+"termIndex": 1,
+"specIndex": 1,
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":300},
-"updatedAt": "2026-11-23T12:47:00.644Z"
+"stats": {"requests":12,"pages":12,"accounts":492},
+"updatedAt": "2026-11-25T23:56:28.774Z"
 }

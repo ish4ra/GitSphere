@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/SE.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/SE.json">JSON</a> |
 
 </div>
 
@@ -689,15 +689,15 @@
 <tr>
 <td align="right">96</td>
 <td><img src="https://github.com/grananqvist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading"><b>grananqvist/Awesome-Quant-Machine-Learning-Trading</b></a><br><sub>Quant/Algorithm trading resources with an emphasis on Machine Learning</sub></td>
-<td align="right"><b>4,153</b></td>
-<td align="right">708</td>
+<td align="right"><b>4,156</b></td>
+<td align="right">707</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/xacrimon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xacrimon/dashmap"><b>xacrimon/dashmap</b></a><br><sub>Blazing fast concurrent HashMap for Rust.</sub></td>
-<td align="right"><b>4,141</b></td>
-<td align="right">194</td>
+<td align="right"><b>4,151</b></td>
+<td align="right">195</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -710,15 +710,15 @@
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/alex-shpak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alex-shpak/hugo-book"><b>alex-shpak/hugo-book</b></a><br><sub>Hugo documentation theme as simple as plain book</sub></td>
-<td align="right"><b>4,108</b></td>
+<td align="right"><b>4,109</b></td>
 <td align="right">1,307</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/tulios.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tulios/kafkajs"><b>tulios/kafkajs</b></a><br><sub>A modern Apache Kafka client for node.js</sub></td>
-<td align="right"><b>3,996</b></td>
-<td align="right">606</td>
+<td align="right"><b>3,997</b></td>
+<td align="right">605</td>
 <td>JavaScript</td>
 </tr>
 </tbody>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 3,996 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 3,997 stars; 150 attributed candidates are tracked.
 - 131 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 176 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

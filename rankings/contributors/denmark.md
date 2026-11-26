@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/DK.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/contributors/DK.json">JSON</a> |
 
 </div>
 
@@ -142,6 +142,33 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/madskjeldgaard"><img src="https://avatars.githubusercontent.com/u/22474608?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madskjeldgaard"><b>Mads Kjeldgaard</b></a><br><sub>&#64;madskjeldgaard · 450 followers</sub></td>
+<td align="right"><b>114</b></td>
+<td align="right">100</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/briancabbott"><img src="https://avatars.githubusercontent.com/u/2147648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/briancabbott"><b>Brian Abbott</b></a><br><sub>&#64;briancabbott · 190 followers</sub></td>
+<td align="right"><b>80</b></td>
+<td align="right">70</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/halfzebra"><img src="https://avatars.githubusercontent.com/u/3983879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halfzebra"><b>Eduard Kyvenko</b></a><br><sub>&#64;halfzebra · 171 followers</sub></td>
+<td align="right"><b>71</b></td>
+<td align="right">62</td>
+<td align="right">4</td>
+<td align="right">2</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/ekim197711"><img src="https://avatars.githubusercontent.com/u/1532233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ekim197711"><b>Mike Møller Nielsen</b></a><br><sub>&#64;ekim197711 · 247 followers</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">56</td>
@@ -150,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">18</td>
 <td><a href="https://github.com/kevinsimper"><img src="https://avatars.githubusercontent.com/u/1126497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevinsimper"><b>Kevin Simper</b></a><br><sub>&#64;kevinsimper · 194 followers</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">39</td>
@@ -159,8 +186,8 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">16</td>
-<td><a href="https://github.com/joshbuddy"><img src="https://avatars.githubusercontent.com/u/8898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joshbuddy"><b>Joshua Hull</b></a><br><sub>&#64;joshbuddy · 548 followers</sub></td>
+<td align="right">19</td>
+<td><a href="https://github.com/joshbuddy"><img src="https://avatars.githubusercontent.com/u/8898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joshbuddy"><b>Joshua Hull</b></a><br><sub>&#64;joshbuddy · 547 followers</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">26</td>
 <td align="right">7</td>
@@ -168,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
 <td><a href="https://github.com/kristianmandrup"><img src="https://avatars.githubusercontent.com/u/125005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kristianmandrup"><b>Kristian Mandrup</b></a><br><sub>&#64;kristianmandrup · 313 followers</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">21</td>
@@ -177,7 +204,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/Munter"><img src="https://avatars.githubusercontent.com/u/331790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Munter"><b>Peter Müller</b></a><br><sub>&#64;Munter · 410 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">5</td>
@@ -192,7 +219,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 670 discovered developers (652 awaiting measurement).
+- **Measured:** 21 of 703 discovered developers (682 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 154 in round 1.

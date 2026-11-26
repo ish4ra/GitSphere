@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/CH.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/CH.json">JSON</a> |
 
 </div>
 
@@ -499,38 +499,38 @@
 </tr>
 <tr>
 <td align="right">69</td>
+<td><img src="https://github.com/FujiwaraChoki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FujiwaraChoki/supoclip"><b>FujiwaraChoki/supoclip</b></a><br><sub>An open-source OpusClip alternative</sub></td>
+<td align="right"><b>4,215</b></td>
+<td align="right">1,003</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">70</td>
 <td><img src="https://github.com/riok.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/riok/mapperly"><b>riok/mapperly</b></a><br><sub>A .NET source generator for generating object mappings. No runtime reflection.</sub></td>
 <td align="right"><b>4,212</b></td>
 <td align="right">235</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">71</td>
 <td><img src="https://github.com/root-project.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/root-project/cling"><b>root-project/cling</b></a><br><sub>The cling C++ interpreter</sub></td>
 <td align="right"><b>4,209</b></td>
 <td align="right">316</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">72</td>
 <td><img src="https://github.com/apankrat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/apankrat/nullboard"><b>apankrat/nullboard</b></a><br><sub>Nullboard is a minimalist kanban board, focused on compactness and readability.</sub></td>
 <td align="right"><b>4,144</b></td>
-<td align="right">287</td>
+<td align="right">286</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">72</td>
-<td><img src="https://github.com/thomasnordquist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thomasnordquist/MQTT-Explorer"><b>thomasnordquist/MQTT-Explorer</b></a><br><sub>An all-round MQTT client that provides a structured topic overview</sub></td>
-<td align="right"><b>4,096</b></td>
-<td align="right">423</td>
-<td>TypeScript</td>
-</tr>
-<tr>
 <td align="right">73</td>
-<td><img src="https://github.com/FujiwaraChoki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FujiwaraChoki/supoclip"><b>FujiwaraChoki/supoclip</b></a><br><sub>An open-source OpusClip alternative</sub></td>
-<td align="right"><b>4,066</b></td>
-<td align="right">970</td>
-<td>Python</td>
+<td><img src="https://github.com/thomasnordquist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thomasnordquist/MQTT-Explorer"><b>thomasnordquist/MQTT-Explorer</b></a><br><sub>An all-round MQTT client that provides a structured topic overview</sub></td>
+<td align="right"><b>4,099</b></td>
+<td align="right">424</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">74</td>
@@ -541,64 +541,64 @@
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/status-im.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/status-im/status-legacy"><b>status-im/status-legacy</b></a> <sub>archived</sub><br><sub>a free (libre) open source, mobile OS for Ethereum</sub></td>
-<td align="right"><b>4,022</b></td>
-<td align="right">985</td>
-<td>Clojure</td>
+<td><img src="https://github.com/MrNeRF.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrNeRF/LichtFeld-Studio"><b>MrNeRF/LichtFeld-Studio</b></a><br><sub>Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.</sub></td>
+<td align="right"><b>4,037</b></td>
+<td align="right">528</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">76</td>
-<td><img src="https://github.com/MrNeRF.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrNeRF/LichtFeld-Studio"><b>MrNeRF/LichtFeld-Studio</b></a><br><sub>Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.</sub></td>
-<td align="right"><b>4,019</b></td>
-<td align="right">522</td>
-<td>C++</td>
+<td><img src="https://github.com/status-im.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/status-im/status-legacy"><b>status-im/status-legacy</b></a> <sub>archived</sub><br><sub>a free (libre) open source, mobile OS for Ethereum</sub></td>
+<td align="right"><b>4,022</b></td>
+<td align="right">984</td>
+<td>Clojure</td>
 </tr>
 <tr>
 <td align="right">77</td>
 <td><img src="https://github.com/yarrick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yarrick/pingfs"><b>yarrick/pingfs</b></a><br><sub>Stores your data in ICMP ping packets</sub></td>
-<td align="right"><b>3,943</b></td>
+<td align="right"><b>3,948</b></td>
 <td align="right">145</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/lightly-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lightly-ai/lightly"><b>lightly-ai/lightly</b></a><br><sub>A python library for self-supervised learning and latent world models on images.</sub></td>
-<td align="right"><b>3,833</b></td>
-<td align="right">381</td>
+<td align="right"><b>3,836</b></td>
+<td align="right">382</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">79</td>
+<td><img src="https://github.com/wjakob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wjakob/nanobind"><b>wjakob/nanobind</b></a><br><sub>nanobind: tiny and efficient C++/Python bindings</sub></td>
+<td align="right"><b>3,801</b></td>
+<td align="right">339</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">80</td>
 <td><img src="https://github.com/scipag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scipag/vulscan"><b>scipag/vulscan</b></a><br><sub>Advanced vulnerability scanning with Nmap NSE</sub></td>
 <td align="right"><b>3,800</b></td>
 <td align="right">685</td>
 <td>Lua</td>
 </tr>
 <tr>
-<td align="right">80</td>
-<td><img src="https://github.com/bknd-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bknd-io/bknd"><b>bknd-io/bknd</b></a><br><sub>Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun,…</sub></td>
-<td align="right"><b>3,798</b></td>
-<td align="right">151</td>
-<td>TypeScript</td>
-</tr>
-<tr>
 <td align="right">81</td>
-<td><img src="https://github.com/wjakob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wjakob/nanobind"><b>wjakob/nanobind</b></a><br><sub>nanobind: tiny and efficient C++/Python bindings</sub></td>
-<td align="right"><b>3,796</b></td>
-<td align="right">338</td>
-<td>C++</td>
+<td><img src="https://github.com/bknd-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bknd-io/bknd"><b>bknd-io/bknd</b></a><br><sub>Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun,…</sub></td>
+<td align="right"><b>3,800</b></td>
+<td align="right">153</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/Wookai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Wookai/paper-tips-and-tricks"><b>Wookai/paper-tips-and-tricks</b></a><br><sub>Best practice and tips &amp; tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.</sub></td>
 <td align="right"><b>3,732</b></td>
-<td align="right">252</td>
+<td align="right">253</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/olivia-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olivia-ai/olivia"><b>olivia-ai/olivia</b></a> <sub>archived</sub><br><sub>💁♀️Your new best friend powered by an artificial neural network</sub></td>
-<td align="right"><b>3,715</b></td>
+<td align="right"><b>3,714</b></td>
 <td align="right">342</td>
 <td>Go</td>
 </tr>
@@ -612,28 +612,28 @@
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/vernemq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vernemq/vernemq"><b>vernemq/vernemq</b></a><br><sub>A distributed MQTT message broker based on Erlang/OTP. Built for high quality &amp; Industrial use cases. The VerneMQ missi…</sub></td>
-<td align="right"><b>3,657</b></td>
-<td align="right">436</td>
+<td align="right"><b>3,660</b></td>
+<td align="right">437</td>
 <td>Erlang</td>
 </tr>
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/antonmedv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/antonmedv/walk"><b>antonmedv/walk</b></a><br><sub>Terminal file manager</sub></td>
 <td align="right"><b>3,653</b></td>
-<td align="right">114</td>
+<td align="right">112</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/marcbachmann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marcbachmann/node-html-pdf"><b>marcbachmann/node-html-pdf</b></a> <sub>archived</sub><br><sub>This repo isn&#39;t maintained anymore as phantomjs got dreprecated a long time ago. Please migrate to headless chrome/pupp…</sub></td>
-<td align="right"><b>3,571</b></td>
+<td align="right"><b>3,570</b></td>
 <td align="right">516</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/cloudhead.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cloudhead/rx"><b>cloudhead/rx</b></a><br><sub>👾 Modern and minimalist pixel editor</sub></td>
-<td align="right"><b>3,500</b></td>
+<td align="right"><b>3,504</b></td>
 <td align="right">110</td>
 <td>Rust</td>
 </tr>
@@ -647,15 +647,15 @@
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/SimpleHomelab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleHomelab/Docker-Traefik"><b>SimpleHomelab/Docker-Traefik</b></a><br><sub>Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Bui…</sub></td>
-<td align="right"><b>3,447</b></td>
+<td align="right"><b>3,448</b></td>
 <td align="right">628</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/xlwings.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xlwings/xlwings"><b>xlwings/xlwings</b></a><br><sub>xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows…</sub></td>
-<td align="right"><b>3,433</b></td>
-<td align="right">538</td>
+<td align="right"><b>3,435</b></td>
+<td align="right">536</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -668,42 +668,42 @@
 <tr>
 <td align="right">93</td>
 <td><img src="https://github.com/root-project.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/root-project/root"><b>root-project/root</b></a><br><sub>The official repository for ROOT: analyzing, storing and visualizing big data, scientifically</sub></td>
-<td align="right"><b>3,356</b></td>
+<td align="right"><b>3,357</b></td>
 <td align="right">1,612</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/riscv-software-src.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/riscv-software-src/riscv-isa-sim"><b>riscv-software-src/riscv-isa-sim</b></a><br><sub>Spike, a RISC-V ISA Simulator</sub></td>
-<td align="right"><b>3,281</b></td>
-<td align="right">1,140</td>
+<td align="right"><b>3,282</b></td>
+<td align="right">1,148</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">95</td>
 <td><img src="https://github.com/prs-eth.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prs-eth/Marigold"><b>prs-eth/Marigold</b></a><br><sub>&#91;CVPR 2024 - Oral, Best Paper Award Candidate&#93; Marigold: Repurposing Diffusion-Based Image Generators for Monocular Dep…</sub></td>
-<td align="right"><b>3,259</b></td>
+<td align="right"><b>3,261</b></td>
 <td align="right">214</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">96</td>
 <td><img src="https://github.com/qos-ch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qos-ch/logback"><b>qos-ch/logback</b></a><br><sub>The reliable, generic, fast and flexible logging framework for Java.</sub></td>
-<td align="right"><b>3,241</b></td>
-<td align="right">1,366</td>
+<td align="right"><b>3,244</b></td>
+<td align="right">1,379</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/sustrik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sustrik/libmill"><b>sustrik/libmill</b></a><br><sub>Go-style concurrency in C</sub></td>
-<td align="right"><b>3,183</b></td>
+<td align="right"><b>3,184</b></td>
 <td align="right">220</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">98</td>
 <td><img src="https://github.com/mrcjkb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrcjkb/rustaceanvim"><b>mrcjkb/rustaceanvim</b></a><br><sub>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</sub></td>
-<td align="right"><b>3,177</b></td>
+<td align="right"><b>3,180</b></td>
 <td align="right">137</td>
 <td>Lua</td>
 </tr>

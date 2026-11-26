@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/BG.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/BG.json">JSON</a> |
 
 </div>
 
@@ -136,42 +136,42 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/me-no-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-no-dev/ESPAsyncWebServer"><b>me-no-dev/ESPAsyncWebServer</b></a> <sub>archived</sub><br><sub>Async Web Server for ESP8266 and ESP32</sub></td>
-<td align="right"><b>4,040</b></td>
+<td align="right"><b>4,044</b></td>
 <td align="right">1,391</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/sebaxakerhtc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sebaxakerhtc/rdpwrap.ini"><b>sebaxakerhtc/rdpwrap.ini</b></a><br><sub>RDPWrap.ini for RDP Wrapper Library by Stas&#39;M</sub></td>
-<td align="right"><b>3,962</b></td>
-<td align="right">868</td>
+<td align="right"><b>3,970</b></td>
+<td align="right">869</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/nakov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nakov/Practical-Cryptography-for-Developers-Book"><b>nakov/Practical-Cryptography-for-Developers-Book</b></a><br><sub>Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key…</sub></td>
-<td align="right"><b>3,846</b></td>
+<td align="right"><b>3,847</b></td>
 <td align="right">472</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/ggerganov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ggerganov/imtui"><b>ggerganov/imtui</b></a><br><sub>ImTui: Immediate Mode Text-based User Interface C++ Library</sub></td>
-<td align="right"><b>3,638</b></td>
-<td align="right">154</td>
+<td align="right"><b>3,641</b></td>
+<td align="right">155</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/microweber.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/microweber/microweber"><b>microweber/microweber</b></a><br><sub>Drag and Drop Website Builder and CMS with E-commerce</sub></td>
-<td align="right"><b>3,441</b></td>
+<td align="right"><b>3,442</b></td>
 <td align="right">936</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/deepsyx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deepsyx/home-automation"><b>deepsyx/home-automation</b></a><br><sub>Raspberry Pi 3 based home automation with NodeJS and React Native.</sub></td>
-<td align="right"><b>3,377</b></td>
+<td align="right"><b>3,376</b></td>
 <td align="right">241</td>
 <td>JavaScript</td>
 </tr>
@@ -179,14 +179,14 @@
 <td align="right">23</td>
 <td><img src="https://github.com/Ivy-Apps.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ivy-Apps/ivy-wallet"><b>Ivy-Apps/ivy-wallet</b></a> <sub>archived</sub><br><sub>Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the…</sub></td>
 <td align="right"><b>3,183</b></td>
-<td align="right">1,050</td>
+<td align="right">1,048</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/presmihaylov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/presmihaylov/booknotes"><b>presmihaylov/booknotes</b></a><br><sub>A collection of my book notes on various subjects, mainly computer science</sub></td>
-<td align="right"><b>3,100</b></td>
-<td align="right">820</td>
+<td align="right"><b>3,101</b></td>
+<td align="right">819</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -220,14 +220,14 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/i6mi6.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/i6mi6/react-native-parallax-scroll-view"><b>i6mi6/react-native-parallax-scroll-view</b></a><br><sub>A ScrollView-like component with parallax and sticky header support.</sub></td>
-<td align="right"><b>2,330</b></td>
+<td align="right"><b>2,329</b></td>
 <td align="right">365</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/ggerganov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ggerganov/wave-share"><b>ggerganov/wave-share</b></a><br><sub>Serverless, peer-to-peer, local file sharing through sound</sub></td>
-<td align="right"><b>2,312</b></td>
+<td align="right"><b>2,313</b></td>
 <td align="right">147</td>
 <td>C++</td>
 </tr>
@@ -241,7 +241,7 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/radi-cho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radi-cho/awesome-gpt4"><b>radi-cho/awesome-gpt4</b></a><br><sub>A curated list of prompts, tools, and resources regarding the GPT-4 language model.</sub></td>
-<td align="right"><b>2,234</b></td>
+<td align="right"><b>2,233</b></td>
 <td align="right">137</td>
 <td>—</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 691 stars; 123 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 691 stars; 139 attributed candidates are tracked.
 - 121 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 140 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

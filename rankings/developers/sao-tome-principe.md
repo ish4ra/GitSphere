@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/JoaoNoel"><img src="https://avatars.githubusercontent.com/u/67752072?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoaoNoel"><b>JoaoNoel</b></a><br><sub>&#64;JoaoNoel</sub></td>
-<td align="right"><b>9</b></td>
+<td align="right"><b>10</b></td>
 <td align="right">5</td>
 <td><sub>São Tomé e Príncipe</sub></td>
 </tr>

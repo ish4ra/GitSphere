@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **37** | 22 Nov 2026 | <a href="../data/IS.json">JSON</a> |
+| 🟡 Provisional | **41** | 23 Nov 2026 | <a href="../data/IS.json">JSON</a> |
 
 </div>
 
@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/EhViewer-NekoInverter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EhViewer-NekoInverter/EhViewer"><b>EhViewer-NekoInverter/EhViewer</b></a><br><sub>🥥 A fork of EhViewer, feature requests are not accepted. Forked from https://gitlab.com/NekoInverter/EhViewer</sub></td>
-<td align="right"><b>3,821</b></td>
+<td align="right"><b>3,834</b></td>
 <td align="right">175</td>
 <td>Kotlin</td>
 </tr>
@@ -66,8 +66,8 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/imbue-bit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imbue-bit/AlphaGPT"><b>imbue-bit/AlphaGPT</b></a><br><sub>基于深度强化学习的开源自动因子工厂。</sub></td>
-<td align="right"><b>3,274</b></td>
-<td align="right">3,201</td>
+<td align="right"><b>3,288</b></td>
+<td align="right">3,216</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/jeremybarbet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeremybarbet/react-native-modalize"><b>jeremybarbet/react-native-modalize</b></a><br><sub>A highly customizable modal/bottom sheet that loves scrolling content.</sub></td>
-<td align="right"><b>2,872</b></td>
+<td align="right"><b>2,871</b></td>
 <td align="right">293</td>
 <td>TypeScript</td>
 </tr>
@@ -94,8 +94,8 @@
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/HermannBjorgvin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HermannBjorgvin/Clawdmeter"><b>HermannBjorgvin/Clawdmeter</b></a><br><sub>ESP32 display that shows you your Claude Code usage</sub></td>
-<td align="right"><b>2,362</b></td>
-<td align="right">425</td>
+<td align="right"><b>2,369</b></td>
+<td align="right">423</td>
 <td>C</td>
 </tr>
 <tr>
@@ -280,6 +280,34 @@
 <td align="right">37</td>
 <td>Clojure</td>
 </tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/carbonengine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carbonengine/trinity"><b>carbonengine/trinity</b></a><br><sub>Rendering engine for the Carbon Game Engine</sub></td>
+<td align="right"><b>485</b></td>
+<td align="right">84</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/AShujiao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AShujiao/vscode-background-cover"><b>AShujiao/vscode-background-cover</b></a><br><sub>vscode扩展，添加一张你喜欢的图片铺满整个vscode ..</sub></td>
+<td align="right"><b>464</b></td>
+<td align="right">45</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/DahnJ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DahnJ/Awesome-DEM"><b>DahnJ/Awesome-DEM</b></a><br><sub>Overview of Digital Elevation Model (DEM) datasets</sub></td>
+<td align="right"><b>456</b></td>
+<td align="right">30</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/getsling.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/getsling/flask-swagger"><b>getsling/flask-swagger</b></a><br><sub>A swagger 2.0 spec extractor for flask</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">88</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -288,8 +316,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 511 stars; 37 attributed candidates are tracked.
-- 105 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 455 stars; 41 attributed candidates are tracked.
+- 99 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

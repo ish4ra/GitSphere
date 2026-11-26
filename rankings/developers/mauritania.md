@@ -445,7 +445,7 @@
 <td align="right">61</td>
 <td><a href="https://github.com/MohamedAhmeddiye"><img src="https://avatars.githubusercontent.com/u/107327320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohamedAhmeddiye"><b>Mohamed Ahmed</b></a><br><sub>&#64;MohamedAhmeddiye</sub></td>
 <td align="right"><b>6</b></td>
-<td align="right">57</td>
+<td align="right">58</td>
 <td><sub>Mauritania</sub></td>
 </tr>
 <tr>

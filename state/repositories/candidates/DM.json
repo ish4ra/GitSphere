@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"DM","name":"Dominica","slug":"dominica"},
-"count": 55,
+"count": 54,
 "repositories": [
-  {"name":"bowetech/Static","stars":2,"forks":0,"language":"PHP","archived":false,"createdAt":"2020-05-18T01:17:37Z","pushedAt":"2021-09-04T17:14:22Z","owner":{"login":"bowetech","type":"User","name":"Clive Stewart","location":"Dominica"},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:bowetech/static","legacy":true},
   {"name":"CodeAriCos28/MCL_FINANZA","stars":1,"forks":0,"language":"HTML","archived":false,"createdAt":"2025-12-17T03:42:03Z","pushedAt":"2026-05-01T06:26:46Z","owner":{"login":"CodeAriCos28","type":"User","name":"ChimaloCode","location":"Santiago❤️ Republica Dominica."},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:codearicos28/mcl_finanza","legacy":true},
   {"name":"DerejSoftt/derej-press","stars":1,"forks":0,"language":"HTML","archived":false,"createdAt":"2025-06-03T00:43:54Z","pushedAt":"2026-06-21T18:27:39Z","owner":{"login":"DerejSoftt","type":"User","name":"DerejSoft","location":"Santiago❤️ Republica Dominica."},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:derejsoftt/derej-press","legacy":true},
   {"name":"EERR26/windows-server-vmware-lab","stars":1,"forks":0,"archived":false,"createdAt":"2026-07-04T16:50:05Z","pushedAt":"2026-07-04T17:00:32Z","owner":{"login":"EERR26","type":"User","name":"Erick Rodríguez","location":"Dominica República"},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:eerr26/windows-server-vmware-lab","legacy":true},

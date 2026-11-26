@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/SK.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/SK.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/vojto"><img src="https://avatars.githubusercontent.com/u/50943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vojto"><b>Vojtech Rinik</b></a><br><sub>&#64;vojto · 144 followers</sub></td>
+<td align="right"><b>482</b></td>
+<td align="right">398</td>
+<td align="right">46</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/filiphric"><img src="https://avatars.githubusercontent.com/u/23213553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filiphric"><b>Filip Hric</b></a><br><sub>&#64;filiphric · 714 followers</sub></td>
 <td align="right"><b>403</b></td>
 <td align="right">314</td>
@@ -69,7 +78,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Kixunil"><img src="https://avatars.githubusercontent.com/u/1178779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kixunil"><b>Martin Habovštiak</b></a><br><sub>&#64;Kixunil · 401 followers</sub></td>
 <td align="right"><b>368</b></td>
 <td align="right">105</td>
@@ -78,7 +87,7 @@
 <td align="right">70</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/haad"><img src="https://avatars.githubusercontent.com/u/67790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haad"><b>Adam Hamsik</b></a><br><sub>&#64;haad · 260 followers</sub></td>
 <td align="right"><b>351</b></td>
 <td align="right">335</td>
@@ -87,7 +96,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/ivanahuckova"><img src="https://avatars.githubusercontent.com/u/30407135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivanahuckova"><b>Ivana Huckova</b></a><br><sub>&#64;ivanahuckova · 257 followers</sub></td>
 <td align="right"><b>251</b></td>
 <td align="right">87</td>
@@ -96,7 +105,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
+<td><a href="https://github.com/zpl-zak"><img src="https://avatars.githubusercontent.com/u/9026786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zpl-zak"><b>Dominik Madarász</b></a><br><sub>&#64;zpl-zak · 149 followers</sub></td>
+<td align="right"><b>224</b></td>
+<td align="right">166</td>
+<td align="right">34</td>
+<td align="right">18</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/Jerga99"><img src="https://avatars.githubusercontent.com/u/9482724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jerga99"><b>Filip Jerga</b></a><br><sub>&#64;Jerga99 · 1,185 followers</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">44</td>
@@ -105,13 +123,22 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><a href="https://github.com/mareksuscak"><img src="https://avatars.githubusercontent.com/u/613647?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mareksuscak"><b>Marek Suscak</b></a><br><sub>&#64;mareksuscak · 250 followers</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">23</td>
 <td align="right">1</td>
 <td align="right">1</td>
 <td align="right">1</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/mfojtik"><img src="https://avatars.githubusercontent.com/u/44136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mfojtik"><b>Michal Fojtik</b></a><br><sub>&#64;mfojtik · 186 followers</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">9</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -120,7 +147,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 424 discovered developers (413 awaiting measurement).
+- **Measured:** 14 of 429 discovered developers (415 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 150 in round 1.

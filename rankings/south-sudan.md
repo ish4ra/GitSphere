@@ -33,8 +33,8 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/in0finite.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/in0finite/SanAndreasUnity"><b>in0finite/SanAndreasUnity</b></a><br><sub>Open source reimplementation of GTA San Andreas game engine in Unity</sub></td>
-<td align="right"><b>2,708</b></td>
-<td align="right">478</td>
+<td align="right"><b>2,716</b></td>
+<td align="right">480</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 11 attributed candidates are tracked.
 - 7 entries were carried over from the previous dataset and are pending revalidation.
-- 133 multi-repository owners are queued for expansion.
+- 132 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 47 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"YT","name":"Mayotte","slug":"mayotte"},
-"count": 46,
+"count": 45,
 "repositories": [
-  {"name":"beeraw/beeraw-hex","stars":2,"forks":0,"language":"Python","license":"OFL-1.1","archived":false,"createdAt":"2026-07-17T05:19:52Z","pushedAt":"2026-07-19T11:08:37Z","owner":{"login":"beeraw","type":"User","name":"Jean-Luc Petit","location":"Mayotte"},"attribution":{"code":"YT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:22:09.127Z","id":"legacy:beeraw/beeraw-hex","legacy":true},
   {"name":"asalimfr/skynet","stars":1,"forks":0,"language":"HTML","license":"GPL-2.0","archived":false,"createdAt":"2015-05-20T17:09:21Z","pushedAt":"2015-05-22T08:44:54Z","owner":{"login":"asalimfr","type":"User","name":"SALIM ALI","location":"Mayotte"},"attribution":{"code":"YT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:22:09.127Z","id":"legacy:asalimfr/skynet","legacy":true},
   {"name":"bacardeveloper/BOTPREF","stars":1,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2023-01-28T12:26:49Z","pushedAt":"2023-02-03T11:33:22Z","owner":{"login":"bacardeveloper","type":"User","name":"niwradCodera","location":"Mayotte"},"attribution":{"code":"YT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:22:09.127Z","id":"legacy:bacardeveloper/botpref","legacy":true},
   {"name":"BANGOSON-976/SAINA-SECURITE-INTERNET","stars":1,"forks":0,"archived":false,"createdAt":"2023-09-14T14:15:36Z","pushedAt":"2023-09-14T14:48:15Z","owner":{"login":"BANGOSON-976","type":"User","name":"Apprenante chez SAINA","location":"Mayotte"},"attribution":{"code":"YT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:22:09.127Z","id":"legacy:bangoson-976/saina-securite-internet","legacy":true},

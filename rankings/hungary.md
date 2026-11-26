@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/HU.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/HU.json">JSON</a> |
 
 </div>
 
@@ -73,14 +73,14 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/kovacsv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kovacsv/Online3DViewer"><b>kovacsv/Online3DViewer</b></a><br><sub>A solution to visualize and explore 3D models in your browser.</sub></td>
-<td align="right"><b>3,774</b></td>
-<td align="right">789</td>
+<td align="right"><b>3,776</b></td>
+<td align="right">790</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/arpanghosh8453.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arpanghosh8453/garmin-grafana"><b>arpanghosh8453/garmin-grafana</b></a><br><sub>A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long…</sub></td>
-<td align="right"><b>3,563</b></td>
+<td align="right"><b>3,565</b></td>
 <td align="right">242</td>
 <td>Python</td>
 </tr>
@@ -108,8 +108,8 @@
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/Aylur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aylur/ags"><b>Aylur/ags</b></a><br><sub>Scaffolding CLI for Astal+Gnim</sub></td>
-<td align="right"><b>3,117</b></td>
-<td align="right">147</td>
+<td align="right"><b>3,119</b></td>
+<td align="right">148</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/relatedcode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/relatedcode/ProgressHUD"><b>relatedcode/ProgressHUD</b></a><br><sub>ProgressHUD is a lightweight and easy-to-use HUD for iOS. Over 5000+ animations.</sub></td>
-<td align="right"><b>2,966</b></td>
+<td align="right"><b>2,965</b></td>
 <td align="right">506</td>
 <td>Swift</td>
 </tr>
@@ -136,21 +136,21 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/rdbende.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rdbende/Sun-Valley-ttk-theme"><b>rdbende/Sun-Valley-ttk-theme</b></a><br><sub>A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨</sub></td>
-<td align="right"><b>2,584</b></td>
-<td align="right">129</td>
+<td align="right"><b>2,583</b></td>
+<td align="right">128</td>
 <td>Tcl</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/team-supercharge.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/team-supercharge/ShimmerLayout"><b>team-supercharge/ShimmerLayout</b></a><br><sub>DEPRECATED - Memory efficient shimmering effect for Android applications by Supercharge.</sub></td>
-<td align="right"><b>2,507</b></td>
+<td align="right"><b>2,506</b></td>
 <td align="right">279</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/syslog-ng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syslog-ng/syslog-ng"><b>syslog-ng/syslog-ng</b></a><br><sub>syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, qu…</sub></td>
-<td align="right"><b>2,385</b></td>
+<td align="right"><b>2,387</b></td>
 <td align="right">512</td>
 <td>C</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 598 stars; 117 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 598 stars; 128 attributed candidates are tracked.
 - 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

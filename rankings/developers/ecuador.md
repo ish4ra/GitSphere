@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><a href="https://github.com/jxlarrea"><img src="https://avatars.githubusercontent.com/u/309902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jxlarrea"><b>Xavier Larrea</b></a><br><sub>&#64;jxlarrea</sub></td>
-<td align="right"><b>173</b></td>
+<td align="right"><b>174</b></td>
 <td align="right">32</td>
 <td><sub>Ecuador</sub></td>
 </tr>
@@ -135,30 +135,30 @@
 </tr>
 <tr>
 <td align="right">17</td>
+<td><a href="https://github.com/bayasdev"><img src="https://avatars.githubusercontent.com/u/49411169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bayasdev"><b>Victor Bayas</b></a><br><sub>&#64;bayasdev</sub></td>
+<td align="right"><b>97</b></td>
+<td align="right">22</td>
+<td><sub>Quito</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/r1vs3c"><img src="https://avatars.githubusercontent.com/u/80863982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r1vs3c"><b>r1vs3c</b></a><br><sub>&#64;r1vs3c</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">3</td>
 <td><sub>Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
-<td><a href="https://github.com/bayasdev"><img src="https://avatars.githubusercontent.com/u/49411169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bayasdev"><b>Victor Bayas</b></a><br><sub>&#64;bayasdev</sub></td>
-<td align="right"><b>96</b></td>
-<td align="right">0</td>
-<td><sub>Quito</sub></td>
-</tr>
-<tr>
 <td align="right">19</td>
 <td><a href="https://github.com/vargasjona"><img src="https://avatars.githubusercontent.com/u/23468720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vargasjona"><b>Jonathan Vargas</b></a><br><sub>&#64;vargasjona</sub></td>
 <td align="right"><b>86</b></td>
-<td align="right">0</td>
+<td align="right">131</td>
 <td><sub>Quito, Ecuador</sub></td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/Eddycrack864"><img src="https://avatars.githubusercontent.com/u/89285504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eddycrack864"><b>Eddycrack 864</b></a><br><sub>&#64;Eddycrack864</sub></td>
-<td align="right"><b>66</b></td>
-<td align="right">0</td>
+<td align="right"><b>67</b></td>
+<td align="right">26</td>
 <td><sub>Guayaquil, Ecuador</sub></td>
 </tr>
 <tr>

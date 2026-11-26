@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/AT.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/AT.json">JSON</a> |
 
 </div>
 
@@ -325,7 +325,7 @@
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/isec-tugraz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/isec-tugraz/meltdown"><b>isec-tugraz/meltdown</b></a> <sub>archived</sub><br><sub>This repository contains several applications, demonstrating the Meltdown bug.</sub></td>
-<td align="right"><b>4,167</b></td>
+<td align="right"><b>4,166</b></td>
 <td align="right">518</td>
 <td>C</td>
 </tr>
@@ -354,7 +354,7 @@
 <td align="right">48</td>
 <td><img src="https://github.com/pimcore.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pimcore/pimcore"><b>pimcore/pimcore</b></a><br><sub>Core Framework for the Open Core Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS &amp; Digital Commerce)</sub></td>
 <td align="right"><b>3,891</b></td>
-<td align="right">1,513</td>
+<td align="right">1,512</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -367,43 +367,43 @@
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/DavidXanatos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DavidXanatos/TaskExplorer"><b>DavidXanatos/TaskExplorer</b></a><br><sub>Power full Task Manager for Windows and Linux</sub></td>
-<td align="right"><b>3,854</b></td>
+<td align="right"><b>3,861</b></td>
 <td align="right">305</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/01mf02.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/01mf02/jaq"><b>01mf02/jaq</b></a><br><sub>A jq clone focussed on correctness, speed, and simplicity</sub></td>
-<td align="right"><b>3,850</b></td>
-<td align="right">128</td>
+<td align="right"><b>3,853</b></td>
+<td align="right">130</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">52</td>
 <td><img src="https://github.com/MauriceNino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MauriceNino/dashdot"><b>MauriceNino/dashdot</b></a><br><sub>A simple, modern server dashboard, primarily used by smaller private servers</sub></td>
-<td align="right"><b>3,758</b></td>
+<td align="right"><b>3,760</b></td>
 <td align="right">151</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/glasskube.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/glasskube/glasskube"><b>glasskube/glasskube</b></a> <sub>archived</sub><br><sub>🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency a…</sub></td>
-<td align="right"><b>3,482</b></td>
-<td align="right">198</td>
+<td align="right"><b>3,483</b></td>
+<td align="right">199</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/tpoechtrager.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tpoechtrager/osxcross"><b>tpoechtrager/osxcross</b></a><br><sub>MacOS Cross-Toolchain for Linux and &#42;BSD</sub></td>
-<td align="right"><b>3,426</b></td>
+<td align="right"><b>3,429</b></td>
 <td align="right">370</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/pwmt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pwmt/zathura"><b>pwmt/zathura</b></a><br><sub>Document viewer</sub></td>
-<td align="right"><b>3,410</b></td>
-<td align="right">241</td>
+<td align="right"><b>3,414</b></td>
+<td align="right">243</td>
 <td>C</td>
 </tr>
 <tr>
@@ -416,37 +416,37 @@
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/nomacs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nomacs/nomacs"><b>nomacs/nomacs</b></a><br><sub>nomacs is a free image viewer for windows, linux, and mac systems.</sub></td>
-<td align="right"><b>3,343</b></td>
-<td align="right">213</td>
+<td align="right"><b>3,352</b></td>
+<td align="right">215</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/kleiton0x00.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet"><b>kleiton0x00/Advanced-SQL-Injection-Cheatsheet</b></a><br><sub>A cheat sheet that contains advanced queries for SQL Injection of all types.</sub></td>
-<td align="right"><b>3,261</b></td>
-<td align="right">700</td>
+<td align="right"><b>3,264</b></td>
+<td align="right">701</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/mitsuhiko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mitsuhiko/agent-stuff"><b>mitsuhiko/agent-stuff</b></a><br><sub>These are commands I use with agents, mostly Claude</sub></td>
-<td align="right"><b>3,225</b></td>
+<td align="right"><b>3,227</b></td>
 <td align="right">237</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">60</td>
-<td><img src="https://github.com/nefarius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nefarius/ScpToolkit"><b>nefarius/ScpToolkit</b></a> <sub>archived</sub><br><sub>Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers</sub></td>
-<td align="right"><b>3,167</b></td>
-<td align="right">526</td>
-<td>C#</td>
+<td><img src="https://github.com/imsnif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imsnif/diskonaut"><b>imsnif/diskonaut</b></a><br><sub>Terminal disk space navigator 🔭</sub></td>
+<td align="right"><b>3,168</b></td>
+<td align="right">102</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">61</td>
-<td><img src="https://github.com/imsnif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imsnif/diskonaut"><b>imsnif/diskonaut</b></a><br><sub>Terminal disk space navigator 🔭</sub></td>
-<td align="right"><b>3,164</b></td>
-<td align="right">102</td>
-<td>Rust</td>
+<td><img src="https://github.com/nefarius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nefarius/ScpToolkit"><b>nefarius/ScpToolkit</b></a> <sub>archived</sub><br><sub>Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers</sub></td>
+<td align="right"><b>3,166</b></td>
+<td align="right">526</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">62</td>
@@ -458,7 +458,7 @@
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/sebhildebrandt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sebhildebrandt/systeminformation"><b>sebhildebrandt/systeminformation</b></a><br><sub>System Information Library for Node.JS</sub></td>
-<td align="right"><b>3,144</b></td>
+<td align="right"><b>3,145</b></td>
 <td align="right">350</td>
 <td>JavaScript</td>
 </tr>
@@ -466,13 +466,13 @@
 <td align="right">64</td>
 <td><img src="https://github.com/Gamua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gamua/Starling-Framework"><b>Gamua/Starling-Framework</b></a><br><sub>The Cross Platform Game Engine</sub></td>
 <td align="right"><b>3,129</b></td>
-<td align="right">813</td>
+<td align="right">812</td>
 <td>ActionScript</td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/bitfireAT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitfireAT/davx5-ose"><b>bitfireAT/davx5-ose</b></a><br><sub>DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) w…</sub></td>
-<td align="right"><b>3,043</b></td>
+<td align="right"><b>3,059</b></td>
 <td align="right">151</td>
 <td>Kotlin</td>
 </tr>
@@ -480,27 +480,27 @@
 <td align="right">66</td>
 <td><img src="https://github.com/splitbee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/splitbee/react-notion"><b>splitbee/react-notion</b></a><br><sub>A fast React renderer for Notion pages</sub></td>
 <td align="right"><b>2,996</b></td>
-<td align="right">158</td>
+<td align="right">160</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/mitsuhiko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mitsuhiko/insta"><b>mitsuhiko/insta</b></a><br><sub>A snapshot testing library for rust</sub></td>
-<td align="right"><b>2,988</b></td>
-<td align="right">174</td>
+<td align="right"><b>2,990</b></td>
+<td align="right">175</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/bbernhard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bbernhard/signal-cli-rest-api"><b>bbernhard/signal-cli-rest-api</b></a><br><sub>Dockerized Signal Messenger REST API</sub></td>
-<td align="right"><b>2,932</b></td>
-<td align="right">318</td>
+<td align="right"><b>2,936</b></td>
+<td align="right">319</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/cocur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cocur/slugify"><b>cocur/slugify</b></a><br><sub>Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.</sub></td>
-<td align="right"><b>2,894</b></td>
+<td align="right"><b>2,893</b></td>
 <td align="right">246</td>
 <td>PHP</td>
 </tr>
@@ -521,43 +521,43 @@
 <tr>
 <td align="right">72</td>
 <td><img src="https://github.com/bezhanSalleh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bezhanSalleh/filament-shield"><b>bezhanSalleh/filament-shield</b></a><br><sub>The easiest and most intuitive way to add access management to your Filament Panel; Resources, Pages &amp; Widgets through…</sub></td>
-<td align="right"><b>2,833</b></td>
-<td align="right">300</td>
+<td align="right"><b>2,835</b></td>
+<td align="right">301</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">73</td>
 <td><img src="https://github.com/mitsuhiko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mitsuhiko/minijinja"><b>mitsuhiko/minijinja</b></a><br><sub>MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2</sub></td>
-<td align="right"><b>2,830</b></td>
-<td align="right">192</td>
+<td align="right"><b>2,835</b></td>
+<td align="right">196</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/patrickfav.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/patrickfav/uber-apk-signer"><b>patrickfav/uber-apk-signer</b></a><br><sub>A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug…</sub></td>
-<td align="right"><b>2,815</b></td>
-<td align="right">267</td>
+<td align="right"><b>2,819</b></td>
+<td align="right">266</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/authpass.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/authpass/authpass"><b>authpass/authpass</b></a><br><sub>AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.</sub></td>
-<td align="right"><b>2,813</b></td>
-<td align="right">294</td>
+<td align="right"><b>2,817</b></td>
+<td align="right">296</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/tkem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tkem/cachetools"><b>tkem/cachetools</b></a><br><sub>Extensible memoizing collections and decorators</sub></td>
-<td align="right"><b>2,796</b></td>
+<td align="right"><b>2,797</b></td>
 <td align="right">248</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">77</td>
 <td><img src="https://github.com/mfussenegger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mfussenegger/nvim-lint"><b>mfussenegger/nvim-lint</b></a><br><sub>Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the bu…</sub></td>
-<td align="right"><b>2,787</b></td>
-<td align="right">311</td>
+<td align="right"><b>2,788</b></td>
+<td align="right">310</td>
 <td>Lua</td>
 </tr>
 <tr>
@@ -570,42 +570,42 @@
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/altmann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/altmann/FluentResults"><b>altmann/FluentResults</b></a><br><sub>A generalised Result object implementation for .NET/C#</sub></td>
-<td align="right"><b>2,651</b></td>
+<td align="right"><b>2,652</b></td>
 <td align="right">134</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/alexedwards.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexedwards/scs"><b>alexedwards/scs</b></a><br><sub>HTTP Session Management for Go</sub></td>
-<td align="right"><b>2,643</b></td>
-<td align="right">209</td>
+<td align="right"><b>2,642</b></td>
+<td align="right">210</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/Syslifters.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Syslifters/sysreptor"><b>Syslifters/sysreptor</b></a><br><sub>A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, cust…</sub></td>
-<td align="right"><b>2,623</b></td>
+<td align="right"><b>2,627</b></td>
 <td align="right">302</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/atong01.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atong01/conditional-flow-matching"><b>atong01/conditional-flow-matching</b></a><br><sub>TorchCFM: a Conditional Flow Matching library</sub></td>
-<td align="right"><b>2,613</b></td>
+<td align="right"><b>2,617</b></td>
 <td align="right">229</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/earendil-works.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/earendil-works/absurd"><b>earendil-works/absurd</b></a><br><sub>An experiment in durability</sub></td>
-<td align="right"><b>2,569</b></td>
+<td align="right"><b>2,576</b></td>
 <td align="right">122</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/cksystemsteaching.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cksystemsteaching/selfie"><b>cksystemsteaching/selfie</b></a><br><sub>An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny s…</sub></td>
-<td align="right"><b>2,534</b></td>
+<td align="right"><b>2,535</b></td>
 <td align="right">358</td>
 <td>Jupyter Notebook</td>
 </tr>
@@ -625,30 +625,30 @@
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/codingcommons.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codingcommons/typesafe-i18n"><b>codingcommons/typesafe-i18n</b></a><br><sub>A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.</sub></td>
+<td><img src="https://github.com/earendil-works.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/earendil-works/gondolin"><b>earendil-works/gondolin</b></a><br><sub>Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox</sub></td>
 <td align="right"><b>2,477</b></td>
+<td align="right">165</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/codingcommons.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codingcommons/typesafe-i18n"><b>codingcommons/typesafe-i18n</b></a><br><sub>A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.</sub></td>
+<td align="right"><b>2,476</b></td>
 <td align="right">91</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">88</td>
-<td><img src="https://github.com/earendil-works.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/earendil-works/gondolin"><b>earendil-works/gondolin</b></a><br><sub>Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox</sub></td>
-<td align="right"><b>2,469</b></td>
-<td align="right">163</td>
-<td>Rust</td>
-</tr>
-<tr>
 <td align="right">89</td>
 <td><img src="https://github.com/kkrypt0nn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kkrypt0nn/wordlists"><b>kkrypt0nn/wordlists</b></a><br><sub>📜 Yet another collection of wordlists</sub></td>
-<td align="right"><b>2,432</b></td>
-<td align="right">400</td>
+<td align="right"><b>2,433</b></td>
+<td align="right">401</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/geogebra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/geogebra/geogebra"><b>geogebra/geogebra</b></a><br><sub>GeoGebra apps (mirror)</sub></td>
-<td align="right"><b>2,401</b></td>
-<td align="right">494</td>
+<td align="right"><b>2,404</b></td>
+<td align="right">495</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -661,8 +661,8 @@
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/skalesapp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skalesapp/skales"><b>skalesapp/skales</b></a><br><sub>Personal AI agent harness for macOS, Windows, Linux, Android &amp; iOS. New: Skales Scout, lasting AI agents that keep work…</sub></td>
-<td align="right"><b>2,240</b></td>
-<td align="right">301</td>
+<td align="right"><b>2,239</b></td>
+<td align="right">302</td>
 <td>—</td>
 </tr>
 <tr>

@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"TF","name":"French Southern Territories","slug":"french-southern-territories"},
-"count": 8,
+"count": 7,
 "repositories": [
-  {"name":"litmus-ritten/slurpy","stars":2,"forks":0,"language":"Python","license":"MIT","archived":false,"createdAt":"2024-09-06T06:10:50Z","pushedAt":"2025-02-18T09:35:25Z","owner":{"login":"litmus-ritten","type":"User","location":"Kerguelen Islands"},"attribution":{"code":"TF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-01T06:23:59.420Z","id":"legacy:litmus-ritten/slurpy","legacy":true},
   {"name":"chewkekofmeister/chewkekofmeister","stars":0,"forks":0,"archived":false,"createdAt":"2024-09-22T00:19:25Z","pushedAt":"2024-09-22T00:19:35Z","owner":{"login":"chewkekofmeister","type":"User","location":"French Southern Territories (TF)"},"attribution":{"code":"TF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:23:59.420Z","id":"legacy:chewkekofmeister/chewkekofmeister","legacy":true},
   {"name":"digglator/test","stars":0,"forks":0,"archived":false,"createdAt":"2015-05-21T23:43:50Z","pushedAt":"2015-05-21T23:43:51Z","owner":{"login":"digglator","type":"User","name":"Jean-Baptiste","location":"Kerguelen Islands"},"attribution":{"code":"TF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-01T06:23:59.420Z","id":"legacy:digglator/test","legacy":true},
   {"name":"JiKanium/TestGD1A","stars":0,"forks":0,"language":"C#","archived":false,"createdAt":"2021-01-06T12:36:48Z","pushedAt":"2021-01-06T13:02:41Z","owner":{"login":"JiKanium","type":"User","name":"Léo","location":"Terre Adélie"},"attribution":{"code":"TF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-01T06:23:59.420Z","id":"legacy:jikanium/testgd1a","legacy":true},

@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"RE","name":"Réunion","slug":"reunion"},
-"count": 115,
+"count": 116,
 "repositories": [
+  {"id":"R_kgDORUbedw","name":"edouard-claude/snip","stars":485,"forks":50,"language":"Go","license":"MIT","description":"CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go.","archived":false,"createdAt":"2026-02-20T04:01:26Z","pushedAt":"2026-11-05T14:15:31Z","owner":{"id":"MDQ6VXNlcjE0ODAwMzU=","login":"edouard-claude","type":"User","name":"Edouard CLAUDE","location":"La Réunion"},"attribution":{"code":"RE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-25T23:41:53.889Z","verifiedAt":"2026-11-25T23:41:53.889Z","cycle":1},
   {"name":"Jlr97470/DELTA_API","stars":2,"forks":1,"language":"Visual Basic 6.0","archived":false,"createdAt":"2026-01-31T13:12:30Z","pushedAt":"2026-03-19T10:44:14Z","owner":{"login":"Jlr97470","type":"User","name":"jlr97442","location":"La Réunion"},"attribution":{"code":"RE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:03:09.401Z","id":"legacy:jlr97470/delta_api","legacy":true},
   {"name":"NotaSurgele/Bootstrap_CSFML","stars":2,"forks":1,"language":"C","archived":false,"createdAt":"2022-11-10T05:15:54Z","pushedAt":"2022-11-10T06:52:17Z","owner":{"login":"NotaSurgele","type":"User","name":"Alexis Picard","location":"Réunion"},"attribution":{"code":"RE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:03:09.401Z","id":"legacy:notasurgele/bootstrap_csfml","legacy":true},
   {"name":"Popwers/mini-bun","stars":2,"forks":1,"language":"Shell","archived":false,"createdAt":"2024-09-11T11:24:35Z","pushedAt":"2026-09-29T11:59:47Z","owner":{"login":"Popwers","type":"User","name":"Lionel Bataille","location":"La Réunion"},"attribution":{"code":"RE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:03:09.401Z","id":"legacy:popwers/mini-bun","legacy":true},

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **36** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
+| 🟡 Provisional | **41** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
 
 </div>
 
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/anthonyshort"><img src="https://avatars.githubusercontent.com/u/36125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anthonyshort"><b>Anthony Short</b></a><br><sub>&#64;anthonyshort</sub></td>
-<td align="right"><b>534</b></td>
+<td align="right"><b>535</b></td>
 <td align="right">142</td>
 <td><sub>San Francisco, US</sub></td>
 </tr>
@@ -212,62 +212,97 @@
 </tr>
 <tr>
 <td align="right">28</td>
+<td><a href="https://github.com/mike-jumper"><img src="https://avatars.githubusercontent.com/u/4632905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mike-jumper"><b>Mike Jumper</b></a><br><sub>&#64;mike-jumper</sub></td>
+<td align="right"><b>173</b></td>
+<td align="right">13</td>
+<td><sub>California, US</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/grempe"><img src="https://avatars.githubusercontent.com/u/117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/grempe"><b>Glenn Rempe</b></a><br><sub>&#64;grempe</sub></td>
+<td align="right"><b>168</b></td>
+<td align="right">60</td>
+<td><sub>Virginia, US</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/oicrruf"><img src="https://avatars.githubusercontent.com/u/15336350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oicrruf"><b>Víctor M. Reyes</b></a><br><sub>&#64;oicrruf</sub></td>
+<td align="right"><b>164</b></td>
+<td align="right">82</td>
+<td><sub>San Salvador, El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/ever1509"><img src="https://avatars.githubusercontent.com/u/2957653?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ever1509"><b>Ever Orellana</b></a><br><sub>&#64;ever1509</sub></td>
+<td align="right"><b>162</b></td>
+<td align="right">31</td>
+<td><sub>El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
 <td><a href="https://github.com/Xithrius"><img src="https://avatars.githubusercontent.com/u/15021300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Xithrius"><b>Xithrius</b></a><br><sub>&#64;Xithrius</sub></td>
 <td align="right"><b>145</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">33</td>
+<td><a href="https://github.com/leosuncin"><img src="https://avatars.githubusercontent.com/u/4307697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leosuncin"><b>Jaime Leonardo Suncin Cruz</b></a><br><sub>&#64;leosuncin</sub></td>
+<td align="right"><b>86</b></td>
+<td align="right">0</td>
+<td><sub>San Salvador, El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><a href="https://github.com/deviantfero"><img src="https://avatars.githubusercontent.com/u/11150153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deviantfero"><b>Fernando Vásquez</b></a><br><sub>&#64;deviantfero</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Santa Tecla, El Salvador</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">35</td>
 <td><a href="https://github.com/mxgxw"><img src="https://avatars.githubusercontent.com/u/1070304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mxgxw"><b>Mario Gómez</b></a><br><sub>&#64;mxgxw</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>El Salvador</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">36</td>
 <td><a href="https://github.com/mvp"><img src="https://avatars.githubusercontent.com/u/17501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvp"><b>mvp</b></a><br><sub>&#64;mvp</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">37</td>
 <td><a href="https://github.com/liangxianzhe"><img src="https://avatars.githubusercontent.com/u/1334962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liangxianzhe"><b>Xianzhe Liang</b></a><br><sub>&#64;liangxianzhe</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">38</td>
 <td><a href="https://github.com/beihaili"><img src="https://avatars.githubusercontent.com/u/90946134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/beihaili"><b>bhbtc1337</b></a><br><sub>&#64;beihaili</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>El Salvador</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">39</td>
 <td><a href="https://github.com/deltaphc"><img src="https://avatars.githubusercontent.com/u/13461946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deltaphc"><b>Paul Clement</b></a><br><sub>&#64;deltaphc</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">40</td>
 <td><a href="https://github.com/JCarterJohnson"><img src="https://avatars.githubusercontent.com/u/122135351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JCarterJohnson"><b>Carter Johnson</b></a><br><sub>&#64;JCarterJohnson</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">41</td>
 <td><a href="https://github.com/Alexito12-sys"><img src="https://avatars.githubusercontent.com/u/242744811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alexito12-sys"><b>Erick Alexander Acevedo Ayala</b></a><br><sub>&#64;Alexito12-sys</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -281,7 +316,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 36 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 41 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 71 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

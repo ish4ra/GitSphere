@@ -625,45 +625,45 @@
 </tr>
 <tr>
 <td align="right">87</td>
+<td><a href="https://github.com/Namaumbo"><img src="https://avatars.githubusercontent.com/u/48355720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Namaumbo"><b>Daelo Namaumbo</b></a><br><sub>&#64;Namaumbo</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">68</td>
+<td><sub>Malawi</sub></td>
+</tr>
+<tr>
+<td align="right">88</td>
 <td><a href="https://github.com/Lichapa"><img src="https://avatars.githubusercontent.com/u/63948895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lichapa"><b>Mphatso Lichapa</b></a><br><sub>&#64;Lichapa</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">45</td>
 <td><sub>Malawi</sub></td>
 </tr>
 <tr>
-<td align="right">88</td>
+<td align="right">89</td>
 <td><a href="https://github.com/twabi"><img src="https://avatars.githubusercontent.com/u/40010596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/twabi"><b>Ahmed twabi</b></a><br><sub>&#64;twabi</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">43</td>
 <td><sub>Zomba, Malawi</sub></td>
 </tr>
 <tr>
-<td align="right">89</td>
+<td align="right">90</td>
 <td><a href="https://github.com/donald-88"><img src="https://avatars.githubusercontent.com/u/94043524?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donald-88"><b>McDonald Namba</b></a><br><sub>&#64;donald-88</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">26</td>
 <td><sub>Malawi, Lilongwe</sub></td>
 </tr>
 <tr>
-<td align="right">90</td>
+<td align="right">91</td>
 <td><a href="https://github.com/CliffordMarley"><img src="https://avatars.githubusercontent.com/u/29399473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CliffordMarley"><b>Clifford P. Mwale</b></a><br><sub>&#64;CliffordMarley</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">25</td>
 <td><sub>Area 47, Lilongwe, Malawi</sub></td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">92</td>
 <td><a href="https://github.com/JezreelCircles"><img src="https://avatars.githubusercontent.com/u/129200273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JezreelCircles"><b>Chisomo Gondwe</b></a><br><sub>&#64;JezreelCircles</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">9</td>
 <td><sub>Lilongwe, Malawi.</sub></td>
-</tr>
-<tr>
-<td align="right">92</td>
-<td><a href="https://github.com/Namaumbo"><img src="https://avatars.githubusercontent.com/u/48355720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Namaumbo"><b>Daelo Namaumbo</b></a><br><sub>&#64;Namaumbo</sub></td>
-<td align="right"><b>15</b></td>
-<td align="right">68</td>
-<td><sub>Malawi</sub></td>
 </tr>
 <tr>
 <td align="right">93</td>

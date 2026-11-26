@@ -261,37 +261,37 @@
 </tr>
 <tr>
 <td align="right">35</td>
+<td><a href="https://github.com/obed-niyomugisha"><img src="https://avatars.githubusercontent.com/u/204957866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/obed-niyomugisha"><b>Obed Niyomugisha</b></a><br><sub>&#64;obed-niyomugisha</sub></td>
+<td align="right"><b>167</b></td>
+<td align="right">15</td>
+<td><sub>Kigali, Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
 <td><a href="https://github.com/DeliceLydia"><img src="https://avatars.githubusercontent.com/u/44745855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DeliceLydia"><b>Lydia Ingabire</b></a><br><sub>&#64;DeliceLydia</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">53</td>
 <td><sub>Kigali-Rwanda</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">37</td>
 <td><a href="https://github.com/helen751"><img src="https://avatars.githubusercontent.com/u/65390055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/helen751"><b>Helen Ugoeze Okereke</b></a><br><sub>&#64;helen751</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">50</td>
 <td><sub>Kigali, Rwanda</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">38</td>
 <td><a href="https://github.com/Josephat-S"><img src="https://avatars.githubusercontent.com/u/194397238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Josephat-S"><b>Josephat Sangwa</b></a><br><sub>&#64;Josephat-S</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">30</td>
 <td><sub>Kigali, Rwanda</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
-<td><a href="https://github.com/obed-niyomugisha"><img src="https://avatars.githubusercontent.com/u/204957866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/obed-niyomugisha"><b>Obed Niyomugisha</b></a><br><sub>&#64;obed-niyomugisha</sub></td>
-<td align="right"><b>165</b></td>
-<td align="right">15</td>
-<td><sub>Kigali, Rwanda</sub></td>
-</tr>
-<tr>
 <td align="right">39</td>
 <td><a href="https://github.com/CREDO23"><img src="https://avatars.githubusercontent.com/u/103337221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CREDO23"><b>Thierry CH.</b></a><br><sub>&#64;CREDO23</sub></td>
 <td align="right"><b>162</b></td>
-<td align="right">85</td>
+<td align="right">86</td>
 <td><sub>Rwanda</sub></td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/AE.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/AE.json">JSON</a> |
 
 </div>
 
@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/garylab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/garylab/dnmp"><b>garylab/dnmp</b></a><br><sub>Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)</sub></td>
-<td align="right"><b>4,079</b></td>
+<td align="right"><b>4,080</b></td>
 <td align="right">1,400</td>
 <td>Shell</td>
 </tr>
@@ -137,35 +137,35 @@
 <td align="right">17</td>
 <td><img src="https://github.com/TarrySingh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials"><b>TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials</b></a><br><sub>Synapsa Commons: free, hands-on AI courses that run anywhere (Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act co…</sub></td>
 <td align="right"><b>4,027</b></td>
-<td align="right">1,618</td>
+<td align="right">1,617</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/anmol098.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anmol098/waka-readme-stats"><b>anmol098/waka-readme-stats</b></a><br><sub>This GitHub action helps to add cool dev metrics to your github profile Readme</sub></td>
-<td align="right"><b>4,012</b></td>
+<td align="right"><b>4,011</b></td>
 <td align="right">654</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/wa0x6e.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wa0x6e/cal-heatmap"><b>wa0x6e/cal-heatmap</b></a><br><sub>Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap</sub></td>
-<td align="right"><b>3,129</b></td>
+<td align="right"><b>3,128</b></td>
 <td align="right">304</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/themsaid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/themsaid/wink"><b>themsaid/wink</b></a><br><sub>A Laravel-based publishing platform</sub></td>
-<td align="right"><b>2,925</b></td>
+<td align="right"><b>2,924</b></td>
 <td align="right">395</td>
 <td>Vue</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/morethanwords.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/morethanwords/tweb"><b>morethanwords/tweb</b></a><br><sub>Telegram Web K, GPL v3</sub></td>
-<td align="right"><b>2,737</b></td>
-<td align="right">1,038</td>
+<td align="right"><b>2,742</b></td>
+<td align="right">1,045</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -178,15 +178,15 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/saleem-hadad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saleem-hadad/larecipe"><b>saleem-hadad/larecipe</b></a><br><sub>✏️ LaRecipe lives inside your Laravel app. Your coding agents write the docs and update them with every change. People…</sub></td>
-<td align="right"><b>2,532</b></td>
+<td align="right"><b>2,530</b></td>
 <td align="right">268</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/VILA-Lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VILA-Lab/Dive-into-Claude-Code"><b>VILA-Lab/Dive-into-Claude-Code</b></a><br><sub>A Systematic Analysis and Discussion of Claude Code for Designing Today&#39;s and Future AI Agent Systems</sub></td>
-<td align="right"><b>2,255</b></td>
-<td align="right">335</td>
+<td align="right"><b>2,258</b></td>
+<td align="right">337</td>
 <td>—</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 654 stars; 136 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 654 stars; 150 attributed candidates are tracked.
 - 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 98 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

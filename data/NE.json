@@ -5,7 +5,7 @@
 "country": {"code":"NE","name":"Niger","slug":"niger"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":147,"candidates":124,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":65,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":146,"candidates":124,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":65,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOJSDBLw","name":"mangayomi","nameWithOwner":"kodjodevf/mangayomi","url":"https://github.com/kodjodevf/mangayomi","description":"Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows","stars":4562,"forks":217,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-04-03T09:49:56Z","pushedAt":"2026-11-20T17:23:38Z","archived":false,"owner":{"login":"kodjodevf","name":"Moustapha Kodjo Amadou","type":"User","url":"https://github.com/kodjodevf","location":"Niamey,Niger","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"vendor_dolby_moto","nameWithOwner":"cumOS/vendor_dolby_moto","url":"https://github.com/cumOS/vendor_dolby_moto","description":null,"stars":2,"forks":2,"primaryLanguage":"Makefile","license":null,"createdAt":"2024-05-11T13:07:18Z","pushedAt":"2024-05-12T05:00:11Z","archived":false,"owner":{"login":"cumOS","name":"cumOS","type":"Organization","url":"https://github.com/cumOS","location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"ahmadsouleymane","nameWithOwner":"ahmadsouleymane/ahmadsouleymane","url":"https://github.com/ahmadsouleymane/ahmadsouleymane","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-25T17:08:04Z","pushedAt":"2026-09-25T17:09:25Z","archived":false,"owner":{"login":"ahmadsouleymane","name":"Ahmad Souleymane","type":"User","url":"https://github.com/ahmadsouleymane","location":"Niamey, Niger","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"wp-youtube_integration","nameWithOwner":"ahs2/wp-youtube_integration","url":"https://github.com/ahs2/wp-youtube_integration","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2026-04-29T08:51:03Z","pushedAt":"2026-05-15T15:42:56Z","archived":false,"owner":{"login":"ahs2","name":"Adamou Halidou","type":"User","url":"https://github.com/ahs2","location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "7a5d74526b880b7a",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "885dd6e267d76000",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

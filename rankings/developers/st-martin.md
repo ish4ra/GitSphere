@@ -212,7 +212,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 26 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 2 of 12 in round 1.
+- **Location discovery:** term 5 of 12 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

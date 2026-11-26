@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/IE.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/IE.json">JSON</a> |
 
 </div>
 
@@ -185,63 +185,63 @@
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/jmcnamara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jmcnamara/XlsxWriter"><b>jmcnamara/XlsxWriter</b></a><br><sub>A Python module for creating Excel XLSX files.</sub></td>
-<td align="right"><b>3,997</b></td>
+<td align="right"><b>3,998</b></td>
 <td align="right">688</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/thunderclient.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thunderclient/thunder-client-support"><b>thunderclient/thunder-client-support</b></a><br><sub>Thunder Client is a lightweight Rest API Client Extension for VS Code.</sub></td>
-<td align="right"><b>3,714</b></td>
+<td align="right"><b>3,715</b></td>
 <td align="right">156</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/samdenty.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/samdenty/gqless"><b>samdenty/gqless</b></a><br><sub>a GraphQL client without queries</sub></td>
-<td align="right"><b>3,650</b></td>
+<td align="right"><b>3,649</b></td>
 <td align="right">52</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/rcarriga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rcarriga/nvim-notify"><b>rcarriga/nvim-notify</b></a><br><sub>A fancy, configurable, notification manager for NeoVim</sub></td>
-<td align="right"><b>3,569</b></td>
-<td align="right">104</td>
+<td align="right"><b>3,571</b></td>
+<td align="right">105</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/vitaly-t.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vitaly-t/pg-promise"><b>vitaly-t/pg-promise</b></a><br><sub>PostgreSQL interface for Node.js</sub></td>
-<td align="right"><b>3,549</b></td>
+<td align="right"><b>3,548</b></td>
 <td align="right">219</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/EntySec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EntySec/Ghost"><b>EntySec/Ghost</b></a><br><sub>Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an…</sub></td>
-<td align="right"><b>3,442</b></td>
+<td align="right"><b>3,443</b></td>
 <td align="right">1,054</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/joreilly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joreilly/PeopleInSpace"><b>joreilly/PeopleInSpace</b></a><br><sub>Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web c…</sub></td>
-<td align="right"><b>3,441</b></td>
+<td align="right"><b>3,442</b></td>
 <td align="right">316</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/stephenfewer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stephenfewer/ReflectiveDLLInjection"><b>stephenfewer/ReflectiveDLLInjection</b></a><br><sub>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to…</sub></td>
-<td align="right"><b>3,394</b></td>
-<td align="right">811</td>
+<td align="right"><b>3,398</b></td>
+<td align="right">812</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/rcarriga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rcarriga/nvim-dap-ui"><b>rcarriga/nvim-dap-ui</b></a><br><sub>A UI for nvim-dap</sub></td>
-<td align="right"><b>3,392</b></td>
+<td align="right"><b>3,394</b></td>
 <td align="right">130</td>
 <td>Lua</td>
 </tr>
@@ -262,14 +262,14 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/supercorp-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/supercorp-ai/supergateway"><b>supercorp-ai/supergateway</b></a><br><sub>Run MCP stdio servers over HTTP streamable, SSE and SSE over stdio. AI gateway.</sub></td>
-<td align="right"><b>2,975</b></td>
-<td align="right">272</td>
+<td align="right"><b>2,983</b></td>
+<td align="right">271</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/pbatard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pbatard/Fido"><b>pbatard/Fido</b></a><br><sub>A PowerShell script to download Windows or UEFI Shell ISOs</sub></td>
-<td align="right"><b>2,935</b></td>
+<td align="right"><b>2,936</b></td>
 <td align="right">255</td>
 <td>PowerShell</td>
 </tr>
@@ -284,7 +284,7 @@
 <td align="right">38</td>
 <td><img src="https://github.com/vechain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vechain/grant-program"><b>vechain/grant-program</b></a> <sub>archived</sub><br><sub>VeChain Foundation General Grant Program</sub></td>
 <td align="right"><b>2,788</b></td>
-<td align="right">187</td>
+<td align="right">188</td>
 <td>—</td>
 </tr>
 <tr>
@@ -298,7 +298,7 @@
 <td align="right">40</td>
 <td><img src="https://github.com/usablica.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/usablica/front-end-frameworks"><b>usablica/front-end-frameworks</b></a><br><sub>A collection of best front-end frameworks for faster and easier web development.</sub></td>
 <td align="right"><b>2,776</b></td>
-<td align="right">313</td>
+<td align="right">312</td>
 <td>—</td>
 </tr>
 <tr>
@@ -311,21 +311,21 @@
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/cesanta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cesanta/mongoose-os"><b>cesanta/mongoose-os</b></a><br><sub>Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F…</sub></td>
-<td align="right"><b>2,669</b></td>
-<td align="right">434</td>
+<td align="right"><b>2,670</b></td>
+<td align="right">435</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/sentriz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sentriz/gonic"><b>sentriz/gonic</b></a><br><sub>music streaming server / free-software subsonic server API implementation</sub></td>
-<td align="right"><b>2,668</b></td>
-<td align="right">171</td>
+<td align="right"><b>2,669</b></td>
+<td align="right">174</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/markdregan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/markdregan/Bayesian-Modelling-in-Python"><b>markdregan/Bayesian-Modelling-in-Python</b></a><br><sub>A python tutorial on bayesian modeling techniques (PyMC3)</sub></td>
-<td align="right"><b>2,500</b></td>
+<td align="right"><b>2,499</b></td>
 <td align="right">402</td>
 <td>Jupyter Notebook</td>
 </tr>
@@ -333,21 +333,21 @@
 <td align="right">45</td>
 <td><img src="https://github.com/mrdavidlaing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrdavidlaing/javascript-koans"><b>mrdavidlaing/javascript-koans</b></a><br><sub>Koans to learn Javascript</sub></td>
 <td align="right"><b>2,412</b></td>
-<td align="right">3,463</td>
+<td align="right">3,462</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/miguelgrinberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miguelgrinberg/Flask-Migrate"><b>miguelgrinberg/Flask-Migrate</b></a><br><sub>SQLAlchemy database migrations for Flask applications using Alembic</sub></td>
 <td align="right"><b>2,401</b></td>
-<td align="right">235</td>
+<td align="right">234</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/pbatard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pbatard/libwdi"><b>pbatard/libwdi</b></a><br><sub>Windows Driver Installer library for USB devices</sub></td>
-<td align="right"><b>2,381</b></td>
-<td align="right">527</td>
+<td align="right"><b>2,385</b></td>
+<td align="right">529</td>
 <td>C</td>
 </tr>
 <tr>
@@ -360,15 +360,15 @@
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/usablica.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/usablica/progress.js"><b>usablica/progress.js</b></a><br><sub>ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects o…</sub></td>
-<td align="right"><b>2,329</b></td>
+<td align="right"><b>2,328</b></td>
 <td align="right">238</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/moneymanagerex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moneymanagerex/moneymanagerex"><b>moneymanagerex/moneymanagerex</b></a><br><sub>Money Manager Ex is an easy to use, money management application built with wxWidgets</sub></td>
-<td align="right"><b>2,296</b></td>
-<td align="right">350</td>
+<td align="right"><b>2,299</b></td>
+<td align="right">351</td>
 <td>C++</td>
 </tr>
 <tr>

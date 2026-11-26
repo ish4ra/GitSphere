@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/developers/AF.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/AF.json">JSON</a> |
 
 </div>
 
@@ -100,55 +100,76 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/khalidafghanmal"><img src="https://avatars.githubusercontent.com/u/77006219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khalidafghanmal"><b>khalid afghanmal</b></a><br><sub>&#64;khalidafghanmal</sub></td>
+<td align="right"><b>169</b></td>
+<td align="right">12</td>
+<td><sub>Afghanistan</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/WajihaNiazi"><img src="https://avatars.githubusercontent.com/u/42426067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WajihaNiazi"><b>Wajiha Niazi</b></a><br><sub>&#64;WajihaNiazi</sub></td>
+<td align="right"><b>162</b></td>
+<td align="right">23</td>
+<td><sub>Herat,Afghanistan</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/4466127"><img src="https://avatars.githubusercontent.com/u/76124445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4466127"><b>M.Reza Hakimi</b></a><br><sub>&#64;4466127</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Kabul , Afghanistan</sub></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
 <td><a href="https://github.com/01Habibi"><img src="https://avatars.githubusercontent.com/u/183608780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01Habibi"><b>Masehullah Habibi</b></a><br><sub>&#64;01Habibi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Afghanistan- Kabul</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/0774916089"><img src="https://avatars.githubusercontent.com/u/145971954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0774916089"><b>Safiullah Roohani</b></a><br><sub>&#64;0774916089</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Kabul Afghanistan</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/1998209"><img src="https://avatars.githubusercontent.com/u/147299276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1998209"><b>Zainab</b></a><br><sub>&#64;1998209</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Afghanistan</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/22hkh"><img src="https://avatars.githubusercontent.com/u/119162083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/22hkh"><b>Hadi Khawari</b></a><br><sub>&#64;22hkh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Herat,Afghanistan</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
+<td><a href="https://github.com/4hmadi"><img src="https://avatars.githubusercontent.com/u/242950439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4hmadi"><b>Hamidullah Ahmadi</b></a><br><sub>&#64;4hmadi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Dasht-e-Barchi, Kabul, Afghanistan.</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/0093745359387"><img src="https://avatars.githubusercontent.com/u/89460133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0093745359387"><b>Waisuddin</b></a><br><sub>&#64;0093745359387</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Afghanistan</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/0788775670"><img src="https://avatars.githubusercontent.com/u/29273432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0788775670"><b>Suhrab Seerat</b></a><br><sub>&#64;0788775670</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kabul Afghanistan</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">22</td>
 <td><a href="https://github.com/0xLZZ"><img src="https://avatars.githubusercontent.com/u/118131407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xLZZ"><b>Lzz</b></a><br><sub>&#64;0xLZZ</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -162,7 +183,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 19 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 171 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

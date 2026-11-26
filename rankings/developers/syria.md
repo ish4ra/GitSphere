@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/evoiz"><img src="https://avatars.githubusercontent.com/u/22682669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evoiz"><b>Elias Al-bittar</b></a><br><sub>&#64;evoiz</sub></td>
-<td align="right"><b>99</b></td>
+<td align="right"><b>101</b></td>
 <td align="right">31</td>
 <td><sub>Homs, Syria</sub></td>
 </tr>

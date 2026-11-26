@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/PH.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/PH.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/Blankeos"><img src="https://avatars.githubusercontent.com/u/38070918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blankeos"><b>Carlo Taleon</b></a><br><sub>&#64;Blankeos · 182 followers</sub></td>
+<td align="right"><b>2,513</b></td>
+<td align="right">2,303</td>
+<td align="right">84</td>
+<td align="right">14</td>
+<td align="right">56</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/armlynobinguar"><img src="https://avatars.githubusercontent.com/u/65301944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/armlynobinguar"><b>armlynobinguar</b></a><br><sub>&#64;armlynobinguar · 251 followers</sub></td>
 <td align="right"><b>1,185</b></td>
 <td align="right">941</td>
@@ -69,7 +78,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/audreyfeldroy"><img src="https://avatars.githubusercontent.com/u/74739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/audreyfeldroy"><b>Audrey M. Roy Greenfeld</b></a><br><sub>&#64;audreyfeldroy · 2,178 followers</sub></td>
 <td align="right"><b>1,119</b></td>
 <td align="right">939</td>
@@ -78,7 +87,7 @@
 <td align="right">44</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/uncomfyhalomacro"><img src="https://avatars.githubusercontent.com/u/66054069?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uncomfyhalomacro"><b>Soc Virnyl S. Estela</b></a><br><sub>&#64;uncomfyhalomacro · 230 followers</sub></td>
 <td align="right"><b>706</b></td>
 <td align="right">660</td>
@@ -87,7 +96,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/zakame"><img src="https://avatars.githubusercontent.com/u/110625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zakame"><b>Zak B. Elep</b></a><br><sub>&#64;zakame · 309 followers</sub></td>
 <td align="right"><b>458</b></td>
 <td align="right">333</td>
@@ -96,7 +105,7 @@
 <td align="right">13</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/anchetaWern"><img src="https://avatars.githubusercontent.com/u/743603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anchetaWern"><b>Wern Ancheta</b></a><br><sub>&#64;anchetaWern · 346 followers</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">172</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/carl-alberto"><img src="https://avatars.githubusercontent.com/u/5098765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carl-alberto"><b>Carl Alberto</b></a><br><sub>&#64;carl-alberto · 483 followers</sub></td>
 <td align="right"><b>149</b></td>
 <td align="right">116</td>
@@ -114,13 +123,31 @@
 <td align="right">21</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/stormwild"><img src="https://avatars.githubusercontent.com/u/657249?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stormwild"><b>Alexander R Torrijos</b></a><br><sub>&#64;stormwild · 225 followers</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">11</td>
 <td align="right">2</td>
 <td align="right">0</td>
 <td align="right">1</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/I2rys"><img src="https://avatars.githubusercontent.com/u/87125939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/I2rys"><b>I2rys</b></a><br><sub>&#64;I2rys · 185 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/renzocabarios"><img src="https://avatars.githubusercontent.com/u/72588010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/renzocabarios"><b>Renzo Cabarios</b></a><br><sub>&#64;renzocabarios · 189 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -129,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 540 discovered developers (529 awaiting measurement).
+- **Measured:** 14 of 564 discovered developers (550 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 210 in round 1.

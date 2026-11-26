@@ -26,7 +26,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/vbauerster.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vbauerster/mpb"><b>vbauerster/mpb</b></a><br><sub>multi progress bar for Go cli applications</sub></td>
-<td align="right"><b>2,513</b></td>
+<td align="right"><b>2,512</b></td>
 <td align="right">132</td>
 <td>Go</td>
 </tr>

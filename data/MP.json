@@ -5,7 +5,7 @@
 "country": {"code":"MP","name":"Northern Mariana Islands","slug":"northern-mariana-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":17,"ownerExpansionBacklog":19,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":26,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":17,"ownerExpansionBacklog":19,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":26,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"generator","nameWithOwner":"Ar7Backup/generator","url":"https://github.com/Ar7Backup/generator","description":null,"stars":2,"forks":0,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2018-11-05T03:49:04Z","pushedAt":"2022-03-18T14:03:14Z","archived":false,"owner":{"login":"Ar7Backup","name":"AR7 Backup","type":"Organization","url":"https://github.com/Ar7Backup","location":"Northern Mariana Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"starter-template","nameWithOwner":"donnaada/starter-template","url":"https://github.com/donnaada/starter-template","description":null,"stars":2,"forks":0,"primaryLanguage":"CSS","license":{"spdxId":"MIT"},"createdAt":"2023-02-26T01:19:35Z","pushedAt":"2023-03-13T07:44:53Z","archived":false,"owner":{"login":"donnaada","name":"Donna Ada","type":"User","url":"https://github.com/donnaada","location":"Saipan, MP","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
@@ -25,8 +25,8 @@
   {"rank":16,"id":null,"name":"rudimarshall","nameWithOwner":"rudi-marshall/rudimarshall","url":"https://github.com/rudi-marshall/rudimarshall","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-24T04:07:11Z","pushedAt":"2026-09-24T04:07:12Z","archived":false,"owner":{"login":"rudi-marshall","name":"Rudi Marshall","type":"User","url":"https://github.com/rudi-marshall","location":"Saipan, Northern Mariana Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
   {"rank":17,"id":null,"name":"band-archive","nameWithOwner":"stephenalonzo/band-archive","url":"https://github.com/stephenalonzo/band-archive","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2026-09-05T04:00:35Z","pushedAt":"2026-10-13T17:11:11Z","archived":false,"owner":{"login":"stephenalonzo","name":"Stephen Alonzo","type":"User","url":"https://github.com/stephenalonzo","location":"Saipan, MP","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-30","pendingRevalidation":true}
 ],
-"contentHash": "75153df4704332ee",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "f0bfca0a4055da99",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-10-30",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

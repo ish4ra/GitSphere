@@ -5,7 +5,7 @@
 "country": {"code":"US","name":"United States","slug":"united-states"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":1983,"measuredAccounts":10,"measurementBacklog":1973,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":1997,"measuredAccounts":12,"measurementBacklog":1985,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY1OTMzMzQw","login":"seanpm2001","name":"Sean P. Myrick V19.1.7.2","url":"https://github.com/seanpm2001","avatarUrl":"https://avatars.githubusercontent.com/u/65933340?s=80&v=4","followers":2241,"publicRepos":50522,"location":"Walla Walla Washington, USA, Earth, Milky way, <Universe>","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":9311,"commits":9054,"pullRequests":0,"reviews":0,"issues":11,"repositories":101,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjY1MzYzMjM=","login":"idimetrix","name":"Dmitry Selikhov","url":"https://github.com/idimetrix","avatarUrl":"https://avatars.githubusercontent.com/u/6536323?s=80&v=4","followers":16502,"publicRepos":4287,"location":"New York","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23","contributions":{"public":566,"commits":510,"pullRequests":8,"reviews":0,"issues":30,"repositories":18,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"MDQ6VXNlcjg4NzQ5NjQz","login":"Uvacoder","name":"uvacoder","url":"https://github.com/Uvacoder","avatarUrl":"https://avatars.githubusercontent.com/u/88749643?s=80&v=4","followers":199,"publicRepos":5751,"location":"Charlottesville, Virginia","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-25","contributions":{"public":23,"commits":3,"pullRequests":0,"reviews":0,"issues":5,"repositories":15,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
   {"rank":8,"id":"MDQ6VXNlcjM0ODk4MDM4","login":"AzureCloudMonk","name":"Losang Jinpa, PhD, MCSE/MCT, Cloud Monk","url":"https://github.com/AzureCloudMonk","avatarUrl":"https://avatars.githubusercontent.com/u/34898038?s=80&v=4","followers":252,"publicRepos":4456,"location":"Pacific Northwest, USA","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":3,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "06a2677daeb5262f",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "fc16093cc988e861",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

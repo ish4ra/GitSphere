@@ -5,7 +5,7 @@
 "country": {"code":"LC","name":"St. Lucia","slug":"st-lucia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":46,"ownerExpansionBacklog":99,"candidates":46,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":30,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":46,"ownerExpansionBacklog":113,"candidates":46,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":30,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"MicoudSec","nameWithOwner":"Ojasva77/MicoudSec","url":"https://github.com/Ojasva77/MicoudSec","description":null,"stars":2,"forks":0,"primaryLanguage":"CSS","license":{"spdxId":"MIT"},"createdAt":"2025-11-04T00:20:55Z","pushedAt":"2025-11-05T14:39:35Z","archived":false,"owner":{"login":"Ojasva77","name":"Ojasva Pandey","type":"User","url":"https://github.com/Ojasva77","location":"St. Lucia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"CrowdFunding","nameWithOwner":"autoabacus/CrowdFunding","url":"https://github.com/autoabacus/CrowdFunding","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2017-07-23T13:28:55Z","pushedAt":"2017-07-23T13:41:21Z","archived":false,"owner":{"login":"autoabacus","name":"David Hartley","type":"User","url":"https://github.com/autoabacus","location":"St Lucia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -54,8 +54,8 @@
   {"rank":45,"id":null,"name":"duplication-bug-filament","nameWithOwner":"uqjohart/duplication-bug-filament","url":"https://github.com/uqjohart/duplication-bug-filament","description":null,"stars":0,"forks":0,"primaryLanguage":"Blade","license":null,"createdAt":"2025-06-12T23:01:09Z","pushedAt":"2025-06-12T23:37:23Z","archived":false,"owner":{"login":"uqjohart","name":"Joshua Hartmann","type":"User","url":"https://github.com/uqjohart","location":"St Lucia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":46,"id":null,"name":"xumukrampageog","nameWithOwner":"xumukrampageog/xumukrampageog","url":"https://github.com/xumukrampageog/xumukrampageog","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-28T10:03:30Z","pushedAt":"2024-09-28T10:03:49Z","archived":false,"owner":{"login":"xumukrampageog","name":null,"type":"User","url":"https://github.com/xumukrampageog","location":"St Lucia (LC)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "54e7ee0f8f844458",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "924ba876a6c6f8fc",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

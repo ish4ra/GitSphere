@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/IT.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/IT.json">JSON</a> |
 
 </div>
 
@@ -549,29 +549,29 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/remorses.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/remorses/playwriter"><b>remorses/playwriter</b></a><br><sub>Chrome extension &amp; CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as…</sub></td>
-<td align="right"><b>4,119</b></td>
+<td align="right"><b>4,132</b></td>
 <td align="right">203</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">77</td>
 <td><img src="https://github.com/jekil.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jekil/awesome-hacking"><b>jekil/awesome-hacking</b></a><br><sub>Awesome hacking is an awesome collection of hacking tools.</sub></td>
-<td align="right"><b>4,071</b></td>
+<td align="right"><b>4,076</b></td>
 <td align="right">640</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/rejetto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rejetto/hfs"><b>rejetto/hfs</b></a><br><sub>HFS is a web file server for your computer. Share folders or even a single file thanks to the virtual file system.</sub></td>
-<td align="right"><b>4,017</b></td>
-<td align="right">377</td>
+<td align="right"><b>4,024</b></td>
+<td align="right">379</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/ZiggyCreatures.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZiggyCreatures/FusionCache"><b>ZiggyCreatures/FusionCache</b></a><br><sub>FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features.</sub></td>
-<td align="right"><b>3,957</b></td>
-<td align="right">206</td>
+<td align="right"><b>3,961</b></td>
+<td align="right">207</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -584,21 +584,21 @@
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/edoardottt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edoardottt/cariddi"><b>edoardottt/cariddi</b></a><br><sub>Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more</sub></td>
-<td align="right"><b>3,830</b></td>
-<td align="right">347</td>
+<td align="right"><b>3,865</b></td>
+<td align="right">353</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/pichillilorenzo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pichillilorenzo/flutter_inappwebview"><b>pichillilorenzo/flutter&#95;inappwebview</b></a><br><sub>A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser win…</sub></td>
-<td align="right"><b>3,795</b></td>
-<td align="right">2,166</td>
+<td align="right"><b>3,793</b></td>
+<td align="right">2,168</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/pcm-dpc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pcm-dpc/COVID-19"><b>pcm-dpc/COVID-19</b></a><br><sub>COVID-19 Italia - Monitoraggio situazione</sub></td>
-<td align="right"><b>3,782</b></td>
+<td align="right"><b>3,781</b></td>
 <td align="right">2,151</td>
 <td>—</td>
 </tr>
@@ -612,7 +612,7 @@
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/arl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arl/statsviz"><b>arl/statsviz</b></a><br><sub>Visualise Go runtime metrics in real time</sub></td>
-<td align="right"><b>3,646</b></td>
+<td align="right"><b>3,647</b></td>
 <td align="right">126</td>
 <td>Go</td>
 </tr>
@@ -626,14 +626,14 @@
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/danog.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danog/MadelineProto"><b>danog/MadelineProto</b></a><br><sub>Async PHP client API for the telegram MTProto protocol</sub></td>
-<td align="right"><b>3,562</b></td>
-<td align="right">936</td>
+<td align="right"><b>3,568</b></td>
+<td align="right">938</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/jnordberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jnordberg/wintersmith"><b>jnordberg/wintersmith</b></a><br><sub>A flexible static site generator</sub></td>
-<td align="right"><b>3,474</b></td>
+<td align="right"><b>3,473</b></td>
 <td align="right">322</td>
 <td>CoffeeScript</td>
 </tr>
@@ -647,7 +647,7 @@
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/LorenzCK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LorenzCK/OnTopReplica"><b>LorenzCK/OnTopReplica</b></a><br><sub>A real-time always-on-top “replica” of a window of your choice (on Windows).</sub></td>
-<td align="right"><b>3,416</b></td>
+<td align="right"><b>3,417</b></td>
 <td align="right">364</td>
 <td>C#</td>
 </tr>
@@ -661,63 +661,63 @@
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/andreamazz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andreamazz/AMPopTip"><b>andreamazz/AMPopTip</b></a><br><sub>An animated popover that pops out a given frame, great for subtle UI tips and onboarding.</sub></td>
-<td align="right"><b>3,324</b></td>
+<td align="right"><b>3,323</b></td>
 <td align="right">449</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">93</td>
+<td><img src="https://github.com/shmykelsa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shmykelsa/AAAD"><b>shmykelsa/AAAD</b></a><br><sub>The original application for downloading and installing apps made specifically for Android Auto outside of Google Play…</sub></td>
+<td align="right"><b>3,294</b></td>
+<td align="right">360</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">94</td>
 <td><img src="https://github.com/andreamazz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andreamazz/BubbleTransition"><b>andreamazz/BubbleTransition</b></a><br><sub>A custom modal transition that presents and dismiss a controller with an expanding bubble effect.</sub></td>
 <td align="right"><b>3,293</b></td>
 <td align="right">245</td>
 <td>Swift</td>
 </tr>
 <tr>
-<td align="right">94</td>
-<td><img src="https://github.com/shmykelsa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shmykelsa/AAAD"><b>shmykelsa/AAAD</b></a><br><sub>The original application for downloading and installing apps made specifically for Android Auto outside of Google Play…</sub></td>
-<td align="right"><b>3,289</b></td>
-<td align="right">358</td>
-<td>Java</td>
-</tr>
-<tr>
 <td align="right">95</td>
 <td><img src="https://github.com/GuidoBartoli.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GuidoBartoli/sherloq"><b>GuidoBartoli/sherloq</b></a><br><sub>An open-source digital image forensic toolset</sub></td>
-<td align="right"><b>3,267</b></td>
+<td align="right"><b>3,273</b></td>
 <td align="right">317</td>
 <td>Perl</td>
 </tr>
 <tr>
 <td align="right">96</td>
+<td><img src="https://github.com/Djdefrag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Djdefrag/QualityScaler"><b>Djdefrag/QualityScaler</b></a><br><sub>QualityScaler - image/video AI upscaler app</sub></td>
+<td align="right"><b>3,261</b></td>
+<td align="right">265</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">97</td>
 <td><img src="https://github.com/UnevenSoftware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/UnevenSoftware/LeafPic"><b>UnevenSoftware/LeafPic</b></a><br><sub>LeafPic is a fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It d…</sub></td>
 <td align="right"><b>3,260</b></td>
 <td align="right">1,327</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">97</td>
-<td><img src="https://github.com/Djdefrag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Djdefrag/QualityScaler"><b>Djdefrag/QualityScaler</b></a><br><sub>QualityScaler - image/video AI upscaler app</sub></td>
-<td align="right"><b>3,254</b></td>
-<td align="right">264</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">98</td>
 <td><img src="https://github.com/pglombardo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pglombardo/PasswordPusher"><b>pglombardo/PasswordPusher</b></a><br><sub>🔐 Securely share sensitive information with automatic expiration &amp; deletion after a set number of views or duration. T…</sub></td>
-<td align="right"><b>3,253</b></td>
-<td align="right">475</td>
+<td align="right"><b>3,257</b></td>
+<td align="right">474</td>
 <td>Ruby</td>
 </tr>
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/enzomanuelmangano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/enzomanuelmangano/demos"><b>enzomanuelmangano/demos</b></a><br><sub>An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.</sub></td>
-<td align="right"><b>3,247</b></td>
+<td align="right"><b>3,248</b></td>
 <td align="right">296</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/dexpota.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dexpota/kitty-themes"><b>dexpota/kitty-themes</b></a><br><sub>A collection of themes for kitty terminal 😻</sub></td>
-<td align="right"><b>3,207</b></td>
+<td align="right"><b>3,206</b></td>
 <td align="right">214</td>
 <td>Python</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 3,207 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 3,206 stars; 150 attributed candidates are tracked.
 - 130 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 171 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

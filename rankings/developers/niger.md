@@ -80,8 +80,8 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/akaletekoffilevis"><img src="https://avatars.githubusercontent.com/u/194287490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akaletekoffilevis"><b>akaletekoffilevis</b></a><br><sub>&#64;akaletekoffilevis</sub></td>
-<td align="right"><b>65</b></td>
-<td align="right">82</td>
+<td align="right"><b>64</b></td>
+<td align="right">83</td>
 <td><sub>Niger / Niamey</sub></td>
 </tr>
 <tr>

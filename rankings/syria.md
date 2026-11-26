@@ -26,8 +26,8 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/evoiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evoiz/Agentic-Design-Patterns"><b>evoiz/Agentic-Design-Patterns</b></a></td>
-<td align="right"><b>4,166</b></td>
-<td align="right">641</td>
+<td align="right"><b>4,188</b></td>
+<td align="right">642</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
@@ -691,7 +691,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 94 attributed candidates are tracked.
 - 92 entries were carried over from the previous dataset and are pending revalidation.
-- 131 multi-repository owners are queued for expansion.
+- 128 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

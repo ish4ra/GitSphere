@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/GG.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/GG.json">JSON</a> |
 
 </div>
 
@@ -95,6 +95,15 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/LIHITAB"><img src="https://avatars.githubusercontent.com/u/126348873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LIHITAB"><b>Like and Code on GitHub</b></a><br><sub>&#64;LIHITAB · 2 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -102,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 145 discovered developers (132 awaiting measurement).
+- **Measured:** 16 of 145 discovered developers (129 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 5 of 24 in round 1.

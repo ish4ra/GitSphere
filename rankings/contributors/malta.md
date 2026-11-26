@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/MT.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/MT.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/jirevwe"><img src="https://avatars.githubusercontent.com/u/5263355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jirevwe"><b>Raymond Tukpe</b></a><br><sub>&#64;jirevwe · 243 followers</sub></td>
+<td align="right"><b>436</b></td>
+<td align="right">332</td>
+<td align="right">43</td>
+<td align="right">56</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/mandyfarrugia"><img src="https://avatars.githubusercontent.com/u/107984232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mandyfarrugia"><b>Mandy Farrugia</b></a><br><sub>&#64;mandyfarrugia · 369 followers</sub></td>
 <td align="right"><b>387</b></td>
 <td align="right">371</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/cybernerdie"><img src="https://avatars.githubusercontent.com/u/52431939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cybernerdie"><b>Joshua Paul</b></a><br><sub>&#64;cybernerdie · 100 followers</sub></td>
 <td align="right"><b>256</b></td>
 <td align="right">230</td>
@@ -96,7 +105,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
+<td><a href="https://github.com/hofstede-matheus"><img src="https://avatars.githubusercontent.com/u/12226197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hofstede-matheus"><b>Matheus Hofstede</b></a><br><sub>&#64;hofstede-matheus · 75 followers</sub></td>
+<td align="right"><b>222</b></td>
+<td align="right">170</td>
+<td align="right">34</td>
+<td align="right">5</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/Geod24"><img src="https://avatars.githubusercontent.com/u/2180215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Geod24"><b>Mathias LANG</b></a><br><sub>&#64;Geod24 · 72 followers</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">76</td>
@@ -105,7 +123,16 @@
 <td align="right">16</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
+<td><a href="https://github.com/dottedmag"><img src="https://avatars.githubusercontent.com/u/16120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dottedmag"><b>Mike Dotty</b></a><br><sub>&#64;dottedmag · 95 followers</sub></td>
+<td align="right"><b>66</b></td>
+<td align="right">47</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/xiaocong"><img src="https://avatars.githubusercontent.com/u/1559756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiaocong"><b>xiaocong</b></a><br><sub>&#64;xiaocong · 475 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -120,7 +147,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 398 discovered developers (387 awaiting measurement).
+- **Measured:** 14 of 398 discovered developers (384 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 104 in round 1.

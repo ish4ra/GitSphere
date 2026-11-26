@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/FI.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/FI.json">JSON</a> |
 
 </div>
 
@@ -276,7 +276,7 @@
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/juhaku.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juhaku/utoipa"><b>juhaku/utoipa</b></a><br><sub>Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust</sub></td>
-<td align="right"><b>4,154</b></td>
+<td align="right"><b>4,160</b></td>
 <td align="right">416</td>
 <td>Rust</td>
 </tr>
@@ -290,49 +290,49 @@
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/bebraw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bebraw/jswiki"><b>bebraw/jswiki</b></a><br><sub>JavaScript wiki. Focuses mainly on JS/HTML5/WebGL related tech.</sub></td>
-<td align="right"><b>3,860</b></td>
+<td align="right"><b>3,858</b></td>
 <td align="right">240</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/nordicgiant2.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nordicgiant2/awesome-landing-page"><b>nordicgiant2/awesome-landing-page</b></a><br><sub>A series of beautiful and practical landing page templates</sub></td>
-<td align="right"><b>3,826</b></td>
+<td align="right"><b>3,827</b></td>
 <td align="right">334</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">41</td>
-<td><img src="https://github.com/vitobotta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vitobotta/hetzner-k3s"><b>vitobotta/hetzner-k3s</b></a><br><sub>The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud</sub></td>
-<td align="right"><b>3,736</b></td>
-<td align="right">231</td>
-<td>Crystal</td>
-</tr>
-<tr>
-<td align="right">42</td>
 <td><img src="https://github.com/WithSecureOpenSource.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WithSecureOpenSource/chainsaw"><b>WithSecureOpenSource/chainsaw</b></a><br><sub>Rapidly Search and Hunt through Windows Forensic Artefacts</sub></td>
-<td align="right"><b>3,730</b></td>
+<td align="right"><b>3,738</b></td>
 <td align="right">313</td>
 <td>Rust</td>
 </tr>
 <tr>
+<td align="right">42</td>
+<td><img src="https://github.com/vitobotta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vitobotta/hetzner-k3s"><b>vitobotta/hetzner-k3s</b></a><br><sub>The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud</sub></td>
+<td align="right"><b>3,734</b></td>
+<td align="right">232</td>
+<td>Crystal</td>
+</tr>
+<tr>
 <td align="right">43</td>
 <td><img src="https://github.com/pixelsign.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pixelsign/html5-device-mockups"><b>pixelsign/html5-device-mockups</b></a><br><sub>HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.</sub></td>
-<td align="right"><b>3,672</b></td>
+<td align="right"><b>3,674</b></td>
 <td align="right">392</td>
 <td>SCSS</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/TalalAlrawajfeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TalalAlrawajfeh/mathematics-roadmap"><b>TalalAlrawajfeh/mathematics-roadmap</b></a><br><sub>A Comprehensive Roadmap to Mathematics</sub></td>
-<td align="right"><b>3,633</b></td>
+<td align="right"><b>3,634</b></td>
 <td align="right">291</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/scop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scop/bash-completion"><b>scop/bash-completion</b></a><br><sub>Programmable completion functions for bash</sub></td>
-<td align="right"><b>3,547</b></td>
+<td align="right"><b>3,550</b></td>
 <td align="right">429</td>
 <td>Shell</td>
 </tr>
@@ -346,22 +346,22 @@
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/kijai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kijai/ComfyUI-KJNodes"><b>kijai/ComfyUI-KJNodes</b></a><br><sub>Various custom nodes for ComfyUI</sub></td>
-<td align="right"><b>3,485</b></td>
-<td align="right">373</td>
+<td align="right"><b>3,494</b></td>
+<td align="right">375</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/arielsalminen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arielsalminen/ResponsiveSlides.js"><b>arielsalminen/ResponsiveSlides.js</b></a><br><sub>Simple &amp; lightweight responsive slider plugin (in 1kb)</sub></td>
 <td align="right"><b>3,432</b></td>
-<td align="right">1,466</td>
+<td align="right">1,465</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/akheron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akheron/jansson"><b>akheron/jansson</b></a><br><sub>C library for encoding, decoding and manipulating JSON data</sub></td>
-<td align="right"><b>3,379</b></td>
-<td align="right">864</td>
+<td align="right"><b>3,380</b></td>
+<td align="right">866</td>
 <td>C</td>
 </tr>
 <tr>
@@ -374,30 +374,30 @@
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/Miksus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Miksus/rocketry"><b>Miksus/rocketry</b></a><br><sub>Modern scheduling library for Python</sub></td>
-<td align="right"><b>3,349</b></td>
+<td align="right"><b>3,350</b></td>
 <td align="right">113</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">52</td>
 <td><img src="https://github.com/osdnk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/osdnk/react-native-reanimated-bottom-sheet"><b>osdnk/react-native-reanimated-bottom-sheet</b></a><br><sub>Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler</sub></td>
-<td align="right"><b>3,332</b></td>
+<td align="right"><b>3,331</b></td>
 <td align="right">326</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">53</td>
-<td><img src="https://github.com/Figma-Linux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Figma-Linux/figma-linux"><b>Figma-Linux/figma-linux</b></a><br><sub>Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us i…</sub></td>
-<td align="right"><b>3,307</b></td>
-<td align="right">213</td>
-<td>Svelte</td>
+<td><img src="https://github.com/jehna.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jehna/humanify"><b>jehna/humanify</b></a><br><sub>Deobfuscate Javascript code using ChatGPT</sub></td>
+<td align="right"><b>3,314</b></td>
+<td align="right">212</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">54</td>
-<td><img src="https://github.com/jehna.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jehna/humanify"><b>jehna/humanify</b></a><br><sub>Deobfuscate Javascript code using ChatGPT</sub></td>
-<td align="right"><b>3,306</b></td>
-<td align="right">208</td>
-<td>Rust</td>
+<td><img src="https://github.com/Figma-Linux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Figma-Linux/figma-linux"><b>Figma-Linux/figma-linux</b></a><br><sub>Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us i…</sub></td>
+<td align="right"><b>3,308</b></td>
+<td align="right">213</td>
+<td>Svelte</td>
 </tr>
 <tr>
 <td align="right">55</td>
@@ -409,42 +409,42 @@
 <tr>
 <td align="right">56</td>
 <td><img src="https://github.com/saminiir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saminiir/level-ip"><b>saminiir/level-ip</b></a><br><sub>A hacker&#39;s userspace TCP/IP stack</sub></td>
-<td align="right"><b>3,147</b></td>
+<td align="right"><b>3,145</b></td>
 <td align="right">424</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/arielsalminen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arielsalminen/feature.js"><b>arielsalminen/feature.js</b></a><br><sub>Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.</sub></td>
-<td align="right"><b>3,137</b></td>
+<td align="right"><b>3,136</b></td>
 <td align="right">109</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/raine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raine/workmux"><b>raine/workmux</b></a><br><sub>git worktrees + tmux windows for zero-friction parallel dev</sub></td>
-<td align="right"><b>3,081</b></td>
-<td align="right">343</td>
+<td align="right"><b>3,090</b></td>
+<td align="right">351</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/dalathegreat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dalathegreat/Battery-Emulator"><b>dalathegreat/Battery-Emulator</b></a><br><sub>This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with sol…</sub></td>
-<td align="right"><b>3,045</b></td>
-<td align="right">432</td>
+<td align="right"><b>3,051</b></td>
+<td align="right">435</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">60</td>
 <td><img src="https://github.com/mstorsjo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mstorsjo/llvm-mingw"><b>mstorsjo/llvm-mingw</b></a><br><sub>An LLVM/Clang/LLD based mingw-w64 toolchain</sub></td>
-<td align="right"><b>3,042</b></td>
-<td align="right">276</td>
+<td align="right"><b>3,049</b></td>
+<td align="right">278</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/Metabolix.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Metabolix/HackBGRT"><b>Metabolix/HackBGRT</b></a><br><sub>Windows boot logo changer for UEFI systems</sub></td>
-<td align="right"><b>2,982</b></td>
+<td align="right"><b>2,989</b></td>
 <td align="right">292</td>
 <td>C#</td>
 </tr>
@@ -465,8 +465,8 @@
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/henki-robotics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/henki-robotics/robotics_essentials_ros2"><b>henki-robotics/robotics&#95;essentials&#95;ros2</b></a><br><sub>Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation.</sub></td>
-<td align="right"><b>2,723</b></td>
-<td align="right">305</td>
+<td align="right"><b>2,727</b></td>
+<td align="right">306</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -486,43 +486,43 @@
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/agronholm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/agronholm/anyio"><b>agronholm/anyio</b></a><br><sub>High level asynchronous concurrency and networking framework that works on top of either Trio or asyncio</sub></td>
-<td align="right"><b>2,572</b></td>
-<td align="right">360</td>
+<td align="right"><b>2,575</b></td>
+<td align="right">366</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/jareware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jareware/css-architecture"><b>jareware/css-architecture</b></a><br><sub>8 simple rules for a robust, scalable CSS architecture</sub></td>
-<td align="right"><b>2,559</b></td>
+<td align="right"><b>2,558</b></td>
 <td align="right">127</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/Nelarius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nelarius/imnodes"><b>Nelarius/imnodes</b></a><br><sub>A small, dependency-free node editor for dear imgui</sub></td>
-<td align="right"><b>2,503</b></td>
+<td align="right"><b>2,505</b></td>
 <td align="right">314</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">70</td>
+<td><img src="https://github.com/tphakala.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tphakala/birdnet-go"><b>tphakala/birdnet-go</b></a><br><sub>Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7…</sub></td>
+<td align="right"><b>2,479</b></td>
+<td align="right">211</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">71</td>
 <td><img src="https://github.com/bungle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bungle/awesome-resty"><b>bungle/awesome-resty</b></a><br><sub>A List of Quality OpenResty Libraries, and Resources.</sub></td>
 <td align="right"><b>2,478</b></td>
 <td align="right">261</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">71</td>
-<td><img src="https://github.com/tphakala.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tphakala/birdnet-go"><b>tphakala/birdnet-go</b></a><br><sub>Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7…</sub></td>
-<td align="right"><b>2,471</b></td>
-<td align="right">211</td>
-<td>Go</td>
-</tr>
-<tr>
 <td align="right">72</td>
 <td><img src="https://github.com/sharetribe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sharetribe/sharetribe"><b>sharetribe/sharetribe</b></a><br><sub>Sharetribe Go is Sharetribe&#39;s old source-available marketplace software, which was also available as a hosted SaaS prod…</sub></td>
-<td align="right"><b>2,450</b></td>
-<td align="right">1,322</td>
+<td align="right"><b>2,451</b></td>
+<td align="right">1,323</td>
 <td>Ruby</td>
 </tr>
 <tr>
@@ -542,35 +542,35 @@
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/aleksilassila.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aleksilassila/reiverr"><b>aleksilassila/reiverr</b></a><br><sub>Selfhosted Netflix</sub></td>
-<td align="right"><b>2,355</b></td>
+<td align="right"><b>2,356</b></td>
 <td align="right">71</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/Matoking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Matoking/protontricks"><b>Matoking/protontricks</b></a><br><sub>A wrapper that does winetricks things for Proton enabled games, requires Winetricks.</sub></td>
-<td align="right"><b>2,341</b></td>
-<td align="right">53</td>
+<td align="right"><b>2,342</b></td>
+<td align="right">54</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">77</td>
 <td><img src="https://github.com/kijai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kijai/ComfyUI-SUPIR"><b>kijai/ComfyUI-SUPIR</b></a><br><sub>SUPIR upscaling wrapper for ComfyUI</sub></td>
-<td align="right"><b>2,315</b></td>
-<td align="right">125</td>
+<td align="right"><b>2,314</b></td>
+<td align="right">126</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/FakeFishGames.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FakeFishGames/Barotrauma"><b>FakeFishGames/Barotrauma</b></a><br><sub>A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter&#39;s moon Europa.</sub></td>
-<td align="right"><b>2,301</b></td>
+<td align="right"><b>2,302</b></td>
 <td align="right">482</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/avehtari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avehtari/BDA_course_Aalto"><b>avehtari/BDA&#95;course&#95;Aalto</b></a><br><sub>Bayesian Data Analysis course at Aalto</sub></td>
-<td align="right"><b>2,292</b></td>
+<td align="right"><b>2,293</b></td>
 <td align="right">564</td>
 <td>TeX</td>
 </tr>

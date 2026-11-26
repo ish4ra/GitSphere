@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/CV.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/CV.json">JSON</a> |
 
 </div>
 
@@ -133,6 +133,33 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/Smithmayowa20"><img src="https://avatars.githubusercontent.com/u/27036877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smithmayowa20"><b>Alli-smith Mayowa</b></a><br><sub>&#64;Smithmayowa20 · 10 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">17</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/Stivifortes"><img src="https://avatars.githubusercontent.com/u/48479009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Stivifortes"><b>Stiven Fortes</b></a><br><sub>&#64;Stivifortes · 22 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">16</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/lauro-silva44"><img src="https://avatars.githubusercontent.com/u/81446578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lauro-silva44"><b>Lauro Silva</b></a><br><sub>&#64;lauro-silva44 · 22 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">4</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/Pavankunchala"><img src="https://avatars.githubusercontent.com/u/39479635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pavankunchala"><b>Pavan Kunchala</b></a><br><sub>&#64;Pavankunchala · 291 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -141,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">17</td>
 <td><a href="https://github.com/hacles100"><img src="https://avatars.githubusercontent.com/u/71661551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hacles100"><b>Héricles</b></a><br><sub>&#64;hacles100 · 22 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -156,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 421 discovered developers (403 awaiting measurement).
+- **Measured:** 21 of 422 discovered developers (401 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 120 in round 1.

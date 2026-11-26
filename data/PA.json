@@ -5,7 +5,7 @@
 "country": {"code":"PA","name":"Panama","slug":"panama"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":96,"ownerExpansionBacklog":139,"candidates":97,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":81,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":96,"ownerExpansionBacklog":138,"candidates":97,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":81,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOU4zrqA","name":"vapi-network","nameWithOwner":"vAPI-Network/vapi-network","url":"https://github.com/vAPI-Network/vapi-network","description":"Buyer-controlled client for x402 API payments in USDC on Base.","stars":5852,"forks":195,"primaryLanguage":"TypeScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2026-10-02T13:05:19Z","pushedAt":"2026-11-24T19:34:42Z","archived":false,"owner":{"login":"vAPI-Network","name":"vAPI Network","type":"Organization","url":"https://github.com/vAPI-Network","location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"Ebay","nameWithOwner":"alfonsofoster/Ebay","url":"https://github.com/alfonsofoster/Ebay","description":null,"stars":2,"forks":3,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2018-03-05T22:45:23Z","pushedAt":"2018-03-05T22:45:27Z","archived":false,"owner":{"login":"alfonsofoster","name":"Alfonso Foster","type":"User","url":"https://github.com/alfonsofoster","location":"Panama, Panama City","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -105,8 +105,8 @@
   {"rank":96,"id":null,"name":"restrict_EVM_US_other_Wallets_Via_Smartcontracts","nameWithOwner":"catenacap/restrict_EVM_US_other_Wallets_Via_Smartcontracts","url":"https://github.com/catenacap/restrict_EVM_US_other_Wallets_Via_Smartcontracts","description":null,"stars":1,"forks":0,"primaryLanguage":"Solidity","license":null,"createdAt":"2023-03-29T06:42:39Z","pushedAt":"2023-03-29T10:46:07Z","archived":false,"owner":{"login":"catenacap","name":"CATENACAP","type":"User","url":"https://github.com/catenacap","location":"Panama/HK","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":97,"id":null,"name":"universidad-social-UTP","nameWithOwner":"cdelgadobusot/universidad-social-UTP","url":"https://github.com/cdelgadobusot/universidad-social-UTP","description":null,"stars":1,"forks":0,"primaryLanguage":"Blade","license":null,"createdAt":"2025-10-08T16:02:49Z","pushedAt":"2025-12-17T00:09:17Z","archived":false,"owner":{"login":"cdelgadobusot","name":"Carlos Delgado","type":"User","url":"https://github.com/cdelgadobusot","location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "dfd83eb793474283",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "035170d1987a2d73",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

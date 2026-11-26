@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **57** | 22 Nov 2026 | <a href="../../data/developers/SJ.json">JSON</a> |
+| 🟡 Provisional | **56** | 22 Nov 2026 | <a href="../../data/developers/SJ.json">JSON</a> |
 
 </div>
 
@@ -74,7 +74,7 @@
 <td align="right">8</td>
 <td><a href="https://github.com/bearavax"><img src="https://avatars.githubusercontent.com/u/79617465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bearavax"><b>bear</b></a><br><sub>&#64;bearavax</sub></td>
 <td align="right"><b>10</b></td>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
@@ -177,244 +177,237 @@
 </tr>
 <tr>
 <td align="right">23</td>
-<td><a href="https://github.com/danavitski"><img src="https://avatars.githubusercontent.com/u/54046071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danavitski"><b>Daan Kivits</b></a><br><sub>&#64;danavitski</sub></td>
-<td align="right"><b>1</b></td>
-<td align="right">8</td>
-<td><sub>Longyearbyen, Svalbard</sub></td>
-</tr>
-<tr>
-<td align="right">24</td>
 <td><a href="https://github.com/86fyko"><img src="https://avatars.githubusercontent.com/u/66004335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/86fyko"><b>Merle</b></a><br><sub>&#64;86fyko</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">6</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">24</td>
 <td><a href="https://github.com/coolboygamer4597"><img src="https://avatars.githubusercontent.com/u/165211396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coolboygamer4597"><b>kingkingkingkingkingkingkingkingkingking</b></a><br><sub>&#64;coolboygamer4597</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">6</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">25</td>
 <td><a href="https://github.com/p-rudence"><img src="https://avatars.githubusercontent.com/u/340760203?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/p-rudence"><b>Prudence Richmond</b></a><br><sub>&#64;p-rudence</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">26</td>
 <td><a href="https://github.com/SimplyHero-dev"><img src="https://avatars.githubusercontent.com/u/192004276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SimplyHero-dev"><b>SimplyHero-dev</b></a><br><sub>&#64;SimplyHero-dev</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Longyearbyen, Svalbar</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">27</td>
 <td><a href="https://github.com/DashellHiggins"><img src="https://avatars.githubusercontent.com/u/362482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DashellHiggins"><b>DashellHiggins</b></a><br><sub>&#64;DashellHiggins</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">28</td>
 <td><a href="https://github.com/ragnheids"><img src="https://avatars.githubusercontent.com/u/290411516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ragnheids"><b>Ragnheid Skogseth</b></a><br><sub>&#64;ragnheids</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">29</td>
 <td><a href="https://github.com/bobwire"><img src="https://avatars.githubusercontent.com/u/11629603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bobwire"><b>vyrnpartner</b></a><br><sub>&#64;bobwire</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">30</td>
 <td><a href="https://github.com/frombillyjoe"><img src="https://avatars.githubusercontent.com/u/183455076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frombillyjoe"><b>frombillyjoe</b></a><br><sub>&#64;frombillyjoe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Svalbard &amp; Jan Mayen (SJ)</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">31</td>
 <td><a href="https://github.com/mikkeltoft"><img src="https://avatars.githubusercontent.com/u/31770754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikkeltoft"><b>Mikkel Toft Hornum</b></a><br><sub>&#64;mikkeltoft</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Longyearbyen</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">32</td>
 <td><a href="https://github.com/nikanoyaboomboom"><img src="https://avatars.githubusercontent.com/u/183285149?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nikanoyaboomboom"><b>nikanoyaboomboom</b></a><br><sub>&#64;nikanoyaboomboom</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Svalbard &amp; Jan Mayen (SJ)</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">33</td>
 <td><a href="https://github.com/Saatine"><img src="https://avatars.githubusercontent.com/u/186585855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Saatine"><b>Satine</b></a><br><sub>&#64;Saatine</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">34</td>
 <td><a href="https://github.com/CheshtaaChitkara"><img src="https://avatars.githubusercontent.com/u/77630323?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CheshtaaChitkara"><b>Cheshtaa Chitkara</b></a><br><sub>&#64;CheshtaaChitkara</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">35</td>
 <td><a href="https://github.com/0DAYHAVER"><img src="https://avatars.githubusercontent.com/u/179235538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0DAYHAVER"><b>morphine</b></a><br><sub>&#64;0DAYHAVER</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">36</td>
 <td><a href="https://github.com/ArbuS74"><img src="https://avatars.githubusercontent.com/u/76483518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArbuS74"><b>ArbuS78</b></a><br><sub>&#64;ArbuS74</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">37</td>
 <td><a href="https://github.com/JoshiReh"><img src="https://avatars.githubusercontent.com/u/218289317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoshiReh"><b>Joshua Rehlinghaus</b></a><br><sub>&#64;JoshiReh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>University Centre in Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">38</td>
 <td><a href="https://github.com/109228"><img src="https://avatars.githubusercontent.com/u/229954098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/109228"><b>Maddy Billups</b></a><br><sub>&#64;109228</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Longyearbyen, Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">39</td>
 <td><a href="https://github.com/Maya-SV"><img src="https://avatars.githubusercontent.com/u/188689942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maya-SV"><b>Turchian Mioara Iuga (Maya)</b></a><br><sub>&#64;Maya-SV</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Svalbard &amp; Jan Mayen</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">40</td>
 <td><a href="https://github.com/Pooppoopo"><img src="https://avatars.githubusercontent.com/u/220533244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pooppoopo"><b>gulp</b></a><br><sub>&#64;Pooppoopo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">41</td>
 <td><a href="https://github.com/rxylsharts"><img src="https://avatars.githubusercontent.com/u/290996742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rxylsharts"><b>Lappy</b></a><br><sub>&#64;rxylsharts</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Longyearbyen</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">42</td>
 <td><a href="https://github.com/sexyguylublukust"><img src="https://avatars.githubusercontent.com/u/182244114?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sexyguylublukust"><b>sexyguylublukust</b></a><br><sub>&#64;sexyguylublukust</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Svalbard &amp; Jan Mayen (SJ)</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">43</td>
 <td><a href="https://github.com/TanLastimosa"><img src="https://avatars.githubusercontent.com/u/185621670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TanLastimosa"><b>Tan Lastimosa</b></a><br><sub>&#64;TanLastimosa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">44</td>
 <td><a href="https://github.com/Wraith-Eir"><img src="https://avatars.githubusercontent.com/u/276687666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wraith-Eir"><b>Kalla Frost</b></a><br><sub>&#64;Wraith-Eir</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">45</td>
 <td><a href="https://github.com/YTHEDOGKING"><img src="https://avatars.githubusercontent.com/u/162193667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YTHEDOGKING"><b>Short Giraffe 😞</b></a><br><sub>&#64;YTHEDOGKING</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Olonkinbyen</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">46</td>
 <td><a href="https://github.com/105562"><img src="https://avatars.githubusercontent.com/u/70947992?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/105562"><b>Amandine</b></a><br><sub>&#64;105562</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">47</td>
 <td><a href="https://github.com/AsdisHekla"><img src="https://avatars.githubusercontent.com/u/25468956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AsdisHekla"><b>Ásdís Hekla</b></a><br><sub>&#64;AsdisHekla</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Longyearbyen, Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">48</td>
 <td><a href="https://github.com/codename-mute"><img src="https://avatars.githubusercontent.com/u/183728203?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codename-mute"><b>Mute</b></a><br><sub>&#64;codename-mute</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>in Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">49</td>
 <td><a href="https://github.com/compeysami"><img src="https://avatars.githubusercontent.com/u/246131954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/compeysami"><b>Sister &quot;Jackson&quot; Cremin</b></a><br><sub>&#64;compeysami</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Petaluma, Svalbard &amp; Jan Mayen Islands</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">50</td>
 <td><a href="https://github.com/Kenjihorota"><img src="https://avatars.githubusercontent.com/u/94757380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kenjihorota"><b>Rafael Kenji Horota</b></a><br><sub>&#64;Kenjihorota</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Longyearbyen, Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">51</td>
 <td><a href="https://github.com/lolgmr55"><img src="https://avatars.githubusercontent.com/u/58370870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lolgmr55"><b>lolgmr55</b></a><br><sub>&#64;lolgmr55</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">52</td>
 <td><a href="https://github.com/mmstubbe"><img src="https://avatars.githubusercontent.com/u/197942176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmstubbe"><b>Marius Michael Wilfried Stübbe</b></a><br><sub>&#64;mmstubbe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">53</td>
 <td><a href="https://github.com/Raiez"><img src="https://avatars.githubusercontent.com/u/179957609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Raiez"><b>Raiez</b></a><br><sub>&#64;Raiez</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Longyearbyen, Svalbard &amp; Jan Mayen</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">54</td>
 <td><a href="https://github.com/senger28429"><img src="https://avatars.githubusercontent.com/u/29105476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/senger28429"><b>Drew Senger</b></a><br><sub>&#64;senger28429</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Svalbard &amp; Jan Mayen Islands</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">55</td>
 <td><a href="https://github.com/shruthi511"><img src="https://avatars.githubusercontent.com/u/41983380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shruthi511"><b>shruthi</b></a><br><sub>&#64;shruthi511</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">56</td>
 <td><a href="https://github.com/zberjoz"><img src="https://avatars.githubusercontent.com/u/79698147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zberjoz"><b>In the Ghetto</b></a><br><sub>&#64;zberjoz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -428,7 +421,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 57 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 56 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 2 of 13 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

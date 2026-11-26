@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/RunPiBoss"><img src="https://avatars.githubusercontent.com/u/118056818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RunPiBoss"><b>RunPi老板🤴📈🚀🌕</b></a><br><sub>&#64;RunPiBoss</sub></td>
-<td align="right"><b>14</b></td>
+<td align="right"><b>13</b></td>
 <td align="right">44</td>
 <td><sub>Dili, Timor-Leste</sub></td>
 </tr>

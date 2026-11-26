@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **28** | 23 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -38,14 +38,14 @@
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/borisdj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/borisdj/EFCore.BulkExtensions"><b>borisdj/EFCore.BulkExtensions</b></a><br><sub>Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Trunc…</sub></td>
-<td align="right"><b>3,996</b></td>
-<td align="right">635</td>
+<td align="right"><b>3,998</b></td>
+<td align="right">634</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/elvirbrk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elvirbrk/NoteHighlight2016"><b>elvirbrk/NoteHighlight2016</b></a><br><sub>Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bi…</sub></td>
-<td align="right"><b>3,929</b></td>
+<td align="right"><b>3,927</b></td>
 <td align="right">391</td>
 <td>C#</td>
 </tr>
@@ -182,6 +182,41 @@
 <td align="right">121</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/codaxy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codaxy/cxjs"><b>codaxy/cxjs</b></a><br><sub>CxJS - Advanced JavaScript UI framework for admin and dashboard applications with ready to use grid, form and chart com…</sub></td>
+<td align="right"><b>492</b></td>
+<td align="right">72</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/amerhukic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amerhukic/AHDownloadButton"><b>amerhukic/AHDownloadButton</b></a><br><sub>Customizable download button with progress and transition animations. It is based on Apple&#39;s App Store download button.</sub></td>
+<td align="right"><b>489</b></td>
+<td align="right">56</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/Toni-d-e-v.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Toni-d-e-v/Aurora-Icloud-bypass"><b>Toni-d-e-v/Aurora-Icloud-bypass</b></a><br><sub>Free set of tools and scripts for unlocking older IOS devices using checkra1n and python</sub></td>
+<td align="right"><b>479</b></td>
+<td align="right">141</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/enisdenjo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/enisdenjo/graphql-sse"><b>enisdenjo/graphql-sse</b></a><br><sub>Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.</sub></td>
+<td align="right"><b>461</b></td>
+<td align="right">32</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/code-forge-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/code-forge-io/remix-hook-form"><b>code-forge-io/remix-hook-form</b></a><br><sub>Open source wrapper for react-hook-form aimed at Remix.run</sub></td>
+<td align="right"><b>452</b></td>
+<td align="right">44</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -190,8 +225,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 508 stars; 23 attributed candidates are tracked.
-- 108 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 452 stars; 28 attributed candidates are tracked.
+- 101 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

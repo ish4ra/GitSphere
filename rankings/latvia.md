@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **50** | 22 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟡 Provisional | **53** | 23 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -80,50 +80,50 @@
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/ChiliLabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChiliLabs/CHIPageControl"><b>ChiliLabs/CHIPageControl</b></a><br><sub>A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by &#64;ChiliLabs - https://chi…</sub></td>
-<td align="right"><b>3,471</b></td>
+<td align="right"><b>3,470</b></td>
 <td align="right">262</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/CommunityServer"><b>ONLYOFFICE/CommunityServer</b></a><br><sub>Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.</sub></td>
-<td align="right"><b>3,184</b></td>
-<td align="right">674</td>
+<td align="right"><b>3,186</b></td>
+<td align="right">672</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/arthepsy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arthepsy/ssh-audit"><b>arthepsy/ssh-audit</b></a><br><sub>SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)</sub></td>
-<td align="right"><b>2,990</b></td>
+<td align="right"><b>2,991</b></td>
 <td align="right">261</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/tostercx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tostercx/GTAO_Booster_PoC"><b>tostercx/GTAO&#95;Booster&#95;PoC</b></a> <sub>archived</sub></td>
-<td align="right"><b>2,861</b></td>
+<td align="right"><b>2,862</b></td>
 <td align="right">172</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/Bootstrap-Admin-Template"><b>puikinsh/Bootstrap-Admin-Template</b></a><br><sub>Metis - Free Bootstrap 5 Admin Dashboard Template</sub></td>
-<td align="right"><b>2,857</b></td>
+<td align="right"><b>2,856</b></td>
 <td align="right">1,318</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/YahnisElsts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YahnisElsts/plugin-update-checker"><b>YahnisElsts/plugin-update-checker</b></a><br><sub>A custom update checker for WordPress plugins. Useful if you don&#39;t want to host your project in the official WP reposit…</sub></td>
-<td align="right"><b>2,580</b></td>
+<td align="right"><b>2,583</b></td>
 <td align="right">436</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/Docker-DocumentServer"><b>ONLYOFFICE/Docker-DocumentServer</b></a><br><sub>ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and present…</sub></td>
-<td align="right"><b>2,542</b></td>
-<td align="right">714</td>
+<td align="right"><b>2,546</b></td>
+<td align="right">713</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -371,6 +371,27 @@
 <td align="right">256</td>
 <td>HTML</td>
 </tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/kube-mods.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kube-mods/kubejs"><b>kube-mods/kubejs</b></a></td>
+<td align="right"><b>484</b></td>
+<td align="right">132</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/Crypt32.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Crypt32/PSPKI"><b>Crypt32/PSPKI</b></a><br><sub>PowerShell PKI Module</sub></td>
+<td align="right"><b>454</b></td>
+<td align="right">66</td>
+<td>PowerShell</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/denis-g.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denis-g/steam-deck-optimization-guide"><b>denis-g/steam-deck-optimization-guide</b></a><br><sub>🎮 This guide contains descriptions of settings and utilities for safely improving the performance, and useful informat…</sub></td>
+<td align="right"><b>454</b></td>
+<td align="right">14</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -379,8 +400,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 514 stars; 50 attributed candidates are tracked.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 454 stars; 53 attributed candidates are tracked.
+- 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

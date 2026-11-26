@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/jahongirholmatov"><img src="https://avatars.githubusercontent.com/u/285441133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jahongirholmatov"><b>Jahongir</b></a><br><sub>&#64;jahongirholmatov</sub></td>
-<td align="right"><b>172</b></td>
+<td align="right"><b>173</b></td>
 <td align="right">4</td>
 <td><sub>Khujand, Tajikistan</sub></td>
 </tr>

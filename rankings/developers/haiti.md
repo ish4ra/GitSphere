@@ -590,51 +590,51 @@
 </tr>
 <tr>
 <td align="right">82</td>
-<td><a href="https://github.com/FalandyJEAN"><img src="https://avatars.githubusercontent.com/u/128002258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FalandyJEAN"><b>Falandy Jean</b></a><br><sub>&#64;FalandyJEAN</sub></td>
-<td align="right"><b>8</b></td>
-<td align="right">96</td>
-<td><sub>Haiti</sub></td>
-</tr>
-<tr>
-<td align="right">83</td>
 <td><a href="https://github.com/MrCocktail"><img src="https://avatars.githubusercontent.com/u/109545664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrCocktail"><b>Jean David Bruno</b></a><br><sub>&#64;MrCocktail</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">30</td>
 <td><sub>Port-au-Prince, Haiti</sub></td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">83</td>
 <td><a href="https://github.com/jcpoulard"><img src="https://avatars.githubusercontent.com/u/1465763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jcpoulard"><b>Jean Came Poulard</b></a><br><sub>&#64;jcpoulard</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">12</td>
 <td><sub>Haiti</sub></td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">84</td>
 <td><a href="https://github.com/kin-jacques"><img src="https://avatars.githubusercontent.com/u/44848362?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kin-jacques"><b>Kinton JACQUES</b></a><br><sub>&#64;kin-jacques</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">7</td>
 <td><sub>Haiti</sub></td>
 </tr>
 <tr>
-<td align="right">86</td>
+<td align="right">85</td>
 <td><a href="https://github.com/CeloHaiTiFreClean"><img src="https://avatars.githubusercontent.com/u/225712036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CeloHaiTiFreClean"><b>Celo-HaiTi &amp; FreClean</b></a><br><sub>&#64;CeloHaiTiFreClean</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">4</td>
 <td><sub>Haiti</sub></td>
 </tr>
 <tr>
-<td align="right">87</td>
+<td align="right">86</td>
 <td><a href="https://github.com/fabricemarcelin"><img src="https://avatars.githubusercontent.com/u/3242497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fabricemarcelin"><b>Fabrice Marcelin</b></a><br><sub>&#64;fabricemarcelin</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">3</td>
 <td><sub>Haiti</sub></td>
 </tr>
 <tr>
-<td align="right">88</td>
+<td align="right">87</td>
 <td><a href="https://github.com/KazuDante89"><img src="https://avatars.githubusercontent.com/u/35647262?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KazuDante89"><b>KazuDante89</b></a><br><sub>&#64;KazuDante89</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">183</td>
+<td><sub>Haiti</sub></td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><a href="https://github.com/FalandyJEAN"><img src="https://avatars.githubusercontent.com/u/128002258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FalandyJEAN"><b>Falandy Jean</b></a><br><sub>&#64;FalandyJEAN</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">96</td>
 <td><sub>Haiti</sub></td>
 </tr>
 <tr>

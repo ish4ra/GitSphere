@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/PK.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/PK.json">JSON</a> |
 
 </div>
 
@@ -241,70 +241,70 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/JinaClip"><b>AhmadHassan-BTed/JinaClip</b></a><br><sub>Professional-grade, local-first browser extension that transforms any webpage into high-fidelity, LLM-friendly Markdown…</sub></td>
-<td align="right"><b>4,159</b></td>
+<td align="right"><b>4,156</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/r0oth3x49.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r0oth3x49/ghauri"><b>r0oth3x49/ghauri</b></a><br><sub>An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws</sub></td>
-<td align="right"><b>4,091</b></td>
+<td align="right"><b>4,093</b></td>
 <td align="right">424</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/Darkument"><b>AhmadHassan-BTed/Darkument</b></a><br><sub>A sleek, privacy-focused browser extension that brings a native dark mode experience to online documents. Built with cl…</sub></td>
-<td align="right"><b>4,013</b></td>
+<td align="right"><b>4,006</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/byted-technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/byted-technologies/.github"><b>byted-technologies/.github</b></a></td>
-<td align="right"><b>3,989</b></td>
+<td align="right"><b>3,983</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/Attendify"><b>AhmadHassan-BTed/Attendify</b></a><br><sub>A human-centric Attendance &amp; Leave Management Portal built with PHP, MySQL, and ag-Grid. #php #mysql #javascript #css #…</sub></td>
-<td align="right"><b>3,964</b></td>
+<td align="right"><b>3,958</b></td>
 <td align="right">4</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/PortfolioWebsite"><b>AhmadHassan-BTed/PortfolioWebsite</b></a><br><sub>My personal website showcasing my work in Software Engineering and Graphic Design. A simple, multi-page static site bui…</sub></td>
-<td align="right"><b>3,952</b></td>
+<td align="right"><b>3,947</b></td>
 <td align="right">0</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/EQAI"><b>AhmadHassan-BTed/EQAI</b></a><br><sub>A highly specialized reverse-engineering pipeline designed to structurally transplant original Vanilla character models…</sub></td>
-<td align="right"><b>3,951</b></td>
+<td align="right"><b>3,944</b></td>
 <td align="right">1</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/Parchment"><b>AhmadHassan-BTed/Parchment</b></a><br><sub>A soulful, production-grade PDF reader for Android featuring a &quot;Warm Paper&quot; aesthetic, gesture-driven interface, and a…</sub></td>
-<td align="right"><b>3,600</b></td>
+<td align="right"><b>3,596</b></td>
 <td align="right">2</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/tkarim45.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tkarim45/Beginner-Data-Science-Projects"><b>tkarim45/Beginner-Data-Science-Projects</b></a><br><sub>This repository is a curated collection of hands-on data science projects tailored for beginners. Whether you&#39;re just s…</sub></td>
-<td align="right"><b>3,390</b></td>
-<td align="right">613</td>
+<td align="right"><b>3,397</b></td>
+<td align="right">615</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/Ovi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ovi/DummyJSON"><b>Ovi/DummyJSON</b></a><br><sub>DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the fron…</sub></td>
-<td align="right"><b>2,989</b></td>
+<td align="right"><b>2,992</b></td>
 <td align="right">314</td>
 <td>EJS</td>
 </tr>
@@ -318,29 +318,29 @@
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/ScrollToPrompt"><b>AhmadHassan-BTed/ScrollToPrompt</b></a><br><sub>Navigation minimap extension for modern AI chat interfaces, injecting responsive scrollbar indicators via Shadow DOM is…</sub></td>
-<td align="right"><b>2,771</b></td>
+<td align="right"><b>2,770</b></td>
 <td align="right">0</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/GardenPulse"><b>AhmadHassan-BTed/GardenPulse</b></a><br><sub>Method-agnostic smart garden companion built with React Native, Expo, and TypeScript. Adapts to soil, hydro, container,…</sub></td>
-<td align="right"><b>2,763</b></td>
+<td align="right"><b>2,760</b></td>
 <td align="right">0</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/AuraEconomy"><b>AhmadHassan-BTed/AuraEconomy</b></a><br><sub>Interactive Twitch gamification engine combining C# Streamer.bot pipelines, WAL-mode SQLite, and visual WebSockets over…</sub></td>
-<td align="right"><b>2,752</b></td>
+<td align="right"><b>2,748</b></td>
 <td align="right">0</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/saifyxpro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saifyxpro/HeadlessX"><b>saifyxpro/HeadlessX</b></a><br><sub>The undetected self-hosted browser automation platform. Powered by Camoufox (Firefox) for 0% detection rates. Built for…</sub></td>
-<td align="right"><b>2,365</b></td>
-<td align="right">282</td>
+<td align="right"><b>2,368</b></td>
+<td align="right">283</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 562 stars; 110 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 562 stars; 114 attributed candidates are tracked.
 - 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/ENG-CJ"><img src="https://avatars.githubusercontent.com/u/77126546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ENG-CJ"><b>Abdulrahman</b></a><br><sub>&#64;ENG-CJ</sub></td>
-<td align="right"><b>113</b></td>
+<td align="right"><b>114</b></td>
 <td align="right">157</td>
 <td><sub>Mogdisho,banadir,somalia</sub></td>
 </tr>

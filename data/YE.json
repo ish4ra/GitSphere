@@ -5,7 +5,7 @@
 "country": {"code":"YE","name":"Yemen","slug":"yemen"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":86,"ownerExpansionBacklog":138,"candidates":87,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":86,"ownerExpansionBacklog":137,"candidates":87,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOKBTtdw","name":"NibrasShell","nameWithOwner":"AhmedSaadi0/NibrasShell","url":"https://github.com/AhmedSaadi0/NibrasShell","description":"AI‑integrated shell.","stars":780,"forks":42,"primaryLanguage":"QML","license":{"spdxId":"MIT"},"createdAt":"2023-07-30T06:49:16Z","pushedAt":"2026-11-23T04:25:09Z","archived":false,"owner":{"login":"AhmedSaadi0","name":"Ahmed Alsaadi","type":"User","url":"https://github.com/AhmedSaadi0","location":"Sanaa, Yemen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":null,"name":"https-www.youtube.com-danceyemen","nameWithOwner":"hakemhakemy/https-www.youtube.com-danceyemen","url":"https://github.com/hakemhakemy/https-www.youtube.com-danceyemen","description":null,"stars":2,"forks":3,"primaryLanguage":null,"license":null,"createdAt":"2018-03-17T17:33:20Z","pushedAt":"2018-03-17T18:29:09Z","archived":false,"owner":{"login":"hakemhakemy","name":"hakemhakemy","type":"User","url":"https://github.com/hakemhakemy","location":"yemen","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -95,8 +95,8 @@
   {"rank":86,"id":null,"name":"zopia-project","nameWithOwner":"AbdulElahOthmanGwaith/zopia-project","url":"https://github.com/AbdulElahOthmanGwaith/zopia-project","description":null,"stars":1,"forks":0,"primaryLanguage":"Dart","license":null,"createdAt":"2026-03-14T02:19:22Z","pushedAt":"2026-08-22T22:47:17Z","archived":false,"owner":{"login":"AbdulElahOthmanGwaith","name":"AbdulElahOthmanGhuwaith","type":"User","url":"https://github.com/AbdulElahOthmanGwaith","location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":87,"id":null,"name":"Diwan-Shamil","nameWithOwner":"Abdullah-Qatan-AQ/Diwan-Shamil","url":"https://github.com/Abdullah-Qatan-AQ/Diwan-Shamil","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2026-09-20T21:34:40Z","pushedAt":"2026-09-23T01:00:27Z","archived":false,"owner":{"login":"Abdullah-Qatan-AQ","name":"Abdullah Qatan","type":"User","url":"https://github.com/Abdullah-Qatan-AQ","location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "f5db962190352aa1",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "0261e5b00578cd2d",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

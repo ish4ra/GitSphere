@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/AR.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/AR.json">JSON</a> |
 
 </div>
 
@@ -130,7 +130,7 @@
 <td align="right">16</td>
 <td><img src="https://github.com/flesler.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/flesler/jquery.scrollTo"><b>flesler/jquery.scrollTo</b></a><br><sub>Lightweight, cross-browser and highly customizable animated scrolling with jQuery</sub></td>
 <td align="right"><b>3,646</b></td>
-<td align="right">992</td>
+<td align="right">991</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -143,36 +143,36 @@
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/facundoolano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/facundoolano/google-play-scraper"><b>facundoolano/google-play-scraper</b></a><br><sub>Node.js scraper to get data from Google Play</sub></td>
-<td align="right"><b>3,005</b></td>
+<td align="right"><b>3,009</b></td>
 <td align="right">724</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/js"><b>bevacqua/js</b></a><br><sub>:art: A JavaScript Quality Guide</sub></td>
-<td align="right"><b>2,981</b></td>
-<td align="right">522</td>
+<td align="right"><b>2,979</b></td>
+<td align="right">523</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/rome"><b>bevacqua/rome</b></a><br><sub>:calendar: Customizable date (and time) picker. Opt-in UI, no jQuery!</sub></td>
 <td align="right"><b>2,892</b></td>
-<td align="right">217</td>
+<td align="right">216</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/fuzzysearch"><b>bevacqua/fuzzysearch</b></a><br><sub>:crystal&#95;ball: Tiny and blazing-fast fuzzy search in JavaScript</sub></td>
-<td align="right"><b>2,739</b></td>
+<td align="right"><b>2,737</b></td>
 <td align="right">84</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/gmoral.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gmoral/Books"><b>gmoral/Books</b></a></td>
-<td align="right"><b>2,223</b></td>
-<td align="right">624</td>
+<td align="right"><b>2,227</b></td>
+<td align="right">626</td>
 <td>—</td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **63** | 22 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
+| 🟡 Provisional | **71** | 23 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
 </div>
 
@@ -73,15 +73,15 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/limbopro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/limbopro/Profiles4limbo"><b>limbopro/Profiles4limbo</b></a><br><sub>毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、blackmatrix7分流规则，Clash订阅转换。</sub></td>
-<td align="right"><b>3,565</b></td>
+<td align="right"><b>3,566</b></td>
 <td align="right">242</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/Trixarian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Trixarian/NetherSX2-patch"><b>Trixarian/NetherSX2-patch</b></a><br><sub>Continuation of NetherSX2 based on AetherSX2 4248</sub></td>
-<td align="right"><b>2,798</b></td>
-<td align="right">104</td>
+<td align="right"><b>2,809</b></td>
+<td align="right">105</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -95,13 +95,13 @@
 <td align="right">11</td>
 <td><img src="https://github.com/mrackwitz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrackwitz/MRProgress"><b>mrackwitz/MRProgress</b></a><br><sub>Collection of iOS drop-in components to visualize progress</sub></td>
 <td align="right"><b>2,522</b></td>
-<td align="right">296</td>
+<td align="right">295</td>
 <td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/TCNOco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TCNOco/TcNo-Acc-Switcher"><b>TCNOco/TcNo-Acc-Switcher</b></a><br><sub>A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!</sub></td>
-<td align="right"><b>2,403</b></td>
+<td align="right"><b>2,406</b></td>
 <td align="right">165</td>
 <td>Go</td>
 </tr>
@@ -462,6 +462,62 @@
 <td align="right">45</td>
 <td>Elixir</td>
 </tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/HBiSoft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HBiSoft/HBRecorder"><b>HBiSoft/HBRecorder</b></a><br><sub>Lightweight screen recording Android library</sub></td>
+<td align="right"><b>507</b></td>
+<td align="right">156</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/czue.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/czue/django-wedding-website"><b>czue/django-wedding-website</b></a><br><sub>A django-powered wedding website and guest-management system</sub></td>
+<td align="right"><b>503</b></td>
+<td align="right">287</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/Superbalist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Superbalist/laravel-google-cloud-storage"><b>Superbalist/laravel-google-cloud-storage</b></a> <sub>archived</sub><br><sub>A Google Cloud Storage filesystem for Laravel</sub></td>
+<td align="right"><b>503</b></td>
+<td align="right">139</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/fluffypony.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fluffypony/nsh"><b>fluffypony/nsh</b></a><br><sub>your terminal, but it talks back</sub></td>
+<td align="right"><b>500</b></td>
+<td align="right">186</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/Trixarian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Trixarian/EtherealSX2"><b>Trixarian/EtherealSX2</b></a><br><sub>Port of PCSX2 for mobile platforms</sub></td>
+<td align="right"><b>499</b></td>
+<td align="right">4</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/czue.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/czue/celery-progress"><b>czue/celery-progress</b></a><br><sub>Drop in, configurable, dependency-free progress bars for your Django/Celery applications.</sub></td>
+<td align="right"><b>497</b></td>
+<td align="right">93</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/FilledStacks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FilledStacks/expression-ui"><b>FilledStacks/expression-ui</b></a><br><sub>A framework that allows you to build UI&#39;s using animation software</sub></td>
+<td align="right"><b>467</b></td>
+<td align="right">23</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/leonvanzyl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leonvanzyl/agentic-coding-starter-kit"><b>leonvanzyl/agentic-coding-starter-kit</b></a></td>
+<td align="right"><b>455</b></td>
+<td align="right">198</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -470,8 +526,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 514 stars; 63 attributed candidates are tracked.
-- 118 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 455 stars; 71 attributed candidates are tracked.
+- 116 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

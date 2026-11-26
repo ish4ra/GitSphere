@@ -5,7 +5,7 @@
 "country": {"code":"AX","name":"Åland Islands","slug":"aland-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":43,"ownerExpansionBacklog":101,"candidates":44,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":33,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":43,"ownerExpansionBacklog":99,"candidates":44,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":33,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMTM3MjYwNDQ=","name":"mynlp","nameWithOwner":"mayabot/mynlp","url":"https://github.com/mayabot/mynlp","description":"一个生产级、高性能、模块化、可扩展的中文NLP工具包。（中文分词、平均感知机、fastText、拼音、新词发现、分词纠错、BM25、人名识别、命名实体、自定义词典）","stars":686,"forks":87,"primaryLanguage":"Java","license":{"spdxId":"Apache-2.0"},"createdAt":"2017-12-10T05:35:01Z","pushedAt":"2025-09-14T03:52:47Z","archived":true,"owner":{"login":"mayabot","name":"m","type":"Organization","url":"https://github.com/mayabot","location":"Åland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":null,"name":"SeqrUs","nameWithOwner":"Muamaidbengt/SeqrUs","url":"https://github.com/Muamaidbengt/SeqrUs","description":null,"stars":1,"forks":2,"primaryLanguage":"C#","license":{"spdxId":"Apache-2.0"},"createdAt":"2018-06-28T11:44:48Z","pushedAt":"2018-11-08T08:30:10Z","archived":false,"owner":{"login":"Muamaidbengt","name":"Tomas Rosenqvist","type":"User","url":"https://github.com/Muamaidbengt","location":"Mariehamn","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -52,8 +52,8 @@
   {"rank":43,"id":null,"name":"hello-world","nameWithOwner":"wileri/hello-world","url":"https://github.com/wileri/hello-world","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2019-10-14T08:10:31Z","pushedAt":"2020-08-12T05:50:50Z","archived":false,"owner":{"login":"wileri","name":"William Eriksson","type":"User","url":"https://github.com/wileri","location":"Mariehamn, Åland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":44,"id":null,"name":"youngstermrgamefun","nameWithOwner":"youngstermrgamefun/youngstermrgamefun","url":"https://github.com/youngstermrgamefun/youngstermrgamefun","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-29T01:24:33Z","pushedAt":"2024-09-29T01:25:01Z","archived":false,"owner":{"login":"youngstermrgamefun","name":null,"type":"User","url":"https://github.com/youngstermrgamefun","location":"Åland Islands (AX)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "6d988e9e0978e7ab",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "0603a4b301cb06d2",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"ER","name":"Eritrea","slug":"eritrea"},
-"count": 20,
+"count": 19,
 "repositories": [
-  {"name":"negusebf/Machine-Learning---The-Best-Classifier","stars":2,"forks":0,"language":"Jupyter Notebook","archived":false,"createdAt":"2021-02-24T12:14:30Z","pushedAt":"2021-03-14T15:16:44Z","owner":{"login":"negusebf","type":"User","name":"Negusse Berhane","location":"Asmara, Eritrea"},"attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","id":"legacy:negusebf/machine-learning---the-best-classifier","legacy":true},
   {"name":"aigemito/WAP-FinalProject","stars":1,"forks":0,"language":"Java","archived":false,"createdAt":"2019-11-21T02:25:33Z","pushedAt":"2019-11-21T02:27:45Z","owner":{"login":"aigemito","type":"User","name":"Amanuel Isack Gebreendrias","location":"Asmara,Eritrea"},"attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","id":"legacy:aigemito/wap-finalproject","legacy":true},
   {"name":"morphicsnet/NeSyc","stars":1,"forks":0,"language":"Python","license":"NOASSERTION","archived":false,"createdAt":"2025-10-17T17:40:56Z","pushedAt":"2025-10-17T18:21:35Z","owner":{"login":"morphicsnet","type":"Organization","name":"morphics org","location":"Eritrea"},"attribution":{"code":"ER","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:58:13.770Z","id":"legacy:morphicsnet/nesyc","legacy":true},
   {"name":"AbelNebay/soira-wall","stars":0,"forks":0,"archived":false,"createdAt":"2026-03-31T09:22:29Z","pushedAt":"2026-03-31T19:20:24Z","owner":{"login":"AbelNebay","type":"User","name":"Abel Nebay","location":"Eritrea"},"attribution":{"code":"ER","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:58:13.770Z","id":"legacy:abelnebay/soira-wall","legacy":true},

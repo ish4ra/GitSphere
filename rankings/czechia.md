@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/CZ.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/CZ.json">JSON</a> |
 
 </div>
 
@@ -220,43 +220,43 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/tolgee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tolgee/tolgee-platform"><b>tolgee/tolgee-platform</b></a><br><sub>Developer &amp; translator friendly web-based localization platform</sub></td>
-<td align="right"><b>4,162</b></td>
-<td align="right">383</td>
+<td align="right"><b>4,164</b></td>
+<td align="right">381</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/patriksimek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/patriksimek/vm2"><b>patriksimek/vm2</b></a><br><sub>Advanced vm/sandbox for Node.js</sub></td>
-<td align="right"><b>4,116</b></td>
+<td align="right"><b>4,117</b></td>
 <td align="right">335</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/hanickadot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hanickadot/compile-time-regular-expressions"><b>hanickadot/compile-time-regular-expressions</b></a><br><sub>Compile Time Regular Expression in C++</sub></td>
-<td align="right"><b>3,880</b></td>
-<td align="right">209</td>
+<td align="right"><b>3,882</b></td>
+<td align="right">208</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/panva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/panva/node-oidc-provider"><b>panva/node-oidc-provider</b></a><br><sub>OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js</sub></td>
-<td align="right"><b>3,861</b></td>
+<td align="right"><b>3,860</b></td>
 <td align="right">796</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/schemathesis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/schemathesis/schemathesis"><b>schemathesis/schemathesis</b></a><br><sub>Catch API bugs before your users do</sub></td>
-<td align="right"><b>3,801</b></td>
-<td align="right">238</td>
+<td align="right"><b>3,817</b></td>
+<td align="right">239</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/xotahal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xotahal/react-native-material-ui"><b>xotahal/react-native-material-ui</b></a><br><sub>Highly customizable material design components for React Native</sub></td>
 <td align="right"><b>3,774</b></td>
-<td align="right">599</td>
+<td align="right">598</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -270,13 +270,13 @@
 <td align="right">36</td>
 <td><img src="https://github.com/skoruba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skoruba/IdentityServer4.Admin"><b>skoruba/IdentityServer4.Admin</b></a> <sub>archived</sub><br><sub>The administration for the IdentityServer4 and Asp.Net Core Identity</sub></td>
 <td align="right"><b>3,566</b></td>
-<td align="right">1,136</td>
+<td align="right">1,137</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/swarmpit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/swarmpit/swarmpit"><b>swarmpit/swarmpit</b></a><br><sub>Lightweight AI-friendly Docker Swarm management</sub></td>
-<td align="right"><b>3,510</b></td>
+<td align="right"><b>3,509</b></td>
 <td align="right">314</td>
 <td>Clojure</td>
 </tr>
@@ -297,7 +297,7 @@
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/pasky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pasky/chrome-cdp-skill"><b>pasky/chrome-cdp-skill</b></a><br><sub>Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open</sub></td>
-<td align="right"><b>3,289</b></td>
+<td align="right"><b>3,291</b></td>
 <td align="right">206</td>
 <td>JavaScript</td>
 </tr>
@@ -311,7 +311,7 @@
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/yoopta-editor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yoopta-editor/Yoopta-Editor"><b>yoopta-editor/Yoopta-Editor</b></a><br><sub>Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta</sub></td>
-<td align="right"><b>3,090</b></td>
+<td align="right"><b>3,092</b></td>
 <td align="right">221</td>
 <td>TypeScript</td>
 </tr>
@@ -332,7 +332,7 @@
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/avast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avast/retry-go"><b>avast/retry-go</b></a><br><sub>Simple golang library for retry mechanism</sub></td>
-<td align="right"><b>2,964</b></td>
+<td align="right"><b>2,962</b></td>
 <td align="right">185</td>
 <td>Go</td>
 </tr>
@@ -340,21 +340,21 @@
 <td align="right">46</td>
 <td><img src="https://github.com/ondras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ondras/wwwsqldesigner"><b>ondras/wwwsqldesigner</b></a><br><sub>WWW SQL Designer, your online SQL diagramming tool</sub></td>
 <td align="right"><b>2,930</b></td>
-<td align="right">724</td>
+<td align="right">723</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/martinrotter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martinrotter/rssguard"><b>martinrotter/rssguard</b></a><br><sub>Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many w…</sub></td>
-<td align="right"><b>2,852</b></td>
+<td align="right"><b>2,857</b></td>
 <td align="right">172</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/moneytoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moneytoo/Player"><b>moneytoo/Player</b></a><br><sub>▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer</sub></td>
-<td align="right"><b>2,820</b></td>
-<td align="right">314</td>
+<td align="right"><b>2,824</b></td>
+<td align="right">315</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -367,7 +367,7 @@
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/ondras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ondras/rot.js"><b>ondras/rot.js</b></a><br><sub>ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!</sub></td>
-<td align="right"><b>2,733</b></td>
+<td align="right"><b>2,734</b></td>
 <td align="right">267</td>
 <td>JavaScript</td>
 </tr>
@@ -381,29 +381,29 @@
 <tr>
 <td align="right">52</td>
 <td><img src="https://github.com/josefadamcik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/josefadamcik/SofleKeyboard"><b>josefadamcik/SofleKeyboard</b></a><br><sub>A split keyboard based on Lily58, Crkbd and Helix keyboards</sub></td>
-<td align="right"><b>2,574</b></td>
+<td align="right"><b>2,577</b></td>
 <td align="right">349</td>
 <td>G-code</td>
 </tr>
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/panva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/panva/openid-client"><b>panva/openid-client</b></a><br><sub>OAuth 2 / OpenID Connect Client API for JavaScript Runtimes</sub></td>
-<td align="right"><b>2,452</b></td>
+<td align="right"><b>2,451</b></td>
 <td align="right">406</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/lahmatiy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lahmatiy/react-render-tracker"><b>lahmatiy/react-render-tracker</b></a><br><sub>React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts</sub></td>
-<td align="right"><b>2,398</b></td>
+<td align="right"><b>2,397</b></td>
 <td align="right">36</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/PatrikH0lop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PatrikH0lop/malware_showcase"><b>PatrikH0lop/malware&#95;showcase</b></a><br><sub>Understand the nature of malicious software with practical examples in Python.</sub></td>
-<td align="right"><b>2,324</b></td>
-<td align="right">398</td>
+<td align="right"><b>2,323</b></td>
+<td align="right">399</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -416,7 +416,7 @@
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/photopea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/photopea/UPNG.js"><b>photopea/UPNG.js</b></a><br><sub>Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)</sub></td>
-<td align="right"><b>2,225</b></td>
+<td align="right"><b>2,226</b></td>
 <td align="right">261</td>
 <td>JavaScript</td>
 </tr>

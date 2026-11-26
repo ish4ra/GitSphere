@@ -233,24 +233,24 @@
 </tr>
 <tr>
 <td align="right">31</td>
-<td><a href="https://github.com/dariusscotland"><img src="https://avatars.githubusercontent.com/u/155107405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dariusscotland"><b>Darius Scotland</b></a><br><sub>&#64;dariusscotland</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">5</td>
-<td><sub>Antigua and Barbuda</sub></td>
-</tr>
-<tr>
-<td align="right">32</td>
 <td><a href="https://github.com/berkeidoiwant"><img src="https://avatars.githubusercontent.com/u/182679040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/berkeidoiwant"><b>berkeidoiwant</b></a><br><sub>&#64;berkeidoiwant</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Antigua en Barbuda (AG)</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">32</td>
 <td><a href="https://github.com/bridgbenladen"><img src="https://avatars.githubusercontent.com/u/183140867?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bridgbenladen"><b>bridgbenladen</b></a><br><sub>&#64;bridgbenladen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Antigua en Barbuda (AG)</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/dariusscotland"><img src="https://avatars.githubusercontent.com/u/155107405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dariusscotland"><b>Darius Scotland</b></a><br><sub>&#64;dariusscotland</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Antigua and Barbuda</sub></td>
 </tr>
 <tr>
 <td align="right">34</td>

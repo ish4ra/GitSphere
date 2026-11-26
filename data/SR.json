@@ -5,7 +5,7 @@
 "country": {"code":"SR","name":"Suriname","slug":"suriname"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":146,"candidates":129,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":33,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":143,"candidates":129,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":33,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"dfuse","nameWithOwner":"dwnity/dfuse","url":"https://github.com/dwnity/dfuse","description":null,"stars":2,"forks":1,"primaryLanguage":"C","license":{"spdxId":"MIT"},"createdAt":"2020-03-28T14:48:19Z","pushedAt":"2022-04-27T01:35:44Z","archived":false,"owner":{"login":"dwnity","name":"Ubuntu Dwnity","type":"Organization","url":"https://github.com/dwnity","location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"SleepOutside-Team14-WDD330","nameWithOwner":"mwirjo/SleepOutside-Team14-WDD330","url":"https://github.com/mwirjo/SleepOutside-Team14-WDD330","description":null,"stars":2,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2025-10-30T00:07:30Z","pushedAt":"2025-12-10T02:23:57Z","archived":false,"owner":{"login":"mwirjo","name":"mi-ann wirjosentono","type":"User","url":"https://github.com/mwirjo","location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"ilixer2009","nameWithOwner":"ilixer2009/ilixer2009","url":"https://github.com/ilixer2009/ilixer2009","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-04-29T18:38:54Z","pushedAt":"2023-04-29T18:38:55Z","archived":false,"owner":{"login":"ilixer2009","name":"Alexander.","type":"User","url":"https://github.com/ilixer2009","location":"Suriname, Paramaribo.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"SwitiRit.SR","nameWithOwner":"itzzferry171-maker/SwitiRit.SR","url":"https://github.com/itzzferry171-maker/SwitiRit.SR","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-05-16T15:31:02Z","pushedAt":"2026-05-16T15:31:03Z","archived":false,"owner":{"login":"itzzferry171-maker","name":"Ferrence Tjokrokario","type":"User","url":"https://github.com/itzzferry171-maker","location":"Suriname, Wanica, Domburg","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "98e59832527f0e19",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "a2f657ae1d7a6498",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

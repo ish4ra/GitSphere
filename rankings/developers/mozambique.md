@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/DandelionSprout"><img src="https://avatars.githubusercontent.com/u/22780683?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DandelionSprout"><b>Imre Eilertsen</b></a><br><sub>&#64;DandelionSprout</sub></td>
-<td align="right"><b>449</b></td>
+<td align="right"><b>450</b></td>
 <td align="right">224</td>
 <td><sub>A chair.</sub></td>
 </tr>
@@ -100,17 +100,17 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/estevaosimao"><img src="https://avatars.githubusercontent.com/u/196484571?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/estevaosimao"><b>Estevão Simão</b></a><br><sub>&#64;estevaosimao</sub></td>
+<td align="right"><b>162</b></td>
+<td align="right">18</td>
+<td><sub>Mozambique</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/albrtinoaugusto"><img src="https://avatars.githubusercontent.com/u/55478805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/albrtinoaugusto"><b>Albertino Augusto</b></a><br><sub>&#64;albrtinoaugusto</sub></td>
 <td align="right"><b>161</b></td>
 <td align="right">76</td>
 <td><sub>Mozambique, Maputo</sub></td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td><a href="https://github.com/estevaosimao"><img src="https://avatars.githubusercontent.com/u/196484571?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/estevaosimao"><b>Estevão Simão</b></a><br><sub>&#64;estevaosimao</sub></td>
-<td align="right"><b>161</b></td>
-<td align="right">18</td>
-<td><sub>Mozambique</sub></td>
 </tr>
 <tr>
 <td align="right">14</td>

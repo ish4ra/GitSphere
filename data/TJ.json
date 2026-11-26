@@ -5,7 +5,7 @@
 "country": {"code":"TJ","name":"Tajikistan","slug":"tajikistan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":146,"candidates":66,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":97,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":144,"candidates":66,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":97,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ajax_codeigniter","nameWithOwner":"pulatov/ajax_codeigniter","url":"https://github.com/pulatov/ajax_codeigniter","description":null,"stars":2,"forks":4,"primaryLanguage":"PHP","license":null,"createdAt":"2012-08-26T06:40:02Z","pushedAt":"2012-08-26T07:44:21Z","archived":false,"owner":{"login":"pulatov","name":"Pulatov Farhod","type":"User","url":"https://github.com/pulatov","location":"Tajikistan/Dushanbe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"nt_framework","nameWithOwner":"tr34x0r/nt_framework","url":"https://github.com/tr34x0r/nt_framework","description":null,"stars":2,"forks":3,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2023-02-11T21:08:48Z","pushedAt":"2023-07-06T07:48:24Z","archived":false,"owner":{"login":"tr34x0r","name":null,"type":"User","url":"https://github.com/tr34x0r","location":"Tajikistan, Dushanbe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -74,8 +74,8 @@
   {"rank":65,"id":null,"name":"abdulloevcompany.github.io","nameWithOwner":"abdulloevcompany/abdulloevcompany.github.io","url":"https://github.com/abdulloevcompany/abdulloevcompany.github.io","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-07-27T15:10:53Z","pushedAt":"2025-07-27T17:44:37Z","archived":false,"owner":{"login":"abdulloevcompany","name":"Abdulloev Company Limited","type":"Organization","url":"https://github.com/abdulloevcompany","location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":66,"id":null,"name":"Shopxand","nameWithOwner":"abdullozodabehzod-beep/Shopxand","url":"https://github.com/abdullozodabehzod-beep/Shopxand","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-05-01T12:43:15Z","pushedAt":"2026-06-27T12:39:55Z","archived":false,"owner":{"login":"abdullozodabehzod-beep","name":"Abdullozoda Behzod","type":"User","url":"https://github.com/abdullozodabehzod-beep","location":"Dushanbe, Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "758379d29dbb7c8d",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "5decd64590305b29",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

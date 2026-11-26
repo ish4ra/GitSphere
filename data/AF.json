@@ -5,7 +5,7 @@
 "country": {"code":"AF","name":"Afghanistan","slug":"afghanistan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":83,"ownerExpansionBacklog":140,"candidates":88,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":83,"ownerExpansionBacklog":137,"candidates":88,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOR558jA","name":"olcrtc","nameWithOwner":"openlibrecommunity/olcrtc","url":"https://github.com/openlibrecommunity/olcrtc","description":"using meet services to access web","stars":2013,"forks":181,"primaryLanguage":"Go","license":{"spdxId":"WTFPL"},"createdAt":"2026-04-04T21:18:39Z","pushedAt":"2026-09-30T09:38:34Z","archived":true,"owner":{"login":"openlibrecommunity","name":"openlibrecommunity","type":"Organization","url":"https://github.com/openlibrecommunity","location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzNDY2NDE1NDM=","name":"meteor-rejects","nameWithOwner":"AntiCope/meteor-rejects","url":"https://github.com/AntiCope/meteor-rejects","description":"An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.","stars":694,"forks":224,"primaryLanguage":"Java","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-03-11T09:08:21Z","pushedAt":"2026-03-26T14:01:48Z","archived":false,"owner":{"login":"AntiCope","name":"Anti Cope","type":"Organization","url":"https://github.com/AntiCope","location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
@@ -96,8 +96,8 @@
   {"rank":87,"id":null,"name":"Find_Jobs-","nameWithOwner":"mastora2008/Find_Jobs-","url":"https://github.com/mastora2008/Find_Jobs-","description":null,"stars":1,"forks":0,"primaryLanguage":"CSS","license":null,"createdAt":"2026-10-14T14:01:52Z","pushedAt":"2026-10-14T14:02:57Z","archived":false,"owner":{"login":"mastora2008","name":"Mastora_Sayeedy","type":"User","url":"https://github.com/mastora2008","location":"Kabul, Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":88,"id":null,"name":"GPT4","nameWithOwner":"Matiullah2003/GPT4","url":"https://github.com/Matiullah2003/GPT4","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-11-15T06:55:39Z","pushedAt":"2023-11-15T06:55:48Z","archived":false,"owner":{"login":"Matiullah2003","name":"Max","type":"User","url":"https://github.com/Matiullah2003","location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "2c53630ae0b52f3d",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "bc90339a20f8cbac",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

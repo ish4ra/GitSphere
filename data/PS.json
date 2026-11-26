@@ -5,7 +5,7 @@
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":98,"ownerExpansionBacklog":144,"candidates":103,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":98,"ownerExpansionBacklog":140,"candidates":103,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxOTkzMzc0Njg=","name":"responsive-viewer","nameWithOwner":"skmail/responsive-viewer","url":"https://github.com/skmail/responsive-viewer","description":"Responsive Viewer - chrome extension to show multiple screens in one view.","stars":848,"forks":94,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2019-07-28T21:09:40Z","pushedAt":"2025-10-12T08:46:47Z","archived":false,"owner":{"login":"skmail","name":null,"type":"User","url":"https://github.com/skmail","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyODk1NTYyMjY=","name":"headers-css","nameWithOwner":"shadeed/headers-css","url":"https://github.com/shadeed/headers-css","description":"The blueprint HTML and CSS for 17+ website headers","stars":518,"forks":80,"primaryLanguage":"HTML","license":null,"createdAt":"2020-08-22T19:47:35Z","pushedAt":"2020-11-01T10:01:01Z","archived":false,"owner":{"login":"shadeed","name":"Ahmad Shadeed","type":"User","url":"https://github.com/shadeed","location":"Tulkarm, Palestine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"AzureVisionCaptionDemo","nameWithOwner":"Donia1Z7/AzureVisionCaptionDemo","url":"https://github.com/Donia1Z7/AzureVisionCaptionDemo","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-05-10T10:50:53Z","pushedAt":"2026-05-10T11:17:55Z","archived":false,"owner":{"login":"Donia1Z7","name":"Donia Hasan","type":"User","url":"https://github.com/Donia1Z7","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"BIRD_Verilab","nameWithOwner":"doniaalshiakh22/BIRD_Verilab","url":"https://github.com/doniaalshiakh22/BIRD_Verilab","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-06-02T01:19:37Z","pushedAt":"2026-06-24T00:33:39Z","archived":false,"owner":{"login":"doniaalshiakh22","name":"Donia Alshiakh","type":"User","url":"https://github.com/doniaalshiakh22","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "fe50b4ea079c3ba4",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "aa9654256fb26b4f",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

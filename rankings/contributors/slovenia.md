@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/SI.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/SI.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,24 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/offlinehacker"><img src="https://avatars.githubusercontent.com/u/585547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/offlinehacker"><b>Jaka Hudoklin</b></a><br><sub>&#64;offlinehacker · 188 followers</sub></td>
+<td align="right"><b>518</b></td>
+<td align="right">488</td>
+<td align="right">12</td>
+<td align="right">0</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/dorkamotorka"><img src="https://avatars.githubusercontent.com/u/48418580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dorkamotorka"><b>Teodor Janez Podobnik</b></a><br><sub>&#64;dorkamotorka · 249 followers</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">244</td>
+<td align="right">11</td>
+<td align="right">0</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/tinrab"><img src="https://avatars.githubusercontent.com/u/6238910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tinrab"><b>Tin Rabzelj</b></a><br><sub>&#64;tinrab · 284 followers</sub></td>
 <td align="right"><b>195</b></td>
 <td align="right">183</td>
@@ -87,7 +105,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
+<td><a href="https://github.com/matjaz"><img src="https://avatars.githubusercontent.com/u/10425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matjaz"><b>Matjaž Lipuš</b></a><br><sub>&#64;matjaz · 132 followers</sub></td>
+<td align="right"><b>134</b></td>
+<td align="right">111</td>
+<td align="right">14</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/luksa"><img src="https://avatars.githubusercontent.com/u/823581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luksa"><b>Marko Lukša</b></a><br><sub>&#64;luksa · 1,123 followers</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">67</td>
@@ -96,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">12</td>
 <td><a href="https://github.com/maticzav"><img src="https://avatars.githubusercontent.com/u/3924224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maticzav"><b>Matic Zavadlal</b></a><br><sub>&#64;maticzav · 391 followers</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">29</td>
@@ -105,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">13</td>
 <td><a href="https://github.com/Kami"><img src="https://avatars.githubusercontent.com/u/125088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kami"><b>Tomaz Muraus</b></a><br><sub>&#64;Kami · 618 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -114,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">14</td>
 <td><a href="https://github.com/aksonov"><img src="https://avatars.githubusercontent.com/u/1321329?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aksonov"><b>Pavel Aksonov</b></a><br><sub>&#64;aksonov · 628 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -129,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 417 discovered developers (406 awaiting measurement).
+- **Measured:** 14 of 417 discovered developers (403 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 220 in round 1.

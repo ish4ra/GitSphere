@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/NZ.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/NZ.json">JSON</a> |
 
 </div>
 
@@ -150,15 +150,15 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/ketoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ketoo/NoahGameFrame"><b>ketoo/NoahGameFrame</b></a><br><sub>A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be…</sub></td>
-<td align="right"><b>4,170</b></td>
+<td align="right"><b>4,172</b></td>
 <td align="right">1,110</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/nrc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nrc/r4cppp"><b>nrc/r4cppp</b></a><br><sub>Rust for C++ programmers</sub></td>
-<td align="right"><b>3,895</b></td>
-<td align="right">299</td>
+<td align="right"><b>3,897</b></td>
+<td align="right">300</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -192,29 +192,29 @@
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/kyrolabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyrolabs/awesome-agents"><b>kyrolabs/awesome-agents</b></a><br><sub>🤖 Awesome list of AI Agents</sub></td>
-<td align="right"><b>3,014</b></td>
-<td align="right">1,017</td>
+<td align="right"><b>3,015</b></td>
+<td align="right">1,024</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">26</td>
+<td><img src="https://github.com/Taiko2k.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Taiko2k/Tauon"><b>Taiko2k/Tauon</b></a><br><sub>Music player from another galaxy :milky&#95;way:</sub></td>
+<td align="right"><b>2,996</b></td>
+<td align="right">171</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">27</td>
 <td><img src="https://github.com/ashmind.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ashmind/SharpLab"><b>ashmind/SharpLab</b></a><br><sub>.NET language playground</sub></td>
 <td align="right"><b>2,993</b></td>
 <td align="right">224</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">27</td>
-<td><img src="https://github.com/Taiko2k.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Taiko2k/Tauon"><b>Taiko2k/Tauon</b></a><br><sub>Music player from another galaxy :milky&#95;way:</sub></td>
-<td align="right"><b>2,988</b></td>
-<td align="right">165</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">28</td>
 <td><img src="https://github.com/cortesi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cortesi/modd"><b>cortesi/modd</b></a><br><sub>A flexible developer tool that runs processes and responds to filesystem changes</sub></td>
-<td align="right"><b>2,968</b></td>
-<td align="right">136</td>
+<td align="right"><b>2,967</b></td>
+<td align="right">135</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/rusq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rusq/slackdump"><b>rusq/slackdump</b></a><br><sub>Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.</sub></td>
-<td align="right"><b>2,875</b></td>
+<td align="right"><b>2,883</b></td>
 <td align="right">179</td>
 <td>Go</td>
 </tr>
@@ -248,36 +248,36 @@
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/loomio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/loomio/loomio"><b>loomio/loomio</b></a><br><sub>Loomio is a collaborative decision-making tool</sub></td>
-<td align="right"><b>2,634</b></td>
-<td align="right">710</td>
+<td align="right"><b>2,636</b></td>
+<td align="right">711</td>
 <td>Ruby</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/ahwootech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahwootech/BRUTAL"><b>ahwootech/BRUTAL</b></a><br><sub>A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, wi…</sub></td>
-<td align="right"><b>2,541</b></td>
+<td align="right"><b>2,557</b></td>
 <td align="right">175</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/alangrainger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alangrainger/immich-public-proxy"><b>alangrainger/immich-public-proxy</b></a><br><sub>Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.</sub></td>
-<td align="right"><b>2,456</b></td>
+<td align="right"><b>2,462</b></td>
 <td align="right">98</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/elalish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elalish/manifold"><b>elalish/manifold</b></a><br><sub>Geometry library for topological robustness</sub></td>
-<td align="right"><b>2,434</b></td>
-<td align="right">291</td>
+<td align="right"><b>2,441</b></td>
+<td align="right">293</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/SwiftLaTeX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SwiftLaTeX/SwiftLaTeX"><b>SwiftLaTeX/SwiftLaTeX</b></a><br><sub>SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor</sub></td>
 <td align="right"><b>2,320</b></td>
-<td align="right">144</td>
+<td align="right">143</td>
 <td>C</td>
 </tr>
 <tr>
@@ -290,22 +290,22 @@
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/ageron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ageron/handson-mlp"><b>ageron/handson-mlp</b></a><br><sub>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python us…</sub></td>
-<td align="right"><b>2,270</b></td>
-<td align="right">707</td>
+<td align="right"><b>2,278</b></td>
+<td align="right">710</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/paulkinzett.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/paulkinzett/toolbar"><b>paulkinzett/toolbar</b></a><br><sub>A tooltip style toolbar jQuery plugin</sub></td>
-<td align="right"><b>2,267</b></td>
+<td align="right"><b>2,266</b></td>
 <td align="right">311</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/MEGAcmd"><b>meganz/MEGAcmd</b></a><br><sub>Command Line Interactive and Scriptable Application to access MEGA</sub></td>
-<td align="right"><b>2,234</b></td>
-<td align="right">429</td>
+<td align="right"><b>2,235</b></td>
+<td align="right">430</td>
 <td>C++</td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/BB.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/BB.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/ronaldwalcott"><img src="https://avatars.githubusercontent.com/u/34167625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ronaldwalcott"><b>Ronald Walcott</b></a><br><sub>&#64;ronaldwalcott · 4 followers</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">22</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/bajedev"><img src="https://avatars.githubusercontent.com/u/32736293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bajedev"><b>Theo Taylor</b></a><br><sub>&#64;bajedev · 9 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">5</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/YekimCodez"><img src="https://avatars.githubusercontent.com/u/118180798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YekimCodez"><b>Michael Doughty</b></a><br><sub>&#64;YekimCodez · 3 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">13</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/princebazawule"><img src="https://avatars.githubusercontent.com/u/578763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/princebazawule"><b>prince bazawule</b></a><br><sub>&#64;princebazawule · 2 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">7</td>
@@ -141,7 +150,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
+<td><a href="https://github.com/kaku2015"><img src="https://avatars.githubusercontent.com/u/12185465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaku2015"><b>FishingNet</b></a><br><sub>&#64;kaku2015 · 429 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/iRoachie"><img src="https://avatars.githubusercontent.com/u/5962998?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iRoachie"><b>Kyle Roach</b></a><br><sub>&#64;iRoachie · 297 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -150,7 +168,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/damanimccaskie"><img src="https://avatars.githubusercontent.com/u/47030714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damanimccaskie"><b>Damani McCaskie</b></a><br><sub>&#64;damanimccaskie · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -165,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 365 discovered developers (347 awaiting measurement).
+- **Measured:** 21 of 365 discovered developers (344 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 20 in round 1.

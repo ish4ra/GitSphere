@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/BD.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/BD.json">JSON</a> |
 
 </div>
 
@@ -66,43 +66,43 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/arikchakma.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arikchakma/maily.to"><b>arikchakma/maily.to</b></a><br><sub>Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across…</sub></td>
-<td align="right"><b>4,009</b></td>
-<td align="right">252</td>
+<td align="right"><b>4,012</b></td>
+<td align="right">251</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/htr-tech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/htr-tech/nexphisher"><b>htr-tech/nexphisher</b></a> <sub>archived</sub><br><sub>Advanced Phishing tool</sub></td>
-<td align="right"><b>3,956</b></td>
-<td align="right">647</td>
+<td align="right"><b>3,973</b></td>
+<td align="right">652</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/Mahmud0808.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mahmud0808/Iconify"><b>Mahmud0808/Iconify</b></a><br><sub>Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification pane…</sub></td>
-<td align="right"><b>3,269</b></td>
-<td align="right">153</td>
+<td align="right"><b>3,275</b></td>
+<td align="right">155</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/darkprinx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darkprinx/break-the-ice-with-python"><b>darkprinx/break-the-ice-with-python</b></a><br><sub>100+ Python exercises for beginners in 24 days, with hints and solutions explained in different ways</sub></td>
-<td align="right"><b>3,163</b></td>
-<td align="right">1,498</td>
+<td align="right"><b>3,162</b></td>
+<td align="right">1,499</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/palahsu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/palahsu/DDoS-Ripper"><b>palahsu/DDoS-Ripper</b></a><br><sub>DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure…</sub></td>
-<td align="right"><b>3,034</b></td>
+<td align="right"><b>3,040</b></td>
 <td align="right">699</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/changeweb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/changeweb/Unifiedtransform"><b>changeweb/Unifiedtransform</b></a><br><sub>A school management Software</sub></td>
-<td align="right"><b>3,009</b></td>
-<td align="right">1,290</td>
+<td align="right"><b>3,007</b></td>
+<td align="right">1,289</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -115,28 +115,28 @@
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/Mahmud0808.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mahmud0808/ColorBlendr"><b>Mahmud0808/ColorBlendr</b></a><br><sub>An Android app for customizing Material You colors on devices with Android 12+. It lets you tweak accent colors, backgr…</sub></td>
-<td align="right"><b>2,640</b></td>
+<td align="right"><b>2,651</b></td>
 <td align="right">67</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/arifszn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arifszn/gitprofile"><b>arifszn/gitprofile</b></a><br><sub>🚀 Create and publish a GitHub-synced portfolio by just providing your GitHub username.</sub></td>
-<td align="right"><b>2,327</b></td>
-<td align="right">2,156</td>
+<td align="right"><b>2,328</b></td>
+<td align="right">2,155</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/neurobin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neurobin/shc"><b>neurobin/shc</b></a><br><sub>Shell script compiler</sub></td>
-<td align="right"><b>2,259</b></td>
-<td align="right">372</td>
+<td align="right"><b>2,260</b></td>
+<td align="right">373</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/Hasnayeen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hasnayeen/invobook"><b>Hasnayeen/invobook</b></a><br><sub>Self-hosted app for Time Tracking, Invoice Generation, Project &amp; Client Management, built with Laravel &amp; Filament.</sub></td>
-<td align="right"><b>2,236</b></td>
+<td align="right"><b>2,235</b></td>
 <td align="right">606</td>
 <td>Blade</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 575 stars; 148 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 575 stars; 143 attributed candidates are tracked.
 - 129 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

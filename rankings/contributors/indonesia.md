@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/ID.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/ID.json">JSON</a> |
 
 </div>
 
@@ -61,7 +61,7 @@
 </tr>
 <tr>
 <td align="right">5</td>
-<td><a href="https://github.com/zakirkun"><img src="https://avatars.githubusercontent.com/u/61570975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zakirkun"><b>Muhammad Zakir Ramadhan</b></a><br><sub>&#64;zakirkun · 1,172 followers</sub></td>
+<td><a href="https://github.com/zakirkun"><img src="https://avatars.githubusercontent.com/u/61570975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zakirkun"><b>Muhammad Zakir Ramadhan</b></a><br><sub>&#64;zakirkun · 1,177 followers</sub></td>
 <td align="right"><b>5,717</b></td>
 <td align="right">5,607</td>
 <td align="right">42</td>
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/herpiko"><img src="https://avatars.githubusercontent.com/u/2534060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/herpiko"><b>Herpiko Dwi Aguno</b></a><br><sub>&#64;herpiko · 170 followers</sub></td>
+<td align="right"><b>1,689</b></td>
+<td align="right">1,321</td>
+<td align="right">237</td>
+<td align="right">4</td>
+<td align="right">112</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/KOSASIH"><img src="https://avatars.githubusercontent.com/u/4611581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KOSASIH"><b>KOSASIH</b></a><br><sub>&#64;KOSASIH · 3,193 followers</sub></td>
 <td align="right"><b>1,443</b></td>
 <td align="right">1,375</td>
@@ -96,7 +105,7 @@
 <td align="right">29</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/ImBIOS"><img src="https://avatars.githubusercontent.com/u/41441643?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ImBIOS"><b>Imamuzzaki Abu Salam</b></a><br><sub>&#64;ImBIOS · 220 followers</sub></td>
 <td align="right"><b>958</b></td>
 <td align="right">578</td>
@@ -105,7 +114,7 @@
 <td align="right">96</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/perlancar"><img src="https://avatars.githubusercontent.com/u/211084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/perlancar"><b>perlancar</b></a><br><sub>&#64;perlancar · 265 followers</sub></td>
 <td align="right"><b>435</b></td>
 <td align="right">391</td>
@@ -114,7 +123,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/ammarfaizi2"><img src="https://avatars.githubusercontent.com/u/26004054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ammarfaizi2"><b>Ammar Faizi</b></a><br><sub>&#64;ammarfaizi2 · 578 followers</sub></td>
 <td align="right"><b>243</b></td>
 <td align="right">227</td>
@@ -123,7 +132,25 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
+<td><a href="https://github.com/didinj"><img src="https://avatars.githubusercontent.com/u/1654495?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/didinj"><b>Didin Jamaludin</b></a><br><sub>&#64;didinj · 713 followers</sub></td>
+<td align="right"><b>214</b></td>
+<td align="right">161</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/drat"><img src="https://avatars.githubusercontent.com/u/1527144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drat"><b>Deddy Ratnanto</b></a><br><sub>&#64;drat · 180 followers</sub></td>
+<td align="right"><b>60</b></td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/BionStt"><img src="https://avatars.githubusercontent.com/u/43228630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BionStt"><b>Sutanto Gasali</b></a><br><sub>&#64;BionStt · 186 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
@@ -132,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">16</td>
 <td><a href="https://github.com/warifp"><img src="https://avatars.githubusercontent.com/u/28912230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/warifp"><b>Wahyu Purnomo</b></a><br><sub>&#64;warifp · 657 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">13</td>
@@ -147,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 979 discovered developers (966 awaiting measurement).
+- **Measured:** 16 of 1,065 discovered developers (1,049 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 183 in round 1.

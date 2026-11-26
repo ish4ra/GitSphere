@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/IR.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/IR.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,24 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/NabiKAZ"><img src="https://avatars.githubusercontent.com/u/246721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NabiKAZ"><b>Nabi KaramAliZadeh</b></a><br><sub>&#64;NabiKAZ · 344 followers</sub></td>
+<td align="right"><b>80</b></td>
+<td align="right">42</td>
+<td align="right">5</td>
+<td align="right">1</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/Dariush-Tasdighi"><img src="https://avatars.githubusercontent.com/u/8329347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dariush-Tasdighi"><b>Dariush Tasdighi</b></a><br><sub>&#64;Dariush-Tasdighi · 783 followers</sub></td>
+<td align="right"><b>54</b></td>
+<td align="right">46</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/sorooshrabet"><img src="https://avatars.githubusercontent.com/u/143717347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sorooshrabet"><b>soroosh rabet</b></a><br><sub>&#64;sorooshrabet · 963 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
@@ -123,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/qa1"><img src="https://avatars.githubusercontent.com/u/6631000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qa1"><b>qa1</b></a><br><sub>&#64;qa1 · 344 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
@@ -132,7 +150,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
+<td><a href="https://github.com/SeyedMuhammadHosseinMousavi"><img src="https://avatars.githubusercontent.com/u/11339420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SeyedMuhammadHosseinMousavi"><b>Seyed Muhammad Hossein Mousavi</b></a><br><sub>&#64;SeyedMuhammadHosseinMousavi · 196 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/ghaseminya"><img src="https://avatars.githubusercontent.com/u/937340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghaseminya"><b>j2eedev</b></a><br><sub>&#64;ghaseminya · 680 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -147,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 849 discovered developers (836 awaiting measurement).
+- **Measured:** 16 of 902 discovered developers (886 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 159 in round 1.

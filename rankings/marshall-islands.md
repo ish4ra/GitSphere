@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **43** | 02 Nov 2026 | <a href="../data/MH.json">JSON</a> |
 
-> **Not yet re-verified.** 39 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 38 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -53,10 +53,10 @@
 </tr>
 <tr>
 <td align="right">5</td>
-<td><img src="https://github.com/djan-guy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/djan-guy/Django-Tutorial"><b>djan-guy/Django-Tutorial</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/hashgraph-online.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hashgraph-online/registry-broker-skills"><b>hashgraph-online/registry-broker-skills</b></a><br><sub>AI agent skills for the Universal Registry - search, chat, and register 72,000+ agents across 14+ protocols. Works with…</sub></td>
+<td align="right"><b>481</b></td>
+<td align="right">5</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">6</td>
@@ -333,9 +333,9 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 43 attributed candidates are tracked.
-- 39 entries were carried over from the previous dataset and are pending revalidation.
-- 48 multi-repository owners are queued for expansion.
-- **Location discovery:** term 3 of 62 in round 1.
+- 38 entries were carried over from the previous dataset and are pending revalidation.
+- 47 multi-repository owners are queued for expansion.
+- **Location discovery:** term 6 of 62 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

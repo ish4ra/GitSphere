@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/NO.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/NO.json">JSON</a> |
 
 </div>
 
@@ -262,14 +262,14 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/arnegiacomo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arnegiacomo/fugleramme"><b>arnegiacomo/fugleramme</b></a><br><sub>Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand…</sub></td>
-<td align="right"><b>4,103</b></td>
-<td align="right">169</td>
+<td align="right"><b>4,111</b></td>
+<td align="right">171</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/hampusborgos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hampusborgos/country-flags"><b>hampusborgos/country-flags</b></a><br><sub>SVG and PNG renders of all countries&#39; flags.</sub></td>
-<td align="right"><b>3,804</b></td>
+<td align="right"><b>3,802</b></td>
 <td align="right">1,007</td>
 <td>JavaScript</td>
 </tr>
@@ -283,28 +283,28 @@
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/martinothamar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martinothamar/Mediator"><b>martinothamar/Mediator</b></a><br><sub>A high performance implementation of Mediator pattern in .NET using source generators.</sub></td>
-<td align="right"><b>3,759</b></td>
+<td align="right"><b>3,763</b></td>
 <td align="right">186</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/hyperoslo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hyperoslo/Whisper"><b>hyperoslo/Whisper</b></a><br><sub>:mega: Whisper is a component that will make the task of display messages and in-app notifications simple. It has three…</sub></td>
-<td align="right"><b>3,716</b></td>
+<td align="right"><b>3,715</b></td>
 <td align="right">357</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/Acmesec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Acmesec/PromptJailbreakManual"><b>Acmesec/PromptJailbreakManual</b></a><br><sub>Prompt越狱手册</sub></td>
-<td align="right"><b>3,709</b></td>
+<td align="right"><b>3,712</b></td>
 <td align="right">382</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/auduno.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/auduno/headtrackr"><b>auduno/headtrackr</b></a><br><sub>Javascript library for headtracking via webcam and WebRTC/getUserMedia</sub></td>
-<td align="right"><b>3,689</b></td>
+<td align="right"><b>3,688</b></td>
 <td align="right">497</td>
 <td>JavaScript</td>
 </tr>
@@ -318,7 +318,7 @@
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/zenangst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zenangst/Hue"><b>zenangst/Hue</b></a><br><sub>:art: Hue is the all-in-one coloring utility that you&#39;ll ever need.</sub></td>
-<td align="right"><b>3,544</b></td>
+<td align="right"><b>3,543</b></td>
 <td align="right">222</td>
 <td>Swift</td>
 </tr>
@@ -332,7 +332,7 @@
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/sdushantha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sdushantha/wifi-password"><b>sdushantha/wifi-password</b></a><br><sub>Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect</sub></td>
-<td align="right"><b>3,162</b></td>
+<td align="right"><b>3,166</b></td>
 <td align="right">362</td>
 <td>Python</td>
 </tr>
@@ -345,23 +345,23 @@
 </tr>
 <tr>
 <td align="right">47</td>
-<td><img src="https://github.com/djkaty.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/djkaty/Il2CppInspector"><b>djkaty/Il2CppInspector</b></a><br><sub>Powerful automated tool for reverse engineering Unity IL2CPP binaries</sub></td>
-<td align="right"><b>3,070</b></td>
-<td align="right">584</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">48</td>
 <td><img src="https://github.com/hyperoslo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hyperoslo/Presentation"><b>hyperoslo/Presentation</b></a><br><sub>:bookmark&#95;tabs: Presentation helps you to make tutorials, release notes and animated pages.</sub></td>
 <td align="right"><b>3,069</b></td>
 <td align="right">186</td>
 <td>Swift</td>
 </tr>
 <tr>
+<td align="right">48</td>
+<td><img src="https://github.com/djkaty.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/djkaty/Il2CppInspector"><b>djkaty/Il2CppInspector</b></a><br><sub>Powerful automated tool for reverse engineering Unity IL2CPP binaries</sub></td>
+<td align="right"><b>3,068</b></td>
+<td align="right">586</td>
+<td>C</td>
+</tr>
+<tr>
 <td align="right">49</td>
 <td><img src="https://github.com/HansKristian-Work.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HansKristian-Work/vkd3d-proton"><b>HansKristian-Work/vkd3d-proton</b></a><br><sub>Fork of VKD3D. Development branches for Proton&#39;s Direct3D 12 implementation.</sub></td>
-<td align="right"><b>3,049</b></td>
-<td align="right">380</td>
+<td align="right"><b>3,056</b></td>
+<td align="right">386</td>
 <td>C</td>
 </tr>
 <tr>
@@ -374,8 +374,8 @@
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/Flangvik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Flangvik/SharpCollection"><b>Flangvik/SharpCollection</b></a><br><sub>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fa…</sub></td>
-<td align="right"><b>3,009</b></td>
-<td align="right">395</td>
+<td align="right"><b>3,012</b></td>
+<td align="right">396</td>
 <td>—</td>
 </tr>
 <tr>
@@ -395,7 +395,7 @@
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/Lokaltog.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lokaltog/vim-powerline"><b>Lokaltog/vim-powerline</b></a> <sub>archived</sub><br><sub>Moved to powerline/powerline.</sub></td>
-<td align="right"><b>2,845</b></td>
+<td align="right"><b>2,844</b></td>
 <td align="right">364</td>
 <td>Vim Script</td>
 </tr>
@@ -410,7 +410,7 @@
 <td align="right">56</td>
 <td><img src="https://github.com/Codehagen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Codehagen/Badget"><b>Codehagen/Badget</b></a><br><sub>Badget aims to simplify financial management with a user-friendly interface and robust backend</sub></td>
 <td align="right"><b>2,765</b></td>
-<td align="right">299</td>
+<td align="right">298</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -423,7 +423,7 @@
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/mathialo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mathialo/bython"><b>mathialo/bython</b></a><br><sub>Python with braces. Because python is awesome, but whitespace is awful.</sub></td>
-<td align="right"><b>2,697</b></td>
+<td align="right"><b>2,698</b></td>
 <td align="right">109</td>
 <td>Python</td>
 </tr>
@@ -431,7 +431,7 @@
 <td align="right">59</td>
 <td><img src="https://github.com/eidheim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eidheim/Simple-Web-Server"><b>eidheim/Simple-Web-Server</b></a> <sub>archived</sub><br><sub>A very simple, fast, multithreaded, platform independent HTTP and HTTPS server and client library implemented using C++…</sub></td>
 <td align="right"><b>2,689</b></td>
-<td align="right">770</td>
+<td align="right">769</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -444,21 +444,21 @@
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/mikalv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikalv/awesome-qt-qml"><b>mikalv/awesome-qt-qml</b></a><br><sub>A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.</sub></td>
-<td align="right"><b>2,632</b></td>
+<td align="right"><b>2,633</b></td>
 <td align="right">389</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">62</td>
 <td><img src="https://github.com/pokepetter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pokepetter/ursina"><b>pokepetter/ursina</b></a><br><sub>A 3D and 2D game engine for Python</sub></td>
-<td align="right"><b>2,614</b></td>
+<td align="right"><b>2,617</b></td>
 <td align="right">359</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/antonbabenko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/antonbabenko/terraform-best-practices"><b>antonbabenko/terraform-best-practices</b></a><br><sub>Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨�…</sub></td>
-<td align="right"><b>2,580</b></td>
+<td align="right"><b>2,581</b></td>
 <td align="right">558</td>
 <td>HCL</td>
 </tr>
@@ -485,58 +485,58 @@
 </tr>
 <tr>
 <td align="right">67</td>
+<td><img src="https://github.com/oleeskild.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oleeskild/obsidian-digital-garden"><b>oleeskild/obsidian-digital-garden</b></a></td>
+<td align="right"><b>2,540</b></td>
+<td align="right">226</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">68</td>
 <td><img src="https://github.com/3lvis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/3lvis/SwiftSync"><b>3lvis/SwiftSync</b></a><br><sub>JSON to SwiftData and back. SwiftData Sync.</sub></td>
 <td align="right"><b>2,539</b></td>
 <td align="right">261</td>
 <td>Swift</td>
 </tr>
 <tr>
-<td align="right">68</td>
-<td><img src="https://github.com/oleeskild.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oleeskild/obsidian-digital-garden"><b>oleeskild/obsidian-digital-garden</b></a></td>
-<td align="right"><b>2,537</b></td>
-<td align="right">226</td>
-<td>TypeScript</td>
+<td align="right">69</td>
+<td><img src="https://github.com/didriksg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/didriksg/Crisp"><b>didriksg/Crisp</b></a><br><sub>Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC b…</sub></td>
+<td align="right"><b>2,503</b></td>
+<td align="right">125</td>
+<td>Swift</td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">70</td>
 <td><img src="https://github.com/Shuffle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Shuffle/Shuffle"><b>Shuffle/Shuffle</b></a><br><sub>Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.</sub></td>
-<td align="right"><b>2,489</b></td>
+<td align="right"><b>2,492</b></td>
 <td align="right">442</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">70</td>
-<td><img src="https://github.com/antonbabenko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/antonbabenko/terraform-skill"><b>antonbabenko/terraform-skill</b></a><br><sub>Terraform &amp; OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns</sub></td>
-<td align="right"><b>2,483</b></td>
-<td align="right">232</td>
-<td>—</td>
-</tr>
-<tr>
 <td align="right">71</td>
-<td><img src="https://github.com/didriksg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/didriksg/Crisp"><b>didriksg/Crisp</b></a><br><sub>Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC b…</sub></td>
-<td align="right"><b>2,466</b></td>
-<td align="right">123</td>
-<td>Swift</td>
+<td><img src="https://github.com/antonbabenko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/antonbabenko/terraform-skill"><b>antonbabenko/terraform-skill</b></a><br><sub>Terraform &amp; OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns</sub></td>
+<td align="right"><b>2,490</b></td>
+<td align="right">231</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">72</td>
 <td><img src="https://github.com/geoman-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/geoman-io/leaflet-geoman"><b>geoman-io/leaflet-geoman</b></a><br><sub>🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers</sub></td>
-<td align="right"><b>2,441</b></td>
+<td align="right"><b>2,439</b></td>
 <td align="right">446</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">73</td>
 <td><img src="https://github.com/bitfocus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitfocus/companion"><b>bitfocus/companion</b></a><br><sub>Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an inc…</sub></td>
-<td align="right"><b>2,372</b></td>
+<td align="right"><b>2,375</b></td>
 <td align="right">601</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/0Chencc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0Chencc/clawgod"><b>0Chencc/clawgod</b></a><br><sub>ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.</sub></td>
-<td align="right"><b>2,335</b></td>
-<td align="right">369</td>
+<td align="right"><b>2,340</b></td>
+<td align="right">370</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -549,7 +549,7 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/onmyway133.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onmyway133/PushNotifications"><b>onmyway133/PushNotifications</b></a><br><sub>🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android</sub></td>
-<td align="right"><b>2,314</b></td>
+<td align="right"><b>2,313</b></td>
 <td align="right">188</td>
 <td>JavaScript</td>
 </tr>
@@ -563,14 +563,14 @@
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/Foxboron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Foxboron/sbctl"><b>Foxboron/sbctl</b></a><br><sub>:computer: :lock: :key: Secure Boot key manager</sub></td>
-<td align="right"><b>2,296</b></td>
+<td align="right"><b>2,298</b></td>
 <td align="right">113</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/zenangst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zenangst/KeyboardCowboy"><b>zenangst/KeyboardCowboy</b></a><br><sub>:keyboard: The missing keyboard shortcut utility for macOS</sub></td>
-<td align="right"><b>2,262</b></td>
+<td align="right"><b>2,261</b></td>
 <td align="right">39</td>
 <td>Swift</td>
 </tr>

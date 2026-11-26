@@ -26,7 +26,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/DandelionSprout.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DandelionSprout/adfilt"><b>DandelionSprout/adfilt</b></a><br><sub>The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. A…</sub></td>
-<td align="right"><b>2,321</b></td>
+<td align="right"><b>2,320</b></td>
 <td align="right">189</td>
 <td>Adblock Filter List</td>
 </tr>
@@ -285,7 +285,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 2 stars; 36 attributed candidates are tracked.
 - 35 entries were carried over from the previous dataset and are pending revalidation.
-- 137 multi-repository owners are queued for expansion.
+- 135 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 92 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

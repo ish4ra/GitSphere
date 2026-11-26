@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/GI.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/GI.json">JSON</a> |
 
 </div>
 
@@ -106,6 +106,24 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/complex857"><img src="https://avatars.githubusercontent.com/u/131617?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/complex857"><b>complex857</b></a><br><sub>&#64;complex857 · 10 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">3</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/VladimirHumeniuk"><img src="https://avatars.githubusercontent.com/u/20288162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VladimirHumeniuk"><b>vhmnk</b></a><br><sub>&#64;VladimirHumeniuk · 27 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/adrimus"><img src="https://avatars.githubusercontent.com/u/37830358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrimus"><b>adrimus</b></a><br><sub>&#64;adrimus · 3 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -120,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 273 discovered developers (259 awaiting measurement).
+- **Measured:** 17 of 273 discovered developers (256 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 14 in round 1.

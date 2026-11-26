@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/engsafaaj"><img src="https://avatars.githubusercontent.com/u/51041648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/engsafaaj"><b>U تكنو</b></a><br><sub>&#64;engsafaaj</sub></td>
-<td align="right"><b>780</b></td>
+<td align="right"><b>782</b></td>
 <td align="right">61</td>
 <td><sub>Iraq</sub></td>
 </tr>
@@ -185,21 +185,21 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/kosratdev"><img src="https://avatars.githubusercontent.com/u/10336475?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kosratdev"><b>Kosrat Ahmed</b></a><br><sub>&#64;kosratdev</sub></td>
-<td align="right"><b>174</b></td>
+<td align="right"><b>173</b></td>
 <td align="right">58</td>
 <td><sub>Erbil, Iraq</sub></td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/Azad77"><img src="https://avatars.githubusercontent.com/u/31017704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Azad77"><b>Dr Azad Rasul</b></a><br><sub>&#64;Azad77</sub></td>
-<td align="right"><b>170</b></td>
+<td align="right"><b>172</b></td>
 <td align="right">51</td>
 <td><sub>Soran, Kurdistan Region, Iraq</sub></td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/MiranKm"><img src="https://avatars.githubusercontent.com/u/32594520?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MiranKm"><b>Miran Kamal</b></a><br><sub>&#64;MiranKm</sub></td>
-<td align="right"><b>164</b></td>
+<td align="right"><b>163</b></td>
 <td align="right">65</td>
 <td><sub>Erbil, Iraq</sub></td>
 </tr>

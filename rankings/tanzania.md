@@ -26,8 +26,8 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/NASA-AMMOS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NASA-AMMOS/3DTilesRendererJS"><b>NASA-AMMOS/3DTilesRendererJS</b></a><br><sub>Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f</sub></td>
-<td align="right"><b>2,545</b></td>
-<td align="right">435</td>
+<td align="right"><b>2,547</b></td>
+<td align="right">436</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -733,7 +733,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 100 attributed candidates are tracked.
 - 89 entries were carried over from the previous dataset and are pending revalidation.
-- 138 multi-repository owners are queued for expansion.
+- 135 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

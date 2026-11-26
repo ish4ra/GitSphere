@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/VN.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/VN.json">JSON</a> |
 
 </div>
 
@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/windwp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/windwp/nvim-autopairs"><b>windwp/nvim-autopairs</b></a><br><sub>autopairs for neovim written in lua</sub></td>
-<td align="right"><b>4,107</b></td>
+<td align="right"><b>4,109</b></td>
 <td align="right">145</td>
 <td>Lua</td>
 </tr>
@@ -165,36 +165,36 @@
 <td align="right">21</td>
 <td><img src="https://github.com/nextlevelbuilder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nextlevelbuilder/goclaw"><b>nextlevelbuilder/goclaw</b></a><br><sub>GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Depl…</sub></td>
 <td align="right"><b>3,723</b></td>
-<td align="right">1,093</td>
+<td align="right">1,095</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/Elaina69.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Elaina69/Yes-Steve-Model-Repo"><b>Elaina69/Yes-Steve-Model-Repo</b></a><br><sub>YSM models I collected from various sources, free to use. Please join YSM discord server if you have any question:</sub></td>
-<td align="right"><b>3,620</b></td>
-<td align="right">392</td>
+<td align="right"><b>3,635</b></td>
+<td align="right">393</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/duongductrong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/duongductrong/Snapzy"><b>duongductrong/Snapzy</b></a><br><sub>An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.</sub></td>
-<td align="right"><b>3,602</b></td>
-<td align="right">209</td>
+<td align="right"><b>3,618</b></td>
+<td align="right">210</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">24</td>
-<td><img src="https://github.com/tamnd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tamnd/kage"><b>tamnd/kage</b></a><br><sub>Shadow any website for offline viewing, with the JavaScript stripped out</sub></td>
-<td align="right"><b>3,551</b></td>
-<td align="right">137</td>
-<td>Go</td>
+<td><img src="https://github.com/pnnbao97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pnnbao97/VieNeu-TTS"><b>pnnbao97/VieNeu-TTS</b></a><br><sub>Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 48kHz audio quality • Chuyển văn bản…</sub></td>
+<td align="right"><b>3,602</b></td>
+<td align="right">1,085</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/pnnbao97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pnnbao97/VieNeu-TTS"><b>pnnbao97/VieNeu-TTS</b></a><br><sub>Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 48kHz audio quality • Chuyển văn bản…</sub></td>
-<td align="right"><b>3,539</b></td>
-<td align="right">1,072</td>
-<td>Python</td>
+<td><img src="https://github.com/tamnd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tamnd/kage"><b>tamnd/kage</b></a><br><sub>Shadow any website for offline viewing, with the JavaScript stripped out</sub></td>
+<td align="right"><b>3,559</b></td>
+<td align="right">137</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">26</td>
@@ -205,30 +205,30 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/anonystick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anonystick/anonystick"><b>anonystick/anonystick</b></a><br><sub>FullStack</sub></td>
-<td align="right"><b>2,827</b></td>
-<td align="right">868</td>
-<td>HTML</td>
+<td><img src="https://github.com/pass-with-high-score.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pass-with-high-score/blockads-android"><b>pass-with-high-score/blockads-android</b></a><br><sub>Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.</sub></td>
+<td align="right"><b>2,851</b></td>
+<td align="right">176</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/pass-with-high-score.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pass-with-high-score/blockads-android"><b>pass-with-high-score/blockads-android</b></a><br><sub>Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.</sub></td>
-<td align="right"><b>2,800</b></td>
-<td align="right">175</td>
-<td>Kotlin</td>
+<td><img src="https://github.com/anonystick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anonystick/anonystick"><b>anonystick/anonystick</b></a><br><sub>FullStack</sub></td>
+<td align="right"><b>2,828</b></td>
+<td align="right">866</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/maxrave-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maxrave-dev/kotlin-footguns"><b>maxrave-dev/kotlin-footguns</b></a><br><sub>Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a pro…</sub></td>
-<td align="right"><b>2,611</b></td>
+<td align="right"><b>2,735</b></td>
 <td align="right">12</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/hudy9x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hudy9x/namviek"><b>hudy9x/namviek</b></a><br><sub>The open-source project management tool for tiny teams</sub></td>
-<td align="right"><b>2,555</b></td>
-<td align="right">303</td>
+<td align="right"><b>2,556</b></td>
+<td align="right">305</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -242,13 +242,13 @@
 <td align="right">32</td>
 <td><img src="https://github.com/hungps.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hungps/flutter_pokedex"><b>hungps/flutter&#95;pokedex</b></a><br><sub>Pokedex app built with Flutter (with lots of animations) using Clean Architecture</sub></td>
 <td align="right"><b>2,524</b></td>
-<td align="right">566</td>
+<td align="right">567</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/khang-nd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khang-nd/7.css"><b>khang-nd/7.css</b></a><br><sub>A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI.</sub></td>
-<td align="right"><b>2,491</b></td>
+<td align="right"><b>2,494</b></td>
 <td align="right">126</td>
 <td>SCSS</td>
 </tr>
@@ -256,20 +256,20 @@
 <td align="right">34</td>
 <td><img src="https://github.com/phongnguyend.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/phongnguyend/Practical.CleanArchitecture"><b>phongnguyend/Practical.CleanArchitecture</b></a><br><sub>Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 22, React 19, Vue 3.…</sub></td>
 <td align="right"><b>2,464</b></td>
-<td align="right">610</td>
+<td align="right">609</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/ncdai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ncdai/chanhdai.com"><b>ncdai/chanhdai.com</b></a><br><sub>A pixel-perfect dev portfolio and shadcn registry.</sub></td>
-<td align="right"><b>2,435</b></td>
-<td align="right">333</td>
+<td align="right"><b>2,438</b></td>
+<td align="right">334</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/nvh95.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nvh95/jest-preview"><b>nvh95/jest-preview</b></a><br><sub>Debug your Jest tests. Effortlessly.🛠🖼</sub></td>
-<td align="right"><b>2,387</b></td>
+<td align="right"><b>2,388</b></td>
 <td align="right">80</td>
 <td>TypeScript</td>
 </tr>
@@ -277,14 +277,14 @@
 <td align="right">37</td>
 <td><img src="https://github.com/hunglc007.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hunglc007/tensorflow-yolov4-tflite"><b>hunglc007/tensorflow-yolov4-tflite</b></a><br><sub>YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, t…</sub></td>
 <td align="right"><b>2,251</b></td>
-<td align="right">1,212</td>
+<td align="right">1,210</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/mrgoonie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrgoonie/claudekit-skills"><b>mrgoonie/claudekit-skills</b></a><br><sub>All powerful skills of ClaudeKit.cc!</sub></td>
 <td align="right"><b>2,245</b></td>
-<td align="right">419</td>
+<td align="right">418</td>
 <td>Python</td>
 </tr>
 <tr>

@@ -5,7 +5,7 @@
 "country": {"code":"CK","name":"Cook Islands","slug":"cook-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":29,"ownerExpansionBacklog":33,"candidates":29,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":29,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":29,"ownerExpansionBacklog":32,"candidates":29,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":29,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"tumunu-brains","nameWithOwner":"tumunu/tumunu-brains","url":"https://github.com/tumunu/tumunu-brains","description":null,"stars":1,"forks":1,"primaryLanguage":"Rust","license":null,"createdAt":"2025-07-18T05:08:25Z","pushedAt":"2025-08-02T04:22:47Z","archived":false,"owner":{"login":"tumunu","name":"Tumunu Collective","type":"User","url":"https://github.com/tumunu","location":"Rarotonga, Cook Islands · Wellington, NZ","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"cas","nameWithOwner":"0xOptimusPrime/cas","url":"https://github.com/0xOptimusPrime/cas","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-23T16:57:43Z","pushedAt":"2023-12-23T16:57:43Z","archived":false,"owner":{"login":"0xOptimusPrime","name":"season911szymonimessi","type":"User","url":"https://github.com/0xOptimusPrime","location":"Avarua","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -37,8 +37,8 @@
   {"rank":28,"id":null,"name":"Zoomka","nameWithOwner":"weareomniscienti/Zoomka","url":"https://github.com/weareomniscienti/Zoomka","description":null,"stars":0,"forks":0,"primaryLanguage":"Vue","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-05-23T13:14:27Z","pushedAt":"2026-05-23T13:16:27Z","archived":false,"owner":{"login":"weareomniscienti","name":"omniscienti.com","type":"User","url":"https://github.com/weareomniscienti","location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":29,"id":null,"name":"ziziskalexander","nameWithOwner":"ziziskalexander/ziziskalexander","url":"https://github.com/ziziskalexander/ziziskalexander","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-10-01T01:53:33Z","pushedAt":"2024-10-01T01:53:43Z","archived":false,"owner":{"login":"ziziskalexander","name":null,"type":"User","url":"https://github.com/ziziskalexander","location":"Cookeilanden (CK)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "96239e7df004cd02",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "23793e048d7cf38e",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

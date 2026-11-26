@@ -410,7 +410,7 @@
 <td align="right">56</td>
 <td><a href="https://github.com/MaycollJaramillo01"><img src="https://avatars.githubusercontent.com/u/92221110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MaycollJaramillo01"><b>Maycoll Jaramillo</b></a><br><sub>&#64;MaycollJaramillo01</sub></td>
 <td align="right"><b>4</b></td>
-<td align="right">115</td>
+<td align="right">116</td>
 <td><sub>Nicaragua</sub></td>
 </tr>
 <tr>
@@ -823,7 +823,7 @@
 <td align="right">115</td>
 <td><a href="https://github.com/Juxn89"><img src="https://avatars.githubusercontent.com/u/27323032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Juxn89"><b>Juan Gómez</b></a><br><sub>&#64;Juxn89</sub></td>
 <td align="right"><b>3</b></td>
-<td align="right">103</td>
+<td align="right">104</td>
 <td><sub>Nicaragua</sub></td>
 </tr>
 <tr>

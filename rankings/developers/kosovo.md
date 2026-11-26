@@ -270,7 +270,7 @@
 <td align="right">36</td>
 <td><a href="https://github.com/arberiii"><img src="https://avatars.githubusercontent.com/u/8199285?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arberiii"><b>Arber</b></a><br><sub>&#64;arberiii</sub></td>
 <td align="right"><b>32</b></td>
-<td align="right">67</td>
+<td align="right">66</td>
 <td><sub>Kosovo</sub></td>
 </tr>
 <tr>

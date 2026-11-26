@@ -33,21 +33,21 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/casualsnek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/casualsnek/waydroid_script"><b>casualsnek/waydroid&#95;script</b></a><br><sub>Python Script to add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !</sub></td>
-<td align="right"><b>3,905</b></td>
+<td align="right"><b>3,909</b></td>
 <td align="right">287</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/casualsnek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/casualsnek/cassowary"><b>casualsnek/cassowary</b></a><br><sub>Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in window…</sub></td>
-<td align="right"><b>3,589</b></td>
+<td align="right"><b>3,591</b></td>
 <td align="right">104</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/codse.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codse/animata"><b>codse/animata</b></a><br><sub>Bring your site to life with easy to use animation &amp; interaction code. Copy. Paste. Animate.</sub></td>
-<td align="right"><b>3,016</b></td>
+<td align="right"><b>3,023</b></td>
 <td align="right">246</td>
 <td>TypeScript</td>
 </tr>
@@ -61,15 +61,15 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/xandemon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xandemon/developer-icons"><b>xandemon/developer-icons</b></a><br><sub>A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.</sub></td>
-<td align="right"><b>2,685</b></td>
-<td align="right">214</td>
+<td align="right"><b>2,689</b></td>
+<td align="right">215</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/prajwalch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prajwalch/TorrentSearch"><b>prajwalch/TorrentSearch</b></a><br><sub>An Android app for searching torrents across multiple providers with fast search speed, detailed results, and packed wi…</sub></td>
-<td align="right"><b>2,248</b></td>
-<td align="right">76</td>
+<td align="right"><b>2,261</b></td>
+<td align="right">78</td>
 <td>Kotlin</td>
 </tr>
 <tr>
@@ -551,7 +551,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 74 attributed candidates are tracked.
 - 50 entries were carried over from the previous dataset and are pending revalidation.
-- 121 multi-repository owners are queued for expansion.
+- 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 69 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,7 +5,7 @@
 "country": {"code":"MM","name":"Myanmar (Burma)","slug":"myanmar-burma"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":95,"ownerExpansionBacklog":148,"candidates":127,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":161,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":95,"ownerExpansionBacklog":148,"candidates":127,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":161,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyODI2Mjc4NjE=","name":"ADB-OTG","nameWithOwner":"KhunHtetzNaing/ADB-OTG","url":"https://github.com/KhunHtetzNaing/ADB-OTG","description":"Android Debug Bridge On The Go.","stars":1002,"forks":430,"primaryLanguage":"Java","license":null,"createdAt":"2020-07-26T10:37:51Z","pushedAt":"2024-05-16T07:33:26Z","archived":false,"owner":{"login":"KhunHtetzNaing","name":"Khun Htetz Naing","type":"User","url":"https://github.com/KhunHtetzNaing","location":"HsiHseng, Myanmar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"R_kgDOPEsFcg","name":"netgoat","nameWithOwner":"netgoat-xyz/netgoat","url":"https://github.com/netgoat-xyz/netgoat","description":"A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!","stars":903,"forks":51,"primaryLanguage":"Go","license":{"spdxId":"AGPL-3.0"},"createdAt":"2025-07-01T02:02:32Z","pushedAt":"2026-11-11T13:16:17Z","archived":false,"owner":{"login":"netgoat-xyz","name":"netgoat.xyz","type":"Organization","url":"https://github.com/netgoat-xyz","location":"Myanmar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Dart-Flutter-Learning","nameWithOwner":"OO-PAING/Dart-Flutter-Learning","url":"https://github.com/OO-PAING/Dart-Flutter-Learning","description":null,"stars":0,"forks":0,"primaryLanguage":"Dart","license":null,"createdAt":"2026-05-24T11:23:36Z","pushedAt":"2026-05-26T15:40:31Z","archived":false,"owner":{"login":"OO-PAING","name":"THET PAING SOE","type":"User","url":"https://github.com/OO-PAING","location":"Burma","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"passport-faceid-fingerprint-phonecontact-hostingserver","nameWithOwner":"opensourcefriday/passport-faceid-fingerprint-phonecontact-hostingserver","url":"https://github.com/opensourcefriday/passport-faceid-fingerprint-phonecontact-hostingserver","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"GPL-3.0"},"createdAt":"2020-07-12T22:56:31Z","pushedAt":"2020-07-12T22:56:32Z","archived":false,"owner":{"login":"opensourcefriday","name":null,"type":"User","url":"https://github.com/opensourcefriday","location":"Myanmar(Burma)Naungyoe Street Thaketa Yangon 11231","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "4b7c733c3a873744",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "13bcf07aba8ff480",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

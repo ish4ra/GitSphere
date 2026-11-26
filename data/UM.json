@@ -5,7 +5,7 @@
 "country": {"code":"UM","name":"U.S. Outlying Islands","slug":"u-s-outlying-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":6,"ownerExpansionBacklog":8,"candidates":6,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":29,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":6,"ownerExpansionBacklog":7,"candidates":6,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":29,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Introduccion-al-Desarrollo-de-Programas-con-Java","nameWithOwner":"mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java","url":"https://github.com/mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java","description":null,"stars":2,"forks":0,"primaryLanguage":"Java","license":null,"createdAt":"2017-04-16T18:18:46Z","pushedAt":"2017-11-28T05:35:55Z","archived":false,"owner":{"login":"mijail73","name":"Mijail","type":"User","url":"https://github.com/mijail73","location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Mad-Libs","nameWithOwner":"OgJAkFy8/Mad-Libs","url":"https://github.com/OgJAkFy8/Mad-Libs","description":null,"stars":1,"forks":1,"primaryLanguage":"Python","license":null,"createdAt":"2017-09-15T11:13:33Z","pushedAt":"2025-06-20T11:02:27Z","archived":false,"owner":{"login":"OgJAkFy8","name":"Erik JA","type":"User","url":"https://github.com/OgJAkFy8","location":"Navassa Island","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -14,8 +14,8 @@
   {"rank":5,"id":null,"name":"cokies.xyz","nameWithOwner":"faykhet/cokies.xyz","url":"https://github.com/faykhet/cokies.xyz","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-02-06T12:29:49Z","pushedAt":"2025-02-15T17:37:05Z","archived":false,"owner":{"login":"faykhet","name":"fay","type":"User","url":"https://github.com/faykhet","location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":6,"id":null,"name":"Yinn","nameWithOwner":"IiDxmon/Yinn","url":"https://github.com/IiDxmon/Yinn","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-05-29T10:24:40Z","pushedAt":"2023-05-29T10:24:41Z","archived":false,"owner":{"login":"IiDxmon","name":"Isolated Island Demon 𓄋","type":"User","url":"https://github.com/IiDxmon","location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "82ec758fed82ba05",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "bb3a2ea04ef85549",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

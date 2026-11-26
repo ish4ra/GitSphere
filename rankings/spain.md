@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/ES.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/ES.json">JSON</a> |
 
 </div>
 
@@ -514,35 +514,35 @@
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/IAHispano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IAHispano/Applio"><b>IAHispano/Applio</b></a><br><sub>A simple, high-quality voice conversion tool focused on ease of use and performance.</sub></td>
-<td align="right"><b>4,057</b></td>
-<td align="right">637</td>
+<td align="right"><b>4,079</b></td>
+<td align="right">639</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">72</td>
 <td><img src="https://github.com/mcuadros.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mcuadros/ofelia"><b>mcuadros/ofelia</b></a><br><sub>A docker job scheduler (aka. crontab for docker)</sub></td>
-<td align="right"><b>4,037</b></td>
+<td align="right"><b>4,038</b></td>
 <td align="right">211</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">73</td>
 <td><img src="https://github.com/rebelytics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebelytics/one-skill-to-rule-them-all"><b>rebelytics/one-skill-to-rule-them-all</b></a><br><sub>The meta-skill that improves your skills, including itself. Turns the corrections, judgement calls and repeated workflo…</sub></td>
-<td align="right"><b>3,999</b></td>
-<td align="right">397</td>
+<td align="right"><b>4,028</b></td>
+<td align="right">399</td>
 <td>Markdown</td>
 </tr>
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/mysticaltech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mysticaltech/terraform-hcloud-kube-hetzner"><b>mysticaltech/terraform-hcloud-kube-hetzner</b></a><br><sub>Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</sub></td>
 <td align="right"><b>3,949</b></td>
-<td align="right">557</td>
+<td align="right">556</td>
 <td>HCL</td>
 </tr>
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/a0rtega.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/a0rtega/pafish"><b>a0rtega/pafish</b></a> <sub>archived</sub><br><sub>Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in…</sub></td>
-<td align="right"><b>3,947</b></td>
+<td align="right"><b>3,946</b></td>
 <td align="right">500</td>
 <td>C</td>
 </tr>
@@ -563,8 +563,8 @@
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/pwntester.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pwntester/ysoserial.net"><b>pwntester/ysoserial.net</b></a><br><sub>Deserialization payload generator for a variety of .NET formatters</sub></td>
-<td align="right"><b>3,810</b></td>
-<td align="right">526</td>
+<td align="right"><b>3,812</b></td>
+<td align="right">527</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -584,70 +584,70 @@
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/AtalayaLabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AtalayaLabs/OxiCloud"><b>AtalayaLabs/OxiCloud</b></a><br><sub>☁️ Ultra-fast, secure &amp; lightweight self-hosted cloud storage — your files, photos, calendars &amp; contacts, all in one pl…</sub></td>
-<td align="right"><b>3,739</b></td>
-<td align="right">196</td>
+<td align="right"><b>3,750</b></td>
+<td align="right">200</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/ctubio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ctubio/Krypto-trading-bot"><b>ctubio/Krypto-trading-bot</b></a><br><sub>Self-hosted crypto trading bot (automated high frequency market making) written in C++</sub></td>
-<td align="right"><b>3,735</b></td>
-<td align="right">828</td>
+<td align="right"><b>3,736</b></td>
+<td align="right">827</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/wesammustafa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wesammustafa/Claude-Code-Quest"><b>wesammustafa/Claude-Code-Quest</b></a><br><sub>Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact c…</sub></td>
-<td align="right"><b>3,721</b></td>
-<td align="right">418</td>
+<td align="right"><b>3,729</b></td>
+<td align="right">419</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/dreamingechoes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dreamingechoes/awesome-mental-health"><b>dreamingechoes/awesome-mental-health</b></a><br><sub>A curated list of awesome articles, websites and resources about mental health in the software industry.</sub></td>
-<td align="right"><b>3,696</b></td>
-<td align="right">221</td>
+<td align="right"><b>3,698</b></td>
+<td align="right">222</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/D3Ext.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext/aesthetic-wallpapers</b></a><br><sub>An awesome collection of aesthetic wallpapers</sub></td>
-<td align="right"><b>3,686</b></td>
-<td align="right">176</td>
+<td align="right"><b>3,695</b></td>
+<td align="right">177</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/httptoolkit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/httptoolkit/httptoolkit"><b>httptoolkit/httptoolkit</b></a><br><sub>HTTP Toolkit is a beautiful &amp; open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux &amp; Mac…</sub></td>
-<td align="right"><b>3,677</b></td>
-<td align="right">123</td>
+<td align="right"><b>3,678</b></td>
+<td align="right">124</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/girafe-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/girafe-ai/ml-course"><b>girafe-ai/ml-course</b></a><br><sub>Open Machine Learning course</sub></td>
-<td align="right"><b>3,603</b></td>
+<td align="right"><b>3,604</b></td>
 <td align="right">1,307</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/panzerdp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/panzerdp/voca"><b>panzerdp/voca</b></a><br><sub>The ultimate JavaScript string library</sub></td>
-<td align="right"><b>3,584</b></td>
+<td align="right"><b>3,582</b></td>
 <td align="right">134</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/mrcodedev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrcodedev/frontend-developer-resources"><b>mrcodedev/frontend-developer-resources</b></a><br><sub>Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos</sub></td>
-<td align="right"><b>3,527</b></td>
+<td align="right"><b>3,528</b></td>
 <td align="right">466</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/krakjoe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/krakjoe/pthreads"><b>krakjoe/pthreads</b></a> <sub>archived</sub><br><sub>Threading for PHP - Share Nothing, Do Everything :)</sub></td>
-<td align="right"><b>3,441</b></td>
+<td align="right"><b>3,440</b></td>
 <td align="right">493</td>
 <td>C</td>
 </tr>
@@ -661,65 +661,65 @@
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/pwntester.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pwntester/octo.nvim"><b>pwntester/octo.nvim</b></a><br><sub>Edit and review GitHub issues and pull requests from the comfort of your favorite editor</sub></td>
-<td align="right"><b>3,410</b></td>
-<td align="right">254</td>
+<td align="right"><b>3,411</b></td>
+<td align="right">255</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/marc2332.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marc2332/freya"><b>marc2332/freya</b></a><br><sub>Cross-platform native GUI library for 🦀 Rust</sub></td>
-<td align="right"><b>3,396</b></td>
-<td align="right">156</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">94</td>
 <td><img src="https://github.com/deivid-rodriguez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deivid-rodriguez/byebug"><b>deivid-rodriguez/byebug</b></a><br><sub>Debugging in Ruby</sub></td>
-<td align="right"><b>3,355</b></td>
+<td align="right"><b>3,354</b></td>
 <td align="right">329</td>
 <td>Ruby</td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">94</td>
 <td><img src="https://github.com/aleixrodriala.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aleixrodriala/wa-tunnel"><b>aleixrodriala/wa-tunnel</b></a><br><sub>Tunneling Internet traffic over Whatsapp</sub></td>
-<td align="right"><b>3,346</b></td>
-<td align="right">166</td>
+<td align="right"><b>3,347</b></td>
+<td align="right">165</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">96</td>
+<td align="right">95</td>
 <td><img src="https://github.com/six2dez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/six2dez/OneListForAll"><b>six2dez/OneListForAll</b></a><br><sub>Rockyou for web fuzzing</sub></td>
-<td align="right"><b>3,298</b></td>
+<td align="right"><b>3,300</b></td>
 <td align="right">545</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">96</td>
 <td><img src="https://github.com/moncho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moncho/dry"><b>moncho/dry</b></a><br><sub>dry - A Docker manager for the terminal &#64;</sub></td>
 <td align="right"><b>3,279</b></td>
 <td align="right">104</td>
 <td>Go</td>
 </tr>
 <tr>
+<td align="right">97</td>
+<td><img src="https://github.com/guillermolg00.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/guillermolg00/morphicons"><b>guillermolg00/morphicons</b></a><br><sub>Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 K…</sub></td>
+<td align="right"><b>3,249</b></td>
+<td align="right">101</td>
+<td>TypeScript</td>
+</tr>
+<tr>
 <td align="right">98</td>
 <td><img src="https://github.com/D3Ext.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D3Ext/WEF"><b>D3Ext/WEF</b></a><br><sub>Wi-Fi Exploitation Framework</sub></td>
-<td align="right"><b>3,241</b></td>
+<td align="right"><b>3,245</b></td>
 <td align="right">319</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/guillermolg00.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/guillermolg00/morphicons"><b>guillermolg00/morphicons</b></a><br><sub>Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 K…</sub></td>
-<td align="right"><b>3,239</b></td>
-<td align="right">101</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/TheCruZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheCruZ/kdmapper"><b>TheCruZ/kdmapper</b></a><br><sub>KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory</sub></td>
+<td align="right"><b>3,224</b></td>
+<td align="right">685</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/TheCruZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheCruZ/kdmapper"><b>TheCruZ/kdmapper</b></a><br><sub>KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory</sub></td>
-<td align="right"><b>3,218</b></td>
-<td align="right">679</td>
-<td>C++</td>
+<td><img src="https://github.com/pedroCabrera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pedroCabrera/PyFlow"><b>pedroCabrera/PyFlow</b></a><br><sub>Visual scripting framework for python</sub></td>
+<td align="right"><b>3,206</b></td>
+<td align="right">387</td>
+<td>Python</td>
 </tr>
 </tbody>
 </table>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 3,218 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 3,206 stars; 149 attributed candidates are tracked.
 - 134 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

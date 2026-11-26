@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **12** | 03 Nov 2026 | <a href="../data/AS.json">JSON</a> |
+| 🟠 Stale | **15** | 03 Nov 2026 | <a href="../data/AS.json">JSON</a> |
 
 > **Not yet re-verified.** 3 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -88,20 +88,41 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-java"><b>neoclide/coc-java</b></a><br><sub>Java extension for coc.nvim</sub></td>
+<td align="right"><b>470</b></td>
+<td align="right">42</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/NLPOptimize.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NLPOptimize/flash-tokenizer"><b>NLPOptimize/flash-tokenizer</b></a><br><sub>EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING</sub></td>
+<td align="right"><b>457</b></td>
+<td align="right">11</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-tabnine"><b>neoclide/coc-tabnine</b></a> <sub>archived</sub><br><sub>Tabnine integration of coc.nvim</sub></td>
+<td align="right"><b>456</b></td>
+<td align="right">17</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><img src="https://github.com/breepinkpiggys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/breepinkpiggys/breepinkpiggys"><b>breepinkpiggys/breepinkpiggys</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">14</td>
 <td><img src="https://github.com/https-example.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/https-example/sturdy-octo-tribble"><b>https-example/sturdy-octo-tribble</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">15</td>
 <td><img src="https://github.com/sweetypieredhulk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sweetypieredhulk/sweetypieredhulk"><b>sweetypieredhulk/sweetypieredhulk</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -115,9 +136,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 12 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 0 stars; 15 attributed candidates are tracked.
 - 3 entries were carried over from the previous dataset and are pending revalidation.
-- 52 multi-repository owners are queued for expansion.
+- 51 multi-repository owners are queued for expansion.
 - **Location discovery:** term 4 of 34 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

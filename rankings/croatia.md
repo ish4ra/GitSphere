@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/HR.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/HR.json">JSON</a> |
 
 </div>
 
@@ -73,8 +73,8 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_chat_application"><b>adrianhajdin/project&#95;chat&#95;application</b></a><br><sub>This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real…</sub></td>
-<td align="right"><b>4,127</b></td>
-<td align="right">1,850</td>
+<td align="right"><b>4,128</b></td>
+<td align="right">1,852</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -88,27 +88,27 @@
 <td align="right">10</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/portfolio"><b>adrianhajdin/portfolio</b></a><br><sub>Modern &amp; Minimal JS Mastery Portfolio</sub></td>
 <td align="right"><b>3,660</b></td>
-<td align="right">786</td>
+<td align="right">787</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/Megabit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Megabit/Blazorise"><b>Megabit/Blazorise</b></a><br><sub>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma…</sub></td>
-<td align="right"><b>3,540</b></td>
-<td align="right">532</td>
+<td align="right"><b>3,537</b></td>
+<td align="right">533</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/Source-Robotics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm"><b>Source-Robotics/PAROL6-Desktop-robot-arm</b></a><br><sub>PAROL6: open-source 3D-printed 6-axis desktop robot arm. BOM, STL and STEP files, firmware and build instructions.</sub></td>
-<td align="right"><b>3,498</b></td>
-<td align="right">419</td>
+<td align="right"><b>3,511</b></td>
+<td align="right">420</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/portfolio_website"><b>adrianhajdin/portfolio&#95;website</b></a><br><sub>Tutorial created by Enyel Sequeira, taught by JavaScript Mastery</sub></td>
-<td align="right"><b>3,486</b></td>
+<td align="right"><b>3,487</b></td>
 <td align="right">718</td>
 <td>JavaScript</td>
 </tr>
@@ -116,69 +116,69 @@
 <td align="right">14</td>
 <td><img src="https://github.com/Tinche.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tinche/aiofiles"><b>Tinche/aiofiles</b></a><br><sub>File support for asyncio</sub></td>
 <td align="right"><b>3,273</b></td>
-<td align="right">188</td>
+<td align="right">187</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/banking"><b>adrianhajdin/banking</b></a><br><sub>Horizon is a modern banking platform for everyone.</sub></td>
-<td align="right"><b>3,250</b></td>
+<td align="right"><b>3,251</b></td>
 <td align="right">1,011</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/teamtnt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/teamtnt/tntsearch"><b>teamtnt/tntsearch</b></a><br><sub>A fully featured full text search engine written in PHP</sub></td>
-<td align="right"><b>3,199</b></td>
+<td align="right"><b>3,198</b></td>
 <td align="right">295</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_syncfusion_dashboard"><b>adrianhajdin/project&#95;syncfusion&#95;dashboard</b></a><br><sub>This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an a…</sub></td>
-<td align="right"><b>3,118</b></td>
+<td align="right"><b>3,119</b></td>
 <td align="right">1,061</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing"><b>adrianhajdin/project&#95;next&#95;14&#95;ai&#95;prompt&#95;sharing</b></a><br><sub>Next.js recently became the official React framework as outlined in React docs. In this course, you&#39;ll learn the most i…</sub></td>
-<td align="right"><b>2,955</b></td>
+<td align="right"><b>2,956</b></td>
 <td align="right">432</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/healthcare"><b>adrianhajdin/healthcare</b></a><br><sub>Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and lea…</sub></td>
-<td align="right"><b>2,710</b></td>
-<td align="right">768</td>
+<td align="right"><b>2,709</b></td>
+<td align="right">767</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_hoobank"><b>adrianhajdin/project&#95;hoobank</b></a><br><sub>Modern UI/UX website using React.js &amp; Tailwind CSS</sub></td>
 <td align="right"><b>2,613</b></td>
-<td align="right">899</td>
+<td align="right">898</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/stamparm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stamparm/ipsum"><b>stamparm/ipsum</b></a><br><sub>Daily feed of bad IPs (with blacklist hit scores)</sub></td>
-<td align="right"><b>2,417</b></td>
-<td align="right">182</td>
+<td align="right"><b>2,421</b></td>
+<td align="right">181</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/aora"><b>adrianhajdin/aora</b></a><br><sub>Build your first mobile application</sub></td>
 <td align="right"><b>2,366</b></td>
-<td align="right">437</td>
+<td align="right">436</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/ecommerce_sanity_stripe"><b>adrianhajdin/ecommerce&#95;sanity&#95;stripe</b></a><br><sub>Modern Full Stack ECommerce Application with Stripe</sub></td>
-<td align="right"><b>2,314</b></td>
+<td align="right"><b>2,315</b></td>
 <td align="right">694</td>
 <td>JavaScript</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 759 stars; 147 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 759 stars; 150 attributed candidates are tracked.
 - 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

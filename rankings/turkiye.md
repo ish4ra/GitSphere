@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/TR.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/TR.json">JSON</a> |
 
 </div>
 
@@ -248,22 +248,22 @@
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/reisxd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/reisxd/TizenTubeCobalt"><b>reisxd/TizenTubeCobalt</b></a><br><sub>Experience TizenTube on other devices that are not Tizen.</sub></td>
-<td align="right"><b>3,624</b></td>
-<td align="right">210</td>
+<td align="right"><b>3,643</b></td>
+<td align="right">212</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/ardatan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ardatan/graphql-mesh"><b>ardatan/graphql-mesh</b></a><br><sub>🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...</sub></td>
-<td align="right"><b>3,517</b></td>
-<td align="right">361</td>
+<td align="right"><b>3,516</b></td>
+<td align="right">360</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/xdan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xdan/datetimepicker"><b>xdan/datetimepicker</b></a><br><sub>jQuery Plugin Date and Time Picker</sub></td>
-<td align="right"><b>3,480</b></td>
-<td align="right">1,466</td>
+<td align="right"><b>3,479</b></td>
+<td align="right">1,465</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -283,7 +283,7 @@
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/ignis-sec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ignis-sec/Pwdb-Public"><b>ignis-sec/Pwdb-Public</b></a><br><sub>A collection of all the data i could extract from 1 billion leaked credentials from internet.</sub></td>
-<td align="right"><b>3,309</b></td>
+<td align="right"><b>3,310</b></td>
 <td align="right">417</td>
 <td>—</td>
 </tr>
@@ -297,64 +297,64 @@
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/aspnetrun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aspnetrun/run-aspnetcore-microservices"><b>aspnetrun/run-aspnetcore-microservices</b></a><br><sub>Microservices on .NET platforms used ASP.NET Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL…</sub></td>
-<td align="right"><b>3,276</b></td>
+<td align="right"><b>3,278</b></td>
 <td align="right">1,736</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">41</td>
-<td><img src="https://github.com/KhazP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KhazP/vibe-coding-prompt-template"><b>KhazP/vibe-coding-prompt-template</b></a><br><sub>Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs</sub></td>
-<td align="right"><b>3,269</b></td>
-<td align="right">392</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/athasdev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/athasdev/athas"><b>athasdev/athas</b></a><br><sub>A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents,…</sub></td>
+<td align="right"><b>3,278</b></td>
+<td align="right">269</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/athasdev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/athasdev/athas"><b>athasdev/athas</b></a><br><sub>A lightweight, cross-platform code editor, written in Rust and drawn by the GPU with GPUI, with Git support, AI agents,…</sub></td>
-<td align="right"><b>3,213</b></td>
-<td align="right">266</td>
-<td>Rust</td>
+<td><img src="https://github.com/KhazP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KhazP/vibe-coding-prompt-template"><b>KhazP/vibe-coding-prompt-template</b></a><br><sub>Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs</sub></td>
+<td align="right"><b>3,273</b></td>
+<td align="right">393</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/korcankaraokcu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/korcankaraokcu/PINCE"><b>korcankaraokcu/PINCE</b></a><br><sub>Reverse engineering tool for Linux</sub></td>
-<td align="right"><b>3,154</b></td>
+<td align="right"><b>3,157</b></td>
 <td align="right">193</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/halilb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/halilb/react-native-textinput-effects"><b>halilb/react-native-textinput-effects</b></a><br><sub>Text inputs with custom label and icon animations for iOS and android. Built with react native and inspired by Codrops.</sub></td>
-<td align="right"><b>2,975</b></td>
-<td align="right">287</td>
+<td align="right"><b>2,973</b></td>
+<td align="right">286</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">45</td>
+<td><img src="https://github.com/sarpstar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sarpstar/cinecode"><b>sarpstar/cinecode</b></a><br><sub>Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the…</sub></td>
+<td align="right"><b>2,960</b></td>
+<td align="right">502</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">46</td>
 <td><img src="https://github.com/pankod.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pankod/superplate"><b>pankod/superplate</b></a><br><sub>A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React…</sub></td>
-<td align="right"><b>2,893</b></td>
+<td align="right"><b>2,892</b></td>
 <td align="right">155</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">46</td>
-<td><img src="https://github.com/sarpstar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sarpstar/cinecode"><b>sarpstar/cinecode</b></a><br><sub>Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the…</sub></td>
-<td align="right"><b>2,874</b></td>
-<td align="right">488</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">47</td>
 <td><img src="https://github.com/hsnaydd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hsnaydd/moveTo"><b>hsnaydd/moveTo</b></a><br><sub>A lightweight scroll animation javascript library without any dependency</sub></td>
-<td align="right"><b>2,851</b></td>
+<td align="right"><b>2,850</b></td>
 <td align="right">92</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/FurkanGozukara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FurkanGozukara/Stable-Diffusion"><b>FurkanGozukara/Stable-Diffusion</b></a><br><sub>FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFa…</sub></td>
-<td align="right"><b>2,785</b></td>
-<td align="right">376</td>
+<td align="right"><b>2,786</b></td>
+<td align="right">375</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
@@ -367,30 +367,30 @@
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/sarperavci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sarperavci/CloudflareBypassForScraping"><b>sarperavci/CloudflareBypassForScraping</b></a><br><sub>A cloudflare verification bypass script for webscraping</sub></td>
-<td align="right"><b>2,653</b></td>
-<td align="right">388</td>
+<td align="right"><b>2,657</b></td>
+<td align="right">387</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/mewebstudio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mewebstudio/captcha"><b>mewebstudio/captcha</b></a><br><sub>Captcha for Laravel 5+</sub></td>
-<td align="right"><b>2,590</b></td>
+<td align="right"><b>2,589</b></td>
 <td align="right">462</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">52</td>
+<td><img src="https://github.com/reisxd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/reisxd/TizenTube"><b>reisxd/TizenTube</b></a><br><sub>A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.</sub></td>
+<td align="right"><b>2,589</b></td>
+<td align="right">264</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
 <td><img src="https://github.com/tezc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tezc/sc"><b>tezc/sc</b></a><br><sub>Common libraries and data structures for C.</sub></td>
 <td align="right"><b>2,579</b></td>
 <td align="right">299</td>
 <td>C</td>
-</tr>
-<tr>
-<td align="right">53</td>
-<td><img src="https://github.com/reisxd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/reisxd/TizenTube"><b>reisxd/TizenTube</b></a><br><sub>A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.</sub></td>
-<td align="right"><b>2,569</b></td>
-<td align="right">257</td>
-<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">54</td>
@@ -403,28 +403,28 @@
 <td align="right">55</td>
 <td><img src="https://github.com/gkngkc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gkngkc/UnityStandaloneFileBrowser"><b>gkngkc/UnityStandaloneFileBrowser</b></a><br><sub>A native file browser for unity standalone platforms</sub></td>
 <td align="right"><b>2,459</b></td>
-<td align="right">366</td>
+<td align="right">365</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">56</td>
+<td><img src="https://github.com/Taiizor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Taiizor/ReaLTaiizor"><b>Taiizor/ReaLTaiizor</b></a><br><sub>ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-f…</sub></td>
+<td align="right"><b>2,436</b></td>
+<td align="right">359</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">57</td>
 <td><img src="https://github.com/ademilter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ademilter/bricklayer"><b>ademilter/bricklayer</b></a><br><sub>Lightweight and independent Pinterest-like cascading grid layout library</sub></td>
 <td align="right"><b>2,436</b></td>
 <td align="right">116</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">57</td>
-<td><img src="https://github.com/Taiizor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Taiizor/ReaLTaiizor"><b>Taiizor/ReaLTaiizor</b></a><br><sub>ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-f…</sub></td>
-<td align="right"><b>2,434</b></td>
-<td align="right">358</td>
-<td>C#</td>
-</tr>
-<tr>
 <td align="right">58</td>
 <td><img src="https://github.com/deeplearningturkiye.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari"><b>deeplearningturkiye/turkce-yapay-zeka-kaynaklari</b></a><br><sub>Türkiye&#39;de yapılan derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) çalışmalarının derlendiği sayfa.</sub></td>
 <td align="right"><b>2,431</b></td>
-<td align="right">440</td>
+<td align="right">439</td>
 <td>—</td>
 </tr>
 <tr>
@@ -444,51 +444,51 @@
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/agmmnn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/agmmnn/tauri-ui"><b>agmmnn/tauri-ui</b></a><br><sub>🦀 Tauri + shadcn/ui desktop app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js…</sub></td>
-<td align="right"><b>2,348</b></td>
+<td align="right"><b>2,352</b></td>
 <td align="right">138</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">62</td>
 <td><img src="https://github.com/onury.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onury/accesscontrol"><b>onury/accesscontrol</b></a><br><sub>Role and Attribute based Access Control for Node.js</sub></td>
-<td align="right"><b>2,330</b></td>
+<td align="right"><b>2,329</b></td>
 <td align="right">182</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/owerdogan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/owerdogan/whoami-project"><b>owerdogan/whoami-project</b></a><br><sub>Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions</sub></td>
-<td align="right"><b>2,328</b></td>
+<td align="right"><b>2,327</b></td>
 <td align="right">195</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/Tasshack.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tasshack/dreame-vacuum"><b>Tasshack/dreame-vacuum</b></a><br><sub>Home Assistant integration for Dreame robot vacuums with map support</sub></td>
-<td align="right"><b>2,314</b></td>
-<td align="right">333</td>
+<td align="right"><b>2,321</b></td>
+<td align="right">334</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/huseyinbabal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/huseyinbabal/taws"><b>huseyinbabal/taws</b></a><br><sub>Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager</sub></td>
-<td align="right"><b>2,266</b></td>
+<td align="right"><b>2,268</b></td>
 <td align="right">71</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">66</td>
-<td><img src="https://github.com/f.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/f/graphql.js"><b>f/graphql.js</b></a><br><sub>A Simple and Isomorphic GraphQL Client for JavaScript</sub></td>
-<td align="right"><b>2,259</b></td>
-<td align="right">87</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">67</td>
 <td><img src="https://github.com/TolgaTatli.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TolgaTatli/Moon"><b>TolgaTatli/Moon</b></a><br><sub>🌓 Moon is a minimal, one column jekyll theme.</sub></td>
 <td align="right"><b>2,258</b></td>
 <td align="right">1,937</td>
 <td>HTML</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/f.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/f/graphql.js"><b>f/graphql.js</b></a><br><sub>A Simple and Isomorphic GraphQL Client for JavaScript</sub></td>
+<td align="right"><b>2,258</b></td>
+<td align="right">87</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">68</td>

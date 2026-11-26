@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/PE.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/PE.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/ivandevp"><img src="https://avatars.githubusercontent.com/u/9284690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivandevp"><b>Ivan Medina</b></a><br><sub>&#64;ivandevp · 268 followers</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">150</td>
+<td align="right">136</td>
+<td align="right">41</td>
+<td align="right">37</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/jorgejacinto9701"><img src="https://avatars.githubusercontent.com/u/18623184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorgejacinto9701"><b>jorge jacinto gutarra</b></a><br><sub>&#64;jorgejacinto9701 · 323 followers</sub></td>
 <td align="right"><b>309</b></td>
 <td align="right">262</td>
@@ -96,7 +105,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
+<td><a href="https://github.com/programacionparaaprender"><img src="https://avatars.githubusercontent.com/u/8290696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/programacionparaaprender"><b>Programación para aprender</b></a><br><sub>&#64;programacionparaaprender · 323 followers</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">222</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/gcoronelc"><img src="https://avatars.githubusercontent.com/u/3131952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gcoronelc"><b>Eric Gustavo Coronel Castillo</b></a><br><sub>&#64;gcoronelc · 321 followers</sub></td>
 <td align="right"><b>200</b></td>
 <td align="right">185</td>
@@ -105,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><a href="https://github.com/mario21ic"><img src="https://avatars.githubusercontent.com/u/737948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mario21ic"><b>Mario IC</b></a><br><sub>&#64;mario21ic · 151 followers</sub></td>
 <td align="right"><b>186</b></td>
 <td align="right">175</td>
@@ -114,7 +132,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
+<td><a href="https://github.com/GorkyFlorez"><img src="https://avatars.githubusercontent.com/u/83134240?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GorkyFlorez"><b>Gorky</b></a><br><sub>&#64;GorkyFlorez · 107 followers</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">73</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/alexmarinmendez"><img src="https://avatars.githubusercontent.com/u/77815088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexmarinmendez"><b>Alex Marin Mendez</b></a><br><sub>&#64;alexmarinmendez · 176 followers</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">69</td>
@@ -129,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 459 discovered developers (448 awaiting measurement).
+- **Measured:** 14 of 464 discovered developers (450 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 118 in round 1.

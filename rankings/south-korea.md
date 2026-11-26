@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/KR.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/KR.json">JSON</a> |
 
 </div>
 
@@ -479,21 +479,21 @@
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/edwardkim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edwardkim/rhwp"><b>edwardkim/rhwp</b></a><br><sub>아래한글 hwp viewer and editor by rust and wasm</sub></td>
-<td align="right"><b>4,155</b></td>
-<td align="right">809</td>
+<td align="right"><b>4,170</b></td>
+<td align="right">811</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/matt1398.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matt1398/claude-devtools"><b>matt1398/claude-devtools</b></a><br><sub>The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in…</sub></td>
-<td align="right"><b>4,052</b></td>
-<td align="right">315</td>
+<td align="right"><b>4,057</b></td>
+<td align="right">316</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/jinwchoi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jinwchoi/awesome-action-recognition"><b>jinwchoi/awesome-action-recognition</b></a><br><sub>A curated list of action recognition and related area resources</sub></td>
-<td align="right"><b>4,047</b></td>
+<td align="right"><b>4,048</b></td>
 <td align="right">718</td>
 <td>—</td>
 </tr>
@@ -507,35 +507,35 @@
 <tr>
 <td align="right">70</td>
 <td><img src="https://github.com/code-yeongyu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/code-yeongyu/lazycodex"><b>code-yeongyu/lazycodex</b></a><br><sub>The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion insi…</sub></td>
-<td align="right"><b>3,941</b></td>
-<td align="right">254</td>
+<td align="right"><b>3,946</b></td>
+<td align="right">253</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/andabi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andabi/deep-voice-conversion"><b>andabi/deep-voice-conversion</b></a><br><sub>Deep neural networks for voice conversion (voice style transfer) in Tensorflow</sub></td>
 <td align="right"><b>3,940</b></td>
-<td align="right">819</td>
+<td align="right">818</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">72</td>
+<td><img src="https://github.com/graykode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/graykode/abtop"><b>graykode/abtop</b></a><br><sub>Like htop, but for AI coding agents. Monitor Claude Code &amp; Codex CLI sessions, tokens, context window, rate limits, and…</sub></td>
+<td align="right"><b>3,881</b></td>
+<td align="right">349</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">73</td>
 <td><img src="https://github.com/dl0312.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dl0312/open-apis-korea"><b>dl0312/open-apis-korea</b></a><br><sub>🇰🇷 한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음</sub></td>
-<td align="right"><b>3,872</b></td>
+<td align="right"><b>3,874</b></td>
 <td align="right">420</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">73</td>
-<td><img src="https://github.com/graykode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/graykode/abtop"><b>graykode/abtop</b></a><br><sub>Like htop, but for AI coding agents. Monitor Claude Code &amp; Codex CLI sessions, tokens, context window, rate limits, and…</sub></td>
-<td align="right"><b>3,872</b></td>
-<td align="right">350</td>
-<td>Rust</td>
-</tr>
-<tr>
 <td align="right">74</td>
 <td><img src="https://github.com/mingrammer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mingrammer/go-web-framework-stars"><b>mingrammer/go-web-framework-stars</b></a><br><sub>:star: Web frameworks for Go, most starred on GitHub</sub></td>
-<td align="right"><b>3,849</b></td>
+<td align="right"><b>3,850</b></td>
 <td align="right">261</td>
 <td>Go</td>
 </tr>
@@ -556,49 +556,49 @@
 <tr>
 <td align="right">77</td>
 <td><img src="https://github.com/baeharam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baeharam/Must-Know-About-Frontend"><b>baeharam/Must-Know-About-Frontend</b></a><br><sub>:mortar&#95;board: 취준생이라면 알면 좋을 프론트엔드 관련 지식들</sub></td>
-<td align="right"><b>3,671</b></td>
-<td align="right">573</td>
+<td align="right"><b>3,669</b></td>
+<td align="right">572</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/orioncactus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orioncactus/pretendard"><b>orioncactus/pretendard</b></a><br><sub>어느 플랫폼에서든 사용할 수 있는 system-ui 대체 글꼴 &#124; A system-ui alternative font for all cross-platform</sub></td>
-<td align="right"><b>3,664</b></td>
+<td align="right"><b>3,669</b></td>
 <td align="right">215</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/ssut.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ssut/payload-dumper-go"><b>ssut/payload-dumper-go</b></a><br><sub>an android OTA payload dumper written in Go</sub></td>
-<td align="right"><b>3,639</b></td>
+<td align="right"><b>3,645</b></td>
 <td align="right">302</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/awesome-devblog.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/awesome-devblog/awesome-devblog"><b>awesome-devblog/awesome-devblog</b></a><br><sub>어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).</sub></td>
-<td align="right"><b>3,584</b></td>
+<td align="right"><b>3,583</b></td>
 <td align="right">739</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/cruisediary.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cruisediary/Pastel"><b>cruisediary/Pastel</b></a><br><sub>🎨 Gradient animation effect like Instagram</sub></td>
-<td align="right"><b>3,514</b></td>
+<td align="right"><b>3,513</b></td>
 <td align="right">186</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/vozlt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vozlt/nginx-module-vts"><b>vozlt/nginx-module-vts</b></a><br><sub>Nginx virtual host traffic status module</sub></td>
-<td align="right"><b>3,505</b></td>
+<td align="right"><b>3,506</b></td>
 <td align="right">487</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/leehosung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leehosung/awesome-devteam"><b>leehosung/awesome-devteam</b></a><br><sub>좋은 개발팀을 만드는데 도움이 되는 자료</sub></td>
-<td align="right"><b>3,392</b></td>
+<td align="right"><b>3,393</b></td>
 <td align="right">290</td>
 <td>—</td>
 </tr>
@@ -619,7 +619,7 @@
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/OvenMediaLabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OvenMediaLabs/OvenMediaEngine"><b>OvenMediaLabs/OvenMediaEngine</b></a><br><sub>OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS</sub></td>
-<td align="right"><b>3,308</b></td>
+<td align="right"><b>3,309</b></td>
 <td align="right">1,148</td>
 <td>C++</td>
 </tr>
@@ -633,70 +633,70 @@
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/graykode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/graykode/nlp-roadmap"><b>graykode/nlp-roadmap</b></a><br><sub>ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP</sub></td>
-<td align="right"><b>3,266</b></td>
+<td align="right"><b>3,267</b></td>
 <td align="right">511</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/minar09.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/minar09/awesome-virtual-try-on"><b>minar09/awesome-virtual-try-on</b></a><br><sub>A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.</sub></td>
-<td align="right"><b>3,230</b></td>
+<td align="right"><b>3,233</b></td>
 <td align="right">378</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/hyochan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hyochan/react-native-iap"><b>hyochan/react-native-iap</b></a> <sub>archived</sub><br><sub>Moved to the OpenIAP monorepo: github.com/hyodotdev/openiap (libraries/react-native-iap). In App Purchase module for Re…</sub></td>
-<td align="right"><b>3,219</b></td>
-<td align="right">684</td>
+<td align="right"><b>3,221</b></td>
+<td align="right">683</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/kciter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kciter/qart.js"><b>kciter/qart.js</b></a><br><sub>Generate artistic QR code. 🎨</sub></td>
-<td align="right"><b>3,186</b></td>
+<td align="right"><b>3,187</b></td>
 <td align="right">176</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/naver.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/naver/mast3r"><b>naver/mast3r</b></a><br><sub>Grounding Image Matching in 3D with MASt3R</sub></td>
-<td align="right"><b>3,174</b></td>
-<td align="right">296</td>
+<td align="right"><b>3,177</b></td>
+<td align="right">295</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/kyujin-cho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyujin-cho/pixel-volte-patch"><b>kyujin-cho/pixel-volte-patch</b></a><br><sub>Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch</sub></td>
-<td align="right"><b>3,126</b></td>
-<td align="right">232</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/Yeachan-Heo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yeachan-Heo/gajae-code"><b>Yeachan-Heo/gajae-code</b></a><br><sub>Gajae Code MVP</sub></td>
-<td align="right"><b>3,119</b></td>
-<td align="right">442</td>
+<td><img src="https://github.com/chrisryugj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chrisryugj/kordoc"><b>chrisryugj/kordoc</b></a><br><sub>📄 한국 공문서를 AI가 읽고 쓰게 합니다. HWP·HWPX·PDF·오피스·스캔 이미지를 Markdown으로, Markdown을 HWPX 공문서로 바꾸고 양식 채우기·신구대조·서식 보존 편집까지. 라이브러리·CL…</sub></td>
+<td align="right"><b>3,134</b></td>
+<td align="right">545</td>
 <td>TypeScript</td>
 </tr>
 <tr>
+<td align="right">94</td>
+<td><img src="https://github.com/kyujin-cho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyujin-cho/pixel-volte-patch"><b>kyujin-cho/pixel-volte-patch</b></a><br><sub>Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch</sub></td>
+<td align="right"><b>3,131</b></td>
+<td align="right">233</td>
+<td>Kotlin</td>
+</tr>
+<tr>
 <td align="right">95</td>
-<td><img src="https://github.com/chrisryugj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chrisryugj/kordoc"><b>chrisryugj/kordoc</b></a><br><sub>📄 한국 공문서를 AI가 읽고 쓰게 합니다. HWP·HWPX·PDF·오피스·스캔 이미지를 Markdown으로, Markdown을 HWPX 공문서로 바꾸고 양식 채우기·신구대조·서식 보존 편집까지. 라이브러리·CL…</sub></td>
-<td align="right"><b>3,106</b></td>
-<td align="right">536</td>
+<td><img src="https://github.com/Yeachan-Heo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yeachan-Heo/gajae-code"><b>Yeachan-Heo/gajae-code</b></a><br><sub>Gajae Code MVP</sub></td>
+<td align="right"><b>3,120</b></td>
+<td align="right">445</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">96</td>
 <td><img src="https://github.com/kewlbear.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kewlbear/FFmpeg-iOS-build-script"><b>kewlbear/FFmpeg-iOS-build-script</b></a><br><sub>Shell scripts to build FFmpeg for iOS and tvOS</sub></td>
-<td align="right"><b>3,096</b></td>
+<td align="right"><b>3,097</b></td>
 <td align="right">889</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/mahlernim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mahlernim/google-timeline-visualizer"><b>mahlernim/google-timeline-visualizer</b></a><br><sub>Visualize your year in travel using your Google Location History (Timeline) data</sub></td>
-<td align="right"><b>3,073</b></td>
+<td align="right"><b>3,075</b></td>
 <td align="right">416</td>
 <td>Kotlin</td>
 </tr>
@@ -711,14 +711,14 @@
 <td align="right">99</td>
 <td><img src="https://github.com/qwopqwop200.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qwopqwop200/GPTQ-for-LLaMa"><b>qwopqwop200/GPTQ-for-LLaMa</b></a><br><sub>4 bits quantization of LLaMA using GPTQ</sub></td>
 <td align="right"><b>3,069</b></td>
-<td align="right">446</td>
+<td align="right">445</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/Kyubyong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kyubyong/nlp_tasks"><b>Kyubyong/nlp&#95;tasks</b></a><br><sub>Natural Language Processing Tasks and References</sub></td>
 <td align="right"><b>3,011</b></td>
-<td align="right">533</td>
+<td align="right">532</td>
 <td>—</td>
 </tr>
 </tbody>

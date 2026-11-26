@@ -5,7 +5,7 @@
 "country": {"code":"TV","name":"Tuvalu","slug":"tuvalu"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":20,"ownerExpansionBacklog":22,"candidates":20,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":20,"ownerExpansionBacklog":21,"candidates":20,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":21,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"http2socks5","nameWithOwner":"Bubblingo0/http2socks5","url":"https://github.com/Bubblingo0/http2socks5","description":null,"stars":1,"forks":0,"primaryLanguage":"C++","license":null,"createdAt":"2019-12-11T11:39:35Z","pushedAt":"2019-12-11T11:46:20Z","archived":false,"owner":{"login":"Bubblingo0","name":null,"type":"User","url":"https://github.com/Bubblingo0","location":"Tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ModernMaps","nameWithOwner":"CasualModernPGM/ModernMaps","url":"https://github.com/CasualModernPGM/ModernMaps","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-12-27T19:03:28Z","pushedAt":"2026-04-08T17:45:29Z","archived":false,"owner":{"login":"CasualModernPGM","name":"Casual Modern PGM","type":"Organization","url":"https://github.com/CasualModernPGM","location":"Tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -28,8 +28,8 @@
   {"rank":19,"id":null,"name":"UltraMiner-Max","nameWithOwner":"temapr0/UltraMiner-Max","url":"https://github.com/temapr0/UltraMiner-Max","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-12-26T10:18:21Z","pushedAt":"2026-03-26T13:26:12Z","archived":false,"owner":{"login":"temapr0","name":null,"type":"User","url":"https://github.com/temapr0","location":"Tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":20,"id":null,"name":"weltkindpoka","nameWithOwner":"weltkindpoka/weltkindpoka","url":"https://github.com/weltkindpoka/weltkindpoka","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-22T21:27:52Z","pushedAt":"2024-09-22T21:28:04Z","archived":false,"owner":{"login":"weltkindpoka","name":null,"type":"User","url":"https://github.com/weltkindpoka","location":"Tuvalu (TV)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "6d62edab5d81ec67",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "f934c811db72eb88",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

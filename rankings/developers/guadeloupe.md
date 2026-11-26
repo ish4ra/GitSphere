@@ -81,7 +81,7 @@
 <td align="right">9</td>
 <td><a href="https://github.com/sboli"><img src="https://avatars.githubusercontent.com/u/984240?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sboli"><b>Bolivar Stephen</b></a><br><sub>&#64;sboli</sub></td>
 <td align="right"><b>14</b></td>
-<td align="right">26</td>
+<td align="right">27</td>
 <td><sub>Guadeloupe</sub></td>
 </tr>
 <tr>

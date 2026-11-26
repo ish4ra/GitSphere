@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **56** | 22 Nov 2026 | <a href="../data/IR.json">JSON</a> |
+| 🟡 Provisional | **68** | 23 Nov 2026 | <a href="../data/IR.json">JSON</a> |
 
 </div>
 
@@ -52,8 +52,8 @@
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/IRNova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IRNova/NovaWorker"><b>IRNova/NovaWorker</b></a><br><sub>Nova — A self-hosted Cloudflare Worker proxy with a web panel, subscription management, and Telegram bot integration.</sub></td>
-<td align="right"><b>3,457</b></td>
-<td align="right">838</td>
+<td align="right"><b>3,459</b></td>
+<td align="right">837</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -413,6 +413,90 @@
 <td align="right">14</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/AhmadRafiee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadRafiee/Docker_training_with_DockerMe"><b>AhmadRafiee/Docker&#95;training&#95;with&#95;DockerMe</b></a><br><sub>The tools and sample needed to learn the Docker</sub></td>
+<td align="right"><b>507</b></td>
+<td align="right">59</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/ircfspace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ircfspace/warpkey"><b>ircfspace/warpkey</b></a> <sub>archived</sub><br><sub>WARP+ Keys Collector</sub></td>
+<td align="right"><b>494</b></td>
+<td align="right">123</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/Incognito-Coder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Incognito-Coder/tx-ui"><b>Incognito-Coder/tx-ui</b></a><br><sub>Advanced Xray Panel Support Multi Protocols</sub></td>
+<td align="right"><b>492</b></td>
+<td align="right">91</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/hkalbasi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hkalbasi/zngur"><b>hkalbasi/zngur</b></a><br><sub>A C++/Rust interop tool</sub></td>
+<td align="right"><b>486</b></td>
+<td align="right">25</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/erfanmola.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/erfanmola/DontAskToAsk"><b>erfanmola/DontAskToAsk</b></a><br><sub>Practical, multilingual guides to asking clear questions, giving useful answers, sharing solutions, and choosing progra…</sub></td>
+<td align="right"><b>471</b></td>
+<td align="right">13</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/AzadNetCH.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AzadNetCH/Clash"><b>AzadNetCH/Clash</b></a><br><sub>Free ShadowSocks &amp; V2ray Config</sub></td>
+<td align="right"><b>464</b></td>
+<td align="right">56</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/mnwato.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mnwato/tradingview-scraper"><b>mnwato/tradingview-scraper</b></a><br><sub>This is a tool to scrape everything on https://tradingview.com &lt;Thank to contributers&gt;</sub></td>
+<td align="right"><b>457</b></td>
+<td align="right">106</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/ultrasecurity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ultrasecurity/TeleKiller"><b>ultrasecurity/TeleKiller</b></a><br><sub>A Tools Session Hijacking And Stealer Local Passcode Telegram Windows</sub></td>
+<td align="right"><b>456</b></td>
+<td align="right">103</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/ErfanRht.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ErfanRht/MovieLab"><b>ErfanRht/MovieLab</b></a><br><sub>An open source movie tracker and movie finder.</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">103</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/macan-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/macan-dev/EasySNI"><b>macan-dev/EasySNI</b></a><br><sub>Bypass censorships using Go Lang</sub></td>
+<td align="right"><b>453</b></td>
+<td align="right">84</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/a-shygun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/a-shygun/Terrascope"><b>a-shygun/Terrascope</b></a><br><sub>Braille-rendered terminal world map with live weather, aircraft, earthquakes, and day/night layers.</sub></td>
+<td align="right"><b>453</b></td>
+<td align="right">21</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/HirbodBehnam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HirbodBehnam/Shadowsocks-Cloak-Installer"><b>HirbodBehnam/Shadowsocks-Cloak-Installer</b></a><br><sub>A one-key script to setup Cloak plugin with Shadowsocks on your server</sub></td>
+<td align="right"><b>452</b></td>
+<td align="right">96</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -421,8 +505,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 510 stars; 56 attributed candidates are tracked.
-- 120 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 452 stars; 68 attributed candidates are tracked.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

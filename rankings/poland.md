@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/PL.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/PL.json">JSON</a> |
 
 </div>
 
@@ -570,15 +570,15 @@
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/owu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/owu/wsl-dashboard"><b>owu/wsl-dashboard</b></a><br><sub>A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL insta…</sub></td>
-<td align="right"><b>4,142</b></td>
-<td align="right">192</td>
+<td align="right"><b>4,156</b></td>
+<td align="right">193</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/bblimke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bblimke/webmock"><b>bblimke/webmock</b></a><br><sub>Library for stubbing and setting expectations on HTTP requests in Ruby.</sub></td>
 <td align="right"><b>4,047</b></td>
-<td align="right">590</td>
+<td align="right">588</td>
 <td>Ruby</td>
 </tr>
 <tr>
@@ -591,8 +591,8 @@
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/hasherezade.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hasherezade/pe-sieve"><b>hasherezade/pe-sieve</b></a><br><sub>Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellco…</sub></td>
-<td align="right"><b>3,949</b></td>
-<td align="right">493</td>
+<td align="right"><b>3,959</b></td>
+<td align="right">494</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -605,7 +605,7 @@
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/hasherezade.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hasherezade/pe-bear"><b>hasherezade/pe-bear</b></a><br><sub>Portable Executable reversing tool with a friendly GUI</sub></td>
-<td align="right"><b>3,898</b></td>
+<td align="right"><b>3,900</b></td>
 <td align="right">251</td>
 <td>C++</td>
 </tr>
@@ -618,24 +618,24 @@
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/trimstray.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trimstray/htrace.sh"><b>trimstray/htrace.sh</b></a><br><sub>My simple Swiss Army knife for http/https troubleshooting and profiling.</sub></td>
-<td align="right"><b>3,865</b></td>
-<td align="right">246</td>
-<td>Shell</td>
+<td><img src="https://github.com/notscuffed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/notscuffed/repkg"><b>notscuffed/repkg</b></a><br><sub>Wallpaper engine PKG extractor/TEX to image converter</sub></td>
+<td align="right"><b>3,875</b></td>
+<td align="right">301</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/fcambus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fcambus/nginx-resources"><b>fcambus/nginx-resources</b></a><br><sub>A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine</sub></td>
-<td align="right"><b>3,864</b></td>
+<td align="right"><b>3,869</b></td>
 <td align="right">330</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/notscuffed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/notscuffed/repkg"><b>notscuffed/repkg</b></a><br><sub>Wallpaper engine PKG extractor/TEX to image converter</sub></td>
-<td align="right"><b>3,863</b></td>
-<td align="right">301</td>
-<td>C#</td>
+<td><img src="https://github.com/trimstray.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trimstray/htrace.sh"><b>trimstray/htrace.sh</b></a><br><sub>My simple Swiss Army knife for http/https troubleshooting and profiling.</sub></td>
+<td align="right"><b>3,865</b></td>
+<td align="right">246</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">89</td>
@@ -647,42 +647,42 @@
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/kirillzyusko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kirillzyusko/react-native-keyboard-controller"><b>kirillzyusko/react-native-keyboard-controller</b></a><br><sub>⌨️ Keyboard manager which works in identical way on both iOS and Android</sub></td>
-<td align="right"><b>3,763</b></td>
-<td align="right">229</td>
+<td align="right"><b>3,764</b></td>
+<td align="right">231</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/software-mansion.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/software-mansion/react-native-screens"><b>software-mansion/react-native-screens</b></a><br><sub>Native navigation primitives for your React Native app.</sub></td>
 <td align="right"><b>3,756</b></td>
-<td align="right">797</td>
+<td align="right">801</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/mciastek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mciastek/sal"><b>mciastek/sal</b></a><br><sub>🚀 Performance focused, lightweight scroll animation library 🚀</sub></td>
-<td align="right"><b>3,693</b></td>
+<td align="right"><b>3,694</b></td>
 <td align="right">170</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">93</td>
 <td><img src="https://github.com/oskardudycz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oskardudycz/EventSourcing.NetCore"><b>oskardudycz/EventSourcing.NetCore</b></a><br><sub>Examples and Tutorials of Event Sourcing in .NET</sub></td>
-<td align="right"><b>3,683</b></td>
+<td align="right"><b>3,687</b></td>
 <td align="right">545</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/krzjoa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/krzjoa/awesome-python-data-science"><b>krzjoa/awesome-python-data-science</b></a><br><sub>Probably the best curated list of data science software in Python.</sub></td>
-<td align="right"><b>3,653</b></td>
+<td align="right"><b>3,659</b></td>
 <td align="right">465</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">95</td>
 <td><img src="https://github.com/neuronetio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neuronetio/gantt-schedule-timeline-calendar"><b>neuronetio/gantt-schedule-timeline-calendar</b></a><br><sub>Gantt Gantt Gantt Timeline Schedule Calendar &#91; javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt t…</sub></td>
-<td align="right"><b>3,643</b></td>
+<td align="right"><b>3,644</b></td>
 <td align="right">386</td>
 <td>TypeScript</td>
 </tr>
@@ -703,21 +703,21 @@
 <tr>
 <td align="right">98</td>
 <td><img src="https://github.com/veelenga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/veelenga/awesome-crystal"><b>veelenga/awesome-crystal</b></a><br><sub>:gem: A collection of awesome Crystal libraries, tools, frameworks and software</sub></td>
-<td align="right"><b>3,577</b></td>
+<td align="right"><b>3,576</b></td>
 <td align="right">333</td>
 <td>Crystal</td>
 </tr>
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/wojciech-kulik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wojciech-kulik/FlashSpace"><b>wojciech-kulik/FlashSpace</b></a><br><sub>FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡</sub></td>
-<td align="right"><b>3,563</b></td>
+<td align="right"><b>3,565</b></td>
 <td align="right">68</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/Legcord.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Legcord/Legcord"><b>Legcord/Legcord</b></a><br><sub>Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.</sub></td>
-<td align="right"><b>3,520</b></td>
+<td align="right"><b>3,525</b></td>
 <td align="right">160</td>
 <td>TypeScript</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 3,520 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 3,525 stars; 150 attributed candidates are tracked.
 - 134 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 170 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

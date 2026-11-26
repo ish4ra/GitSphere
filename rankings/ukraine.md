@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/UA.json">JSON</a> |
+| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/UA.json">JSON</a> |
 
 </div>
 
@@ -283,14 +283,14 @@
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/Phoenix"><b>Yalantis/Phoenix</b></a><br><sub>Phoenix Pull-to-Refresh</sub></td>
-<td align="right"><b>3,965</b></td>
+<td align="right"><b>3,964</b></td>
 <td align="right">893</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/hxehex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hxehex/russia-mobile-internet-whitelist"><b>hxehex/russia-mobile-internet-whitelist</b></a><br><sub>a list of domains and ips that stay live in russia when the mobile internet gets restricted</sub></td>
-<td align="right"><b>3,835</b></td>
+<td align="right"><b>3,838</b></td>
 <td align="right">107</td>
 <td>—</td>
 </tr>
@@ -304,14 +304,14 @@
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/denji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denji/awesome-http-benchmark"><b>denji/awesome-http-benchmark</b></a><br><sub>HTTP(S) benchmark tools, testing/debugging, &amp; restAPI (RESTful)</sub></td>
-<td align="right"><b>3,790</b></td>
-<td align="right">260</td>
+<td align="right"><b>3,791</b></td>
+<td align="right">261</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/Tyrrrz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tyrrrz/YoutubeExplode"><b>Tyrrrz/YoutubeExplode</b></a><br><sub>Abstraction layer over YouTube&#39;s internal API</sub></td>
-<td align="right"><b>3,758</b></td>
+<td align="right"><b>3,761</b></td>
 <td align="right">603</td>
 <td>C#</td>
 </tr>
@@ -333,35 +333,35 @@
 <td align="right">45</td>
 <td><img src="https://github.com/devMEremenko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devMEremenko/XcodeBenchmark"><b>devMEremenko/XcodeBenchmark</b></a><br><sub>XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro</sub></td>
 <td align="right"><b>3,694</b></td>
-<td align="right">418</td>
+<td align="right">419</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/AChep.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AChep/keyguard-app"><b>AChep/keyguard-app</b></a><br><sub>A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passke…</sub></td>
-<td align="right"><b>3,664</b></td>
+<td align="right"><b>3,689</b></td>
 <td align="right">129</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/FoldingTabBar.iOS"><b>Yalantis/FoldingTabBar.iOS</b></a><br><sub>Folding Tab Bar and Tab Bar Controller</sub></td>
-<td align="right"><b>3,654</b></td>
+<td align="right"><b>3,653</b></td>
 <td align="right">449</td>
 <td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/RevenantX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RevenantX/LiteNetLib"><b>RevenantX/LiteNetLib</b></a><br><sub>Lite reliable UDP library for Mono and .NET</sub></td>
-<td align="right"><b>3,645</b></td>
-<td align="right">532</td>
+<td align="right"><b>3,646</b></td>
+<td align="right">535</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/web-padawan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/web-padawan/awesome-web-components"><b>web-padawan/awesome-web-components</b></a><br><sub>A curated list of awesome Web Components resources.</sub></td>
 <td align="right"><b>3,637</b></td>
-<td align="right">226</td>
+<td align="right">228</td>
 <td>—</td>
 </tr>
 <tr>
@@ -374,7 +374,7 @@
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/mourner.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mourner/suncalc"><b>mourner/suncalc</b></a><br><sub>A tiny JavaScript library for calculating sun/moon positions and phases.</sub></td>
-<td align="right"><b>3,516</b></td>
+<td align="right"><b>3,517</b></td>
 <td align="right">440</td>
 <td>JavaScript</td>
 </tr>
@@ -388,22 +388,22 @@
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/divan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/divan/txqr"><b>divan/txqr</b></a><br><sub>Transfer data via animated QR codes</sub></td>
-<td align="right"><b>3,268</b></td>
+<td align="right"><b>3,270</b></td>
 <td align="right">199</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/easymodo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/easymodo/qimgv"><b>easymodo/qimgv</b></a><br><sub>Image viewer. Fast, easy to use. Optional video support.</sub></td>
-<td align="right"><b>3,172</b></td>
-<td align="right">228</td>
+<td align="right"><b>3,173</b></td>
+<td align="right">227</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/danylovolokh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danylovolokh/VideoPlayerManager"><b>danylovolokh/VideoPlayerManager</b></a><br><sub>This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListVie…</sub></td>
-<td align="right"><b>3,145</b></td>
-<td align="right">739</td>
+<td align="right"><b>3,146</b></td>
+<td align="right">738</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -416,35 +416,35 @@
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/boo1ean.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/boo1ean/casual"><b>boo1ean/casual</b></a><br><sub>Fake data generator for javascript</sub></td>
-<td align="right"><b>3,004</b></td>
+<td align="right"><b>3,003</b></td>
 <td align="right">147</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/rashevskyv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rashevskyv/dbi"><b>rashevskyv/dbi</b></a><br><sub>Author is duckbill</sub></td>
-<td align="right"><b>2,999</b></td>
-<td align="right">131</td>
+<td align="right"><b>3,002</b></td>
+<td align="right">134</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">59</td>
-<td><img src="https://github.com/cawa-93.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cawa-93/vite-electron-builder"><b>cawa-93/vite-electron-builder</b></a><br><sub>Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla</sub></td>
-<td align="right"><b>2,988</b></td>
-<td align="right">295</td>
+<td><img src="https://github.com/kozakdenys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kozakdenys/qr-code-styling"><b>kozakdenys/qr-code-styling</b></a><br><sub>Automaticly generate your styled QR code in your web app.</sub></td>
+<td align="right"><b>2,992</b></td>
+<td align="right">697</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">60</td>
-<td><img src="https://github.com/kozakdenys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kozakdenys/qr-code-styling"><b>kozakdenys/qr-code-styling</b></a><br><sub>Automaticly generate your styled QR code in your web app.</sub></td>
-<td align="right"><b>2,987</b></td>
-<td align="right">698</td>
+<td><img src="https://github.com/cawa-93.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cawa-93/vite-electron-builder"><b>cawa-93/vite-electron-builder</b></a><br><sub>Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla</sub></td>
+<td align="right"><b>2,989</b></td>
+<td align="right">296</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/MacPaw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MacPaw/OpenAI"><b>MacPaw/OpenAI</b></a><br><sub>Swift community driven package for OpenAI public API</sub></td>
-<td align="right"><b>2,969</b></td>
+<td align="right"><b>2,971</b></td>
 <td align="right">519</td>
 <td>Swift</td>
 </tr>
@@ -458,49 +458,49 @@
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/LimerBoy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LimerBoy/Impulse"><b>LimerBoy/Impulse</b></a><br><sub>:bomb: Impulse Denial-of-service ToolKit</sub></td>
-<td align="right"><b>2,880</b></td>
-<td align="right">533</td>
+<td align="right"><b>2,882</b></td>
+<td align="right">535</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/GuillotineMenu"><b>Yalantis/GuillotineMenu</b></a><br><sub>Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.</sub></td>
-<td align="right"><b>2,874</b></td>
+<td align="right"><b>2,873</b></td>
 <td align="right">248</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/Tyrrrz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tyrrrz/LightBulb"><b>Tyrrrz/LightBulb</b></a><br><sub>Reduces eye strain by adjusting screen gamma based on the current time</sub></td>
-<td align="right"><b>2,834</b></td>
-<td align="right">177</td>
+<td align="right"><b>2,836</b></td>
+<td align="right">178</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/mourner.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mourner/rbush"><b>mourner/rbush</b></a><br><sub>RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles</sub></td>
-<td align="right"><b>2,789</b></td>
+<td align="right"><b>2,791</b></td>
 <td align="right">253</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/RazrFalcon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RazrFalcon/cargo-bloat"><b>RazrFalcon/cargo-bloat</b></a><br><sub>Find out what takes most of the space in your executable.</sub></td>
-<td align="right"><b>2,779</b></td>
-<td align="right">59</td>
+<td align="right"><b>2,782</b></td>
+<td align="right">58</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/NeXTs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NeXTs/Jets.js"><b>NeXTs/Jets.js</b></a><br><sub>Native CSS search engine</sub></td>
-<td align="right"><b>2,767</b></td>
+<td align="right"><b>2,764</b></td>
 <td align="right">105</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/le0pard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/le0pard/pgtune"><b>le0pard/pgtune</b></a><br><sub>Pgtune - tuning PostgreSQL config by your hardware</sub></td>
-<td align="right"><b>2,760</b></td>
+<td align="right"><b>2,759</b></td>
 <td align="right">247</td>
 <td>JavaScript</td>
 </tr>
@@ -508,22 +508,22 @@
 <td align="right">70</td>
 <td><img src="https://github.com/esvit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/esvit/ng-table"><b>esvit/ng-table</b></a><br><sub>Simple table with sorting and filtering on AngularJS</sub></td>
 <td align="right"><b>2,735</b></td>
-<td align="right">829</td>
+<td align="right">828</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">71</td>
-<td><img src="https://github.com/APIs-guru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/APIs-guru/graphql-faker"><b>APIs-guru/graphql-faker</b></a><br><sub>🎲 Mock or extend your GraphQL API with faked data. No coding required.</sub></td>
-<td align="right"><b>2,709</b></td>
-<td align="right">228</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/denji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denji/nginx-tuning"><b>denji/nginx-tuning</b></a><br><sub>NGINX tuning for best performance</sub></td>
+<td align="right"><b>2,710</b></td>
+<td align="right">395</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><img src="https://github.com/denji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denji/nginx-tuning"><b>denji/nginx-tuning</b></a><br><sub>NGINX tuning for best performance</sub></td>
+<td><img src="https://github.com/APIs-guru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/APIs-guru/graphql-faker"><b>APIs-guru/graphql-faker</b></a><br><sub>🎲 Mock or extend your GraphQL API with faked data. No coding required.</sub></td>
 <td align="right"><b>2,708</b></td>
-<td align="right">395</td>
-<td>—</td>
+<td align="right">228</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">73</td>
@@ -541,45 +541,45 @@
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/SnosMe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SnosMe/awakened-poe-trade"><b>SnosMe/awakened-poe-trade</b></a><br><sub>:heavy&#95;dollar&#95;sign: :hammer: Path of Exile app for price checking</sub></td>
-<td align="right"><b>2,635</b></td>
-<td align="right">804</td>
+<td><img src="https://github.com/croffasia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/croffasia/itsaplan"><b>croffasia/itsaplan</b></a><br><sub>⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and…</sub></td>
+<td align="right"><b>2,658</b></td>
+<td align="right">358</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">76</td>
+<td><img src="https://github.com/SnosMe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SnosMe/awakened-poe-trade"><b>SnosMe/awakened-poe-trade</b></a><br><sub>:heavy&#95;dollar&#95;sign: :hammer: Path of Exile app for price checking</sub></td>
+<td align="right"><b>2,635</b></td>
+<td align="right">806</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
 <td><img src="https://github.com/SergiusTheBest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SergiusTheBest/plog"><b>SergiusTheBest/plog</b></a><br><sub>Portable, simple and extensible C++ logging library</sub></td>
 <td align="right"><b>2,602</b></td>
 <td align="right">408</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">78</td>
 <td><img src="https://github.com/dkrivoruchko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dkrivoruchko/ScreenStream"><b>dkrivoruchko/ScreenStream</b></a><br><sub>ScreenStream Android App</sub></td>
 <td align="right"><b>2,592</b></td>
-<td align="right">519</td>
+<td align="right">521</td>
 <td>Kotlin</td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">79</td>
 <td><img src="https://github.com/nortikin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nortikin/sverchok"><b>nortikin/sverchok</b></a><br><sub>Node-based visual programming for parametric 3D modeling and computational geometry in Blender</sub></td>
-<td align="right"><b>2,561</b></td>
+<td align="right"><b>2,566</b></td>
 <td align="right">248</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">80</td>
 <td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/Segmentio"><b>Yalantis/Segmentio</b></a><br><sub>Animated top/bottom segmented control written in Swift.</sub></td>
 <td align="right"><b>2,512</b></td>
-<td align="right">321</td>
+<td align="right">320</td>
 <td>Swift</td>
-</tr>
-<tr>
-<td align="right">80</td>
-<td><img src="https://github.com/croffasia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/croffasia/itsaplan"><b>croffasia/itsaplan</b></a><br><sub>⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and…</sub></td>
-<td align="right"><b>2,496</b></td>
-<td align="right">337</td>
-<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">81</td>
@@ -598,7 +598,7 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/vadimdemedes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vadimdemedes/pastel"><b>vadimdemedes/pastel</b></a><br><sub>🎨 Next.js-like framework for CLIs made with Ink</sub></td>
-<td align="right"><b>2,411</b></td>
+<td align="right"><b>2,412</b></td>
 <td align="right">44</td>
 <td>TypeScript</td>
 </tr>
@@ -626,7 +626,7 @@
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/DisplaySwitcher"><b>Yalantis/DisplaySwitcher</b></a><br><sub>Custom transition between two collection view layouts</sub></td>
-<td align="right"><b>2,296</b></td>
+<td align="right"><b>2,295</b></td>
 <td align="right">184</td>
 <td>Swift</td>
 </tr>
@@ -640,28 +640,28 @@
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/Horizon"><b>Yalantis/Horizon</b></a><br><sub>Horizon - Simple visual equaliser for Android</sub></td>
-<td align="right"><b>2,249</b></td>
+<td align="right"><b>2,251</b></td>
 <td align="right">304</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/dedoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dedoc/scramble"><b>dedoc/scramble</b></a><br><sub>Modern Laravel OpenAPI (Swagger) documentation generator. No PHPDoc annotations required.</sub></td>
-<td align="right"><b>2,239</b></td>
-<td align="right">221</td>
+<td align="right"><b>2,237</b></td>
+<td align="right">222</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/vshymanskyy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vshymanskyy/TinyGSM"><b>vshymanskyy/TinyGSM</b></a><br><sub>A small Arduino library for GSM modules, that just works</sub></td>
-<td align="right"><b>2,229</b></td>
+<td align="right"><b>2,230</b></td>
 <td align="right">792</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/galetahub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/galetahub/ckeditor"><b>galetahub/ckeditor</b></a><br><sub>Ckeditor 4.x integration gem for rails</sub></td>
-<td align="right"><b>2,222</b></td>
+<td align="right"><b>2,223</b></td>
 <td align="right">856</td>
 <td>Ruby</td>
 </tr>

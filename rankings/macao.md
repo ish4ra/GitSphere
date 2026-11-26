@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../data/MO.json">JSON</a> |
+| 🟡 Provisional | **9** | 23 Nov 2026 | <a href="../data/MO.json">JSON</a> |
 
 </div>
 
@@ -32,7 +32,7 @@
 <td align="right">2</td>
 <td><img src="https://github.com/spiritLHLS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spiritLHLS/Oracle-server-keep-alive-script"><b>spiritLHLS/Oracle-server-keep-alive-script</b></a><br><sub>服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)</sub></td>
 <td align="right"><b>2,472</b></td>
-<td align="right">511</td>
+<td align="right">510</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -93,8 +93,8 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 560 stars; 9 attributed candidates are tracked.
-- 99 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 16 in round 1.
+- 92 multi-repository owners are queued for expansion.
+- **Location discovery:** term 1 of 16 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

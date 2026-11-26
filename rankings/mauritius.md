@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **3** | 02 Nov 2026 | <a href="../data/MU.json">JSON</a> |
-
-> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **3** | 23 Nov 2026 | <a href="../data/MU.json">JSON</a> |
 
 </div>
 
@@ -39,10 +37,10 @@
 </tr>
 <tr>
 <td align="right">3</td>
-<td><img src="https://github.com/JoottunAtish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JoottunAtish/tldr_project"><b>JoottunAtish/tldr&#95;project</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">3</td>
-<td>Python</td>
+<td><img src="https://github.com/alcaeus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alcaeus/mongo-php-adapter"><b>alcaeus/mongo-php-adapter</b></a><br><sub>:link: &#91;Deprecated&#93; Adapter to provide ext-mongo interface on top of mongo-php-library</sub></td>
+<td align="right"><b>464</b></td>
+<td align="right">129</td>
+<td>PHP</td>
 </tr>
 </tbody>
 </table>
@@ -50,11 +48,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 2 stars; 3 attributed candidates are tracked.
-- 1 entries were carried over from the previous dataset and are pending revalidation.
-- 125 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 464 stars; 3 attributed candidates are tracked.
+- 121 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 94 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

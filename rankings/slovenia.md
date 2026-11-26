@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **49** | 22 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟡 Provisional | **49** | 23 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -66,28 +66,28 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/tomaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tomaz/appledoc"><b>tomaz/appledoc</b></a><br><sub>Objective-c code Apple style documentation set generator.</sub></td>
-<td align="right"><b>4,176</b></td>
+<td align="right"><b>4,177</b></td>
 <td align="right">643</td>
 <td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/maticzav.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maticzav/graphql-shield"><b>maticzav/graphql-shield</b></a><br><sub>🛡 A GraphQL tool to ease the creation of permission layer.</sub></td>
-<td align="right"><b>3,575</b></td>
+<td align="right"><b>3,574</b></td>
 <td align="right">188</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/filips123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filips123/PWAsForFirefox"><b>filips123/PWAsForFirefox</b></a><br><sub>A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox</sub></td>
-<td align="right"><b>3,162</b></td>
+<td align="right"><b>3,164</b></td>
 <td align="right">76</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/matejlatin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matejlatin/Gutenberg"><b>matejlatin/Gutenberg</b></a><br><sub>A meaningful web typography starter kit.</sub></td>
-<td align="right"><b>2,843</b></td>
+<td align="right"><b>2,842</b></td>
 <td align="right">147</td>
 <td>SCSS</td>
 </tr>
@@ -373,7 +373,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 515 stars; 49 attributed candidates are tracked.
-- 103 multi-repository owners are queued for expansion.
+- 101 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,7 +5,7 @@
 "country": {"code":"MS","name":"Montserrat","slug":"montserrat"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":57,"ownerExpansionBacklog":16,"candidates":57,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":8,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":57,"ownerExpansionBacklog":15,"candidates":57,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":8,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"NEON","nameWithOwner":"Belkworks/NEON","url":"https://github.com/Belkworks/NEON","description":null,"stars":2,"forks":1,"primaryLanguage":"MoonScript","license":null,"createdAt":"2021-03-12T23:38:33Z","pushedAt":"2022-01-31T17:01:57Z","archived":true,"owner":{"login":"Belkworks","name":"BELKER","type":"Organization","url":"https://github.com/Belkworks","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"future","nameWithOwner":"Belkworks/future","url":"https://github.com/Belkworks/future","description":null,"stars":2,"forks":0,"primaryLanguage":"MoonScript","license":null,"createdAt":"2021-03-16T17:45:30Z","pushedAt":"2021-11-28T20:09:18Z","archived":true,"owner":{"login":"Belkworks","name":"BELKER","type":"Organization","url":"https://github.com/Belkworks","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-03","pendingRevalidation":true},
@@ -65,8 +65,8 @@
   {"rank":56,"id":null,"name":"Vanya993","nameWithOwner":"Vanya993/Vanya993","url":"https://github.com/Vanya993/Vanya993","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-01-18T00:30:37Z","pushedAt":"2024-01-18T00:31:43Z","archived":false,"owner":{"login":"Vanya993","name":"Vanessa O. V. Mark","type":"User","url":"https://github.com/Vanya993","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-23","pendingRevalidation":true},
   {"rank":57,"id":null,"name":"a","nameWithOwner":"wake-up-sluts/a","url":"https://github.com/wake-up-sluts/a","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-06-25T05:59:27Z","pushedAt":"2026-08-06T10:56:09Z","archived":false,"owner":{"login":"wake-up-sluts","name":"Cosmosnaut","type":"User","url":"https://github.com/wake-up-sluts","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-23","pendingRevalidation":true}
 ],
-"contentHash": "7e9eb7f9ff7458f7",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "0a2c6acbc5fc8ec3",
+"updatedAt": "2026-11-26T00:19:28.464Z",
 "verifiedOn": "2026-10-03",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-26T00:19:28.464Z"
 }

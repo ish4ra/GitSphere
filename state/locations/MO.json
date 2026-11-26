@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-23T12:49:32.075Z",
 "terms": {"count":16,"fingerprint":"16:a63d1537"},
-"termIndex": 0,
+"termIndex": 1,
 "specIndex": 0,
-"active": {"term":"Macao","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-23T12:49:32.075Z","stats":{"pages":6}},
+"active": {"term":"Macau","kind":"users","queue":[{"metric":[0,25000000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-25T23:57:58.865Z","stats":{"splits":2,"leaves":2,"pages":2}},
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":300},
-"updatedAt": "2026-11-23T12:49:32.075Z"
+"stats": {"requests":12,"pages":10,"accounts":303},
+"updatedAt": "2026-11-25T23:57:58.865Z"
 }
