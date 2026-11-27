@@ -5,7 +5,7 @@
 "country": {"code":"AI","name":"Anguilla","slug":"anguilla"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":24,"candidates":14,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":22,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":24,"candidates":14,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":22,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"autark-hermes-provider","nameWithOwner":"autarkai/autark-hermes-provider","url":"https://github.com/autarkai/autark-hermes-provider","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-09-28T16:11:38Z","pushedAt":"2026-10-05T14:58:34Z","archived":false,"owner":{"login":"autarkai","name":"Autark AI","type":"Organization","url":"https://github.com/autarkai","location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"trade-bot-smart-account","nameWithOwner":"Axaipay/trade-bot-smart-account","url":"https://github.com/Axaipay/trade-bot-smart-account","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-06-28T17:28:33Z","pushedAt":"2022-07-08T22:09:13Z","archived":false,"owner":{"login":"Axaipay","name":"Axai","type":"Organization","url":"https://github.com/Axaipay","location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
@@ -22,8 +22,8 @@
   {"rank":13,"id":null,"name":"monovision","nameWithOwner":"shawnpjennings/monovision","url":"https://github.com/shawnpjennings/monovision","description":null,"stars":0,"forks":0,"primaryLanguage":"Shell","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-06-04T18:05:48Z","pushedAt":"2026-10-03T00:59:26Z","archived":false,"owner":{"login":"shawnpjennings","name":null,"type":"User","url":"https://github.com/shawnpjennings","location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":14,"id":null,"name":"thumbride.github.io","nameWithOwner":"thumbride/thumbride.github.io","url":"https://github.com/thumbride/thumbride.github.io","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-12-05T21:21:53Z","pushedAt":"2021-12-06T21:49:41Z","archived":false,"owner":{"login":"thumbride","name":"THE THUMB RIDE","type":"User","url":"https://github.com/thumbride","location":"Anguila","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true}
 ],
-"contentHash": "f0ce23f475cf5ce9",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "637dc0f43b6e944b",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-10-28",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

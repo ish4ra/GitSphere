@@ -5,7 +5,7 @@
 "country": {"code":"VU","name":"Vanuatu","slug":"vanuatu"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":51,"ownerExpansionBacklog":56,"candidates":51,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":51,"ownerExpansionBacklog":56,"candidates":51,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":21,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"melanesian-women-today","nameWithOwner":"APCSadmin/melanesian-women-today","url":"https://github.com/APCSadmin/melanesian-women-today","description":null,"stars":1,"forks":3,"primaryLanguage":"JavaScript","license":null,"createdAt":"2013-05-15T21:22:30Z","pushedAt":"2013-05-29T21:05:56Z","archived":false,"owner":{"login":"APCSadmin","name":"Supreme Leader of Vanuatu","type":"User","url":"https://github.com/APCSadmin","location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"mean-meetups","nameWithOwner":"caintonmilroy/mean-meetups","url":"https://github.com/caintonmilroy/mean-meetups","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2014-08-12T07:37:05Z","pushedAt":"2014-09-25T08:04:19Z","archived":false,"owner":{"login":"caintonmilroy","name":"Cainton Milroy","type":"User","url":"https://github.com/caintonmilroy","location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -59,8 +59,8 @@
   {"rank":50,"id":null,"name":"AspnetMicroservices","nameWithOwner":"Xenrob/AspnetMicroservices","url":"https://github.com/Xenrob/AspnetMicroservices","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2022-09-28T22:05:21Z","pushedAt":"2022-09-28T22:05:22Z","archived":false,"owner":{"login":"Xenrob","name":"Jackson Robert","type":"User","url":"https://github.com/Xenrob","location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":51,"id":null,"name":"vuthies-fieldwork","nameWithOwner":"yjulio/vuthies-fieldwork","url":"https://github.com/yjulio/vuthies-fieldwork","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-10-22T00:12:06Z","pushedAt":"2026-10-22T03:00:48Z","archived":false,"owner":{"login":"yjulio","name":"Julio Yaruel","type":"User","url":"https://github.com/yjulio","location":"Port-Vila Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "ef79081bde991f43",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "fd72e3efbc2e3f17",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **67** | 02 Nov 2026 | <a href="../data/NG.json">JSON</a> |
+| 🟠 Stale | **74** | 02 Nov 2026 | <a href="../data/NG.json">JSON</a> |
 
 > **Not yet re-verified.** 19 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -166,7 +166,7 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/OpesanyaAdebayo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpesanyaAdebayo/systems-design"><b>OpesanyaAdebayo/systems-design</b></a><br><sub>All things systems design. Resources, Interview questions, e.t.c</sub></td>
-<td align="right"><b>1,059</b></td>
+<td align="right"><b>1,060</b></td>
 <td align="right">221</td>
 <td>—</td>
 </tr>
@@ -180,21 +180,21 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/sirrobot01.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sirrobot01/decypharr"><b>sirrobot01/decypharr</b></a><br><sub>Media gateway for Debrid &amp; Usenet.</sub></td>
-<td align="right"><b>941</b></td>
-<td align="right">153</td>
+<td align="right"><b>943</b></td>
+<td align="right">157</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/eyeke04.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eyeke04/Books"><b>eyeke04/Books</b></a></td>
-<td align="right"><b>934</b></td>
-<td align="right">192</td>
+<td align="right"><b>937</b></td>
+<td align="right">193</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/IzyPro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IzyPro/WatchDog"><b>IzyPro/WatchDog</b></a><br><sub>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web A…</sub></td>
-<td align="right"><b>902</b></td>
+<td align="right"><b>903</b></td>
 <td align="right">135</td>
 <td>C#</td>
 </tr>
@@ -361,132 +361,181 @@
 </tr>
 <tr>
 <td align="right">49</td>
+<td><img src="https://github.com/stanleyugwu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stanleyugwu/react-native-bottom-sheet"><b>stanleyugwu/react-native-bottom-sheet</b></a><br><sub>The tiny 📦, smart 😎, and flexible 🎗 bottom sheet your app craves</sub></td>
+<td align="right"><b>371</b></td>
+<td align="right">14</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/adeolaadeoti.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adeolaadeoti/adeolaadeoti-portfolio"><b>adeolaadeoti/adeolaadeoti-portfolio</b></a><br><sub>My personal website</sub></td>
+<td align="right"><b>364</b></td>
+<td align="right">74</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/dhatGuy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dhatGuy/PERN-Store"><b>dhatGuy/PERN-Store</b></a><br><sub>A full-stack e-commerce project built with Postgres, Express, React and Node.</sub></td>
+<td align="right"><b>356</b></td>
+<td align="right">135</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/Temitayo-spec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Temitayo-spec/Raft-Landing-Page"><b>Temitayo-spec/Raft-Landing-Page</b></a><br><sub>A landing page built with, Next.js, Styled-Components, GSAP and Framer-Motion 😎✨</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">59</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/DavidCyrilTech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DavidCyrilTech/Anita-V5"><b>DavidCyrilTech/Anita-V5</b></a><br><sub>Powered by David Cyril Tech</sub></td>
+<td align="right"><b>354</b></td>
+<td align="right">1,007</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/preciousokwu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/preciousokwu/developer-roadmap-guide-2018"><b>preciousokwu/developer-roadmap-guide-2018</b></a></td>
+<td align="right"><b>347</b></td>
+<td align="right">76</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/Godofbrowser.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Godofbrowser/vuejs-dialog"><b>Godofbrowser/vuejs-dialog</b></a><br><sub>A lightweight, promise based alert, prompt and confirm dialog</sub></td>
+<td align="right"><b>346</b></td>
+<td align="right">101</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">56</td>
 <td><img src="https://github.com/airmarshal1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/airmarshal1/Stock-Management-Inventory"><b>airmarshal1/Stock-Management-Inventory</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">57</td>
 <td><img src="https://github.com/Abufadeelat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abufadeelat/Abufadeelat"><b>Abufadeelat/Abufadeelat</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">58</td>
 <td><img src="https://github.com/abuihsan-hub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abuihsan-hub/birgu-security-reporting-system"><b>abuihsan-hub/birgu-security-reporting-system</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">59</td>
 <td><img src="https://github.com/adnan-abdullahi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adnan-abdullahi/adnan-abdullahi"><b>adnan-abdullahi/adnan-abdullahi</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">60</td>
 <td><img src="https://github.com/Adubiaro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Adubiaro/Project_Budgit"><b>Adubiaro/Project&#95;Budgit</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">61</td>
 <td><img src="https://github.com/Aduragbemi-Osunba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aduragbemi-Osunba/myVSCode"><b>Aduragbemi-Osunba/myVSCode</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">62</td>
 <td><img src="https://github.com/afripals.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/afripals/school-portal"><b>afripals/school-portal</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">63</td>
 <td><img src="https://github.com/Alexonovo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Alexonovo/code-man"><b>Alexonovo/code-man</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">64</td>
 <td><img src="https://github.com/aliyusf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aliyusf/github-slideshow"><b>aliyusf/github-slideshow</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">65</td>
 <td><img src="https://github.com/Asuquo12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asuquo12/hackathon"><b>Asuquo12/hackathon</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">66</td>
 <td><img src="https://github.com/atmokupe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atmokupe/sample_app"><b>atmokupe/sample&#95;app</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>Ruby</td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">67</td>
 <td><img src="https://github.com/awills.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/awills/minserver"><b>awills/minserver</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">68</td>
 <td><img src="https://github.com/awoniyimuyiwa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/awoniyimuyiwa/support-agent"><b>awoniyimuyiwa/support-agent</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">69</td>
 <td><img src="https://github.com/Awwal123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Awwal123/prompt_flow_backend"><b>Awwal123/prompt&#95;flow&#95;backend</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>Blade</td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">70</td>
 <td><img src="https://github.com/aygbn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aygbn/GTrack"><b>aygbn/GTrack</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">71</td>
 <td><img src="https://github.com/berryprince.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/berryprince/www.legacyempire.com"><b>berryprince/www.legacyempire.com</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">72</td>
 <td><img src="https://github.com/biggiedad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/biggiedad/biggiedadtest"><b>biggiedad/biggiedadtest</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">73</td>
 <td><img src="https://github.com/blecoblaze.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blecoblaze/loveworld"><b>blecoblaze/loveworld</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">74</td>
 <td><img src="https://github.com/cdcsma.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cdcsma/sma"><b>cdcsma/sma</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -500,9 +549,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 67 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1 stars; 74 attributed candidates are tracked.
 - 19 entries were carried over from the previous dataset and are pending revalidation.
-- 119 multi-repository owners are queued for expansion.
+- 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

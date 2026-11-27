@@ -5,20 +5,20 @@
 "country": {"code":"WF","name":"Wallis & Futuna","slug":"wallis-futuna"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":21,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjMzMTIwMDUz","login":"csaraiba","name":"Cristóbal","url":"https://github.com/csaraiba","avatarUrl":"https://avatars.githubusercontent.com/u/33120053?s=80&v=4","followers":8,"publicRepos":5,"location":"Wallis and Futuna isles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"U_kgDOBlocSA","login":"strategos-nzr","name":"Nick","url":"https://github.com/strategos-nzr","avatarUrl":"https://avatars.githubusercontent.com/u/106568776?s=80&v=4","followers":3,"publicRepos":13,"location":"Wallis and Futuna","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":3,"id":"MDQ6VXNlcjE5ODU2NzA4","login":"marcas1","name":null,"url":"https://github.com/marcas1","avatarUrl":"https://avatars.githubusercontent.com/u/19856708?s=80&v=4","followers":1,"publicRepos":17,"location":"Wallis et Futuna","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":3,"id":"MDQ6VXNlcjE5ODU2NzA4","login":"marcas1","name":null,"url":"https://github.com/marcas1","avatarUrl":"https://avatars.githubusercontent.com/u/19856708?s=80&v=4","followers":1,"publicRepos":17,"location":"Wallis et Futuna","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":4,"id":"U_kgDOCurYvA","login":"hopsingerplayer","name":null,"url":"https://github.com/hopsingerplayer","avatarUrl":"https://avatars.githubusercontent.com/u/183163068?s=80&v=4","followers":0,"publicRepos":5,"location":"Wallis en Futuna (WF)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":5,"id":"U_kgDOCtJwJg","login":"sakaenhogbutcher","name":null,"url":"https://github.com/sakaenhogbutcher","avatarUrl":"https://avatars.githubusercontent.com/u/181563430?s=80&v=4","followers":0,"publicRepos":5,"location":"Wallis & Futuna (WF)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":6,"id":"U_kgDOCuNPJA","login":"scooternicksari","name":null,"url":"https://github.com/scooternicksari","avatarUrl":"https://avatars.githubusercontent.com/u/182669092?s=80&v=4","followers":0,"publicRepos":4,"location":"Wallis en Futuna (WF)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":7,"id":"U_kgDOCTI0ig","login":"inbredgiraffe","name":"inbredgiraffe","url":"https://github.com/inbredgiraffe","avatarUrl":"https://avatars.githubusercontent.com/u/154285194?s=80&v=4","followers":0,"publicRepos":3,"location":"Wallis and Futuna","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":8,"id":"U_kgDOCThLjA","login":"MintyMustache954","name":"MintyMustache954","url":"https://github.com/MintyMustache954","avatarUrl":"https://avatars.githubusercontent.com/u/154684300?s=80&v=4","followers":0,"publicRepos":1,"location":"Wallis and Futuna","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":9,"id":"MDQ6VXNlcjg3ODI5NDk0","login":"techfut","name":"Michel BETTIN","url":"https://github.com/techfut","avatarUrl":"https://avatars.githubusercontent.com/u/87829494?s=80&v=4","followers":0,"publicRepos":1,"location":"Wallis et Futuna","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"}
+  {"rank":9,"id":"MDQ6VXNlcjg3ODI5NDk0","login":"techfut","name":"Michel BETTIN","url":"https://github.com/techfut","avatarUrl":"https://avatars.githubusercontent.com/u/87829494?s=80&v=4","followers":0,"publicRepos":1,"location":"Wallis et Futuna","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "1e5146145f4ecc4e",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "7e63c535ce34694e",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

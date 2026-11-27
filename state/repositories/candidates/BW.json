@@ -3,6 +3,6 @@
 "country": {"code":"BW","name":"Botswana","slug":"botswana"},
 "count": 1,
 "repositories": [
-  {"id":"R_kgDOQ9w05Q","name":"darula-hpp/shimmer-from-structure","stars":1136,"forks":20,"language":"TypeScript","license":"MIT","description":"A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.","archived":false,"createdAt":"2026-01-20T18:59:27Z","pushedAt":"2026-10-04T19:57:33Z","owner":{"id":"MDQ6VXNlcjI0NDQzNzY5","login":"darula-hpp","type":"User","name":"Olebogeng Mbedzi","location":"Gaborone"},"attribution":{"code":"BW","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-24T00:49:54.326Z","verifiedAt":"2026-11-24T00:49:54.326Z","cycle":1}
+  {"id":"R_kgDOQ9w05Q","name":"darula-hpp/shimmer-from-structure","stars":1137,"forks":20,"language":"TypeScript","license":"MIT","description":"A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.","archived":false,"createdAt":"2026-01-20T18:59:27Z","pushedAt":"2026-10-04T19:57:33Z","owner":{"id":"MDQ6VXNlcjI0NDQzNzY5","login":"darula-hpp","type":"User","name":"Olebogeng Mbedzi","location":"Gaborone"},"attribution":{"code":"BW","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-27T02:39:34.551Z","verifiedAt":"2026-11-27T02:39:34.551Z","cycle":1,"revalidatedAt":"2026-11-27T02:39:34.551Z"}
 ]
 }

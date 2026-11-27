@@ -65,17 +65,17 @@
 </tr>
 <tr>
 <td align="right">7</td>
-<td><a href="https://github.com/Killcode-tech"><img src="https://avatars.githubusercontent.com/u/216891356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Killcode-tech"><b>Killcode&#95;DK</b></a><br><sub>&#64;Killcode-tech</sub></td>
-<td align="right"><b>5</b></td>
-<td align="right">7</td>
-<td><sub>Solomon islands 🇸🇧</sub></td>
-</tr>
-<tr>
-<td align="right">8</td>
 <td><a href="https://github.com/M4573RLYNX"><img src="https://avatars.githubusercontent.com/u/66709306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/M4573RLYNX"><b>Geolynx Saemane</b></a><br><sub>&#64;M4573RLYNX</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">14</td>
 <td><sub>Solomon Islands</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/Killcode-tech"><img src="https://avatars.githubusercontent.com/u/216891356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Killcode-tech"><b>Killcode&#95;DK</b></a><br><sub>&#64;Killcode-tech</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">7</td>
+<td><sub>Solomon islands 🇸🇧</sub></td>
 </tr>
 <tr>
 <td align="right">9</td>

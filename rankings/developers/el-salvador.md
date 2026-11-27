@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **44** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
+| 🟡 Provisional | **78** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/binux"><img src="https://avatars.githubusercontent.com/u/646451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/binux"><b>Roy Binux</b></a><br><sub>&#64;binux</sub></td>
-<td align="right"><b>2,795</b></td>
+<td align="right"><b>2,796</b></td>
 <td align="right">26</td>
 <td><sub>San Jose, US</sub></td>
 </tr>
@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/Androz2091"><img src="https://avatars.githubusercontent.com/u/42497995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Androz2091"><b>Simon</b></a><br><sub>&#64;Androz2091</sub></td>
-<td align="right"><b>1,259</b></td>
+<td align="right"><b>1,258</b></td>
 <td align="right">261</td>
 <td><sub>San Francisco, US</sub></td>
 </tr>
@@ -184,17 +184,17 @@
 </tr>
 <tr>
 <td align="right">24</td>
+<td><a href="https://github.com/AliesTaha"><img src="https://avatars.githubusercontent.com/u/103478551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliesTaha"><b>ali taha</b></a><br><sub>&#64;AliesTaha</sub></td>
+<td align="right"><b>209</b></td>
+<td align="right">42</td>
+<td><sub>California, US</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/pietrozullo"><img src="https://avatars.githubusercontent.com/u/62951181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pietrozullo"><b>Pietro Zullo</b></a><br><sub>&#64;pietrozullo</sub></td>
 <td align="right"><b>208</b></td>
 <td align="right">55</td>
 <td><sub>San Francisco, US</sub></td>
-</tr>
-<tr>
-<td align="right">25</td>
-<td><a href="https://github.com/AliesTaha"><img src="https://avatars.githubusercontent.com/u/103478551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliesTaha"><b>ali taha</b></a><br><sub>&#64;AliesTaha</sub></td>
-<td align="right"><b>207</b></td>
-<td align="right">42</td>
-<td><sub>California, US</sub></td>
 </tr>
 <tr>
 <td align="right">26</td>
@@ -268,62 +268,300 @@
 </tr>
 <tr>
 <td align="right">36</td>
+<td><a href="https://github.com/vsalguero"><img src="https://avatars.githubusercontent.com/u/9466739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vsalguero"><b>Vladimir Salguero</b></a><br><sub>&#64;vsalguero</sub></td>
+<td align="right"><b>138</b></td>
+<td align="right">38</td>
+<td><sub>Chalatenango El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><a href="https://github.com/Alejandroq12"><img src="https://avatars.githubusercontent.com/u/95459740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alejandroq12"><b>Julio Quezada</b></a><br><sub>&#64;Alejandroq12</sub></td>
+<td align="right"><b>134</b></td>
+<td align="right">12</td>
+<td><sub>El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/dgerardoflores"><img src="https://avatars.githubusercontent.com/u/30551778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dgerardoflores"><b>Gerardo Flores</b></a><br><sub>&#64;dgerardoflores</sub></td>
+<td align="right"><b>129</b></td>
+<td align="right">10</td>
+<td><sub>El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
 <td><a href="https://github.com/leosuncin"><img src="https://avatars.githubusercontent.com/u/4307697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leosuncin"><b>Jaime Leonardo Suncin Cruz</b></a><br><sub>&#64;leosuncin</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>San Salvador, El Salvador</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">40</td>
 <td><a href="https://github.com/deviantfero"><img src="https://avatars.githubusercontent.com/u/11150153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deviantfero"><b>Fernando Vásquez</b></a><br><sub>&#64;deviantfero</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Santa Tecla, El Salvador</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">41</td>
 <td><a href="https://github.com/mxgxw"><img src="https://avatars.githubusercontent.com/u/1070304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mxgxw"><b>Mario Gómez</b></a><br><sub>&#64;mxgxw</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>El Salvador</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">42</td>
 <td><a href="https://github.com/mvp"><img src="https://avatars.githubusercontent.com/u/17501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvp"><b>mvp</b></a><br><sub>&#64;mvp</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">43</td>
 <td><a href="https://github.com/liangxianzhe"><img src="https://avatars.githubusercontent.com/u/1334962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liangxianzhe"><b>Xianzhe Liang</b></a><br><sub>&#64;liangxianzhe</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">44</td>
 <td><a href="https://github.com/beihaili"><img src="https://avatars.githubusercontent.com/u/90946134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/beihaili"><b>bhbtc1337</b></a><br><sub>&#64;beihaili</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>El Salvador</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">45</td>
 <td><a href="https://github.com/deltaphc"><img src="https://avatars.githubusercontent.com/u/13461946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deltaphc"><b>Paul Clement</b></a><br><sub>&#64;deltaphc</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">46</td>
 <td><a href="https://github.com/JCarterJohnson"><img src="https://avatars.githubusercontent.com/u/122135351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JCarterJohnson"><b>Carter Johnson</b></a><br><sub>&#64;JCarterJohnson</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">47</td>
+<td><a href="https://github.com/123456defr1"><img src="https://avatars.githubusercontent.com/u/168614980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/123456defr1"><b>Fernando Alfrdo Peñate Barrera</b></a><br><sub>&#64;123456defr1</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">19</td>
+<td><sub>El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/00066819"><img src="https://avatars.githubusercontent.com/u/54406942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/00066819"><b>Nelson Evora</b></a><br><sub>&#64;00066819</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">14</td>
+<td><sub>San Salvador, El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><a href="https://github.com/00150819"><img src="https://avatars.githubusercontent.com/u/210565680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/00150819"><b>00150819</b></a><br><sub>&#64;00150819</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">12</td>
+<td><sub>El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><a href="https://github.com/00Guirola00"><img src="https://avatars.githubusercontent.com/u/100449293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/00Guirola00"><b>Elias Guirola Henriquez</b></a><br><sub>&#64;00Guirola00</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><a href="https://github.com/Pakeeko"><img src="https://avatars.githubusercontent.com/u/15676967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pakeeko"><b>Aquiles Pacheco</b></a><br><sub>&#64;Pakeeko</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/Proteo-defi"><img src="https://avatars.githubusercontent.com/u/82290594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Proteo-defi"><b>Proteo-defi</b></a><br><sub>&#64;Proteo-defi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>San José Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/aleciid"><img src="https://avatars.githubusercontent.com/u/77031552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aleciid"><b>Ale Segura</b></a><br><sub>&#64;aleciid</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>San José. Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/alexco07"><img src="https://avatars.githubusercontent.com/u/89216539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexco07"><b>Alex</b></a><br><sub>&#64;alexco07</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>San Jose. Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/aramirezn"><img src="https://avatars.githubusercontent.com/u/41029718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aramirezn"><b>Alexander Ramirez N</b></a><br><sub>&#64;aramirezn</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/RicardoDiazF"><img src="https://avatars.githubusercontent.com/u/89746846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RicardoDiazF"><b>Ricardo Audino Diaz</b></a><br><sub>&#64;RicardoDiazF</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/19628"><img src="https://avatars.githubusercontent.com/u/25871290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/19628"><b>patricia eunice lemus lopez</b></a><br><sub>&#64;19628</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>el Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/19918139-kemel"><img src="https://avatars.githubusercontent.com/u/250458782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/19918139-kemel"><b>Lian Kemel Linares Hernández</b></a><br><sub>&#64;19918139-kemel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Santa Ana, El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/alexzamlaz"><img src="https://avatars.githubusercontent.com/u/76258023?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexzamlaz"><b>Alexander Zamora Lazo</b></a><br><sub>&#64;alexzamlaz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/compucemo"><img src="https://avatars.githubusercontent.com/u/85306375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/compucemo"><b>Web Plus</b></a><br><sub>&#64;compucemo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>San José Costa Rica.</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/DannyHer97"><img src="https://avatars.githubusercontent.com/u/84999093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DannyHer97"><b>Danny H.</b></a><br><sub>&#64;DannyHer97</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>San José-Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/fernanda1810"><img src="https://avatars.githubusercontent.com/u/37128686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fernanda1810"><b>fernanda1810</b></a><br><sub>&#64;fernanda1810</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>San jose costa rica</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><a href="https://github.com/19714040-Nathalya"><img src="https://avatars.githubusercontent.com/u/250271521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/19714040-Nathalya"><b>Nathalya</b></a><br><sub>&#64;19714040-Nathalya</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San Salvador, El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><a href="https://github.com/19762698-Keiry"><img src="https://avatars.githubusercontent.com/u/250218418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/19762698-Keiry"><b>Keiry Brissette Aparicio Pineda</b></a><br><sub>&#64;19762698-Keiry</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><a href="https://github.com/19772308-creator"><img src="https://avatars.githubusercontent.com/u/250628403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/19772308-creator"><b>Ivania Fabiola Mangandi Barahona</b></a><br><sub>&#64;19772308-creator</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Sonsonate, El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><a href="https://github.com/19821246-jpg"><img src="https://avatars.githubusercontent.com/u/250396509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/19821246-jpg"><b>Carlos Escobar</b></a><br><sub>&#64;19821246-jpg</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>El salvador</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><a href="https://github.com/anajul001"><img src="https://avatars.githubusercontent.com/u/23153548?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anajul001"><b>Adriana</b></a><br><sub>&#64;anajul001</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San José Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><a href="https://github.com/BlazeScripts"><img src="https://avatars.githubusercontent.com/u/30320892?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BlazeScripts"><b>BlazeScripts</b></a><br><sub>&#64;BlazeScripts</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><a href="https://github.com/bodasenlaplaya"><img src="https://avatars.githubusercontent.com/u/26183602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bodasenlaplaya"><b>Bodas en la Playa</b></a><br><sub>&#64;bodasenlaplaya</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San José Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><a href="https://github.com/EdwinCalero"><img src="https://avatars.githubusercontent.com/u/48761978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdwinCalero"><b>Edwin&#95;Calero</b></a><br><sub>&#64;EdwinCalero</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><a href="https://github.com/fabiola14"><img src="https://avatars.githubusercontent.com/u/47062300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fabiola14"><b>Fabi Salazar</b></a><br><sub>&#64;fabiola14</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San José Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><a href="https://github.com/florenciagm0312"><img src="https://avatars.githubusercontent.com/u/86341158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/florenciagm0312"><b>florenciagm0312</b></a><br><sub>&#64;florenciagm0312</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San José Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><a href="https://github.com/ganguloipl"><img src="https://avatars.githubusercontent.com/u/31106495?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ganguloipl"><b>Geison Angulo Avila</b></a><br><sub>&#64;ganguloipl</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><a href="https://github.com/henryparamo"><img src="https://avatars.githubusercontent.com/u/42789829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/henryparamo"><b>Henry Paramo Prada</b></a><br><sub>&#64;henryparamo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><a href="https://github.com/juandvl1087"><img src="https://avatars.githubusercontent.com/u/1489324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juandvl1087"><b>Juan Villalobos</b></a><br><sub>&#64;juandvl1087</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><a href="https://github.com/radiocrvariadayromantica"><img src="https://avatars.githubusercontent.com/u/26353359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/radiocrvariadayromantica"><b>radiocrvariadayromantica</b></a><br><sub>&#64;radiocrvariadayromantica</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><a href="https://github.com/unbillingcorp"><img src="https://avatars.githubusercontent.com/u/78611747?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unbillingcorp"><b>unbillingcorp</b></a><br><sub>&#64;unbillingcorp</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>San Jose Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
 <td><a href="https://github.com/Alexito12-sys"><img src="https://avatars.githubusercontent.com/u/242744811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alexito12-sys"><b>Erick Alexander Acevedo Ayala</b></a><br><sub>&#64;Alexito12-sys</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -337,7 +575,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 44 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 78 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 71 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

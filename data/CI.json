@@ -5,13 +5,13 @@
 "country": {"code":"CI","name":"Côte d'Ivoire","slug":"cote-d-ivoire"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":483,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":483,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":129,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk2NTY4MzY1NQ==","name":"medium-textview","nameWithOwner":"angebagui/medium-textview","url":"https://github.com/angebagui/medium-textview","description":"Medium android application displays content with text, image, video etc in post detail. It can be a pain to do it with content came from CMS. So i decided to d…","stars":485,"forks":61,"primaryLanguage":"Java","license":null,"createdAt":"2016-08-14T19:50:35Z","pushedAt":"2016-10-06T15:30:03Z","archived":false,"owner":{"login":"angebagui","name":"Ange Bagui","type":"User","url":"https://github.com/angebagui","location":"Abidjan","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOLQyRcg","name":"kali-ios","nameWithOwner":"finlandhl/kali-ios","url":"https://github.com/finlandhl/kali-ios","description":"Kali-ios brings the power and versatility of Kali Linux right at your fingertips. It allows users to access Kali in text mode through a terminal emulator from…","stars":483,"forks":86,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2024-02-11T04:52:27Z","pushedAt":"2024-07-03T23:19:39Z","archived":false,"owner":{"login":"finlandhl","name":"Finland L.","type":"User","url":"https://github.com/finlandhl","location":"Abidjan","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "1f14180eabc54098",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "e95ec5653a7b457d",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 25 Nov 2026 | <a href="../data/BJ.json">JSON</a> |
+| 🟡 Provisional | **9** | 25 Nov 2026 | <a href="../data/BJ.json">JSON</a> |
 
 </div>
 
@@ -77,6 +77,13 @@
 <td align="right">107</td>
 <td>QML</td>
 </tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/flutter_drawing_board"><b>JideGuru/flutter&#95;drawing&#95;board</b></a><br><sub>A simple drawing app made with Flutter</sub></td>
+<td align="right"><b>344</b></td>
+<td align="right">97</td>
+<td>Dart</td>
+</tr>
 </tbody>
 </table>
 
@@ -85,7 +92,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 411 stars; 8 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 344 stars; 9 attributed candidates are tracked.
 - **Location discovery:** term 0 of 86 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

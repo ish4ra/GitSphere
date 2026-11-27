@@ -81,7 +81,7 @@
 <td align="right">9</td>
 <td><a href="https://github.com/LeminEly"><img src="https://avatars.githubusercontent.com/u/208537302?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LeminEly"><b>Lemin</b></a><br><sub>&#64;LeminEly</sub></td>
 <td align="right"><b>32</b></td>
-<td align="right">45</td>
+<td align="right">46</td>
 <td><sub>Mauritania</sub></td>
 </tr>
 <tr>

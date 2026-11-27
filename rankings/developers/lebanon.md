@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/V-i-x-x"><img src="https://avatars.githubusercontent.com/u/21037679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/V-i-x-x"><b>Vixx</b></a><br><sub>&#64;V-i-x-x</sub></td>
-<td align="right"><b>268</b></td>
+<td align="right"><b>269</b></td>
 <td align="right">12</td>
 <td><sub>Lebanon</sub></td>
 </tr>
@@ -298,7 +298,7 @@
 <td align="right">40</td>
 <td><a href="https://github.com/tahataha005"><img src="https://avatars.githubusercontent.com/u/112478911?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tahataha005"><b>Taha Taha</b></a><br><sub>&#64;tahataha005</sub></td>
 <td align="right"><b>58</b></td>
-<td align="right">48</td>
+<td align="right">49</td>
 <td><sub>Beirut, Lebanon</sub></td>
 </tr>
 <tr>

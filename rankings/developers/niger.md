@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/sabiou"><img src="https://avatars.githubusercontent.com/u/25927652?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sabiou"><b>Farouk Sabiou</b></a><br><sub>&#64;sabiou</sub></td>
-<td align="right"><b>180</b></td>
+<td align="right"><b>179</b></td>
 <td align="right">63</td>
 <td><sub>Maradi</sub></td>
 </tr>

@@ -38,15 +38,15 @@
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/sabuhish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sabuhish/fastapi-mail"><b>sabuhish/fastapi-mail</b></a><br><sub>Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk)</sub></td>
-<td align="right"><b>1,016</b></td>
+<td align="right"><b>1,017</b></td>
 <td align="right">110</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/Theyka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Theyka/Turnstile-Solver"><b>Theyka/Turnstile-Solver</b></a><br><sub>Python-based turnstile solver using the patchright library, featuring multi-threaded execution, API integration, and su…</sub></td>
-<td align="right"><b>987</b></td>
-<td align="right">233</td>
+<td align="right"><b>988</b></td>
+<td align="right">235</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 386 stars; 11 attributed candidates are tracked.
-- 130 multi-repository owners are queued for expansion.
+- 128 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

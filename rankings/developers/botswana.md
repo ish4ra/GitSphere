@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/darula-hpp"><img src="https://avatars.githubusercontent.com/u/24443769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darula-hpp"><b>Olebogeng Mbedzi</b></a><br><sub>&#64;darula-hpp</sub></td>
-<td align="right"><b>80</b></td>
+<td align="right"><b>79</b></td>
 <td align="right">19</td>
 <td><sub>Gaborone</sub></td>
 </tr>

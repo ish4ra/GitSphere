@@ -5,7 +5,7 @@
 "country": {"code":"MS","name":"Montserrat","slug":"montserrat"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":53,"ownerExpansionBacklog":15,"candidates":53,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":8,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":53,"ownerExpansionBacklog":14,"candidates":53,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":8,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"blog","nameWithOwner":"Become-Trainsgender-today/blog","url":"https://github.com/Become-Trainsgender-today/blog","description":null,"stars":1,"forks":0,"primaryLanguage":"Astro","license":{"spdxId":"MIT"},"createdAt":"2024-04-07T10:49:32Z","pushedAt":"2024-04-07T13:58:05Z","archived":false,"owner":{"login":"Become-Trainsgender-today","name":"Become Trainsgender today!","type":"Organization","url":"https://github.com/Become-Trainsgender-today","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"broom","nameWithOwner":"Belkworks/broom","url":"https://github.com/Belkworks/broom","description":null,"stars":1,"forks":0,"primaryLanguage":"MoonScript","license":null,"createdAt":"2021-03-25T05:54:27Z","pushedAt":"2022-01-28T02:30:52Z","archived":true,"owner":{"login":"Belkworks","name":"BELKER","type":"Organization","url":"https://github.com/Belkworks","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-03","pendingRevalidation":true},
@@ -61,8 +61,8 @@
   {"rank":52,"id":null,"name":"Vanya993","nameWithOwner":"Vanya993/Vanya993","url":"https://github.com/Vanya993/Vanya993","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-01-18T00:30:37Z","pushedAt":"2024-01-18T00:31:43Z","archived":false,"owner":{"login":"Vanya993","name":"Vanessa O. V. Mark","type":"User","url":"https://github.com/Vanya993","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-23","pendingRevalidation":true},
   {"rank":53,"id":null,"name":"a","nameWithOwner":"wake-up-sluts/a","url":"https://github.com/wake-up-sluts/a","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-06-25T05:59:27Z","pushedAt":"2026-08-06T10:56:09Z","archived":false,"owner":{"login":"wake-up-sluts","name":"Cosmosnaut","type":"User","url":"https://github.com/wake-up-sluts","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-23","pendingRevalidation":true}
 ],
-"contentHash": "f5512cc6041ac58b",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "46c0df3b2178a4af",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-10-03",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

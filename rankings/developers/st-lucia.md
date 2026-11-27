@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/remyfrancis"><img src="https://avatars.githubusercontent.com/u/15181861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/remyfrancis"><b>Remy Francis</b></a><br><sub>&#64;remyfrancis</sub></td>
-<td align="right"><b>19</b></td>
+<td align="right"><b>20</b></td>
 <td align="right">23</td>
 <td><sub>Saint Lucia</sub></td>
 </tr>

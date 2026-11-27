@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/ID.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/ID.json">JSON</a> |
 
 </div>
 
@@ -605,7 +605,7 @@
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/ardha27.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ardha27/AI-Waifu-Vtuber"><b>ardha27/AI-Waifu-Vtuber</b></a><br><sub>AI Vtuber for Streaming on Youtube/Twitch</sub></td>
-<td align="right"><b>1,124</b></td>
+<td align="right"><b>1,125</b></td>
 <td align="right">179</td>
 <td>Python</td>
 </tr>
@@ -618,80 +618,80 @@
 </tr>
 <tr>
 <td align="right">86</td>
+<td><img src="https://github.com/jipraks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jipraks/yt-short-clipper"><b>jipraks/yt-short-clipper</b></a><br><sub>Windows desktop app that turns long-form YouTube videos into 9:16 short-form clips — AI highlight detection, face-track…</sub></td>
+<td align="right"><b>1,116</b></td>
+<td align="right">316</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/Mafifrizi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mafifrizi/ARES"><b>Mafifrizi/ARES</b></a><br><sub>ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls,…</sub></td>
+<td align="right"><b>1,114</b></td>
+<td align="right">255</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">88</td>
 <td><img src="https://github.com/dimartarmizi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dimartarmizi/map-to-poster"><b>dimartarmizi/map-to-poster</b></a><br><sub>MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with va…</sub></td>
 <td align="right"><b>1,110</b></td>
 <td align="right">169</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">87</td>
-<td><img src="https://github.com/jipraks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jipraks/yt-short-clipper"><b>jipraks/yt-short-clipper</b></a><br><sub>Windows desktop app that turns long-form YouTube videos into 9:16 short-form clips — AI highlight detection, face-track…</sub></td>
-<td align="right"><b>1,108</b></td>
-<td align="right">313</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">88</td>
+<td align="right">89</td>
 <td><img src="https://github.com/khannedy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khannedy/golang-clean-architecture"><b>khannedy/golang-clean-architecture</b></a><br><sub>Go-Lang Clean Architecture</sub></td>
-<td align="right"><b>1,108</b></td>
+<td align="right"><b>1,109</b></td>
 <td align="right">279</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">89</td>
-<td><img src="https://github.com/Mafifrizi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mafifrizi/ARES"><b>Mafifrizi/ARES</b></a><br><sub>ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls,…</sub></td>
-<td align="right"><b>1,107</b></td>
-<td align="right">251</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">90</td>
 <td><img src="https://github.com/Zyrexnn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zyrexnn/Cybermes"><b>Zyrexnn/Cybermes</b></a><br><sub>Autonomous Offensive Security, Bug Bounty &amp; Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning…</sub></td>
-<td align="right"><b>1,062</b></td>
-<td align="right">180</td>
+<td align="right"><b>1,075</b></td>
+<td align="right">181</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">91</td>
+<td><img src="https://github.com/raymondchins.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raymondchins/Bridgeplay"><b>raymondchins/Bridgeplay</b></a><br><sub>Free fork of NotProton: Windows Steam games in Mac Steam, on CodeWeavers&#39; Wine and Apple&#39;s Game Porting Toolkit</sub></td>
+<td align="right"><b>1,066</b></td>
+<td align="right">159</td>
+<td>Scala</td>
+</tr>
+<tr>
+<td align="right">92</td>
 <td><img src="https://github.com/piharpi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/piharpi/jekyll-klise"><b>piharpi/jekyll-klise</b></a><br><sub>:beach&#95;umbrella: Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (ht…</sub></td>
 <td align="right"><b>1,060</b></td>
 <td align="right">403</td>
 <td>SCSS</td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">93</td>
 <td><img src="https://github.com/raexera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raexera/tokyo"><b>raexera/tokyo</b></a> <sub>archived</sub><br><sub>BSPWM</sub></td>
-<td align="right"><b>1,056</b></td>
+<td align="right"><b>1,058</b></td>
 <td align="right">72</td>
 <td>Shell</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/raymondchins.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raymondchins/Bridgeplay"><b>raymondchins/Bridgeplay</b></a><br><sub>Free fork of NotProton: Windows Steam games in Mac Steam, on CodeWeavers&#39; Wine and Apple&#39;s Game Porting Toolkit</sub></td>
-<td align="right"><b>1,039</b></td>
-<td align="right">154</td>
-<td>Scala</td>
 </tr>
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/Wikidepia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Wikidepia/InstaFix"><b>Wikidepia/InstaFix</b></a> <sub>archived</sub><br><sub>Fix Instagram embeds in Discord (and Telegram!)</sub></td>
 <td align="right"><b>1,028</b></td>
-<td align="right">69</td>
+<td align="right">68</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">95</td>
+<td><img src="https://github.com/MrSanZz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrSanZz/KawaiiGPT"><b>MrSanZz/KawaiiGPT</b></a><br><sub>WormGPT kawaii ver</sub></td>
+<td align="right"><b>961</b></td>
+<td align="right">265</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
 <td><img src="https://github.com/RioChndr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RioChndr/jaksel-language"><b>RioChndr/jaksel-language</b></a> <sub>archived</sub><br><sub>Jaksel Script, Programming language very modern and Indonesian style</sub></td>
 <td align="right"><b>960</b></td>
 <td align="right">96</td>
 <td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">96</td>
-<td><img src="https://github.com/MrSanZz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrSanZz/KawaiiGPT"><b>MrSanZz/KawaiiGPT</b></a><br><sub>WormGPT kawaii ver</sub></td>
-<td align="right"><b>959</b></td>
-<td align="right">265</td>
-<td>Python</td>
 </tr>
 <tr>
 <td align="right">97</td>
@@ -703,15 +703,15 @@
 <tr>
 <td align="right">98</td>
 <td><img src="https://github.com/sunarya-thito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sunarya-thito/shadcn_flutter"><b>sunarya-thito/shadcn&#95;flutter</b></a><br><sub>A cohesive shadcn/ui ecosystem for Flutter</sub></td>
-<td align="right"><b>957</b></td>
+<td align="right"><b>955</b></td>
 <td align="right">128</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/mansuf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mansuf/mangadex-downloader"><b>mansuf/mangadex-downloader</b></a><br><sub>A command-line tool to download manga from MangaDex, written in Python.</sub></td>
-<td align="right"><b>940</b></td>
-<td align="right">89</td>
+<td align="right"><b>943</b></td>
+<td align="right">88</td>
 <td>Python</td>
 </tr>
 <tr>

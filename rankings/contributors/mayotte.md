@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 23 Nov 2026 | <a href="../../data/contributors/YT.json">JSON</a> |
+| 🟡 Provisional | **8** | 23 Nov 2026 | <a href="../../data/contributors/YT.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/charlychyes"><img src="https://avatars.githubusercontent.com/u/141306490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/charlychyes"><b>student SAYNA</b></a><br><sub>&#64;charlychyes · 0 followers</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">39</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/bacardeveloper"><img src="https://avatars.githubusercontent.com/u/63006659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bacardeveloper"><b>niwradCodera</b></a><br><sub>&#64;bacardeveloper · 8 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">15</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/anniou21"><img src="https://avatars.githubusercontent.com/u/24396289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anniou21"><b>Anniou</b></a><br><sub>&#64;anniou21 · 4 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">13</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/ssrb"><img src="https://avatars.githubusercontent.com/u/1386579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ssrb"><b>Sebastian</b></a><br><sub>&#64;ssrb · 17 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -78,7 +87,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/ardani37"><img src="https://avatars.githubusercontent.com/u/23410563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ardani37"><b>ardani37</b></a><br><sub>&#64;ardani37 · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -93,10 +102,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 63 discovered developers (46 awaiting measurement).
+- **Measured:** 21 of 64 discovered developers (43 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 2 of 56 in round 1.
+- **Location discovery:** term 5 of 56 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

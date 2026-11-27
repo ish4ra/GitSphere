@@ -5,7 +5,7 @@
 "country": {"code":"RW","name":"Rwanda","slug":"rwanda"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":92,"ownerExpansionBacklog":129,"candidates":93,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":36,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":92,"ownerExpansionBacklog":128,"candidates":93,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":36,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOTnF3FQ","name":"quickinbox","nameWithOwner":"DivinPrince/quickinbox","url":"https://github.com/DivinPrince/quickinbox","description":"Quickinbox — self-hosted web mail client on Cloudflare Workers.","stars":434,"forks":73,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-07-29T11:36:14Z","pushedAt":"2026-11-26T07:55:44Z","archived":false,"owner":{"login":"DivinPrince","name":"Divin Prince","type":"User","url":"https://github.com/DivinPrince","location":"Rwanda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":null,"name":"inrida_build1","nameWithOwner":"H-Badger009/inrida_build1","url":"https://github.com/H-Badger009/inrida_build1","description":null,"stars":1,"forks":4,"primaryLanguage":"Dart","license":null,"createdAt":"2025-03-14T21:32:02Z","pushedAt":"2025-04-03T22:22:40Z","archived":false,"owner":{"login":"H-Badger009","name":"Abiodun Kumuyi","type":"User","url":"https://github.com/H-Badger009","location":"Kigali, Rwanda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -101,8 +101,8 @@
   {"rank":92,"id":null,"name":"Only","nameWithOwner":"NGABO1io/Only","url":"https://github.com/NGABO1io/Only","description":null,"stars":0,"forks":1,"primaryLanguage":"Move","license":null,"createdAt":"2024-07-25T11:14:37Z","pushedAt":"2024-08-01T12:12:18Z","archived":false,"owner":{"login":"NGABO1io","name":"NGABO Faustin","type":"User","url":"https://github.com/NGABO1io","location":"Rwanda Africa","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":93,"id":null,"name":"My-money-","nameWithOwner":"niyoyitaibrahim73-netizen/My-money-","url":"https://github.com/niyoyitaibrahim73-netizen/My-money-","description":null,"stars":0,"forks":1,"primaryLanguage":null,"license":{"spdxId":"GPL-3.0"},"createdAt":"2026-02-07T17:51:35Z","pushedAt":"2026-02-07T18:05:45Z","archived":false,"owner":{"login":"niyoyitaibrahim73-netizen","name":"My money","type":"User","url":"https://github.com/niyoyitaibrahim73-netizen","location":"Kigali Rwanda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "11384f17b2378689",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "5648753da2f0bbd3",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

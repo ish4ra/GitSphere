@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **202** | 22 Nov 2026 | <a href="../../data/developers/DJ.json">JSON</a> |
+| 🟡 Provisional | **203** | 22 Nov 2026 | <a href="../../data/developers/DJ.json">JSON</a> |
 
 </div>
 
@@ -51,30 +51,30 @@
 </tr>
 <tr>
 <td align="right">5</td>
-<td><a href="https://github.com/nabolitains"><img src="https://avatars.githubusercontent.com/u/42059248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nabolitains"><b>Charko M.</b></a><br><sub>&#64;nabolitains</sub></td>
-<td align="right"><b>12</b></td>
-<td align="right">13</td>
-<td><sub>Djibouti</sub></td>
-</tr>
-<tr>
-<td align="right">6</td>
 <td><a href="https://github.com/moustapha-aden"><img src="https://avatars.githubusercontent.com/u/168269942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moustapha-aden"><b>MOUSTAPHA ADEN DIRIYEH</b></a><br><sub>&#64;moustapha-aden</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">25</td>
 <td><sub>Djibouti Dj</sub></td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">6</td>
 <td><a href="https://github.com/hamoudabass"><img src="https://avatars.githubusercontent.com/u/137313862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hamoudabass"><b>Hamoud Abass</b></a><br><sub>&#64;hamoudabass</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">18</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Obelisk999"><img src="https://avatars.githubusercontent.com/u/127316981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Obelisk999"><b>Abdoulrazak</b></a><br><sub>&#64;Obelisk999</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">14</td>
+<td><sub>Djibouti</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/nabolitains"><img src="https://avatars.githubusercontent.com/u/42059248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nabolitains"><b>Charko M.</b></a><br><sub>&#64;nabolitains</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">13</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
@@ -1122,314 +1122,321 @@
 </tr>
 <tr>
 <td align="right">158</td>
+<td><a href="https://github.com/yacoubibrahim0979-lang"><img src="https://avatars.githubusercontent.com/u/258334492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yacoubibrahim0979-lang"><b>Yacoub Ibrahim</b></a><br><sub>&#64;yacoubibrahim0979-lang</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Ali-sabieh</sub></td>
+</tr>
+<tr>
+<td align="right">159</td>
 <td><a href="https://github.com/yahyaidrissibrahim-cell"><img src="https://avatars.githubusercontent.com/u/323529883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yahyaidrissibrahim-cell"><b>YAHYA IDRISS IBRAHIM</b></a><br><sub>&#64;yahyaidrissibrahim-cell</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Djibouti; Djibouti-ville</sub></td>
 </tr>
 <tr>
-<td align="right">159</td>
+<td align="right">160</td>
 <td><a href="https://github.com/YSOLAR"><img src="https://avatars.githubusercontent.com/u/347064916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YSOLAR"><b>YSOLAR</b></a><br><sub>&#64;YSOLAR</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Djibouti - Haramous</sub></td>
 </tr>
 <tr>
-<td align="right">160</td>
+<td align="right">161</td>
 <td><a href="https://github.com/77672477"><img src="https://avatars.githubusercontent.com/u/107448997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/77672477"><b>Ricoamine</b></a><br><sub>&#64;77672477</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">161</td>
+<td align="right">162</td>
 <td><a href="https://github.com/abdibasidadan"><img src="https://avatars.githubusercontent.com/u/110737451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdibasidadan"><b>Abdi-Basid Ibrahim ADAN</b></a><br><sub>&#64;abdibasidadan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">162</td>
+<td align="right">163</td>
 <td><a href="https://github.com/AbdinassirSaid"><img src="https://avatars.githubusercontent.com/u/292070612?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdinassirSaid"><b>Abdinassir Said</b></a><br><sub>&#64;AbdinassirSaid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">163</td>
+<td align="right">164</td>
 <td><a href="https://github.com/abdirahmanboute-limoo"><img src="https://avatars.githubusercontent.com/u/239192283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdirahmanboute-limoo"><b>abdirahmanboute-limoo</b></a><br><sub>&#64;abdirahmanboute-limoo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti, Cité Dawaleh lot 52</sub></td>
 </tr>
 <tr>
-<td align="right">164</td>
+<td align="right">165</td>
 <td><a href="https://github.com/AbdirahmanPoute"><img src="https://avatars.githubusercontent.com/u/160602561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdirahmanPoute"><b>Arreh Abdirahman Robleh</b></a><br><sub>&#64;AbdirahmanPoute</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">165</td>
+<td align="right">166</td>
 <td><a href="https://github.com/abdoulghanimahamoud-creator"><img src="https://avatars.githubusercontent.com/u/261171650?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdoulghanimahamoud-creator"><b>Abdougani MA</b></a><br><sub>&#64;abdoulghanimahamoud-creator</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">166</td>
+<td align="right">167</td>
 <td><a href="https://github.com/Abr-a"><img src="https://avatars.githubusercontent.com/u/145251637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abr-a"><b>Abdourahman A. MED</b></a><br><sub>&#64;Abr-a</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>DJIBOUTI</sub></td>
 </tr>
 <tr>
-<td align="right">167</td>
+<td align="right">168</td>
 <td><a href="https://github.com/alfakonde"><img src="https://avatars.githubusercontent.com/u/93058428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfakonde"><b>Ayoub Abdi</b></a><br><sub>&#64;alfakonde</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">168</td>
+<td align="right">169</td>
 <td><a href="https://github.com/charmakeqalinle"><img src="https://avatars.githubusercontent.com/u/135499850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/charmakeqalinle"><b>Charmake Qalinle</b></a><br><sub>&#64;charmakeqalinle</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">169</td>
+<td align="right">170</td>
 <td><a href="https://github.com/doualehsalah-geomatics"><img src="https://avatars.githubusercontent.com/u/233865844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/doualehsalah-geomatics"><b>doualeh SALAH IBRAHIM</b></a><br><sub>&#64;doualehsalah-geomatics</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>ALI-SABIEH, Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">170</td>
+<td align="right">171</td>
 <td><a href="https://github.com/DrowningAdventure"><img src="https://avatars.githubusercontent.com/u/130258520?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DrowningAdventure"><b>Happy</b></a><br><sub>&#64;DrowningAdventure</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">171</td>
+<td align="right">172</td>
 <td><a href="https://github.com/Engosman"><img src="https://avatars.githubusercontent.com/u/154235523?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Engosman"><b>Osman Ahmed Waiss</b></a><br><sub>&#64;Engosman</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">172</td>
+<td align="right">173</td>
 <td><a href="https://github.com/f627"><img src="https://avatars.githubusercontent.com/u/68568500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/f627"><b>f627</b></a><br><sub>&#64;f627</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Ali/sabieh djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">174</td>
 <td><a href="https://github.com/fathihassan2091-star"><img src="https://avatars.githubusercontent.com/u/312678906?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fathihassan2091-star"><b>Fathi boy</b></a><br><sub>&#64;fathihassan2091-star</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">175</td>
 <td><a href="https://github.com/hooywayka"><img src="https://avatars.githubusercontent.com/u/12792255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hooywayka"><b>Association HOOY WAYKA</b></a><br><sub>&#64;hooywayka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">176</td>
 <td><a href="https://github.com/Houmed-Dileita"><img src="https://avatars.githubusercontent.com/u/237942441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Houmed-Dileita"><b>Houmed-Dileita</b></a><br><sub>&#64;Houmed-Dileita</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">177</td>
 <td><a href="https://github.com/houssein81"><img src="https://avatars.githubusercontent.com/u/63360811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/houssein81"><b>Houssein Ahmed</b></a><br><sub>&#64;houssein81</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">178</td>
 <td><a href="https://github.com/Ibrex269796"><img src="https://avatars.githubusercontent.com/u/98896068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ibrex269796"><b>Ibrahim Nour</b></a><br><sub>&#64;Ibrex269796</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">178</td>
+<td align="right">179</td>
 <td><a href="https://github.com/Ilyaaskhadar"><img src="https://avatars.githubusercontent.com/u/92739658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ilyaaskhadar"><b>Ilyaaskhadar</b></a><br><sub>&#64;Ilyaaskhadar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">179</td>
+<td align="right">180</td>
 <td><a href="https://github.com/IsmailOmarGuelleh"><img src="https://avatars.githubusercontent.com/u/18490137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IsmailOmarGuelleh"><b>Ismail Omar Guelleh</b></a><br><sub>&#64;IsmailOmarGuelleh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">180</td>
+<td align="right">181</td>
 <td><a href="https://github.com/ItsSigman"><img src="https://avatars.githubusercontent.com/u/161205713?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ItsSigman"><b>Parsa</b></a><br><sub>&#64;ItsSigman</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibuti</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">182</td>
 <td><a href="https://github.com/johnantonymti-code"><img src="https://avatars.githubusercontent.com/u/250992145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnantonymti-code"><b>Mti Logistics</b></a><br><sub>&#64;johnantonymti-code</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">182</td>
+<td align="right">183</td>
 <td><a href="https://github.com/KhairehAmarehAboubaker"><img src="https://avatars.githubusercontent.com/u/270810431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhairehAmarehAboubaker"><b>Aboubaker Khaireh Amareh</b></a><br><sub>&#64;KhairehAmarehAboubaker</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">184</td>
 <td><a href="https://github.com/LoloTheBo"><img src="https://avatars.githubusercontent.com/u/56742510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LoloTheBo"><b>LoloTheBo</b></a><br><sub>&#64;LoloTheBo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">185</td>
 <td><a href="https://github.com/Malek93i"><img src="https://avatars.githubusercontent.com/u/47719244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Malek93i"><b>Idris Abdillahi</b></a><br><sub>&#64;Malek93i</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>DJIBOUTI</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">186</td>
 <td><a href="https://github.com/mayaabdourahman"><img src="https://avatars.githubusercontent.com/u/238955397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mayaabdourahman"><b>Soumaya Abdourahman</b></a><br><sub>&#64;mayaabdourahman</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">187</td>
 <td><a href="https://github.com/medbourhan"><img src="https://avatars.githubusercontent.com/u/107350684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/medbourhan"><b>medbourhan</b></a><br><sub>&#64;medbourhan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">188</td>
 <td><a href="https://github.com/MEDWASSEL845"><img src="https://avatars.githubusercontent.com/u/240535144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MEDWASSEL845"><b>MEDWASSEL2006</b></a><br><sub>&#64;MEDWASSEL845</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">189</td>
 <td><a href="https://github.com/mmrayros-laray"><img src="https://avatars.githubusercontent.com/u/340740830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmrayros-laray"><b>MoeMoe</b></a><br><sub>&#64;mmrayros-laray</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">190</td>
 <td><a href="https://github.com/mohamedruscov"><img src="https://avatars.githubusercontent.com/u/254355825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohamedruscov"><b>mohamedruscov</b></a><br><sub>&#64;mohamedruscov</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">191</td>
 <td><a href="https://github.com/Moustapha-abdi-77"><img src="https://avatars.githubusercontent.com/u/193908277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Moustapha-abdi-77"><b>Moustapha Aden</b></a><br><sub>&#64;Moustapha-abdi-77</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">192</td>
 <td><a href="https://github.com/moustapha-kisarion"><img src="https://avatars.githubusercontent.com/u/352623498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moustapha-kisarion"><b>Moustapha</b></a><br><sub>&#64;moustapha-kisarion</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">193</td>
 <td><a href="https://github.com/Musleh187"><img src="https://avatars.githubusercontent.com/u/142246889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Musleh187"><b>Musleh M. Ali</b></a><br><sub>&#64;Musleh187</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">194</td>
 <td><a href="https://github.com/nagueyehmohamed69-pixel"><img src="https://avatars.githubusercontent.com/u/252893594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nagueyehmohamed69-pixel"><b>Nagueyeh Med</b></a><br><sub>&#64;nagueyehmohamed69-pixel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti 🇩🇯</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">195</td>
 <td><a href="https://github.com/noelnoa016-sys"><img src="https://avatars.githubusercontent.com/u/226493772?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noelnoa016-sys"><b>Cavendish</b></a><br><sub>&#64;noelnoa016-sys</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">196</td>
 <td><a href="https://github.com/Nomade-solutions"><img src="https://avatars.githubusercontent.com/u/75019051?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nomade-solutions"><b>Nomade-solutions</b></a><br><sub>&#64;Nomade-solutions</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Gabode 5 lot 298 - BP: 1976 Republic of Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">197</td>
 <td><a href="https://github.com/Oakrimed"><img src="https://avatars.githubusercontent.com/u/179044396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Oakrimed"><b>Oakrimed</b></a><br><sub>&#64;Oakrimed</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>djibouti 🍑</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">198</td>
 <td><a href="https://github.com/OsmanRobleh"><img src="https://avatars.githubusercontent.com/u/267625026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OsmanRobleh"><b>OsmanRobleh</b></a><br><sub>&#64;OsmanRobleh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">199</td>
 <td><a href="https://github.com/Rabia-A-I"><img src="https://avatars.githubusercontent.com/u/266821860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rabia-A-I"><b>Rabia Abdillahi Ibrahim</b></a><br><sub>&#64;Rabia-A-I</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">200</td>
 <td><a href="https://github.com/RayanGam"><img src="https://avatars.githubusercontent.com/u/33353556?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RayanGam"><b>Ibrahim Gamiye Bouh</b></a><br><sub>&#64;RayanGam</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">201</td>
 <td><a href="https://github.com/said1994-goub"><img src="https://avatars.githubusercontent.com/u/82052190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/said1994-goub"><b>Said1994-goub</b></a><br><sub>&#64;said1994-goub</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">202</td>
 <td><a href="https://github.com/theactualv4sh"><img src="https://avatars.githubusercontent.com/u/98066475?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/theactualv4sh"><b>jeff</b></a><br><sub>&#64;theactualv4sh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>djibouti</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">203</td>
 <td><a href="https://github.com/Toukale"><img src="https://avatars.githubusercontent.com/u/117566063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Toukale"><b>Daher</b></a><br><sub>&#64;Toukale</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1443,7 +1450,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 202 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 203 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 4 of 37 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

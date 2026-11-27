@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/imperatormk"><img src="https://avatars.githubusercontent.com/u/23061008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imperatormk"><b>Darko</b></a><br><sub>&#64;imperatormk</sub></td>
-<td align="right"><b>79</b></td>
+<td align="right"><b>80</b></td>
 <td align="right">74</td>
 <td><sub>Bitola, Macedonia</sub></td>
 </tr>

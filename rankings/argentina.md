@@ -436,22 +436,22 @@
 </tr>
 <tr>
 <td align="right">60</td>
+<td><img src="https://github.com/asternic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asternic/wuzapi"><b>asternic/wuzapi</b></a><br><sub>Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)</sub></td>
+<td align="right"><b>1,067</b></td>
+<td align="right">500</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">61</td>
 <td><img src="https://github.com/seppo0010.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/seppo0010/rlite"><b>seppo0010/rlite</b></a><br><sub>self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what…</sub></td>
 <td align="right"><b>1,066</b></td>
 <td align="right">39</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">61</td>
-<td><img src="https://github.com/asternic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asternic/wuzapi"><b>asternic/wuzapi</b></a><br><sub>Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)</sub></td>
-<td align="right"><b>1,061</b></td>
-<td align="right">499</td>
-<td>Go</td>
-</tr>
-<tr>
 <td align="right">62</td>
 <td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/css"><b>bevacqua/css</b></a><br><sub>:art: CSS: The Good Parts</sub></td>
-<td align="right"><b>1,061</b></td>
+<td align="right"><b>1,060</b></td>
 <td align="right">133</td>
 <td>—</td>
 </tr>
@@ -486,35 +486,35 @@
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/fportantier.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fportantier/habu"><b>fportantier/habu</b></a><br><sub>Hacking Toolkit</sub></td>
-<td align="right"><b>993</b></td>
+<td align="right"><b>994</b></td>
 <td align="right">162</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/soyHenry.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/soyHenry/Python-Prep"><b>soyHenry/Python-Prep</b></a></td>
-<td align="right"><b>991</b></td>
-<td align="right">15,185</td>
+<td align="right"><b>993</b></td>
+<td align="right">15,186</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/albertito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/albertito/chasquid"><b>albertito/chasquid</b></a><br><sub>SMTP (email) server with a focus on simplicity, security, and ease of operation &#91;mirror&#93;</sub></td>
-<td align="right"><b>981</b></td>
-<td align="right">66</td>
+<td align="right"><b>982</b></td>
+<td align="right">65</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">70</td>
 <td><img src="https://github.com/eafer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eafer/rdrview"><b>eafer/rdrview</b></a><br><sub>Firefox Reader View as a command line tool</sub></td>
-<td align="right"><b>945</b></td>
+<td align="right"><b>947</b></td>
 <td align="right">39</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/RainbowCookie32.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RainbowCookie32/rusty-psn"><b>RainbowCookie32/rusty-psn</b></a><br><sub>A GUI/CLI tool for downloading PS3, PS4, and PSVita game updates</sub></td>
-<td align="right"><b>942</b></td>
+<td align="right"><b>944</b></td>
 <td align="right">52</td>
 <td>Rust</td>
 </tr>
@@ -536,13 +536,13 @@
 <td align="right">74</td>
 <td><img src="https://github.com/atralice.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atralice/Curso.Prep.Henry"><b>atralice/Curso.Prep.Henry</b></a><br><sub>Curso de Preparación para Ingresar a Henry.</sub></td>
 <td align="right"><b>927</b></td>
-<td align="right">23,600</td>
+<td align="right">23,594</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/SpartanJ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SpartanJ/efsw"><b>SpartanJ/efsw</b></a><br><sub>efsw is a C++ cross-platform file system watcher and notifier.</sub></td>
-<td align="right"><b>920</b></td>
+<td align="right"><b>921</b></td>
 <td align="right">140</td>
 <td>C++</td>
 </tr>
@@ -564,7 +564,7 @@
 <td align="right">78</td>
 <td><img src="https://github.com/lambdaclass.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lambdaclass/ethrex"><b>lambdaclass/ethrex</b></a><br><sub>Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution c…</sub></td>
 <td align="right"><b>917</b></td>
-<td align="right">258</td>
+<td align="right">260</td>
 <td>Rust</td>
 </tr>
 <tr>

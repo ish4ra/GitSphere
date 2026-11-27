@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **63** | 24 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **69** | 24 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -129,43 +129,43 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/mhdzumair.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhdzumair/MediaFusion"><b>mhdzumair/MediaFusion</b></a><br><sub>The ultimate open-source streaming platform</sub></td>
-<td align="right"><b>978</b></td>
+<td align="right"><b>982</b></td>
 <td align="right">146</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">17</td>
+<td><img src="https://github.com/thusvill.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thusvill/LiveWallpaperMacOS"><b>thusvill/LiveWallpaperMacOS</b></a><br><sub>This is a Opensource Live wallpaper solution for MacOS</sub></td>
+<td align="right"><b>975</b></td>
+<td align="right">55</td>
+<td>Objective-C++</td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><img src="https://github.com/kadirahq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kadirahq/mantra"><b>kadirahq/mantra</b></a><br><sub>Mantra - An Application Architecture for Meteor</sub></td>
 <td align="right"><b>974</b></td>
 <td align="right">50</td>
 <td>Shell</td>
 </tr>
 <tr>
-<td align="right">18</td>
-<td><img src="https://github.com/thusvill.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thusvill/LiveWallpaperMacOS"><b>thusvill/LiveWallpaperMacOS</b></a><br><sub>This is a Opensource Live wallpaper solution for MacOS</sub></td>
-<td align="right"><b>972</b></td>
-<td align="right">55</td>
-<td>Objective-C++</td>
-</tr>
-<tr>
 <td align="right">19</td>
 <td><img src="https://github.com/Dakkshin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dakkshin/after-effects-mcp"><b>Dakkshin/after-effects-mcp</b></a><br><sub>MCP Server for Adobe After Effects. Enables remote control (compositions, text, shapes, solids, properties) via the Mod…</sub></td>
-<td align="right"><b>920</b></td>
-<td align="right">163</td>
+<td align="right"><b>941</b></td>
+<td align="right">167</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/Oshan96.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Oshan96/monkey-dl"><b>Oshan96/monkey-dl</b></a><br><sub>Bulk download your favourite anime episodes from your favourite anime websites</sub></td>
-<td align="right"><b>913</b></td>
+<td align="right"><b>915</b></td>
 <td align="right">82</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/sameerasw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sameerasw/folder-icons"><b>sameerasw/folder-icons</b></a><br><sub>Folder icons I made in Windows 11 style.</sub></td>
-<td align="right"><b>902</b></td>
-<td align="right">47</td>
+<td align="right"><b>903</b></td>
+<td align="right">46</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -462,6 +462,48 @@
 <td align="right">118</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/kadirahq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kadirahq/subs-manager"><b>kadirahq/subs-manager</b></a><br><sub>Subscriptions Manager for Meteor</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">33</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/neutralinojs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neutralinojs/neutralino.js"><b>neutralinojs/neutralino.js</b></a><br><sub>JavaScript API for Neutralinojs</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">132</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/kasvith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kasvith/kache"><b>kasvith/kache</b></a> <sub>archived</sub><br><sub>A simple in memory cache written using go</sub></td>
+<td align="right"><b>352</b></td>
+<td align="right">24</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/Althinect.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Althinect/filament-spatie-roles-permissions"><b>Althinect/filament-spatie-roles-permissions</b></a></td>
+<td align="right"><b>351</b></td>
+<td align="right">118</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/neutralinojs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neutralinojs/evaluation"><b>neutralinojs/evaluation</b></a><br><sub>Neutralinojs vs Electron vs Nw.js</sub></td>
+<td align="right"><b>347</b></td>
+<td align="right">13</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/manulthanura.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/manulthanura/Positivus"><b>manulthanura/Positivus</b></a><br><sub>A stunning and versatile Astro theme designed for digital marketing agencies.</sub></td>
+<td align="right"><b>344</b></td>
+<td align="right">103</td>
+<td>Astro</td>
+</tr>
 </tbody>
 </table>
 
@@ -470,8 +512,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 373 stars; 63 attributed candidates are tracked.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 344 stars; 69 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

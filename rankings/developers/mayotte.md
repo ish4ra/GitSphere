@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **63** | 24 Nov 2026 | <a href="../../data/developers/YT.json">JSON</a> |
+| 🟡 Provisional | **64** | 24 Nov 2026 | <a href="../../data/developers/YT.json">JSON</a> |
 
 </div>
 
@@ -219,244 +219,251 @@
 </tr>
 <tr>
 <td align="right">29</td>
+<td><a href="https://github.com/Manar308263"><img src="https://avatars.githubusercontent.com/u/185671280?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Manar308263"><b>Manar Noman</b></a><br><sub>&#64;Manar308263</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>مايوت</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
 <td><a href="https://github.com/NSI976"><img src="https://avatars.githubusercontent.com/u/51050449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NSI976"><b>NSI976</b></a><br><sub>&#64;NSI976</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">31</td>
 <td><a href="https://github.com/Thanane15M"><img src="https://avatars.githubusercontent.com/u/188758572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Thanane15M"><b>Thanane Mamou</b></a><br><sub>&#64;Thanane15M</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">32</td>
 <td><a href="https://github.com/angatahi"><img src="https://avatars.githubusercontent.com/u/46824951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angatahi"><b>ismaynla</b></a><br><sub>&#64;angatahi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">33</td>
 <td><a href="https://github.com/Izoros"><img src="https://avatars.githubusercontent.com/u/223129456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Izoros"><b>Symbä HALIFA</b></a><br><sub>&#64;Izoros</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">34</td>
 <td><a href="https://github.com/Mickthesh"><img src="https://avatars.githubusercontent.com/u/354469998?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mickthesh"><b>Mogthesh</b></a><br><sub>&#64;Mickthesh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">35</td>
 <td><a href="https://github.com/vyctoriamarillac"><img src="https://avatars.githubusercontent.com/u/198120072?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vyctoriamarillac"><b>Vyctoria&#95;Marillac (Lizzy)</b></a><br><sub>&#64;vyctoriamarillac</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">36</td>
 <td><a href="https://github.com/163sqrgq3t"><img src="https://avatars.githubusercontent.com/u/165779575?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/163sqrgq3t"><b>in uber</b></a><br><sub>&#64;163sqrgq3t</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">37</td>
 <td><a href="https://github.com/Ambdourahamane"><img src="https://avatars.githubusercontent.com/u/141722222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ambdourahamane"><b>Etudiant chez Sayna</b></a><br><sub>&#64;Ambdourahamane</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">38</td>
 <td><a href="https://github.com/ardani37"><img src="https://avatars.githubusercontent.com/u/23410563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ardani37"><b>ardani37</b></a><br><sub>&#64;ardani37</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">39</td>
 <td><a href="https://github.com/Douhouchina"><img src="https://avatars.githubusercontent.com/u/143003559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Douhouchina"><b>Douhouchina Mouhamadi</b></a><br><sub>&#64;Douhouchina</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">40</td>
 <td><a href="https://github.com/elidu976"><img src="https://avatars.githubusercontent.com/u/66551441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elidu976"><b>elidu976</b></a><br><sub>&#64;elidu976</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">41</td>
 <td><a href="https://github.com/fardiben"><img src="https://avatars.githubusercontent.com/u/145955596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fardiben"><b>fardiben</b></a><br><sub>&#64;fardiben</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">42</td>
 <td><a href="https://github.com/Gepomay"><img src="https://avatars.githubusercontent.com/u/157781288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gepomay"><b>Gepomay</b></a><br><sub>&#64;Gepomay</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">43</td>
 <td><a href="https://github.com/ibn-ambbas"><img src="https://avatars.githubusercontent.com/u/33886743?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibn-ambbas"><b>salimini ibn-ambbas</b></a><br><sub>&#64;ibn-ambbas</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>sada, mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">44</td>
 <td><a href="https://github.com/issihaka"><img src="https://avatars.githubusercontent.com/u/36981860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/issihaka"><b>Issihaka HALIDI</b></a><br><sub>&#64;issihaka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>17A routes des badamiers, 97615, DZAOUDZI, MAYO…</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">45</td>
 <td><a href="https://github.com/MAY97670"><img src="https://avatars.githubusercontent.com/u/208523191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MAY97670"><b>Langue&#95;Mahoraise</b></a><br><sub>&#64;MAY97670</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">46</td>
 <td><a href="https://github.com/michelc976"><img src="https://avatars.githubusercontent.com/u/16043080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michelc976"><b>michel</b></a><br><sub>&#64;michelc976</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">47</td>
 <td><a href="https://github.com/mirghaneoussenisamirdine-create"><img src="https://avatars.githubusercontent.com/u/335596210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mirghaneoussenisamirdine-create"><b>Dessnay2.0</b></a><br><sub>&#64;mirghaneoussenisamirdine-create</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">48</td>
 <td><a href="https://github.com/naoufalitp"><img src="https://avatars.githubusercontent.com/u/178904189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/naoufalitp"><b>Naoufal CM</b></a><br><sub>&#64;naoufalitp</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte, FR</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">49</td>
 <td><a href="https://github.com/rodman976-hue"><img src="https://avatars.githubusercontent.com/u/322513921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rodman976-hue"><b>DigitalYlang Solutions</b></a><br><sub>&#64;rodman976-hue</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">50</td>
 <td><a href="https://github.com/tadjiddine"><img src="https://avatars.githubusercontent.com/u/61819516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tadjiddine"><b>halifa</b></a><br><sub>&#64;tadjiddine</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">51</td>
 <td><a href="https://github.com/w6srgsssbs-ai"><img src="https://avatars.githubusercontent.com/u/251293476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/w6srgsssbs-ai"><b>ALTER6</b></a><br><sub>&#64;w6srgsssbs-ai</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">52</td>
 <td><a href="https://github.com/29032"><img src="https://avatars.githubusercontent.com/u/87662192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/29032"><b>Zidini</b></a><br><sub>&#64;29032</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">53</td>
 <td><a href="https://github.com/alphadev-ia"><img src="https://avatars.githubusercontent.com/u/36703128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alphadev-ia"><b>AlphaFs</b></a><br><sub>&#64;alphadev-ia</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">54</td>
 <td><a href="https://github.com/ClaireG26"><img src="https://avatars.githubusercontent.com/u/180916781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ClaireG26"><b>ClaireG26</b></a><br><sub>&#64;ClaireG26</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dembeni, Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">55</td>
 <td><a href="https://github.com/DaJeDerneD"><img src="https://avatars.githubusercontent.com/u/196958295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DaJeDerneD"><b>Cerlya FÏERANE</b></a><br><sub>&#64;DaJeDerneD</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">56</td>
 <td><a href="https://github.com/fhalidi"><img src="https://avatars.githubusercontent.com/u/30458382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fhalidi"><b>fhalidi</b></a><br><sub>&#64;fhalidi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">57</td>
 <td><a href="https://github.com/gmartinez-ttg"><img src="https://avatars.githubusercontent.com/u/119834277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gmartinez-ttg"><b>Guillaume Martinez</b></a><br><sub>&#64;gmartinez-ttg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">58</td>
 <td><a href="https://github.com/Ibn0u"><img src="https://avatars.githubusercontent.com/u/294519232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ibn0u"><b>HATIBOU Ibnou Massoundi</b></a><br><sub>&#64;Ibn0u</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">59</td>
 <td><a href="https://github.com/Ikballive70-hash"><img src="https://avatars.githubusercontent.com/u/304641354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ikballive70-hash"><b>MOUSSA BEN</b></a><br><sub>&#64;Ikballive70-hash</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">60</td>
 <td><a href="https://github.com/ismaelmadipro-ship-it"><img src="https://avatars.githubusercontent.com/u/333168599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ismaelmadipro-ship-it"><b>Ismael MADI</b></a><br><sub>&#64;ismaelmadipro-ship-it</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">61</td>
 <td><a href="https://github.com/lihadjijohakim-spec"><img src="https://avatars.githubusercontent.com/u/339737536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lihadjijohakim-spec"><b>Keinjiro</b></a><br><sub>&#64;lihadjijohakim-spec</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">62</td>
 <td><a href="https://github.com/maitresaxe"><img src="https://avatars.githubusercontent.com/u/121348325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maitresaxe"><b>maitresaxe</b></a><br><sub>&#64;maitresaxe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">63</td>
 <td><a href="https://github.com/rbnlepeti72"><img src="https://avatars.githubusercontent.com/u/92257872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rbnlepeti72"><b>Rbnlepeti72</b></a><br><sub>&#64;rbnlepeti72</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mayotte</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">64</td>
 <td><a href="https://github.com/Syl20-Ghysens"><img src="https://avatars.githubusercontent.com/u/88830312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Syl20-Ghysens"><b>SYLVAIN GHYSENS</b></a><br><sub>&#64;Syl20-Ghysens</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -470,8 +477,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 63 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 2 of 56 in round 1.
+- Organizations are excluded. 64 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 5 of 56 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

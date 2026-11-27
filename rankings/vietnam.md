@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/VN.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/VN.json">JSON</a> |
 
 </div>
 
@@ -619,7 +619,7 @@
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/Kotlin-Android-Open-Source.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow"><b>Kotlin-Android-Open-Source/MVI-Coroutines-Flow</b></a><br><sub>Play MVI with Kotlin Coroutines Flow &#124; MVI pattern on Android using Kotlin Coroutines Flow &#124; Dagger Hilt DI &#124; Koin DI &#124;…</sub></td>
-<td align="right"><b>1,115</b></td>
+<td align="right"><b>1,116</b></td>
 <td align="right">116</td>
 <td>Kotlin</td>
 </tr>
@@ -627,20 +627,20 @@
 <td align="right">87</td>
 <td><img src="https://github.com/toidicode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/toidicode/template"><b>toidicode/template</b></a><br><sub>Share 100 templates HTML5 CSS3 for developer or beginner</sub></td>
 <td align="right"><b>1,067</b></td>
-<td align="right">455</td>
+<td align="right">456</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/bluzky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bluzky/salad_ui"><b>bluzky/salad&#95;ui</b></a><br><sub>Phoenix Liveview component library inspired by shadcn UI</sub></td>
-<td align="right"><b>1,059</b></td>
+<td align="right"><b>1,058</b></td>
 <td align="right">74</td>
 <td>Elixir</td>
 </tr>
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/hnvn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hnvn/flutter_image_cropper"><b>hnvn/flutter&#95;image&#95;cropper</b></a><br><sub>A Flutter plugin for Android and iOS supports cropping images</sub></td>
-<td align="right"><b>1,057</b></td>
+<td align="right"><b>1,056</b></td>
 <td align="right">479</td>
 <td>Dart</td>
 </tr>
@@ -648,78 +648,78 @@
 <td align="right">90</td>
 <td><img src="https://github.com/AlbertoMontalesi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript"><b>AlbertoMontalesi/The-complete-guide-to-modern-JavaScript</b></a><br><sub>A comprehensive, easy-to-follow ebook to learn everything from the basics of JavaScript to ES2022. Read more on my blog…</sub></td>
 <td align="right"><b>1,054</b></td>
-<td align="right">166</td>
+<td align="right">167</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/sondnpt00343.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sondnpt00343/tiktok-ui"><b>sondnpt00343/tiktok-ui</b></a><br><sub>Tiktok Clone, dự án thực hành trong khóa ReactJS tại F8: https://fullstack.edu.vn/courses/reactjs</sub></td>
-<td align="right"><b>1,053</b></td>
+<td align="right"><b>1,054</b></td>
 <td align="right">123</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/vnphanquang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vnphanquang/svelte-put"><b>vnphanquang/svelte-put</b></a><br><sub>Useful svelte stuff to put in your projects</sub></td>
-<td align="right"><b>1,044</b></td>
+<td align="right"><b>1,043</b></td>
 <td align="right">26</td>
 <td>Svelte</td>
 </tr>
 <tr>
 <td align="right">93</td>
+<td><img src="https://github.com/codepawl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codepawl/crucible"><b>codepawl/crucible</b></a><br><sub>3D engine that AI agents drive</sub></td>
+<td align="right"><b>1,037</b></td>
+<td align="right">102</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
 <td><img src="https://github.com/fromhgbwithluv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fromhgbwithluv/WSA-Script"><b>fromhgbwithluv/WSA-Script</b></a> <sub>archived</sub><br><sub>Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions</sub></td>
 <td align="right"><b>1,031</b></td>
 <td align="right">202</td>
 <td>Shell</td>
 </tr>
 <tr>
-<td align="right">94</td>
+<td align="right">95</td>
+<td><img src="https://github.com/YangJiiii.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YangJiiii/3105"><b>YangJiiii/3105</b></a><br><sub>Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.</sub></td>
+<td align="right"><b>1,016</b></td>
+<td align="right">206</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">96</td>
 <td><img src="https://github.com/iamvucms.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iamvucms/react-native-instagram-clone"><b>iamvucms/react-native-instagram-clone</b></a><br><sub>A React Native app - Clone Instagram mobile app</sub></td>
 <td align="right"><b>1,007</b></td>
 <td align="right">309</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">95</td>
-<td><img src="https://github.com/YangJiiii.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YangJiiii/3105"><b>YangJiiii/3105</b></a><br><sub>Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.</sub></td>
-<td align="right"><b>1,007</b></td>
-<td align="right">204</td>
-<td>Swift</td>
-</tr>
-<tr>
-<td align="right">96</td>
+<td align="right">97</td>
 <td><img src="https://github.com/tuyenvm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tuyenvm/OpenKey"><b>tuyenvm/OpenKey</b></a><br><sub>Vietnamese Input for macOS, Windows and Linux - Bộ gõ Tiếng Việt nguồn mở đa nền tảng</sub></td>
 <td align="right"><b>982</b></td>
-<td align="right">365</td>
+<td align="right">367</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">98</td>
+<td><img src="https://github.com/blogminhquy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blogminhquy/javis-os"><b>blogminhquy/javis-os</b></a></td>
+<td align="right"><b>926</b></td>
+<td align="right">298</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">99</td>
 <td><img src="https://github.com/htkhiem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/htkhiem/euphonica"><b>htkhiem/euphonica</b></a><br><sub>Local music player with delusions of grandeur, powered by MPD</sub></td>
-<td align="right"><b>917</b></td>
+<td align="right"><b>918</b></td>
 <td align="right">32</td>
 <td>Rust</td>
 </tr>
 <tr>
-<td align="right">98</td>
-<td><img src="https://github.com/vinhnx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vinhnx/VTCode"><b>vinhnx/VTCode</b></a><br><sub>VT Code is a terminal-first coding agent for your repo, in the CLI and native macOS app.</sub></td>
-<td align="right"><b>916</b></td>
-<td align="right">102</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">99</td>
-<td><img src="https://github.com/codepawl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codepawl/crucible"><b>codepawl/crucible</b></a><br><sub>3D engine that AI agents drive</sub></td>
-<td align="right"><b>915</b></td>
-<td align="right">84</td>
-<td>JavaScript</td>
-</tr>
-<tr>
 <td align="right">100</td>
-<td><img src="https://github.com/blogminhquy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blogminhquy/javis-os"><b>blogminhquy/javis-os</b></a></td>
-<td align="right"><b>905</b></td>
-<td align="right">286</td>
-<td>Python</td>
+<td><img src="https://github.com/vinhnx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vinhnx/VTCode"><b>vinhnx/VTCode</b></a><br><sub>VT Code is an open-source coding agent for everyone</sub></td>
+<td align="right"><b>917</b></td>
+<td align="right">101</td>
+<td>Rust</td>
 </tr>
 </tbody>
 </table>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 905 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 917 stars; 150 attributed candidates are tracked.
 - 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 170 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

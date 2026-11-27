@@ -5,7 +5,7 @@
 "country": {"code":"AL","name":"Albania","slug":"albania"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":374,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":121,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":374,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":119,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOHaGpfg","name":"ytdlnis","nameWithOwner":"deniscerri/ytdlnis","url":"https://github.com/deniscerri/ytdlnis","description":"Full-featured audio/video downloader for Android using yt-dlp","stars":11314,"forks":545,"primaryLanguage":"Kotlin","license":{"spdxId":"GPL-3.0"},"createdAt":"2022-05-27T20:46:51Z","pushedAt":"2026-11-25T02:12:52Z","archived":false,"owner":{"login":"deniscerri","name":"Denis Çerri","type":"User","url":"https://github.com/deniscerri","location":"Albania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOG_Lw5g","name":"ALHacking","nameWithOwner":"4lbH4cker/ALHacking","url":"https://github.com/4lbH4cker/ALHacking","description":"Albanian Hacking Tool!! Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Anonymous-sms…","stars":1699,"forks":367,"primaryLanguage":"Shell","license":{"spdxId":"NOASSERTION"},"createdAt":"2022-03-11T21:35:30Z","pushedAt":"2024-12-24T16:33:35Z","archived":false,"owner":{"login":"4lbH4cker","name":"4lbH4cker","type":"User","url":"https://github.com/4lbH4cker","location":"Albania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
@@ -21,8 +21,8 @@
   {"rank":12,"id":"MDEwOlJlcG9zaXRvcnk4MjAyOTIx","name":"tirexs","nameWithOwner":"Zatvobor/tirexs","url":"https://github.com/Zatvobor/tirexs","description":"An Elixir flavored HTTP client and DSL library for Elasticsearch","stars":424,"forks":88,"primaryLanguage":"Elixir","license":{"spdxId":"NOASSERTION"},"createdAt":"2013-02-14T16:22:03Z","pushedAt":"2022-01-10T05:34:18Z","archived":false,"owner":{"login":"Zatvobor","name":"O.Z11I","type":"User","url":"https://github.com/Zatvobor","location":"CET","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-26"},
   {"rank":13,"id":"R_kgDOMTw6FA","name":"shadcn-address-autocomplete","nameWithOwner":"NiazMorshed2007/shadcn-address-autocomplete","url":"https://github.com/NiazMorshed2007/shadcn-address-autocomplete","description":"An address autocomplete component built with Google Places API and shadcn components.","stars":374,"forks":19,"primaryLanguage":"TypeScript","license":null,"createdAt":"2024-07-09T01:35:56Z","pushedAt":"2024-07-09T02:18:10Z","archived":false,"owner":{"login":"NiazMorshed2007","name":"Niaz Morshed","type":"User","url":"https://github.com/NiazMorshed2007","location":"Planet","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "09dcf29beb161b41",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "2022d82ebe52c122",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

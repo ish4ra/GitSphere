@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **85** | 24 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟡 Provisional | **93** | 24 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/dgutov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dgutov/diff-hl"><b>dgutov/diff-hl</b></a><br><sub>Emacs package for highlighting uncommitted changes</sub></td>
-<td align="right"><b>1,122</b></td>
+<td align="right"><b>1,123</b></td>
 <td align="right">74</td>
 <td>Emacs Lisp</td>
 </tr>
@@ -206,14 +206,14 @@
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdGuardDNS"><b>AdguardTeam/AdGuardDNS</b></a><br><sub>Public DNS resolver that protects you from ad trackers</sub></td>
-<td align="right"><b>970</b></td>
+<td align="right"><b>971</b></td>
 <td align="right">83</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/protesilaos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/protesilaos/modus-themes"><b>protesilaos/modus-themes</b></a><br><sub>Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and…</sub></td>
-<td align="right"><b>922</b></td>
+<td align="right"><b>924</b></td>
 <td align="right">78</td>
 <td>Emacs Lisp</td>
 </tr>
@@ -616,6 +616,62 @@
 <td align="right">67</td>
 <td>Objective-C</td>
 </tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/FiltersRegistry"><b>AdguardTeam/FiltersRegistry</b></a><br><sub>Known filters subscriptions transformed for better compatibility with AdGuard</sub></td>
+<td align="right"><b>369</b></td>
+<td align="right">75</td>
+<td>Adblock Filter List</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/onegray.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onegray/UIViewController-BackButtonHandler"><b>onegray/UIViewController-BackButtonHandler</b></a><br><sub>The extension allows to handle UINavigationViewController&#39;s &#39;Back&#39; button action. Download sample app - https://github.…</sub></td>
+<td align="right"><b>369</b></td>
+<td align="right">67</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/divalue.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/divalue/Awesome-RealityKit"><b>divalue/Awesome-RealityKit</b></a><br><sub>Awesome projects and resources about RealityKit</sub></td>
+<td align="right"><b>367</b></td>
+<td align="right">21</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/morozovsk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/morozovsk/websocket"><b>morozovsk/websocket</b></a><br><sub>simple php websocket server + demos + yii/yii2 integration + php 7 support</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">73</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/protesilaos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/protesilaos/dotfiles"><b>protesilaos/dotfiles</b></a><br><sub>Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.</sub></td>
+<td align="right"><b>352</b></td>
+<td align="right">27</td>
+<td>Emacs Lisp</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/dgutov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dgutov/mmm-mode"><b>dgutov/mmm-mode</b></a><br><sub>New official home for mmm-mode, fixed for Emacs &gt;= 23</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">35</td>
+<td>Emacs Lisp</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/protesilaos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/protesilaos/iosevka-comfy"><b>protesilaos/iosevka-comfy</b></a> <sub>archived</sub><br><sub>Custom build of Iosevka with different style and metrics than the default.</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">14</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/gomitmproxy"><b>AdguardTeam/gomitmproxy</b></a><br><sub>Simple golang mitm proxy implementation</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">71</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -624,8 +680,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 372 stars; 85 attributed candidates are tracked.
-- 89 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 348 stars; 93 attributed candidates are tracked.
+- 84 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

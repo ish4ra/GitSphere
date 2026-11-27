@@ -5,12 +5,12 @@
 "country": {"code":"LY","name":"Libya","slug":"libya"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":664,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":112,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":108,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":664,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":101,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":108,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMzE5MzgwOTU=","name":"AdvancedPageControl","nameWithOwner":"mohn93/AdvancedPageControl","url":"https://github.com/mohn93/AdvancedPageControl","description":"A simple yet powerful animated page control indicator for iOS.","stars":664,"forks":79,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2020-01-05T15:34:56Z","pushedAt":"2026-04-16T17:44:15Z","archived":false,"owner":{"login":"mohn93","name":"Mohaned Benmesken","type":"User","url":"https://github.com/mohn93","location":"Libya","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "5e1b6d6b3c472538",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "fcaba7a56f3451ba",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

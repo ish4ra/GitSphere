@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **62** | 24 Nov 2026 | <a href="../data/CL.json">JSON</a> |
+| 🟡 Provisional | **74** | 24 Nov 2026 | <a href="../data/CL.json">JSON</a> |
 
 </div>
 
@@ -93,24 +93,24 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><img src="https://github.com/alexeyw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexeyw/lot-map"><b>alexeyw/lot-map</b></a><br><sub>Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks,…</sub></td>
+<td align="right"><b>1,185</b></td>
+<td align="right">123</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><img src="https://github.com/platanus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/platanus/angular-restmod"><b>platanus/angular-restmod</b></a><br><sub>Rails inspired REST-API ORM for Angular</sub></td>
 <td align="right"><b>1,167</b></td>
 <td align="right">84</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><img src="https://github.com/jlobos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jlobos/instagram-web-api"><b>jlobos/instagram-web-api</b></a><br><sub>🤳 Instagram Private Web API client for Node</sub></td>
 <td align="right"><b>1,153</b></td>
 <td align="right">177</td>
 <td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td><img src="https://github.com/alexeyw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexeyw/lot-map"><b>alexeyw/lot-map</b></a><br><sub>Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks,…</sub></td>
-<td align="right"><b>1,141</b></td>
-<td align="right">120</td>
-<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">14</td>
@@ -122,43 +122,43 @@
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/juanbrujo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juanbrujo/listado-apis-publicas-en-chile"><b>juanbrujo/listado-apis-publicas-en-chile</b></a><br><sub>Listado de API&#39;s Públicas para distintos tipos de servicios digitales nacionales</sub></td>
-<td align="right"><b>1,032</b></td>
+<td align="right"><b>1,033</b></td>
 <td align="right">192</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/ColdGrub1384.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ColdGrub1384/Pyto"><b>ColdGrub1384/Pyto</b></a><br><sub>Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn</sub></td>
-<td align="right"><b>1,028</b></td>
+<td align="right"><b>1,029</b></td>
 <td align="right">187</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">17</td>
+<td><img src="https://github.com/chevereto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chevereto/chevereto"><b>chevereto/chevereto</b></a><br><sub>The mature, battle-tested, high-end, OG self-hosted image and video hosting solution trusted since 2007. Build your own…</sub></td>
+<td align="right"><b>1,021</b></td>
+<td align="right">90</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><img src="https://github.com/eliukblau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eliukblau/pixterm"><b>eliukblau/pixterm</b></a><br><sub>Draw images in your ANSI terminal with true color</sub></td>
 <td align="right"><b>1,021</b></td>
 <td align="right">57</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">18</td>
-<td><img src="https://github.com/chevereto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chevereto/chevereto"><b>chevereto/chevereto</b></a><br><sub>The mature, battle-tested, high-end, OG self-hosted image and video hosting solution trusted since 2007. Build your own…</sub></td>
-<td align="right"><b>1,019</b></td>
-<td align="right">90</td>
-<td>PHP</td>
-</tr>
-<tr>
 <td align="right">19</td>
 <td><img src="https://github.com/ofou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ofou/graham-essays"><b>ofou/graham-essays</b></a><br><sub>📚 Download the full collection of Paul Graham essays in EPUB, PDF &amp; Markdown for easy reading.</sub></td>
-<td align="right"><b>996</b></td>
+<td align="right"><b>997</b></td>
 <td align="right">63</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/ramaureirac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ramaureirac/godot-tactical-rpg"><b>ramaureirac/godot-tactical-rpg</b></a><br><sub>A tactical role-playing game demo for the Godot Engine</sub></td>
-<td align="right"><b>983</b></td>
-<td align="right">117</td>
+<td align="right"><b>984</b></td>
+<td align="right">118</td>
 <td>GDScript</td>
 </tr>
 <tr>
@@ -455,6 +455,90 @@
 <td align="right">30</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/RRUZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RRUZ/vcl-styles-utils"><b>RRUZ/vcl-styles-utils</b></a><br><sub>Extend and improve the Delphi VCL Styles</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">125</td>
+<td>Pascal</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/dccuchile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dccuchile/spanish-word-embeddings"><b>dccuchile/spanish-word-embeddings</b></a><br><sub>Spanish word embeddings computed with different methods and from different corpora</sub></td>
+<td align="right"><b>364</b></td>
+<td align="right">81</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/jakeajames.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jakeajames/rootlessJB3"><b>jakeajames/rootlessJB3</b></a><br><sub>hahh</sub></td>
+<td align="right"><b>361</b></td>
+<td align="right">130</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/opensaludlab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/opensaludlab/ciencia_datos"><b>opensaludlab/ciencia&#95;datos</b></a><br><sub>El curso en español, de acceso abierto y gratuito más grande del mundo sobre Ciencia de Datos en salud.</sub></td>
+<td align="right"><b>361</b></td>
+<td align="right">107</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/lopezjurip.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lopezjurip/ReactNativeTS"><b>lopezjurip/ReactNativeTS</b></a> <sub>archived</sub><br><sub>Boilerplate of a React Native project in Typescript.</sub></td>
+<td align="right"><b>361</b></td>
+<td align="right">44</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/oxfist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oxfist/night-owl.nvim"><b>oxfist/night-owl.nvim</b></a><br><sub>🦉 🌌 Night Owl colorscheme implementation for Neovim with support for Treesitter and semantic tokens</sub></td>
+<td align="right"><b>353</b></td>
+<td align="right">32</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/ColdGrub1384.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ColdGrub1384/LibTerm-Packages"><b>ColdGrub1384/LibTerm-Packages</b></a><br><sub>A repo where put Python scripts installable in LibTerm</sub></td>
+<td align="right"><b>349</b></td>
+<td align="right">87</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/vinavfx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vinavfx/ComfyUI-for-Nuke"><b>vinavfx/ComfyUI-for-Nuke</b></a><br><sub>API to be able to use ComfyUI nodes within nuke, only using the ComfyUI server</sub></td>
+<td align="right"><b>349</b></td>
+<td align="right">27</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/Mjrovai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mjrovai/XIAO-ESP32S3-Sense"><b>Mjrovai/XIAO-ESP32S3-Sense</b></a><br><sub>Seeed Studio XIAO ESP32S3 Sense integrates a camera sensor, digital microphone, and SD card support. Combining embedded…</sub></td>
+<td align="right"><b>344</b></td>
+<td align="right">59</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/felipeleivav.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/felipeleivav/yboard"><b>felipeleivav/yboard</b></a><br><sub>Yboard is a multiplayer desktop-like workspace based on Yjs</sub></td>
+<td align="right"><b>343</b></td>
+<td align="right">15</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/warfares.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/warfares/pretty-json"><b>warfares/pretty-json</b></a><br><sub>Simple library to render/format a JS obj to an HTML view.</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">68</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/Laragear.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Laragear/TwoFactor"><b>Laragear/TwoFactor</b></a><br><sub>Two-Factor Authentication for all your users out-of-the-box.</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">24</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -463,8 +547,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 375 stars; 62 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 341 stars; 74 attributed candidates are tracked.
+- 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

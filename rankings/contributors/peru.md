@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/PE.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/PE.json">JSON</a> |
 
 </div>
 
@@ -151,6 +151,15 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/collectivecloudperu"><img src="https://avatars.githubusercontent.com/u/11830789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/collectivecloudperu"><b>Nube Colectiva</b></a><br><sub>&#64;collectivecloudperu · 135 followers</sub></td>
+<td align="right"><b>109</b></td>
+<td align="right">101</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/GorkyFlorez"><img src="https://avatars.githubusercontent.com/u/83134240?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GorkyFlorez"><b>Gorky</b></a><br><sub>&#64;GorkyFlorez · 107 followers</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">73</td>
@@ -159,13 +168,22 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/alexmarinmendez"><img src="https://avatars.githubusercontent.com/u/77815088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexmarinmendez"><b>Alex Marin Mendez</b></a><br><sub>&#64;alexmarinmendez · 176 followers</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">69</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/PuercoPop"><img src="https://avatars.githubusercontent.com/u/387111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PuercoPop"><b>Javier Olaechea</b></a><br><sub>&#64;PuercoPop · 228 followers</sub></td>
+<td align="right"><b>69</b></td>
+<td align="right">28</td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">5</td>
 </tr>
 </tbody>
 </table>
@@ -174,7 +192,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 16 of 477 discovered developers (461 awaiting measurement).
+- **Measured:** 20 of 483 discovered developers (463 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 118 in round 1.

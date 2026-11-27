@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **55** | 01 Nov 2026 | <a href="../data/KE.json">JSON</a> |
-
-> **Not yet re-verified.** 18 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **42** | 24 Nov 2026 | <a href="../data/KE.json">JSON</a> |
 
 </div>
 
@@ -111,7 +109,7 @@
 <td align="right">13</td>
 <td><img src="https://github.com/Dark-Xploit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dark-Xploit/SPACE-MD"><b>Dark-Xploit/SPACE-MD</b></a> <sub>archived</sub></td>
 <td align="right"><b>1,100</b></td>
-<td align="right">2,453</td>
+<td align="right">2,454</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -284,129 +282,38 @@
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/monsieurmeemy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/monsieurmeemy/Nop.Plugin.Payments.IpayAfrica"><b>monsieurmeemy/Nop.Plugin.Payments.IpayAfrica</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">3</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/chriscayro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chriscayro/mybrowser"><b>chriscayro/mybrowser</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><img src="https://github.com/kipric.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kipric/RSEI-PROJECT"><b>kipric/RSEI-PROJECT</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/n0sty.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/n0sty/SolisTrack"><b>n0sty/SolisTrack</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/oneadera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oneadera/react-fatless-form"><b>oneadera/react-fatless-form</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
+<td><img src="https://github.com/JohnMwendwa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JohnMwendwa/vet-management-system"><b>JohnMwendwa/vet-management-system</b></a><br><sub>This is an admin dashboard built for managing hospital/vet services</sub></td>
+<td align="right"><b>367</b></td>
+<td align="right">47</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">43</td>
-<td><img src="https://github.com/PHIMAS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PHIMAS/aviator"><b>PHIMAS/aviator</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><img src="https://github.com/songa-labs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/songa-labs/songa-labs.github.io"><b>songa-labs/songa-labs.github.io</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/123467.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/123467/create-facebook"><b>123467/create-facebook</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/mwakidenis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mwakidenis/WebCheck-OSINT"><b>mwakidenis/WebCheck-OSINT</b></a><br><sub>🕵️♂️ A comprehensive, on-demand, all-in-one OSINT reconnaissance tool for dissecting any website. 🧠🌐💥</sub></td>
+<td align="right"><b>356</b></td>
 <td align="right">46</td>
-<td><img src="https://github.com/abdulmumi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdulmumi/pyhsongame"><b>abdulmumi/pyhsongame</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td>TypeScript</td>
 </tr>
 <tr>
+<td align="right">40</td>
+<td><img src="https://github.com/maxwellito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maxwellito/vivus-instant"><b>maxwellito/vivus-instant</b></a><br><sub>Single page app to create independent stroke animated SVGs</sub></td>
+<td align="right"><b>350</b></td>
 <td align="right">47</td>
-<td><img src="https://github.com/alexwafula544.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexwafula544/alex12"><b>alexwafula544/alex12</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">48</td>
-<td><img src="https://github.com/Arumbaa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arumbaa/UD-Tech-Farm-Management-System"><b>Arumbaa/UD-Tech-Farm-Management-System</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td align="right">41</td>
+<td><img src="https://github.com/tunapanda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tunapanda/h5p-standalone"><b>tunapanda/h5p-standalone</b></a><br><sub>Display H5P content without the need for an H5P server</sub></td>
+<td align="right"><b>347</b></td>
+<td align="right">148</td>
+<td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">49</td>
-<td><img src="https://github.com/Austineamwayi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Austineamwayi/Create-project-"><b>Austineamwayi/Create-project-</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">50</td>
-<td><img src="https://github.com/baraka-eng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baraka-eng/Java"><b>baraka-eng/Java</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">51</td>
-<td><img src="https://github.com/Bless793.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bless793/Houron"><b>Bless793/Houron</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">52</td>
-<td><img src="https://github.com/CetrickO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CetrickO/FreeCodeCamp"><b>CetrickO/FreeCodeCamp</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">53</td>
-<td><img src="https://github.com/CHEPTERIT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CHEPTERIT/myapp"><b>CHEPTERIT/myapp</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">54</td>
-<td><img src="https://github.com/ChiedozieNwosu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChiedozieNwosu/ChiedozieNwosu"><b>ChiedozieNwosu/ChiedozieNwosu</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">55</td>
-<td><img src="https://github.com/CollinsCollo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CollinsCollo/html"><b>CollinsCollo/html</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td align="right">42</td>
+<td><img src="https://github.com/mattgathu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mattgathu/cute"><b>mattgathu/cute</b></a><br><sub>Macro for Python-esque comprehensions in Rust</sub></td>
+<td align="right"><b>345</b></td>
+<td align="right">8</td>
+<td>Rust</td>
 </tr>
 </tbody>
 </table>
@@ -414,11 +321,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 55 attributed candidates are tracked.
-- 18 entries were carried over from the previous dataset and are pending revalidation.
-- 117 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 345 stars; 42 attributed candidates are tracked.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

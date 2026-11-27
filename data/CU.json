@@ -5,12 +5,12 @@
 "country": {"code":"CU","name":"Cuba","slug":"cuba"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":594,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":101,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":90,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":594,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":90,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":90,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMDIyNzE5MDI=","name":"MystiQ","nameWithOwner":"swl-x/MystiQ","url":"https://github.com/swl-x/MystiQ","description":"Qt5/C++ FFmpeg Media Converter","stars":594,"forks":82,"primaryLanguage":"C++","license":{"spdxId":"GPL-3.0"},"createdAt":"2019-08-14T04:02:26Z","pushedAt":"2024-06-12T02:50:36Z","archived":false,"owner":{"login":"swl-x","name":"SWL-X Project","type":"Organization","url":"https://github.com/swl-x","location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "95e33c25264e777e",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "6d274b7b095a4d40",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

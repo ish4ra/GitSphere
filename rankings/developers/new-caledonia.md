@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/AkiraLaine"><img src="https://avatars.githubusercontent.com/u/11958359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AkiraLaine"><b>Akira Laine</b></a><br><sub>&#64;AkiraLaine</sub></td>
-<td align="right"><b>264</b></td>
+<td align="right"><b>263</b></td>
 <td align="right">45</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>

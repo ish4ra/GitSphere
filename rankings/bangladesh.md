@@ -325,30 +325,30 @@
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/LordAmit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LordAmit/Brightness"><b>LordAmit/Brightness</b></a><br><sub>Using Brightness Controller, you can control brightness of both primary and external displays in Linux. Check it out!</sub></td>
-<td align="right"><b>1,138</b></td>
+<td align="right"><b>1,139</b></td>
 <td align="right">90</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/abubakarsiddik31.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abubakarsiddik31/claude-skills-collection"><b>abubakarsiddik31/claude-skills-collection</b></a><br><sub>A curated collection of official and community-built Claude Skills – extend Anthropic&#39;s Claude with powerful, modular c…</sub></td>
-<td align="right"><b>1,136</b></td>
-<td align="right">222</td>
+<td align="right"><b>1,138</b></td>
+<td align="right">224</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">46</td>
+<td><img src="https://github.com/wasi-master.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wasi-master/wmkeyboard"><b>wasi-master/wmkeyboard</b></a><br><sub>A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.</sub></td>
+<td align="right"><b>1,132</b></td>
+<td align="right">74</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">47</td>
 <td><img src="https://github.com/Tarikul-Islam-Anik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis"><b>Tarikul-Islam-Anik/Animated-Fluent-Emojis</b></a><br><sub>All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README fil…</sub></td>
 <td align="right"><b>1,108</b></td>
 <td align="right">121</td>
 <td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">47</td>
-<td><img src="https://github.com/wasi-master.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wasi-master/wmkeyboard"><b>wasi-master/wmkeyboard</b></a><br><sub>A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.</sub></td>
-<td align="right"><b>1,102</b></td>
-<td align="right">71</td>
-<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">48</td>
@@ -360,15 +360,15 @@
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/devsonket.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devsonket/devsonket.github.io"><b>devsonket/devsonket.github.io</b></a><br><sub>🎨🛠📌 সম্পূর্ণ বাংলায় ডেভেলপার চিটশিট 🎨🛠📌</sub></td>
-<td align="right"><b>1,039</b></td>
-<td align="right">597</td>
+<td align="right"><b>1,038</b></td>
+<td align="right">599</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/hasan-py.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hasan-py/Hayroo"><b>hasan-py/Hayroo</b></a><br><sub>Full-featured MERN Stack E-commerce platform with payment gateway using React, Node.js, Express, MongoDB, JWT, and Tail…</sub></td>
-<td align="right"><b>1,012</b></td>
-<td align="right">477</td>
+<td align="right"><b>1,010</b></td>
+<td align="right">476</td>
 <td>CSS</td>
 </tr>
 <tr>
@@ -388,7 +388,7 @@
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/cracker911181.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cracker911181/Cracker-Tool"><b>cracker911181/Cracker-Tool</b></a><br><sub>All in One CRACKER911181&#39;s Tool. This Tool For Hacking and Pentesting. 🎭</sub></td>
-<td align="right"><b>975</b></td>
+<td align="right"><b>976</b></td>
 <td align="right">130</td>
 <td>Python</td>
 </tr>
@@ -403,7 +403,7 @@
 <td align="right">55</td>
 <td><img src="https://github.com/saifaustcse.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saifaustcse/dotnet-developer-roadmap"><b>saifaustcse/dotnet-developer-roadmap</b></a><br><sub>Full-stack .NET Developer Roadmap</sub></td>
 <td align="right"><b>940</b></td>
-<td align="right">117</td>
+<td align="right">116</td>
 <td>—</td>
 </tr>
 <tr>

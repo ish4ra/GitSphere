@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **92** | 24 Nov 2026 | <a href="../data/SK.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
 </div>
 
@@ -192,28 +192,28 @@
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/Kin69.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kin69/EasyNotes"><b>Kin69/EasyNotes</b></a><br><sub>EasyNotes: Jetpack Compose MVVM for seamless note-taking. Effortless creation, editing, and organization.</sub></td>
-<td align="right"><b>1,105</b></td>
+<td align="right"><b>1,106</b></td>
 <td align="right">76</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/AlephNullSK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlephNullSK/dnsgen"><b>AlephNullSK/dnsgen</b></a><br><sub>DNSGen is a powerful and flexible DNS name permutation tool designed for security researchers and penetration testers.…</sub></td>
-<td align="right"><b>1,083</b></td>
+<td align="right"><b>1,082</b></td>
 <td align="right">131</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/wessamlauf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wessamlauf/homeassistant-frosted-glass-themes"><b>wessamlauf/homeassistant-frosted-glass-themes</b></a><br><sub>✨ Beautiful and modern Theme for Home Assistant</sub></td>
-<td align="right"><b>1,078</b></td>
-<td align="right">29</td>
+<td align="right"><b>1,082</b></td>
+<td align="right">28</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/MartinHeinz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MartinHeinz/python-project-blueprint"><b>MartinHeinz/python-project-blueprint</b></a><br><sub>Blueprint/Boilerplate For Python Projects</sub></td>
-<td align="right"><b>972</b></td>
+<td align="right"><b>973</b></td>
 <td align="right">227</td>
 <td>Makefile</td>
 </tr>
@@ -665,15 +665,71 @@
 <td align="right">177</td>
 <td>Kotlin</td>
 </tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/dderevjanik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dderevjanik/github-vscode-icons"><b>dderevjanik/github-vscode-icons</b></a><br><sub>📦 vscode-icons for github, nearly 1000 file/folder icons</sub></td>
+<td align="right"><b>370</b></td>
+<td align="right">28</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/JAndrassy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JAndrassy/WiFiEspAT"><b>JAndrassy/WiFiEspAT</b></a><br><sub>Arduino networking library. Standard Arduino WiFi networking API over ESP8266 or ESP32 AT commands.</sub></td>
+<td align="right"><b>361</b></td>
+<td align="right">49</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Keyboard"><b>SimpleMobileTools/Simple-Keyboard</b></a><br><sub>Easy keyboard for inserting all kinds of texts, special characters and numbers.</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">122</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/sv222.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sv222/aws-cloud-architecture-handbook"><b>sv222/aws-cloud-architecture-handbook</b></a><br><sub>Practical AWS cloud architecture handbook for engineers: core services, design patterns, limits, security, cost optimiz…</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">96</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/BetaRavener.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BetaRavener/uPyLoader"><b>BetaRavener/uPyLoader</b></a><br><sub>File transfer and communication tool for MicroPython boards</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">79</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/silverqx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/silverqx/TinyORM"><b>silverqx/TinyORM</b></a><br><sub>Modern C++ ORM library</sub></td>
+<td align="right"><b>353</b></td>
+<td align="right">38</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/zaggino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zaggino/z-schema"><b>zaggino/z-schema</b></a><br><sub>JSON Schema validator written in JavaScript for NodeJS and Browsers</sub></td>
+<td align="right"><b>350</b></td>
+<td align="right">92</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/j91321.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/j91321/rext"><b>j91321/rext</b></a><br><sub>Router EXploitation Toolkit - small toolkit for easy creation and usage of various python scripts that work with embedd…</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">101</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 372 stars; 92 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 348 stars; 101 attributed candidates are tracked.
 - 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

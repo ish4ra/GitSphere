@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/OM.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/OM.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/muneerasaifalnaabi-prog"><img src="https://avatars.githubusercontent.com/u/252245185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muneerasaifalnaabi-prog"><b>Muneera Al Naabi</b></a><br><sub>&#64;muneerasaifalnaabi-prog · 5 followers</sub></td>
+<td align="right"><b>2,977</b></td>
+<td align="right">2,890</td>
+<td align="right">11</td>
+<td align="right">0</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/shihabal3amri"><img src="https://avatars.githubusercontent.com/u/42039842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shihabal3amri"><b>Shihab</b></a><br><sub>&#64;shihabal3amri · 711 followers</sub></td>
 <td align="right"><b>1,264</b></td>
 <td align="right">915</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/foxoman"><img src="https://avatars.githubusercontent.com/u/5356677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/foxoman"><b>Sultan Al Isaiee</b></a><br><sub>&#64;foxoman · 102 followers</sub></td>
 <td align="right"><b>657</b></td>
 <td align="right">651</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/pylover"><img src="https://avatars.githubusercontent.com/u/1302253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pylover"><b>Vahid</b></a><br><sub>&#64;pylover · 426 followers</sub></td>
 <td align="right"><b>593</b></td>
 <td align="right">579</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/sanjeed5"><img src="https://avatars.githubusercontent.com/u/40694326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sanjeed5"><b>Sanjeed</b></a><br><sub>&#64;sanjeed5 · 135 followers</sub></td>
 <td align="right"><b>526</b></td>
 <td align="right">358</td>
@@ -87,7 +96,7 @@
 <td align="right">8</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/vamansworld786-arch"><img src="https://avatars.githubusercontent.com/u/245005779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vamansworld786-arch"><b>VAMAN KANTHAPPA POOJARY</b></a><br><sub>&#64;vamansworld786-arch · 0 followers</sub></td>
 <td align="right"><b>208</b></td>
 <td align="right">122</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/byteab"><img src="https://avatars.githubusercontent.com/u/46188784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/byteab"><b>Ehsan sarshar</b></a><br><sub>&#64;byteab · 109 followers</sub></td>
 <td align="right"><b>143</b></td>
 <td align="right">134</td>
@@ -105,7 +114,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Aslemammad"><img src="https://avatars.githubusercontent.com/u/37929992?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aslemammad"><b>Mohammad Bagher Abiyat</b></a><br><sub>&#64;Aslemammad · 894 followers</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">56</td>
@@ -114,7 +123,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/sweelam"><img src="https://avatars.githubusercontent.com/u/8615066?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sweelam"><b>Sweelam</b></a><br><sub>&#64;sweelam · 387 followers</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">88</td>
@@ -123,7 +132,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/Fahad-Al-Maashani"><img src="https://avatars.githubusercontent.com/u/122757915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fahad-Al-Maashani"><b>Fahad Al Maashani</b></a><br><sub>&#64;Fahad-Al-Maashani · 148 followers</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">47</td>
@@ -132,10 +141,28 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
+<td><a href="https://github.com/fadaee21"><img src="https://avatars.githubusercontent.com/u/91457504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fadaee21"><b>Arash</b></a><br><sub>&#64;fadaee21 · 2 followers</sub></td>
+<td align="right"><b>43</b></td>
+<td align="right">33</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/Arman170616"><img src="https://avatars.githubusercontent.com/u/64675035?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arman170616"><b>Arman Hossain</b></a><br><sub>&#64;Arman170616 · 42 followers</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">7</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/Iman-Alzadajli"><img src="https://avatars.githubusercontent.com/u/184036237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Iman-Alzadajli"><b>Iman Alzadjali</b></a><br><sub>&#64;Iman-Alzadajli · 9 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">6</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -147,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 16 of 400 discovered developers (384 awaiting measurement).
+- **Measured:** 20 of 400 discovered developers (380 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 41 in round 1.

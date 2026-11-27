@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/VE.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/VE.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/akrista"><img src="https://avatars.githubusercontent.com/u/23145794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akrista"><b>Jorge Thomas - Akrista</b></a><br><sub>&#64;akrista · 108 followers</sub></td>
+<td align="right"><b>383</b></td>
+<td align="right">339</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/AlexR1712"><img src="https://avatars.githubusercontent.com/u/8460736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexR1712"><b>Alexander J. Rodriguez D.</b></a><br><sub>&#64;AlexR1712 · 230 followers</sub></td>
 <td align="right"><b>169</b></td>
 <td align="right">136</td>
@@ -69,7 +78,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/map0logo"><img src="https://avatars.githubusercontent.com/u/236351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/map0logo"><b>Francisco Palm</b></a><br><sub>&#64;map0logo · 147 followers</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">63</td>
@@ -78,7 +87,7 @@
 <td align="right">11</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/alexanyernas"><img src="https://avatars.githubusercontent.com/u/49798413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexanyernas"><b>Alexanyer Naranjo</b></a><br><sub>&#64;alexanyernas · 294 followers</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">56</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/jaimeirazabal1"><img src="https://avatars.githubusercontent.com/u/3135301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaimeirazabal1"><b>Jaime Irazabal</b></a><br><sub>&#64;jaimeirazabal1 · 219 followers</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">48</td>
@@ -96,7 +105,25 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
+<td><a href="https://github.com/AvilaPro"><img src="https://avatars.githubusercontent.com/u/43209935?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AvilaPro"><b>Eduardo Mejias</b></a><br><sub>&#64;AvilaPro · 159 followers</sub></td>
+<td align="right"><b>62</b></td>
+<td align="right">55</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/ernestomedinam"><img src="https://avatars.githubusercontent.com/u/28765343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ernestomedinam"><b>Ernesto Medina</b></a><br><sub>&#64;ernestomedinam · 121 followers</sub></td>
+<td align="right"><b>20</b></td>
+<td align="right">12</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/luisdgd07"><img src="https://avatars.githubusercontent.com/u/26287606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luisdgd07"><b>Luis Gonzalez</b></a><br><sub>&#64;luisdgd07 · 574 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">11</td>
@@ -105,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">13</td>
 <td><a href="https://github.com/eriker75"><img src="https://avatars.githubusercontent.com/u/67813946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eriker75"><b>Eribert Marquez</b></a><br><sub>&#64;eriker75 · 114 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -114,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">14</td>
 <td><a href="https://github.com/jacksonpf1"><img src="https://avatars.githubusercontent.com/u/83138568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jacksonpf1"><b>Jackson Paredes Ferranti</b></a><br><sub>&#64;jacksonpf1 · 383 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">3</td>
@@ -123,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">15</td>
 <td><a href="https://github.com/jestevez"><img src="https://avatars.githubusercontent.com/u/775669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jestevez"><b>Jose Luis Estevez</b></a><br><sub>&#64;jestevez · 322 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -138,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 407 discovered developers (393 awaiting measurement).
+- **Measured:** 17 of 408 discovered developers (391 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 127 in round 1.

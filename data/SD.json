@@ -5,7 +5,7 @@
 "country": {"code":"SD","name":"Sudan","slug":"sudan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":50,"ownerExpansionBacklog":138,"candidates":52,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":106,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":50,"ownerExpansionBacklog":136,"candidates":52,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":106,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOLHB2EA","name":"My-Hunting-Methodology-","nameWithOwner":"wadgamaraldeen/My-Hunting-Methodology-","url":"https://github.com/wadgamaraldeen/My-Hunting-Methodology-","description":"My Private Bug Hunting Methodology","stars":456,"forks":84,"primaryLanguage":null,"license":null,"createdAt":"2024-01-19T16:08:39Z","pushedAt":"2026-09-22T01:18:31Z","archived":false,"owner":{"login":"wadgamaraldeen","name":"Mustafa Adam Gamaraldin Abdalla","type":"User","url":"https://github.com/wadgamaraldeen","location":"Sudan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOH-sv3A","name":"Avian-Template","nameWithOwner":"daemon-bixia/Avian-Template","url":"https://github.com/daemon-bixia/Avian-Template","description":"Chat app template made with Vue 3 & Tailwind css.","stars":402,"forks":104,"primaryLanguage":"Vue","license":{"spdxId":"MIT"},"createdAt":"2022-09-12T04:10:20Z","pushedAt":"2025-08-27T07:44:38Z","archived":false,"owner":{"login":"daemon-bixia","name":"Muhammad Salah","type":"User","url":"https://github.com/daemon-bixia","location":"Khartoum, Sudan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
@@ -60,8 +60,8 @@
   {"rank":51,"id":null,"name":"ahmedaltahir92","nameWithOwner":"ahmedaltahir92/ahmedaltahir92","url":"https://github.com/ahmedaltahir92/ahmedaltahir92","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-03-29T16:41:23Z","pushedAt":"2026-04-15T09:19:16Z","archived":false,"owner":{"login":"ahmedaltahir92","name":"Ahmed_Altahir","type":"User","url":"https://github.com/ahmedaltahir92","location":"Sudan| Open to Remote Work","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":52,"id":null,"name":"chem_eng_python","nameWithOwner":"ahmedelboshi/chem_eng_python","url":"https://github.com/ahmedelboshi/chem_eng_python","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":{"spdxId":"Apache-2.0"},"createdAt":"2024-03-04T12:39:54Z","pushedAt":"2024-03-04T13:04:00Z","archived":false,"owner":{"login":"ahmedelboshi","name":"ahmed elboshi","type":"User","url":"https://github.com/ahmedelboshi","location":"sudan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "3802ec9ff6165640",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "6c8c91d0b6643f84",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

@@ -108,8 +108,8 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/Mathieu-bot"><img src="https://avatars.githubusercontent.com/u/199898191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mathieu-bot"><b>Tafita Mathieu</b></a><br><sub>&#64;Mathieu-bot</sub></td>
-<td align="right"><b>182</b></td>
-<td align="right">80</td>
+<td align="right"><b>184</b></td>
+<td align="right">81</td>
 <td><sub>Madagascar</sub></td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/Tombosoa"><img src="https://avatars.githubusercontent.com/u/127602403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tombosoa"><b>Nantenaina Ramanatombosoa</b></a><br><sub>&#64;Tombosoa</sub></td>
-<td align="right"><b>134</b></td>
+<td align="right"><b>136</b></td>
 <td align="right">69</td>
 <td><sub>Madagascar</sub></td>
 </tr>
@@ -206,7 +206,7 @@
 <tr>
 <td align="right">27</td>
 <td><a href="https://github.com/FunnyVazoniaina"><img src="https://avatars.githubusercontent.com/u/144912456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FunnyVazoniaina"><b>Funny VAZONIAINA</b></a><br><sub>&#64;FunnyVazoniaina</sub></td>
-<td align="right"><b>131</b></td>
+<td align="right"><b>133</b></td>
 <td align="right">41</td>
 <td><sub>Madagascar</sub></td>
 </tr>

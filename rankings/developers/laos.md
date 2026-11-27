@@ -93,24 +93,24 @@
 </tr>
 <tr>
 <td align="right">11</td>
-<td><a href="https://github.com/dhecaptain"><img src="https://avatars.githubusercontent.com/u/133240337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dhecaptain"><b>David Wambua</b></a><br><sub>&#64;dhecaptain</sub></td>
-<td align="right"><b>23</b></td>
-<td align="right">70</td>
-<td><sub>Laos</sub></td>
-</tr>
-<tr>
-<td align="right">12</td>
 <td><a href="https://github.com/huevangxp"><img src="https://avatars.githubusercontent.com/u/58817289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/huevangxp"><b>Hue Vang</b></a><br><sub>&#64;huevangxp</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">171</td>
 <td><sub>laos</sub></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Tedev555"><img src="https://avatars.githubusercontent.com/u/10378565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tedev555"><b>Thanongsine Chanthakham</b></a><br><sub>&#64;Tedev555</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">137</td>
 <td><sub>Vientiane, Laos</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/dhecaptain"><img src="https://avatars.githubusercontent.com/u/133240337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dhecaptain"><b>David Wambua</b></a><br><sub>&#64;dhecaptain</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">70</td>
+<td><sub>Laos</sub></td>
 </tr>
 <tr>
 <td align="right">14</td>
@@ -144,7 +144,7 @@
 <td align="right">18</td>
 <td><a href="https://github.com/PitiDev"><img src="https://avatars.githubusercontent.com/u/25051846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PitiDev"><b>PitiDev</b></a><br><sub>&#64;PitiDev</sub></td>
 <td align="right"><b>17</b></td>
-<td align="right">73</td>
+<td align="right">72</td>
 <td><sub>Laos</sub></td>
 </tr>
 <tr>

@@ -339,8 +339,8 @@
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/streaming-vlm"><b>mit-han-lab/streaming-vlm</b></a><br><sub>StreamingVLM: Real-Time Understanding for Infinite Video Streams</sub></td>
-<td align="right"><b>1,116</b></td>
-<td align="right">69</td>
+<td align="right"><b>1,117</b></td>
+<td align="right">71</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -367,43 +367,43 @@
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/mohammed-bahumaish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohammed-bahumaish/prisma-editor"><b>mohammed-bahumaish/prisma-editor</b></a><br><sub>Prisma Editor - A powerful tool to visualize and edit Prisma Schema.</sub></td>
-<td align="right"><b>1,032</b></td>
+<td align="right"><b>1,031</b></td>
 <td align="right">84</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/MadryLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MadryLab/photoguard"><b>MadryLab/photoguard</b></a><br><sub>Raising the Cost of Malicious AI-Powered Image Editing</sub></td>
-<td align="right"><b>1,004</b></td>
-<td align="right">94</td>
+<td align="right"><b>1,008</b></td>
+<td align="right">93</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">52</td>
 <td><img src="https://github.com/D4Vinci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D4Vinci/elpscrk"><b>D4Vinci/elpscrk</b></a><br><sub>An Intelligent wordlist generator based on user profiling, permutations, and statistics. (Named after the same tool in…</sub></td>
-<td align="right"><b>974</b></td>
+<td align="right"><b>975</b></td>
 <td align="right">136</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/TinyChatEngine"><b>mit-han-lab/TinyChatEngine</b></a><br><sub>TinyChatEngine: On-Device LLM Inference Library</sub></td>
-<td align="right"><b>973</b></td>
+<td align="right"><b>972</b></td>
 <td align="right">102</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/tinyengine"><b>mit-han-lab/tinyengine</b></a><br><sub>&#91;NeurIPS 2020&#93; MCUNet: Tiny Deep Learning on IoT Devices; &#91;NeurIPS 2021&#93; MCUNetV2: Memory-Efficient Patch-based Inferen…</sub></td>
-<td align="right"><b>969</b></td>
+<td align="right"><b>968</b></td>
 <td align="right">164</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/Tiramisu-Compiler.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tiramisu-Compiler/tiramisu"><b>Tiramisu-Compiler/tiramisu</b></a><br><sub>A polyhedral compiler for expressing fast and portable data parallel algorithms</sub></td>
-<td align="right"><b>963</b></td>
-<td align="right">141</td>
+<td align="right"><b>965</b></td>
+<td align="right">142</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -423,14 +423,14 @@
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/EslaMx7.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EslaMx7/ScreenTask"><b>EslaMx7/ScreenTask</b></a><br><sub>🔥 v2 is here - Screen sharing made easy! Share your screen across local devices without internet.</sub></td>
-<td align="right"><b>930</b></td>
+<td align="right"><b>931</b></td>
 <td align="right">246</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/abdullahtarek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdullahtarek/tennis_analysis"><b>abdullahtarek/tennis&#95;analysis</b></a><br><sub>This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This proje…</sub></td>
-<td align="right"><b>911</b></td>
+<td align="right"><b>913</b></td>
 <td align="right">281</td>
 <td>Jupyter Notebook</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 578 stars; 148 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 578 stars; 150 attributed candidates are tracked.
 - 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

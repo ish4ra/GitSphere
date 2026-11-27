@@ -486,7 +486,7 @@
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/cretueusebiu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cretueusebiu/laravel-nuxt"><b>cretueusebiu/laravel-nuxt</b></a><br><sub>A Laravel-Nuxt starter kit.</sub></td>
-<td align="right"><b>1,142</b></td>
+<td align="right"><b>1,141</b></td>
 <td align="right">248</td>
 <td>PHP</td>
 </tr>
@@ -500,15 +500,15 @@
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/BinarCode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BinarCode/vue-form-wizard"><b>BinarCode/vue-form-wizard</b></a> <sub>archived</sub><br><sub>Vue.js 2 wizard</sub></td>
-<td align="right"><b>1,097</b></td>
+<td align="right"><b>1,095</b></td>
 <td align="right">230</td>
 <td>Vue</td>
 </tr>
 <tr>
 <td align="right">70</td>
 <td><img src="https://github.com/bitdefender.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitdefender/bddisasm"><b>bitdefender/bddisasm</b></a><br><sub>bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruct…</sub></td>
-<td align="right"><b>1,093</b></td>
-<td align="right">123</td>
+<td align="right"><b>1,094</b></td>
+<td align="right">124</td>
 <td>C</td>
 </tr>
 <tr>
@@ -536,7 +536,7 @@
 <td align="right">74</td>
 <td><img src="https://github.com/carcabot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carcabot/tiktok-signature"><b>carcabot/tiktok-signature</b></a><br><sub>Generate tiktok signature token using node</sub></td>
 <td align="right"><b>1,056</b></td>
-<td align="right">345</td>
+<td align="right">346</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -549,30 +549,30 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/adrg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrg/xdg"><b>adrg/xdg</b></a><br><sub>Go implementation of the XDG Base Directory Specification and XDG user directories</sub></td>
-<td align="right"><b>1,030</b></td>
-<td align="right">42</td>
+<td align="right"><b>1,031</b></td>
+<td align="right">41</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">77</td>
+<td><img src="https://github.com/robertnisipeanu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robertnisipeanu/mgu-store"><b>robertnisipeanu/mgu-store</b></a><br><sub>App store for BMW iDrive 7 / iDrive 8 head units: install and update apps from GitHub repos, URLs and USB sticks</sub></td>
+<td align="right"><b>1,014</b></td>
+<td align="right">142</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">78</td>
 <td><img src="https://github.com/DavidHDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DavidHDev/haiku"><b>DavidHDev/haiku</b></a><br><sub>A clean &amp; lightweight collection of React Hooks &amp; Utilities!</sub></td>
-<td align="right"><b>1,010</b></td>
+<td align="right"><b>1,011</b></td>
 <td align="right">114</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">78</td>
-<td><img src="https://github.com/ovexro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ovexro/dockpanel"><b>ovexro/dockpanel</b></a><br><sub>Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitor…</sub></td>
-<td align="right"><b>1,003</b></td>
-<td align="right">158</td>
-<td>Rust</td>
-</tr>
-<tr>
 <td align="right">79</td>
-<td><img src="https://github.com/robertnisipeanu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robertnisipeanu/mgu-store"><b>robertnisipeanu/mgu-store</b></a><br><sub>App store for BMW iDrive 7 / iDrive 8 head units: install and update apps from GitHub repos, URLs and USB sticks</sub></td>
-<td align="right"><b>985</b></td>
-<td align="right">133</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/ovexro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ovexro/dockpanel"><b>ovexro/dockpanel</b></a><br><sub>Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitor…</sub></td>
+<td align="right"><b>1,008</b></td>
+<td align="right">160</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">80</td>
@@ -591,7 +591,7 @@
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/FuzzyIdeas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FuzzyIdeas/Cling"><b>FuzzyIdeas/Cling</b></a><br><sub>Instant fuzzy find any file on macOS</sub></td>
-<td align="right"><b>943</b></td>
+<td align="right"><b>944</b></td>
 <td align="right">40</td>
 <td>Swift</td>
 </tr>
@@ -606,20 +606,20 @@
 <td align="right">84</td>
 <td><img src="https://github.com/xpirt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xpirt/sdat2img"><b>xpirt/sdat2img</b></a><br><sub>Convert sparse Android data image to filesystem ext4 image</sub></td>
 <td align="right"><b>932</b></td>
-<td align="right">378</td>
+<td align="right">377</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/mariusbancila.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mariusbancila/stduuid"><b>mariusbancila/stduuid</b></a><br><sub>A C++17 cross-platform implementation for UUIDs</sub></td>
-<td align="right"><b>928</b></td>
+<td align="right"><b>929</b></td>
 <td align="right">132</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/glorand.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/glorand/laravel-model-settings"><b>glorand/laravel-model-settings</b></a><br><sub>Model Settings for your Laravel app</sub></td>
-<td align="right"><b>926</b></td>
+<td align="right"><b>925</b></td>
 <td align="right">60</td>
 <td>PHP</td>
 </tr>
@@ -627,7 +627,7 @@
 <td align="right">87</td>
 <td><img src="https://github.com/cosdensolutions.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cosdensolutions/code"><b>cosdensolutions/code</b></a><br><sub>Source code for all Cosden Solutions videos</sub></td>
 <td align="right"><b>914</b></td>
-<td align="right">440</td>
+<td align="right">441</td>
 <td>TypeScript</td>
 </tr>
 <tr>

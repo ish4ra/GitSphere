@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GW","name":"Guinea-Bissau","slug":"guinea-bissau"},
-"count": 12,
+"count": 11,
 "repositories": [
-  {"name":"abduramanedjalo06/Boutique_Control","stars":1,"forks":0,"language":"Python","archived":false,"createdAt":"2026-08-15T18:18:51Z","pushedAt":"2026-10-24T21:52:30Z","owner":{"login":"abduramanedjalo06","type":"User","name":"Abduramane Djaló","location":"Guiné-Bissau"},"attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","id":"legacy:abduramanedjalo06/boutique_control","legacy":true},
   {"name":"gilgilberto31/receitawebDevHoster","stars":0,"forks":1,"language":"TypeScript","archived":false,"createdAt":"2026-10-08T13:17:28Z","pushedAt":"2026-10-15T00:28:50Z","owner":{"login":"gilgilberto31","type":"User","name":"Gilberto Gil","location":"Guiné Bissau"},"attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","id":"legacy:gilgilberto31/receitawebdevhoster","legacy":true},
   {"name":"augoju/BitProYoS","stars":0,"forks":0,"language":"PHP","license":"MIT","archived":false,"createdAt":"2021-01-09T18:41:55Z","pushedAt":"2021-01-09T22:42:47Z","owner":{"login":"augoju","type":"User","name":"Augusto Gomes Júnior","location":"Guiné-Bissau"},"attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","id":"legacy:augoju/bitproyos","legacy":true},
   {"name":"baiojava/baiojava","stars":0,"forks":0,"archived":false,"createdAt":"2022-10-11T21:49:29Z","pushedAt":"2022-10-11T21:49:30Z","owner":{"login":"baiojava","type":"User","name":"Lamine Baio","location":"Guiné-Bissau"},"attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","id":"legacy:baiojava/baiojava","legacy":true},

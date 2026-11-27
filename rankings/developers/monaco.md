@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/aplatoff"><img src="https://avatars.githubusercontent.com/u/87076238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aplatoff"><b>Andrey Platov</b></a><br><sub>&#64;aplatoff</sub></td>
-<td align="right"><b>131</b></td>
+<td align="right"><b>132</b></td>
 <td align="right">7</td>
 <td><sub>Monaco</sub></td>
 </tr>
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/jmbertin"><img src="https://avatars.githubusercontent.com/u/143587714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jmbertin"><b>Jean-Michel Bertin</b></a><br><sub>&#64;jmbertin</sub></td>
-<td align="right"><b>24</b></td>
+<td align="right"><b>23</b></td>
 <td align="right">39</td>
 <td><sub>Monaco</sub></td>
 </tr>
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/HedgeQuantX"><img src="https://avatars.githubusercontent.com/u/62967690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HedgeQuantX"><b>HedgeQuant𝕏</b></a><br><sub>&#64;HedgeQuantX</sub></td>
-<td align="right"><b>20</b></td>
+<td align="right"><b>21</b></td>
 <td align="right">39</td>
 <td><sub>Monte-Carlo, Monaco</sub></td>
 </tr>

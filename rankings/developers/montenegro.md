@@ -109,7 +109,7 @@
 <td align="right">13</td>
 <td><a href="https://github.com/mifth"><img src="https://avatars.githubusercontent.com/u/2251298?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mifth"><b>mifth</b></a><br><sub>&#64;mifth</sub></td>
 <td align="right"><b>129</b></td>
-<td align="right">0</td>
+<td align="right">17</td>
 <td><sub>Montenegro</sub></td>
 </tr>
 <tr>

@@ -206,8 +206,8 @@
 <tr>
 <td align="right">27</td>
 <td><a href="https://github.com/kron4eg"><img src="https://avatars.githubusercontent.com/u/30984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kron4eg"><b>Artiom Diomin</b></a><br><sub>&#64;kron4eg</sub></td>
-<td align="right"><b>95</b></td>
-<td align="right">77</td>
+<td align="right"><b>96</b></td>
+<td align="right">78</td>
 <td><sub>Moldova</sub></td>
 </tr>
 <tr>
@@ -346,7 +346,7 @@
 <tr>
 <td align="right">47</td>
 <td><a href="https://github.com/PlugaruT"><img src="https://avatars.githubusercontent.com/u/6437932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PlugaruT"><b>Tudor Plugaru</b></a><br><sub>&#64;PlugaruT</sub></td>
-<td align="right"><b>49</b></td>
+<td align="right"><b>50</b></td>
 <td align="right">86</td>
 <td><sub>Republic of Moldova</sub></td>
 </tr>

@@ -242,7 +242,7 @@
 <td align="right">32</td>
 <td><a href="https://github.com/sproates"><img src="https://avatars.githubusercontent.com/u/218187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sproates"><b>sproates</b></a><br><sub>&#64;sproates</sub></td>
 <td align="right"><b>4</b></td>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><sub>Gibraltar</sub></td>
 </tr>
 <tr>

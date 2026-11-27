@@ -451,14 +451,14 @@
 <tr>
 <td align="right">62</td>
 <td><img src="https://github.com/me-no-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-no-dev/EspExceptionDecoder"><b>me-no-dev/EspExceptionDecoder</b></a><br><sub>Exception Stack Trace Decoder for ESP8266 and ESP32</sub></td>
-<td align="right"><b>1,142</b></td>
+<td align="right"><b>1,143</b></td>
 <td align="right">145</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/telerik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/telerik/UI-For-UWP"><b>telerik/UI-For-UWP</b></a> <sub>archived</sub><br><sub>Telerik UI for Universal Windows Platform (UWP) is no longer supported.</sub></td>
-<td align="right"><b>1,139</b></td>
+<td align="right"><b>1,138</b></td>
 <td align="right">226</td>
 <td>C#</td>
 </tr>
@@ -479,7 +479,7 @@
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/bobbyiliev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bobbyiliev/introduction-to-git-and-github-ebook"><b>bobbyiliev/introduction-to-git-and-github-ebook</b></a><br><sub>Free Introduction to Git and GitHub eBook</sub></td>
-<td align="right"><b>1,124</b></td>
+<td align="right"><b>1,125</b></td>
 <td align="right">199</td>
 <td>HTML</td>
 </tr>
@@ -493,7 +493,7 @@
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/bbatsov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bbatsov/zenburn-emacs"><b>bbatsov/zenburn-emacs</b></a><br><sub>The Zenburn colour theme ported to Emacs</sub></td>
-<td align="right"><b>1,085</b></td>
+<td align="right"><b>1,087</b></td>
 <td align="right">265</td>
 <td>Emacs Lisp</td>
 </tr>
@@ -507,8 +507,8 @@
 <tr>
 <td align="right">70</td>
 <td><img src="https://github.com/dbrizov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dbrizov/Unity-CharacterController"><b>dbrizov/Unity-CharacterController</b></a><br><sub>Third Person Controller for Unity</sub></td>
-<td align="right"><b>1,077</b></td>
-<td align="right">145</td>
+<td align="right"><b>1,078</b></td>
+<td align="right">146</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -521,7 +521,7 @@
 <tr>
 <td align="right">72</td>
 <td><img src="https://github.com/Whimfoome.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Whimfoome/godot-FirstPersonStarter"><b>Whimfoome/godot-FirstPersonStarter</b></a><br><sub>FPS (First Person Shooter) controller template for Godot 4 to give starter content for a new or already existing projec…</sub></td>
-<td align="right"><b>1,038</b></td>
+<td align="right"><b>1,039</b></td>
 <td align="right">65</td>
 <td>GDScript</td>
 </tr>
@@ -535,7 +535,7 @@
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/itay-grudev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itay-grudev/SingleApplication"><b>itay-grudev/SingleApplication</b></a><br><sub>Replacement of QtSingleApplication for Qt 5 and Qt 6 with support for inter-instance communication.</sub></td>
-<td align="right"><b>1,012</b></td>
+<td align="right"><b>1,013</b></td>
 <td align="right">246</td>
 <td>C++</td>
 </tr>
@@ -549,7 +549,7 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/PactInteractive.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PactInteractive/image-downloader"><b>PactInteractive/image-downloader</b></a><br><sub>⬇️ Download images from the web with ease. A browser extension for Google Chrome, Microsoft Edge, and Brave.</sub></td>
-<td align="right"><b>993</b></td>
+<td align="right"><b>994</b></td>
 <td align="right">326</td>
 <td>JavaScript</td>
 </tr>

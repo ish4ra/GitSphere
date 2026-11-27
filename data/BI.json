@@ -5,10 +5,10 @@
 "country": {"code":"BI","name":"Burundi","slug":"burundi"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":150,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":33,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":147,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":33,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "f2256cb8ef86cca1",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "5bd5e87b075feeee",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><a href="https://github.com/engabdullah-2024"><img src="https://avatars.githubusercontent.com/u/173546517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/engabdullah-2024"><b>Abdullah Ali</b></a><br><sub>&#64;engabdullah-2024</sub></td>
-<td align="right"><b>129</b></td>
+<td align="right"><b>131</b></td>
 <td align="right">167</td>
 <td><sub>Somalia</sub></td>
 </tr>
@@ -220,7 +220,7 @@
 <tr>
 <td align="right">29</td>
 <td><a href="https://github.com/ahmedibra28"><img src="https://avatars.githubusercontent.com/u/54572773?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmedibra28"><b>Ahmed Ibrahim</b></a><br><sub>&#64;ahmedibra28</sub></td>
-<td align="right"><b>78</b></td>
+<td align="right"><b>77</b></td>
 <td align="right">105</td>
 <td><sub>Mogadishu - Somalia</sub></td>
 </tr>

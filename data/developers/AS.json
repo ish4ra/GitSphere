@@ -5,7 +5,7 @@
 "country": {"code":"AS","name":"American Samoa","slug":"american-samoa"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":26,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":26,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":34,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ2MDU5Mjgz","login":"Canonball90","name":"CanonBall90","url":"https://github.com/Canonball90","avatarUrl":"https://avatars.githubusercontent.com/u/46059283?s=80&v=4","followers":11,"publicRepos":31,"location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"U_kgDODI0uXQ","login":"lazzydisa","name":"DiSa","url":"https://github.com/lazzydisa","avatarUrl":"https://avatars.githubusercontent.com/u/210579037?s=80&v=4","followers":7,"publicRepos":11,"location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -34,8 +34,8 @@
   {"rank":25,"id":"MDQ6VXNlcjc2NTE3Mjg3","login":"tamasamoa684","name":"Howard Helg","url":"https://github.com/tamasamoa684","avatarUrl":"https://avatars.githubusercontent.com/u/76517287?s=80&v=4","followers":0,"publicRepos":0,"location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":26,"id":"U_kgDOB497tg","login":"utulainamaenetafaese","name":"Utulaina Maene Tafaese","url":"https://github.com/utulainamaenetafaese","avatarUrl":"https://avatars.githubusercontent.com/u/126843830?s=80&v=4","followers":0,"publicRepos":0,"location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "c184dc21e0fc731c",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "658fd86581f53885",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"BB","name":"Barbados","slug":"barbados"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":143,"candidates":68,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":142,"candidates":68,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk1OTQ4ODg5Ng==","name":"ColorfulNews","nameWithOwner":"kaku2015/ColorfulNews","url":"https://github.com/kaku2015/ColorfulNews","description":"A news-reading App (MVP+Dagger2+RxJava+Retrofit2+Material Design)","stars":1295,"forks":411,"primaryLanguage":"Java","license":null,"createdAt":"2016-05-23T14:19:17Z","pushedAt":"2016-10-30T12:31:14Z","archived":false,"owner":{"login":"kaku2015","name":"FishingNet","type":"User","url":"https://github.com/kaku2015","location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk2MDk0MjQyNw==","name":"WeatherAlarmClock","nameWithOwner":"kaku2015/WeatherAlarmClock","url":"https://github.com/kaku2015/WeatherAlarmClock","description":"Alarm clock with weather forecast 一款具有天气提醒功能的闹钟","stars":547,"forks":181,"primaryLanguage":"Java","license":null,"createdAt":"2016-06-12T04:34:28Z","pushedAt":"2019-04-19T09:06:14Z","archived":false,"owner":{"login":"kaku2015","name":"FishingNet","type":"User","url":"https://github.com/kaku2015","location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
@@ -76,8 +76,8 @@
   {"rank":67,"id":null,"name":"hello-world","nameWithOwner":"dmnbrdshw/hello-world","url":"https://github.com/dmnbrdshw/hello-world","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2016-05-25T14:02:14Z","pushedAt":"2016-05-25T14:05:57Z","archived":false,"owner":{"login":"dmnbrdshw","name":"Damien Bradshaw","type":"User","url":"https://github.com/dmnbrdshw","location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":68,"id":null,"name":"tiffsberries.github.io","nameWithOwner":"Draculust/tiffsberries.github.io","url":"https://github.com/Draculust/tiffsberries.github.io","description":null,"stars":0,"forks":0,"primaryLanguage":"CSS","license":null,"createdAt":"2021-05-17T17:37:40Z","pushedAt":"2021-05-17T23:51:27Z","archived":false,"owner":{"login":"Draculust","name":null,"type":"User","url":"https://github.com/Draculust","location":"barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true}
 ],
-"contentHash": "437d2c827f41c0d6",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "c3a8989d06a006ac",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-10-28",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

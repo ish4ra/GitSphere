@@ -38,14 +38,14 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/reallynattu"><img src="https://avatars.githubusercontent.com/u/2539454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reallynattu"><b>Nattu Adnan</b></a><br><sub>&#64;reallynattu</sub></td>
-<td align="right"><b>129</b></td>
+<td align="right"><b>130</b></td>
 <td align="right">48</td>
 <td><sub>Maldives</sub></td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/Samooh-9820060"><img src="https://avatars.githubusercontent.com/u/114355897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Samooh-9820060"><b>Samooh Moosa</b></a><br><sub>&#64;Samooh-9820060</sub></td>
-<td align="right"><b>127</b></td>
+<td align="right"><b>129</b></td>
 <td align="right">14</td>
 <td><sub>Maldives</sub></td>
 </tr>

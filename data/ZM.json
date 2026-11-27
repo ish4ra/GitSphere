@@ -5,7 +5,7 @@
 "country": {"code":"ZM","name":"Zambia","slug":"zambia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":56,"ownerExpansionBacklog":133,"candidates":57,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":83,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":56,"ownerExpansionBacklog":131,"candidates":57,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":83,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMTUzOTA4NzY=","name":"CommunityWriterPrograms","nameWithOwner":"malgamves/CommunityWriterPrograms","url":"https://github.com/malgamves/CommunityWriterPrograms","description":"A list of Developer Community Writer Programs","stars":4208,"forks":746,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2019-10-15T20:30:34Z","pushedAt":"2026-07-31T10:02:13Z","archived":false,"owner":{"login":"malgamves","name":"Daniel Madalitso Phiri","type":"User","url":"https://github.com/malgamves","location":"Lusaka, Zambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"alx-system_engineering-devops","nameWithOwner":"Brucekola/alx-system_engineering-devops","url":"https://github.com/Brucekola/alx-system_engineering-devops","description":null,"stars":1,"forks":3,"primaryLanguage":"Shell","license":null,"createdAt":"2021-06-09T11:57:49Z","pushedAt":"2021-06-15T19:31:55Z","archived":false,"owner":{"login":"Brucekola","name":"Bruce Chilenga","type":"User","url":"https://github.com/Brucekola","location":"Lusaka Zambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -65,8 +65,8 @@
   {"rank":56,"id":null,"name":"Sky-Angel","nameWithOwner":"cacious7/Sky-Angel","url":"https://github.com/cacious7/Sky-Angel","description":null,"stars":1,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2020-11-18T08:01:33Z","pushedAt":"2021-03-05T15:11:48Z","archived":false,"owner":{"login":"cacious7","name":"Cacious Siamunyanga","type":"User","url":"https://github.com/cacious7","location":"Lusaka, Zambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":57,"id":null,"name":"spam-sms-detection","nameWithOwner":"Cathbert-Busiku/spam-sms-detection","url":"https://github.com/Cathbert-Busiku/spam-sms-detection","description":null,"stars":1,"forks":0,"primaryLanguage":"CSS","license":null,"createdAt":"2022-05-28T15:52:15Z","pushedAt":"2022-05-29T14:16:46Z","archived":false,"owner":{"login":"Cathbert-Busiku","name":"Cathbert Busiku","type":"User","url":"https://github.com/Cathbert-Busiku","location":"Zambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "76e4e7eebcb0d647",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "1fb5440ae88eeefb",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

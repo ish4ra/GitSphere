@@ -219,24 +219,24 @@
 </tr>
 <tr>
 <td align="right">29</td>
-<td><a href="https://github.com/JokerAphro17"><img src="https://avatars.githubusercontent.com/u/98023976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JokerAphro17"><b>ILBOUDO SOULEYMANE</b></a><br><sub>&#64;JokerAphro17</sub></td>
-<td align="right"><b>26</b></td>
-<td align="right">50</td>
-<td><sub>Burkina Faso</sub></td>
-</tr>
-<tr>
-<td align="right">30</td>
 <td><a href="https://github.com/amonmoce"><img src="https://avatars.githubusercontent.com/u/7223550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amonmoce"><b>Amon Moce Rodolphe BAZONGO</b></a><br><sub>&#64;amonmoce</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">72</td>
 <td><sub>Ouagadougou, Burkina Faso</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">30</td>
 <td><a href="https://github.com/serge-eric-kalaga"><img src="https://avatars.githubusercontent.com/u/73985179?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/serge-eric-kalaga"><b>KALAGA Serge Eric</b></a><br><sub>&#64;serge-eric-kalaga</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">57</td>
 <td><sub>Ouagadougou, Burkina Faso 🇧🇫</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/JokerAphro17"><img src="https://avatars.githubusercontent.com/u/98023976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JokerAphro17"><b>ILBOUDO SOULEYMANE</b></a><br><sub>&#64;JokerAphro17</sub></td>
+<td align="right"><b>25</b></td>
+<td align="right">50</td>
+<td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>
 <td align="right">32</td>

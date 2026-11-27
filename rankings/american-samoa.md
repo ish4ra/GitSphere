@@ -40,7 +40,7 @@
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-tsserver"><b>neoclide/coc-tsserver</b></a><br><sub>Tsserver extension for coc.nvim that provide rich features like VSCode for javascript &amp; typescript</sub></td>
-<td align="right"><b>1,074</b></td>
+<td align="right"><b>1,076</b></td>
 <td align="right">69</td>
 <td>TypeScript</td>
 </tr>
@@ -167,7 +167,7 @@
 - **Cutoff:** the last listed repository has 0 stars; 19 attributed candidates are tracked.
 - 3 entries were carried over from the previous dataset and are pending revalidation.
 - 51 multi-repository owners are queued for expansion.
-- **Location discovery:** term 4 of 34 in round 1.
+- **Location discovery:** term 7 of 34 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -382,7 +382,7 @@
 <td align="right">52</td>
 <td><a href="https://github.com/iqre8"><img src="https://avatars.githubusercontent.com/u/57012516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iqre8"><b>iqre8</b></a><br><sub>&#64;iqre8</sub></td>
 <td align="right"><b>5</b></td>
-<td align="right">42</td>
+<td align="right">43</td>
 <td><sub>Suriname</sub></td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **41** | 24 Nov 2026 | <a href="../data/BY.json">JSON</a> |
+| 🟡 Provisional | **43** | 24 Nov 2026 | <a href="../data/BY.json">JSON</a> |
 
 </div>
 
@@ -308,6 +308,20 @@
 <td align="right">16</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/eugen0329.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eugen0329/vim-esearch"><b>eugen0329/vim-esearch</b></a><br><sub>Perform search in files easily</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">12</td>
+<td>Vim Script</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/Briclyaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Briclyaz/NLSound"><b>Briclyaz/NLSound</b></a><br><sub>System-level Android audio enhancement module for Magisk, KernelSU &amp; APatch. Removes DSP limiters, unlocks 4Hz sub-bass…</sub></td>
+<td align="right"><b>345</b></td>
+<td align="right">10</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -316,7 +330,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 382 stars; 41 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 345 stars; 43 attributed candidates are tracked.
 - 112 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

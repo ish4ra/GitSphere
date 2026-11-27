@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 24 Nov 2026 | <a href="../data/MU.json">JSON</a> |
+| 🟡 Provisional | **6** | 24 Nov 2026 | <a href="../data/MU.json">JSON</a> |
 
 </div>
 
@@ -49,6 +49,20 @@
 <td align="right">91</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/SwiftArchitect.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SwiftArchitect/TGPControls"><b>SwiftArchitect/TGPControls</b></a><br><sub>Drop-in replacement for UISlider with ticks, images &amp; animated labels</sub></td>
+<td align="right"><b>356</b></td>
+<td align="right">75</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/giriss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/giriss/comfy-image-saver"><b>giriss/comfy-image-saver</b></a><br><sub>All the tools you need to save images with their generation metadata on ComfyUI. Compatible with Civitai &amp; Prompthero g…</sub></td>
+<td align="right"><b>347</b></td>
+<td align="right">79</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -57,8 +71,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 430 stars; 4 attributed candidates are tracked.
-- 108 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 347 stars; 6 attributed candidates are tracked.
+- 98 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 94 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

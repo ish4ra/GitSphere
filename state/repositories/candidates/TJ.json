@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"TJ","name":"Tajikistan","slug":"tajikistan"},
-"count": 16,
+"count": 17,
 "repositories": [
+  {"id":"R_kgDOH-IAzQ","name":"shukkkur/VolleyVision","stars":342,"forks":59,"language":"Python","license":"AGPL-3.0","description":"Applying Deep Learning Approaches to Volleyball Data","archived":false,"createdAt":"2022-09-10T05:47:56Z","pushedAt":"2025-06-20T04:17:07Z","owner":{"id":"MDQ6VXNlcjc4MjUwMTgw","login":"shukkkur","type":"User","name":"Shakhansho Shukur Sabzaliev","location":"Khorog, Gorno-Badakhshan"},"attribution":{"code":"TJ","confidence":"high","evidence":"place-with-subdivision"},"seenAt":"2026-11-27T02:22:24.626Z","verifiedAt":"2026-11-27T02:22:24.626Z","cycle":1},
   {"name":"bakhtovar/News-App","stars":1,"forks":1,"language":"Swift","license":"MIT","archived":false,"createdAt":"2021-08-21T11:45:43Z","pushedAt":"2023-02-14T18:59:53Z","owner":{"login":"bakhtovar","type":"User","name":"Bakhtovar Umarov","location":"Dushanbe, Tajikistan"},"attribution":{"code":"TJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:28:20.127Z","id":"legacy:bakhtovar/news-app","legacy":true},
   {"name":"Komr0n/SysForge","stars":1,"forks":1,"language":"TypeScript","archived":false,"createdAt":"2026-08-01T07:24:01Z","pushedAt":"2026-10-04T13:15:28Z","owner":{"login":"Komr0n","type":"User","name":"Komron","location":"Tajikistan,Khujand"},"attribution":{"code":"TJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:28:20.127Z","id":"legacy:komr0n/sysforge","legacy":true},
   {"name":"latipovsharif/CashCode","stars":1,"forks":1,"language":"JavaScript","archived":false,"createdAt":"2017-01-26T06:22:28Z","pushedAt":"2017-01-26T06:22:55Z","owner":{"login":"latipovsharif","type":"User","name":"Sharif","location":"tajikistan"},"attribution":{"code":"TJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:28:20.127Z","id":"legacy:latipovsharif/cashcode","legacy":true},

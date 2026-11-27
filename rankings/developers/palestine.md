@@ -178,14 +178,14 @@
 <tr>
 <td align="right">23</td>
 <td><a href="https://github.com/ShakerAlshurafa"><img src="https://avatars.githubusercontent.com/u/97395415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShakerAlshurafa"><b>Shaker Yousef</b></a><br><sub>&#64;ShakerAlshurafa</sub></td>
-<td align="right"><b>136</b></td>
+<td align="right"><b>137</b></td>
 <td align="right">22</td>
 <td><sub>Palestine</sub></td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/raghad-murad"><img src="https://avatars.githubusercontent.com/u/189636173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raghad-murad"><b>Raghad Murad</b></a><br><sub>&#64;raghad-murad</sub></td>
-<td align="right"><b>129</b></td>
+<td align="right"><b>131</b></td>
 <td align="right">43</td>
 <td><sub>Salfeet, Palestine</sub></td>
 </tr>

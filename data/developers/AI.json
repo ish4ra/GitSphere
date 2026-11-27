@@ -5,7 +5,7 @@
 "country": {"code":"AI","name":"Anguilla","slug":"anguilla"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":25,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":22,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":25,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":22,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjgzNzQzNDc1","login":"KleinKodes","name":"Klein","url":"https://github.com/KleinKodes","avatarUrl":"https://avatars.githubusercontent.com/u/83743475?s=80&v=4","followers":11,"publicRepos":11,"location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjE3MDgwNTk2","login":"charliefourindia","name":"William Knowles","url":"https://github.com/charliefourindia","avatarUrl":"https://avatars.githubusercontent.com/u/17080596?s=80&v=4","followers":8,"publicRepos":52,"location":"The Valley, Anguilla","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -33,8 +33,8 @@
   {"rank":24,"id":"U_kgDOCw5HRQ","login":"Sniper5oh","name":"Sniper","url":"https://github.com/Sniper5oh","avatarUrl":"https://avatars.githubusercontent.com/u/185485125?s=80&v=4","followers":0,"publicRepos":0,"location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":25,"id":"U_kgDODuB3xA","login":"vidamarkets","name":"Vida Markets","url":"https://github.com/vidamarkets","avatarUrl":"https://avatars.githubusercontent.com/u/249591748?s=80&v=4","followers":0,"publicRepos":0,"location":"No. 9 Cassius Webster Building, Grace Complex, PO Box 1330 The Valley, AI-2640, Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "1b602bcad9c004e5",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "3aefd8eeb4844f17",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

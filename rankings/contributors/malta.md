@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/MT.json">JSON</a> |
+| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/contributors/MT.json">JSON</a> |
 
 </div>
 
@@ -70,7 +70,7 @@
 </tr>
 <tr>
 <td align="right">6</td>
-<td><a href="https://github.com/MarkCiliaVincenti"><img src="https://avatars.githubusercontent.com/u/25120736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarkCiliaVincenti"><b>Mark Cilia Vincenti</b></a><br><sub>&#64;MarkCiliaVincenti · 66 followers</sub></td>
+<td><a href="https://github.com/MarkCiliaVincenti"><img src="https://avatars.githubusercontent.com/u/25120736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarkCiliaVincenti"><b>Mark Cilia Vincenti</b></a><br><sub>&#64;MarkCiliaVincenti · 65 followers</sub></td>
 <td align="right"><b>561</b></td>
 <td align="right">344</td>
 <td align="right">136</td>
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/ArjunRAj77"><img src="https://avatars.githubusercontent.com/u/23217592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArjunRAj77"><b>Arjun Raj</b></a><br><sub>&#64;ArjunRAj77 · 4 followers</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">242</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/cybernerdie"><img src="https://avatars.githubusercontent.com/u/52431939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cybernerdie"><b>Joshua Paul</b></a><br><sub>&#64;cybernerdie · 100 followers</sub></td>
 <td align="right"><b>256</b></td>
 <td align="right">230</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/hofstede-matheus"><img src="https://avatars.githubusercontent.com/u/12226197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hofstede-matheus"><b>Matheus Hofstede</b></a><br><sub>&#64;hofstede-matheus · 75 followers</sub></td>
 <td align="right"><b>222</b></td>
 <td align="right">170</td>
@@ -114,7 +123,7 @@
 <td align="right">11</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Geod24"><img src="https://avatars.githubusercontent.com/u/2180215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Geod24"><b>Mathias LANG</b></a><br><sub>&#64;Geod24 · 72 followers</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">76</td>
@@ -123,7 +132,7 @@
 <td align="right">16</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/amidos2006"><img src="https://avatars.githubusercontent.com/u/1292799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amidos2006"><b>Ahmed Khalifa</b></a><br><sub>&#64;amidos2006 · 102 followers</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">107</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/cbastidas"><img src="https://avatars.githubusercontent.com/u/19252216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cbastidas"><b>Christian Bastidas</b></a><br><sub>&#64;cbastidas · 0 followers</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">102</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/dottedmag"><img src="https://avatars.githubusercontent.com/u/16120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dottedmag"><b>Mike Dotty</b></a><br><sub>&#64;dottedmag · 95 followers</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">47</td>
@@ -150,7 +159,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/xiaocong"><img src="https://avatars.githubusercontent.com/u/1559756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiaocong"><b>xiaocong</b></a><br><sub>&#64;xiaocong · 475 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -159,9 +168,27 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/donniewang"><img src="https://avatars.githubusercontent.com/u/3195854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donniewang"><b>Donnie Wang</b></a><br><sub>&#64;donniewang · 3 followers</sub></td>
 <td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/dipeshchaudhari2908"><img src="https://avatars.githubusercontent.com/u/45564499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dipeshchaudhari2908"><b>Dipesh Chaudhari</b></a><br><sub>&#64;dipeshchaudhari2908 · 3 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/rtpoz"><img src="https://avatars.githubusercontent.com/u/30939553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rtpoz"><b>rtpoz</b></a><br><sub>&#64;rtpoz · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -174,7 +201,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 399 discovered developers (382 awaiting measurement).
+- **Measured:** 21 of 399 discovered developers (378 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 104 in round 1.

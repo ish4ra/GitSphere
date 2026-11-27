@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/dee-dee-catorce"><img src="https://avatars.githubusercontent.com/u/228148310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dee-dee-catorce"><b>dee-dee-catorce</b></a><br><sub>&#64;dee-dee-catorce</sub></td>
-<td align="right"><b>53</b></td>
+<td align="right"><b>54</b></td>
 <td align="right">2</td>
 <td><sub>Chicago, Christmas Island</sub></td>
 </tr>

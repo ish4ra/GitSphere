@@ -5,7 +5,7 @@
 "country": {"code":"SL","name":"Sierra Leone","slug":"sierra-leone"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":89,"ownerExpansionBacklog":144,"candidates":89,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":69,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":89,"ownerExpansionBacklog":142,"candidates":89,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":69,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"10_Academy_Week2_Group","nameWithOwner":"abu-bakarr/10_Academy_Week2_Group","url":"https://github.com/abu-bakarr/10_Academy_Week2_Group","description":null,"stars":1,"forks":3,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2022-05-16T10:16:04Z","pushedAt":"2022-05-30T09:59:13Z","archived":false,"owner":{"login":"abu-bakarr","name":null,"type":"User","url":"https://github.com/abu-bakarr","location":"Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"erlwater","nameWithOwner":"skulup/erlwater","url":"https://github.com/skulup/erlwater","description":null,"stars":1,"forks":2,"primaryLanguage":"Erlang","license":{"spdxId":"NOASSERTION"},"createdAt":"2020-01-07T06:08:42Z","pushedAt":"2021-04-20T10:53:50Z","archived":false,"owner":{"login":"skulup","name":"Skulup","type":"Organization","url":"https://github.com/skulup","location":"Freetown Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -97,8 +97,8 @@
   {"rank":88,"id":null,"name":"Rex-Programming-Language","nameWithOwner":"Remadrex01/Rex-Programming-Language","url":"https://github.com/Remadrex01/Rex-Programming-Language","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-07-11T20:43:36Z","pushedAt":"2026-07-11T20:45:14Z","archived":false,"owner":{"login":"Remadrex01","name":"Ramandhan Dumbuya","type":"User","url":"https://github.com/Remadrex01","location":"Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":89,"id":null,"name":"EKO-House-Of-Creatives","nameWithOwner":"Rex22des/EKO-House-Of-Creatives","url":"https://github.com/Rex22des/EKO-House-Of-Creatives","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-09-09T16:05:51Z","pushedAt":"2023-09-09T16:05:52Z","archived":false,"owner":{"login":"Rex22des","name":"EKO HOUSE OF CREATIVES","type":"User","url":"https://github.com/Rex22des","location":"Freetown, Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "3c68ac1651dca29b",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "f1894ce0903ef0b5",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

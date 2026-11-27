@@ -121,24 +121,24 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/kunz398"><img src="https://avatars.githubusercontent.com/u/22246144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kunz398"><b>Kunal Singh</b></a><br><sub>&#64;kunz398</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">58</td>
+<td><sub>Fiji</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/anuraag165"><img src="https://avatars.githubusercontent.com/u/72689442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anuraag165"><b>Anuraag Raj</b></a><br><sub>&#64;anuraag165</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">8</td>
 <td><sub>Suva, Fiji</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/codeshareman"><img src="https://avatars.githubusercontent.com/u/8360377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codeshareman"><b>Z° North</b></a><br><sub>&#64;codeshareman</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">4</td>
 <td><sub>0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji</sub></td>
-</tr>
-<tr>
-<td align="right">17</td>
-<td><a href="https://github.com/kunz398"><img src="https://avatars.githubusercontent.com/u/22246144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kunz398"><b>Kunal Singh</b></a><br><sub>&#64;kunz398</sub></td>
-<td align="right"><b>21</b></td>
-<td align="right">58</td>
-<td><sub>Fiji</sub></td>
 </tr>
 <tr>
 <td align="right">18</td>
@@ -1488,7 +1488,7 @@
 <td align="right">210</td>
 <td><a href="https://github.com/panyy0"><img src="https://avatars.githubusercontent.com/u/22901235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/panyy0"><b>Mike Wojcik</b></a><br><sub>&#64;panyy0</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">64</td>
+<td align="right">66</td>
 <td><sub>0588 Emelia Rest. Marceleneport. Idaho. Fiji</sub></td>
 </tr>
 <tr>

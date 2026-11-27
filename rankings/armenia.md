@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **63** | 24 Nov 2026 | <a href="../data/AM.json">JSON</a> |
+| 🟡 Provisional | **65** | 24 Nov 2026 | <a href="../data/AM.json">JSON</a> |
 
 </div>
 
@@ -178,8 +178,8 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/hyperionaidev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hyperionaidev/smolmaxxing"><b>hyperionaidev/smolmaxxing</b></a><br><sub>maxxing the ability to run different LLMs on the smallest devices possible</sub></td>
-<td align="right"><b>1,123</b></td>
-<td align="right">63</td>
+<td align="right"><b>1,145</b></td>
+<td align="right">72</td>
 <td>C</td>
 </tr>
 <tr>
@@ -462,6 +462,20 @@
 <td align="right">17</td>
 <td>C#</td>
 </tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/gevorg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gevorg/http-auth"><b>gevorg/http-auth</b></a><br><sub>Node.js package for HTTP basic and digest access authentication.</sub></td>
+<td align="right"><b>370</b></td>
+<td align="right">69</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/vsdudakov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vsdudakov/fastadmin"><b>vsdudakov/fastadmin</b></a><br><sub>Easy-to-use admin dashboard (admin panel) for FastAPI, Flask and Django, inspired by Django Admin. Works with Tortoise…</sub></td>
+<td align="right"><b>342</b></td>
+<td align="right">36</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -470,8 +484,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 374 stars; 63 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 342 stars; 65 attributed candidates are tracked.
+- 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

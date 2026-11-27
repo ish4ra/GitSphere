@@ -206,7 +206,7 @@
 <tr>
 <td align="right">27</td>
 <td><a href="https://github.com/fatema-maitham"><img src="https://avatars.githubusercontent.com/u/214379854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fatema-maitham"><b>Fatema Maitham</b></a><br><sub>&#64;fatema-maitham</sub></td>
-<td align="right"><b>30</b></td>
+<td align="right"><b>31</b></td>
 <td align="right">128</td>
 <td><sub>Bahrain</sub></td>
 </tr>

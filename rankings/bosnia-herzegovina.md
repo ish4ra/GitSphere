@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **31** | 24 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **33** | 24 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -238,6 +238,20 @@
 <td align="right">177</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/code-forge-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/code-forge-io/base-stack"><b>code-forge-io/base-stack</b></a><br><sub>The best way to start your react-router v7 project</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">67</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/dsanel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dsanel/mongoose-delete"><b>dsanel/mongoose-delete</b></a><br><sub>Mongoose Soft Delete Plugin</sub></td>
+<td align="right"><b>354</b></td>
+<td align="right">109</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -246,8 +260,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 380 stars; 31 attributed candidates are tracked.
-- 75 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 354 stars; 33 attributed candidates are tracked.
+- 61 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

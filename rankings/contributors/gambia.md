@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/contributors/GM.json">JSON</a> |
+| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/GM.json">JSON</a> |
 
 </div>
 
@@ -178,6 +178,24 @@
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/mbaldeh1"><img src="https://avatars.githubusercontent.com/u/82321373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbaldeh1"><b>Muhammed Baldeh</b></a><br><sub>&#64;mbaldeh1 · 57 followers</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/Baraski-jr"><img src="https://avatars.githubusercontent.com/u/78673626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Baraski-jr"><b>Omar Barra</b></a><br><sub>&#64;Baraski-jr · 3 followers</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/Michael-Jalloh"><img src="https://avatars.githubusercontent.com/u/14872319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Michael-Jalloh"><b>Michael Jalloh</b></a><br><sub>&#64;Michael-Jalloh · 3 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">7</td>
@@ -186,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">21</td>
 <td><a href="https://github.com/Massay"><img src="https://avatars.githubusercontent.com/u/6600405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Massay"><b>Massay Bah</b></a><br><sub>&#64;Massay · 8 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">1</td>
@@ -195,10 +213,19 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">22</td>
 <td><a href="https://github.com/ndimzKM"><img src="https://avatars.githubusercontent.com/u/36171086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndimzKM"><b>Alieu Ndimbalane</b></a><br><sub>&#64;ndimzKM · 14 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/Sjallow"><img src="https://avatars.githubusercontent.com/u/34775682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sjallow"><b>Sering jallow</b></a><br><sub>&#64;Sjallow · 10 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -210,7 +237,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 21 of 422 discovered developers (401 awaiting measurement).
+- **Measured:** 25 of 422 discovered developers (397 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 108 in round 1.

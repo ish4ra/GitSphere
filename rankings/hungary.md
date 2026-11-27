@@ -331,17 +331,17 @@
 </tr>
 <tr>
 <td align="right">45</td>
+<td><img src="https://github.com/foxssake.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/foxssake/netfox"><b>foxssake/netfox</b></a><br><sub>Addons for building multiplayer games with Godot</sub></td>
+<td align="right"><b>1,138</b></td>
+<td align="right">98</td>
+<td>GDScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
 <td><img src="https://github.com/fsbolero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fsbolero/Bolero"><b>fsbolero/Bolero</b></a><br><sub>Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloade…</sub></td>
 <td align="right"><b>1,138</b></td>
 <td align="right">58</td>
 <td>F#</td>
-</tr>
-<tr>
-<td align="right">46</td>
-<td><img src="https://github.com/foxssake.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/foxssake/netfox"><b>foxssake/netfox</b></a><br><sub>Addons for building multiplayer games with Godot</sub></td>
-<td align="right"><b>1,136</b></td>
-<td align="right">96</td>
-<td>GDScript</td>
 </tr>
 <tr>
 <td align="right">47</td>
@@ -353,29 +353,29 @@
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/l7mp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/l7mp/stunner"><b>l7mp/stunner</b></a><br><sub>A Kubernetes media gateway for WebRTC. Contact: info&#64;l7mp.io</sub></td>
-<td align="right"><b>1,070</b></td>
-<td align="right">101</td>
+<td align="right"><b>1,073</b></td>
+<td align="right">100</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">49</td>
+<td><img src="https://github.com/GarethManning.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GarethManning/education-agent-skills"><b>GarethManning/education-agent-skills</b></a><br><sub>165 evidence-grounded AI skills for teachers, school leaders and EdTech builders—pedagogy, learning science, curriculum…</sub></td>
+<td align="right"><b>1,037</b></td>
+<td align="right">146</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">50</td>
 <td><img src="https://github.com/madbence.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/madbence/node-drawille"><b>madbence/node-drawille</b></a><br><sub>Drawing in terminal with unicode braille characters</sub></td>
-<td align="right"><b>1,032</b></td>
+<td align="right"><b>1,031</b></td>
 <td align="right">30</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">50</td>
-<td><img src="https://github.com/GarethManning.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GarethManning/education-agent-skills"><b>GarethManning/education-agent-skills</b></a><br><sub>165 evidence-grounded AI skills for teachers, school leaders and EdTech builders—pedagogy, learning science, curriculum…</sub></td>
-<td align="right"><b>1,016</b></td>
-<td align="right">144</td>
-<td>TypeScript</td>
-</tr>
-<tr>
 <td align="right">51</td>
 <td><img src="https://github.com/Aylur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aylur/astal"><b>Aylur/astal</b></a><br><sub>Building blocks for creating custom desktop shells</sub></td>
-<td align="right"><b>1,006</b></td>
-<td align="right">109</td>
+<td align="right"><b>1,009</b></td>
+<td align="right">108</td>
 <td>Vala</td>
 </tr>
 <tr>
@@ -388,7 +388,7 @@
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/soyersoyer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/soyersoyer/cameractrls"><b>soyersoyer/cameractrls</b></a><br><sub>Camera controls for Linux</sub></td>
-<td align="right"><b>964</b></td>
+<td align="right"><b>965</b></td>
 <td align="right">55</td>
 <td>Python</td>
 </tr>
@@ -396,7 +396,7 @@
 <td align="right">54</td>
 <td><img src="https://github.com/asciimoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asciimoo/exrex"><b>asciimoo/exrex</b></a><br><sub>Irregular methods on regular expressions</sub></td>
 <td align="right"><b>961</b></td>
-<td align="right">100</td>
+<td align="right">101</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -409,14 +409,14 @@
 <tr>
 <td align="right">56</td>
 <td><img src="https://github.com/janosmiko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/janosmiko/lfk"><b>janosmiko/lfk</b></a><br><sub>⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernet…</sub></td>
-<td align="right"><b>942</b></td>
+<td align="right"><b>943</b></td>
 <td align="right">41</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/arpanghosh8453.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arpanghosh8453/fitbit-grafana"><b>arpanghosh8453/fitbit-grafana</b></a><br><sub>A script to fetch data from Fitbit servers using their API and store the data in a local influxdb database and visualiz…</sub></td>
-<td align="right"><b>930</b></td>
+<td align="right"><b>931</b></td>
 <td align="right">84</td>
 <td>Python</td>
 </tr>
@@ -437,8 +437,8 @@
 <tr>
 <td align="right">60</td>
 <td><img src="https://github.com/bitrise-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitrise-io/bitrise"><b>bitrise-io/bitrise</b></a><br><sub>Bitrise runner CLI - run your automations on your Mac or Linux machine -</sub></td>
-<td align="right"><b>903</b></td>
-<td align="right">133</td>
+<td align="right"><b>902</b></td>
+<td align="right">134</td>
 <td>Go</td>
 </tr>
 <tr>

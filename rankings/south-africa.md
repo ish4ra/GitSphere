@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **83** | 24 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
+| 🟡 Provisional | **96** | 24 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
 </div>
 
@@ -157,8 +157,8 @@
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/AlexvZyl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexvZyl/nordic.nvim"><b>AlexvZyl/nordic.nvim</b></a><br><sub>🌒 Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.</sub></td>
-<td align="right"><b>1,077</b></td>
-<td align="right">71</td>
+<td align="right"><b>1,078</b></td>
+<td align="right">70</td>
 <td>Lua</td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@
 <td align="right">22</td>
 <td><img src="https://github.com/Stacked-Org.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Stacked-Org/stacked"><b>Stacked-Org/stacked</b></a><br><sub>A Flutter application architecture created from real world scenarios</sub></td>
 <td align="right"><b>1,037</b></td>
-<td align="right">249</td>
+<td align="right">247</td>
 <td>Dart</td>
 </tr>
 <tr>
@@ -199,8 +199,8 @@
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/limbopro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/limbopro/JichangTuijian"><b>limbopro/JichangTuijian</b></a><br><sub>毒奶博主的自用机场推荐——150GB/14元/月起，Vless/AnyTLS协议支持，透传，IEPL专线加持，稳定低延迟，ChatGPT 等AI工具支持，Netflix等主流流媒体区域限制解锁；</sub></td>
-<td align="right"><b>943</b></td>
-<td align="right">14</td>
+<td align="right"><b>952</b></td>
+<td align="right">15</td>
 <td>—</td>
 </tr>
 <tr>
@@ -602,6 +602,97 @@
 <td align="right">47</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/Razor12911.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Razor12911/xtool"><b>Razor12911/xtool</b></a> <sub>archived</sub><br><sub>Just some tool repackers like to use...</sub></td>
+<td align="right"><b>371</b></td>
+<td align="right">42</td>
+<td>Pascal</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/Restioson.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Restioson/xtra"><b>Restioson/xtra</b></a><br><sub>🎭 A tiny actor framework</sub></td>
+<td align="right"><b>364</b></td>
+<td align="right">41</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/Asjas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asjas/prisma-redis-middleware"><b>Asjas/prisma-redis-middleware</b></a> <sub>archived</sub><br><sub>Prisma Middleware for caching queries in Redis</sub></td>
+<td align="right"><b>360</b></td>
+<td align="right">34</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/hfjooste.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hfjooste/UltimateStarterKit"><b>hfjooste/UltimateStarterKit</b></a><br><sub>The Ultimate Starter Kit plugin to speed up development of Unreal Engine games</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">32</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/tiaanduplessis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiaanduplessis/awesome-react-native-talks"><b>tiaanduplessis/awesome-react-native-talks</b></a><br><sub>:sunglasses: A curated list of talks about React Native or topics related to React Native</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">16</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/David-vz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/David-vz/MonsterHunterPortable3rdHDRemake"><b>David-vz/MonsterHunterPortable3rdHDRemake</b></a><br><sub>Repo for a texture upscaling project for PSP&#39;s Monster Hunter Portable 3rd HD</sub></td>
+<td align="right"><b>354</b></td>
+<td align="right">288</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/kloon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kloon/WooCommerce-REST-API-Client-Library"><b>kloon/WooCommerce-REST-API-Client-Library</b></a><br><sub>A PHP wrapper for the WooCommerce REST API</sub></td>
+<td align="right"><b>352</b></td>
+<td align="right">164</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/nqcm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nqcm/learning-blockchain"><b>nqcm/learning-blockchain</b></a><br><sub>Path to become a blockchain developer through self-education.</sub></td>
+<td align="right"><b>352</b></td>
+<td align="right">55</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/mchall.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mchall/HiddenWatermark"><b>mchall/HiddenWatermark</b></a><br><sub>Embeds a hidden watermark in an image using a blind DWT-DCT approach</sub></td>
+<td align="right"><b>350</b></td>
+<td align="right">57</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/akserg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akserg/ng2-slim-loading-bar"><b>akserg/ng2-slim-loading-bar</b></a><br><sub>Angular 2 component shows slim loading bar at the top of the page.</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">88</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/arriemeijer-creator.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arriemeijer-creator/AeroJAX"><b>arriemeijer-creator/AeroJAX</b></a><br><sub>AeroJAX: A differentiable, structure-preserving framework for real-time flow simulation, control, and inverse design. A…</sub></td>
+<td align="right"><b>346</b></td>
+<td align="right">36</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/kellerza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kellerza/sunsynk"><b>kellerza/sunsynk</b></a><br><sub>Deye/Sunsynk Inverter Python library and Home Assistant OS Addon</sub></td>
+<td align="right"><b>343</b></td>
+<td align="right">164</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/schalkburger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/schalkburger/ExplorerF11Fix"><b>schalkburger/ExplorerF11Fix</b></a><br><sub>An AutoHotkey script that opens File Explorer and switches in and out of fullscreen mode (F11)</sub></td>
+<td align="right"><b>342</b></td>
+<td align="right">7</td>
+<td>AutoHotkey</td>
+</tr>
 </tbody>
 </table>
 
@@ -610,8 +701,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 376 stars; 83 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 342 stars; 96 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

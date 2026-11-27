@@ -5,14 +5,14 @@
 "country": {"code":"EH","name":"Western Sahara","slug":"western-sahara"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":16,"measuredAccounts":14,"measurementBacklog":2,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":34,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":16,"measuredAccounts":16,"measurementBacklog":0,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":34,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE4MjYwMTYz","login":"ob-aion","name":"OB","url":"https://github.com/ob-aion","avatarUrl":"https://avatars.githubusercontent.com/u/18260163?s=80&v=4","followers":7,"publicRepos":6,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":665,"commits":361,"pullRequests":227,"reviews":62,"issues":8,"repositories":6,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjYwODE3ODc1","login":"suzuya1331","name":"Hassan mansour","url":"https://github.com/suzuya1331","avatarUrl":"https://avatars.githubusercontent.com/u/60817875?s=80&v=4","followers":30,"publicRepos":36,"location":"Laayoune, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":192,"commits":149,"pullRequests":11,"reviews":0,"issues":10,"repositories":22,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":3,"id":"MDQ6VXNlcjQ0ODcwNjcw","login":"DariusTheGreate","name":"Kotovshikov Sergei Vladimirovich","url":"https://github.com/DariusTheGreate","avatarUrl":"https://avatars.githubusercontent.com/u/44870670?s=80&v=4","followers":13,"publicRepos":33,"location":"الصحراء الغربية","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "2642436825487d7d",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "9d6c7a735634939d",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

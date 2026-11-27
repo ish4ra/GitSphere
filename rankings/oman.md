@@ -47,8 +47,8 @@
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/AhmedBafkir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedBafkir/DLiPA"><b>AhmedBafkir/DLiPA</b></a><br><sub>An iOS app inspired by the ipatool project. It allows users to download, install, and share App Store applications usin…</sub></td>
-<td align="right"><b>1,050</b></td>
-<td align="right">58</td>
+<td align="right"><b>1,055</b></td>
+<td align="right">59</td>
 <td>—</td>
 </tr>
 <tr>
@@ -341,7 +341,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 44 attributed candidates are tracked.
 - 36 entries were carried over from the previous dataset and are pending revalidation.
-- 125 multi-repository owners are queued for expansion.
+- 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 41 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

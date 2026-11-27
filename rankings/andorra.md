@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/AD.json">JSON</a> |
+| 🟡 Provisional | **12** | 24 Nov 2026 | <a href="../data/AD.json">JSON</a> |
 
 </div>
 
@@ -38,8 +38,8 @@
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/jorge07.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jorge07/symfony-7-es-cqrs-boilerplate"><b>jorge07/symfony-7-es-cqrs-boilerplate</b></a><br><sub>Symfony 7 DDD ES CQRS backend boilerplate.</sub></td>
-<td align="right"><b>1,083</b></td>
-<td align="right">185</td>
+<td align="right"><b>1,084</b></td>
+<td align="right">186</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -98,6 +98,13 @@
 <td align="right">106</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/niwinz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/niwinz/django-jinja"><b>niwinz/django-jinja</b></a><br><sub>Simple and nonobstructive jinja2 integration with Django.</sub></td>
+<td align="right"><b>366</b></td>
+<td align="right">103</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -106,9 +113,9 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 376 stars; 11 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 366 stars; 12 attributed candidates are tracked.
 - 106 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 23 in round 1.
+- **Location discovery:** term 3 of 23 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

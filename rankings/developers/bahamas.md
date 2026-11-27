@@ -135,24 +135,24 @@
 </tr>
 <tr>
 <td align="right">17</td>
-<td><a href="https://github.com/mroker242"><img src="https://avatars.githubusercontent.com/u/7065886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mroker242"><b>Michael Roker</b></a><br><sub>&#64;mroker242</sub></td>
-<td align="right"><b>17</b></td>
-<td align="right">22</td>
-<td><sub>Nassau, Bahamas</sub></td>
-</tr>
-<tr>
-<td align="right">18</td>
 <td><a href="https://github.com/BeachMannix"><img src="https://avatars.githubusercontent.com/u/138404387?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BeachMannix"><b>Mannix Lee</b></a><br><sub>&#64;BeachMannix</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">15</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">18</td>
 <td><a href="https://github.com/aulbytj"><img src="https://avatars.githubusercontent.com/u/15934054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aulbytj"><b>Aulbourn Knowles</b></a><br><sub>&#64;aulbytj</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">45</td>
 <td><sub>Bahamas</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/mroker242"><img src="https://avatars.githubusercontent.com/u/7065886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mroker242"><b>Michael Roker</b></a><br><sub>&#64;mroker242</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">22</td>
+<td><sub>Nassau, Bahamas</sub></td>
 </tr>
 <tr>
 <td align="right">20</td>
@@ -249,7 +249,7 @@
 <td align="right">33</td>
 <td><a href="https://github.com/SamSepiol266"><img src="https://avatars.githubusercontent.com/u/8377384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SamSepiol266"><b>Sam Sepiol</b></a><br><sub>&#64;SamSepiol266</sub></td>
 <td align="right"><b>9</b></td>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><sub>Nassau, Bahamas</sub></td>
 </tr>
 <tr>

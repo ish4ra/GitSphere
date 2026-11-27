@@ -240,24 +240,24 @@
 </tr>
 <tr>
 <td align="right">32</td>
+<td><a href="https://github.com/Puru54"><img src="https://avatars.githubusercontent.com/u/141397564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Puru54"><b>caffinecoder</b></a><br><sub>&#64;Puru54</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">41</td>
+<td><sub>Thimphu,Bhutan</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
 <td><a href="https://github.com/Thinley-bot"><img src="https://avatars.githubusercontent.com/u/80090521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Thinley-bot"><b>thinley norbu</b></a><br><sub>&#64;Thinley-bot</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">10</td>
 <td><sub>Bhutan</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">34</td>
 <td><a href="https://github.com/imthatgin"><img src="https://avatars.githubusercontent.com/u/4886476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imthatgin"><b>gin</b></a><br><sub>&#64;imthatgin</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">7</td>
 <td><sub>Bhutan</sub></td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><a href="https://github.com/Puru54"><img src="https://avatars.githubusercontent.com/u/141397564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Puru54"><b>caffinecoder</b></a><br><sub>&#64;Puru54</sub></td>
-<td align="right"><b>13</b></td>
-<td align="right">41</td>
-<td><sub>Thimphu,Bhutan</sub></td>
 </tr>
 <tr>
 <td align="right">35</td>

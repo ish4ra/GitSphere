@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **37** | 24 Nov 2026 | <a href="../data/SV.json">JSON</a> |
+| 🟡 Provisional | **40** | 24 Nov 2026 | <a href="../data/SV.json">JSON</a> |
 
 </div>
 
@@ -122,8 +122,8 @@
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/terrakube-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/terrakube-io/terrakube"><b>terrakube-io/terrakube</b></a><br><sub>Open source IaC Automation and Collaboration Software.</sub></td>
-<td align="right"><b>1,008</b></td>
-<td align="right">153</td>
+<td align="right"><b>1,014</b></td>
+<td align="right">156</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -136,15 +136,15 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/deltaphc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deltaphc/raylib-rs"><b>deltaphc/raylib-rs</b></a><br><sub>Rust bindings for raylib</sub></td>
-<td align="right"><b>943</b></td>
-<td align="right">180</td>
+<td align="right"><b>942</b></td>
+<td align="right">179</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/Androz2091.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Androz2091/AtlantaBot"><b>Androz2091/AtlantaBot</b></a><br><sub>🤖 Another powerful Discord Bot with a web-dashboard used by more than 130k users!</sub></td>
 <td align="right"><b>919</b></td>
-<td align="right">554</td>
+<td align="right">555</td>
 <td>Less</td>
 </tr>
 <tr>
@@ -280,6 +280,27 @@
 <td align="right">134</td>
 <td>Ruby</td>
 </tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/mars.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mars/heroku-nextjs"><b>mars/heroku-nextjs</b></a><br><sub>⏩ Deploy Next.js universal web apps to Heroku</sub></td>
+<td align="right"><b>367</b></td>
+<td align="right">37</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/binux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/binux/lixian.xunlei"><b>binux/lixian.xunlei</b></a><br><sub>xunlei lixian api &amp; a website project base on it &amp; a plugin for flexget</sub></td>
+<td align="right"><b>364</b></td>
+<td align="right">55</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/Androz2091.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Androz2091/scratch-for-discord"><b>Androz2091/scratch-for-discord</b></a><br><sub>🐱Create your own Discord Bot easily using Scratch-styled blocks! Made with Vue.js</sub></td>
+<td align="right"><b>353</b></td>
+<td align="right">123</td>
+<td>Vue</td>
+</tr>
 </tbody>
 </table>
 
@@ -288,8 +309,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 400 stars; 37 attributed candidates are tracked.
-- 122 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 353 stars; 40 attributed candidates are tracked.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 71 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

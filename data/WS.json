@@ -5,7 +5,7 @@
 "country": {"code":"WS","name":"Samoa","slug":"samoa"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":31,"ownerExpansionBacklog":38,"candidates":31,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":41,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":31,"ownerExpansionBacklog":38,"candidates":31,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":41,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Samoan_Fale--ReactThreeFiber_Blender","nameWithOwner":"5thAttemptCode/Samoan_Fale--ReactThreeFiber_Blender","url":"https://github.com/5thAttemptCode/Samoan_Fale--ReactThreeFiber_Blender","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2024-05-20T19:17:58Z","pushedAt":"2024-05-25T07:05:18Z","archived":false,"owner":{"login":"5thAttemptCode","name":"Henry","type":"User","url":"https://github.com/5thAttemptCode","location":"Apia, Samoa","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"aoc","nameWithOwner":"duchonic/aoc","url":"https://github.com/duchonic/aoc","description":null,"stars":1,"forks":0,"primaryLanguage":"C++","license":null,"createdAt":"2019-01-06T10:00:29Z","pushedAt":"2024-12-06T15:35:46Z","archived":false,"owner":{"login":"duchonic","name":"duchonic","type":"User","url":"https://github.com/duchonic","location":"samoa","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -39,8 +39,8 @@
   {"rank":30,"id":null,"name":"Wynn-Samoa-Mobile-Games","nameWithOwner":"wynnsamoa/Wynn-Samoa-Mobile-Games","url":"https://github.com/wynnsamoa/Wynn-Samoa-Mobile-Games","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-09T09:42:03Z","pushedAt":"2026-09-09T09:46:43Z","archived":false,"owner":{"login":"wynnsamoa","name":"Wynnsamoa Free Credit","type":"User","url":"https://github.com/wynnsamoa","location":"Main Beach Road, Apia, Samoa, WS1000","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":31,"id":null,"name":"fate","nameWithOwner":"xfy777/fate","url":"https://github.com/xfy777/fate","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2023-08-05T16:16:50Z","pushedAt":"2023-08-05T16:17:20Z","archived":false,"owner":{"login":"xfy777","name":"xfy","type":"User","url":"https://github.com/xfy777","location":"Samoa","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "335fd337c4163b8a",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "24f4f9e8063caf13",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

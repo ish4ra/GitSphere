@@ -26,15 +26,15 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/KhunHtetzNaing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KhunHtetzNaing/ADB-OTG"><b>KhunHtetzNaing/ADB-OTG</b></a><br><sub>Android Debug Bridge On The Go.</sub></td>
-<td align="right"><b>1,002</b></td>
+<td align="right"><b>1,003</b></td>
 <td align="right">430</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/netgoat-xyz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/netgoat-xyz/netgoat"><b>netgoat-xyz/netgoat</b></a><br><sub>A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but fo…</sub></td>
-<td align="right"><b>903</b></td>
-<td align="right">51</td>
+<td align="right"><b>904</b></td>
+<td align="right">52</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -733,7 +733,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 123 attributed candidates are tracked.
 - 94 entries were carried over from the previous dataset and are pending revalidation.
-- 147 multi-repository owners are queued for expansion.
+- 146 multi-repository owners are queued for expansion.
 - **Location discovery:** term 3 of 161 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

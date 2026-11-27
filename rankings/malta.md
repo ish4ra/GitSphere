@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/MT.json">JSON</a> |
+| 🟡 Provisional | **17** | 24 Nov 2026 | <a href="../data/MT.json">JSON</a> |
 
 </div>
 
@@ -126,6 +126,20 @@
 <td align="right">46</td>
 <td>Haxe</td>
 </tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/dottedmag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dottedmag/x2x"><b>dottedmag/x2x</b></a><br><sub>x2x allows the keyboard, mouse on one X display to be used to control another X display.</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">61</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/MarkCiliaVincenti.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MarkCiliaVincenti/AsyncKeyedLock"><b>MarkCiliaVincenti/AsyncKeyedLock</b></a><br><sub>An asynchronous .NET library that allows you to lock based on a key (keyed semaphores), limiting concurrent threads sha…</sub></td>
+<td align="right"><b>346</b></td>
+<td align="right">19</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
@@ -134,8 +148,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 390 stars; 15 attributed candidates are tracked.
-- 102 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 346 stars; 17 attributed candidates are tracked.
+- 95 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 104 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

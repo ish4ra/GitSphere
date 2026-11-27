@@ -220,14 +220,14 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/arcanite24.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arcanite24/pinyon-shift"><b>arcanite24/pinyon-shift</b></a><br><sub>A playable preview of Forza Horizon static recompilation</sub></td>
-<td align="right"><b>1,093</b></td>
-<td align="right">48</td>
+<td align="right"><b>1,100</b></td>
+<td align="right">50</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/ronaldo-avalos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ronaldo-avalos/Maya"><b>ronaldo-avalos/Maya</b></a><br><sub>🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-…</sub></td>
-<td align="right"><b>1,089</b></td>
+<td align="right"><b>1,097</b></td>
 <td align="right">62</td>
 <td>Swift</td>
 </tr>
@@ -262,21 +262,21 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/cldrn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cldrn/nmap-nse-scripts"><b>cldrn/nmap-nse-scripts</b></a><br><sub>My collection of nmap NSE scripts</sub></td>
-<td align="right"><b>999</b></td>
+<td align="right"><b>1,000</b></td>
 <td align="right">362</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/ment-mx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ment-mx/Prism"><b>ment-mx/Prism</b></a><br><sub>Creates a beautiful artboard color palette with all your &#39;Document Colors&#39; and their respective color label in a variet…</sub></td>
-<td align="right"><b>994</b></td>
+<td align="right"><b>993</b></td>
 <td align="right">41</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/ElectronicCats.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ElectronicCats/CatSniffer"><b>ElectronicCats/CatSniffer</b></a><br><sub>CatSniffer is an original multiprotocol and multiband board for sniffing, communicating, and attacking IoT (Internet of…</sub></td>
-<td align="right"><b>959</b></td>
+<td align="right"><b>963</b></td>
 <td align="right">111</td>
 <td>Python</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 397 stars; 134 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 397 stars; 146 attributed candidates are tracked.
 - 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/JP.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/contributors/JP.json">JSON</a> |
 
 </div>
 
@@ -115,7 +115,16 @@
 </tr>
 <tr>
 <td align="right">11</td>
-<td><a href="https://github.com/keijiro"><img src="https://avatars.githubusercontent.com/u/343936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keijiro"><b>Keijiro Takahashi</b></a><br><sub>&#64;keijiro · 23,981 followers</sub></td>
+<td><a href="https://github.com/kenjinote"><img src="https://avatars.githubusercontent.com/u/2605401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenjinote"><b>kenji</b></a><br><sub>&#64;kenjinote · 23,624 followers</sub></td>
+<td align="right"><b>2,709</b></td>
+<td align="right">2,523</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">163</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/keijiro"><img src="https://avatars.githubusercontent.com/u/343936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keijiro"><b>Keijiro Takahashi</b></a><br><sub>&#64;keijiro · 23,982 followers</sub></td>
 <td align="right"><b>2,639</b></td>
 <td align="right">2,569</td>
 <td align="right">8</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/kt3k"><img src="https://avatars.githubusercontent.com/u/613956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kt3k"><b>Yoshiya Hinosawa</b></a><br><sub>&#64;kt3k · 1,020 followers</sub></td>
 <td align="right"><b>2,096</b></td>
 <td align="right">1,627</td>
@@ -132,7 +141,25 @@
 <td align="right">29</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
+<td><a href="https://github.com/pocke"><img src="https://avatars.githubusercontent.com/u/4361134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pocke"><b>Masataka Pocke Kuwabara</b></a><br><sub>&#64;pocke · 477 followers</sub></td>
+<td align="right"><b>2,078</b></td>
+<td align="right">1,550</td>
+<td align="right">426</td>
+<td align="right">10</td>
+<td align="right">73</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/bouzuya"><img src="https://avatars.githubusercontent.com/u/1221346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bouzuya"><b>bouzuya</b></a><br><sub>&#64;bouzuya · 143 followers</sub></td>
+<td align="right"><b>1,992</b></td>
+<td align="right">1,955</td>
+<td align="right">23</td>
+<td align="right">0</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/syohex"><img src="https://avatars.githubusercontent.com/u/554281?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syohex"><b>Shohei YOSHIDA</b></a><br><sub>&#64;syohex · 799 followers</sub></td>
 <td align="right"><b>1,334</b></td>
 <td align="right">1,164</td>
@@ -141,7 +168,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">17</td>
 <td><a href="https://github.com/dmbf29"><img src="https://avatars.githubusercontent.com/u/25542223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmbf29"><b>Douglas Berkley</b></a><br><sub>&#64;dmbf29 · 204 followers</sub></td>
 <td align="right"><b>1,117</b></td>
 <td align="right">930</td>
@@ -150,7 +177,7 @@
 <td align="right">6</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">18</td>
 <td><a href="https://github.com/hnakamur"><img src="https://avatars.githubusercontent.com/u/19299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hnakamur"><b>Hiroaki Nakamura</b></a><br><sub>&#64;hnakamur · 297 followers</sub></td>
 <td align="right"><b>419</b></td>
 <td align="right">313</td>
@@ -159,7 +186,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">19</td>
 <td><a href="https://github.com/junkiyoshi"><img src="https://avatars.githubusercontent.com/u/16998543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junkiyoshi"><b>NAKAUCHI Kiyoshi</b></a><br><sub>&#64;junkiyoshi · 680 followers</sub></td>
 <td align="right"><b>370</b></td>
 <td align="right">368</td>
@@ -168,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
 <td><a href="https://github.com/codeyu"><img src="https://avatars.githubusercontent.com/u/230674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codeyu"><b>codeYu</b></a><br><sub>&#64;codeyu · 199 followers</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">31</td>
@@ -177,12 +204,21 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/S-YOU"><img src="https://avatars.githubusercontent.com/u/1001175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/S-YOU"><b>S-YOU</b></a><br><sub>&#64;S-YOU · 188 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/baba-s"><img src="https://avatars.githubusercontent.com/u/6134875?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baba-s"><b>baba&#95;s</b></a><br><sub>&#64;baba-s · 610 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">1</td>
 <td align="right">0</td>
 </tr>
 </tbody>
@@ -192,7 +228,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 19 of 1,523 discovered developers (1,504 awaiting measurement).
+- **Measured:** 23 of 1,567 discovered developers (1,544 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 162 in round 1.

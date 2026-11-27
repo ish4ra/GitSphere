@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **37** | 01 Nov 2026 | <a href="../data/LU.json">JSON</a> |
-
-> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **41** | 24 Nov 2026 | <a href="../data/LU.json">JSON</a> |
 
 </div>
 
@@ -124,8 +122,8 @@
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/kunai-project.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kunai-project/kunai"><b>kunai-project/kunai</b></a><br><sub>Threat-hunting tool for Linux</sub></td>
-<td align="right"><b>1,101</b></td>
-<td align="right">79</td>
+<td align="right"><b>1,103</b></td>
+<td align="right">80</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -277,10 +275,38 @@
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/biomod-lih.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/biomod-lih/consICA"><b>biomod-lih/consICA</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">2</td>
-<td>R</td>
+<td><img src="https://github.com/kimwalisch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kimwalisch/libpopcnt"><b>kimwalisch/libpopcnt</b></a><br><sub>🚀 Fast C/C++ bit population count library</sub></td>
+<td align="right"><b>371</b></td>
+<td align="right">43</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/AndrejOrsula.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndrejOrsula/pymoveit2"><b>AndrejOrsula/pymoveit2</b></a><br><sub>Python interface for MoveIt 2</sub></td>
+<td align="right"><b>368</b></td>
+<td align="right">113</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/costezki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/costezki/awesome-nlprojects"><b>costezki/awesome-nlprojects</b></a><br><sub>List of projects related to Natural Language Processing (NLP) that make a geek smile for they exist</sub></td>
+<td align="right"><b>366</b></td>
+<td align="right">88</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/kimwalisch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kimwalisch/primecount"><b>kimwalisch/primecount</b></a><br><sub>🚀 Fast prime counting function library</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">50</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/FabianLauer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FabianLauer/chrome-vs-code"><b>FabianLauer/chrome-vs-code</b></a> <sub>archived</sub><br><sub>A web browser integrated in VS Code editor tabs.</sub></td>
+<td align="right"><b>353</b></td>
+<td align="right">15</td>
+<td>CSS</td>
 </tr>
 </tbody>
 </table>
@@ -288,11 +314,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 37 attributed candidates are tracked.
-- 1 entries were carried over from the previous dataset and are pending revalidation.
-- 104 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 353 stars; 41 attributed candidates are tracked.
+- 100 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

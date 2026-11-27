@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/UZ.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/UZ.json">JSON</a> |
 
 </div>
 
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/LazizbekDev"><img src="https://avatars.githubusercontent.com/u/76479698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LazizbekDev"><b>Laziz</b></a><br><sub>&#64;LazizbekDev · 162 followers</sub></td>
+<td align="right"><b>151</b></td>
+<td align="right">135</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/kurbanovxurshidbek"><img src="https://avatars.githubusercontent.com/u/10227536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kurbanovxurshidbek"><b>Xurshidbek Kurbanov</b></a><br><sub>&#64;kurbanovxurshidbek · 261 followers</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">27</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/mukhriddin-dev"><img src="https://avatars.githubusercontent.com/u/66181316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mukhriddin-dev"><b>Mukhriddin Khodiev</b></a><br><sub>&#64;mukhriddin-dev · 280 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">22</td>
@@ -114,7 +123,25 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
+<td><a href="https://github.com/uzbekdev1"><img src="https://avatars.githubusercontent.com/u/4530991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uzbekdev1"><b>Elyor Latipov</b></a><br><sub>&#64;uzbekdev1 · 130 followers</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">9</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/doniyor2109"><img src="https://avatars.githubusercontent.com/u/14192979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/doniyor2109"><b>Doniyor Aliyev</b></a><br><sub>&#64;doniyor2109 · 170 followers</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">4</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/Rakhimjon"><img src="https://avatars.githubusercontent.com/u/22024327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rakhimjon"><b>Rakhim Abdullayev</b></a><br><sub>&#64;Rakhimjon · 502 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
@@ -123,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">15</td>
 <td><a href="https://github.com/dFarkhod"><img src="https://avatars.githubusercontent.com/u/4464420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dFarkhod"><b>Farkhod Dadajanov</b></a><br><sub>&#64;dFarkhod · 590 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -132,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">16</td>
 <td><a href="https://github.com/Muhammadjewel"><img src="https://avatars.githubusercontent.com/u/10514327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muhammadjewel"><b>Muhammadjavohir</b></a><br><sub>&#64;Muhammadjewel · 353 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -147,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 438 discovered developers (424 awaiting measurement).
+- **Measured:** 17 of 447 discovered developers (430 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 147 in round 1.

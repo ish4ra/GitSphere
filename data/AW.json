@@ -5,7 +5,7 @@
 "country": {"code":"AW","name":"Aruba","slug":"aruba"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":68,"ownerExpansionBacklog":100,"candidates":68,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":68,"ownerExpansionBacklog":100,"candidates":68,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Proyecto-Barberia","nameWithOwner":"zarco22/Proyecto-Barberia","url":"https://github.com/zarco22/Proyecto-Barberia","description":null,"stars":0,"forks":2,"primaryLanguage":null,"license":null,"createdAt":"2022-08-24T22:59:35Z","pushedAt":"2022-08-27T00:48:58Z","archived":false,"owner":{"login":"zarco22","name":"Felipe Fonseca","type":"User","url":"https://github.com/zarco22","location":"Oranjestad, Aruba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"probable-spork","nameWithOwner":"Liteon-Australia/probable-spork","url":"https://github.com/Liteon-Australia/probable-spork","description":null,"stars":0,"forks":1,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2023-08-13T03:08:41Z","pushedAt":"2023-10-01T06:47:10Z","archived":false,"owner":{"login":"Liteon-Australia","name":"Liteon-Australia","type":"Organization","url":"https://github.com/Liteon-Australia","location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -76,8 +76,8 @@
   {"rank":67,"id":null,"name":"YahuampiGMB","nameWithOwner":"YahuampiGMB/YahuampiGMB","url":"https://github.com/YahuampiGMB/YahuampiGMB","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-12-28T15:26:55Z","pushedAt":"2021-12-28T15:28:18Z","archived":false,"owner":{"login":"YahuampiGMB","name":"YahuampiGMB","type":"User","url":"https://github.com/YahuampiGMB","location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":68,"id":null,"name":"recored","nameWithOwner":"YutongLi-cn/recored","url":"https://github.com/YutongLi-cn/recored","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2021-02-09T02:05:01Z","pushedAt":"2021-02-09T02:09:24Z","archived":false,"owner":{"login":"YutongLi-cn","name":"Klara Bailey","type":"User","url":"https://github.com/YutongLi-cn","location":"488 ,Dickens Stravenue ,Lake Hollis ,Louisiana ,Aruba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "6ff8fae683b3babc",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "79bc0684914dc82a",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

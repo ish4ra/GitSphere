@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/KamoheloKoali"><img src="https://avatars.githubusercontent.com/u/152155388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KamoheloKoali"><b>Kamohelo Koali</b></a><br><sub>&#64;KamoheloKoali</sub></td>
-<td align="right"><b>248</b></td>
+<td align="right"><b>249</b></td>
 <td align="right">43</td>
 <td><sub>Lesotho</sub></td>
 </tr>
@@ -123,7 +123,7 @@
 <td align="right">15</td>
 <td><a href="https://github.com/KNkoe"><img src="https://avatars.githubusercontent.com/u/39955467?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KNkoe"><b>Katleho Nkoe</b></a><br><sub>&#64;KNkoe</sub></td>
 <td align="right"><b>13</b></td>
-<td align="right">41</td>
+<td align="right">43</td>
 <td><sub>Maseru</sub></td>
 </tr>
 <tr>

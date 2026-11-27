@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/JosephGMkonda"><img src="https://avatars.githubusercontent.com/u/105700208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JosephGMkonda"><b>Joseph Mkonda</b></a><br><sub>&#64;JosephGMkonda</sub></td>
-<td align="right"><b>232</b></td>
+<td align="right"><b>234</b></td>
 <td align="right">61</td>
 <td><sub>malawi</sub></td>
 </tr>
@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/RodgerCodes"><img src="https://avatars.githubusercontent.com/u/51970312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RodgerCodes"><b>Rodger Kumwanje</b></a><br><sub>&#64;RodgerCodes</sub></td>
-<td align="right"><b>132</b></td>
+<td align="right"><b>133</b></td>
 <td align="right">53</td>
 <td><sub>Malawi</sub></td>
 </tr>

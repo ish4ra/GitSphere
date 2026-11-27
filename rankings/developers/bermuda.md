@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/nvelden"><img src="https://avatars.githubusercontent.com/u/45127542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nvelden"><b>nvelden</b></a><br><sub>&#64;nvelden</sub></td>
-<td align="right"><b>52</b></td>
+<td align="right"><b>50</b></td>
 <td align="right">27</td>
 <td><sub>Hamilton, Bermuda</sub></td>
 </tr>

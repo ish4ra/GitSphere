@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 24 Nov 2026 | <a href="../data/BO.json">JSON</a> |
+| 🟡 Provisional | **8** | 25 Nov 2026 | <a href="../data/BO.json">JSON</a> |
 
 </div>
 
@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/cuevhv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cuevhv/mamma"><b>cuevhv/mamma</b></a><br><sub>Official code for MAMMA: Markerless Accurate Multi-person Motion Acquisition.</sub></td>
-<td align="right"><b>908</b></td>
+<td align="right"><b>913</b></td>
 <td align="right">89</td>
 <td>Python</td>
 </tr>
@@ -86,7 +86,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 424 stars; 8 attributed candidates are tracked.
-- 128 multi-repository owners are queued for expansion.
+- 124 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

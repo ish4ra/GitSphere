@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/ST.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/ST.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/pretpo"><img src="https://avatars.githubusercontent.com/u/259558818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pretpo"><b>Manuel &quot;pretpo&quot; Santos</b></a><br><sub>&#64;pretpo · 0 followers</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">12</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/benildebonfim"><img src="https://avatars.githubusercontent.com/u/93544583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benildebonfim"><b>Benilde</b></a><br><sub>&#64;benildebonfim · 47 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -42,10 +51,19 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/alekssanderquintas"><img src="https://avatars.githubusercontent.com/u/253700408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alekssanderquintas"><b>Alekssander Costa</b></a><br><sub>&#64;alekssanderquintas · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/joaopontifice"><img src="https://avatars.githubusercontent.com/u/71882287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joaopontifice"><b>John</b></a><br><sub>&#64;joaopontifice · 9 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">2</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 16 of 21 discovered developers (5 awaiting measurement).
+- **Measured:** 20 of 21 discovered developers (1 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 33 in round 1.

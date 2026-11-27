@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **93** | 24 Nov 2026 | <a href="../data/PH.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
 </div>
 
@@ -206,14 +206,14 @@
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/vue-stripe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vue-stripe/vue-stripe"><b>vue-stripe/vue-stripe</b></a><br><sub>Stripe Elements and Checkout as Vue components</sub></td>
-<td align="right"><b>1,124</b></td>
+<td align="right"><b>1,125</b></td>
 <td align="right">140</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/smoochiee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/smoochiee/Bluetooth-jammer-esp32"><b>smoochiee/Bluetooth-jammer-esp32</b></a> <sub>archived</sub><br><sub>Bluetooth jamming esp32 with nrf24l01</sub></td>
-<td align="right"><b>1,115</b></td>
+<td align="right"><b>1,117</b></td>
 <td align="right">238</td>
 <td>C++</td>
 </tr>
@@ -227,21 +227,21 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/markterence.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/markterence/discord-quest-completer"><b>markterence/discord-quest-completer</b></a><br><sub>A Windows desktop application to complete quests on Discord without installing the full actual games.</sub></td>
-<td align="right"><b>1,011</b></td>
-<td align="right">99</td>
+<td align="right"><b>1,013</b></td>
+<td align="right">101</td>
 <td>Vue</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/janleigh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/janleigh/dotfiles"><b>janleigh/dotfiles</b></a> <sub>archived</sub><br><sub>My desktop configuration files.</sub></td>
-<td align="right"><b>936</b></td>
+<td align="right"><b>935</b></td>
 <td align="right">30</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/eromatiya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eromatiya/blurredfox"><b>eromatiya/blurredfox</b></a><br><sub>A sleek, modern and elegant Firefox CSS theme</sub></td>
-<td align="right"><b>924</b></td>
+<td align="right"><b>925</b></td>
 <td align="right">43</td>
 <td>CSS</td>
 </tr>
@@ -672,15 +672,64 @@
 <td align="right">128</td>
 <td>PHP</td>
 </tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/mamertofabian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mamertofabian/mcp-everything-search"><b>mamertofabian/mcp-everything-search</b></a></td>
+<td align="right"><b>371</b></td>
+<td align="right">41</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/XHYN-PH.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/XHYN-PH/XHYN-V-reborn"><b>XHYN-PH/XHYN-V-reborn</b></a><br><sub>An unofficial native GTA V port for Android, based on the Chinese Android port. Maintained by XHYN-PH. Requires your ow…</sub></td>
+<td align="right"><b>370</b></td>
+<td align="right">62</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/macalinao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/macalinao/ghfollowers"><b>macalinao/ghfollowers</b></a><br><sub>:octocat: Get GitHub followers.</sub></td>
+<td align="right"><b>369</b></td>
+<td align="right">11</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/icedman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icedman/dash2dock-lite"><b>icedman/dash2dock-lite</b></a><br><sub>A minimal and animated implementation of dash to dock</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">74</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/jayehernandez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jayehernandez/letra-extension"><b>jayehernandez/letra-extension</b></a><br><sub>Passively learn a new language every time you open a new tab</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">266</td>
+<td>SCSS</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/johndavedecano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/johndavedecano/laragym"><b>johndavedecano/laragym</b></a><br><sub>A laravel gym management system</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">195</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/jondanao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jondanao/TheSidebarController"><b>jondanao/TheSidebarController</b></a><br><sub>A container view controller that implements different popular sidebar view controllers like Facebook, Airbnb, Flipboard…</sub></td>
+<td align="right"><b>356</b></td>
+<td align="right">46</td>
+<td>Objective-C</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 372 stars; 93 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 356 stars; 110 attributed candidates are tracked.
 - 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

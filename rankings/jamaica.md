@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 24 Nov 2026 | <a href="../data/JM.json">JSON</a> |
+| 🟡 Provisional | **8** | 24 Nov 2026 | <a href="../data/JM.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,13 @@
 <td align="right">90</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/SIsilicon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SIsilicon/Godot-Volumetrics-Plugin"><b>SIsilicon/Godot-Volumetrics-Plugin</b></a></td>
+<td align="right"><b>357</b></td>
+<td align="right">15</td>
+<td>GDScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -78,8 +85,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 400 stars; 7 attributed candidates are tracked.
-- 116 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 357 stars; 8 attributed candidates are tracked.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 70 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

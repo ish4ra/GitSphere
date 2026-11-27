@@ -5,7 +5,7 @@
 "country": {"code":"NR","name":"Nauru","slug":"nauru"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":11,"ownerExpansionBacklog":16,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":11,"ownerExpansionBacklog":15,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":21,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"rust-mysql","nameWithOwner":"nutsi/rust-mysql","url":"https://github.com/nutsi/rust-mysql","description":null,"stars":1,"forks":2,"primaryLanguage":"Rust","license":null,"createdAt":"2013-11-08T09:24:18Z","pushedAt":"2013-11-28T08:58:55Z","archived":false,"owner":{"login":"nutsi","name":null,"type":"User","url":"https://github.com/nutsi","location":"Yaren","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"overtone","nameWithOwner":"01LuckyStrike10/overtone","url":"https://github.com/01LuckyStrike10/overtone","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-20T16:36:49Z","pushedAt":"2023-12-20T16:36:50Z","archived":false,"owner":{"login":"01LuckyStrike10","name":"01LuckyStrike10","type":"User","url":"https://github.com/01LuckyStrike10","location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -19,8 +19,8 @@
   {"rank":10,"id":null,"name":"Soundness","nameWithOwner":"SatiaLee/Soundness","url":"https://github.com/SatiaLee/Soundness","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-03-21T06:53:09Z","pushedAt":"2025-03-21T06:53:09Z","archived":false,"owner":{"login":"SatiaLee","name":"SatiaLee","type":"User","url":"https://github.com/SatiaLee","location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":11,"id":null,"name":"power-assert","nameWithOwner":"therealsocke/power-assert","url":"https://github.com/therealsocke/power-assert","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-18T23:20:29Z","pushedAt":"2023-12-18T23:20:30Z","archived":false,"owner":{"login":"therealsocke","name":"therealsocke","type":"User","url":"https://github.com/therealsocke","location":"Yaren","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "b7b9fc53b653df84",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "a2be9ed6f6dfd0e1",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

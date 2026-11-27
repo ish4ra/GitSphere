@@ -62,7 +62,7 @@
 <td align="right">6</td>
 <td><img src="https://github.com/spidersuite.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spidersuite/SpiderSuite"><b>spidersuite/SpiderSuite</b></a><br><sub>SpiderSuite (web security crawler) releases, wiki and roadmap</sub></td>
 <td align="right"><b>991</b></td>
-<td align="right">124</td>
+<td align="right">125</td>
 <td>—</td>
 </tr>
 <tr>
@@ -712,7 +712,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 97 attributed candidates are tracked.
 - 84 entries were carried over from the previous dataset and are pending revalidation.
-- 127 multi-repository owners are queued for expansion.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

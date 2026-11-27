@@ -5,7 +5,7 @@
 "country": {"code":"TD","name":"Chad","slug":"chad"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":97,"ownerExpansionBacklog":145,"candidates":100,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":74,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":97,"ownerExpansionBacklog":144,"candidates":100,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":74,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMjUzODEzMTg=","name":"adversarial-robustness-toolbox","nameWithOwner":"Trusted-AI/adversarial-robustness-toolbox","url":"https://github.com/Trusted-AI/adversarial-robustness-toolbox","description":"Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams","stars":6330,"forks":1357,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2018-03-15T14:40:43Z","pushedAt":"2026-11-25T07:52:43Z","archived":false,"owner":{"login":"Trusted-AI","name":"Trusted-AI","type":"Organization","url":"https://github.com/Trusted-AI","location":"IBM","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxNDU3NjExMjM=","name":"AIF360","nameWithOwner":"Trusted-AI/AIF360","url":"https://github.com/Trusted-AI/AIF360","description":"A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets a…","stars":2885,"forks":930,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2018-08-22T20:47:15Z","pushedAt":"2026-06-15T19:55:33Z","archived":false,"owner":{"login":"Trusted-AI","name":"Trusted-AI","type":"Organization","url":"https://github.com/Trusted-AI","location":"IBM","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-26"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"wuebsyte","nameWithOwner":"wepretendtobeprogrammers/wuebsyte","url":"https://github.com/wepretendtobeprogrammers/wuebsyte","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2023-05-07T19:19:01Z","pushedAt":"2023-05-08T11:54:18Z","archived":false,"owner":{"login":"wepretendtobeprogrammers","name":"We pretend to be programmers","type":"Organization","url":"https://github.com/wepretendtobeprogrammers","location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Updates","nameWithOwner":"White-Door/Updates","url":"https://github.com/White-Door/Updates","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-07-27T14:32:41Z","pushedAt":"2021-08-06T18:22:02Z","archived":false,"owner":{"login":"White-Door","name":"White Door [RBLX Horror game]","type":"Organization","url":"https://github.com/White-Door","location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "22db0c618d02792d",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "46246362e9a270a4",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

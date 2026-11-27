@@ -128,16 +128,16 @@
 </tr>
 <tr>
 <td align="right">16</td>
-<td><a href="https://github.com/HamoonSoleimani"><img src="https://avatars.githubusercontent.com/u/24842101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HamoonSoleimani"><b>Hamoon Soleimani</b></a><br><sub>&#64;HamoonSoleimani</sub></td>
+<td><a href="https://github.com/garthhumphreys"><img src="https://avatars.githubusercontent.com/u/1590401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/garthhumphreys"><b>Garth Humphreys</b></a><br><sub>&#64;garthhumphreys</sub></td>
 <td align="right"><b>19</b></td>
-<td align="right">27</td>
+<td align="right">21</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>
 <td align="right">17</td>
-<td><a href="https://github.com/garthhumphreys"><img src="https://avatars.githubusercontent.com/u/1590401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/garthhumphreys"><b>Garth Humphreys</b></a><br><sub>&#64;garthhumphreys</sub></td>
-<td align="right"><b>19</b></td>
-<td align="right">21</td>
+<td><a href="https://github.com/HamoonSoleimani"><img src="https://avatars.githubusercontent.com/u/24842101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HamoonSoleimani"><b>Hamoon Soleimani</b></a><br><sub>&#64;HamoonSoleimani</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">27</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/dcimring"><img src="https://avatars.githubusercontent.com/u/3776891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dcimring"><b>Daniel</b></a><br><sub>&#64;dcimring</sub></td>
-<td align="right"><b>16</b></td>
+<td align="right"><b>15</b></td>
 <td align="right">26</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>

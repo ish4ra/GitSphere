@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 24 Nov 2026 | <a href="../data/CM.json">JSON</a> |
+| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/CM.json">JSON</a> |
 
 </div>
 
@@ -77,6 +77,27 @@
 <td align="right">118</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/djantche.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/djantche/site-du-zero-old-pdf"><b>djantche/site-du-zero-old-pdf</b></a><br><sub>La bibliothèque du Site du Zéro : les 431 anciens tutoriels PDF (OpenClassrooms), à rechercher et télécharger en ligne.</sub></td>
+<td align="right"><b>366</b></td>
+<td align="right">193</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/Leoneldev532.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Leoneldev532/Free-Ui-game"><b>Leoneldev532/Free-Ui-game</b></a></td>
+<td align="right"><b>363</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/ln-dev7.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ln-dev7/landing-pages"><b>ln-dev7/landing-pages</b></a><br><sub>Open-source landing pages with a personality of their own.</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">63</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -85,8 +106,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 403 stars; 8 attributed candidates are tracked.
-- 130 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 359 stars; 11 attributed candidates are tracked.
+- 126 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

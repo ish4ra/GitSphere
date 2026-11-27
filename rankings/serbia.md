@@ -241,7 +241,7 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/ClusterM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ClusterM/wg-obfuscator"><b>ClusterM/wg-obfuscator</b></a><br><sub>WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.</sub></td>
-<td align="right"><b>1,086</b></td>
+<td align="right"><b>1,089</b></td>
 <td align="right">70</td>
 <td>C</td>
 </tr>
@@ -262,21 +262,21 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/whaleyxbt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/whaleyxbt/claude-motion"><b>whaleyxbt/claude-motion</b></a><br><sub>A motion design toolkit for coding agents.</sub></td>
-<td align="right"><b>1,045</b></td>
-<td align="right">137</td>
+<td align="right"><b>1,065</b></td>
+<td align="right">139</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/tadija.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tadija/AEXML"><b>tadija/AEXML</b></a><br><sub>Swift minion for simple and lightweight XML parsing</sub></td>
 <td align="right"><b>1,037</b></td>
-<td align="right">202</td>
+<td align="right">201</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/filiparag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filiparag/wikiman"><b>filiparag/wikiman</b></a><br><sub>Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs…</sub></td>
-<td align="right"><b>1,036</b></td>
+<td align="right"><b>1,035</b></td>
 <td align="right">27</td>
 <td>Shell</td>
 </tr>
@@ -311,7 +311,7 @@
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/StefanTheCode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/StefanTheCode/dotnet_interview_questions"><b>StefanTheCode/dotnet&#95;interview&#95;questions</b></a></td>
-<td align="right"><b>955</b></td>
+<td align="right"><b>957</b></td>
 <td align="right">275</td>
 <td>C#</td>
 </tr>
@@ -319,7 +319,7 @@
 <td align="right">43</td>
 <td><img src="https://github.com/kutovoys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kutovoys/xray-checker"><b>kutovoys/xray-checker</b></a><br><sub>Xray Checker: A Prometheus exporter for monitoring Xray proxies</sub></td>
 <td align="right"><b>951</b></td>
-<td align="right">98</td>
+<td align="right">100</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 464 stars; 133 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 464 stars; 144 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"FO","name":"Faroe Islands","slug":"faroe-islands"},
-"count": 55,
+"count": 56,
 "repositories": [
+  {"id":"R_kgDOMJBQfQ","name":"kruseio/hygg","stars":362,"forks":17,"language":"Rust","license":"AGPL-3.0","description":"📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.","archived":false,"createdAt":"2024-06-13T16:51:05Z","pushedAt":"2026-10-30T02:32:55Z","owner":{"id":"MDQ6VXNlcjQ2Nzk5NTUx","login":"kruseio","type":"User","name":"Ragnar Kruse","location":"Faroe Islands"},"attribution":{"code":"FO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-27T02:14:09.102Z","verifiedAt":"2026-11-27T02:14:09.102Z","cycle":1},
   {"name":"rhizashell/seturprojekt","stars":0,"forks":1,"language":"JavaScript","archived":false,"createdAt":"2020-11-03T14:07:18Z","pushedAt":"2021-01-04T19:09:03Z","owner":{"login":"rhizashell","type":"User","location":"The Faroe Islands"},"attribution":{"code":"FO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:03.305Z","id":"legacy:rhizashell/seturprojekt","legacy":true},
   {"name":"2014054/2014054","stars":0,"forks":0,"archived":false,"createdAt":"2024-10-29T00:11:26Z","pushedAt":"2024-10-29T00:13:40Z","owner":{"login":"2014054","type":"User","name":"Jákup Petur Simonsen","location":"Faroe Islands"},"attribution":{"code":"FO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:03.305Z","id":"legacy:2014054/2014054","legacy":true},
   {"name":"aui-arch/About-me","stars":0,"forks":0,"archived":false,"createdAt":"2023-03-15T14:33:47Z","pushedAt":"2023-03-15T14:33:48Z","owner":{"login":"aui-arch","type":"User","name":"Aui","location":"faroe islands"},"attribution":{"code":"FO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:03.305Z","id":"legacy:aui-arch/about-me","legacy":true},

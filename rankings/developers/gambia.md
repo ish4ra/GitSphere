@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/mbaldeh1"><img src="https://avatars.githubusercontent.com/u/82321373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbaldeh1"><b>Muhammed Baldeh</b></a><br><sub>&#64;mbaldeh1</sub></td>
-<td align="right"><b>56</b></td>
+<td align="right"><b>57</b></td>
 <td align="right">49</td>
 <td><sub>The Gambia</sub></td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><a href="https://github.com/Sjallow"><img src="https://avatars.githubusercontent.com/u/34775682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sjallow"><b>Sering jallow</b></a><br><sub>&#64;Sjallow</sub></td>
-<td align="right"><b>11</b></td>
+<td align="right"><b>10</b></td>
 <td align="right">50</td>
 <td><sub>The Gambia</sub></td>
 </tr>
@@ -501,7 +501,7 @@
 <td align="right">69</td>
 <td><a href="https://github.com/Baraski-jr"><img src="https://avatars.githubusercontent.com/u/78673626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Baraski-jr"><b>Omar Barra</b></a><br><sub>&#64;Baraski-jr</sub></td>
 <td align="right"><b>3</b></td>
-<td align="right">49</td>
+<td align="right">51</td>
 <td><sub>The Gambia</sub></td>
 </tr>
 <tr>

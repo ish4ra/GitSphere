@@ -5,7 +5,7 @@
 "country": {"code":"AG","name":"Antigua & Barbuda","slug":"antigua-barbuda"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":40,"ownerExpansionBacklog":54,"candidates":41,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":40,"ownerExpansionBacklog":54,"candidates":41,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyNzU4Nzk5NTY=","name":"diktat","nameWithOwner":"saveourtool/diktat","url":"https://github.com/saveourtool/diktat","description":"Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs","stars":572,"forks":40,"primaryLanguage":"Kotlin","license":{"spdxId":"MIT"},"createdAt":"2020-06-29T17:14:54Z","pushedAt":"2026-06-03T09:05:01Z","archived":false,"owner":{"login":"saveourtool","name":"Save Our Tool!","type":"Organization","url":"https://github.com/saveourtool","location":"Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"1stLauxus","nameWithOwner":"1stLauxus/1stLauxus","url":"https://github.com/1stLauxus/1stLauxus","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-19T02:56:15Z","pushedAt":"2023-12-19T02:57:59Z","archived":false,"owner":{"login":"1stLauxus","name":"Jake Edwards","type":"User","url":"https://github.com/1stLauxus","location":"Antigua & Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -49,8 +49,8 @@
   {"rank":40,"id":null,"name":"community","nameWithOwner":"UWI-TRADC/community","url":"https://github.com/UWI-TRADC/community","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-08-23T03:20:19Z","pushedAt":"2023-08-23T03:20:19Z","archived":false,"owner":{"login":"UWI-TRADC","name":"TRADC","type":"Organization","url":"https://github.com/UWI-TRADC","location":"Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":41,"id":null,"name":"sql-queries","nameWithOwner":"vivd-hbar/sql-queries","url":"https://github.com/vivd-hbar/sql-queries","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2025-05-01T14:09:59Z","pushedAt":"2025-05-01T14:10:00Z","archived":false,"owner":{"login":"vivd-hbar","name":"Viv Diwakar","type":"User","url":"https://github.com/vivd-hbar","location":"Piccadilly, Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "e2763325f9e0154d",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "51a06be0a08f292f",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

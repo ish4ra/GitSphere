@@ -486,21 +486,21 @@
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/award-winning-website"><b>adrianhajdin/award-winning-website</b></a><br><sub>A step-by-step course teaching you how to build an award-winning animated website that became an Awwwards Site Of The M…</sub></td>
-<td align="right"><b>1,145</b></td>
+<td align="right"><b>1,147</b></td>
 <td align="right">331</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/teamtnt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/teamtnt/laravel-scout-tntsearch-driver"><b>teamtnt/laravel-scout-tntsearch-driver</b></a><br><sub>Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch</sub></td>
-<td align="right"><b>1,134</b></td>
+<td align="right"><b>1,133</b></td>
 <td align="right">142</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/judge0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/judge0/ide"><b>judge0/ide</b></a><br><sub>✨ Simple, free and open-source online code editor.</sub></td>
-<td align="right"><b>1,127</b></td>
+<td align="right"><b>1,128</b></td>
 <td align="right">410</td>
 <td>JavaScript</td>
 </tr>
@@ -535,14 +535,14 @@
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_music_player"><b>adrianhajdin/project&#95;music&#95;player</b></a><br><sub>Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music p…</sub></td>
-<td align="right"><b>1,070</b></td>
+<td align="right"><b>1,069</b></td>
 <td align="right">302</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/bytechefhq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bytechefhq/bytechef"><b>bytechefhq/bytechef</b></a><br><sub>Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapie…</sub></td>
-<td align="right"><b>1,065</b></td>
+<td align="right"><b>1,066</b></td>
 <td align="right">183</td>
 <td>Java</td>
 </tr>
@@ -598,7 +598,7 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/mariosemes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mariosemes/PornHub-downloader-python"><b>mariosemes/PornHub-downloader-python</b></a><br><sub>Download stuff from PH the easy way.</sub></td>
-<td align="right"><b>943</b></td>
+<td align="right"><b>945</b></td>
 <td align="right">227</td>
 <td>Python</td>
 </tr>

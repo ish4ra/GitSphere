@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **64** | 24 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟡 Provisional | **69** | 24 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -179,13 +179,13 @@
 <td align="right">23</td>
 <td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/CoolAdmin"><b>puikinsh/CoolAdmin</b></a><br><sub>Free Bootstrap 5 based admin dashboard template - open source and licensed under MIT license</sub></td>
 <td align="right"><b>1,139</b></td>
-<td align="right">656</td>
+<td align="right">655</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/stanislav-web.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stanislav-web/OpenDoor"><b>stanislav-web/OpenDoor</b></a><br><sub>OWASP Web Recon &amp; Directory Discovery Platform</sub></td>
-<td align="right"><b>1,015</b></td>
+<td align="right"><b>1,016</b></td>
 <td align="right">185</td>
 <td>Python</td>
 </tr>
@@ -469,6 +469,41 @@
 <td align="right">29</td>
 <td>Batchfile</td>
 </tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/slikts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slikts/js-equality-game"><b>slikts/js-equality-game</b></a><br><sub>The Worst Minesweeper 💣 Ever</sub></td>
+<td align="right"><b>366</b></td>
+<td align="right">19</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/aik099.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aik099/PhpStormProtocol"><b>aik099/PhpStormProtocol</b></a><br><sub>Custom protocol handler for the PhpStorm</sub></td>
+<td align="right"><b>353</b></td>
+<td align="right">67</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/sdkjs"><b>ONLYOFFICE/sdkjs</b></a><br><sub>JavaScript SDK which is a part of ONLYOFFICE Document Server and ONLYOFFICE Desktop Editors</sub></td>
+<td align="right"><b>352</b></td>
+<td align="right">329</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/joomcode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joomcode/BottomSheet"><b>joomcode/BottomSheet</b></a><br><sub>Bottom Sheet for iOS</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">48</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/kasparsd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kasparsd/php-7-debian"><b>kasparsd/php-7-debian</b></a><br><sub>Install PHP 7 on Debian/Ubuntu</sub></td>
+<td align="right"><b>346</b></td>
+<td align="right">98</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -477,8 +512,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 387 stars; 64 attributed candidates are tracked.
-- 101 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 346 stars; 69 attributed candidates are tracked.
+- 98 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

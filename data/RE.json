@@ -5,7 +5,7 @@
 "country": {"code":"RE","name":"Réunion","slug":"reunion"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":139,"candidates":107,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":24,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":138,"candidates":107,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":24,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDORUbedw","name":"snip","nameWithOwner":"edouard-claude/snip","url":"https://github.com/edouard-claude/snip","description":"CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go.","stars":485,"forks":50,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2026-02-20T04:01:26Z","pushedAt":"2026-11-05T14:15:31Z","archived":false,"owner":{"login":"edouard-claude","name":"Edouard CLAUDE","type":"User","url":"https://github.com/edouard-claude","location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"CONNECTANOU","nameWithOwner":"jenna974/CONNECTANOU","url":"https://github.com/jenna974/CONNECTANOU","description":null,"stars":1,"forks":5,"primaryLanguage":"JavaScript","license":null,"createdAt":"2019-03-28T17:45:26Z","pushedAt":"2023-01-04T22:27:09Z","archived":false,"owner":{"login":"jenna974","name":null,"type":"User","url":"https://github.com/jenna974","location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Dibou974","nameWithOwner":"Dibou974/Dibou974","url":"https://github.com/Dibou974/Dibou974","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-05-04T07:54:04Z","pushedAt":"2026-05-04T08:17:41Z","archived":false,"owner":{"login":"Dibou974","name":"Adilson CAMALON","type":"User","url":"https://github.com/Dibou974","location":"Saint-André, 97440 La Réunion","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"glitch_angularjs","nameWithOwner":"DimL84/glitch_angularjs","url":"https://github.com/DimL84/glitch_angularjs","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2023-02-07T05:08:03Z","pushedAt":"2023-02-07T05:08:17Z","archived":false,"owner":{"login":"DimL84","name":"Dim Light","type":"User","url":"https://github.com/DimL84","location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "3aa3d887ce028c83",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "2c36271a0d0426b4",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

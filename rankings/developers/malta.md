@@ -240,17 +240,17 @@
 </tr>
 <tr>
 <td align="right">32</td>
-<td><a href="https://github.com/MarkCiliaVincenti"><img src="https://avatars.githubusercontent.com/u/25120736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarkCiliaVincenti"><b>Mark Cilia Vincenti</b></a><br><sub>&#64;MarkCiliaVincenti</sub></td>
-<td align="right"><b>66</b></td>
-<td align="right">398</td>
-<td><sub>Mqabba, Malta</sub></td>
-</tr>
-<tr>
-<td align="right">33</td>
 <td><a href="https://github.com/justinfar"><img src="https://avatars.githubusercontent.com/u/26432097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justinfar"><b>Justin Farrugia</b></a><br><sub>&#64;justinfar</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">15</td>
 <td><sub>Malta</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/MarkCiliaVincenti"><img src="https://avatars.githubusercontent.com/u/25120736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarkCiliaVincenti"><b>Mark Cilia Vincenti</b></a><br><sub>&#64;MarkCiliaVincenti</sub></td>
+<td align="right"><b>65</b></td>
+<td align="right">398</td>
+<td><sub>Mqabba, Malta</sub></td>
 </tr>
 <tr>
 <td align="right">34</td>

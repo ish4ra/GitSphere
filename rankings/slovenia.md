@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **55** | 24 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟡 Provisional | **59** | 24 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/BojanJurca.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BojanJurca/Esp32_oscilloscope"><b>BojanJurca/Esp32&#95;oscilloscope</b></a><br><sub>ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them</sub></td>
-<td align="right"><b>1,096</b></td>
+<td align="right"><b>1,099</b></td>
 <td align="right">137</td>
 <td>C</td>
 </tr>
@@ -207,7 +207,7 @@
 <td align="right">27</td>
 <td><img src="https://github.com/Klemen1337.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Klemen1337/node-thermal-printer"><b>Klemen1337/node-thermal-printer</b></a><br><sub>Node.js module for Epson, Star, Tanca, Drauma, Custom and Brother thermal printers command line printing.</sub></td>
 <td align="right"><b>919</b></td>
-<td align="right">257</td>
+<td align="right">256</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -406,6 +406,34 @@
 <td align="right">70</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/tinrab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tinrab/spidey"><b>tinrab/spidey</b></a><br><sub>A Microservices and GraphQL based online store</sub></td>
+<td align="right"><b>369</b></td>
+<td align="right">56</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/peric.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/peric/GetCountries"><b>peric/GetCountries</b></a><br><sub>MySQL, Firebird, XML, JSON, CSV or YAML generator for custom Countries data.</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">47</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/gto76.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gto76/comp-cpp"><b>gto76/comp-cpp</b></a><br><sub>Comp Mark I – Simple 4-bit virtual computer</sub></td>
+<td align="right"><b>343</b></td>
+<td align="right">32</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/timkmecl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/timkmecl/chatgpt-vscode"><b>timkmecl/chatgpt-vscode</b></a><br><sub>VSCode extension that allows you to use ChatGPT or GPT4 inside the IDE</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">72</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -414,8 +442,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 373 stars; 55 attributed candidates are tracked.
-- 92 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 341 stars; 59 attributed candidates are tracked.
+- 86 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

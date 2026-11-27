@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/kdy1"><img src="https://avatars.githubusercontent.com/u/29931815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kdy1"><b>Donny/강동윤</b></a><br><sub>&#64;kdy1</sub></td>
-<td align="right"><b>4,522</b></td>
+<td align="right"><b>4,521</b></td>
 <td align="right">329</td>
 <td><sub>South korea</sub></td>
 </tr>
@@ -290,7 +290,7 @@
 <tr>
 <td align="right">39</td>
 <td><a href="https://github.com/gisbi-kim"><img src="https://avatars.githubusercontent.com/u/14989535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gisbi-kim"><b>Giseop Kim</b></a><br><sub>&#64;gisbi-kim</sub></td>
-<td align="right"><b>1,213</b></td>
+<td align="right"><b>1,212</b></td>
 <td align="right">295</td>
 <td><sub>Daegu, South Korea</sub></td>
 </tr>
@@ -326,7 +326,7 @@
 <td align="right">44</td>
 <td><a href="https://github.com/revfactory"><img src="https://avatars.githubusercontent.com/u/2889542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/revfactory"><b>Minho Hwang</b></a><br><sub>&#64;revfactory</sub></td>
 <td align="right"><b>1,094</b></td>
-<td align="right">339</td>
+<td align="right">340</td>
 <td><sub>South Korea</sub></td>
 </tr>
 <tr>
@@ -394,17 +394,17 @@
 </tr>
 <tr>
 <td align="right">54</td>
-<td><a href="https://github.com/hyochan"><img src="https://avatars.githubusercontent.com/u/27461460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hyochan"><b>Hyo</b></a><br><sub>&#64;hyochan</sub></td>
-<td align="right"><b>923</b></td>
-<td align="right">116</td>
-<td><sub>Seoul</sub></td>
-</tr>
-<tr>
-<td align="right">55</td>
 <td><a href="https://github.com/kairess"><img src="https://avatars.githubusercontent.com/u/5242555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kairess"><b>Brad</b></a><br><sub>&#64;kairess</sub></td>
 <td align="right"><b>922</b></td>
 <td align="right">295</td>
 <td><sub>Seoul, Korea</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/hyochan"><img src="https://avatars.githubusercontent.com/u/27461460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hyochan"><b>Hyo</b></a><br><sub>&#64;hyochan</sub></td>
+<td align="right"><b>922</b></td>
+<td align="right">116</td>
+<td><sub>Seoul</sub></td>
 </tr>
 <tr>
 <td align="right">56</td>
@@ -444,7 +444,7 @@
 <tr>
 <td align="right">61</td>
 <td><a href="https://github.com/monologg"><img src="https://avatars.githubusercontent.com/u/28896432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/monologg"><b>Jangwon Park</b></a><br><sub>&#64;monologg</sub></td>
-<td align="right"><b>873</b></td>
+<td align="right"><b>872</b></td>
 <td align="right">31</td>
 <td><sub>Seoul, Republic of Korea</sub></td>
 </tr>
@@ -528,14 +528,14 @@
 <tr>
 <td align="right">73</td>
 <td><a href="https://github.com/hmmhmmhm"><img src="https://avatars.githubusercontent.com/u/38493722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hmmhmmhm"><b>&lt;hmmhmmhm/&gt;</b></a><br><sub>&#64;hmmhmmhm</sub></td>
-<td align="right"><b>755</b></td>
+<td align="right"><b>753</b></td>
 <td align="right">140</td>
 <td><sub>Seoul, South Korea</sub></td>
 </tr>
 <tr>
 <td align="right">74</td>
 <td><a href="https://github.com/kenu"><img src="https://avatars.githubusercontent.com/u/718691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenu"><b>kenu</b></a><br><sub>&#64;kenu</sub></td>
-<td align="right"><b>744</b></td>
+<td align="right"><b>745</b></td>
 <td align="right">337</td>
 <td><sub>seoul</sub></td>
 </tr>
@@ -801,7 +801,7 @@
 <tr>
 <td align="right">112</td>
 <td><a href="https://github.com/keonlee9420"><img src="https://avatars.githubusercontent.com/u/34522972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keonlee9420"><b>Keon Lee</b></a><br><sub>&#64;keonlee9420</sub></td>
-<td align="right"><b>579</b></td>
+<td align="right"><b>580</b></td>
 <td align="right">35</td>
 <td><sub>Seoul, Republic of Korea</sub></td>
 </tr>
@@ -948,7 +948,7 @@
 <tr>
 <td align="right">133</td>
 <td><a href="https://github.com/utkuozbulak"><img src="https://avatars.githubusercontent.com/u/19213588?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/utkuozbulak"><b>Utku Ozbulak</b></a><br><sub>&#64;utkuozbulak</sub></td>
-<td align="right"><b>523</b></td>
+<td align="right"><b>524</b></td>
 <td align="right">62</td>
 <td><sub>Incheon, South Korea</sub></td>
 </tr>
@@ -982,17 +982,17 @@
 </tr>
 <tr>
 <td align="right">138</td>
+<td><a href="https://github.com/msbaek"><img src="https://avatars.githubusercontent.com/u/22156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msbaek"><b>Myeongseok Baek</b></a><br><sub>&#64;msbaek</sub></td>
+<td align="right"><b>508</b></td>
+<td align="right">93</td>
+<td><sub>Seoul, KOREA</sub></td>
+</tr>
+<tr>
+<td align="right">139</td>
 <td><a href="https://github.com/andabi"><img src="https://avatars.githubusercontent.com/u/4556549?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andabi"><b>Dabi Ahn</b></a><br><sub>&#64;andabi</sub></td>
 <td align="right"><b>508</b></td>
 <td align="right">22</td>
 <td><sub>Seoul, Korea</sub></td>
-</tr>
-<tr>
-<td align="right">139</td>
-<td><a href="https://github.com/msbaek"><img src="https://avatars.githubusercontent.com/u/22156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msbaek"><b>Myeongseok Baek</b></a><br><sub>&#64;msbaek</sub></td>
-<td align="right"><b>507</b></td>
-<td align="right">93</td>
-<td><sub>Seoul, KOREA</sub></td>
 </tr>
 <tr>
 <td align="right">140</td>
@@ -1815,17 +1815,17 @@
 </tr>
 <tr>
 <td align="right">257</td>
+<td><a href="https://github.com/soulduse"><img src="https://avatars.githubusercontent.com/u/11257459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soulduse"><b>Programming Zombie</b></a><br><sub>&#64;soulduse</sub></td>
+<td align="right"><b>347</b></td>
+<td align="right">67</td>
+<td><sub>Korea, soeul</sub></td>
+</tr>
+<tr>
+<td align="right">258</td>
 <td><a href="https://github.com/heejongahn"><img src="https://avatars.githubusercontent.com/u/6768840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heejongahn"><b>Ahn Heejong</b></a><br><sub>&#64;heejongahn</sub></td>
 <td align="right"><b>346</b></td>
 <td align="right">117</td>
 <td><sub>Seoul, Korea</sub></td>
-</tr>
-<tr>
-<td align="right">258</td>
-<td><a href="https://github.com/soulduse"><img src="https://avatars.githubusercontent.com/u/11257459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soulduse"><b>Programming Zombie</b></a><br><sub>&#64;soulduse</sub></td>
-<td align="right"><b>345</b></td>
-<td align="right">67</td>
-<td><sub>Korea, soeul</sub></td>
 </tr>
 <tr>
 <td align="right">259</td>
@@ -2081,31 +2081,31 @@
 </tr>
 <tr>
 <td align="right">295</td>
-<td><a href="https://github.com/black7375"><img src="https://avatars.githubusercontent.com/u/25581533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/black7375"><b>MS&#95;Y</b></a><br><sub>&#64;black7375</sub></td>
-<td align="right"><b>316</b></td>
-<td align="right">94</td>
-<td><sub>Seoul, Korea</sub></td>
-</tr>
-<tr>
-<td align="right">296</td>
 <td><a href="https://github.com/kakasoo"><img src="https://avatars.githubusercontent.com/u/55487286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kakasoo"><b>Kyungsu Kang</b></a><br><sub>&#64;kakasoo</sub></td>
 <td align="right"><b>316</b></td>
 <td align="right">63</td>
 <td><sub>Seoul, South Korea</sub></td>
 </tr>
 <tr>
-<td align="right">297</td>
+<td align="right">296</td>
 <td><a href="https://github.com/Jager-yoo"><img src="https://avatars.githubusercontent.com/u/71127966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jager-yoo"><b>Jaeho Yoo</b></a><br><sub>&#64;Jager-yoo</sub></td>
 <td align="right"><b>316</b></td>
 <td align="right">42</td>
 <td><sub>Seoul</sub></td>
 </tr>
 <tr>
-<td align="right">298</td>
+<td align="right">297</td>
 <td><a href="https://github.com/738"><img src="https://avatars.githubusercontent.com/u/36702053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/738"><b>Junwoo Ji</b></a><br><sub>&#64;738</sub></td>
 <td align="right"><b>315</b></td>
 <td align="right">172</td>
 <td><sub>Seongnam, Republic of Korea</sub></td>
+</tr>
+<tr>
+<td align="right">298</td>
+<td><a href="https://github.com/black7375"><img src="https://avatars.githubusercontent.com/u/25581533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/black7375"><b>MS&#95;Y</b></a><br><sub>&#64;black7375</sub></td>
+<td align="right"><b>315</b></td>
+<td align="right">94</td>
+<td><sub>Seoul, Korea</sub></td>
 </tr>
 <tr>
 <td align="right">299</td>
@@ -2130,38 +2130,38 @@
 </tr>
 <tr>
 <td align="right">302</td>
+<td><a href="https://github.com/uyu423"><img src="https://avatars.githubusercontent.com/u/8033320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uyu423"><b>Yongwoo Yu (Yowu)</b></a><br><sub>&#64;uyu423</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">98</td>
+<td><sub>Republic of Korea</sub></td>
+</tr>
+<tr>
+<td align="right">303</td>
 <td><a href="https://github.com/claudiajkang"><img src="https://avatars.githubusercontent.com/u/17492826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/claudiajkang"><b>Juhee Kang</b></a><br><sub>&#64;claudiajkang</sub></td>
 <td align="right"><b>311</b></td>
 <td align="right">60</td>
 <td><sub>Seoul, Korea</sub></td>
 </tr>
 <tr>
-<td align="right">303</td>
+<td align="right">304</td>
 <td><a href="https://github.com/code-sum"><img src="https://avatars.githubusercontent.com/u/106902415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/code-sum"><b>Sugyeong Lee</b></a><br><sub>&#64;code-sum</sub></td>
 <td align="right"><b>311</b></td>
 <td align="right">31</td>
 <td><sub>Seoul, Republic of Korea</sub></td>
 </tr>
 <tr>
-<td align="right">304</td>
+<td align="right">305</td>
 <td><a href="https://github.com/hadevyi"><img src="https://avatars.githubusercontent.com/u/45550607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hadevyi"><b>Hyeona</b></a><br><sub>&#64;hadevyi</sub></td>
 <td align="right"><b>311</b></td>
 <td align="right">14</td>
 <td><sub>Seoul, South Korea</sub></td>
 </tr>
 <tr>
-<td align="right">305</td>
+<td align="right">306</td>
 <td><a href="https://github.com/easyhooon"><img src="https://avatars.githubusercontent.com/u/51016231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/easyhooon"><b>JI HUN LEE</b></a><br><sub>&#64;easyhooon</sub></td>
 <td align="right"><b>310</b></td>
 <td align="right">161</td>
 <td><sub>Seoul, Korea</sub></td>
-</tr>
-<tr>
-<td align="right">306</td>
-<td><a href="https://github.com/uyu423"><img src="https://avatars.githubusercontent.com/u/8033320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uyu423"><b>Yongwoo Yu (Yowu)</b></a><br><sub>&#64;uyu423</sub></td>
-<td align="right"><b>310</b></td>
-<td align="right">98</td>
-<td><sub>Republic of Korea</sub></td>
 </tr>
 <tr>
 <td align="right">307</td>
@@ -2585,24 +2585,24 @@
 </tr>
 <tr>
 <td align="right">367</td>
+<td><a href="https://github.com/developer0hye"><img src="https://avatars.githubusercontent.com/u/35001605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/developer0hye"><b>Yonghye Kwon</b></a><br><sub>&#64;developer0hye</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">282</td>
+<td><sub>Seoul, Korea</sub></td>
+</tr>
+<tr>
+<td align="right">368</td>
 <td><a href="https://github.com/Geonhee-LEE"><img src="https://avatars.githubusercontent.com/u/12562147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Geonhee-LEE"><b>Geonhee</b></a><br><sub>&#64;Geonhee-LEE</sub></td>
 <td align="right"><b>277</b></td>
 <td align="right">160</td>
 <td><sub>South Korea, Seoul</sub></td>
 </tr>
 <tr>
-<td align="right">368</td>
+<td align="right">369</td>
 <td><a href="https://github.com/sonsurim"><img src="https://avatars.githubusercontent.com/u/47546413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sonsurim"><b>Sonny</b></a><br><sub>&#64;sonsurim</sub></td>
 <td align="right"><b>277</b></td>
 <td align="right">64</td>
 <td><sub>Seoul</sub></td>
-</tr>
-<tr>
-<td align="right">369</td>
-<td><a href="https://github.com/developer0hye"><img src="https://avatars.githubusercontent.com/u/35001605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/developer0hye"><b>Yonghye Kwon</b></a><br><sub>&#64;developer0hye</sub></td>
-<td align="right"><b>276</b></td>
-<td align="right">282</td>
-<td><sub>Seoul, Korea</sub></td>
 </tr>
 <tr>
 <td align="right">370</td>
@@ -4552,45 +4552,45 @@
 </tr>
 <tr>
 <td align="right">648</td>
-<td><a href="https://github.com/0x00000FF"><img src="https://avatars.githubusercontent.com/u/13935811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0x00000FF"><b>Kangjun Heo</b></a><br><sub>&#64;0x00000FF</sub></td>
-<td align="right"><b>191</b></td>
-<td align="right">161</td>
-<td><sub>Daejeon, Republic of Korea</sub></td>
-</tr>
-<tr>
-<td align="right">649</td>
 <td><a href="https://github.com/qwopqwop200"><img src="https://avatars.githubusercontent.com/u/64115820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qwopqwop200"><b>qwopqwop200</b></a><br><sub>&#64;qwopqwop200</sub></td>
 <td align="right"><b>191</b></td>
 <td align="right">65</td>
 <td><sub>Seoul, South Korea</sub></td>
 </tr>
 <tr>
-<td align="right">650</td>
+<td align="right">649</td>
 <td><a href="https://github.com/emewjin"><img src="https://avatars.githubusercontent.com/u/76927618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emewjin"><b>emewjin</b></a><br><sub>&#64;emewjin</sub></td>
 <td align="right"><b>191</b></td>
 <td align="right">48</td>
 <td><sub>South Korea</sub></td>
 </tr>
 <tr>
-<td align="right">651</td>
+<td align="right">650</td>
 <td><a href="https://github.com/jsh-me"><img src="https://avatars.githubusercontent.com/u/39688690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jsh-me"><b>Sehee Jeong</b></a><br><sub>&#64;jsh-me</sub></td>
 <td align="right"><b>191</b></td>
 <td align="right">29</td>
 <td><sub>korea</sub></td>
 </tr>
 <tr>
-<td align="right">652</td>
+<td align="right">651</td>
 <td><a href="https://github.com/Taeung"><img src="https://avatars.githubusercontent.com/u/3875235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Taeung"><b>Taeung Song</b></a><br><sub>&#64;Taeung</sub></td>
 <td align="right"><b>191</b></td>
 <td align="right">26</td>
 <td><sub>Seoul, Republic of Korea</sub></td>
 </tr>
 <tr>
-<td align="right">653</td>
+<td align="right">652</td>
 <td><a href="https://github.com/winterjung"><img src="https://avatars.githubusercontent.com/u/13811604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/winterjung"><b>Jung Winter</b></a><br><sub>&#64;winterjung</sub></td>
 <td align="right"><b>191</b></td>
 <td align="right">21</td>
 <td><sub>South Korea</sub></td>
+</tr>
+<tr>
+<td align="right">653</td>
+<td><a href="https://github.com/0x00000FF"><img src="https://avatars.githubusercontent.com/u/13935811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0x00000FF"><b>Kangjun Heo</b></a><br><sub>&#64;0x00000FF</sub></td>
+<td align="right"><b>190</b></td>
+<td align="right">161</td>
+<td><sub>Daejeon, Republic of Korea</sub></td>
 </tr>
 <tr>
 <td align="right">654</td>
@@ -5553,80 +5553,80 @@
 </tr>
 <tr>
 <td align="right">791</td>
-<td><a href="https://github.com/jw9730"><img src="https://avatars.githubusercontent.com/u/41632241?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jw9730"><b>Jinwoo Kim</b></a><br><sub>&#64;jw9730</sub></td>
-<td align="right"><b>169</b></td>
-<td align="right">13</td>
-<td><sub>South Korea</sub></td>
-</tr>
-<tr>
-<td align="right">792</td>
 <td><a href="https://github.com/KumJungMin"><img src="https://avatars.githubusercontent.com/u/37934668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KumJungMin"><b>KumJungMin</b></a><br><sub>&#64;KumJungMin</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">254</td>
 <td><sub>seoul</sub></td>
 </tr>
 <tr>
-<td align="right">793</td>
+<td align="right">792</td>
 <td><a href="https://github.com/LunaStev"><img src="https://avatars.githubusercontent.com/u/96914208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LunaStev"><b>LunaStev</b></a><br><sub>&#64;LunaStev</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">124</td>
 <td><sub>Republic of Korea</sub></td>
 </tr>
 <tr>
-<td align="right">794</td>
+<td align="right">793</td>
 <td><a href="https://github.com/RangHo"><img src="https://avatars.githubusercontent.com/u/10833976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RangHo"><b>Juhun Lee</b></a><br><sub>&#64;RangHo</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">85</td>
 <td><sub>Seoul, Republic of Korea</sub></td>
 </tr>
 <tr>
-<td align="right">795</td>
+<td align="right">794</td>
 <td><a href="https://github.com/jinlee1703"><img src="https://avatars.githubusercontent.com/u/68031450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jinlee1703"><b>Jinwoo Lee (Eden)</b></a><br><sub>&#64;jinlee1703</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">82</td>
 <td><sub>Seoul, Republic of Korea</sub></td>
 </tr>
 <tr>
-<td align="right">796</td>
+<td align="right">795</td>
 <td><a href="https://github.com/kokodak"><img src="https://avatars.githubusercontent.com/u/45879491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kokodak"><b>kokodak</b></a><br><sub>&#64;kokodak</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">79</td>
 <td><sub>Seoul, South Korea</sub></td>
 </tr>
 <tr>
-<td align="right">797</td>
+<td align="right">796</td>
 <td><a href="https://github.com/icepeng"><img src="https://avatars.githubusercontent.com/u/12782606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icepeng"><b>icepeng</b></a><br><sub>&#64;icepeng</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">69</td>
 <td><sub>Seoul, Korea</sub></td>
 </tr>
 <tr>
-<td align="right">798</td>
+<td align="right">797</td>
 <td><a href="https://github.com/ChoiysApple"><img src="https://avatars.githubusercontent.com/u/43776784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChoiysApple"><b>Daegun Choi </b></a><br><sub>&#64;ChoiysApple</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">46</td>
 <td><sub>Seoul, South Korea</sub></td>
 </tr>
 <tr>
-<td align="right">799</td>
+<td align="right">798</td>
 <td><a href="https://github.com/noah0316"><img src="https://avatars.githubusercontent.com/u/63908856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noah0316"><b>SeungHyun Hong</b></a><br><sub>&#64;noah0316</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">20</td>
 <td><sub>Seoul-si, South Korea</sub></td>
 </tr>
 <tr>
-<td align="right">800</td>
+<td align="right">799</td>
 <td><a href="https://github.com/syyjbhjh3"><img src="https://avatars.githubusercontent.com/u/29969615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syyjbhjh3"><b>Young Jun Park</b></a><br><sub>&#64;syyjbhjh3</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">18</td>
 <td><sub>Seoul, Republic of Korea</sub></td>
 </tr>
 <tr>
-<td align="right">801</td>
+<td align="right">800</td>
 <td><a href="https://github.com/Y-Joo"><img src="https://avatars.githubusercontent.com/u/77970846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Y-Joo"><b>Youngjoo Ji</b></a><br><sub>&#64;Y-Joo</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">16</td>
 <td><sub>Seoul, Korea</sub></td>
+</tr>
+<tr>
+<td align="right">801</td>
+<td><a href="https://github.com/jw9730"><img src="https://avatars.githubusercontent.com/u/41632241?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jw9730"><b>Jinwoo Kim</b></a><br><sub>&#64;jw9730</sub></td>
+<td align="right"><b>168</b></td>
+<td align="right">13</td>
+<td><sub>South Korea</sub></td>
 </tr>
 <tr>
 <td align="right">802</td>
@@ -6988,38 +6988,38 @@
 </tr>
 <tr>
 <td align="right">996</td>
+<td><a href="https://github.com/mirseo"><img src="https://avatars.githubusercontent.com/u/118057430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mirseo"><b>JUN-HYEOK SEO</b></a><br><sub>&#64;mirseo</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">358</td>
+<td><sub>Seoul, South Korea</sub></td>
+</tr>
+<tr>
+<td align="right">997</td>
 <td><a href="https://github.com/jeonggunlee"><img src="https://avatars.githubusercontent.com/u/7118106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeonggunlee"><b>Jeong-Gun Lee</b></a><br><sub>&#64;jeonggunlee</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">301</td>
 <td><sub>Chuncheon, Gangwon, South Korea</sub></td>
 </tr>
 <tr>
-<td align="right">997</td>
+<td align="right">998</td>
 <td><a href="https://github.com/devholic"><img src="https://avatars.githubusercontent.com/u/6194958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devholic"><b>Sunghoon Kang</b></a><br><sub>&#64;devholic</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">97</td>
 <td><sub>Seoul, Korea</sub></td>
 </tr>
 <tr>
-<td align="right">998</td>
+<td align="right">999</td>
 <td><a href="https://github.com/Lee-WonJun"><img src="https://avatars.githubusercontent.com/u/10369528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lee-WonJun"><b>Lee Won Jun</b></a><br><sub>&#64;Lee-WonJun</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">78</td>
 <td><sub>republic of korea</sub></td>
 </tr>
 <tr>
-<td align="right">999</td>
+<td align="right">1000</td>
 <td><a href="https://github.com/ZwLoad"><img src="https://avatars.githubusercontent.com/u/18033048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZwLoad"><b>ring -1</b></a><br><sub>&#64;ZwLoad</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">72</td>
 <td><sub>Korea</sub></td>
-</tr>
-<tr>
-<td align="right">1000</td>
-<td><a href="https://github.com/sungjk"><img src="https://avatars.githubusercontent.com/u/9454446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sungjk"><b>Jeremy Kim</b></a><br><sub>&#64;sungjk</sub></td>
-<td align="right"><b>148</b></td>
-<td align="right">70</td>
-<td><sub>Seoul. Korea</sub></td>
 </tr>
 </tbody>
 </table>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,302 attributed developers are tracked; the cutoff is 148 followers.
+- Organizations are excluded. 1,301 attributed developers are tracked; the cutoff is 148 followers.
 - **Location discovery:** term 0 of 152 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

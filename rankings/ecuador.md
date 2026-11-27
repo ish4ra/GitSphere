@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **21** | 24 Nov 2026 | <a href="../data/EC.json">JSON</a> |
+| 🟡 Provisional | **22** | 24 Nov 2026 | <a href="../data/EC.json">JSON</a> |
 
 </div>
 
@@ -73,14 +73,14 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/asantibanez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asantibanez/livewire-calendar"><b>asantibanez/livewire-calendar</b></a><br><sub>Laravel Livewire component to show Events in a good looking monthly calendar</sub></td>
-<td align="right"><b>968</b></td>
+<td align="right"><b>967</b></td>
 <td align="right">231</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/jxlarrea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jxlarrea/voice-satellite-card-integration"><b>jxlarrea/voice-satellite-card-integration</b></a><br><sub>Voice Satellite turns any tablet, phone, or browser into a hands-free voice assistant for Home Assistant</sub></td>
-<td align="right"><b>943</b></td>
+<td align="right"><b>947</b></td>
 <td align="right">45</td>
 <td>JavaScript</td>
 </tr>
@@ -168,6 +168,13 @@
 <td align="right">19</td>
 <td>Elixir</td>
 </tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/dmgk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dmgk/faker"><b>dmgk/faker</b></a><br><sub>A library for generating fake data such as names, addresses, and phone numbers.</sub></td>
+<td align="right"><b>356</b></td>
+<td align="right">37</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -176,7 +183,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 398 stars; 21 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 356 stars; 22 attributed candidates are tracked.
 - 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 117 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

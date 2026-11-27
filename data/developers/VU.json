@@ -5,10 +5,10 @@
 "country": {"code":"VU","name":"Vanuatu","slug":"vanuatu"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":78,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":78,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":21,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEwMDQwMTcw","login":"alfnitacoder","name":"AlffieGeorge","url":"https://github.com/alfnitacoder","avatarUrl":"https://avatars.githubusercontent.com/u/10040170?s=80&v=4","followers":16,"publicRepos":17,"location":"Port Vila","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
-  {"rank":2,"id":"MDQ6VXNlcjUzMzU2","login":"Pharm2Phork","name":"Pharm2phork Project","url":"https://github.com/Pharm2Phork","avatarUrl":"https://avatars.githubusercontent.com/u/53356?s=80&v=4","followers":9,"publicRepos":4,"location":"Port Vila, Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":2,"id":"MDQ6VXNlcjUzMzU2","login":"Pharm2Phork","name":"Pharm2phork Project","url":"https://github.com/Pharm2Phork","avatarUrl":"https://avatars.githubusercontent.com/u/53356?s=80&v=4","followers":9,"publicRepos":4,"location":"Port Vila, Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-27"},
   {"rank":3,"id":"MDQ6VXNlcjUwOTIzODUz","login":"a-blu3","name":"A","url":"https://github.com/a-blu3","avatarUrl":"https://avatars.githubusercontent.com/u/50923853?s=80&v=4","followers":7,"publicRepos":0,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":4,"id":"MDQ6VXNlcjIxMjAxMDI1","login":"drnicholebrown","name":null,"url":"https://github.com/drnicholebrown","avatarUrl":"https://avatars.githubusercontent.com/u/21201025?s=80&v=4","followers":6,"publicRepos":0,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":5,"id":"MDQ6VXNlcjY5Njg2OTA1","login":"opalcoinnet","name":"OpalCoin","url":"https://github.com/opalcoinnet","avatarUrl":"https://avatars.githubusercontent.com/u/69686905?s=80&v=4","followers":5,"publicRepos":3,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -33,8 +33,8 @@
   {"rank":24,"id":"MDQ6VXNlcjM3NTAzNTE=","login":"SolaFide","name":"Michael Smith","url":"https://github.com/SolaFide","avatarUrl":"https://avatars.githubusercontent.com/u/3750351?s=80&v=4","followers":0,"publicRepos":6,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":25,"id":"MDQ6VXNlcjM3ODYwMDEy","login":"52158278","name":"Barrett Mayert","url":"https://github.com/52158278","avatarUrl":"https://avatars.githubusercontent.com/u/37860012?s=80&v=4","followers":0,"publicRepos":5,"location":"12161 ,Dale Flat ,South Terri ,Indiana ,Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":26,"id":"U_kgDODbMjNQ","login":"Brown-tamata","name":null,"url":"https://github.com/Brown-tamata","avatarUrl":"https://avatars.githubusercontent.com/u/229843765?s=80&v=4","followers":0,"publicRepos":5,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
-  {"rank":27,"id":"U_kgDOBq8IJQ","login":"samwellgeorge","name":"Samuel George","url":"https://github.com/samwellgeorge","avatarUrl":"https://avatars.githubusercontent.com/u/112134181?s=80&v=4","followers":0,"publicRepos":5,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":28,"id":"MDQ6VXNlcjI2OTQ0NzE0","login":"antzjosh","name":"AJ","url":"https://github.com/antzjosh","avatarUrl":"https://avatars.githubusercontent.com/u/26944714?s=80&v=4","followers":0,"publicRepos":4,"location":"Port Vila, Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":27,"id":"U_kgDOBq8IJQ","login":"samwellgeorge","name":"Samuel George","url":"https://github.com/samwellgeorge","avatarUrl":"https://avatars.githubusercontent.com/u/112134181?s=80&v=4","followers":0,"publicRepos":5,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
+  {"rank":28,"id":"MDQ6VXNlcjI2OTQ0NzE0","login":"antzjosh","name":"AJ","url":"https://github.com/antzjosh","avatarUrl":"https://avatars.githubusercontent.com/u/26944714?s=80&v=4","followers":0,"publicRepos":4,"location":"Port Vila, Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-27"},
   {"rank":29,"id":"U_kgDOCursQA","login":"stokehubbabubba","name":null,"url":"https://github.com/stokehubbabubba","avatarUrl":"https://avatars.githubusercontent.com/u/183168064?s=80&v=4","followers":0,"publicRepos":4,"location":"Vanuatu (VU)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":30,"id":"U_kgDOComm1Q","login":"pascouvu","name":"IEC Vanuatu","url":"https://github.com/pascouvu","avatarUrl":"https://avatars.githubusercontent.com/u/176793301?s=80&v=4","followers":0,"publicRepos":3,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":31,"id":"U_kgDOBYpn3A","login":"gbaltor","name":"Gabriel Baltor","url":"https://github.com/gbaltor","avatarUrl":"https://avatars.githubusercontent.com/u/92956636?s=80&v=4","followers":0,"publicRepos":2,"location":"Port Vila","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
@@ -86,8 +86,8 @@
   {"rank":77,"id":"MDQ6VXNlcjE0MjMzMjU2","login":"valeriefernandez","name":"wedding photographer Vanuatu","url":"https://github.com/valeriefernandez","avatarUrl":"https://avatars.githubusercontent.com/u/14233256?s=80&v=4","followers":0,"publicRepos":0,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":78,"id":"U_kgDOB2BYpA","login":"yzs-1","name":"yzs","url":"https://github.com/yzs-1","avatarUrl":"https://avatars.githubusercontent.com/u/123754660?s=80&v=4","followers":0,"publicRepos":0,"location":"vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "0b026a99e3210844",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "8ee14588fbe31fe0",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

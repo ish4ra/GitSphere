@@ -54,7 +54,7 @@
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/PavelDoGreat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PavelDoGreat/Super-Blur"><b>PavelDoGreat/Super-Blur</b></a><br><sub>Screen and UI gaussian blur for Unity</sub></td>
-<td align="right"><b>1,075</b></td>
+<td align="right"><b>1,076</b></td>
 <td align="right">112</td>
 <td>HLSL</td>
 </tr>
@@ -502,7 +502,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 67 attributed candidates are tracked.
 - 58 entries were carried over from the previous dataset and are pending revalidation.
-- 121 multi-repository owners are queued for expansion.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

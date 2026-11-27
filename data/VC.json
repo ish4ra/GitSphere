@@ -5,7 +5,7 @@
 "country": {"code":"VC","name":"St. Vincent & Grenadines","slug":"st-vincent-grenadines"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":27,"ownerExpansionBacklog":34,"candidates":27,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":27,"ownerExpansionBacklog":37,"candidates":27,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"automarker","nameWithOwner":"azeldaniel/automarker","url":"https://github.com/azeldaniel/automarker","description":null,"stars":1,"forks":1,"primaryLanguage":"Java","license":null,"createdAt":"2021-05-25T04:59:01Z","pushedAt":"2022-01-03T03:09:22Z","archived":false,"owner":{"login":"azeldaniel","name":"Azel Daniel","type":"User","url":"https://github.com/azeldaniel","location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"sol-bot","nameWithOwner":"GoPeanutGames/sol-bot","url":"https://github.com/GoPeanutGames/sol-bot","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2024-03-31T00:58:59Z","pushedAt":"2024-04-12T11:18:37Z","archived":false,"owner":{"login":"GoPeanutGames","name":"Peanut Games","type":"Organization","url":"https://github.com/GoPeanutGames","location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -35,8 +35,8 @@
   {"rank":26,"id":null,"name":"stalkrdancingman","nameWithOwner":"stalkrdancingman/stalkrdancingman","url":"https://github.com/stalkrdancingman/stalkrdancingman","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-28T00:11:12Z","pushedAt":"2024-09-28T00:11:25Z","archived":false,"owner":{"login":"stalkrdancingman","name":null,"type":"User","url":"https://github.com/stalkrdancingman","location":"St. Vincent & Grenadines (VC)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":27,"id":null,"name":"stokegoldpage","nameWithOwner":"stokegoldpage/stokegoldpage","url":"https://github.com/stokegoldpage/stokegoldpage","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-29T22:23:35Z","pushedAt":"2024-09-29T22:23:55Z","archived":false,"owner":{"login":"stokegoldpage","name":null,"type":"User","url":"https://github.com/stokegoldpage","location":"St Vincent & Grenadines (VC)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "e16c58418e476baf",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "2dd0778ce20d0e22",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

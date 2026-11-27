@@ -5,7 +5,7 @@
 "country": {"code":"UM","name":"U.S. Outlying Islands","slug":"u-s-outlying-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":29,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":29,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCArewA","login":"IiDxmon","name":"Isolated Island Demon 𓄋","url":"https://github.com/IiDxmon","avatarUrl":"https://avatars.githubusercontent.com/u/134930112?s=80&v=4","followers":90,"publicRepos":1,"location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDQ6VXNlcjcyNjE4ODg=","login":"OgJAkFy8","name":"Erik JA","url":"https://github.com/OgJAkFy8","avatarUrl":"https://avatars.githubusercontent.com/u/7261888?s=80&v=4","followers":4,"publicRepos":9,"location":"Navassa Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"U_kgDOCeIugw","login":"RanchoSM","name":"Frederic Avila","url":"https://github.com/RanchoSM","avatarUrl":"https://avatars.githubusercontent.com/u/165817987?s=80&v=4","followers":0,"publicRepos":1,"location":"U.S. Outlying Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":8,"id":"U_kgDOBdv9yQ","login":"session96706","name":"Jordan S.","url":"https://github.com/session96706","avatarUrl":"https://avatars.githubusercontent.com/u/98303433?s=80&v=4","followers":0,"publicRepos":0,"location":"U.S. Outlying Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "6420d00770e2f17e",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "200bf1376946fa3c",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

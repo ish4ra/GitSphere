@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/MV.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/MV.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/musaid"><img src="https://avatars.githubusercontent.com/u/637461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/musaid"><b>musaid</b></a><br><sub>&#64;musaid · 30 followers</sub></td>
+<td align="right"><b>90</b></td>
+<td align="right">79</td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/ashrafmajdee"><img src="https://avatars.githubusercontent.com/u/3441250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashrafmajdee"><b>Ashraf</b></a><br><sub>&#64;ashrafmajdee · 17 followers</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/fauzaanu"><img src="https://avatars.githubusercontent.com/u/86226565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fauzaanu"><b>Fauzaan Gasim</b></a><br><sub>&#64;fauzaanu · 82 followers</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">61</td>
@@ -78,7 +87,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/001111ak"><img src="https://avatars.githubusercontent.com/u/252033410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/001111ak"><b>Hassan</b></a><br><sub>&#64;001111ak · 0 followers</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">59</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/12HCL"><img src="https://avatars.githubusercontent.com/u/201777595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/12HCL"><b>MOHAMED FAAIN</b></a><br><sub>&#64;12HCL · 1 followers</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">41</td>
@@ -96,7 +105,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/CustomIcon"><img src="https://avatars.githubusercontent.com/u/43902347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CustomIcon"><b>ポキ</b></a><br><sub>&#64;CustomIcon · 209 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">31</td>
@@ -105,7 +114,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/boring-dragon"><img src="https://avatars.githubusercontent.com/u/28459081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/boring-dragon"><b>Boring Dragon</b></a><br><sub>&#64;boring-dragon · 122 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">14</td>
@@ -114,7 +123,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Adamwaheed"><img src="https://avatars.githubusercontent.com/u/677368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adamwaheed"><b>Adam</b></a><br><sub>&#64;Adamwaheed · 44 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">10</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/0mns"><img src="https://avatars.githubusercontent.com/u/38424856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0mns"><b>0mns</b></a><br><sub>&#64;0mns · 3 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">13</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/pixelatedpic"><img src="https://avatars.githubusercontent.com/u/6084021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pixelatedpic"><b>Mohamed Afzal</b></a><br><sub>&#64;pixelatedpic · 6 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
@@ -141,9 +150,27 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/muawwaz"><img src="https://avatars.githubusercontent.com/u/5165168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muawwaz"><b>Muawwaz</b></a><br><sub>&#64;muawwaz · 25 followers</sub></td>
 <td align="right"><b>10</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/fighcell"><img src="https://avatars.githubusercontent.com/u/10566776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fighcell"><b>Faisal</b></a><br><sub>&#64;fighcell · 0 followers</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/xahy"><img src="https://avatars.githubusercontent.com/u/2995938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xahy"><b>Ismail Zahee</b></a><br><sub>&#64;xahy · 61 followers</sub></td>
+<td align="right"><b>5</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -156,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 682 discovered developers (665 awaiting measurement).
+- **Measured:** 21 of 682 discovered developers (661 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 68 in round 1.

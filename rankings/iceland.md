@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **49** | 24 Nov 2026 | <a href="../data/IS.json">JSON</a> |
+| 🟡 Provisional | **53** | 24 Nov 2026 | <a href="../data/IS.json">JSON</a> |
 
 </div>
 
@@ -364,6 +364,34 @@
 <td align="right">25</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/ncatlin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ncatlin/rgat"><b>ncatlin/rgat</b></a><br><sub>An instruction trace visualisation tool for dynamic program analysis</sub></td>
+<td align="right"><b>370</b></td>
+<td align="right">32</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/phayes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/phayes/freeport"><b>phayes/freeport</b></a><br><sub>Get a free and open tcp port that is ready to use</sub></td>
+<td align="right"><b>368</b></td>
+<td align="right">39</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/birkir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/birkir/hekla"><b>birkir/hekla</b></a><br><sub>Hekla for Hacker News (open source React Native app)</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">70</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/technomancy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/technomancy/robert-hooke"><b>technomancy/robert-hooke</b></a> <sub>archived</sub><br><sub>Hooke your Clojure functions!</sub></td>
+<td align="right"><b>360</b></td>
+<td align="right">23</td>
+<td>Clojure</td>
+</tr>
 </tbody>
 </table>
 
@@ -372,8 +400,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 394 stars; 49 attributed candidates are tracked.
-- 90 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 360 stars; 53 attributed candidates are tracked.
+- 84 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

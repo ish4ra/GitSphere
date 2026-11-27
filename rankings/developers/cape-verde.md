@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/Andreia797"><img src="https://avatars.githubusercontent.com/u/112090817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Andreia797"><b>Andreia Semedo</b></a><br><sub>&#64;Andreia797</sub></td>
-<td align="right"><b>448</b></td>
+<td align="right"><b>449</b></td>
 <td align="right">53</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/deveyNull"><img src="https://avatars.githubusercontent.com/u/9810527?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deveyNull"><b>Dennis Devey</b></a><br><sub>&#64;deveyNull</sub></td>
-<td align="right"><b>194</b></td>
+<td align="right"><b>195</b></td>
 <td align="right">47</td>
 <td><sub>Mo&#39; B</sub></td>
 </tr>

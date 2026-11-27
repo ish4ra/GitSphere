@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-22T10:46:56.141Z",
 "terms": {"count":23,"fingerprint":"23:e5d32dff"},
-"termIndex": 0,
-"specIndex": 1,
-"active": {"term":"Andorra","kind":"organizations","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjEwMA==","page":3,"retrieved":100,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-24T21:26:39.102Z","stats":{"pages":2}},
+"termIndex": 3,
+"specIndex": 0,
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":593},
-"updatedAt": "2026-11-24T21:26:39.102Z"
+"stats": {"requests":18,"pages":18,"accounts":700},
+"updatedAt": "2026-11-27T02:27:21.476Z"
 }

@@ -381,7 +381,7 @@
 <tr>
 <td align="right">52</td>
 <td><img src="https://github.com/tryAGI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tryAGI/LangChain"><b>tryAGI/LangChain</b></a><br><sub>C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are ope…</sub></td>
-<td align="right"><b>1,080</b></td>
+<td align="right"><b>1,081</b></td>
 <td align="right">151</td>
 <td>C#</td>
 </tr>
@@ -389,7 +389,7 @@
 <td align="right">53</td>
 <td><img src="https://github.com/markomarkovic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/markomarkovic/simple-php-git-deploy"><b>markomarkovic/simple-php-git-deploy</b></a><br><sub>Automatically deploy the code using PHP and Git</sub></td>
 <td align="right"><b>1,040</b></td>
-<td align="right">265</td>
+<td align="right">266</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -402,7 +402,7 @@
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/matteogobbi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matteogobbi/MGSpotyViewController"><b>matteogobbi/MGSpotyViewController</b></a><br><sub>Beautiful viewController with a tableView and amazing effects like a viewController in the Spotify app.</sub></td>
-<td align="right"><b>1,010</b></td>
+<td align="right"><b>1,009</b></td>
 <td align="right">100</td>
 <td>Objective-C</td>
 </tr>
@@ -430,7 +430,7 @@
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/iltercengiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iltercengiz/ICViewPager"><b>iltercengiz/ICViewPager</b></a> <sub>archived</sub></td>
-<td align="right"><b>945</b></td>
+<td align="right"><b>944</b></td>
 <td align="right">230</td>
 <td>Swift</td>
 </tr>
@@ -444,7 +444,7 @@
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/Gictorbit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gictorbit/illustratorCClinux"><b>Gictorbit/illustratorCClinux</b></a><br><sub>Illustrator CC v17 installer for Gnu/Linux</sub></td>
-<td align="right"><b>933</b></td>
+<td align="right"><b>934</b></td>
 <td align="right">110</td>
 <td>Shell</td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **72** | 24 Nov 2026 | <a href="../data/LT.json">JSON</a> |
+| 🟡 Provisional | **79** | 24 Nov 2026 | <a href="../data/LT.json">JSON</a> |
 
 </div>
 
@@ -178,7 +178,7 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/bring-shrubbery.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bring-shrubbery/SVG-to-SwiftUI"><b>bring-shrubbery/SVG-to-SwiftUI</b></a><br><sub>SVG to SwiftUI Compiler</sub></td>
-<td align="right"><b>1,122</b></td>
+<td align="right"><b>1,123</b></td>
 <td align="right">54</td>
 <td>TypeScript</td>
 </tr>
@@ -192,14 +192,14 @@
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/Cigaras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cigaras/IPTV.bundle"><b>Cigaras/IPTV.bundle</b></a><br><sub>Plex plug-in that plays live streams (like IPTV) from a M3U playlist</sub></td>
-<td align="right"><b>1,049</b></td>
+<td align="right"><b>1,050</b></td>
 <td align="right">280</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/CreativeIT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CreativeIT/material-angular-dashboard"><b>CreativeIT/material-angular-dashboard</b></a><br><sub>Material Angular Admin Template</sub></td>
-<td align="right"><b>1,045</b></td>
+<td align="right"><b>1,044</b></td>
 <td align="right">273</td>
 <td>TypeScript</td>
 </tr>
@@ -525,6 +525,55 @@
 <td align="right">47</td>
 <td>Swift</td>
 </tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/Miceuz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Miceuz/PlantWateringAlarm"><b>Miceuz/PlantWateringAlarm</b></a><br><sub>A soil humidity level sensor based on ATTINY44. Uses capacitive sensing.</sub></td>
+<td align="right"><b>367</b></td>
+<td align="right">83</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/kedder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kedder/ofxstatement"><b>kedder/ofxstatement</b></a><br><sub>Tool to convert proprietary bank statement to OFX format, suitable for importing to GnuCash or other personal finance a…</sub></td>
+<td align="right"><b>367</b></td>
+<td align="right">78</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/aras-p.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aras-p/smol-v"><b>aras-p/smol-v</b></a><br><sub>SMOL-V: like Vulkan/Khronos SPIR-V, but smaller.</sub></td>
+<td align="right"><b>367</b></td>
+<td align="right">22</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/jasonbaciulis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jasonbaciulis/javascript-understanding-the-weird-parts"><b>jasonbaciulis/javascript-understanding-the-weird-parts</b></a><br><sub>Notes from the JavaScript course by Tony Alicea</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">114</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/TitasGailius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TitasGailius/nova-search-relations"><b>TitasGailius/nova-search-relations</b></a><br><sub>This package allow you to include relationship columns into Laravel Nova search query.</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">41</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/jakutis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jakutis/httpinvoke"><b>jakutis/httpinvoke</b></a><br><sub>A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API…</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">15</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/lekevicius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lekevicius/october30"><b>lekevicius/october30</b></a><br><sub>macOS Screen Saver showing 371 Apple logos from their 2018 iPad event</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">13</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -533,8 +582,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 375 stars; 72 attributed candidates are tracked.
-- 102 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 341 stars; 79 attributed candidates are tracked.
+- 100 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

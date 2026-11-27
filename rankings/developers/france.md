@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/elder-plinius"><img src="https://avatars.githubusercontent.com/u/133052465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elder-plinius"><b>pliny</b></a><br><sub>&#64;elder-plinius</sub></td>
-<td align="right"><b>25,086</b></td>
+<td align="right"><b>25,095</b></td>
 <td align="right">48</td>
 <td><sub>France</sub></td>
 </tr>
@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><a href="https://github.com/dunglas"><img src="https://avatars.githubusercontent.com/u/57224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dunglas"><b>Kévin Dunglas</b></a><br><sub>&#64;dunglas</sub></td>
-<td align="right"><b>4,662</b></td>
+<td align="right"><b>4,659</b></td>
 <td align="right">491</td>
 <td><sub>Lille, France</sub></td>
 </tr>
@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><a href="https://github.com/Dimillian"><img src="https://avatars.githubusercontent.com/u/535509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dimillian"><b>Thomas Ricouard</b></a><br><sub>&#64;Dimillian</sub></td>
-<td align="right"><b>4,410</b></td>
+<td align="right"><b>4,409</b></td>
 <td align="right">178</td>
 <td><sub>France</sub></td>
 </tr>
@@ -164,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/ocornut"><img src="https://avatars.githubusercontent.com/u/8225057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ocornut"><b>omar</b></a><br><sub>&#64;ocornut</sub></td>
-<td align="right"><b>4,292</b></td>
+<td align="right"><b>4,293</b></td>
 <td align="right">21</td>
 <td><sub>Paris, France</sub></td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><a href="https://github.com/AliSoftware"><img src="https://avatars.githubusercontent.com/u/216089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliSoftware"><b>Olivier Halligon</b></a><br><sub>&#64;AliSoftware</sub></td>
-<td align="right"><b>3,091</b></td>
+<td align="right"><b>3,090</b></td>
 <td align="right">89</td>
 <td><sub>Rennes, France</sub></td>
 </tr>
@@ -304,7 +304,7 @@
 <tr>
 <td align="right">41</td>
 <td><a href="https://github.com/0vercl0k"><img src="https://avatars.githubusercontent.com/u/1476421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0vercl0k"><b>Axel Souchet</b></a><br><sub>&#64;0vercl0k</sub></td>
-<td align="right"><b>2,544</b></td>
+<td align="right"><b>2,542</b></td>
 <td align="right">47</td>
 <td><sub>US/FR</sub></td>
 </tr>
@@ -332,14 +332,14 @@
 <tr>
 <td align="right">45</td>
 <td><a href="https://github.com/noraj"><img src="https://avatars.githubusercontent.com/u/16578570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noraj"><b>Alexandre ZANNI</b></a><br><sub>&#64;noraj</sub></td>
-<td align="right"><b>2,414</b></td>
+<td align="right"><b>2,422</b></td>
 <td align="right">744</td>
 <td><sub>FRANCE</sub></td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><a href="https://github.com/benoitc"><img src="https://avatars.githubusercontent.com/u/14498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benoitc"><b>Benoit Chesneau</b></a><br><sub>&#64;benoitc</sub></td>
-<td align="right"><b>2,405</b></td>
+<td align="right"><b>2,406</b></td>
 <td align="right">284</td>
 <td><sub>Creil, France</sub></td>
 </tr>
@@ -423,7 +423,7 @@
 <tr>
 <td align="right">58</td>
 <td><a href="https://github.com/slorber"><img src="https://avatars.githubusercontent.com/u/749374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slorber"><b>Sébastien Lorber</b></a><br><sub>&#64;slorber</sub></td>
-<td align="right"><b>2,124</b></td>
+<td align="right"><b>2,123</b></td>
 <td align="right">347</td>
 <td><sub>Paris</sub></td>
 </tr>
@@ -443,22 +443,22 @@
 </tr>
 <tr>
 <td align="right">61</td>
-<td><a href="https://github.com/gre"><img src="https://avatars.githubusercontent.com/u/211411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gre"><b>&#64;greweb</b></a><br><sub>&#64;gre</sub></td>
-<td align="right"><b>1,958</b></td>
-<td align="right">235</td>
-<td><sub>Paris, France</sub></td>
-</tr>
-<tr>
-<td align="right">62</td>
 <td><a href="https://github.com/arcanis"><img src="https://avatars.githubusercontent.com/u/1037931?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arcanis"><b>Maël Nison</b></a><br><sub>&#64;arcanis</sub></td>
 <td align="right"><b>1,957</b></td>
 <td align="right">348</td>
 <td><sub>Nantes, France</sub></td>
 </tr>
 <tr>
+<td align="right">62</td>
+<td><a href="https://github.com/gre"><img src="https://avatars.githubusercontent.com/u/211411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gre"><b>&#64;greweb</b></a><br><sub>&#64;gre</sub></td>
+<td align="right"><b>1,956</b></td>
+<td align="right">235</td>
+<td><sub>Paris, France</sub></td>
+</tr>
+<tr>
 <td align="right">63</td>
 <td><a href="https://github.com/rom1v"><img src="https://avatars.githubusercontent.com/u/543275?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rom1v"><b>Romain Vimont</b></a><br><sub>&#64;rom1v</sub></td>
-<td align="right"><b>1,901</b></td>
+<td align="right"><b>1,903</b></td>
 <td align="right">83</td>
 <td><sub>Paris, France</sub></td>
 </tr>
@@ -472,7 +472,7 @@
 <tr>
 <td align="right">65</td>
 <td><a href="https://github.com/willdurand"><img src="https://avatars.githubusercontent.com/u/217628?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/willdurand"><b>William Durand</b></a><br><sub>&#64;willdurand</sub></td>
-<td align="right"><b>1,832</b></td>
+<td align="right"><b>1,831</b></td>
 <td align="right">94</td>
 <td><sub>France</sub></td>
 </tr>
@@ -521,7 +521,7 @@
 <tr>
 <td align="right">72</td>
 <td><a href="https://github.com/xoofx"><img src="https://avatars.githubusercontent.com/u/715038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xoofx"><b>Alexandre Mutel</b></a><br><sub>&#64;xoofx</sub></td>
-<td align="right"><b>1,738</b></td>
+<td align="right"><b>1,737</b></td>
 <td align="right">104</td>
 <td><sub>Grenoble - France</sub></td>
 </tr>
@@ -731,7 +731,7 @@
 <tr>
 <td align="right">102</td>
 <td><a href="https://github.com/Cadene"><img src="https://avatars.githubusercontent.com/u/4681518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cadene"><b>Remi</b></a><br><sub>&#64;Cadene</sub></td>
-<td align="right"><b>1,362</b></td>
+<td align="right"><b>1,363</b></td>
 <td align="right">102</td>
 <td><sub>Paris</sub></td>
 </tr>
@@ -766,7 +766,7 @@
 <tr>
 <td align="right">107</td>
 <td><a href="https://github.com/rossant"><img src="https://avatars.githubusercontent.com/u/1942359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rossant"><b>Cyrille Rossant</b></a><br><sub>&#64;rossant</sub></td>
-<td align="right"><b>1,319</b></td>
+<td align="right"><b>1,318</b></td>
 <td align="right">86</td>
 <td><sub>Paris</sub></td>
 </tr>
@@ -787,7 +787,7 @@
 <tr>
 <td align="right">110</td>
 <td><a href="https://github.com/ngxson"><img src="https://avatars.githubusercontent.com/u/7702203?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ngxson"><b>Xuan-Son Nguyen</b></a><br><sub>&#64;ngxson</sub></td>
-<td align="right"><b>1,309</b></td>
+<td align="right"><b>1,312</b></td>
 <td align="right">181</td>
 <td><sub>France</sub></td>
 </tr>
@@ -1291,7 +1291,7 @@
 <tr>
 <td align="right">182</td>
 <td><a href="https://github.com/bzg"><img src="https://avatars.githubusercontent.com/u/63500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bzg"><b>Bastien</b></a><br><sub>&#64;bzg</sub></td>
-<td align="right"><b>872</b></td>
+<td align="right"><b>870</b></td>
 <td align="right">72</td>
 <td><sub>Paris</sub></td>
 </tr>
@@ -1465,22 +1465,22 @@
 </tr>
 <tr>
 <td align="right">207</td>
+<td><a href="https://github.com/YucongDuan"><img src="https://avatars.githubusercontent.com/u/32855106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YucongDuan"><b>Yucong Duan · 段玉聪</b></a><br><sub>&#64;YucongDuan</sub></td>
+<td align="right"><b>821</b></td>
+<td align="right">495</td>
+<td><sub>Paris</sub></td>
+</tr>
+<tr>
+<td align="right">208</td>
 <td><a href="https://github.com/samirsaci"><img src="https://avatars.githubusercontent.com/u/77899321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samirsaci"><b>Samir Saci</b></a><br><sub>&#64;samirsaci</sub></td>
 <td align="right"><b>820</b></td>
 <td align="right">60</td>
 <td><sub>Paris</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
-<td><a href="https://github.com/YucongDuan"><img src="https://avatars.githubusercontent.com/u/32855106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YucongDuan"><b>Yucong Duan · 段玉聪</b></a><br><sub>&#64;YucongDuan</sub></td>
-<td align="right"><b>818</b></td>
-<td align="right">495</td>
-<td><sub>Paris</sub></td>
-</tr>
-<tr>
 <td align="right">209</td>
 <td><a href="https://github.com/FGRibreau"><img src="https://avatars.githubusercontent.com/u/138050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FGRibreau"><b>Francois-Guillaume Ribreau</b></a><br><sub>&#64;FGRibreau</sub></td>
-<td align="right"><b>816</b></td>
+<td align="right"><b>815</b></td>
 <td align="right">338</td>
 <td><sub>France</sub></td>
 </tr>
@@ -1627,7 +1627,7 @@
 <tr>
 <td align="right">230</td>
 <td><a href="https://github.com/ldez"><img src="https://avatars.githubusercontent.com/u/5674651?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ldez"><b>Ludovic Fernandez</b></a><br><sub>&#64;ldez</sub></td>
-<td align="right"><b>746</b></td>
+<td align="right"><b>745</b></td>
 <td align="right">287</td>
 <td><sub>France</sub></td>
 </tr>
@@ -1690,7 +1690,7 @@
 <tr>
 <td align="right">239</td>
 <td><a href="https://github.com/Conchylicultor"><img src="https://avatars.githubusercontent.com/u/9047355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Conchylicultor"><b>Conchylicultor</b></a><br><sub>&#64;Conchylicultor</sub></td>
-<td align="right"><b>718</b></td>
+<td align="right"><b>717</b></td>
 <td align="right">43</td>
 <td><sub>Paris</sub></td>
 </tr>
@@ -2186,17 +2186,17 @@
 </tr>
 <tr>
 <td align="right">310</td>
+<td><a href="https://github.com/steelbrain"><img src="https://avatars.githubusercontent.com/u/4278113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/steelbrain"><b>Anees Iqbal</b></a><br><sub>&#64;steelbrain</sub></td>
+<td align="right"><b>577</b></td>
+<td align="right">185</td>
+<td><sub>France</sub></td>
+</tr>
+<tr>
+<td align="right">311</td>
 <td><a href="https://github.com/sofienkaabar"><img src="https://avatars.githubusercontent.com/u/86428036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sofienkaabar"><b>Sofien KAABAR, CFA</b></a><br><sub>&#64;sofienkaabar</sub></td>
 <td align="right"><b>577</b></td>
 <td align="right">12</td>
 <td><sub>Paris, France</sub></td>
-</tr>
-<tr>
-<td align="right">311</td>
-<td><a href="https://github.com/steelbrain"><img src="https://avatars.githubusercontent.com/u/4278113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/steelbrain"><b>Anees Iqbal</b></a><br><sub>&#64;steelbrain</sub></td>
-<td align="right"><b>576</b></td>
-<td align="right">185</td>
-<td><sub>France</sub></td>
 </tr>
 <tr>
 <td align="right">312</td>
@@ -2305,24 +2305,24 @@
 </tr>
 <tr>
 <td align="right">327</td>
-<td><a href="https://github.com/arnaud-lb"><img src="https://avatars.githubusercontent.com/u/365207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arnaud-lb"><b>Arnaud Le Blanc</b></a><br><sub>&#64;arnaud-lb</sub></td>
-<td align="right"><b>557</b></td>
-<td align="right">189</td>
-<td><sub>Paris, France</sub></td>
-</tr>
-<tr>
-<td align="right">328</td>
 <td><a href="https://github.com/Litarvan"><img src="https://avatars.githubusercontent.com/u/8712146?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Litarvan"><b>Adrien Navratil</b></a><br><sub>&#64;Litarvan</sub></td>
 <td align="right"><b>557</b></td>
 <td align="right">101</td>
 <td><sub>Paris, France</sub></td>
 </tr>
 <tr>
-<td align="right">329</td>
+<td align="right">328</td>
 <td><a href="https://github.com/millsp"><img src="https://avatars.githubusercontent.com/u/18401805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/millsp"><b>pierre</b></a><br><sub>&#64;millsp</sub></td>
 <td align="right"><b>557</b></td>
 <td align="right">51</td>
 <td><sub>France</sub></td>
+</tr>
+<tr>
+<td align="right">329</td>
+<td><a href="https://github.com/arnaud-lb"><img src="https://avatars.githubusercontent.com/u/365207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arnaud-lb"><b>Arnaud Le Blanc</b></a><br><sub>&#64;arnaud-lb</sub></td>
+<td align="right"><b>556</b></td>
+<td align="right">189</td>
+<td><sub>Paris, France</sub></td>
 </tr>
 <tr>
 <td align="right">330</td>
@@ -2417,31 +2417,31 @@
 </tr>
 <tr>
 <td align="right">343</td>
+<td><a href="https://github.com/NaGaa95"><img src="https://avatars.githubusercontent.com/u/38852591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NaGaa95"><b>naga</b></a><br><sub>&#64;NaGaa95</sub></td>
+<td align="right"><b>513</b></td>
+<td align="right">71</td>
+<td><sub>France</sub></td>
+</tr>
+<tr>
+<td align="right">344</td>
 <td><a href="https://github.com/guillaumebort"><img src="https://avatars.githubusercontent.com/u/94658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guillaumebort"><b>Guillaume Bort</b></a><br><sub>&#64;guillaumebort</sub></td>
 <td align="right"><b>513</b></td>
 <td align="right">26</td>
 <td><sub>Paris</sub></td>
 </tr>
 <tr>
-<td align="right">344</td>
+<td align="right">345</td>
 <td><a href="https://github.com/LukyVj"><img src="https://avatars.githubusercontent.com/u/1630200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LukyVj"><b>Lucas Bonomi</b></a><br><sub>&#64;LukyVj</sub></td>
 <td align="right"><b>511</b></td>
 <td align="right">176</td>
 <td><sub>Paris</sub></td>
 </tr>
 <tr>
-<td align="right">345</td>
+<td align="right">346</td>
 <td><a href="https://github.com/shprink"><img src="https://avatars.githubusercontent.com/u/1388706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shprink"><b>Julien Renaux</b></a><br><sub>&#64;shprink</sub></td>
 <td align="right"><b>511</b></td>
 <td align="right">101</td>
 <td><sub>Toulouse, France</sub></td>
-</tr>
-<tr>
-<td align="right">346</td>
-<td><a href="https://github.com/NaGaa95"><img src="https://avatars.githubusercontent.com/u/38852591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NaGaa95"><b>naga</b></a><br><sub>&#64;NaGaa95</sub></td>
-<td align="right"><b>510</b></td>
-<td align="right">71</td>
-<td><sub>France</sub></td>
 </tr>
 <tr>
 <td align="right">347</td>
@@ -2816,38 +2816,38 @@
 </tr>
 <tr>
 <td align="right">400</td>
+<td><a href="https://github.com/mpariente"><img src="https://avatars.githubusercontent.com/u/18496796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpariente"><b>Pariente Manuel</b></a><br><sub>&#64;mpariente</sub></td>
+<td align="right"><b>462</b></td>
+<td align="right">59</td>
+<td><sub>Sophia Antipolis</sub></td>
+</tr>
+<tr>
+<td align="right">401</td>
 <td><a href="https://github.com/jbilcke-hf"><img src="https://avatars.githubusercontent.com/u/137051437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jbilcke-hf"><b>(ARCHIVED ACCOUNT)</b></a><br><sub>&#64;jbilcke-hf</sub></td>
 <td align="right"><b>461</b></td>
 <td align="right">79</td>
 <td><sub>Paris, France</sub></td>
 </tr>
 <tr>
-<td align="right">401</td>
+<td align="right">402</td>
 <td><a href="https://github.com/OliverMuller100"><img src="https://avatars.githubusercontent.com/u/132058948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OliverMuller100"><b>Oliver Muller</b></a><br><sub>&#64;OliverMuller100</sub></td>
 <td align="right"><b>461</b></td>
 <td align="right">0</td>
 <td><sub>France</sub></td>
 </tr>
 <tr>
-<td align="right">402</td>
+<td align="right">403</td>
 <td><a href="https://github.com/bnjbvr"><img src="https://avatars.githubusercontent.com/u/1180019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bnjbvr"><b>Benjamin Bouvier</b></a><br><sub>&#64;bnjbvr</sub></td>
 <td align="right"><b>460</b></td>
 <td align="right">263</td>
 <td><sub>Brittany, France</sub></td>
 </tr>
 <tr>
-<td align="right">403</td>
+<td align="right">404</td>
 <td><a href="https://github.com/eko"><img src="https://avatars.githubusercontent.com/u/103900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eko"><b>Vincent Composieux</b></a><br><sub>&#64;eko</sub></td>
 <td align="right"><b>460</b></td>
 <td align="right">115</td>
 <td><sub>Annecy, France</sub></td>
-</tr>
-<tr>
-<td align="right">404</td>
-<td><a href="https://github.com/mpariente"><img src="https://avatars.githubusercontent.com/u/18496796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpariente"><b>Pariente Manuel</b></a><br><sub>&#64;mpariente</sub></td>
-<td align="right"><b>460</b></td>
-<td align="right">59</td>
-<td><sub>Sophia Antipolis</sub></td>
 </tr>
 <tr>
 <td align="right">405</td>
@@ -3642,24 +3642,24 @@
 </tr>
 <tr>
 <td align="right">518</td>
+<td><a href="https://github.com/dmathieu"><img src="https://avatars.githubusercontent.com/u/9347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmathieu"><b>Damien Mathieu</b></a><br><sub>&#64;dmathieu</sub></td>
+<td align="right"><b>377</b></td>
+<td align="right">84</td>
+<td><sub>France</sub></td>
+</tr>
+<tr>
+<td align="right">519</td>
 <td><a href="https://github.com/Ysurac"><img src="https://avatars.githubusercontent.com/u/6342954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ysurac"><b>Ycarus (Yannick Chabanois)</b></a><br><sub>&#64;Ysurac</sub></td>
 <td align="right"><b>377</b></td>
 <td align="right">60</td>
 <td><sub>France</sub></td>
 </tr>
 <tr>
-<td align="right">519</td>
+<td align="right">520</td>
 <td><a href="https://github.com/jegou"><img src="https://avatars.githubusercontent.com/u/26112589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jegou"><b>Hervé</b></a><br><sub>&#64;jegou</sub></td>
 <td align="right"><b>377</b></td>
 <td align="right">2</td>
 <td><sub>Paris</sub></td>
-</tr>
-<tr>
-<td align="right">520</td>
-<td><a href="https://github.com/dmathieu"><img src="https://avatars.githubusercontent.com/u/9347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmathieu"><b>Damien Mathieu</b></a><br><sub>&#64;dmathieu</sub></td>
-<td align="right"><b>375</b></td>
-<td align="right">84</td>
-<td><sub>France</sub></td>
 </tr>
 <tr>
 <td align="right">521</td>
@@ -3741,7 +3741,7 @@
 <tr>
 <td align="right">532</td>
 <td><a href="https://github.com/Barbapapazes"><img src="https://avatars.githubusercontent.com/u/45267552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Barbapapazes"><b>Estéban</b></a><br><sub>&#64;Barbapapazes</sub></td>
-<td align="right"><b>369</b></td>
+<td align="right"><b>368</b></td>
 <td align="right">235</td>
 <td><sub>Paris</sub></td>
 </tr>
@@ -4804,31 +4804,31 @@
 </tr>
 <tr>
 <td align="right">684</td>
-<td><a href="https://github.com/mickaelandrieu"><img src="https://avatars.githubusercontent.com/u/1247388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mickaelandrieu"><b>Mickaël Andrieu</b></a><br><sub>&#64;mickaelandrieu</sub></td>
-<td align="right"><b>304</b></td>
-<td align="right">483</td>
-<td><sub>Bordeaux, France</sub></td>
-</tr>
-<tr>
-<td align="right">685</td>
 <td><a href="https://github.com/tcapelle"><img src="https://avatars.githubusercontent.com/u/18441985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tcapelle"><b>Thomas Capelle</b></a><br><sub>&#64;tcapelle</sub></td>
 <td align="right"><b>304</b></td>
 <td align="right">226</td>
 <td><sub>Chambery, France</sub></td>
 </tr>
 <tr>
-<td align="right">686</td>
+<td align="right">685</td>
 <td><a href="https://github.com/FCHEHIDI"><img src="https://avatars.githubusercontent.com/u/193751724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FCHEHIDI"><b>Fares Chehidi</b></a><br><sub>&#64;FCHEHIDI</sub></td>
 <td align="right"><b>304</b></td>
 <td align="right">107</td>
 <td><sub>France</sub></td>
 </tr>
 <tr>
-<td align="right">687</td>
+<td align="right">686</td>
 <td><a href="https://github.com/dotdc"><img src="https://avatars.githubusercontent.com/u/12827900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dotdc"><b>David Calvert</b></a><br><sub>&#64;dotdc</sub></td>
 <td align="right"><b>304</b></td>
 <td align="right">95</td>
 <td><sub>France</sub></td>
+</tr>
+<tr>
+<td align="right">687</td>
+<td><a href="https://github.com/mickaelandrieu"><img src="https://avatars.githubusercontent.com/u/1247388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mickaelandrieu"><b>Mickaël Andrieu</b></a><br><sub>&#64;mickaelandrieu</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">483</td>
+<td><sub>Bordeaux, France</sub></td>
 </tr>
 <tr>
 <td align="right">688</td>
@@ -5224,16 +5224,16 @@
 </tr>
 <tr>
 <td align="right">744</td>
-<td><a href="https://github.com/pascalgrimaud"><img src="https://avatars.githubusercontent.com/u/9156882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pascalgrimaud"><b>Pascal Grimaud</b></a><br><sub>&#64;pascalgrimaud</sub></td>
-<td align="right"><b>283</b></td>
-<td align="right">335</td>
+<td><a href="https://github.com/mfrachet"><img src="https://avatars.githubusercontent.com/u/3874873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mfrachet"><b>Marvin Frachet</b></a><br><sub>&#64;mfrachet</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">70</td>
 <td><sub>France</sub></td>
 </tr>
 <tr>
 <td align="right">745</td>
-<td><a href="https://github.com/mfrachet"><img src="https://avatars.githubusercontent.com/u/3874873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mfrachet"><b>Marvin Frachet</b></a><br><sub>&#64;mfrachet</sub></td>
+<td><a href="https://github.com/pascalgrimaud"><img src="https://avatars.githubusercontent.com/u/9156882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pascalgrimaud"><b>Pascal Grimaud</b></a><br><sub>&#64;pascalgrimaud</sub></td>
 <td align="right"><b>283</b></td>
-<td align="right">70</td>
+<td align="right">335</td>
 <td><sub>France</sub></td>
 </tr>
 <tr>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,503 attributed developers are tracked; the cutoff is 217 followers.
+- Organizations are excluded. 1,550 attributed developers are tracked; the cutoff is 217 followers.
 - **Location discovery:** term 0 of 195 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

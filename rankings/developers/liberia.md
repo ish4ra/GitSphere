@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/maxwelldorliea"><img src="https://avatars.githubusercontent.com/u/46686591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maxwelldorliea"><b>Maxwell D. Dorliea</b></a><br><sub>&#64;maxwelldorliea</sub></td>
-<td align="right"><b>30</b></td>
+<td align="right"><b>29</b></td>
 <td align="right">57</td>
 <td><sub>Monrovia, Montserrado County, Liberia</sub></td>
 </tr>

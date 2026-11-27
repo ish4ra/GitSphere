@@ -193,7 +193,7 @@
 <td align="right">25</td>
 <td><a href="https://github.com/xeroxzen"><img src="https://avatars.githubusercontent.com/u/40607507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xeroxzen"><b>Andile Jaden Mbele</b></a><br><sub>&#64;xeroxzen</sub></td>
 <td align="right"><b>96</b></td>
-<td align="right">122</td>
+<td align="right">124</td>
 <td><sub>Zimbabwe</sub></td>
 </tr>
 <tr>

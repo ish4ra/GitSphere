@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/EddyKubwimana"><img src="https://avatars.githubusercontent.com/u/92218436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EddyKubwimana"><b>Eddy Kubwimana</b></a><br><sub>&#64;EddyKubwimana</sub></td>
-<td align="right"><b>134</b></td>
+<td align="right"><b>133</b></td>
 <td align="right">96</td>
 <td><sub>Burundi</sub></td>
 </tr>

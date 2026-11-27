@@ -311,14 +311,14 @@
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/rebane2001.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebane2001/xikipedia"><b>rebane2001/xikipedia</b></a><br><sub>Wikipedia as a social media feed</sub></td>
-<td align="right"><b>1,146</b></td>
+<td align="right"><b>1,147</b></td>
 <td align="right">77</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/sirWest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sirWest/AudioSwitch"><b>sirWest/AudioSwitch</b></a><br><sub>Switch between default audio input or output + change volume</sub></td>
-<td align="right"><b>1,122</b></td>
+<td align="right"><b>1,123</b></td>
 <td align="right">92</td>
 <td>C#</td>
 </tr>
@@ -326,14 +326,14 @@
 <td align="right">44</td>
 <td><img src="https://github.com/iconify.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iconify/icon-sets"><b>iconify/icon-sets</b></a><br><sub>200+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically s…</sub></td>
 <td align="right"><b>1,091</b></td>
-<td align="right">98</td>
+<td align="right">99</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/MayGo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MayGo/tockler"><b>MayGo/tockler</b></a><br><sub>An application that tracks your time by monitoring your active window title and idle time.</sub></td>
 <td align="right"><b>1,078</b></td>
-<td align="right">123</td>
+<td align="right">124</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -346,23 +346,23 @@
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/rebane2001.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebane2001/x86CSS"><b>rebane2001/x86CSS</b></a><br><sub>x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.</sub></td>
-<td align="right"><b>945</b></td>
+<td align="right"><b>944</b></td>
 <td align="right">24</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">48</td>
+<td><img src="https://github.com/emotixco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emotixco/claude-skills-founder"><b>emotixco/claude-skills-founder</b></a><br><sub>Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM p…</sub></td>
+<td align="right"><b>935</b></td>
+<td align="right">82</td>
+<td>Markdown</td>
+</tr>
+<tr>
+<td align="right">49</td>
 <td><img src="https://github.com/zeroturnaround.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zeroturnaround/zt-exec"><b>zeroturnaround/zt-exec</b></a><br><sub>ZeroTurnaround Process Executor</sub></td>
 <td align="right"><b>919</b></td>
 <td align="right">112</td>
 <td>Java</td>
-</tr>
-<tr>
-<td align="right">49</td>
-<td><img src="https://github.com/emotixco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emotixco/claude-skills-founder"><b>emotixco/claude-skills-founder</b></a><br><sub>Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM p…</sub></td>
-<td align="right"><b>919</b></td>
-<td align="right">80</td>
-<td>Markdown</td>
 </tr>
 <tr>
 <td align="right">50</td>
@@ -382,7 +382,7 @@
 <td align="right">52</td>
 <td><img src="https://github.com/jpmml.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jpmml/jpmml-evaluator"><b>jpmml/jpmml-evaluator</b></a><br><sub>Java Evaluator API for PMML</sub></td>
 <td align="right"><b>905</b></td>
-<td align="right">253</td>
+<td align="right">252</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 506 stars; 136 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 506 stars; 144 attributed candidates are tracked.
 - 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/PG.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/PG.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/EzraMulaga"><img src="https://avatars.githubusercontent.com/u/140321627?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EzraMulaga"><b>Ezra Mulaga</b></a><br><sub>&#64;EzraMulaga · 3 followers</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">169</td>
+<td align="right">6</td>
+<td align="right">24</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/chrisaugu"><img src="https://avatars.githubusercontent.com/u/30349879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrisaugu"><b>Christian Augustyn</b></a><br><sub>&#64;chrisaugu · 29 followers</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">127</td>
@@ -60,7 +69,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/mohsinalimat"><img src="https://avatars.githubusercontent.com/u/973676?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohsinalimat"><b>MohsinAli</b></a><br><sub>&#64;mohsinalimat · 652 followers</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">13</td>
@@ -69,7 +78,7 @@
 <td align="right">25</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/jangap411"><img src="https://avatars.githubusercontent.com/u/77943305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jangap411"><b>JANGAP411</b></a><br><sub>&#64;jangap411 · 7 followers</sub></td>
 <td align="right"><b>149</b></td>
 <td align="right">143</td>
@@ -78,7 +87,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
+<td><a href="https://github.com/Valdaz007"><img src="https://avatars.githubusercontent.com/u/59840456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Valdaz007"><b>Victor Volsavai</b></a><br><sub>&#64;Valdaz007 · 3 followers</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">116</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/Kialakun"><img src="https://avatars.githubusercontent.com/u/20167142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kialakun"><b>K!a</b></a><br><sub>&#64;Kialakun · 1 followers</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">93</td>
@@ -87,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/glenhayoge"><img src="https://avatars.githubusercontent.com/u/10877530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/glenhayoge"><b>Glen G Hayoge</b></a><br><sub>&#64;glenhayoge · 8 followers</sub></td>
 <td align="right"><b>94</b></td>
 <td align="right">94</td>
@@ -96,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/MFave-xtc"><img src="https://avatars.githubusercontent.com/u/179553205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MFave-xtc"><b>MARIOSU STEPHEN FAVE</b></a><br><sub>&#64;MFave-xtc · 3 followers</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">49</td>
@@ -105,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><a href="https://github.com/papuamart"><img src="https://avatars.githubusercontent.com/u/8179222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/papuamart"><b>papuamart</b></a><br><sub>&#64;papuamart · 2 followers</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">10</td>
@@ -114,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
 <td><a href="https://github.com/embakaitech"><img src="https://avatars.githubusercontent.com/u/153542566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/embakaitech"><b>Embakai Tech Solutions</b></a><br><sub>&#64;embakaitech · 1 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">12</td>
@@ -123,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/sylvery"><img src="https://avatars.githubusercontent.com/u/6283107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sylvery"><b>Sylver Yagi</b></a><br><sub>&#64;sylvery · 12 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">7</td>
@@ -132,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
 <td><a href="https://github.com/shkomogi"><img src="https://avatars.githubusercontent.com/u/88008991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shkomogi"><b>Shirley Komogi</b></a><br><sub>&#64;shkomogi · 1 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -141,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/Jarnen"><img src="https://avatars.githubusercontent.com/u/44821530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jarnen"><b>Jarnen Richard</b></a><br><sub>&#64;Jarnen · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -156,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 16 of 549 discovered developers (533 awaiting measurement).
+- **Measured:** 20 of 549 discovered developers (529 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 68 in round 1.

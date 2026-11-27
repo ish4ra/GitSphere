@@ -247,17 +247,17 @@
 </tr>
 <tr>
 <td align="right">33</td>
-<td><a href="https://github.com/matiasdev30"><img src="https://avatars.githubusercontent.com/u/50122963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matiasdev30"><b>mvnull</b></a><br><sub>&#64;matiasdev30</sub></td>
-<td align="right"><b>96</b></td>
-<td align="right">118</td>
-<td><sub>Luanda Angola</sub></td>
-</tr>
-<tr>
-<td align="right">34</td>
 <td><a href="https://github.com/julianasoba"><img src="https://avatars.githubusercontent.com/u/73260408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/julianasoba"><b>Juliana Soba</b></a><br><sub>&#64;julianasoba</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">5</td>
 <td><sub>Luanda, Angola</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><a href="https://github.com/matiasdev30"><img src="https://avatars.githubusercontent.com/u/50122963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matiasdev30"><b>mvnull</b></a><br><sub>&#64;matiasdev30</sub></td>
+<td align="right"><b>95</b></td>
+<td align="right">118</td>
+<td><sub>Luanda Angola</sub></td>
 </tr>
 <tr>
 <td align="right">35</td>

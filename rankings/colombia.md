@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **67** | 24 Nov 2026 | <a href="../data/CO.json">JSON</a> |
+| 🟡 Provisional | **77** | 24 Nov 2026 | <a href="../data/CO.json">JSON</a> |
 
 </div>
 
@@ -109,14 +109,14 @@
 <td align="right">13</td>
 <td><img src="https://github.com/amro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amro/gibbon"><b>amro/gibbon</b></a><br><sub>Gibbon is an API wrapper for MailChimp&#39;s API</sub></td>
 <td align="right"><b>1,064</b></td>
-<td align="right">163</td>
+<td align="right">162</td>
 <td>Ruby</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/proyecto26.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/proyecto26/awesome-jsgames"><b>proyecto26/awesome-jsgames</b></a><br><sub>A curated list of awesome JavaScript Games 🎮</sub></td>
-<td align="right"><b>994</b></td>
-<td align="right">126</td>
+<td align="right"><b>997</b></td>
+<td align="right">131</td>
 <td>—</td>
 </tr>
 <tr>
@@ -136,21 +136,21 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/aqlaboratory.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aqlaboratory/openfold-3"><b>aqlaboratory/openfold-3</b></a><br><sub>A fully open source biomolecular structure prediction model based on AlphaFold3</sub></td>
-<td align="right"><b>930</b></td>
-<td align="right">192</td>
+<td align="right"><b>933</b></td>
+<td align="right">193</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/rohaquinlop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rohaquinlop/complexipy"><b>rohaquinlop/complexipy</b></a><br><sub>Blazingly fast cognitive complexity analysis for Python, written in Rust.</sub></td>
-<td align="right"><b>925</b></td>
+<td align="right"><b>928</b></td>
 <td align="right">30</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/aqlaboratory.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aqlaboratory/proteinnet"><b>aqlaboratory/proteinnet</b></a><br><sub>Standardized data set for machine learning of protein structure</sub></td>
-<td align="right"><b>920</b></td>
+<td align="right"><b>921</b></td>
 <td align="right">137</td>
 <td>Python</td>
 </tr>
@@ -490,6 +490,76 @@
 <td align="right">104</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/stormtrooper96.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stormtrooper96/books"><b>stormtrooper96/books</b></a></td>
+<td align="right"><b>369</b></td>
+<td align="right">1</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/Mteheran.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mteheran/api-colombia"><b>Mteheran/api-colombia</b></a><br><sub>Public api that contains info about Colombia, departments, cities, tourists places and presidents</sub></td>
+<td align="right"><b>362</b></td>
+<td align="right">37</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/jm3s4.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jm3s4/angular-boilerplate"><b>jm3s4/angular-boilerplate</b></a> <sub>archived</sub><br><sub>Straightforward Angular starter</sub></td>
+<td align="right"><b>361</b></td>
+<td align="right">110</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/dcu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dcu/mongodb_exporter"><b>dcu/mongodb&#95;exporter</b></a><br><sub>MongoDB exporter for prometheus.io</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">209</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/kmilo17pet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kmilo17pet/QuarkTS"><b>kmilo17pet/QuarkTS</b></a><br><sub>An open-source OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task…</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">67</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/jahirfiquitiva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jahirfiquitiva/jahir.dev"><b>jahirfiquitiva/jahir.dev</b></a><br><sub>My (previous) personal website ☻ – Built using Next.js, TypeScript, Tailwind CSS and MDX</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">41</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/mpratt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mpratt/Embera"><b>mpratt/Embera</b></a><br><sub>A Oembed consumer library, that gives you information about urls. It helps you replace urls to youtube or vimeo for exa…</sub></td>
+<td align="right"><b>353</b></td>
+<td align="right">60</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/wawandco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wawandco/fako"><b>wawandco/fako</b></a><br><sub>Struct Faker for Go</sub></td>
+<td align="right"><b>345</b></td>
+<td align="right">12</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/francot514.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/francot514/FreeSims"><b>francot514/FreeSims</b></a><br><sub>Open source engine used for The Sims</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">37</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/camartinezbu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/camartinezbu/recursos_ciencia_datos"><b>camartinezbu/recursos&#95;ciencia&#95;datos</b></a><br><sub>Este repositorio contiene una colección de enlaces a libros y recursos sobre ciencia de datos.</sub></td>
+<td align="right"><b>340</b></td>
+<td align="right">48</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -498,8 +568,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 374 stars; 67 attributed candidates are tracked.
-- 115 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 340 stars; 77 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 119 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

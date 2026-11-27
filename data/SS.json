@@ -5,7 +5,7 @@
 "country": {"code":"SS","name":"South Sudan","slug":"south-sudan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":7,"ownerExpansionBacklog":148,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":47,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":7,"ownerExpansionBacklog":147,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":47,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk5NTMzMTI2Mw==","name":"bundle-buddy","nameWithOwner":"samccone/bundle-buddy","url":"https://github.com/samccone/bundle-buddy","description":"A tool to understand your bundle size and why files are in your bundle","stars":2874,"forks":58,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-06-25T01:15:25Z","pushedAt":"2024-01-09T00:14:27Z","archived":false,"owner":{"login":"samccone","name":"Sam Saccone","type":"User","url":"https://github.com/samccone","location":"∆∆∆<script>alert(prompt('why'))</script>","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMzM4NzIwNzc=","name":"SanAndreasUnity","nameWithOwner":"in0finite/SanAndreasUnity","url":"https://github.com/in0finite/SanAndreasUnity","description":"Open source reimplementation of GTA San Andreas game engine in Unity","stars":2716,"forks":480,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2018-05-17T21:51:27Z","pushedAt":"2023-06-16T14:51:41Z","archived":false,"owner":{"login":"in0finite","name":null,"type":"User","url":"https://github.com/in0finite","location":"/opt/Unity/Editor/","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-26"},
@@ -20,8 +20,8 @@
   {"rank":11,"id":null,"name":"-","nameWithOwner":"Nasmadein56/-","url":"https://github.com/Nasmadein56/-","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-07-11T12:25:04Z","pushedAt":"2026-07-11T12:25:05Z","archived":false,"owner":{"login":"Nasmadein56","name":"Nasmadine","type":"User","url":"https://github.com/Nasmadein56","location":"Malakal","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":12,"id":null,"name":"Tailwind","nameWithOwner":"Niger123321/Tailwind","url":"https://github.com/Niger123321/Tailwind","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-09-01T19:59:44Z","pushedAt":"2025-09-01T20:12:52Z","archived":false,"owner":{"login":"Niger123321","name":"Ademir Mefibosete Costa Pinto","type":"User","url":"https://github.com/Niger123321","location":"sudão do sul","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "46c969ce064bd7c2",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "8961e8d42d6f46ac",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

@@ -345,122 +345,122 @@
 </tr>
 <tr>
 <td align="right">47</td>
-<td><a href="https://github.com/ibrahimsatria"><img src="https://avatars.githubusercontent.com/u/49900199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibrahimsatria"><b>Ibrahim Satria</b></a><br><sub>&#64;ibrahimsatria</sub></td>
-<td align="right"><b>4</b></td>
-<td align="right">19</td>
-<td><sub>Brunei Darussalam</sub></td>
-</tr>
-<tr>
-<td align="right">48</td>
 <td><a href="https://github.com/MuizzKasim"><img src="https://avatars.githubusercontent.com/u/125282326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MuizzKasim"><b>Muizz Kasim</b></a><br><sub>&#64;MuizzKasim</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">15</td>
 <td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">48</td>
 <td><a href="https://github.com/nhvayiris"><img src="https://avatars.githubusercontent.com/u/16811332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nhvayiris"><b>nhvayiris</b></a><br><sub>&#64;nhvayiris</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">12</td>
 <td><sub>Brunei</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">49</td>
 <td><a href="https://github.com/hfzizz"><img src="https://avatars.githubusercontent.com/u/110881644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hfzizz"><b>Hafiz Izzuddin</b></a><br><sub>&#64;hfzizz</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">10</td>
 <td><sub>Brunei</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">50</td>
 <td><a href="https://github.com/Amirulrosli"><img src="https://avatars.githubusercontent.com/u/60535207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Amirulrosli"><b>Amirlrosli</b></a><br><sub>&#64;Amirulrosli</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">9</td>
 <td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">51</td>
 <td><a href="https://github.com/KaramelBytes"><img src="https://avatars.githubusercontent.com/u/72232709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KaramelBytes"><b>Jeremiah Henning</b></a><br><sub>&#64;KaramelBytes</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">6</td>
 <td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">52</td>
 <td><a href="https://github.com/azmilhanif"><img src="https://avatars.githubusercontent.com/u/63489687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/azmilhanif"><b>Azmil Hanif Alirupendi</b></a><br><sub>&#64;azmilhanif</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">5</td>
 <td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">53</td>
 <td><a href="https://github.com/OmarDST"><img src="https://avatars.githubusercontent.com/u/177183447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OmarDST"><b>Omar Ibrahim</b></a><br><sub>&#64;OmarDST</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">5</td>
 <td><sub>Brunei</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">54</td>
 <td><a href="https://github.com/Ech026"><img src="https://avatars.githubusercontent.com/u/103437915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ech026"><b>Aqil Aizuddin</b></a><br><sub>&#64;Ech026</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">3</td>
 <td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">55</td>
 <td><a href="https://github.com/firdausazizi"><img src="https://avatars.githubusercontent.com/u/110838207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/firdausazizi"><b>Firdaus Azizi</b></a><br><sub>&#64;firdausazizi</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
 <td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">56</td>
 <td><a href="https://github.com/918Kissbrunei"><img src="https://avatars.githubusercontent.com/u/46568196?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/918Kissbrunei"><b>918Kiss Brunei</b></a><br><sub>&#64;918Kissbrunei</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">1</td>
 <td><sub>Brunei</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">57</td>
 <td><a href="https://github.com/Asumie"><img src="https://avatars.githubusercontent.com/u/31837412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Asumie"><b>Ali hussin</b></a><br><sub>&#64;Asumie</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">1</td>
 <td><sub>Brunei darussalam</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">58</td>
 <td><a href="https://github.com/fatinjulaihi"><img src="https://avatars.githubusercontent.com/u/129713829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fatinjulaihi"><b>Fatin Julaihi</b></a><br><sub>&#64;fatinjulaihi</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">1</td>
 <td><sub>Brunei</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">59</td>
 <td><a href="https://github.com/habibah-mahadi"><img src="https://avatars.githubusercontent.com/u/17230535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/habibah-mahadi"><b>Habibah Mahadi</b></a><br><sub>&#64;habibah-mahadi</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">1</td>
 <td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">60</td>
 <td><a href="https://github.com/hazimyussof"><img src="https://avatars.githubusercontent.com/u/56122446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hazimyussof"><b>Hazim Yussof</b></a><br><sub>&#64;hazimyussof</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">38</td>
 <td><sub>Brunei Darussalam, Bandar Seri Begawan.</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">61</td>
 <td><a href="https://github.com/wafeeyhm"><img src="https://avatars.githubusercontent.com/u/8189333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wafeeyhm"><b>Wafeey HM</b></a><br><sub>&#64;wafeeyhm</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">35</td>
 <td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">62</td>
 <td><a href="https://github.com/Izunyaaan"><img src="https://avatars.githubusercontent.com/u/79256352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Izunyaaan"><b>Faiz &#39;Izunyan&#39; Sufrikhan</b></a><br><sub>&#64;Izunyaaan</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">26</td>
 <td><sub>Somewhere in Brunei</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><a href="https://github.com/ibrahimsatria"><img src="https://avatars.githubusercontent.com/u/49900199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibrahimsatria"><b>Ibrahim Satria</b></a><br><sub>&#64;ibrahimsatria</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">19</td>
+<td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>
 <td align="right">64</td>

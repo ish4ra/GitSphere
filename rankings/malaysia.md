@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **73** | 24 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟡 Provisional | **77** | 24 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -192,15 +192,15 @@
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/drshahizan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/drshahizan/learn-github"><b>drshahizan/learn-github</b></a><br><sub>A step-by-step guide to getting started with Git and GitHub for beginners.</sub></td>
-<td align="right"><b>1,049</b></td>
+<td align="right"><b>1,050</b></td>
 <td align="right">693</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/RavinRau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RavinRau/Ebooks"><b>RavinRau/Ebooks</b></a><br><sub>A carefully curated collection of life-changing books focused on web technologies, cloud computing, business growth, an…</sub></td>
-<td align="right"><b>1,034</b></td>
-<td align="right">364</td>
+<td align="right"><b>1,048</b></td>
+<td align="right">368</td>
 <td>—</td>
 </tr>
 <tr>
@@ -532,6 +532,34 @@
 <td align="right">119</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/arinltte.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arinltte/latte"><b>arinltte/latte</b></a><br><sub>Just Download Anything.</sub></td>
+<td align="right"><b>366</b></td>
+<td align="right">25</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/boonsuen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/boonsuen/process-scheduling-solver"><b>boonsuen/process-scheduling-solver</b></a><br><sub>Generate gantt chart and calculate turnaround time and waiting time for various CPU scheduling algorithms.</sub></td>
+<td align="right"><b>358</b></td>
+<td align="right">62</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/huseinzol05.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/huseinzol05/Gather-Deployment"><b>huseinzol05/Gather-Deployment</b></a> <sub>archived</sub><br><sub>Gathers Python deployment, infrastructure and practices.</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">96</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/WaheedNazir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WaheedNazir/Kotlin-MVVM-Architecture"><b>WaheedNazir/Kotlin-MVVM-Architecture</b></a><br><sub>Android Architecture Design Patterns using Kotlin, MVVM, Hilt, LiveData, Room, MediatorLiveData, NetworkBoundResources,…</sub></td>
+<td align="right"><b>344</b></td>
+<td align="right">51</td>
+<td>Kotlin</td>
+</tr>
 </tbody>
 </table>
 
@@ -540,8 +568,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 384 stars; 73 attributed candidates are tracked.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 344 stars; 77 attributed candidates are tracked.
+- 109 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

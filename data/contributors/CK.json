@@ -5,7 +5,7 @@
 "country": {"code":"CK","name":"Cook Islands","slug":"cook-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":32,"measuredAccounts":25,"measurementBacklog":7,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":29,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":32,"measuredAccounts":29,"measurementBacklog":3,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":29,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCn07CA","login":"cacamelio","name":null,"url":"https://github.com/cacamelio","avatarUrl":"https://avatars.githubusercontent.com/u/175979272?s=80&v=4","followers":17,"publicRepos":32,"location":"Aitutaki, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":87,"commits":56,"pullRequests":7,"reviews":0,"issues":3,"repositories":21,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjI2NDYwOTAy","login":"niejiangnangithub","name":"JIANGNAN NIE","url":"https://github.com/niejiangnangithub","avatarUrl":"https://avatars.githubusercontent.com/u/26460902?s=80&v=4","followers":0,"publicRepos":28,"location":"88095 ,Fredrick Squares ,North Albertmouth ,Oklahoma ,Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":5,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"U_kgDOFSdAbw","login":"AMarkets12","name":"AMarkets","url":"https://github.com/AMarkets12","avatarUrl":"https://avatars.githubusercontent.com/u/354893935?s=80&v=4","followers":0,"publicRepos":0,"location":"T&F Chambers, Nikao, Avarua, Rarotonga, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-26T18:00:00Z","windowTo":"2026-11-26T18:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":9,"id":"U_kgDOCkoNLA","login":"ano-tisam","name":"Ano Tisam","url":"https://github.com/ano-tisam","avatarUrl":"https://avatars.githubusercontent.com/u/172625196?s=80&v=4","followers":0,"publicRepos":2,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}}
 ],
-"contentHash": "953e81aae60f26bf",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "a177dc45f39d1256",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

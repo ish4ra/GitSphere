@@ -60,7 +60,7 @@
 <td align="right">6</td>
 <td><a href="https://github.com/voghDev"><img src="https://avatars.githubusercontent.com/u/4963568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/voghDev"><b>Olmo Gallegos</b></a><br><sub>&#64;voghDev</sub></td>
 <td align="right"><b>136</b></td>
-<td align="right">0</td>
+<td align="right">55</td>
 <td><sub>Granada</sub></td>
 </tr>
 <tr>
@@ -340,7 +340,7 @@
 <td align="right">46</td>
 <td><a href="https://github.com/mmsacky"><img src="https://avatars.githubusercontent.com/u/25211089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmsacky"><b>Michael Msacky</b></a><br><sub>&#64;mmsacky</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><sub>Grenada, W.I</sub></td>
 </tr>
 <tr>

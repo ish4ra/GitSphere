@@ -354,7 +354,7 @@
 <td align="right">48</td>
 <td><a href="https://github.com/katof"><img src="https://avatars.githubusercontent.com/u/3865289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/katof"><b>katof</b></a><br><sub>&#64;katof</sub></td>
 <td align="right"><b>1</b></td>
-<td align="right">20</td>
+<td align="right">19</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>

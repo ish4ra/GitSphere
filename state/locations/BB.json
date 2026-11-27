@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-22T10:49:53.830Z",
 "terms": {"count":20,"fingerprint":"20:47951224"},
-"termIndex": 2,
+"termIndex": 5,
 "specIndex": 0,
 "active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":432},
-"updatedAt": "2026-11-24T21:29:12.660Z"
+"stats": {"requests":18,"pages":18,"accounts":432},
+"updatedAt": "2026-11-27T02:29:39.057Z"
 }

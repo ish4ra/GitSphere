@@ -142,23 +142,23 @@
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/muratyaman"><img src="https://avatars.githubusercontent.com/u/1333990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muratyaman"><b>Haci Murat Yaman</b></a><br><sub>&#64;muratyaman</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">105</td>
+<td><sub>Doha, Qatar</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/mhassanxglx"><img src="https://avatars.githubusercontent.com/u/321388482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhassanxglx"><b>Mohammed A.</b></a><br><sub>&#64;mhassanxglx</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">30</td>
 <td><sub>Doha, Qatar</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/thouseef-hamza"><img src="https://avatars.githubusercontent.com/u/119723781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thouseef-hamza"><b>Thouseef Hamza T P</b></a><br><sub>&#64;thouseef-hamza</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">67</td>
-<td><sub>Doha, Qatar</sub></td>
-</tr>
-<tr>
-<td align="right">20</td>
-<td><a href="https://github.com/muratyaman"><img src="https://avatars.githubusercontent.com/u/1333990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muratyaman"><b>Haci Murat Yaman</b></a><br><sub>&#64;muratyaman</sub></td>
-<td align="right"><b>106</b></td>
-<td align="right">105</td>
 <td><sub>Doha, Qatar</sub></td>
 </tr>
 <tr>
@@ -900,7 +900,7 @@
 <td align="right">126</td>
 <td><a href="https://github.com/qtrcipher"><img src="https://avatars.githubusercontent.com/u/19561096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qtrcipher"><b>Hamam AI</b></a><br><sub>&#64;qtrcipher</sub></td>
 <td align="right"><b>2</b></td>
-<td align="right">76</td>
+<td align="right">77</td>
 <td><sub>Qatar</sub></td>
 </tr>
 <tr>

@@ -5,7 +5,7 @@
 "country": {"code":"NA","name":"Namibia","slug":"namibia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":81,"ownerExpansionBacklog":138,"candidates":82,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":91,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":81,"ownerExpansionBacklog":135,"candidates":82,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":91,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk1NTczMzgyNg==","name":"ebook","nameWithOwner":"dolotech/ebook","url":"https://github.com/dolotech/ebook","description":"学习资料","stars":2096,"forks":743,"primaryLanguage":"Vim Script","license":null,"createdAt":"2016-04-07T23:03:04Z","pushedAt":"2021-12-02T03:11:16Z","archived":false,"owner":{"login":"dolotech","name":"photo","type":"User","url":"https://github.com/dolotech","location":"photo","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":null,"name":"elaka","nameWithOwner":"meyabase/elaka","url":"https://github.com/meyabase/elaka","description":null,"stars":1,"forks":2,"primaryLanguage":"Perl","license":{"spdxId":"Apache-2.0"},"createdAt":"2021-03-03T05:28:11Z","pushedAt":"2023-03-05T23:50:58Z","archived":false,"owner":{"login":"meyabase","name":"Meyabase","type":"Organization","url":"https://github.com/meyabase","location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -90,8 +90,8 @@
   {"rank":81,"id":null,"name":"ProgrammingInPractice","nameWithOwner":"LaMagician/ProgrammingInPractice","url":"https://github.com/LaMagician/ProgrammingInPractice","description":null,"stars":1,"forks":0,"primaryLanguage":"C","license":null,"createdAt":"2026-07-25T08:26:14Z","pushedAt":"2026-08-25T09:47:59Z","archived":false,"owner":{"login":"LaMagician","name":"Shapumba Festus","type":"User","url":"https://github.com/LaMagician","location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":82,"id":null,"name":"Bibuntu","nameWithOwner":"Leon2332/Bibuntu","url":"https://github.com/Leon2332/Bibuntu","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-08-03T19:14:55Z","pushedAt":"2026-08-04T21:27:51Z","archived":false,"owner":{"login":"Leon2332","name":"Leon","type":"User","url":"https://github.com/Leon2332","location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "65523f252eea76c9",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "730b2e155cf6c535",
+"updatedAt": "2026-11-27T02:53:26.992Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-27T02:53:26.992Z"
 }

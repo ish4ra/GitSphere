@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/NZ.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/NZ.json">JSON</a> |
 
 </div>
 
@@ -618,108 +618,108 @@
 </tr>
 <tr>
 <td align="right">86</td>
+<td><img src="https://github.com/artemnovitckii.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/artemnovitckii/claude-animation-skills"><b>artemnovitckii/claude-animation-skills</b></a><br><sub>Eleven Claude Code skills that make animations for reels, no footage needed: low-poly, Minecraft-style voxel, 3D cartoo…</sub></td>
+<td align="right"><b>1,343</b></td>
+<td align="right">191</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">87</td>
 <td><img src="https://github.com/liamcottle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liamcottle/reticulum-meshchat"><b>liamcottle/reticulum-meshchat</b></a><br><sub>A simple mesh network communications app powered by the Reticulum Network Stack.</sub></td>
 <td align="right"><b>1,338</b></td>
 <td align="right">177</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">87</td>
+<td align="right">88</td>
 <td><img src="https://github.com/BigBadaboom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BigBadaboom/androidsvg"><b>BigBadaboom/androidsvg</b></a><br><sub>SVG rendering library for Android</sub></td>
 <td align="right"><b>1,324</b></td>
 <td align="right">255</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">88</td>
+<td align="right">89</td>
 <td><img src="https://github.com/martynsmith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martynsmith/node-irc"><b>martynsmith/node-irc</b></a><br><sub>NodeJS IRC client library</sub></td>
 <td align="right"><b>1,319</b></td>
 <td align="right">416</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">89</td>
+<td align="right">90</td>
 <td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/scuttlebutt"><b>dominictarr/scuttlebutt</b></a><br><sub>peer-to-peer replicatable data structure</sub></td>
 <td align="right"><b>1,316</b></td>
 <td align="right">66</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">90</td>
+<td align="right">91</td>
 <td><img src="https://github.com/hadynz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hadynz/obsidian-kindle-plugin"><b>hadynz/obsidian-kindle-plugin</b></a><br><sub>Sync your Kindle notes and highlights directly into your Obsidian vault</sub></td>
 <td align="right"><b>1,303</b></td>
 <td align="right">100</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">92</td>
 <td><img src="https://github.com/sebastien.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sebastien/cuisine"><b>sebastien/cuisine</b></a><br><sub>Chef-like functionality for Fabric</sub></td>
 <td align="right"><b>1,264</b></td>
 <td align="right">157</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">93</td>
 <td><img src="https://github.com/jaedb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jaedb/Iris"><b>jaedb/Iris</b></a><br><sub>Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris i…</sub></td>
 <td align="right"><b>1,239</b></td>
 <td align="right">155</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">94</td>
 <td><img src="https://github.com/sl1pm4t.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sl1pm4t/k2tf"><b>sl1pm4t/k2tf</b></a><br><sub>Kubernetes YAML to Terraform HCL converter</sub></td>
 <td align="right"><b>1,231</b></td>
 <td align="right">107</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">94</td>
+<td align="right">95</td>
 <td><img src="https://github.com/aizhimou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aizhimou/pigeon-pod"><b>aizhimou/pigeon-pod</b></a><br><sub>Listen to YouTube &amp; Bilibili. Anywhere.</sub></td>
 <td align="right"><b>1,216</b></td>
 <td align="right">106</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">96</td>
 <td><img src="https://github.com/yo-WASSUP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yo-WASSUP/Good-Badminton"><b>yo-WASSUP/Good-Badminton</b></a><br><sub>🏸 AI Badminton Hawk-Eye System</sub></td>
 <td align="right"><b>1,194</b></td>
 <td align="right">310</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">96</td>
+<td align="right">97</td>
 <td><img src="https://github.com/wseagar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wseagar/eight-dollars"><b>wseagar/eight-dollars</b></a><br><sub>A browser extension that shows twitter blue vs real verified users</sub></td>
 <td align="right"><b>1,183</b></td>
 <td align="right">64</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">98</td>
 <td><img src="https://github.com/jeansfish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeansfish/RFC6749.zh-cn"><b>jeansfish/RFC6749.zh-cn</b></a><br><sub>A translation of simplified chinese for RFC 6749-The OAuth 2.0 Authorization Framework. RFC 6749 - OAuth 2.0授权框架简体中文翻译。</sub></td>
 <td align="right"><b>1,160</b></td>
 <td align="right">351</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">98</td>
+<td align="right">99</td>
 <td><img src="https://github.com/Arachnid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arachnid/solidity-stringutils"><b>Arachnid/solidity-stringutils</b></a><br><sub>Basic string utilities for Solidity</sub></td>
 <td align="right"><b>1,156</b></td>
 <td align="right">372</td>
 <td>Solidity</td>
 </tr>
 <tr>
-<td align="right">99</td>
+<td align="right">100</td>
 <td><img src="https://github.com/maknz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maknz/slack"><b>maknz/slack</b></a><br><sub>A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.</sub></td>
 <td align="right"><b>1,156</b></td>
 <td align="right">205</td>
 <td>PHP</td>
-</tr>
-<tr>
-<td align="right">100</td>
-<td><img src="https://github.com/artemnovitckii.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/artemnovitckii/claude-animation-skills"><b>artemnovitckii/claude-animation-skills</b></a><br><sub>Eleven Claude Code skills that make animations for reels, no footage needed: low-poly, Minecraft-style voxel, 3D cartoo…</sub></td>
-<td align="right"><b>1,146</b></td>
-<td align="right">164</td>
-<td>JavaScript</td>
 </tr>
 </tbody>
 </table>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,146 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1,156 stars; 150 attributed candidates are tracked.
 - 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

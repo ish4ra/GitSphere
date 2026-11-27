@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 24 Nov 2026 | <a href="../data/DO.json">JSON</a> |
+| 🟡 Provisional | **14** | 24 Nov 2026 | <a href="../data/DO.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/KevRojo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KevRojo/Dulus"><b>KevRojo/Dulus</b></a><br><sub>Dulus Ai — Agentic AI, 100% cache hit rate, Dulus is made to save you money &#91;Gui, Web, Cli, Telegram, 2,000 MCP, 100K S…</sub></td>
-<td align="right"><b>1,018</b></td>
+<td align="right"><b>1,105</b></td>
 <td align="right">14</td>
 <td>Python</td>
 </tr>
@@ -112,6 +112,13 @@
 <td align="right">29</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/sgermosen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sgermosen/xReader"><b>sgermosen/xReader</b></a><br><sub>XML, NEWS, RSS &amp; Scrapping Reader maked in Xamarin, for educational purpose.</sub></td>
+<td align="right"><b>356</b></td>
+<td align="right">256</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
@@ -120,8 +127,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 372 stars; 13 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 356 stars; 14 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

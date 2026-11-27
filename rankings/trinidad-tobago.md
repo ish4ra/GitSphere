@@ -68,7 +68,7 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/trinib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><b>trinib/AdGuard-WireGuard-Unbound-DNScrypt</b></a><br><sub>Linux ultimate self-hosted network security guide ║ Linux 终极自托管网络安全指南 ║ Guía definitiva de seguridad de red autohospeda…</sub></td>
-<td align="right"><b>907</b></td>
+<td align="right"><b>908</b></td>
 <td align="right">61</td>
 <td>YAML</td>
 </tr>
@@ -509,7 +509,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 68 attributed candidates are tracked.
 - 51 entries were carried over from the previous dataset and are pending revalidation.
-- 125 multi-repository owners are queued for expansion.
+- 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 46 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

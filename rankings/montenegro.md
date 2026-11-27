@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/ME.json">JSON</a> |
+| 🟡 Provisional | **12** | 24 Nov 2026 | <a href="../data/ME.json">JSON</a> |
 
 </div>
 
@@ -98,6 +98,13 @@
 <td align="right">124</td>
 <td>PHP</td>
 </tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/qf-studio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qf-studio/navigator"><b>qf-studio/navigator</b></a><br><sub>Finish What You Start — Context engineering for Claude Code. Sessions last 20+ exchanges instead of crashing at 7.</sub></td>
+<td align="right"><b>358</b></td>
+<td align="right">20</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -106,8 +113,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 443 stars; 11 attributed candidates are tracked.
-- 81 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 358 stars; 12 attributed candidates are tracked.
+- 75 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 44 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

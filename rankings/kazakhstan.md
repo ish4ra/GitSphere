@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **60** | 01 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
-
-> **Not yet re-verified.** 6 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **55** | 24 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
 
 </div>
 
@@ -138,8 +136,8 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/Marker284.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Marker284/yandex-station-extended"><b>Marker284/yandex-station-extended</b></a></td>
-<td align="right"><b>1,127</b></td>
-<td align="right">161</td>
+<td align="right"><b>1,153</b></td>
+<td align="right">162</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -152,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/henrypp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/henrypp/chrlauncher"><b>henrypp/chrlauncher</b></a><br><sub>Small and very fast portable launcher and updater for Chromium.</sub></td>
-<td align="right"><b>1,058</b></td>
+<td align="right"><b>1,061</b></td>
 <td align="right">88</td>
 <td>C</td>
 </tr>
@@ -166,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/QymIs-Tech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/QymIs-Tech/QymCAD"><b>QymIs-Tech/QymCAD</b></a><br><sub>Parametric 3D CAD with a real B-rep kernel (OpenCASCADE)</sub></td>
-<td align="right"><b>948</b></td>
+<td align="right"><b>947</b></td>
 <td align="right">73</td>
 <td>Rust</td>
 </tr>
@@ -403,45 +401,10 @@
 </tr>
 <tr>
 <td align="right">55</td>
-<td><img src="https://github.com/azamxvit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/azamxvit/cleankicks-crm-nextjs"><b>azamxvit/cleankicks-crm-nextjs</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">56</td>
-<td><img src="https://github.com/btc-kz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/btc-kz/BTC"><b>btc-kz/BTC</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">57</td>
-<td><img src="https://github.com/symbiotic-codes-official.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/symbiotic-codes-official/symbiotic-codes-official"><b>symbiotic-codes-official/symbiotic-codes-official</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">58</td>
-<td><img src="https://github.com/ZhasulanN10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZhasulanN10/tgbot-converterBTX"><b>ZhasulanN10/tgbot-converterBTX</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">59</td>
-<td><img src="https://github.com/aikair.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aikair/GB_lessons"><b>aikair/GB&#95;lessons</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">60</td>
-<td><img src="https://github.com/alashtikon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alashtikon/building-segmentation-model-with-yolo-geospatial-data"><b>alashtikon/building-segmentation-model-with-yolo-geospatial-data</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>SCSS</td>
+<td><img src="https://github.com/icerockdev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icerockdev/moko-kswift"><b>icerockdev/moko-kswift</b></a> <sub>archived</sub><br><sub>Swift-friendly api generator for Kotlin/Native frameworks</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">24</td>
+<td>Kotlin</td>
 </tr>
 </tbody>
 </table>
@@ -449,11 +412,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 60 attributed candidates are tracked.
-- 6 entries were carried over from the previous dataset and are pending revalidation.
-- 109 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 355 stars; 55 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

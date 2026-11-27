@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 24 Nov 2026 | <a href="../data/BW.json">JSON</a> |
+| 🟡 Provisional | **1** | 27 Nov 2026 | <a href="../data/BW.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/darula-hpp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darula-hpp/shimmer-from-structure"><b>darula-hpp/shimmer-from-structure</b></a><br><sub>A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern f…</sub></td>
-<td align="right"><b>1,136</b></td>
+<td align="right"><b>1,137</b></td>
 <td align="right">20</td>
 <td>TypeScript</td>
 </tr>
@@ -36,8 +36,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,136 stars; 1 attributed candidates are tracked.
-- 146 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 1,137 stars; 1 attributed candidates are tracked.
+- 143 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 118 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

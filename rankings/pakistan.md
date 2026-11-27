@@ -472,7 +472,7 @@
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/hash3liZer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hash3liZer/WiFiBroot"><b>hash3liZer/WiFiBroot</b></a><br><sub>A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures &amp; Crack 4-way handshake and PMKID key. Also, supports a deauthent…</sub></td>
-<td align="right"><b>1,139</b></td>
+<td align="right"><b>1,141</b></td>
 <td align="right">187</td>
 <td>Python</td>
 </tr>
@@ -492,23 +492,23 @@
 </tr>
 <tr>
 <td align="right">68</td>
+<td><img src="https://github.com/shanraisshan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shanraisshan/codex-cli-best-practice"><b>shanraisshan/codex-cli-best-practice</b></a><br><sub>from vibe coding to agentic engineering - practice makes codex perfect</sub></td>
+<td align="right"><b>1,034</b></td>
+<td align="right">68</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">69</td>
 <td><img src="https://github.com/Enclavely.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Enclavely/tailor"><b>Enclavely/tailor</b></a><br><sub>Build beautiful page layouts quickly and easily using your favourite WordPress theme.</sub></td>
 <td align="right"><b>1,032</b></td>
 <td align="right">98</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">69</td>
-<td><img src="https://github.com/shanraisshan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shanraisshan/codex-cli-best-practice"><b>shanraisshan/codex-cli-best-practice</b></a><br><sub>from vibe coding to agentic engineering - practice makes codex perfect</sub></td>
-<td align="right"><b>1,030</b></td>
-<td align="right">68</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">70</td>
 <td><img src="https://github.com/FareedKhan-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FareedKhan-dev/production-grade-agentic-system"><b>FareedKhan-dev/production-grade-agentic-system</b></a><br><sub>Core 7 layers of production grade agentic system</sub></td>
-<td align="right"><b>1,024</b></td>
-<td align="right">241</td>
+<td align="right"><b>1,025</b></td>
+<td align="right">240</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -521,42 +521,42 @@
 <tr>
 <td align="right">72</td>
 <td><img src="https://github.com/Rykode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Rykode/GodotHub"><b>Rykode/GodotHub</b></a><br><sub>What if Unity Hub and GitHub Desktop had a Baby but its Adopted? Yeah..</sub></td>
-<td align="right"><b>995</b></td>
+<td align="right"><b>1,001</b></td>
 <td align="right">44</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">73</td>
-<td><img src="https://github.com/evildevill.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evildevill/Devil"><b>evildevill/Devil</b></a><br><sub>Devil is a tool that is basically made for facebook to Hack target accounts , BruteForce Attack , grab friendlist accou…</sub></td>
-<td align="right"><b>986</b></td>
-<td align="right">140</td>
-<td>Python</td>
+<td><img src="https://github.com/meerilahi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meerilahi/Books-Collection"><b>meerilahi/Books-Collection</b></a><br><sub>This repository contains a collection of books I have downloaded related to &#42;&#42;Mathematics&#42;&#42;, &#42;&#42;Artificial Intelligence…</sub></td>
+<td align="right"><b>992</b></td>
+<td align="right">347</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">74</td>
-<td><img src="https://github.com/meerilahi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meerilahi/Books-Collection"><b>meerilahi/Books-Collection</b></a><br><sub>This repository contains a collection of books I have downloaded related to &#42;&#42;Mathematics&#42;&#42;, &#42;&#42;Artificial Intelligence…</sub></td>
-<td align="right"><b>966</b></td>
-<td align="right">340</td>
-<td>—</td>
+<td><img src="https://github.com/evildevill.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evildevill/Devil"><b>evildevill/Devil</b></a><br><sub>Devil is a tool that is basically made for facebook to Hack target accounts , BruteForce Attack , grab friendlist accou…</sub></td>
+<td align="right"><b>988</b></td>
+<td align="right">141</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/naqashafzal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/naqashafzal/AI-Content-Studio"><b>naqashafzal/AI-Content-Studio</b></a><br><sub>A 100% free &amp; open-source AI Content Automation Tool that writes scripts, generates voiceovers, creates videos, and upl…</sub></td>
-<td align="right"><b>964</b></td>
-<td align="right">234</td>
+<td align="right"><b>978</b></td>
+<td align="right">237</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/streetwriters.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/streetwriters/notesnook-sync-server"><b>streetwriters/notesnook-sync-server</b></a><br><sub>Sync server for Notesnook (self-hosting in alpha)</sub></td>
-<td align="right"><b>958</b></td>
-<td align="right">79</td>
+<td align="right"><b>959</b></td>
+<td align="right">80</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">77</td>
 <td><img src="https://github.com/hash3liZer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hash3liZer/SillyRAT"><b>hash3liZer/SillyRAT</b></a><br><sub>A Python based RAT 🐀 (Remote Access Trojan) for getting reverse shell 🖥️</sub></td>
-<td align="right"><b>944</b></td>
+<td align="right"><b>945</b></td>
 <td align="right">176</td>
 <td>Python</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 562 stars; 131 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 562 stars; 145 attributed candidates are tracked.
 - 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

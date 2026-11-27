@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **91** | 24 Nov 2026 | <a href="../data/IR.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/IR.json">JSON</a> |
 
 </div>
 
@@ -163,17 +163,17 @@
 </tr>
 <tr>
 <td align="right">21</td>
+<td><img src="https://github.com/0xRadikal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xRadikal/Free-v2ray-Configs"><b>0xRadikal/Free-v2ray-Configs</b></a><br><sub>🔒 Free V2Ray configs auto-updated every 15m &#124; VLESS, VMess, Trojan, Shadowsocks, Hysteria2, Reality &#124; subscription lin…</sub></td>
+<td align="right"><b>942</b></td>
+<td align="right">65</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">22</td>
 <td><img src="https://github.com/dotnetzoom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dotnetzoom/AspNetCore-WebApi-Course"><b>dotnetzoom/AspNetCore-WebApi-Course</b></a><br><sub>🥇 Professional REST API design with ASP.NET Core WebAPI</sub></td>
 <td align="right"><b>935</b></td>
 <td align="right">149</td>
 <td>C#</td>
-</tr>
-<tr>
-<td align="right">22</td>
-<td><img src="https://github.com/0xRadikal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xRadikal/Free-v2ray-Configs"><b>0xRadikal/Free-v2ray-Configs</b></a><br><sub>🔒 Free V2Ray configs auto-updated every 15m &#124; VLESS, VMess, Trojan, Shadowsocks, Hysteria2, Reality &#124; subscription lin…</sub></td>
-<td align="right"><b>928</b></td>
-<td align="right">65</td>
-<td>Python</td>
 </tr>
 <tr>
 <td align="right">23</td>
@@ -658,15 +658,78 @@
 <td align="right">84</td>
 <td>C#</td>
 </tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/VahidN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VahidN/EPPlus.Core"><b>VahidN/EPPlus.Core</b></a> <sub>archived</sub><br><sub>EPPlus.Core is an unofficial port of the EPPlus library to .NET Core</sub></td>
+<td align="right"><b>367</b></td>
+<td align="right">87</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/Mds92.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mds92/MD.BootstrapPersianDateTimePicker"><b>Mds92/MD.BootstrapPersianDateTimePicker</b></a><br><sub>Bootstrap Persian/Gregorian Date Time Picker</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">103</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/opiran-club.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/opiran-club/VPS-Optimizer"><b>opiran-club/VPS-Optimizer</b></a><br><sub>Linux Optimizer One-click bash script , swap maker and bbr tcp congestion control , xanmod kernel and bbrv3</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">95</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/IRNova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IRNova/Nova-Server"><b>IRNova/Nova-Server</b></a><br><sub>Self-hosted, censorship-resistant proxy server with an all-in-one admin panel for Xray-core, sing-box, Hysteria2, and A…</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">88</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/ehsan-mohammadi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ehsan-mohammadi/Aim-IK"><b>ehsan-mohammadi/Aim-IK</b></a><br><sub>A Unity package, to procedurally orientate the character&#39;s head (and spine) in a direction without using any animation…</sub></td>
+<td align="right"><b>360</b></td>
+<td align="right">30</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/kavaan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kavaan/awesome-clean-code-projects-across-languages-and-framework"><b>kavaan/awesome-clean-code-projects-across-languages-and-framework</b></a><br><sub>Explore a curated list of awesome clean code projects across various programming languages and frameworks. Perfect for…</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">70</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/vfarid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vfarid/cf-ip-scanner-py"><b>vfarid/cf-ip-scanner-py</b></a><br><sub>Cloudflare&#39;s IP Scanner in Python</sub></td>
+<td align="right"><b>356</b></td>
+<td align="right">72</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/ircfspace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ircfspace/teleMirror"><b>ircfspace/teleMirror</b></a><br><sub>A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Ir…</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">61</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/Hameds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hameds/IranCountryDivisions"><b>Hameds/IranCountryDivisions</b></a><br><sub>کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران تا پایان سال ۱۴۰۴</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">22</td>
+<td>TSQL</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 372 stars; 91 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 348 stars; 105 attributed candidates are tracked.
 - 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

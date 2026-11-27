@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/marsop"><img src="https://avatars.githubusercontent.com/u/1566219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marsop"><b>Alberto Gregorio</b></a><br><sub>&#64;marsop</sub></td>
-<td align="right"><b>21</b></td>
+<td align="right"><b>20</b></td>
 <td align="right">33</td>
 <td><sub>Ruggell, Liechtenstein</sub></td>
 </tr>
@@ -163,24 +163,24 @@
 </tr>
 <tr>
 <td align="right">21</td>
-<td><a href="https://github.com/niklasfrick"><img src="https://avatars.githubusercontent.com/u/19509178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/niklasfrick"><b>Niklas Frick</b></a><br><sub>&#64;niklasfrick</sub></td>
-<td align="right"><b>12</b></td>
-<td align="right">27</td>
-<td><sub>Liechtenstein</sub></td>
-</tr>
-<tr>
-<td align="right">22</td>
 <td><a href="https://github.com/oscardvs"><img src="https://avatars.githubusercontent.com/u/59517821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oscardvs"><b>Oscar Devos</b></a><br><sub>&#64;oscardvs</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">26</td>
 <td><sub>Liechtenstein</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">22</td>
 <td><a href="https://github.com/IncredibleAaron"><img src="https://avatars.githubusercontent.com/u/13446113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IncredibleAaron"><b>Aaron</b></a><br><sub>&#64;IncredibleAaron</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">36</td>
 <td><sub>Vaduz</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/niklasfrick"><img src="https://avatars.githubusercontent.com/u/19509178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/niklasfrick"><b>Niklas Frick</b></a><br><sub>&#64;niklasfrick</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">27</td>
+<td><sub>Liechtenstein</sub></td>
 </tr>
 <tr>
 <td align="right">24</td>
