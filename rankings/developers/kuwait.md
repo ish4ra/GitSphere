@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/hashemi"><img src="https://avatars.githubusercontent.com/u/5494?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hashemi"><b>Ahmad Alhashemi</b></a><br><sub>&#64;hashemi</sub></td>
-<td align="right"><b>110</b></td>
+<td align="right"><b>109</b></td>
 <td align="right">57</td>
 <td><sub>Kuwait</sub></td>
 </tr>

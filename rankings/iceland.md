@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **53** | 24 Nov 2026 | <a href="../data/IS.json">JSON</a> |
+| 🟡 Provisional | **59** | 24 Nov 2026 | <a href="../data/IS.json">JSON</a> |
 
 </div>
 
@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/birkir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/birkir/react-native-carplay"><b>birkir/react-native-carplay</b></a><br><sub>CarPlay with React Native</sub></td>
-<td align="right"><b>812</b></td>
+<td align="right"><b>813</b></td>
 <td align="right">133</td>
 <td>TypeScript</td>
 </tr>
@@ -392,6 +392,48 @@
 <td align="right">23</td>
 <td>Clojure</td>
 </tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/phunterlau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/phunterlau/wangfeng-rnn"><b>phunterlau/wangfeng-rnn</b></a><br><sub>Multi-layer RNN building Wang Feng style lyric</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">81</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/opinkerfi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/opinkerfi/adagios"><b>opinkerfi/adagios</b></a><br><sub>Adagios - Web Based Nagios Configuration</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">73</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/swlkr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/swlkr/ryde"><b>swlkr/ryde</b></a><br><sub>ryde is a single person, single file web framework for rust</sub></td>
+<td align="right"><b>325</b></td>
+<td align="right">8</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/l1angmedia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/l1angmedia/lumion-pro"><b>l1angmedia/lumion-pro</b></a><br><sub>Lumion Pro for Windows 10/11. Renders architectural scenes into photorealistic images and animations, letting architect…</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/amina-singh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amina-singh/freeoffice"><b>amina-singh/freeoffice</b></a><br><sub>Freeoffice for Windows 10/11. Creates and edits documents, spreadsheets and presentations, opening and saving Microsoft…</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/LLaMafia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LLaMafia/llamafia.github"><b>LLaMafia/llamafia.github</b></a></td>
+<td align="right"><b>317</b></td>
+<td align="right">14</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -400,8 +442,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 360 stars; 53 attributed candidates are tracked.
-- 84 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 317 stars; 59 attributed candidates are tracked.
+- 74 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 24 Nov 2026 | <a href="../data/ET.json">JSON</a> |
+| 🟡 Provisional | **14** | 24 Nov 2026 | <a href="../data/ET.json">JSON</a> |
 
 </div>
 
@@ -84,6 +84,41 @@
 <td align="right">144</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/liangarslan80.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liangarslan80/macrium-reflect-free"><b>liangarslan80/macrium-reflect-free</b></a><br><sub>Macrium Reflect Free for Windows 10/11. Clones entire disks and creates full system images you can restore after a cras…</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/Naledi-do.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Naledi-do/arnold-standalone"><b>Naledi-do/arnold-standalone</b></a><br><sub>Arnold Standalone for Windows 10/11. Renders production-quality 3D scenes and animations using the Arnold ray-tracing e…</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/elifbhatia2005.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elifbhatia2005/asana-desktop"><b>elifbhatia2005/asana-desktop</b></a><br><sub>Asana Desktop for Windows 10/11. Organizes team tasks and projects on a shared board, tracks deadlines, assigns work an…</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/Ludmila-vega.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ludmila-vega/gimp"><b>Ludmila-vega/gimp</b></a><br><sub>Gimp for Windows 10/11. Edits photos and images, retouches blemishes, creates layered graphics and exports finished des…</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/greydeeplogic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/greydeeplogic/unigine-heaven"><b>greydeeplogic/unigine-heaven</b></a><br><sub>Unigine Heaven for Windows 10/11. Renders a looping 3D fantasy village benchmark scene and reports a detailed score, le…</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -92,8 +127,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 375 stars; 9 attributed candidates are tracked.
-- 128 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 319 stars; 14 attributed candidates are tracked.
+- 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

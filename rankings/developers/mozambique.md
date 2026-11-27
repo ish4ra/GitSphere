@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/isaiasnhantumbo"><img src="https://avatars.githubusercontent.com/u/71522302?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/isaiasnhantumbo"><b>Isaias Nhantumbo Junior</b></a><br><sub>&#64;isaiasnhantumbo</sub></td>
-<td align="right"><b>88</b></td>
+<td align="right"><b>89</b></td>
 <td align="right">89</td>
 <td><sub>Mozambique, Maputo</sub></td>
 </tr>

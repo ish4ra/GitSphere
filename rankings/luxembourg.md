@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **41** | 24 Nov 2026 | <a href="../data/LU.json">JSON</a> |
+| 🟡 Provisional | **50** | 24 Nov 2026 | <a href="../data/LU.json">JSON</a> |
 
 </div>
 
@@ -308,6 +308,69 @@
 <td align="right">15</td>
 <td>CSS</td>
 </tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/hgourvest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hgourvest/superobject"><b>hgourvest/superobject</b></a> <sub>archived</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">169</td>
+<td>Pascal</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/ywelsch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ywelsch/duckdb-prql"><b>ywelsch/duckdb-prql</b></a><br><sub>PRQL as a DuckDB extension</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">10</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/snt-arg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/snt-arg/lidar_situational_graphs"><b>snt-arg/lidar&#95;situational&#95;graphs</b></a><br><sub>Repository to generate in real-time Situational Graphs (S-Graphs) for robot pose and map optimization using 3D LiDAR Da…</sub></td>
+<td align="right"><b>331</b></td>
+<td align="right">35</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/tinesoft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tinesoft/nxrocks"><b>tinesoft/nxrocks</b></a><br><sub>Set of Nx plugins to enhance your Nx workspace (even more!)</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">34</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/jyotikuznetsov1452.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jyotikuznetsov1452/furmark"><b>jyotikuznetsov1452/furmark</b></a><br><sub>Furmark for Windows 10/11. Runs graphics card stress tests and GPU benchmarks, pushing your hardware to its limits to c…</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/leafrocksnow85.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leafrocksnow85/resemble-ai"><b>leafrocksnow85/resemble-ai</b></a><br><sub>Resemble Ai for Windows 10/11. Generates realistic synthetic speech from text and clones voices using short audio sampl…</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/KoStard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE"><b>KoStard/ESP32S3-USB-Keyboard-To-BLE</b></a><br><sub>Add BLE to your USB Keyboard</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">45</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/brittanyworks40.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brittanyworks40/lightwave-3d"><b>brittanyworks40/lightwave-3d</b></a><br><sub>Lightwave 3D for Windows 10/11. Builds 3D models, animates characters and renders scenes for film, broadcast and game a…</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/logicworksdata.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/logicworksdata/chaos-vantage"><b>logicworksdata/chaos-vantage</b></a><br><sub>Chaos Vantage for Windows 10/11. Renders V-Ray scenes in real time, letting architects and designers explore 3D models…</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -316,8 +379,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 353 stars; 41 attributed candidates are tracked.
-- 100 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 317 stars; 50 attributed candidates are tracked.
+- 95 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

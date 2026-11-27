@@ -5,7 +5,7 @@
 "country": {"code":"BO","name":"Bolivia","slug":"bolivia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":424,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":124,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":125,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":424,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":125,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOGr3TSA","name":"sol","nameWithOwner":"ospfranco/sol","url":"https://github.com/ospfranco/sol","description":"MacOS launcher & command palette","stars":3226,"forks":199,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-01-16T19:08:40Z","pushedAt":"2026-11-24T13:47:49Z","archived":false,"owner":{"login":"ospfranco","name":"Oscar Franco","type":"User","url":"https://github.com/ospfranco","location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyODYzMjgxODY=","name":"qobuz-dl","nameWithOwner":"vitiko98/qobuz-dl","url":"https://github.com/vitiko98/qobuz-dl","description":"A complete Lossless and Hi-Res music downloader for Qobuz","stars":2422,"forks":319,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2020-08-09T22:39:40Z","pushedAt":"2025-07-19T03:04:07Z","archived":false,"owner":{"login":"vitiko98","name":"Vitiko","type":"User","url":"https://github.com/vitiko98","location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"MDEwOlJlcG9zaXRvcnkzNDE2MzYwOTQ=","name":"react-native-quick-sqlite","nameWithOwner":"ospfranco/react-native-quick-sqlite","url":"https://github.com/ospfranco/react-native-quick-sqlite","description":"Fast SQLite for react-native.","stars":475,"forks":37,"primaryLanguage":null,"license":null,"createdAt":"2021-02-23T17:33:49Z","pushedAt":"2024-01-05T08:41:52Z","archived":false,"owner":{"login":"ospfranco","name":"Oscar Franco","type":"User","url":"https://github.com/ospfranco","location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":8,"id":"R_kgDORhKbbA","name":"MCP-Packet-Tracer","nameWithOwner":"Mats2208/MCP-Packet-Tracer","url":"https://github.com/Mats2208/MCP-Packet-Tracer","description":"AI-powered Cisco Packet Tracer automation over MCP. Describe a network in natural language and it generates, validates and deploys full topologies (OSPF, EIGRP…","stars":424,"forks":33,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-03-08T00:28:57Z","pushedAt":"2026-11-11T22:14:56Z","archived":false,"owner":{"login":"Mats2208","name":"Mateo Andres Soto Gareca","type":"User","url":"https://github.com/Mats2208","location":"Santa Cruz, Bolivia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "8dab06bdef581322",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "d36f9f90a6edd04a",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

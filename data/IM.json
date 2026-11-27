@@ -5,7 +5,7 @@
 "country": {"code":"IM","name":"Isle of Man","slug":"isle-of-man"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":44,"ownerExpansionBacklog":130,"candidates":49,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":39,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":44,"ownerExpansionBacklog":125,"candidates":49,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":39,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk0OTAwOTk1MA==","name":"HowToBeAProgrammer","nameWithOwner":"braydie/HowToBeAProgrammer","url":"https://github.com/braydie/HowToBeAProgrammer","description":"A guide on how to be a Programmer - originally published by Robert L Read","stars":16322,"forks":1349,"primaryLanguage":null,"license":null,"createdAt":"2016-01-04T16:47:54Z","pushedAt":"2025-09-28T17:08:19Z","archived":false,"owner":{"login":"braydie","name":"Braydie Grove","type":"User","url":"https://github.com/braydie","location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyNzIxNzYx","name":"autosize","nameWithOwner":"jackmoore/autosize","url":"https://github.com/jackmoore/autosize","description":"Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.","stars":5079,"forks":689,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2011-11-06T19:21:21Z","pushedAt":"2023-02-15T07:30:24Z","archived":true,"owner":{"login":"jackmoore","name":"Jack Moore","type":"User","url":"https://github.com/jackmoore","location":"Florida, man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
@@ -57,8 +57,8 @@
   {"rank":48,"id":null,"name":"TuneDB","nameWithOwner":"danninagh/TuneDB","url":"https://github.com/danninagh/TuneDB","description":null,"stars":0,"forks":0,"primaryLanguage":"Blade","license":null,"createdAt":"2026-04-08T16:33:16Z","pushedAt":"2026-04-08T23:26:21Z","archived":false,"owner":{"login":"danninagh","name":"Daniel Quayle","type":"User","url":"https://github.com/danninagh","location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":49,"id":null,"name":"skills-secure-code-game","nameWithOwner":"dannmat/skills-secure-code-game","url":"https://github.com/dannmat/skills-secure-code-game","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2024-08-16T15:49:56Z","pushedAt":"2025-12-01T12:22:00Z","archived":false,"owner":{"login":"dannmat","name":"Matt Ward","type":"User","url":"https://github.com/dannmat","location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "91b50a26ea1caf0c",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "f3ad25dc2fe7e400",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

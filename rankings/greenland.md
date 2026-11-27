@@ -33,16 +33,16 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/Naxela.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Naxela/The_Lightmapper"><b>Naxela/The&#95;Lightmapper</b></a><br><sub>Fast and easy baked GI Lightmaps for Blender and Cycles</sub></td>
-<td align="right"><b>823</b></td>
+<td align="right"><b>824</b></td>
 <td align="right">67</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/MicroPythonOS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MicroPythonOS/MicroPythonOS"><b>MicroPythonOS/MicroPythonOS</b></a><br><sub>A complete operating system for microcontrollers like the ESP32, inspired by Android and iOS.</sub></td>
-<td align="right"><b>788</b></td>
+<td align="right"><b>790</b></td>
 <td align="right">102</td>
-<td>Python</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">4</td>
@@ -600,7 +600,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 81 attributed candidates are tracked.
 - 78 entries were carried over from the previous dataset and are pending revalidation.
-- 115 multi-repository owners are queued for expansion.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 4 of 36 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

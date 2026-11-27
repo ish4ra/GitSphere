@@ -5,7 +5,7 @@
 "country": {"code":"BN","name":"Brunei","slug":"brunei"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":84,"ownerExpansionBacklog":143,"candidates":84,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":47,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":84,"ownerExpansionBacklog":140,"candidates":84,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":47,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"BozaWebsite","nameWithOwner":"19FTT1068/BozaWebsite","url":"https://github.com/19FTT1068/BozaWebsite","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2022-04-11T12:08:20Z","pushedAt":"2022-04-14T15:05:31Z","archived":false,"owner":{"login":"19FTT1068","name":"Amir Sabrin","type":"User","url":"https://github.com/19FTT1068","location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"SOP-AS4-Assignment-4","nameWithOwner":"21ftt1242/SOP-AS4-Assignment-4","url":"https://github.com/21ftt1242/SOP-AS4-Assignment-4","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2023-10-29T14:02:29Z","pushedAt":"2023-11-09T12:55:21Z","archived":false,"owner":{"login":"21ftt1242","name":"Muhammad Ghazali @ Mu'az Bin Haji Haripin","type":"User","url":"https://github.com/21ftt1242","location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -92,8 +92,8 @@
   {"rank":83,"id":null,"name":"ilec","nameWithOwner":"ilecfrombrunei/ilec","url":"https://github.com/ilecfrombrunei/ilec","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-07-23T13:41:57Z","pushedAt":"2026-07-31T05:27:04Z","archived":false,"owner":{"login":"ilecfrombrunei","name":"i.lec","type":"User","url":"https://github.com/ilecfrombrunei","location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":84,"id":null,"name":"ruby-on-rails-blog","nameWithOwner":"indigotvskf/ruby-on-rails-blog","url":"https://github.com/indigotvskf/ruby-on-rails-blog","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-13T17:05:40Z","pushedAt":"2026-09-13T17:05:41Z","archived":false,"owner":{"login":"indigotvskf","name":"Eamon Navarro","type":"User","url":"https://github.com/indigotvskf","location":"Bandar Seri Begawan, Brunei","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "f868fe5eef9a802f",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "ae2c78e6be23e078",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

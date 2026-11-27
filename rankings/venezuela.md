@@ -61,7 +61,7 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/marsidev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marsidev/react-turnstile"><b>marsidev/react-turnstile</b></a><br><sub>Cloudflare Turnstile integration for React.</sub></td>
-<td align="right"><b>872</b></td>
+<td align="right"><b>874</b></td>
 <td align="right">47</td>
 <td>TypeScript</td>
 </tr>
@@ -733,7 +733,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 107 attributed candidates are tracked.
 - 86 entries were carried over from the previous dataset and are pending revalidation.
-- 122 multi-repository owners are queued for expansion.
+- 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 127 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

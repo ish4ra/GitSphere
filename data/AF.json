@@ -5,7 +5,7 @@
 "country": {"code":"AF","name":"Afghanistan","slug":"afghanistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":341,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":133,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":341,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":130,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOR558jA","name":"olcrtc","nameWithOwner":"openlibrecommunity/olcrtc","url":"https://github.com/openlibrecommunity/olcrtc","description":"using meet services to access web","stars":2012,"forks":183,"primaryLanguage":"Go","license":{"spdxId":"WTFPL"},"createdAt":"2026-04-04T21:18:39Z","pushedAt":"2026-09-30T09:38:34Z","archived":true,"owner":{"login":"openlibrecommunity","name":"openlibrecommunity","type":"Organization","url":"https://github.com/openlibrecommunity","location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzNDY2NDE1NDM=","name":"meteor-rejects","nameWithOwner":"AntiCope/meteor-rejects","url":"https://github.com/AntiCope/meteor-rejects","description":"An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.","stars":694,"forks":224,"primaryLanguage":"Java","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-03-11T09:08:21Z","pushedAt":"2026-03-26T14:01:48Z","archived":false,"owner":{"login":"AntiCope","name":"Anti Cope","type":"Organization","url":"https://github.com/AntiCope","location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
@@ -19,8 +19,8 @@
   {"rank":10,"id":"MDEwOlJlcG9zaXRvcnkyMTM3MTAyOTg=","name":"Flutter-Shoes-Shop-App","nameWithOwner":"afgprogrammer/Flutter-Shoes-Shop-App","url":"https://github.com/afgprogrammer/Flutter-Shoes-Shop-App","description":"Flutter Shoes Shop Application Design and Animation - day 15","stars":345,"forks":66,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2019-10-08T17:39:43Z","pushedAt":"2023-10-22T10:35:38Z","archived":false,"owner":{"login":"afgprogrammer","name":"Mohammad Rahmani","type":"User","url":"https://github.com/afgprogrammer","location":"Kabul, Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
   {"rank":11,"id":"MDEwOlJlcG9zaXRvcnkyMTI2NDI0OTk=","name":"Flutter-Splash-Screen-Animation","nameWithOwner":"afgprogrammer/Flutter-Splash-Screen-Animation","url":"https://github.com/afgprogrammer/Flutter-Splash-Screen-Animation","description":"Flutter Splash Screen design and Animation - day 8","stars":341,"forks":60,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2019-10-03T17:48:35Z","pushedAt":"2023-08-02T18:52:02Z","archived":false,"owner":{"login":"afgprogrammer","name":"Mohammad Rahmani","type":"User","url":"https://github.com/afgprogrammer","location":"Kabul, Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "29663ae8c11dd4c8",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "65d7cf07a45bf874",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

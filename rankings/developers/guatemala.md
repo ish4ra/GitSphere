@@ -121,16 +121,16 @@
 </tr>
 <tr>
 <td align="right">15</td>
-<td><a href="https://github.com/brandonT2002"><img src="https://avatars.githubusercontent.com/u/98117886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brandonT2002"><b>Brandon Tejaxún</b></a><br><sub>&#64;brandonT2002</sub></td>
-<td align="right"><b>122</b></td>
-<td align="right">56</td>
+<td><a href="https://github.com/luislopez-dev"><img src="https://avatars.githubusercontent.com/u/48783255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luislopez-dev"><b>Luis René López</b></a><br><sub>&#64;luislopez-dev</sub></td>
+<td align="right"><b>121</b></td>
+<td align="right">16</td>
 <td><sub>Guatemala</sub></td>
 </tr>
 <tr>
 <td align="right">16</td>
-<td><a href="https://github.com/luislopez-dev"><img src="https://avatars.githubusercontent.com/u/48783255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luislopez-dev"><b>Luis René López</b></a><br><sub>&#64;luislopez-dev</sub></td>
-<td align="right"><b>121</b></td>
-<td align="right">15</td>
+<td><a href="https://github.com/brandonT2002"><img src="https://avatars.githubusercontent.com/u/98117886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brandonT2002"><b>Brandon Tejaxún</b></a><br><sub>&#64;brandonT2002</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">56</td>
 <td><sub>Guatemala</sub></td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/MigueMat4"><img src="https://avatars.githubusercontent.com/u/15038011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MigueMat4"><b>Miguel Matul</b></a><br><sub>&#64;MigueMat4</sub></td>
-<td align="right"><b>96</b></td>
+<td align="right"><b>95</b></td>
 <td align="right">56</td>
 <td><sub>Quetzaltenango, Guatemala</sub></td>
 </tr>
@@ -290,7 +290,7 @@
 <tr>
 <td align="right">39</td>
 <td><a href="https://github.com/jorgeAML"><img src="https://avatars.githubusercontent.com/u/20332148?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorgeAML"><b>Jorge aml</b></a><br><sub>&#64;jorgeAML</sub></td>
-<td align="right"><b>70</b></td>
+<td align="right"><b>69</b></td>
 <td align="right">53</td>
 <td><sub>Guatemala</sub></td>
 </tr>

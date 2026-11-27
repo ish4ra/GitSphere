@@ -6,9 +6,9 @@
 "terms": {"count":112,"fingerprint":"112:d2dbd9f9"},
 "termIndex": 2,
 "specIndex": 0,
-"active": {"term":"DRC","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjE1MA==","page":4,"retrieved":150,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-25T04:27:44.918Z","stats":{"pages":3}},
+"active": {"term":"DRC","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjQ1MA==","page":10,"retrieved":450,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-25T04:27:44.918Z","stats":{"pages":9}},
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":471},
+"stats": {"requests":18,"pages":18,"accounts":771},
 "updatedAt": "2026-11-25T04:27:44.918Z"
 }

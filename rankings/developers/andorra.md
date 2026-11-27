@@ -263,7 +263,7 @@
 <td align="right">35</td>
 <td><a href="https://github.com/kopenkinda"><img src="https://avatars.githubusercontent.com/u/32075406?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kopenkinda"><b>Kopenkin Dmitrii</b></a><br><sub>&#64;kopenkinda</sub></td>
 <td align="right"><b>28</b></td>
-<td align="right">46</td>
+<td align="right">48</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
@@ -401,17 +401,17 @@
 </tr>
 <tr>
 <td align="right">55</td>
-<td><a href="https://github.com/joor0x"><img src="https://avatars.githubusercontent.com/u/95317818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joor0x"><b>Josep Oriol Carné</b></a><br><sub>&#64;joor0x</sub></td>
-<td align="right"><b>18</b></td>
-<td align="right">48</td>
-<td><sub>Andorra</sub></td>
-</tr>
-<tr>
-<td align="right">56</td>
 <td><a href="https://github.com/ghawthorne66"><img src="https://avatars.githubusercontent.com/u/39036309?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghawthorne66"><b>Greg Hawthorne</b></a><br><sub>&#64;ghawthorne66</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">187</td>
 <td><sub>Andorra la Vella, AD</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/joor0x"><img src="https://avatars.githubusercontent.com/u/95317818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joor0x"><b>Josep Oriol Carné</b></a><br><sub>&#64;joor0x</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">50</td>
+<td><sub>Andorra</sub></td>
 </tr>
 <tr>
 <td align="right">57</td>

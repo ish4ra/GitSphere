@@ -5,7 +5,7 @@
 "country": {"code":"GI","name":"Gibraltar","slug":"gibraltar"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":85,"ownerExpansionBacklog":136,"candidates":92,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":14,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":85,"ownerExpansionBacklog":131,"candidates":92,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":14,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk4NTYzNDE0NA==","name":"smart-contracts","nameWithOwner":"TokenMarketNet/smart-contracts","url":"https://github.com/TokenMarketNet/smart-contracts","description":"Ethereum smart contracts for security and utility tokens","stars":1320,"forks":555,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-03-20T22:36:58Z","pushedAt":"2022-12-08T00:41:24Z","archived":false,"owner":{"login":"TokenMarketNet","name":"TokenMarket","type":"Organization","url":"https://github.com/TokenMarketNet","location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMDA2MDkxMDM=","name":"MultiSigWallet","nameWithOwner":"gnosis/MultiSigWallet","url":"https://github.com/gnosis/MultiSigWallet","description":"Allows multiple parties to agree on transactions before execution.","stars":1098,"forks":752,"primaryLanguage":"JavaScript","license":{"spdxId":"LGPL-3.0"},"createdAt":"2017-08-17T13:56:11Z","pushedAt":"2021-08-24T15:56:50Z","archived":true,"owner":{"login":"gnosis","name":"Gnosis","type":"Organization","url":"https://github.com/gnosis","location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
@@ -100,8 +100,8 @@
   {"rank":91,"id":null,"name":"flaskr-tdd","nameWithOwner":"seanfestival/flaskr-tdd","url":"https://github.com/seanfestival/flaskr-tdd","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2014-09-30T21:15:37Z","pushedAt":"2014-09-30T21:43:01Z","archived":false,"owner":{"login":"seanfestival","name":"Sean Knowles","type":"User","url":"https://github.com/seanfestival","location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true},
   {"rank":92,"id":null,"name":"repo-search","nameWithOwner":"seedt/repo-search","url":"https://github.com/seedt/repo-search","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2022-11-16T15:51:50Z","pushedAt":"2022-11-28T12:42:09Z","archived":false,"owner":{"login":"seedt","name":"Tim Seed","type":"User","url":"https://github.com/seedt","location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true}
 ],
-"contentHash": "7998a284e7ae5284",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "d4f757f1045e687c",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-10-29",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

@@ -26,7 +26,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/AhmedSaadi0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedSaadi0/NibrasShell"><b>AhmedSaadi0/NibrasShell</b></a><br><sub>AI‑integrated shell.</sub></td>
-<td align="right"><b>780</b></td>
+<td align="right"><b>781</b></td>
 <td align="right">42</td>
 <td>QML</td>
 </tr>
@@ -152,7 +152,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 17 attributed candidates are tracked.
 - 16 entries were carried over from the previous dataset and are pending revalidation.
-- 126 multi-repository owners are queued for expansion.
+- 124 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 131 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -429,43 +429,43 @@
 </tr>
 <tr>
 <td align="right">59</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/pear"><b>mit-han-lab/pear</b></a><br><sub>Training Reasoning Models in Simulation to Natively Use Real Robots</sub></td>
+<td align="right"><b>920</b></td>
+<td align="right">63</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">60</td>
 <td><img src="https://github.com/abdullahtarek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdullahtarek/tennis_analysis"><b>abdullahtarek/tennis&#95;analysis</b></a><br><sub>This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This proje…</sub></td>
 <td align="right"><b>913</b></td>
 <td align="right">281</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">61</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/omniserve"><b>mit-han-lab/omniserve</b></a><br><sub>&#91;MLSys&#39;25&#93; QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving; &#91;MLSys&#39;25&#93; LServe: Efficient Lo…</sub></td>
 <td align="right"><b>868</b></td>
 <td align="right">75</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">61</td>
-<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/pear"><b>mit-han-lab/pear</b></a><br><sub>Training Reasoning Models in Simulation to Natively Use Real Robots</sub></td>
-<td align="right"><b>840</b></td>
-<td align="right">55</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">62</td>
 <td><img src="https://github.com/ctf0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ctf0/Laravel-Media-Manager"><b>ctf0/Laravel-Media-Manager</b></a> <sub>archived</sub><br><sub>A &quot;Vuejs &amp; Laravel&quot; Media Manager With Tons of Features</sub></td>
 <td align="right"><b>837</b></td>
-<td align="right">180</td>
+<td align="right">179</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/EslaMx7.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EslaMx7/PasteIntoFile"><b>EslaMx7/PasteIntoFile</b></a><br><sub>Paste Clipboard Contents Into Files Directly (New Version Released 🔥)</sub></td>
-<td align="right"><b>821</b></td>
+<td align="right"><b>822</b></td>
 <td align="right">61</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/CATReloaded.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps"><b>CATReloaded/CATReloaded-Circles-Roadmaps</b></a><br><sub>Roadmaps for CAT Reloaded across seasons and years.</sub></td>
-<td align="right"><b>809</b></td>
+<td align="right"><b>808</b></td>
 <td align="right">75</td>
 <td>—</td>
 </tr>
@@ -493,8 +493,8 @@
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/bakrianoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bakrianoo/mini-rag"><b>bakrianoo/mini-rag</b></a><br><sub>An Educational Project (step by step) to teach how to build a production-ready app for RAG application.</sub></td>
-<td align="right"><b>766</b></td>
-<td align="right">350</td>
+<td align="right"><b>768</b></td>
+<td align="right">352</td>
 <td>Python</td>
 </tr>
 <tr>

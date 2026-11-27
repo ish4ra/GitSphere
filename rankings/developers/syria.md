@@ -164,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/Eng-Hasan-Hajjar"><img src="https://avatars.githubusercontent.com/u/110938732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eng-Hasan-Hajjar"><b>Eng Hasan Hajjar</b></a><br><sub>&#64;Eng-Hasan-Hajjar</sub></td>
-<td align="right"><b>124</b></td>
+<td align="right"><b>123</b></td>
 <td align="right">162</td>
 <td><sub>Aleppo - Syria</sub></td>
 </tr>

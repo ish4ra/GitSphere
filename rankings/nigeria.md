@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **74** | 02 Nov 2026 | <a href="../data/NG.json">JSON</a> |
-
-> **Not yet re-verified.** 19 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **59** | 24 Nov 2026 | <a href="../data/NG.json">JSON</a> |
 
 </div>
 
@@ -410,134 +408,29 @@
 </tr>
 <tr>
 <td align="right">56</td>
-<td><img src="https://github.com/airmarshal1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/airmarshal1/Stock-Management-Inventory"><b>airmarshal1/Stock-Management-Inventory</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>C#</td>
+<td><img src="https://github.com/nkowaokwu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nkowaokwu/igbo_api"><b>nkowaokwu/igbo&#95;api</b></a><br><sub>An API exposing Igbo words, definitions, and more</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">144</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">57</td>
-<td><img src="https://github.com/Abufadeelat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abufadeelat/Abufadeelat"><b>Abufadeelat/Abufadeelat</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/xt42io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xt42io/pathwatch"><b>xt42io/pathwatch</b></a><br><sub>API observability from the future.</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">32</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">58</td>
-<td><img src="https://github.com/abuihsan-hub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abuihsan-hub/birgu-security-reporting-system"><b>abuihsan-hub/birgu-security-reporting-system</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/Temidtech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Temidtech/Flutter-Cheat-Sheet"><b>Temidtech/Flutter-Cheat-Sheet</b></a><br><sub>You need to get started quickly with Flutter? Here are some cheats that will help you build your next billion dollar ap…</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">81</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">59</td>
-<td><img src="https://github.com/adnan-abdullahi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adnan-abdullahi/adnan-abdullahi"><b>adnan-abdullahi/adnan-abdullahi</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">60</td>
-<td><img src="https://github.com/Adubiaro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Adubiaro/Project_Budgit"><b>Adubiaro/Project&#95;Budgit</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">61</td>
-<td><img src="https://github.com/Aduragbemi-Osunba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aduragbemi-Osunba/myVSCode"><b>Aduragbemi-Osunba/myVSCode</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">62</td>
-<td><img src="https://github.com/afripals.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/afripals/school-portal"><b>afripals/school-portal</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">63</td>
-<td><img src="https://github.com/Alexonovo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Alexonovo/code-man"><b>Alexonovo/code-man</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">64</td>
-<td><img src="https://github.com/aliyusf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aliyusf/github-slideshow"><b>aliyusf/github-slideshow</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">65</td>
-<td><img src="https://github.com/Asuquo12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asuquo12/hackathon"><b>Asuquo12/hackathon</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">66</td>
-<td><img src="https://github.com/atmokupe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atmokupe/sample_app"><b>atmokupe/sample&#95;app</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">67</td>
-<td><img src="https://github.com/awills.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/awills/minserver"><b>awills/minserver</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">68</td>
-<td><img src="https://github.com/awoniyimuyiwa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/awoniyimuyiwa/support-agent"><b>awoniyimuyiwa/support-agent</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">69</td>
-<td><img src="https://github.com/Awwal123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Awwal123/prompt_flow_backend"><b>Awwal123/prompt&#95;flow&#95;backend</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Blade</td>
-</tr>
-<tr>
-<td align="right">70</td>
-<td><img src="https://github.com/aygbn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aygbn/GTrack"><b>aygbn/GTrack</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">71</td>
-<td><img src="https://github.com/berryprince.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/berryprince/www.legacyempire.com"><b>berryprince/www.legacyempire.com</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">72</td>
-<td><img src="https://github.com/biggiedad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/biggiedad/biggiedadtest"><b>biggiedad/biggiedadtest</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">73</td>
-<td><img src="https://github.com/blecoblaze.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blecoblaze/loveworld"><b>blecoblaze/loveworld</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">74</td>
-<td><img src="https://github.com/cdcsma.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cdcsma/sma"><b>cdcsma/sma</b></a></td>
-<td align="right"><b>1</b></td>
+<td><img src="https://github.com/coreopen47.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/coreopen47/perplexity-ai"><b>coreopen47/perplexity-ai</b></a><br><sub>Perplexity Ai for Windows 10/11. Searches the web with AI and answers follow-up questions in a chat interface, so you c…</sub></td>
+<td align="right"><b>315</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
@@ -547,11 +440,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 74 attributed candidates are tracked.
-- 19 entries were carried over from the previous dataset and are pending revalidation.
-- 117 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 315 stars; 59 attributed candidates are tracked.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 24 Nov 2026 | <a href="../data/IQ.json">JSON</a> |
+| 🟡 Provisional | **18** | 25 Nov 2026 | <a href="../data/IQ.json">JSON</a> |
 
 </div>
 
@@ -66,14 +66,14 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/alexcorvi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexcorvi/heic2any"><b>alexcorvi/heic2any</b></a><br><sub>Converting HEIF/HEIF image formats to PNG/GIF/JPEG in the browser</sub></td>
-<td align="right"><b>896</b></td>
+<td align="right"><b>897</b></td>
 <td align="right">101</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/Ha3MrX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ha3MrX/facebook-cracker"><b>Ha3MrX/facebook-cracker</b></a><br><sub>Facebook Cracker Version 1.0 can crack into Facebook Database 100% without Interruption By Facebook Firewall</sub></td>
-<td align="right"><b>777</b></td>
+<td align="right"><b>778</b></td>
 <td align="right">390</td>
 <td>Python</td>
 </tr>
@@ -156,7 +156,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 347 stars; 18 attributed candidates are tracked.
-- 122 multi-repository owners are queued for expansion.
+- 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

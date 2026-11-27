@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/contributors/FR.json">JSON</a> |
+| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/contributors/FR.json">JSON</a> |
 
 </div>
 
@@ -196,6 +196,24 @@
 </tr>
 <tr>
 <td align="right">20</td>
+<td><a href="https://github.com/SylvainCorlay"><img src="https://avatars.githubusercontent.com/u/2397974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SylvainCorlay"><b>Sylvain Corlay</b></a><br><sub>&#64;SylvainCorlay · 936 followers</sub></td>
+<td align="right"><b>475</b></td>
+<td align="right">302</td>
+<td align="right">92</td>
+<td align="right">59</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/manekinekko"><img src="https://avatars.githubusercontent.com/u/1699357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manekinekko"><b>Wassim Chegham</b></a><br><sub>&#64;manekinekko · 1,597 followers</sub></td>
+<td align="right"><b>190</b></td>
+<td align="right">69</td>
+<td align="right">52</td>
+<td align="right">55</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">22</td>
 <td><a href="https://github.com/roblabla"><img src="https://avatars.githubusercontent.com/u/1069318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roblabla"><b>Robin Lambertz</b></a><br><sub>&#64;roblabla · 259 followers</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">61</td>
@@ -204,7 +222,7 @@
 <td align="right">22</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">23</td>
 <td><a href="https://github.com/mickaelandrieu"><img src="https://avatars.githubusercontent.com/u/1247388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mickaelandrieu"><b>Mickaël Andrieu</b></a><br><sub>&#64;mickaelandrieu · 303 followers</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">46</td>
@@ -213,13 +231,22 @@
 <td align="right">12</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">24</td>
 <td><a href="https://github.com/dymafr"><img src="https://avatars.githubusercontent.com/u/32801166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dymafr"><b>Dyma</b></a><br><sub>&#64;dymafr · 353 followers</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">26</td>
 <td align="right">29</td>
 <td align="right">0</td>
 <td align="right">2</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/iMokhles"><img src="https://avatars.githubusercontent.com/u/1247248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iMokhles"><b>Mokhlas Hussein</b></a><br><sub>&#64;iMokhles · 1,082 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -228,7 +255,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 25 of 1,550 discovered developers (1,525 awaiting measurement).
+- **Measured:** 28 of 1,584 discovered developers (1,556 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 195 in round 1.

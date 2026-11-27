@@ -5,7 +5,7 @@
 "country": {"code":"DJ","name":"Djibouti","slug":"djibouti"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":118,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":37,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":149,"candidates":118,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":37,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"easypermissions","nameWithOwner":"1964126EnergeticStepan/easypermissions","url":"https://github.com/1964126EnergeticStepan/easypermissions","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-23T14:18:17Z","pushedAt":"2023-12-23T14:18:17Z","archived":false,"owner":{"login":"1964126EnergeticStepan","name":"1964126EnergeticStepan","type":"User","url":"https://github.com/1964126EnergeticStepan","location":"Djibouti","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"skills-introduction-to-github","nameWithOwner":"1991Abdoulfatah/skills-introduction-to-github","url":"https://github.com/1991Abdoulfatah/skills-introduction-to-github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2023-10-25T21:00:06Z","pushedAt":"2025-12-01T20:58:24Z","archived":false,"owner":{"login":"1991Abdoulfatah","name":"Abdoulfatah Omar Abdillahi","type":"User","url":"https://github.com/1991Abdoulfatah","location":"Djibouti","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Detection-de-Fraude-Bancaire","nameWithOwner":"Obelisk999/Detection-de-Fraude-Bancaire","url":"https://github.com/Obelisk999/Detection-de-Fraude-Bancaire","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-04-19T16:05:08Z","pushedAt":"2026-04-19T16:10:25Z","archived":false,"owner":{"login":"Obelisk999","name":"Abdoulrazak","type":"User","url":"https://github.com/Obelisk999","location":"Djibouti","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"oslogang","nameWithOwner":"Ousleyos/oslogang","url":"https://github.com/Ousleyos/oslogang","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-05-05T14:57:02Z","pushedAt":"2022-05-05T14:57:03Z","archived":false,"owner":{"login":"Ousleyos","name":"Ousleyos","type":"User","url":"https://github.com/Ousleyos","location":"DJIBOUTI","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "f570447441df06aa",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "cbe8f5b1e69b1a7b",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

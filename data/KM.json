@@ -5,7 +5,7 @@
 "country": {"code":"KM","name":"Comoros","slug":"comoros"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":35,"ownerExpansionBacklog":46,"candidates":35,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":88,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":35,"ownerExpansionBacklog":45,"candidates":35,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":88,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"gesco-udc-test","nameWithOwner":"abdallahsoulaimana/gesco-udc-test","url":"https://github.com/abdallahsoulaimana/gesco-udc-test","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-05-07T13:19:06Z","pushedAt":"2025-05-07T13:27:25Z","archived":false,"owner":{"login":"abdallahsoulaimana","name":"Abdallah Soulaimana","type":"User","url":"https://github.com/abdallahsoulaimana","location":"Comores","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"kalimaPrivacy","nameWithOwner":"Aleik-Malik/kalimaPrivacy","url":"https://github.com/Aleik-Malik/kalimaPrivacy","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2023-09-25T12:33:52Z","pushedAt":"2023-09-25T12:42:54Z","archived":false,"owner":{"login":"Aleik-Malik","name":"@WALSE","type":"User","url":"https://github.com/Aleik-Malik","location":"Comores, Moroni","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -43,8 +43,8 @@
   {"rank":34,"id":null,"name":"bataille-sultans","nameWithOwner":"uchahidi-arch/bataille-sultans","url":"https://github.com/uchahidi-arch/bataille-sultans","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-07-22T16:06:06Z","pushedAt":"2026-07-23T14:29:22Z","archived":false,"owner":{"login":"uchahidi-arch","name":"U-DATA","type":"User","url":"https://github.com/uchahidi-arch","location":"Comores","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":35,"id":null,"name":"Multidimensional-Poverty-Paper","nameWithOwner":"Yssoufa/Multidimensional-Poverty-Paper","url":"https://github.com/Yssoufa/Multidimensional-Poverty-Paper","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-26T14:53:32Z","pushedAt":"2026-09-26T14:53:33Z","archived":false,"owner":{"login":"Yssoufa","name":"THABITI YSSOUFA","type":"User","url":"https://github.com/Yssoufa","location":"Comoros","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "aaae101ae4e4177f",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "2c3acedc19766b77",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/AZ.json">JSON</a> |
+| 🟡 Provisional | **13** | 24 Nov 2026 | <a href="../data/AZ.json">JSON</a> |
 
 </div>
 
@@ -98,6 +98,20 @@
 <td align="right">47</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/TuralSuleymani.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TuralSuleymani/the-real-DDD-CQRS-CleanArchitecture"><b>TuralSuleymani/the-real-DDD-CQRS-CleanArchitecture</b></a><br><sub>A real-world example of a shopping basket API built with C#, showcasing Domain-Driven Design (DDD), Clean Architecture,…</sub></td>
+<td align="right"><b>327</b></td>
+<td align="right">59</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/dungkumar71.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dungkumar71/autodesk-flame"><b>dungkumar71/autodesk-flame</b></a><br><sub>Autodesk Flame for Windows 10/11. Composites VFX shots, grades footage and finishes edits in a node-based timeline, let…</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -106,8 +120,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 386 stars; 11 attributed candidates are tracked.
-- 128 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 317 stars; 13 attributed candidates are tracked.
+- 126 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

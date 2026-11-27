@@ -234,14 +234,14 @@
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/adrianmihalko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianmihalko/raspberrypiwireguard"><b>adrianmihalko/raspberrypiwireguard</b></a><br><sub>Install and configure WireGuard on Raspberry Pi (and others)</sub></td>
-<td align="right"><b>856</b></td>
+<td align="right"><b>855</b></td>
 <td align="right">76</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/slatinsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slatinsky/DiscordChatExporter-frontend"><b>slatinsky/DiscordChatExporter-frontend</b></a><br><sub>Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface</sub></td>
-<td align="right"><b>842</b></td>
+<td align="right"><b>843</b></td>
 <td align="right">47</td>
 <td>TypeScript</td>
 </tr>
@@ -262,7 +262,7 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/obeli-sk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/obeli-sk/obelisk"><b>obeli-sk/obelisk</b></a><br><sub>Durable &amp; Deterministic Workflow Runtime</sub></td>
-<td align="right"><b>768</b></td>
+<td align="right"><b>769</b></td>
 <td align="right">19</td>
 <td>Rust</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 348 stars; 101 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 348 stars; 108 attributed candidates are tracked.
 - 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

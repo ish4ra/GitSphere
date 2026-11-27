@@ -5,7 +5,7 @@
 "country": {"code":"BQ","name":"Caribbean Netherlands","slug":"caribbean-netherlands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":9,"ownerExpansionBacklog":27,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":9,"ownerExpansionBacklog":27,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"gcli2api","nameWithOwner":"AgentsTrading/gcli2api","url":"https://github.com/AgentsTrading/gcli2api","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-09-03T03:41:23Z","pushedAt":"2026-09-03T04:01:16Z","archived":false,"owner":{"login":"AgentsTrading","name":"AgentsTrading","type":"Organization","url":"https://github.com/AgentsTrading","location":"Bonaire, Sint Eustatius and Saba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"vast-gpu-market","nameWithOwner":"AugustusEngine/vast-gpu-market","url":"https://github.com/AugustusEngine/vast-gpu-market","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-08-15T19:38:31Z","pushedAt":"2026-08-15T19:38:41Z","archived":false,"owner":{"login":"AugustusEngine","name":"Augustus","type":"User","url":"https://github.com/AugustusEngine","location":"Bonaire","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
@@ -17,8 +17,8 @@
   {"rank":8,"id":null,"name":"tgkinney","nameWithOwner":"tgkinney1351/tgkinney","url":"https://github.com/tgkinney1351/tgkinney","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-11-29T19:29:46Z","pushedAt":"2021-11-29T19:33:14Z","archived":false,"owner":{"login":"tgkinney1351","name":null,"type":"User","url":"https://github.com/tgkinney1351","location":"Bonaire, GA","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":9,"id":null,"name":"enlive","nameWithOwner":"TheCactusGuy/enlive","url":"https://github.com/TheCactusGuy/enlive","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-18T23:31:18Z","pushedAt":"2023-12-18T23:31:18Z","archived":false,"owner":{"login":"TheCactusGuy","name":"TheCactusGuy","type":"User","url":"https://github.com/TheCactusGuy","location":"The Bottom","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-28","pendingRevalidation":true}
 ],
-"contentHash": "d51eb0d4873d27be",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "20ae1901b9ec9507",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-10-28",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

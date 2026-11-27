@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/SR.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/SR.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/nathaniel123x3rd"><img src="https://avatars.githubusercontent.com/u/81175228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nathaniel123x3rd"><b>Nathanielx3rd</b></a><br><sub>&#64;nathaniel123x3rd · 8 followers</sub></td>
+<td align="right"><b>55</b></td>
+<td align="right">52</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/Karel95"><img src="https://avatars.githubusercontent.com/u/162202243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Karel95"><b>Karel Hernández</b></a><br><sub>&#64;Karel95 · 36 followers</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">26</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/rowellfortune"><img src="https://avatars.githubusercontent.com/u/14199186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rowellfortune"><b>rowellfortune</b></a><br><sub>&#64;rowellfortune · 4 followers</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">20</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/addiellucena94"><img src="https://avatars.githubusercontent.com/u/86170694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/addiellucena94"><b>Addiel</b></a><br><sub>&#64;addiellucena94 · 2 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">17</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Adventurekid14"><img src="https://avatars.githubusercontent.com/u/276662089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adventurekid14"><b>Sushil Ramlal</b></a><br><sub>&#64;Adventurekid14 · 0 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">1</td>
@@ -123,7 +132,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
+<td><a href="https://github.com/devbravo"><img src="https://avatars.githubusercontent.com/u/57640751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devbravo"><b>Diego Sabajo</b></a><br><sub>&#64;devbravo · 9 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/iqre8"><img src="https://avatars.githubusercontent.com/u/57012516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iqre8"><b>iqre8</b></a><br><sub>&#64;iqre8 · 5 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -138,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 19 of 259 discovered developers (240 awaiting measurement).
+- **Measured:** 22 of 259 discovered developers (237 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 33 in round 1.

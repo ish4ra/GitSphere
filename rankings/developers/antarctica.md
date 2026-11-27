@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/nvk"><img src="https://avatars.githubusercontent.com/u/797193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nvk"><b>nvk</b></a><br><sub>&#64;nvk</sub></td>
-<td align="right"><b>536</b></td>
+<td align="right"><b>535</b></td>
 <td align="right">136</td>
 <td><sub>🇦🇶</sub></td>
 </tr>
@@ -541,16 +541,16 @@
 </tr>
 <tr>
 <td align="right">75</td>
-<td><a href="https://github.com/CaichaoGitHub"><img src="https://avatars.githubusercontent.com/u/12059897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CaichaoGitHub"><b>panda</b></a><br><sub>&#64;CaichaoGitHub</sub></td>
+<td><a href="https://github.com/antedotee"><img src="https://avatars.githubusercontent.com/u/151192805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antedotee"><b>ky505</b></a><br><sub>&#64;antedotee</sub></td>
 <td align="right"><b>17</b></td>
-<td align="right">34</td>
+<td align="right">134</td>
 <td><sub>Antarctica</sub></td>
 </tr>
 <tr>
 <td align="right">76</td>
-<td><a href="https://github.com/antedotee"><img src="https://avatars.githubusercontent.com/u/151192805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antedotee"><b>ky505</b></a><br><sub>&#64;antedotee</sub></td>
-<td align="right"><b>16</b></td>
-<td align="right">134</td>
+<td><a href="https://github.com/CaichaoGitHub"><img src="https://avatars.githubusercontent.com/u/12059897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CaichaoGitHub"><b>panda</b></a><br><sub>&#64;CaichaoGitHub</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">34</td>
 <td><sub>Antarctica</sub></td>
 </tr>
 <tr>

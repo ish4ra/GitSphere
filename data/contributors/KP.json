@@ -5,7 +5,7 @@
 "country": {"code":"KP","name":"North Korea","slug":"north-korea"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":416,"measuredAccounts":20,"measurementBacklog":396,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":130,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":417,"measuredAccounts":23,"measurementBacklog":394,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":130,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBcEarg","login":"iam-orsu","name":"Vamsi Krishna","url":"https://github.com/iam-orsu","avatarUrl":"https://avatars.githubusercontent.com/u/96541358?s=80&v=4","followers":7,"publicRepos":92,"location":"North Korea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1333,"commits":1275,"pullRequests":2,"reviews":0,"issues":0,"repositories":56,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"U_kgDOBpS8kw","login":"Duzopy","name":"Dupozy","url":"https://github.com/Duzopy","avatarUrl":"https://avatars.githubusercontent.com/u/110410899?s=80&v=4","followers":8,"publicRepos":85,"location":"North Korea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":559,"commits":486,"pullRequests":0,"reviews":0,"issues":0,"repositories":73,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -23,8 +23,8 @@
   {"rank":14,"id":"U_kgDOBijTGw","login":"manlycracker65","name":null,"url":"https://github.com/manlycracker65","avatarUrl":"https://avatars.githubusercontent.com/u/103338779?s=80&v=4","followers":11,"publicRepos":68,"location":"Pyongyang, North Korea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":4,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":3,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":15,"id":"MDQ6VXNlcjIzNTYxNTg=","login":"kjirawong","name":"Kong Jirawong","url":"https://github.com/kjirawong","avatarUrl":"https://avatars.githubusercontent.com/u/2356158?s=80&v=4","followers":11,"publicRepos":63,"location":"North Korea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":2,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "ce2b9930c002367d",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "d4620d56e31c7094",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 23 Nov 2026 | <a href="../../data/contributors/KW.json">JSON</a> |
+| 🟡 Provisional | **16** | 23 Nov 2026 | <a href="../../data/contributors/KW.json">JSON</a> |
 
 </div>
 
@@ -124,6 +124,15 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/zalahu"><img src="https://avatars.githubusercontent.com/u/203696948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zalahu"><b>Salahudeen Muhammed</b></a><br><sub>&#64;zalahu · 3 followers</sub></td>
+<td align="right"><b>32</b></td>
+<td align="right">27</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/iZaL"><img src="https://avatars.githubusercontent.com/u/6410176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iZaL"><b>Afzal Abbas</b></a><br><sub>&#64;iZaL · 99 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">23</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/Abdulrahman-G-Alfahad"><img src="https://avatars.githubusercontent.com/u/183699351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdulrahman-G-Alfahad"><b>Abdulrahman Alfahad</b></a><br><sub>&#64;Abdulrahman-G-Alfahad · 0 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">1</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/omsi96"><img src="https://avatars.githubusercontent.com/u/8784343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omsi96"><b>Omar</b></a><br><sub>&#64;omsi96 · 120 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">6</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/smokeme"><img src="https://avatars.githubusercontent.com/u/18034561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smokeme"><b>Fawaz Adi</b></a><br><sub>&#64;smokeme · 151 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">6</td>
@@ -165,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 398 discovered developers (375 awaiting measurement).
+- **Measured:** 26 of 398 discovered developers (372 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 32 in round 1.

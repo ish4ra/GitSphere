@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **77** | 24 Nov 2026 | <a href="../data/CO.json">JSON</a> |
+| 🟡 Provisional | **88** | 24 Nov 2026 | <a href="../data/CO.json">JSON</a> |
 
 </div>
 
@@ -164,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/stivenhacker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stivenhacker/GhostStrike"><b>stivenhacker/GhostStrike</b></a><br><sub>Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and R…</sub></td>
-<td align="right"><b>830</b></td>
+<td align="right"><b>831</b></td>
 <td align="right">94</td>
 <td>C++</td>
 </tr>
@@ -178,8 +178,8 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/elpapi42.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elpapi42/pi-observational-memory"><b>elpapi42/pi-observational-memory</b></a><br><sub>Make Pi sessions feel endless</sub></td>
-<td align="right"><b>765</b></td>
-<td align="right">106</td>
+<td align="right"><b>764</b></td>
+<td align="right">107</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -560,6 +560,83 @@
 <td align="right">48</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/Valdes-Tresanco-MS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA"><b>Valdes-Tresanco-MS/gmx&#95;MMPBSA</b></a><br><sub>gmx&#95;MMPBSA is a new tool based on AMBER&#39;s MMPBSA.py aiming to perform end-state free energy calculations with GROMACS f…</sub></td>
+<td align="right"><b>335</b></td>
+<td align="right">88</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/jahirfiquitiva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jahirfiquitiva/FABsMenu"><b>jahirfiquitiva/FABsMenu</b></a> <sub>archived</sub><br><sub>A simple library to use a menu of FloatingActionButtons from Design Support Library that follow Material Design Guideli…</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">30</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/ercanturner163.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ercanturner163/minitool-partition-wizard"><b>ercanturner163/minitool-partition-wizard</b></a><br><sub>Minitool Partition Wizard for Windows 10/11. Resizes, moves, merges and converts disk partitions without losing data, a…</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/dloperab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse"><b>dloperab/PyImageSearch-CV-DL-CrashCourse</b></a><br><sub>Repository for PyImageSearch Crash Course on Computer Vision and Deep Learning</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">200</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/aqlaboratory.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aqlaboratory/rgn"><b>aqlaboratory/rgn</b></a><br><sub>Recurrent Geometric Networks for end-to-end differentiable learning of protein structure</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">83</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/aFelipeSP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aFelipeSP/pdfme"><b>aFelipeSP/pdfme</b></a><br><sub>Make PDFs easily</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">21</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/lakebuild.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lakebuild/eventide-blackhole"><b>lakebuild/eventide-blackhole</b></a><br><sub>Eventide Blackhole for Windows 10/11. Applies lush reverb and delay effects to audio tracks, letting musicians and soun…</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/mergelooplab03.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mergelooplab03/kdenlive"><b>mergelooplab03/kdenlive</b></a><br><sub>Kdenlive for Windows 10/11. Edits multi-track video projects with timeline trimming, transitions, effects and audio mix…</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/brenda-pro09.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brenda-pro09/nvidia-geforce-experience"><b>brenda-pro09/nvidia-geforce-experience</b></a><br><sub>Nvidia Geforce Experience for Windows 10/11. Captures gameplay clips and streams, applies optimized game settings autom…</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/high-free-bear03.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/high-free-bear03/serif-affinity-publisher-2"><b>high-free-bear03/serif-affinity-publisher-2</b></a><br><sub>Serif Affinity Publisher 2 for Windows 10/11. Designs and lays out magazines, brochures, posters and books with master…</sub></td>
+<td align="right"><b>316</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/Labdev8726.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Labdev8726/arturia-pigments"><b>Labdev8726/arturia-pigments</b></a><br><sub>Arturia Pigments for Windows 10/11. Designs layered synth patches by blending wavetable, virtual analog, sample and gra…</sub></td>
+<td align="right"><b>316</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -568,8 +645,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 340 stars; 77 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 316 stars; 88 attributed candidates are tracked.
+- 109 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 119 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

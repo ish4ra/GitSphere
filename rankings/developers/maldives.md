@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/Samooh-9820060"><img src="https://avatars.githubusercontent.com/u/114355897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Samooh-9820060"><b>Samooh Moosa</b></a><br><sub>&#64;Samooh-9820060</sub></td>
-<td align="right"><b>129</b></td>
+<td align="right"><b>128</b></td>
 <td align="right">14</td>
 <td><sub>Maldives</sub></td>
 </tr>
@@ -254,37 +254,37 @@
 </tr>
 <tr>
 <td align="right">34</td>
-<td><a href="https://github.com/wadday"><img src="https://avatars.githubusercontent.com/u/194339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wadday"><b>Wadday hassan</b></a><br><sub>&#64;wadday</sub></td>
-<td align="right"><b>31</b></td>
-<td align="right">78</td>
-<td><sub>Maldives</sub></td>
-</tr>
-<tr>
-<td align="right">35</td>
 <td><a href="https://github.com/shihaamabr"><img src="https://avatars.githubusercontent.com/u/14050675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shihaamabr"><b>Shihaam Abdul Rahman</b></a><br><sub>&#64;shihaamabr</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">43</td>
 <td><sub>Male&#39;, Maldives</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">35</td>
 <td><a href="https://github.com/Anjum9694"><img src="https://avatars.githubusercontent.com/u/31078090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anjum9694"><b>Anjum9694</b></a><br><sub>&#64;Anjum9694</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">38</td>
 <td><sub>Male&#39; Maldives</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">36</td>
 <td><a href="https://github.com/dash8x"><img src="https://avatars.githubusercontent.com/u/6671720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dash8x"><b>Arushad Ahmed</b></a><br><sub>&#64;dash8x</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">22</td>
 <td><sub>Maldives</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">37</td>
 <td><a href="https://github.com/musaid"><img src="https://avatars.githubusercontent.com/u/637461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/musaid"><b>musaid</b></a><br><sub>&#64;musaid</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">89</td>
+<td><sub>Maldives</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/wadday"><img src="https://avatars.githubusercontent.com/u/194339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wadday"><b>Wadday hassan</b></a><br><sub>&#64;wadday</sub></td>
+<td align="right"><b>30</b></td>
+<td align="right">78</td>
 <td><sub>Maldives</sub></td>
 </tr>
 <tr>

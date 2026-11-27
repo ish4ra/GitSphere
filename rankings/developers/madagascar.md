@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><a href="https://github.com/dario208"><img src="https://avatars.githubusercontent.com/u/124611899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dario208"><b>TSIAHOUA Feno Dario Dasylva</b></a><br><sub>&#64;dario208</sub></td>
-<td align="right"><b>159</b></td>
+<td align="right"><b>158</b></td>
 <td align="right">74</td>
 <td><sub>Antananarivo - Madagascar</sub></td>
 </tr>
@@ -213,7 +213,7 @@
 <tr>
 <td align="right">28</td>
 <td><a href="https://github.com/AmigosKazz"><img src="https://avatars.githubusercontent.com/u/127631298?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmigosKazz"><b>Kaznarah Andrinarivo</b></a><br><sub>&#64;AmigosKazz</sub></td>
-<td align="right"><b>124</b></td>
+<td align="right"><b>125</b></td>
 <td align="right">59</td>
 <td><sub>Madagascar</sub></td>
 </tr>

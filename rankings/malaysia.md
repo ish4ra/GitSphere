@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **77** | 24 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟡 Provisional | **83** | 24 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -249,13 +249,13 @@
 <td align="right">33</td>
 <td><img src="https://github.com/mkhairi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mkhairi/materialize-sass"><b>mkhairi/materialize-sass</b></a><br><sub>Materializecss rubygem for Rails Asset Pipeline / Sprockets</sub></td>
 <td align="right"><b>800</b></td>
-<td align="right">240</td>
+<td align="right">239</td>
 <td>Ruby</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/pearlxcore.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pearlxcore/PS4PKGTool"><b>pearlxcore/PS4PKGTool</b></a><br><sub>Manage and perform various operations on PS4 PKG.</sub></td>
-<td align="right"><b>784</b></td>
+<td align="right"><b>791</b></td>
 <td align="right">67</td>
 <td>C#</td>
 </tr>
@@ -269,7 +269,7 @@
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/mfrashad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mfrashad/text2art"><b>mfrashad/text2art</b></a><br><sub>AI-powered Text-to-Art Generator - Text2Art.com</sub></td>
-<td align="right"><b>770</b></td>
+<td align="right"><b>769</b></td>
 <td align="right">192</td>
 <td>Jupyter Notebook</td>
 </tr>
@@ -560,6 +560,48 @@
 <td align="right">51</td>
 <td>Kotlin</td>
 </tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/katiehuangx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/katiehuangx/8-Week-SQL-Challenge"><b>katiehuangx/8-Week-SQL-Challenge</b></a><br><sub>Case study solutions for the #8WeekSQLChallenge.</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">202</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/coreworkscool1966.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/coreworkscool1966/reaper"><b>coreworkscool1966/reaper</b></a><br><sub>Reaper for Windows 10/11. Records, edits and mixes multitrack audio with virtual instruments, effects and flexible rout…</sub></td>
+<td align="right"><b>327</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/Gustavocode48.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gustavocode48/clickup-desktop"><b>Gustavocode48/clickup-desktop</b></a><br><sub>Clickup Desktop for Windows 10/11. Plans projects, assigns tasks and tracks team goals across lists, boards and docs, t…</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/imartinez900.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imartinez900/softube-chandler-limited"><b>imartinez900/softube-chandler-limited</b></a><br><sub>Softube Chandler Limited for Windows 10/11. Shapes and colors mixes with Chandler EMI and Abbey Road compressor and EQ…</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/Mgupta495.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mgupta495/fabfilter-pro-r"><b>Mgupta495/fabfilter-pro-r</b></a><br><sub>Fabfilter Pro R for Windows 10/11. Sculpts reverb spaces on vocals, drums and full mixes with a visual decay curve, let…</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/therezacuet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/therezacuet/Motion-Tab-Bar"><b>therezacuet/Motion-Tab-Bar</b></a><br><sub>A beautiful animated flutter widget package library. The tab bar will attempt to use your current theme out of the box,…</sub></td>
+<td align="right"><b>315</b></td>
+<td align="right">85</td>
+<td>Dart</td>
+</tr>
 </tbody>
 </table>
 
@@ -568,8 +610,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 344 stars; 77 attributed candidates are tracked.
-- 109 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 315 stars; 83 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 24 Nov 2026 | <a href="../data/EC.json">JSON</a> |
+| 🟡 Provisional | **26** | 24 Nov 2026 | <a href="../data/EC.json">JSON</a> |
 
 </div>
 
@@ -94,8 +94,8 @@
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/Eddycrack864.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Eddycrack864/UVR5-UI"><b>Eddycrack864/UVR5-UI</b></a><br><sub>Ultimate Vocal Remover 5 with Gradio UI. Separate an audio file into various stems, using multiple models</sub></td>
-<td align="right"><b>817</b></td>
-<td align="right">73</td>
+<td align="right"><b>824</b></td>
+<td align="right">74</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -175,6 +175,34 @@
 <td align="right">37</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/asantibanez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asantibanez/livewire-status-board"><b>asantibanez/livewire-status-board</b></a><br><sub>Livewire component to show records according to their current status</sub></td>
+<td align="right"><b>339</b></td>
+<td align="right">87</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/Darkmux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Darkmux/cyberspy"><b>Darkmux/cyberspy</b></a><br><sub>Plugin for Termux in order to extend its functions.</sub></td>
+<td align="right"><b>337</b></td>
+<td align="right">16</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/fosterroman3866.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fosterroman3866/restream"><b>fosterroman3866/restream</b></a><br><sub>Restream for Windows 10/11. Broadcasts live gameplay and screen content to multiple platforms at once, merging chat fro…</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/chmenon1994.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chmenon1994/deepl-write"><b>chmenon1994/deepl-write</b></a><br><sub>Deepl Write for Windows 10/11. Rewrites and polishes sentences for clarity, tone and grammar, letting you paste a draft…</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -183,8 +211,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 356 stars; 22 attributed candidates are tracked.
-- 118 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 319 stars; 26 attributed candidates are tracked.
+- 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 117 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

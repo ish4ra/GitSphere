@@ -5,7 +5,7 @@
 "country": {"code":"GN","name":"Guinea","slug":"guinea"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":54,"ownerExpansionBacklog":145,"candidates":54,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":76,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":54,"ownerExpansionBacklog":144,"candidates":54,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":76,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"fiibook","nameWithOwner":"fiicode-org/fiibook","url":"https://github.com/fiicode-org/fiibook","description":null,"stars":0,"forks":1,"primaryLanguage":"JavaScript","license":null,"createdAt":"2023-03-20T13:23:59Z","pushedAt":"2023-05-03T12:56:16Z","archived":false,"owner":{"login":"fiicode-org","name":"fiicode","type":"Organization","url":"https://github.com/fiicode-org","location":"Guinea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"sam","nameWithOwner":"gnaya/sam","url":"https://github.com/gnaya/sam","description":null,"stars":0,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2016-09-02T21:43:48Z","pushedAt":"2016-09-11T16:44:12Z","archived":false,"owner":{"login":"gnaya","name":"Malick SAMOURA","type":"User","url":"https://github.com/gnaya","location":"Conakry","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -62,8 +62,8 @@
   {"rank":53,"id":null,"name":"Fabisi-e-Edu","nameWithOwner":"BOUBACARSI/Fabisi-e-Edu","url":"https://github.com/BOUBACARSI/Fabisi-e-Edu","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-10-22T16:53:57Z","pushedAt":"2025-10-22T17:24:09Z","archived":false,"owner":{"login":"BOUBACARSI","name":"Boubacar SIDIBE","type":"User","url":"https://github.com/BOUBACARSI","location":"Conakry","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":54,"id":null,"name":"DevOps_projet","nameWithOwner":"CAMARA-Alseny/DevOps_projet","url":"https://github.com/CAMARA-Alseny/DevOps_projet","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-06-08T02:19:45Z","pushedAt":"2024-06-08T02:34:38Z","archived":false,"owner":{"login":"CAMARA-Alseny","name":"Alseny CAMARA","type":"User","url":"https://github.com/CAMARA-Alseny","location":"Guinea Conakry","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "fef29579bc699fc8",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "465b70d7128ddaba",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

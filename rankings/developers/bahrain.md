@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/zakk616"><img src="https://avatars.githubusercontent.com/u/26119949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zakk616"><b>Muhammad Zakaria</b></a><br><sub>&#64;zakk616</sub></td>
-<td align="right"><b>82</b></td>
+<td align="right"><b>83</b></td>
 <td align="right">101</td>
 <td><sub>Manama, Bahrain</sub></td>
 </tr>

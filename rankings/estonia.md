@@ -388,22 +388,22 @@
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/maciejczyzewski.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maciejczyzewski/hyhyhy"><b>maciejczyzewski/hyhyhy</b></a><br><sub>A tool for creating nice looking HTML5 presentations. :trollface:</sub></td>
-<td align="right"><b>894</b></td>
+<td align="right"><b>893</b></td>
 <td align="right">55</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/wp-statistics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wp-statistics/GeoLite2-City"><b>wp-statistics/GeoLite2-City</b></a><br><sub>Free MaxMind GeoLite2-City database for IP geolocation. Auto-updated, served via jsDelivr CDN. No API keys required.</sub></td>
-<td align="right"><b>888</b></td>
-<td align="right">100</td>
+<td align="right"><b>889</b></td>
+<td align="right">99</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/nordic-institute.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nordic-institute/X-Road"><b>nordic-institute/X-Road</b></a><br><sub>Source code of the X-Road® data exchange layer software</sub></td>
-<td align="right"><b>879</b></td>
-<td align="right">277</td>
+<td align="right"><b>881</b></td>
+<td align="right">278</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -430,7 +430,7 @@
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/twirl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/twirl/The-API-Book"><b>twirl/The-API-Book</b></a><br><sub>‘The API’ book by Sergey Konstantinov</sub></td>
-<td align="right"><b>810</b></td>
+<td align="right"><b>809</b></td>
 <td align="right">49</td>
 <td>TypeScript</td>
 </tr>
@@ -451,7 +451,7 @@
 <tr>
 <td align="right">62</td>
 <td><img src="https://github.com/carlrannaberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carlrannaberg/claudekit"><b>carlrannaberg/claudekit</b></a><br><sub>A toolkit of custom commands, hooks, and utilities for Claude Code</sub></td>
-<td align="right"><b>763</b></td>
+<td align="right"><b>762</b></td>
 <td align="right">114</td>
 <td>TypeScript</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 506 stars; 144 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 506 stars; 150 attributed candidates are tracked.
 - 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

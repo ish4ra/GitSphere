@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **55** | 24 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
+| 🟡 Provisional | **63** | 24 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
 
 </div>
 
@@ -177,24 +177,24 @@
 </tr>
 <tr>
 <td align="right">23</td>
+<td><img src="https://github.com/millida.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/millida/launcher"><b>millida/launcher</b></a><br><sub>Minecraft launcher for Windows, macOS and Linux: Modrinth and CurseForge mods, Forge/Fabric/Quilt/NeoForge, automatic J…</sub></td>
+<td align="right"><b>856</b></td>
+<td align="right">33</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">24</td>
 <td><img src="https://github.com/tokkozhin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tokkozhin/react-native-neomorph-shadows"><b>tokkozhin/react-native-neomorph-shadows</b></a><br><sub>Shadows and neumorphism/neomorphism for iOS &amp; Android (like iOS).</sub></td>
-<td align="right"><b>827</b></td>
+<td align="right"><b>826</b></td>
 <td align="right">97</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">25</td>
 <td><img src="https://github.com/Sh3lldon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Sh3lldon/FullBypass"><b>Sh3lldon/FullBypass</b></a> <sub>archived</sub><br><sub>A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a…</sub></td>
 <td align="right"><b>820</b></td>
 <td align="right">144</td>
 <td>C#</td>
-</tr>
-<tr>
-<td align="right">25</td>
-<td><img src="https://github.com/millida.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/millida/launcher"><b>millida/launcher</b></a><br><sub>Minecraft launcher for Windows, macOS and Linux: Modrinth and CurseForge mods, Forge/Fabric/Quilt/NeoForge, automatic J…</sub></td>
-<td align="right"><b>811</b></td>
-<td align="right">32</td>
-<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">26</td>
@@ -406,6 +406,62 @@
 <td align="right">24</td>
 <td>Kotlin</td>
 </tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/Hexlet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hexlet/patterns"><b>Hexlet/patterns</b></a><br><sub>Language agnostic patterns description</sub></td>
+<td align="right"><b>334</b></td>
+<td align="right">55</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/kekland.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kekland/equinox"><b>kekland/equinox</b></a> <sub>archived</sub><br><sub>Flutter UI library based on Eva Design System ✨</sub></td>
+<td align="right"><b>331</b></td>
+<td align="right">33</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/ncanode-kz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ncanode-kz/NCANode"><b>ncanode-kz/NCANode</b></a><br><sub>⭐ Приложение-сервер для работы с Электронно Цифровой Подписью (ЭЦП) РК</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">106</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/ninsent.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ninsent/Ore-UI-theme-pack"><b>ninsent/Ore-UI-theme-pack</b></a><br><sub>Minecraft Bedrock inspired Ore UI theme for Prism Launcher.</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">1</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/Cliteamold.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cliteamold/amd-adrenalin"><b>Cliteamold/amd-adrenalin</b></a><br><sub>Amd Adrenalin for Windows 10/11. Tweaks GPU settings, updates drivers and optimizes game profiles, letting you tune gra…</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/sidigi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sidigi/bitrix-info"><b>sidigi/bitrix-info</b></a> <sub>archived</sub><br><sub>Информация о системе</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">88</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/henrypp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/henrypp/errorlookup"><b>henrypp/errorlookup</b></a><br><sub>Simple tool for retrieving information about Windows errors codes.</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">54</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/kolesa-team.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kolesa-team/go-webp"><b>kolesa-team/go-webp</b></a><br><sub>Pure Go WebP encoder and decoder: lossy, lossless and alpha, with SIMD on amd64 and arm64. No cgo, no libwebp.</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">37</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -414,8 +470,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 355 stars; 55 attributed candidates are tracked.
-- 107 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 318 stars; 63 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

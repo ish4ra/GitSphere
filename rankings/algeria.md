@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **33** | 24 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
+| 🟡 Provisional | **36** | 24 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
 
 </div>
 
@@ -252,6 +252,27 @@
 <td align="right">17</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/linuxscout.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/linuxscout/mishkal"><b>linuxscout/mishkal</b></a><br><sub>Mishkal is an arabic text vocalization software</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">77</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/removeif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/removeif/hexo-theme-amazing"><b>removeif/hexo-theme-amazing</b></a><br><sub>Demo: https://removeif.github.io/removeif-demo hexo-theme</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">82</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/sb53systems.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sb53systems/G-Code-Flow-Temperature-Controller"><b>sb53systems/G-Code-Flow-Temperature-Controller</b></a><br><sub>A post processing script for OrcaSlicer that demonstrates how automatically adjusting Nozzle Temperature and Flow rate…</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">13</td>
+<td>Pascal</td>
+</tr>
 </tbody>
 </table>
 
@@ -260,8 +281,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 360 stars; 33 attributed candidates are tracked.
-- 112 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 319 stars; 36 attributed candidates are tracked.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

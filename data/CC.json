@@ -5,14 +5,14 @@
 "country": {"code":"CC","name":"Cocos (Keeling) Islands","slug":"cocos-keeling-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":3,"ownerExpansionBacklog":8,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":3,"ownerExpansionBacklog":8,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":21,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"bell-platforms","nameWithOwner":"defiocean-io/bell-platforms","url":"https://github.com/defiocean-io/bell-platforms","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2025-02-15T21:38:39Z","pushedAt":"2025-02-15T21:38:39Z","archived":false,"owner":{"login":"defiocean-io","name":"DeFiOcean","type":"Organization","url":"https://github.com/defiocean-io","location":"Cocos (Keeling) Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"deepjazz","nameWithOwner":"epichelloguy/deepjazz","url":"https://github.com/epichelloguy/deepjazz","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-18T21:10:44Z","pushedAt":"2023-12-18T21:10:44Z","archived":false,"owner":{"login":"epichelloguy","name":"epichelloguy","type":"User","url":"https://github.com/epichelloguy","location":"Cocos (Keeling) Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":3,"id":null,"name":"Documents","nameWithOwner":"funproxy/Documents","url":"https://github.com/funproxy/Documents","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-10-29T08:58:01Z","pushedAt":"2024-10-29T08:58:32Z","archived":false,"owner":{"login":"funproxy","name":"Funproxy","type":"Organization","url":"https://github.com/funproxy","location":"Cocos (Keeling) Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "ac35633fbb58f87e",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "7e75155192c25c06",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

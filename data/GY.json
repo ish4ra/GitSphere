@@ -5,7 +5,7 @@
 "country": {"code":"GY","name":"Guyana","slug":"guyana"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":144,"candidates":103,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":36,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":143,"candidates":103,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":36,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Shein_Data_Cleaning_Assignment","nameWithOwner":"NMelville2000/Shein_Data_Cleaning_Assignment","url":"https://github.com/NMelville2000/Shein_Data_Cleaning_Assignment","description":null,"stars":0,"forks":1,"primaryLanguage":"R","license":null,"createdAt":"2026-04-21T20:21:08Z","pushedAt":"2026-05-18T19:14:06Z","archived":false,"owner":{"login":"NMelville2000","name":"Nicky Melville","type":"User","url":"https://github.com/NMelville2000","location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"1-2cloud","nameWithOwner":"1-2cloud/1-2cloud","url":"https://github.com/1-2cloud/1-2cloud","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-05-15T17:44:31Z","pushedAt":"2021-05-15T17:46:01Z","archived":false,"owner":{"login":"1-2cloud","name":"Tamara Benjamin","type":"User","url":"https://github.com/1-2cloud","location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Slot-Machine-Game","nameWithOwner":"Sham-4-Sham/Slot-Machine-Game","url":"https://github.com/Sham-4-Sham/Slot-Machine-Game","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2025-04-01T13:00:08Z","pushedAt":"2025-04-01T13:00:44Z","archived":false,"owner":{"login":"Sham-4-Sham","name":"Esham","type":"User","url":"https://github.com/Sham-4-Sham","location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"logiq-hackathon-2025","nameWithOwner":"Shemar22/logiq-hackathon-2025","url":"https://github.com/Shemar22/logiq-hackathon-2025","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-07-06T13:43:19Z","pushedAt":"2025-07-06T13:58:12Z","archived":false,"owner":{"login":"Shemar22","name":"Shemar Moore","type":"User","url":"https://github.com/Shemar22","location":"Georgetown, Guyana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "ad1023eece36acf2",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "d53ebee364543f23",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

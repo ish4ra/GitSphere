@@ -626,8 +626,8 @@
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/stamparm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stamparm/DSVW"><b>stamparm/DSVW</b></a><br><sub>Damn Small Vulnerable Web</sub></td>
-<td align="right"><b>887</b></td>
-<td align="right">380</td>
+<td align="right"><b>886</b></td>
+<td align="right">381</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -683,7 +683,7 @@
 <td align="right">95</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/ai-resume-analyzer"><b>adrianhajdin/ai-resume-analyzer</b></a><br><sub>AI-powered Resume Analyzer built with React &amp; Puter.js. Includes seamless auth, upload and store resumes, and match can…</sub></td>
 <td align="right"><b>828</b></td>
-<td align="right">215</td>
+<td align="right">214</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -696,7 +696,7 @@
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/react-native-movie-app"><b>adrianhajdin/react-native-movie-app</b></a><br><sub>Get hands-on with React Native and Expo in this crash course! Build a mobile movie app from scratch, and learn essentia…</sub></td>
-<td align="right"><b>789</b></td>
+<td align="right"><b>791</b></td>
 <td align="right">240</td>
 <td>TypeScript</td>
 </tr>

@@ -5,7 +5,7 @@
 "country": {"code":"BZ","name":"Belize","slug":"belize"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":81,"ownerExpansionBacklog":144,"candidates":81,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":48,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":81,"ownerExpansionBacklog":142,"candidates":81,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":48,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"cybcsec","nameWithOwner":"cybcsec/cybcsec","url":"https://github.com/cybcsec/cybcsec","description":null,"stars":0,"forks":3,"primaryLanguage":"C","license":{"spdxId":"MIT"},"createdAt":"2017-07-21T20:42:03Z","pushedAt":"2017-08-10T16:05:40Z","archived":false,"owner":{"login":"cybcsec","name":"CybCSec Coin","type":"User","url":"https://github.com/cybcsec","location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"BitCent","nameWithOwner":"bitokdev/BitCent","url":"https://github.com/bitokdev/BitCent","description":null,"stars":0,"forks":2,"primaryLanguage":"C","license":null,"createdAt":"2014-12-14T16:15:01Z","pushedAt":"2015-01-23T12:27:22Z","archived":false,"owner":{"login":"bitokdev","name":"Bitok","type":"User","url":"https://github.com/bitokdev","location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -89,8 +89,8 @@
   {"rank":80,"id":null,"name":"Irice-Capstone-Project","nameWithOwner":"iricereyes1/Irice-Capstone-Project","url":"https://github.com/iricereyes1/Irice-Capstone-Project","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-06-29T19:29:14Z","pushedAt":"2025-07-04T05:52:51Z","archived":false,"owner":{"login":"iricereyes1","name":"Irice Reyes","type":"User","url":"https://github.com/iricereyes1","location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":81,"id":null,"name":"turbo-sniffle","nameWithOwner":"IsmaelCastro1989/turbo-sniffle","url":"https://github.com/IsmaelCastro1989/turbo-sniffle","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2016-12-15T03:58:15Z","pushedAt":"2016-12-15T03:58:15Z","archived":false,"owner":{"login":"IsmaelCastro1989","name":"Ismael","type":"User","url":"https://github.com/IsmaelCastro1989","location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "872bcdb7cb459555",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "0c79b7213ebbca90",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

@@ -52,14 +52,14 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/f"><img src="https://avatars.githubusercontent.com/u/196477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/f"><b>Fatih Kadir Akın</b></a><br><sub>&#64;f</sub></td>
-<td align="right"><b>11,785</b></td>
+<td align="right"><b>11,790</b></td>
 <td align="right">313</td>
 <td><sub>Istanbul, Turkey</sub></td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/engindemirog"><img src="https://avatars.githubusercontent.com/u/10206539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/engindemirog"><b>Engin Demirog</b></a><br><sub>&#64;engindemirog</sub></td>
-<td align="right"><b>10,814</b></td>
+<td align="right"><b>10,815</b></td>
 <td align="right">81</td>
 <td><sub>Ankara</sub></td>
 </tr>
@@ -172,7 +172,7 @@
 <td align="right">22</td>
 <td><a href="https://github.com/VB10"><img src="https://avatars.githubusercontent.com/u/17102578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VB10"><b>Veli Bacik</b></a><br><sub>&#64;VB10</sub></td>
 <td align="right"><b>3,435</b></td>
-<td align="right">337</td>
+<td align="right">339</td>
 <td><sub>İstanbul</sub></td>
 </tr>
 <tr>
@@ -738,7 +738,7 @@
 <tr>
 <td align="right">103</td>
 <td><a href="https://github.com/onuralpszr"><img src="https://avatars.githubusercontent.com/u/1688848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onuralpszr"><b>Onuralp SEZER</b></a><br><sub>&#64;onuralpszr</sub></td>
-<td align="right"><b>829</b></td>
+<td align="right"><b>831</b></td>
 <td align="right">333</td>
 <td><sub>Samsun,Turkey</sub></td>
 </tr>
@@ -1515,7 +1515,7 @@
 <tr>
 <td align="right">214</td>
 <td><a href="https://github.com/enespolat25"><img src="https://avatars.githubusercontent.com/u/37534266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enespolat25"><b>Enes Polat</b></a><br><sub>&#64;enespolat25</sub></td>
-<td align="right"><b>452</b></td>
+<td align="right"><b>453</b></td>
 <td align="right">341</td>
 <td><sub>Erzurum</sub></td>
 </tr>
@@ -3915,31 +3915,31 @@
 </tr>
 <tr>
 <td align="right">557</td>
+<td><a href="https://github.com/mikropsoft"><img src="https://avatars.githubusercontent.com/u/75412448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikropsoft"><b>𝗛𝗼𝗹𝗶</b></a><br><sub>&#64;mikropsoft</sub></td>
+<td align="right"><b>244</b></td>
+<td align="right">150</td>
+<td><sub>Bursa</sub></td>
+</tr>
+<tr>
+<td align="right">558</td>
 <td><a href="https://github.com/ilkgunel"><img src="https://avatars.githubusercontent.com/u/7429465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ilkgunel"><b>İlkay Günel</b></a><br><sub>&#64;ilkgunel</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">63</td>
 <td><sub>İstanbul</sub></td>
 </tr>
 <tr>
-<td align="right">558</td>
+<td align="right">559</td>
 <td><a href="https://github.com/ogzcode"><img src="https://avatars.githubusercontent.com/u/58819819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ogzcode"><b>Oğuzhan Güç</b></a><br><sub>&#64;ogzcode</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">42</td>
 <td><sub>Türkiye/Malatya</sub></td>
 </tr>
 <tr>
-<td align="right">559</td>
+<td align="right">560</td>
 <td><a href="https://github.com/onurravli"><img src="https://avatars.githubusercontent.com/u/47084109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onurravli"><b>Onur Ravli</b></a><br><sub>&#64;onurravli</sub></td>
 <td align="right"><b>243</b></td>
 <td align="right">167</td>
 <td><sub>Türkiye</sub></td>
-</tr>
-<tr>
-<td align="right">560</td>
-<td><a href="https://github.com/mikropsoft"><img src="https://avatars.githubusercontent.com/u/75412448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikropsoft"><b>𝗛𝗼𝗹𝗶</b></a><br><sub>&#64;mikropsoft</sub></td>
-<td align="right"><b>243</b></td>
-<td align="right">150</td>
-<td><sub>Bursa</sub></td>
 </tr>
 <tr>
 <td align="right">561</td>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,387 attributed developers are tracked; the cutoff is 166 followers.
+- Organizations are excluded. 1,452 attributed developers are tracked; the cutoff is 166 followers.
 - **Location discovery:** term 0 of 169 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

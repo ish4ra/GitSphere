@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/elliottminns"><img src="https://avatars.githubusercontent.com/u/3148319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elliottminns"><b>Elliott Minns</b></a><br><sub>&#64;elliottminns</sub></td>
-<td align="right"><b>1,193</b></td>
+<td align="right"><b>1,190</b></td>
 <td align="right">134</td>
 <td><sub>About</sub></td>
 </tr>
@@ -289,23 +289,23 @@
 </tr>
 <tr>
 <td align="right">39</td>
+<td><a href="https://github.com/nHallecn"><img src="https://avatars.githubusercontent.com/u/194891014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nHallecn"><b>NJI HALLE CHO-NKWENTI</b></a><br><sub>&#64;nHallecn</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">78</td>
+<td><sub>Yaounde, Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
 <td><a href="https://github.com/solonkonora"><img src="https://avatars.githubusercontent.com/u/79814497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/solonkonora"><b>Nkwada Nora Solonko</b></a><br><sub>&#64;solonkonora</sub></td>
 <td align="right"><b>125</b></td>
 <td align="right">91</td>
 <td><sub>Yaounde, Cameroon</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
-<td><a href="https://github.com/nHallecn"><img src="https://avatars.githubusercontent.com/u/194891014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nHallecn"><b>NJI HALLE CHO-NKWENTI</b></a><br><sub>&#64;nHallecn</sub></td>
-<td align="right"><b>125</b></td>
-<td align="right">78</td>
-<td><sub>Yaounde, Cameroon</sub></td>
-</tr>
-<tr>
 <td align="right">41</td>
 <td><a href="https://github.com/RMPR"><img src="https://avatars.githubusercontent.com/u/23162145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RMPR"><b>Paul Mairo</b></a><br><sub>&#64;RMPR</sub></td>
 <td align="right"><b>122</b></td>
-<td align="right">0</td>
+<td align="right">169</td>
 <td><sub>Cameroon</sub></td>
 </tr>
 <tr>

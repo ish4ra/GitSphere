@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 24 Nov 2026 | <a href="../data/JO.json">JSON</a> |
+| 🟡 Provisional | **19** | 24 Nov 2026 | <a href="../data/JO.json">JSON</a> |
 
 </div>
 
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/Abdallah-Alwarawreh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdallah-Alwarawreh/Syrup"><b>Abdallah-Alwarawreh/Syrup</b></a> <sub>archived</sub><br><sub>Syrup, a Honey alternative</sub></td>
-<td align="right"><b>765</b></td>
+<td align="right"><b>764</b></td>
 <td align="right">40</td>
 <td>TypeScript</td>
 </tr>
@@ -140,6 +140,20 @@
 <td align="right">109</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/DefinetlyNotAI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DefinetlyNotAI/Solidworks-Crack"><b>DefinetlyNotAI/Solidworks-Crack</b></a><br><sub>Guide/Cheatsheet to install Solidworks</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">23</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/tjoudeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tjoudeh/JWTAspNetWebApi"><b>tjoudeh/JWTAspNetWebApi</b></a><br><sub>Tutorial shows how to Issue JSON Web Token in ASP.NET Web API 2 and Owin middleware, then build list of Resource Server…</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">153</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
@@ -148,8 +162,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 358 stars; 17 attributed candidates are tracked.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 320 stars; 19 attributed candidates are tracked.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 106 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

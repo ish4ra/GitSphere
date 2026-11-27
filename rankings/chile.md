@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **74** | 24 Nov 2026 | <a href="../data/CL.json">JSON</a> |
+| 🟡 Provisional | **76** | 24 Nov 2026 | <a href="../data/CL.json">JSON</a> |
 
 </div>
 
@@ -207,13 +207,13 @@
 <td align="right">27</td>
 <td><img src="https://github.com/hollowstrawberry.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hollowstrawberry/kohya-colab"><b>hollowstrawberry/kohya-colab</b></a><br><sub>Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf</sub></td>
 <td align="right"><b>822</b></td>
-<td align="right">138</td>
+<td align="right">139</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/jsgrrchg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jsgrrchg/NeverWrite"><b>jsgrrchg/NeverWrite</b></a><br><sub>Your ultimate agentic markdown workspace</sub></td>
-<td align="right"><b>801</b></td>
+<td align="right"><b>802</b></td>
 <td align="right">75</td>
 <td>TypeScript</td>
 </tr>
@@ -539,6 +539,20 @@
 <td align="right">24</td>
 <td>PHP</td>
 </tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/coyarzun89.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/coyarzun89/FabTransitionActivity"><b>coyarzun89/FabTransitionActivity</b></a><br><sub>Example of fab animation</sub></td>
+<td align="right"><b>334</b></td>
+<td align="right">57</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/rgcl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rgcl/jsonpack"><b>rgcl/jsonpack</b></a><br><sub>A compression algorithm for JSON</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">31</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -547,7 +561,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 341 stars; 74 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 322 stars; 76 attributed candidates are tracked.
 - 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

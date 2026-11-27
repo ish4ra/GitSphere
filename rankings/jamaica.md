@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 24 Nov 2026 | <a href="../data/JM.json">JSON</a> |
+| 🟡 Provisional | **9** | 25 Nov 2026 | <a href="../data/JM.json">JSON</a> |
 
 </div>
 
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/njbrown.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/njbrown/texturelab"><b>njbrown/texturelab</b></a><br><sub>Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator</sub></td>
-<td align="right"><b>818</b></td>
+<td align="right"><b>817</b></td>
 <td align="right">48</td>
 <td>C++</td>
 </tr>
@@ -77,6 +77,13 @@
 <td align="right">15</td>
 <td>GDScript</td>
 </tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/ntfargo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ntfargo/CSSFontFace-Exploit"><b>ntfargo/CSSFontFace-Exploit</b></a> <sub>archived</sub><br><sub>WebKit CSSFontFace UAF exploit for PlayStation 4/5</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">85</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -85,8 +92,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 357 stars; 8 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 328 stars; 9 attributed candidates are tracked.
+- 100 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 70 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

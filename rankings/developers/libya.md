@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/MohamedFarag6"><img src="https://avatars.githubusercontent.com/u/176765276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohamedFarag6"><b>Mohamed Farag</b></a><br><sub>&#64;MohamedFarag6</sub></td>
-<td align="right"><b>123</b></td>
+<td align="right"><b>121</b></td>
 <td align="right">34</td>
 <td><sub>Benghazi, Libya</sub></td>
 </tr>
@@ -380,24 +380,24 @@
 </tr>
 <tr>
 <td align="right">52</td>
+<td><a href="https://github.com/IMYdev"><img src="https://avatars.githubusercontent.com/u/121319594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IMYdev"><b>Omran Mohamed</b></a><br><sub>&#64;IMYdev</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">66</td>
+<td><sub>Libya</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
 <td><a href="https://github.com/MahmoudThePeltist"><img src="https://avatars.githubusercontent.com/u/35870737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MahmoudThePeltist"><b>Mahmoud Aburas</b></a><br><sub>&#64;MahmoudThePeltist</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">21</td>
 <td><sub>Libya</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">54</td>
 <td><a href="https://github.com/OthmanHaba"><img src="https://avatars.githubusercontent.com/u/124089971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OthmanHaba"><b>Othman Haba (ง&#39;̀-&#39;́)ง</b></a><br><sub>&#64;OthmanHaba</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">93</td>
 <td><sub>Tripoli Libya</sub></td>
-</tr>
-<tr>
-<td align="right">54</td>
-<td><a href="https://github.com/IMYdev"><img src="https://avatars.githubusercontent.com/u/121319594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IMYdev"><b>Omran Mohamed</b></a><br><sub>&#64;IMYdev</sub></td>
-<td align="right"><b>30</b></td>
-<td align="right">66</td>
-<td><sub>Libya</sub></td>
 </tr>
 <tr>
 <td align="right">55</td>

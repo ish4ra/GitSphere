@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **43** | 24 Nov 2026 | <a href="../data/BY.json">JSON</a> |
+| 🟡 Provisional | **46** | 24 Nov 2026 | <a href="../data/BY.json">JSON</a> |
 
 </div>
 
@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/Duff89.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Duff89/parser_avito"><b>Duff89/parser&#95;avito</b></a><br><sub>Avito Parser —бесплатный парсер для автоматического мониторинга новых объявлений Avito и\или выгрузки объявлений в файл</sub></td>
-<td align="right"><b>823</b></td>
+<td align="right"><b>829</b></td>
 <td align="right">210</td>
 <td>Python</td>
 </tr>
@@ -322,6 +322,27 @@
 <td align="right">10</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/yzh44yzh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yzh44yzh/practical_erlang"><b>yzh44yzh/practical&#95;erlang</b></a><br><sub>Курс обучения Эрланг</sub></td>
+<td align="right"><b>329</b></td>
+<td align="right">82</td>
+<td>Erlang</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/tilyupo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tilyupo/qustar"><b>tilyupo/qustar</b></a><br><sub>Query SQL database through an array-like API</sub></td>
+<td align="right"><b>325</b></td>
+<td align="right">5</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/cyneprepou4uk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cyneprepou4uk/NES-Games-Disassembly"><b>cyneprepou4uk/NES-Games-Disassembly</b></a><br><sub>Source code of some NES games</sub></td>
+<td align="right"><b>315</b></td>
+<td align="right">48</td>
+<td>Assembly</td>
+</tr>
 </tbody>
 </table>
 
@@ -330,8 +351,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 345 stars; 43 attributed candidates are tracked.
-- 112 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 315 stars; 46 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

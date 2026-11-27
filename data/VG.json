@@ -5,7 +5,7 @@
 "country": {"code":"VG","name":"British Virgin Islands","slug":"british-virgin-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":60,"ownerExpansionBacklog":96,"candidates":62,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":19,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":60,"ownerExpansionBacklog":95,"candidates":62,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":19,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyNzY3NDMy","name":"node-bignum","nameWithOwner":"justmoon/node-bignum","url":"https://github.com/justmoon/node-bignum","description":"Big integers for Node.js using OpenSSL","stars":417,"forks":115,"primaryLanguage":"JavaScript","license":null,"createdAt":"2011-11-13T17:45:42Z","pushedAt":"2021-01-27T13:07:24Z","archived":false,"owner":{"login":"justmoon","name":"Stefan Thomas","type":"User","url":"https://github.com/justmoon","location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzOTY3NzY0","name":"node-extend","nameWithOwner":"justmoon/node-extend","url":"https://github.com/justmoon/node-extend","description":"Simple function to extend objects","stars":345,"forks":75,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2012-04-08T23:56:11Z","pushedAt":"2025-03-06T18:47:41Z","archived":false,"owner":{"login":"justmoon","name":"Stefan Thomas","type":"User","url":"https://github.com/justmoon","location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
@@ -70,8 +70,8 @@
   {"rank":61,"id":null,"name":"woodoodeckoficer","nameWithOwner":"woodoodeckoficer/woodoodeckoficer","url":"https://github.com/woodoodeckoficer/woodoodeckoficer","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-14T06:51:16Z","pushedAt":"2024-09-14T06:51:26Z","archived":false,"owner":{"login":"woodoodeckoficer","name":null,"type":"User","url":"https://github.com/woodoodeckoficer","location":"British Virgin Islands (VG)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":62,"id":null,"name":"token-contract","nameWithOwner":"XPOP-Entertainment/token-contract","url":"https://github.com/XPOP-Entertainment/token-contract","description":null,"stars":0,"forks":0,"primaryLanguage":"Solidity","license":null,"createdAt":"2021-06-21T06:41:19Z","pushedAt":"2021-06-21T06:46:30Z","archived":false,"owner":{"login":"XPOP-Entertainment","name":"XPOP Entertainment","type":"User","url":"https://github.com/XPOP-Entertainment","location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "2950a27f9934f2d7",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "831980284c7931b7",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

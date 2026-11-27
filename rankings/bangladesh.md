@@ -423,15 +423,15 @@
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/shovoalways.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shovoalways/CSS-Course"><b>shovoalways/CSS-Course</b></a><br><sub>এই Modern CSS3 Tutorial Bangla প্লেলিস্ট ফলো করলে আমি আশা করি আপনার আর কোথাও থেকে CSS শিখতে হবে না। আমি এই একটা প্লে-লি…</sub></td>
-<td align="right"><b>884</b></td>
+<td align="right"><b>885</b></td>
 <td align="right">40</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/FahimAnzamDip.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FahimAnzamDip/triangle-pos"><b>FahimAnzamDip/triangle-pos</b></a><br><sub>Triangle POS is an open source Inventory Management with POS System. Developed with Laravel 10, Bootstrap 4 &amp; Livewire…</sub></td>
-<td align="right"><b>877</b></td>
-<td align="right">295</td>
+<td align="right"><b>878</b></td>
+<td align="right">296</td>
 <td>Blade</td>
 </tr>
 <tr>
@@ -459,28 +459,28 @@
 <td align="right">63</td>
 <td><img src="https://github.com/htr-tech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/htr-tech/track-ip"><b>htr-tech/track-ip</b></a> <sub>archived</sub><br><sub>Advanced Ip Tracker Tool</sub></td>
 <td align="right"><b>806</b></td>
-<td align="right">127</td>
+<td align="right">126</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/adar2378.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adar2378/pin_code_fields"><b>adar2378/pin&#95;code&#95;fields</b></a><br><sub>A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful f…</sub></td>
 <td align="right"><b>795</b></td>
-<td align="right">385</td>
+<td align="right">384</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/iamismile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iamismile/web-dev-resources"><b>iamismile/web-dev-resources</b></a><br><sub>The complete web development resources you ever need. More than 150+ resources for your web development.</sub></td>
-<td align="right"><b>791</b></td>
-<td align="right">189</td>
+<td align="right"><b>792</b></td>
+<td align="right">192</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/pacifio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pacifio/flutter_apps"><b>pacifio/flutter&#95;apps</b></a><br><sub>A collection of beautiful apps using flutter , inspired by dribble or youtube UI projects :heart: :heart:</sub></td>
 <td align="right"><b>772</b></td>
-<td align="right">168</td>
+<td align="right">167</td>
 <td>Dart</td>
 </tr>
 <tr>

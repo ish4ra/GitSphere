@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/contributors/FJ.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/contributors/FJ.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/Awei2020"><img src="https://avatars.githubusercontent.com/u/62026905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Awei2020"><b>Awei</b></a><br><sub>&#64;Awei2020 · 0 followers</sub></td>
+<td align="right"><b>20</b></td>
+<td align="right">0</td>
+<td align="right">20</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/njitclass"><img src="https://avatars.githubusercontent.com/u/14267149?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/njitclass"><b>Webclass</b></a><br><sub>&#64;njitclass · 0 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">7</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/helloxubo"><img src="https://avatars.githubusercontent.com/u/38270190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/helloxubo"><b>xubo</b></a><br><sub>&#64;helloxubo · 2 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/cxc1357"><img src="https://avatars.githubusercontent.com/u/45326321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cxc1357"><b>Jason</b></a><br><sub>&#64;cxc1357 · 5 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">5</td>
@@ -141,7 +150,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/aaronsuscb"><img src="https://avatars.githubusercontent.com/u/32237855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aaronsuscb"><b>aaron</b></a><br><sub>&#64;aaronsuscb · 0 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">0</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/rahulduttt"><img src="https://avatars.githubusercontent.com/u/5867838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rahulduttt"><b>Rahul Dutt</b></a><br><sub>&#64;rahulduttt · 4 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">1</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/swiftlc"><img src="https://avatars.githubusercontent.com/u/27080019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/swiftlc"><b>swiftlc</b></a><br><sub>&#64;swiftlc · 3 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">1</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/lqsyyy"><img src="https://avatars.githubusercontent.com/u/19759251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lqsyyy"><b>Segen</b></a><br><sub>&#64;lqsyyy · 3 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
@@ -177,7 +186,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/zxf969175364"><img src="https://avatars.githubusercontent.com/u/12622610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zxf969175364"><b>Clifton Hills</b></a><br><sub>&#64;zxf969175364 · 5 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -186,7 +195,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/lei1996"><img src="https://avatars.githubusercontent.com/u/19546371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lei1996"><b>lei1996</b></a><br><sub>&#64;lei1996 · 9 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/fzcz"><img src="https://avatars.githubusercontent.com/u/50066509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fzcz"><b>tommy&#95;fei</b></a><br><sub>&#64;fzcz · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -210,7 +219,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 26 of 400 discovered developers (374 awaiting measurement).
+- **Measured:** 29 of 400 discovered developers (371 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 32 in round 1.

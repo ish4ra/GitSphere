@@ -5,7 +5,7 @@
 "country": {"code":"CK","name":"Cook Islands","slug":"cook-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":23,"ownerExpansionBacklog":31,"candidates":23,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":29,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":23,"ownerExpansionBacklog":31,"candidates":23,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":29,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"index.html-style.css-app.js","nameWithOwner":"alchemada/index.html-style.css-app.js","url":"https://github.com/alchemada/index.html-style.css-app.js","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-04-15T09:07:24Z","pushedAt":"2025-04-15T09:07:25Z","archived":false,"owner":{"login":"alchemada","name":"N bishop","type":"User","url":"https://github.com/alchemada","location":"cook islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"KiaOrana","nameWithOwner":"anead/KiaOrana","url":"https://github.com/anead/KiaOrana","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2016-08-12T23:29:58Z","pushedAt":"2016-08-12T23:29:59Z","archived":false,"owner":{"login":"anead","name":"UncleDan","type":"User","url":"https://github.com/anead","location":"Rarotonga, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -31,8 +31,8 @@
   {"rank":22,"id":null,"name":"Zoomka","nameWithOwner":"weareomniscienti/Zoomka","url":"https://github.com/weareomniscienti/Zoomka","description":null,"stars":0,"forks":0,"primaryLanguage":"Vue","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-05-23T13:14:27Z","pushedAt":"2026-05-23T13:16:27Z","archived":false,"owner":{"login":"weareomniscienti","name":"omniscienti.com","type":"User","url":"https://github.com/weareomniscienti","location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":23,"id":null,"name":"ziziskalexander","nameWithOwner":"ziziskalexander/ziziskalexander","url":"https://github.com/ziziskalexander/ziziskalexander","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-10-01T01:53:33Z","pushedAt":"2024-10-01T01:53:43Z","archived":false,"owner":{"login":"ziziskalexander","name":null,"type":"User","url":"https://github.com/ziziskalexander","location":"Cookeilanden (CK)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "f051fe4308ada4ca",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "00e92c71a32506ed",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **69** | 24 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **70** | 24 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -171,29 +171,29 @@
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/sameerasw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sameerasw/airsync-mac"><b>sameerasw/airsync-mac</b></a><br><sub>AirSync macOS - Bring the forbidden macOS continuity to Android</sub></td>
-<td align="right"><b>890</b></td>
+<td align="right"><b>893</b></td>
 <td align="right">98</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/mhdzumair.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhdzumair/mediaflow-proxy"><b>mhdzumair/mediaflow-proxy</b></a><br><sub>A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decrypti…</sub></td>
-<td align="right"><b>839</b></td>
-<td align="right">552</td>
+<td align="right"><b>843</b></td>
+<td align="right">554</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/nbbb15092.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nbbb15092/abc"><b>nbbb15092/abc</b></a></td>
-<td align="right"><b>788</b></td>
-<td align="right">4,099</td>
+<td align="right"><b>789</b></td>
+<td align="right">4,098</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/ravindu644.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ravindu644/Android-Kernel-Tutorials"><b>ravindu644/Android-Kernel-Tutorials</b></a><br><sub>Kernel building tutorials for Any device for newbies..! 🎉</sub></td>
-<td align="right"><b>761</b></td>
-<td align="right">140</td>
+<td align="right"><b>764</b></td>
+<td align="right">141</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -504,6 +504,13 @@
 <td align="right">103</td>
 <td>Astro</td>
 </tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/team-watchdog.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/team-watchdog/colombo-skylines"><b>team-watchdog/colombo-skylines</b></a><br><sub>A digital twin of the city of Colombo, Sri Lanka, implemented in Cities: Skylines, based on real data. Nearly 1:1 in te…</sub></td>
+<td align="right"><b>325</b></td>
+<td align="right">2</td>
+<td>HTML</td>
+</tr>
 </tbody>
 </table>
 
@@ -512,8 +519,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 344 stars; 69 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 325 stars; 70 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

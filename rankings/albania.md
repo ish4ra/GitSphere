@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 24 Nov 2026 | <a href="../data/AL.json">JSON</a> |
+| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/AL.json">JSON</a> |
 
 </div>
 
@@ -112,6 +112,20 @@
 <td align="right">19</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/banago.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/banago/simple-php-website"><b>banago/simple-php-website</b></a><br><sub>An introductory example of how to build a simple and minimal website built with PHP.</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">803</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/yesiamrocks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yesiamrocks/cssanimation"><b>yesiamrocks/cssanimation</b></a><br><sub>Unleash dynamic web experiences with {css}animation. A lightweight, zero-JavaScript CSS animation library for developer…</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">67</td>
+<td>CSS</td>
+</tr>
 </tbody>
 </table>
 
@@ -120,8 +134,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 374 stars; 13 attributed candidates are tracked.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 324 stars; 15 attributed candidates are tracked.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

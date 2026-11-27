@@ -5,7 +5,7 @@
 "country": {"code":"VI","name":"U.S. Virgin Islands","slug":"u-s-virgin-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":31,"measuredAccounts":17,"measurementBacklog":14,"window":{"from":"2025-11-24T21:00:00Z","to":"2026-11-24T21:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":24,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":31,"measuredAccounts":20,"measurementBacklog":11,"window":{"from":"2025-11-24T21:00:00Z","to":"2026-11-24T21:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":24,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEyMTg3OTI3","login":"blakeg83","name":"Blake Gauthier","url":"https://github.com/blakeg83","avatarUrl":"https://avatars.githubusercontent.com/u/12187927?s=80&v=4","followers":3,"publicRepos":2,"location":"U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":666,"commits":572,"pullRequests":93,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"U_kgDOCYcnCQ","login":"david-hensley","name":"David A. Hensley","url":"https://github.com/david-hensley","avatarUrl":"https://avatars.githubusercontent.com/u/159852297?s=80&v=4","followers":0,"publicRepos":3,"location":"Frederiksted, VI","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23","contributions":{"public":195,"commits":192,"pullRequests":0,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
@@ -18,8 +18,8 @@
   {"rank":9,"id":"U_kgDODzfPeg","login":"maxmelehin14-arch","name":"maxwells-workshop","url":"https://github.com/maxmelehin14-arch","avatarUrl":"https://avatars.githubusercontent.com/u/255315834?s=80&v=4","followers":0,"publicRepos":3,"location":"Little Saint James, U.S. Virgin islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":6,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":10,"id":"U_kgDOD0XE0Q","login":"thesteinagen","name":"Jeffrey Epstein","url":"https://github.com/thesteinagen","avatarUrl":"https://avatars.githubusercontent.com/u/256230609?s=80&v=4","followers":1,"publicRepos":1,"location":"Little Saint James, U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":4,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-26T18:00:00Z","windowTo":"2026-11-26T18:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "644f387c99a9eaaf",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "80681f4119a96cc7",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

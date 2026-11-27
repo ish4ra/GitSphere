@@ -5,11 +5,11 @@
 "country": {"code":"CK","name":"Cook Islands","slug":"cook-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":32,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":29,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":32,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":29,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCn07CA","login":"cacamelio","name":null,"url":"https://github.com/cacamelio","avatarUrl":"https://avatars.githubusercontent.com/u/175979272?s=80&v=4","followers":17,"publicRepos":32,"location":"Aitutaki, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjE5NDEzMDE5","login":"FriedKhan","name":"Fried","url":"https://github.com/FriedKhan","avatarUrl":"https://avatars.githubusercontent.com/u/19413019?s=80&v=4","followers":9,"publicRepos":4,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":3,"id":"MDQ6VXNlcjQ5MjY2NDUy","login":"Jasielprogramador","name":"Asier","url":"https://github.com/Jasielprogramador","avatarUrl":"https://avatars.githubusercontent.com/u/49266452?s=80&v=4","followers":8,"publicRepos":108,"location":"Islas cook","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjQ5MjY2NDUy","login":"Jasielprogramador","name":"Asier","url":"https://github.com/Jasielprogramador","avatarUrl":"https://avatars.githubusercontent.com/u/49266452?s=80&v=4","followers":8,"publicRepos":108,"location":"Islas cook","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":4,"id":"MDQ6VXNlcjI1MzAwODQ1","login":"batmansmaster","name":null,"url":"https://github.com/batmansmaster","avatarUrl":"https://avatars.githubusercontent.com/u/25300845?s=80&v=4","followers":5,"publicRepos":7,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"U_kgDOB74UsQ","login":"kortizol2","name":"Joshua Harris","url":"https://github.com/kortizol2","avatarUrl":"https://avatars.githubusercontent.com/u/129897649?s=80&v=4","followers":4,"publicRepos":15,"location":"North Megantown, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":6,"id":"U_kgDOCioKrg","login":"SchanielDiffmann","name":"BenLaurinFranz","url":"https://github.com/SchanielDiffmann","avatarUrl":"https://avatars.githubusercontent.com/u/170527406?s=80&v=4","followers":2,"publicRepos":1,"location":"Avarua,Cookinseln,Ozeanien","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
@@ -36,12 +36,12 @@
   {"rank":27,"id":"U_kgDODeLK1A","login":"marshpilot","name":"Marshall Tuarekura","url":"https://github.com/marshpilot","avatarUrl":"https://avatars.githubusercontent.com/u/232966868?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands Aitutaki","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-27"},
   {"rank":28,"id":"U_kgDOC-o45w","login":"quantizoor-alt","name":"(qtzr³)⁻¹","url":"https://github.com/quantizoor-alt","avatarUrl":"https://avatars.githubusercontent.com/u/199899367?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":29,"id":"MDQ6VXNlcjc2Nzg0NTc3","login":"Saintv1","name":"Çağrı","url":"https://github.com/Saintv1","avatarUrl":"https://avatars.githubusercontent.com/u/76784577?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
-  {"rank":30,"id":"U_kgDOCCly5A","login":"taicollective-ck","name":"taicollective-cookislands","url":"https://github.com/taicollective-ck","avatarUrl":"https://avatars.githubusercontent.com/u/136934116?s=80&v=4","followers":0,"publicRepos":0,"location":"Mauke, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":31,"id":"MDQ6VXNlcjc4NjUzMTQ=","login":"tnapa","name":"Teariki Napa","url":"https://github.com/tnapa","avatarUrl":"https://avatars.githubusercontent.com/u/7865314?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":32,"id":"U_kgDOD2OR7w","login":"VibeWorX","name":"VibeWorX","url":"https://github.com/VibeWorX","avatarUrl":"https://avatars.githubusercontent.com/u/258183663?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":30,"id":"U_kgDOCCly5A","login":"taicollective-ck","name":"taicollective-cookislands","url":"https://github.com/taicollective-ck","avatarUrl":"https://avatars.githubusercontent.com/u/136934116?s=80&v=4","followers":0,"publicRepos":0,"location":"Mauke, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-27"},
+  {"rank":31,"id":"MDQ6VXNlcjc4NjUzMTQ=","login":"tnapa","name":"Teariki Napa","url":"https://github.com/tnapa","avatarUrl":"https://avatars.githubusercontent.com/u/7865314?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
+  {"rank":32,"id":"U_kgDOD2OR7w","login":"VibeWorX","name":"VibeWorX","url":"https://github.com/VibeWorX","avatarUrl":"https://avatars.githubusercontent.com/u/258183663?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "2aa3107039ca31c3",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "2265e08080094b51",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

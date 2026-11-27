@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **69** | 24 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟡 Provisional | **77** | 24 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -255,14 +255,14 @@
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/erica-synths.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/erica-synths/diy-eurorack"><b>erica-synths/diy-eurorack</b></a><br><sub>Erica Synths DIY Eurorack Modules</sub></td>
-<td align="right"><b>781</b></td>
+<td align="right"><b>782</b></td>
 <td align="right">99</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/onlyoffice-nextcloud"><b>ONLYOFFICE/onlyoffice-nextcloud</b></a><br><sub>The app which enables the users to edit office documents from Nextcloud using ONLYOFFICE Document Server, allows multip…</sub></td>
-<td align="right"><b>762</b></td>
+<td align="right"><b>763</b></td>
 <td align="right">206</td>
 <td>PHP</td>
 </tr>
@@ -504,6 +504,62 @@
 <td align="right">98</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/DashboardPack.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DashboardPack/architectui-html-theme-free"><b>DashboardPack/architectui-html-theme-free</b></a><br><sub>ArchitectUI Dashboard Free is lightweight and comes packed with the minimal set of components to get you started. If yo…</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">154</td>
+<td>Handlebars</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/slikts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slikts/concurrency-glossary"><b>slikts/concurrency-glossary</b></a><br><sub>🦑 Informal definitions of terms used in concurrency modeling</sub></td>
+<td align="right"><b>331</b></td>
+<td align="right">15</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/kiaalap"><b>puikinsh/kiaalap</b></a><br><sub>Free admin dashboard template focused on education, online course and school management. Build using Bootstrap 5 and Vi…</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">241</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/onlyoffice-owncloud"><b>ONLYOFFICE/onlyoffice-owncloud</b></a><br><sub>The app which enables the users to edit office documents from ownCloud using ONLYOFFICE Document Server, allows multipl…</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">100</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/aivarsk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aivarsk/scruffy"><b>aivarsk/scruffy</b></a><br><sub>Makes SVG shapes look hand-drawn and creates UML diagrams using yUML (http://yuml.me) syntax</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">55</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/Ludmb3nn5.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ludmb3nn5/driver-booster"><b>Ludmb3nn5/driver-booster</b></a><br><sub>Driver Booster for Windows 10/11. Scans your PC for outdated, missing or faulty drivers and installs the correct update…</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/assistunion.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/assistunion/xml-stream"><b>assistunion/xml-stream</b></a><br><sub>XML stream parser based on Expat. Made for Node.</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">105</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/atiselsts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atiselsts/uniswap-v3-liquidity-math"><b>atiselsts/uniswap-v3-liquidity-math</b></a><br><sub>Code examples for the technical note &quot;Liquidity Math in Uniswap v3&quot;</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">74</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -512,8 +568,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 346 stars; 69 attributed candidates are tracked.
-- 98 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 318 stars; 77 attributed candidates are tracked.
+- 93 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

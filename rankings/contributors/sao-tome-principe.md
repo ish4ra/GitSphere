@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/ST.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/ST.json">JSON</a> |
 
 </div>
 
@@ -68,6 +68,15 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/sousalucio2025-alt"><img src="https://avatars.githubusercontent.com/u/291526949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sousalucio2025-alt"><b>Lúcio Carvalho</b></a><br><sub>&#64;sousalucio2025-alt · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -75,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 20 of 21 discovered developers (1 awaiting measurement).
+- **Measured:** 21 of 21 discovered developers (0 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 33 in round 1.

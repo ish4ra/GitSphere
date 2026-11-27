@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-22T10:50:31.538Z",
 "terms": {"count":115,"fingerprint":"115:738f0aa8"},
-"termIndex": 0,
+"termIndex": 1,
 "specIndex": 0,
-"active": {"term":"Burkina Faso","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjYwMA==","page":13,"retrieved":600,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-22T10:50:31.538Z","stats":{"pages":12}},
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":600},
-"updatedAt": "2026-11-22T10:50:31.538Z"
+"stats": {"requests":18,"pages":18,"accounts":846},
+"updatedAt": "2026-11-27T11:05:58.612Z"
 }

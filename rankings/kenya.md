@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **42** | 24 Nov 2026 | <a href="../data/KE.json">JSON</a> |
+| 🟡 Provisional | **50** | 24 Nov 2026 | <a href="../data/KE.json">JSON</a> |
 
 </div>
 
@@ -315,6 +315,62 @@
 <td align="right">8</td>
 <td>Rust</td>
 </tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/maxwellito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maxwellito/breaklock"><b>maxwellito/breaklock</b></a><br><sub>Web game, hybrid of Mastermind and the Android pattern lock</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">70</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/JohnMwendwa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JohnMwendwa/free-ai-resources"><b>JohnMwendwa/free-ai-resources</b></a><br><sub>A curated collection of free, high-quality resources for learning about AI, including ML, deep learning, generative AI,…</sub></td>
+<td align="right"><b>327</b></td>
+<td align="right">22</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/iamckn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iamckn/wireguard_ansible"><b>iamckn/wireguard&#95;ansible</b></a><br><sub>Ansible scripts for the set up a typical wireguard VPN connection</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">69</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/Farai155.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Farai155/kilohearts-phase-plant"><b>Farai155/kilohearts-phase-plant</b></a><br><sub>Kilohearts Phase Plant for Windows 10/11. Builds custom synthesizer patches by combining oscillators, samples and effec…</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/gaurav-feng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gaurav-feng/esignal"><b>gaurav-feng/esignal</b></a><br><sub>Esignal for Windows 10/11. Tracks real-time stock, options and futures quotes on customizable charts, runs technical sc…</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/margaret-hoang4437.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/margaret-hoang4437/thunder-client"><b>margaret-hoang4437/thunder-client</b></a><br><sub>Thunder Client for Windows 10/11. Sends HTTP requests, inspects responses and organizes API calls into collections, so…</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/is4bellateam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/is4bellateam/softmaker-office"><b>is4bellateam/softmaker-office</b></a><br><sub>Softmaker Office for Windows 10/11. Writes and edits documents, builds spreadsheets and creates presentations, then sav…</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/Borwe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Borwe/wasm_nvim"><b>Borwe/wasm&#95;nvim</b></a><br><sub>Wasm platform for nvim.</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">4</td>
+<td>Rust</td>
+</tr>
 </tbody>
 </table>
 
@@ -323,8 +379,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 345 stars; 42 attributed candidates are tracked.
-- 115 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 320 stars; 50 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

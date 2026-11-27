@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/MuhamadCheaito"><img src="https://avatars.githubusercontent.com/u/19533834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MuhamadCheaito"><b>Muhamad Cheaito</b></a><br><sub>&#64;MuhamadCheaito</sub></td>
-<td align="right"><b>300</b></td>
+<td align="right"><b>301</b></td>
 <td align="right">41</td>
 <td><sub>Beirut,Lebanon</sub></td>
 </tr>
@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><a href="https://github.com/rhamzeh"><img src="https://avatars.githubusercontent.com/u/536147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rhamzeh"><b>Raghd Hamzeh</b></a><br><sub>&#64;rhamzeh</sub></td>
-<td align="right"><b>102</b></td>
+<td align="right"><b>101</b></td>
 <td align="right">46</td>
 <td><sub>Beirut, Lebanon</sub></td>
 </tr>

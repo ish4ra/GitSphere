@@ -205,38 +205,38 @@
 </tr>
 <tr>
 <td align="right">27</td>
+<td><a href="https://github.com/imprezahost"><img src="https://avatars.githubusercontent.com/u/45517946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imprezahost"><b>Impreza Host</b></a><br><sub>&#64;imprezahost</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">15</td>
+<td><sub>Seychelles</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/manuchassot"><img src="https://avatars.githubusercontent.com/u/37631314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manuchassot"><b>manu CHASSOT</b></a><br><sub>&#64;manuchassot</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">5</td>
 <td><sub>Seychelles</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">29</td>
 <td><a href="https://github.com/Infinit001"><img src="https://avatars.githubusercontent.com/u/109748224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Infinit001"><b>Gabriel</b></a><br><sub>&#64;Infinit001</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
 <td><sub>Seychelles</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">30</td>
 <td><a href="https://github.com/mirianJesus"><img src="https://avatars.githubusercontent.com/u/32983858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mirianJesus"><b>Mirian Andrew</b></a><br><sub>&#64;mirianJesus</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
 <td><sub>Seychelles</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">31</td>
 <td><a href="https://github.com/codex4732"><img src="https://avatars.githubusercontent.com/u/18171125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codex4732"><b>Julian Chetty</b></a><br><sub>&#64;codex4732</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">31</td>
 <td><sub>Victoria, Mahe. Seychelles</sub></td>
-</tr>
-<tr>
-<td align="right">31</td>
-<td><a href="https://github.com/imprezahost"><img src="https://avatars.githubusercontent.com/u/45517946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imprezahost"><b>Impreza Host</b></a><br><sub>&#64;imprezahost</sub></td>
-<td align="right"><b>2</b></td>
-<td align="right">15</td>
-<td><sub>Seychelles</sub></td>
 </tr>
 <tr>
 <td align="right">32</td>

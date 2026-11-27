@@ -2720,7 +2720,7 @@
 <td align="right">386</td>
 <td><a href="https://github.com/Eager1337"><img src="https://avatars.githubusercontent.com/u/214580771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eager1337"><b>Eager beaver</b></a><br><sub>&#64;Eager1337</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">61</td>
+<td align="right">64</td>
 <td><sub>Sierra Leone</sub></td>
 </tr>
 <tr>

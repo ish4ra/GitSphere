@@ -382,7 +382,7 @@
 <td align="right">52</td>
 <td><a href="https://github.com/Eli0uce"><img src="https://avatars.githubusercontent.com/u/93868767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eli0uce"><b>Eli0uce</b></a><br><sub>&#64;Eli0uce</sub></td>
 <td align="right"><b>2</b></td>
-<td align="right">34</td>
+<td align="right">35</td>
 <td><sub>New-Caledonia</sub></td>
 </tr>
 <tr>

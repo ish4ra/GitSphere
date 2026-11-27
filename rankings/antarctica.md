@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **36** | 24 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
+| 🟡 Provisional | **40** | 24 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
 
 </div>
 
@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/image-template"><b>ublue-os/image-template</b></a><br><sub>Build your own custom Universal Blue Image!</sub></td>
-<td align="right"><b>900</b></td>
+<td align="right"><b>903</b></td>
 <td align="right">192</td>
 <td>Just</td>
 </tr>
@@ -137,7 +137,7 @@
 <td align="right">17</td>
 <td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/aurora"><b>ublue-os/aurora</b></a><br><sub>The ultimate productivity workstation</sub></td>
 <td align="right"><b>842</b></td>
-<td align="right">72</td>
+<td align="right">71</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/fleek"><b>ublue-os/fleek</b></a> <sub>archived</sub><br><sub>&#91;deprecated&#93; Own your $HOME</sub></td>
-<td align="right"><b>813</b></td>
+<td align="right"><b>814</b></td>
 <td align="right">27</td>
 <td>Go</td>
 </tr>
@@ -273,6 +273,34 @@
 <td align="right">31</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/bazzite-dx"><b>ublue-os/bazzite-dx</b></a> <sub>archived</sub><br><sub>The Bazzite Developer Experience</sub></td>
+<td align="right"><b>339</b></td>
+<td align="right">58</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/r-lyeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r-lyeh/tinybits"><b>r-lyeh/tinybits</b></a><br><sub>Tiny bits and useful snippets that I keep using everywhere (C, C++)</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">27</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/home-operations.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/home-operations/external-dns-unifi-webhook"><b>home-operations/external-dns-unifi-webhook</b></a><br><sub>External-DNS Webhook to manage UniFi DNS Records</sub></td>
+<td align="right"><b>329</b></td>
+<td align="right">13</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/sympa-community.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sympa-community/sympa"><b>sympa-community/sympa</b></a><br><sub>Sympa, Mailing List Management Software</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">149</td>
+<td>Perl</td>
+</tr>
 </tbody>
 </table>
 
@@ -281,8 +309,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 359 stars; 36 attributed candidates are tracked.
-- 3 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 318 stars; 40 attributed candidates are tracked.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

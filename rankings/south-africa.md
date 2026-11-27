@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **96** | 24 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
 </div>
 
@@ -206,8 +206,8 @@
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/fluffypony.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fluffypony/dothething"><b>fluffypony/dothething</b></a><br><sub>an autonomous AI agent: you describe the thing, it does the thing.</sub></td>
-<td align="right"><b>871</b></td>
-<td align="right">139</td>
+<td align="right"><b>872</b></td>
+<td align="right">140</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -227,21 +227,21 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/InitRoot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/InitRoot/BurpJSLinkFinder"><b>InitRoot/BurpJSLinkFinder</b></a><br><sub>Burp Extension for a passive scanning JS files for endpoint links.</sub></td>
-<td align="right"><b>818</b></td>
+<td align="right"><b>819</b></td>
 <td align="right">111</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/ubikron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ubikron/Awesome-AI-OSINT"><b>ubikron/Awesome-AI-OSINT</b></a><br><sub>A list of articles, videos, and tools related to the use of AI for OSINT.</sub></td>
-<td align="right"><b>808</b></td>
-<td align="right">121</td>
+<td align="right"><b>810</b></td>
+<td align="right">122</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/micah5.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/micah5/PSone.css"><b>micah5/PSone.css</b></a><br><sub>🎮 PS1 style CSS Framework, inspired by NES.css</sub></td>
-<td align="right"><b>802</b></td>
+<td align="right"><b>803</b></td>
 <td align="right">35</td>
 <td>CSS</td>
 </tr>
@@ -693,15 +693,43 @@
 <td align="right">7</td>
 <td>AutoHotkey</td>
 </tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/malcolmkmd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/malcolmkmd/NetworkLayer"><b>malcolmkmd/NetworkLayer</b></a><br><sub>Network Layer in Swift: Protocol-Oriented Approach</sub></td>
+<td align="right"><b>339</b></td>
+<td align="right">71</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/iftheshoefritz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iftheshoefritz/solargraph-rails"><b>iftheshoefritz/solargraph-rails</b></a><br><sub>Solargraph plugin to add awareness of Rails-specific code</sub></td>
+<td align="right"><b>338</b></td>
+<td align="right">33</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/cloudandthings.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cloudandthings/terraform-aws-clickops-notifier"><b>cloudandthings/terraform-aws-clickops-notifier</b></a><br><sub>Get notified when actions are taken in the AWS Console.</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">30</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/LukeRenton.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LukeRenton/explore-claude-code"><b>LukeRenton/explore-claude-code</b></a><br><sub>Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md…</sub></td>
+<td align="right"><b>335</b></td>
+<td align="right">36</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 342 stars; 96 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 335 stars; 111 attributed candidates are tracked.
 - 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

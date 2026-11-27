@@ -591,8 +591,8 @@
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/djlastnight.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/djlastnight/KeyboardSplitterXbox"><b>djlastnight/KeyboardSplitterXbox</b></a><br><sub>Creates up to 4 virtual xbox 360 controllers and feeds them via one or more keyboards.</sub></td>
-<td align="right"><b>888</b></td>
-<td align="right">72</td>
+<td align="right"><b>889</b></td>
+<td align="right">71</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -634,7 +634,7 @@
 <td align="right">88</td>
 <td><img src="https://github.com/me-no-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-no-dev/AsyncTCP"><b>me-no-dev/AsyncTCP</b></a> <sub>archived</sub><br><sub>Async TCP Library for ESP32</sub></td>
 <td align="right"><b>800</b></td>
-<td align="right">489</td>
+<td align="right">490</td>
 <td>C++</td>
 </tr>
 <tr>

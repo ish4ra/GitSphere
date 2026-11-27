@@ -36,7 +36,7 @@
   {"rank":27,"id":"MDQ6VXNlcjM3ODkwMDI2","login":"ming-tsai","name":"Ming Tsai","url":"https://github.com/ming-tsai","avatarUrl":"https://avatars.githubusercontent.com/u/37890026?s=80&v=4","followers":109,"publicRepos":34,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":28,"id":"MDQ6VXNlcjI3ODkxMzA=","login":"ecabrerar","name":"Eudris Cabrera Rodriguez","url":"https://github.com/ecabrerar","avatarUrl":"https://avatars.githubusercontent.com/u/2789130?s=80&v=4","followers":106,"publicRepos":76,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":29,"id":"MDQ6VXNlcjQyNTIwODAw","login":"xeno097","name":"xeno097","url":"https://github.com/xeno097","avatarUrl":"https://avatars.githubusercontent.com/u/42520800?s=80&v=4","followers":100,"publicRepos":34,"location":"Santo Domingo, Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-27"},
-  {"rank":30,"id":"MDQ6VXNlcjQ3NjY1NzA=","login":"javisperez","name":"Javis V. Pérez","url":"https://github.com/javisperez","avatarUrl":"https://avatars.githubusercontent.com/u/4766570?s=80&v=4","followers":98,"publicRepos":58,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
+  {"rank":30,"id":"MDQ6VXNlcjQ3NjY1NzA=","login":"javisperez","name":"Javis V. Pérez","url":"https://github.com/javisperez","avatarUrl":"https://avatars.githubusercontent.com/u/4766570?s=80&v=4","followers":98,"publicRepos":58,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":31,"id":"MDQ6VXNlcjUwNzc3MzE5","login":"tommycontreras11","name":"Tommy Grullón Contreras","url":"https://github.com/tommycontreras11","avatarUrl":"https://avatars.githubusercontent.com/u/50777319?s=80&v=4","followers":97,"publicRepos":89,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":32,"id":"MDQ6VXNlcjg5MjI0MTk2","login":"fraineralex","name":"Frainer Encarnación","url":"https://github.com/fraineralex","avatarUrl":"https://avatars.githubusercontent.com/u/89224196?s=80&v=4","followers":96,"publicRepos":87,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":33,"id":"MDQ6VXNlcjcwNDIxMw==","login":"carlosvasquez","name":"Carlos Vásquez Polanco","url":"https://github.com/carlosvasquez","avatarUrl":"https://avatars.githubusercontent.com/u/704213?s=80&v=4","followers":95,"publicRepos":27,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
@@ -415,8 +415,8 @@
   {"rank":406,"id":"MDQ6VXNlcjI1MDQyNTgx","login":"semjase","name":"Frank Vinas","url":"https://github.com/semjase","avatarUrl":"https://avatars.githubusercontent.com/u/25042581?s=80&v=4","followers":0,"publicRepos":1,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":407,"id":"MDQ6VXNlcjkzMDcxNQ==","login":"Solusync","name":"Solusync","url":"https://github.com/Solusync","avatarUrl":"https://avatars.githubusercontent.com/u/930715?s=80&v=4","followers":0,"publicRepos":1,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "3508e382ce95d110",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "4e805fbb80f3e4ff",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 23 Nov 2026 | <a href="../../data/contributors/AE.json">JSON</a> |
+| 🟡 Provisional | **18** | 23 Nov 2026 | <a href="../../data/contributors/AE.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/mathusiast"><img src="https://avatars.githubusercontent.com/u/7790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mathusiast"><b>Züri Bar Yochay</b></a><br><sub>&#64;mathusiast · 125 followers</sub></td>
+<td align="right"><b>101</b></td>
+<td align="right">78</td>
+<td align="right">9</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/TarrySingh"><img src="https://avatars.githubusercontent.com/u/7202199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TarrySingh"><b>tarry.singh</b></a><br><sub>&#64;TarrySingh · 1,428 followers</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">71</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/techwithtim"><img src="https://avatars.githubusercontent.com/u/35348871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/techwithtim"><b>Tim Ruscica</b></a><br><sub>&#64;techwithtim · 25,334 followers</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">26</td>
@@ -132,7 +141,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/ziacto"><img src="https://avatars.githubusercontent.com/u/2651025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ziacto"><b>Zia Shahid</b></a><br><sub>&#64;ziacto · 176 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">24</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/Ahmed-Ali"><img src="https://avatars.githubusercontent.com/u/5157350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ahmed-Ali"><b>Ahmed Ali</b></a><br><sub>&#64;Ahmed-Ali · 364 followers</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">23</td>
@@ -150,7 +159,25 @@
 <td align="right">3</td>
 </tr>
 <tr>
+<td align="right">16</td>
+<td><a href="https://github.com/uzairleo"><img src="https://avatars.githubusercontent.com/u/52172428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uzairleo"><b>Uzairleo</b></a><br><sub>&#64;uzairleo · 125 followers</sub></td>
+<td align="right"><b>28</b></td>
 <td align="right">15</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/yrestom"><img src="https://avatars.githubusercontent.com/u/19572067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yrestom"><b>Yousef Restom</b></a><br><sub>&#64;yrestom · 242 followers</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/AlanBinu007"><img src="https://avatars.githubusercontent.com/u/65335042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlanBinu007"><b>Alan Binu</b></a><br><sub>&#64;AlanBinu007 · 237 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -165,7 +192,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 683 discovered developers (666 awaiting measurement).
+- **Measured:** 20 of 716 discovered developers (696 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 98 in round 1.

@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/ElijahMwambazi"><img src="https://avatars.githubusercontent.com/u/62639996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ElijahMwambazi"><b>Elijahhhh</b></a><br><sub>&#64;ElijahMwambazi</sub></td>
-<td align="right"><b>122</b></td>
+<td align="right"><b>121</b></td>
 <td align="right">26</td>
 <td><sub>Lusaka, Zambia</sub></td>
 </tr>

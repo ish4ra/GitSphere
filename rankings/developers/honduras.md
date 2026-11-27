@@ -277,7 +277,7 @@
 <td align="right">37</td>
 <td><a href="https://github.com/YamilG"><img src="https://avatars.githubusercontent.com/u/113573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YamilG"><b>Yamil Gonzales</b></a><br><sub>&#64;YamilG</sub></td>
 <td align="right"><b>38</b></td>
-<td align="right">61</td>
+<td align="right">62</td>
 <td><sub>Tegucigalpa, Honduras</sub></td>
 </tr>
 <tr>

@@ -774,7 +774,7 @@
 <td align="right">108</td>
 <td><a href="https://github.com/SouksavathPMS"><img src="https://avatars.githubusercontent.com/u/91107096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SouksavathPMS"><b>KYE</b></a><br><sub>&#64;SouksavathPMS</sub></td>
 <td align="right"><b>4</b></td>
-<td align="right">63</td>
+<td align="right">64</td>
 <td><sub>Laos</sub></td>
 </tr>
 <tr>

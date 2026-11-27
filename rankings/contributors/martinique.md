@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/MQ.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/MQ.json">JSON</a> |
 
 </div>
 
@@ -151,6 +151,15 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/jbsselim972"><img src="https://avatars.githubusercontent.com/u/10562702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jbsselim972"><b>Selim Jean-Baptiste-Simone</b></a><br><sub>&#64;jbsselim972 · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/jrouvel"><img src="https://avatars.githubusercontent.com/u/4440394?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jrouvel"><b>Jerome Rouvel</b></a><br><sub>&#64;jrouvel · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -165,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 20 of 170 discovered developers (150 awaiting measurement).
+- **Measured:** 23 of 170 discovered developers (147 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 23 in round 1.

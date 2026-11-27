@@ -5,7 +5,7 @@
 "country": {"code":"BT","name":"Bhutan","slug":"bhutan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":23,"ownerExpansionBacklog":145,"candidates":23,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":38,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":23,"ownerExpansionBacklog":142,"candidates":23,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":38,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"devops_traning_bhutan","nameWithOwner":"tshenchotshering/devops_traning_bhutan","url":"https://github.com/tshenchotshering/devops_traning_bhutan","description":null,"stars":0,"forks":18,"primaryLanguage":null,"license":null,"createdAt":"2019-05-06T14:25:34Z","pushedAt":"2019-05-06T14:19:56Z","archived":false,"owner":{"login":"tshenchotshering","name":"Tshencho Tshering","type":"User","url":"https://github.com/tshenchotshering","location":"Thimphu, Bhutan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"docker-repo","nameWithOwner":"kuengalhundrup/docker-repo","url":"https://github.com/kuengalhundrup/docker-repo","description":null,"stars":0,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2019-04-24T08:42:45Z","pushedAt":"2019-04-24T09:49:35Z","archived":false,"owner":{"login":"kuengalhundrup","name":"Kuenga Lhundrup","type":"User","url":"https://github.com/kuengalhundrup","location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -31,8 +31,8 @@
   {"rank":22,"id":null,"name":"everygood-backend","nameWithOwner":"ashmanpakhring112/everygood-backend","url":"https://github.com/ashmanpakhring112/everygood-backend","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-08-30T09:56:48Z","pushedAt":"2025-08-30T09:56:48Z","archived":false,"owner":{"login":"ashmanpakhring112","name":"Creater","type":"User","url":"https://github.com/ashmanpakhring112","location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":23,"id":null,"name":"todo-repo","nameWithOwner":"Asish-khandal/todo-repo","url":"https://github.com/Asish-khandal/todo-repo","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-07-07T06:07:22Z","pushedAt":"2026-07-07T06:07:23Z","archived":false,"owner":{"login":"Asish-khandal","name":"Asish Khandal","type":"User","url":"https://github.com/Asish-khandal","location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "53e8de04bd13f6d0",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "82df3d750a4cb361",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

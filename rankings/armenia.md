@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **65** | 24 Nov 2026 | <a href="../data/AM.json">JSON</a> |
+| 🟡 Provisional | **74** | 24 Nov 2026 | <a href="../data/AM.json">JSON</a> |
 
 </div>
 
@@ -213,7 +213,7 @@
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/JaneySprings.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JaneySprings/DotRush"><b>JaneySprings/DotRush</b></a><br><sub>Lightweight C# development environment for VSCode</sub></td>
-<td align="right"><b>791</b></td>
+<td align="right"><b>792</b></td>
 <td align="right">36</td>
 <td>C#</td>
 </tr>
@@ -221,7 +221,7 @@
 <td align="right">29</td>
 <td><img src="https://github.com/05bit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/05bit/peewee-async"><b>05bit/peewee-async</b></a><br><sub>Asynchronous interface for peewee ORM powered by asyncio</sub></td>
 <td align="right"><b>764</b></td>
-<td align="right">99</td>
+<td align="right">98</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -476,6 +476,69 @@
 <td align="right">36</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/RealyUniqueName.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RealyUniqueName/StablexUI"><b>RealyUniqueName/StablexUI</b></a><br><sub>UI engine for Haxe OpenFL designed to give as much freedom as possible in customizing UI</sub></td>
+<td align="right"><b>338</b></td>
+<td align="right">76</td>
+<td>Haxe</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/StefanPapp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/StefanPapp/investing-for-programmers"><b>StefanPapp/investing-for-programmers</b></a><br><sub>For Investing for Programmers book published by Manning</sub></td>
+<td align="right"><b>338</b></td>
+<td align="right">64</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/hakobast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hakobast/DropdownTextView"><b>hakobast/DropdownTextView</b></a> <sub>archived</sub><br><sub>Simple drop-down(expandable) TextView for Android</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">38</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/YerevaNN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano"><b>YerevaNN/Dynamic-memory-networks-in-Theano</b></a><br><sub>Implementation of Dynamic memory networks by Kumar et al. http://arxiv.org/abs/1506.07285</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">107</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/armcha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/armcha/PlayTabLayout"><b>armcha/PlayTabLayout</b></a><br><sub>PlayTabLayout is a tab layout very similar to Google Play tab layout. The main feature is that ripple shows in a partic…</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">61</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/chetannet48.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chetannet48/redshift"><b>chetannet48/redshift</b></a><br><sub>Redshift for Windows 10/11. Compiles C++ and CUDA shader code into GPU-accelerated renders, letting artists preview lig…</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/juansokolov5.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juansokolov5/ringcentral"><b>juansokolov5/ringcentral</b></a><br><sub>Ringcentral for Windows 10/11. Calls, messages and video meets in one place, letting teams join meetings, share screens…</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/elifyoung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elifyoung/unigine-superposition"><b>elifyoung/unigine-superposition</b></a><br><sub>Unigine Superposition for Windows 10/11. Runs GPU stress tests and renders cinematic 3D benchmark scenes to measure gra…</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/armcha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/armcha/Vertical-Intro"><b>armcha/Vertical-Intro</b></a><br><sub>Vertical intro allows you to integrate material vertical intro to your app</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">43</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -484,8 +547,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 342 stars; 65 attributed candidates are tracked.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 317 stars; 74 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

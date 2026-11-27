@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"NR","name":"Nauru","slug":"nauru"},
-"count": 11,
+"count": 10,
 "repositories": [
-  {"name":"nutsi/rust-mysql","stars":1,"forks":2,"language":"Rust","archived":false,"createdAt":"2013-11-08T09:24:18Z","pushedAt":"2013-11-28T08:58:55Z","owner":{"login":"nutsi","type":"User","location":"Yaren"},"attribution":{"code":"NR","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T06:24:58.181Z","id":"legacy:nutsi/rust-mysql","legacy":true},
   {"name":"01LuckyStrike10/overtone","stars":0,"forks":0,"archived":false,"createdAt":"2023-12-20T16:36:49Z","pushedAt":"2023-12-20T16:36:50Z","owner":{"login":"01LuckyStrike10","type":"User","name":"01LuckyStrike10","location":"Nauru"},"attribution":{"code":"NR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:24:58.181Z","id":"legacy:01luckystrike10/overtone","legacy":true},
   {"name":"AquaBera/aquabera-assets","stars":0,"forks":0,"archived":false,"createdAt":"2025-02-25T03:31:04Z","pushedAt":"2025-02-25T03:40:41Z","owner":{"login":"AquaBera","type":"Organization","name":"AquaBera","location":"Nauru"},"attribution":{"code":"NR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:24:58.181Z","id":"legacy:aquabera/aquabera-assets","legacy":true},
   {"name":"bonifacyfirefly/bonifacyfirefly","stars":0,"forks":0,"archived":false,"createdAt":"2024-09-30T14:26:53Z","pushedAt":"2024-09-30T14:27:09Z","owner":{"login":"bonifacyfirefly","type":"User","location":"Nauru (NR)"},"attribution":{"code":"NR","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T06:24:58.181Z","id":"legacy:bonifacyfirefly/bonifacyfirefly","legacy":true},

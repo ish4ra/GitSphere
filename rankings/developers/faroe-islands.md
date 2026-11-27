@@ -492,17 +492,17 @@
 </tr>
 <tr>
 <td align="right">68</td>
-<td><a href="https://github.com/SheetHappiness"><img src="https://avatars.githubusercontent.com/u/296958267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SheetHappiness"><b>SheetHappiness</b></a><br><sub>&#64;SheetHappiness</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">13</td>
-<td><sub>Faroe Islands</sub></td>
-</tr>
-<tr>
-<td align="right">69</td>
 <td><a href="https://github.com/odinellefsen"><img src="https://avatars.githubusercontent.com/u/49004766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/odinellefsen"><b>odinellefsen</b></a><br><sub>&#64;odinellefsen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">11</td>
 <td><sub>Vestara Bryggja 15, Tórshavn, Faroe Islands</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><a href="https://github.com/softsock"><img src="https://avatars.githubusercontent.com/u/296958267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/softsock"><b>liac</b></a><br><sub>&#64;softsock</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">11</td>
+<td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
 <td align="right">70</td>

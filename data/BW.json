@@ -5,12 +5,12 @@
 "country": {"code":"BW","name":"Botswana","slug":"botswana"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1137,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":143,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":118,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1137,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":140,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":118,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOQ9w05Q","name":"shimmer-from-structure","nameWithOwner":"darula-hpp/shimmer-from-structure","url":"https://github.com/darula-hpp/shimmer-from-structure","description":"A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.","stars":1137,"forks":20,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-01-20T18:59:27Z","pushedAt":"2026-10-04T19:57:33Z","archived":false,"owner":{"login":"darula-hpp","name":"Olebogeng Mbedzi","type":"User","url":"https://github.com/darula-hpp","location":"Gaborone","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "aa709bd4fe05e9f6",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "1a116d8cd6a3f7de",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-27",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

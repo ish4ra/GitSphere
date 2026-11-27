@@ -5,14 +5,14 @@
 "country": {"code":"HN","name":"Honduras","slug":"honduras"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":397,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":111,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":397,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":128,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":111,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOIgA-pQ","name":"rippleui","nameWithOwner":"Siumauricio/rippleui","url":"https://github.com/Siumauricio/rippleui","description":"Clean, modern and beautiful Tailwind CSS components.","stars":1040,"forks":44,"primaryLanguage":"CSS","license":{"spdxId":"MIT"},"createdAt":"2022-11-25T07:44:26Z","pushedAt":"2023-07-30T22:44:49Z","archived":false,"owner":{"login":"Siumauricio","name":"Mauricio Siu","type":"User","url":"https://github.com/Siumauricio","location":"Honduras, San Pedro Sula","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
-  {"rank":2,"id":"R_kgDOIBwLxA","name":"nextui-dashboard-template","nameWithOwner":"Siumauricio/nextui-dashboard-template","url":"https://github.com/Siumauricio/nextui-dashboard-template","description":"Dashboard starter using NextUI V2 and Nextjs.","stars":820,"forks":163,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-09-19T21:48:54Z","pushedAt":"2024-08-05T16:18:13Z","archived":false,"owner":{"login":"Siumauricio","name":"Mauricio Siu","type":"User","url":"https://github.com/Siumauricio","location":"Honduras, San Pedro Sula","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
+  {"rank":2,"id":"R_kgDOIBwLxA","name":"nextui-dashboard-template","nameWithOwner":"Siumauricio/nextui-dashboard-template","url":"https://github.com/Siumauricio/nextui-dashboard-template","description":"Dashboard starter using NextUI V2 and Nextjs.","stars":820,"forks":163,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-09-19T21:48:54Z","pushedAt":"2024-08-05T16:18:13Z","archived":false,"owner":{"login":"Siumauricio","name":"Mauricio Siu","type":"User","url":"https://github.com/Siumauricio","location":"Honduras, San Pedro Sula","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
   {"rank":3,"id":"R_kgDOIAWTnw","name":"landing-template-nextui","nameWithOwner":"Siumauricio/landing-template-nextui","url":"https://github.com/Siumauricio/landing-template-nextui","description":"Landing page for any SaaS company, using Nextjs and NextUI","stars":397,"forks":99,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-09-15T23:20:02Z","pushedAt":"2024-08-21T02:39:17Z","archived":false,"owner":{"login":"Siumauricio","name":"Mauricio Siu","type":"User","url":"https://github.com/Siumauricio","location":"Honduras, San Pedro Sula","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "2fefad00b7dc0409",
-"updatedAt": "2026-11-27T02:53:26.992Z",
-"verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"contentHash": "0260e7940e7c7626",
+"updatedAt": "2026-11-27T11:33:59.196Z",
+"verifiedOn": "2026-11-26",
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

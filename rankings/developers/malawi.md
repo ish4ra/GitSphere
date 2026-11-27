@@ -164,21 +164,21 @@
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/g1ftmkyelu"><img src="https://avatars.githubusercontent.com/u/62421300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/g1ftmkyelu"><b>codemaestro🚀</b></a><br><sub>&#64;g1ftmkyelu</sub></td>
-<td align="right"><b>127</b></td>
+<td align="right"><b>126</b></td>
 <td align="right">4</td>
 <td><sub>🇲🇼 Malawi</sub></td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><a href="https://github.com/amusukwa"><img src="https://avatars.githubusercontent.com/u/30260269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amusukwa"><b>Alice</b></a><br><sub>&#64;amusukwa</sub></td>
-<td align="right"><b>122</b></td>
+<td align="right"><b>123</b></td>
 <td align="right">45</td>
 <td><sub>Malawi</sub></td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><a href="https://github.com/chikondikamwendo"><img src="https://avatars.githubusercontent.com/u/68282071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chikondikamwendo"><b>Chikondi Kamwendo</b></a><br><sub>&#64;chikondikamwendo</sub></td>
-<td align="right"><b>122</b></td>
+<td align="right"><b>123</b></td>
 <td align="right">6</td>
 <td><sub>Malawi</sub></td>
 </tr>
@@ -1031,73 +1031,73 @@
 </tr>
 <tr>
 <td align="right">145</td>
+<td><a href="https://github.com/abdou-da0wew"><img src="https://avatars.githubusercontent.com/u/210929342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdou-da0wew"><b>Abdbyte</b></a><br><sub>&#64;abdou-da0wew</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">54</td>
+<td><sub>EG/Mania/Malawi</sub></td>
+</tr>
+<tr>
+<td align="right">146</td>
 <td><a href="https://github.com/alipompita"><img src="https://avatars.githubusercontent.com/u/58941738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alipompita"><b>alipompita</b></a><br><sub>&#64;alipompita</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">29</td>
 <td><sub>Lilongwe, Malawi</sub></td>
 </tr>
 <tr>
-<td align="right">146</td>
+<td align="right">147</td>
 <td><a href="https://github.com/Twapa"><img src="https://avatars.githubusercontent.com/u/23131413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Twapa"><b>Mathews</b></a><br><sub>&#64;Twapa</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">27</td>
 <td><sub>malawi,Zomba</sub></td>
 </tr>
 <tr>
-<td align="right">147</td>
+<td align="right">148</td>
 <td><a href="https://github.com/2KAY-kat"><img src="https://avatars.githubusercontent.com/u/191089910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2KAY-kat"><b>Kelvin KAY Katoya</b></a><br><sub>&#64;2KAY-kat</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">25</td>
 <td><sub>Blantyre, Malawi</sub></td>
 </tr>
 <tr>
-<td align="right">148</td>
+<td align="right">149</td>
 <td><a href="https://github.com/rnjema-unima"><img src="https://avatars.githubusercontent.com/u/134515139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rnjema-unima"><b>Ramsey Njema</b></a><br><sub>&#64;rnjema-unima</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">21</td>
 <td><sub>Zomba, Malawi</sub></td>
 </tr>
 <tr>
-<td align="right">149</td>
+<td align="right">150</td>
 <td><a href="https://github.com/AllanKantombera"><img src="https://avatars.githubusercontent.com/u/131782194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AllanKantombera"><b>AllanKantombera</b></a><br><sub>&#64;AllanKantombera</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">19</td>
 <td><sub>Lilongwe, Malawi</sub></td>
 </tr>
 <tr>
-<td align="right">150</td>
+<td align="right">151</td>
 <td><a href="https://github.com/Jimmy-JayJay"><img src="https://avatars.githubusercontent.com/u/140811384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jimmy-JayJay"><b>Jimmy Edward Matewere</b></a><br><sub>&#64;Jimmy-JayJay</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">16</td>
 <td><sub>Blantyre, Malawi</sub></td>
 </tr>
 <tr>
-<td align="right">151</td>
+<td align="right">152</td>
 <td><a href="https://github.com/ColonelBlimp"><img src="https://avatars.githubusercontent.com/u/20266202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ColonelBlimp"><b>ColonelBlimp</b></a><br><sub>&#64;ColonelBlimp</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">7</td>
 <td><sub>Mzuzu, Malawi</sub></td>
 </tr>
 <tr>
-<td align="right">152</td>
+<td align="right">153</td>
 <td><a href="https://github.com/kankhwangwa"><img src="https://avatars.githubusercontent.com/u/60519215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kankhwangwa"><b>Black Kankhwangwa Kasema</b></a><br><sub>&#64;kankhwangwa</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">6</td>
 <td><sub>Malawi, Lilongwe</sub></td>
 </tr>
 <tr>
-<td align="right">153</td>
+<td align="right">154</td>
 <td><a href="https://github.com/FreeWillie265"><img src="https://avatars.githubusercontent.com/u/20463375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FreeWillie265"><b>Willie Kasakula</b></a><br><sub>&#64;FreeWillie265</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">3</td>
 <td><sub>Lilongwe, Malawi</sub></td>
-</tr>
-<tr>
-<td align="right">154</td>
-<td><a href="https://github.com/abdou-da0wew"><img src="https://avatars.githubusercontent.com/u/210929342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdou-da0wew"><b>Abdbyte</b></a><br><sub>&#64;abdou-da0wew</sub></td>
-<td align="right"><b>8</b></td>
-<td align="right">53</td>
-<td><sub>EG/Mania/Malawi</sub></td>
 </tr>
 <tr>
 <td align="right">155</td>
@@ -1187,7 +1187,7 @@
 <td align="right">167</td>
 <td><a href="https://github.com/Astonie"><img src="https://avatars.githubusercontent.com/u/32304084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Astonie"><b>Astonie Mukiwa</b></a><br><sub>&#64;Astonie</sub></td>
 <td align="right"><b>7</b></td>
-<td align="right">53</td>
+<td align="right">54</td>
 <td><sub>Africa,Malawi.</sub></td>
 </tr>
 <tr>

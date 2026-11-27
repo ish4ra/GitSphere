@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/ntfargo"><img src="https://avatars.githubusercontent.com/u/32229490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntfargo"><b>Nathan Fargo</b></a><br><sub>&#64;ntfargo</sub></td>
-<td align="right"><b>445</b></td>
+<td align="right"><b>447</b></td>
 <td align="right">9</td>
 <td><sub>Silent Hill</sub></td>
 </tr>
@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/stefanocudini"><img src="https://avatars.githubusercontent.com/u/47107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefanocudini"><b>Stefano Cudini</b></a><br><sub>&#64;stefanocudini</sub></td>
-<td align="right"><b>334</b></td>
+<td align="right"><b>332</b></td>
 <td align="right">168</td>
 <td><sub>Alps</sub></td>
 </tr>
@@ -1346,156 +1346,156 @@
 </tr>
 <tr>
 <td align="right">190</td>
-<td><a href="https://github.com/Patrizio-programs"><img src="https://avatars.githubusercontent.com/u/73086462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Patrizio-programs"><b>PatrizioTheDev</b></a><br><sub>&#64;Patrizio-programs</sub></td>
-<td align="right"><b>5</b></td>
-<td align="right">91</td>
-<td><sub>Jamaica</sub></td>
-</tr>
-<tr>
-<td align="right">191</td>
 <td><a href="https://github.com/CLOUGH"><img src="https://avatars.githubusercontent.com/u/1144415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CLOUGH"><b>Warren Clough</b></a><br><sub>&#64;CLOUGH</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">53</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">191</td>
 <td><a href="https://github.com/moyanich"><img src="https://avatars.githubusercontent.com/u/11672418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moyanich"><b>Amoy N.</b></a><br><sub>&#64;moyanich</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">53</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">192</td>
 <td><a href="https://github.com/jesseframework"><img src="https://avatars.githubusercontent.com/u/61049847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesseframework"><b>Future Edge Pro</b></a><br><sub>&#64;jesseframework</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">44</td>
 <td><sub>Kingston Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">193</td>
 <td><a href="https://github.com/rxheem"><img src="https://avatars.githubusercontent.com/u/37784173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rxheem"><b>Raheem McDonald</b></a><br><sub>&#64;rxheem</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">39</td>
 <td><sub>Kingston, Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">194</td>
 <td><a href="https://github.com/ceodevforce"><img src="https://avatars.githubusercontent.com/u/99844305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ceodevforce"><b>V</b></a><br><sub>&#64;ceodevforce</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">38</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">195</td>
 <td><a href="https://github.com/ChromeMatic"><img src="https://avatars.githubusercontent.com/u/61952310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChromeMatic"><b>Armani Brown</b></a><br><sub>&#64;ChromeMatic</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">33</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">196</td>
 <td><a href="https://github.com/CabTheProgrammer"><img src="https://avatars.githubusercontent.com/u/55765253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CabTheProgrammer"><b>CabTheProgrammer</b></a><br><sub>&#64;CabTheProgrammer</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">27</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">197</td>
 <td><a href="https://github.com/MrDay2Day"><img src="https://avatars.githubusercontent.com/u/9489648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrDay2Day"><b>Dwight Thorpe</b></a><br><sub>&#64;MrDay2Day</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">26</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">198</td>
 <td><a href="https://github.com/AnthonyLatty"><img src="https://avatars.githubusercontent.com/u/19282591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnthonyLatty"><b>Marc-Anthony Latty</b></a><br><sub>&#64;AnthonyLatty</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">17</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">199</td>
 <td><a href="https://github.com/dev-murphy"><img src="https://avatars.githubusercontent.com/u/173641909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dev-murphy"><b>ZenithCodes</b></a><br><sub>&#64;dev-murphy</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">17</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">200</td>
 <td><a href="https://github.com/Th3Wol7"><img src="https://avatars.githubusercontent.com/u/91337390?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Th3Wol7"><b>Tyrien Gilpin</b></a><br><sub>&#64;Th3Wol7</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">17</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">201</td>
 <td><a href="https://github.com/lionely"><img src="https://avatars.githubusercontent.com/u/16843721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lionely"><b>Jonathan Scott</b></a><br><sub>&#64;lionely</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">16</td>
 <td><sub>Kingston,Jamaica.</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">202</td>
 <td><a href="https://github.com/Clifton-Lee"><img src="https://avatars.githubusercontent.com/u/63034651?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Clifton-Lee"><b>Clifton Lee</b></a><br><sub>&#64;Clifton-Lee</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">12</td>
 <td><sub>Kingston, Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">203</td>
 <td><a href="https://github.com/jjosephs"><img src="https://avatars.githubusercontent.com/u/211753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jjosephs"><b>Julian Josephs</b></a><br><sub>&#64;jjosephs</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">12</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">204</td>
 <td><a href="https://github.com/milly-code"><img src="https://avatars.githubusercontent.com/u/10564821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/milly-code"><b>Milton Edwards</b></a><br><sub>&#64;milly-code</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">12</td>
 <td><sub>Kingston, Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">205</td>
 <td><a href="https://github.com/Shane4368"><img src="https://avatars.githubusercontent.com/u/47081839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Shane4368"><b>Shane4368</b></a><br><sub>&#64;Shane4368</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">9</td>
 <td><sub>St. Catherine, Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">206</td>
 <td><a href="https://github.com/tbuchanan-vti"><img src="https://avatars.githubusercontent.com/u/92241460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tbuchanan-vti"><b>Tremaine Buchanan</b></a><br><sub>&#64;tbuchanan-vti</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">9</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">207</td>
 <td><a href="https://github.com/Natreve"><img src="https://avatars.githubusercontent.com/u/7748641?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Natreve"><b>Andrew Gray</b></a><br><sub>&#64;Natreve</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">7</td>
 <td><sub>Kingston, Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">208</td>
 <td><a href="https://github.com/Kurpp"><img src="https://avatars.githubusercontent.com/u/78627265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kurpp"><b>Gilly</b></a><br><sub>&#64;Kurpp</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">209</td>
 <td><a href="https://github.com/dabwsnow"><img src="https://avatars.githubusercontent.com/u/185607322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dabwsnow"><b>dabwsnow</b></a><br><sub>&#64;dabwsnow</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">210</td>
 <td><a href="https://github.com/makusudi"><img src="https://avatars.githubusercontent.com/u/35609060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/makusudi"><b>Konstantin</b></a><br><sub>&#64;makusudi</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
+<td><sub>Jamaica</sub></td>
+</tr>
+<tr>
+<td align="right">211</td>
+<td><a href="https://github.com/Patrizio-programs"><img src="https://avatars.githubusercontent.com/u/73086462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Patrizio-programs"><b>PatrizioTheDev</b></a><br><sub>&#64;Patrizio-programs</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">91</td>
 <td><sub>Jamaica</sub></td>
 </tr>
 <tr>

@@ -102,7 +102,7 @@
 <td align="right">12</td>
 <td><a href="https://github.com/nimit95"><img src="https://avatars.githubusercontent.com/u/14093420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nimit95"><b>Nimit Aggarwal</b></a><br><sub>&#64;nimit95</sub></td>
 <td align="right"><b>122</b></td>
-<td align="right">0</td>
+<td align="right">109</td>
 <td><sub>SFO</sub></td>
 </tr>
 <tr>
@@ -135,17 +135,17 @@
 </tr>
 <tr>
 <td align="right">17</td>
-<td><a href="https://github.com/creativenull"><img src="https://avatars.githubusercontent.com/u/3767728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/creativenull"><b>Arnold Chand</b></a><br><sub>&#64;creativenull</sub></td>
-<td align="right"><b>70</b></td>
-<td align="right">74</td>
-<td><sub>Trinidad and Tobago</sub></td>
-</tr>
-<tr>
-<td align="right">18</td>
 <td><a href="https://github.com/kyledef"><img src="https://avatars.githubusercontent.com/u/2001345?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kyledef"><b>Kyle E DeFreitas</b></a><br><sub>&#64;kyledef</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">39</td>
 <td><sub>Canda / Trinidad and Tobago / St Vincent and th…</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/creativenull"><img src="https://avatars.githubusercontent.com/u/3767728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/creativenull"><b>Arnold Chand</b></a><br><sub>&#64;creativenull</sub></td>
+<td align="right"><b>69</b></td>
+<td align="right">74</td>
+<td><sub>Trinidad and Tobago</sub></td>
 </tr>
 <tr>
 <td align="right">19</td>

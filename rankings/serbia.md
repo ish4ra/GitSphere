@@ -339,7 +339,7 @@
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/namishh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/namishh/crystal"><b>namishh/crystal</b></a><br><sub>nix dotfiles for chilly people</sub></td>
-<td align="right"><b>890</b></td>
+<td align="right"><b>889</b></td>
 <td align="right">21</td>
 <td>Nix</td>
 </tr>
@@ -354,7 +354,7 @@
 <td align="right">48</td>
 <td><img src="https://github.com/YuriSizov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YuriSizov/boscaceoil-blue"><b>YuriSizov/boscaceoil-blue</b></a><br><sub>A beginner-friendly music making app.</sub></td>
 <td align="right"><b>844</b></td>
-<td align="right">42</td>
+<td align="right">43</td>
 <td>GDScript</td>
 </tr>
 <tr>
@@ -402,22 +402,22 @@
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/stefanpejcic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stefanpejcic/OpenPanel"><b>stefanpejcic/OpenPanel</b></a><br><sub>Open source web hosting control panel built around containers ✌️</sub></td>
-<td align="right"><b>781</b></td>
-<td align="right">117</td>
+<td align="right"><b>782</b></td>
+<td align="right">118</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">56</td>
 <td><img src="https://github.com/mr-fatalyst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mr-fatalyst/oxyde"><b>mr-fatalyst/oxyde</b></a><br><sub>Oxyde ORM is a type-safe, Pydantic-centric asynchronous ORM with a high-performance Rust core designed for clarity, spe…</sub></td>
-<td align="right"><b>780</b></td>
+<td align="right"><b>782</b></td>
 <td align="right">16</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/nemanja-m.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nemanja-m/gaps"><b>nemanja-m/gaps</b></a><br><sub>A Genetic Algorithm-Based Solver for Jigsaw Puzzles :cyclone:</sub></td>
-<td align="right"><b>769</b></td>
-<td align="right">110</td>
+<td align="right"><b>770</b></td>
+<td align="right">111</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 464 stars; 144 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 464 stars; 150 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

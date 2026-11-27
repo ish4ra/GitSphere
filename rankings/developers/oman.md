@@ -171,7 +171,7 @@
 <tr>
 <td align="right">22</td>
 <td><a href="https://github.com/anamendocoder"><img src="https://avatars.githubusercontent.com/u/321398923?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anamendocoder"><b>Ahmed AlSalman</b></a><br><sub>&#64;anamendocoder</sub></td>
-<td align="right"><b>116</b></td>
+<td align="right"><b>123</b></td>
 <td align="right">30</td>
 <td><sub>Muscat, Oman</sub></td>
 </tr>
@@ -220,7 +220,7 @@
 <tr>
 <td align="right">29</td>
 <td><a href="https://github.com/zidhuss"><img src="https://avatars.githubusercontent.com/u/6363984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zidhuss"><b>Hussein Al Abry</b></a><br><sub>&#64;zidhuss</sub></td>
-<td align="right"><b>77</b></td>
+<td align="right"><b>78</b></td>
 <td align="right">52</td>
 <td><sub>Oman</sub></td>
 </tr>

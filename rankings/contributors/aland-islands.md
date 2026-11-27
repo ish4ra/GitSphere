@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/AX.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/AX.json">JSON</a> |
 
 </div>
 
@@ -178,6 +178,15 @@
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/mattiasmaahl"><img src="https://avatars.githubusercontent.com/u/1370239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattiasmaahl"><b>Mattias Måhl</b></a><br><sub>&#64;mattiasmaahl · 2 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">4</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/torronen"><img src="https://avatars.githubusercontent.com/u/26261427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/torronen"><b>Antti &quot;Andy&quot; Törrönen</b></a><br><sub>&#64;torronen · 8 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">4</td>
@@ -186,7 +195,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/Masemiliano"><img src="https://avatars.githubusercontent.com/u/66163702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Masemiliano"><b>Masemiliano</b></a><br><sub>&#64;Masemiliano · 1 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/jesjos"><img src="https://avatars.githubusercontent.com/u/281758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesjos"><b>Jesper Josefsson</b></a><br><sub>&#64;jesjos · 28 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -204,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/reneselander"><img src="https://avatars.githubusercontent.com/u/50113423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reneselander"><b>René Selander</b></a><br><sub>&#64;reneselander · 23 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
@@ -213,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/tvntvn13"><img src="https://avatars.githubusercontent.com/u/88155130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tvntvn13"><b>Taneli Mäkihannu</b></a><br><sub>&#64;tvntvn13 · 21 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -222,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
 <td><a href="https://github.com/viktor-sarge"><img src="https://avatars.githubusercontent.com/u/3371823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/viktor-sarge"><b>Viktor Sarge</b></a><br><sub>&#64;viktor-sarge · 6 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -237,7 +246,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 30 of 111 discovered developers (81 awaiting measurement).
+- **Measured:** 34 of 111 discovered developers (77 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 7 of 33 in round 1.

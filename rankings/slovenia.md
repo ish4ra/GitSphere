@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **59** | 24 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟡 Provisional | **67** | 24 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -220,14 +220,14 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/luksa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luksa/kubernetes-in-action-2nd-edition"><b>luksa/kubernetes-in-action-2nd-edition</b></a><br><sub>Code from the Kubernetes in Action 2nd Edition book</sub></td>
-<td align="right"><b>850</b></td>
-<td align="right">396</td>
+<td align="right"><b>852</b></td>
+<td align="right">397</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/bokysan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bokysan/docker-postfix"><b>bokysan/docker-postfix</b></a><br><sub>Multi architecture simple SMTP server (postfix null relay) host for your Docker and Kubernetes containers. Based on Deb…</sub></td>
-<td align="right"><b>824</b></td>
+<td align="right"><b>823</b></td>
 <td align="right">174</td>
 <td>Shell</td>
 </tr>
@@ -434,6 +434,62 @@
 <td align="right">72</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/ArnesSI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ArnesSI/netbox-inventory"><b>ArnesSI/netbox-inventory</b></a><br><sub>Manage your hardware inventory in NetBox</sub></td>
+<td align="right"><b>331</b></td>
+<td align="right">43</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/dennis5heikh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dennis5heikh/native-instruments-massive-x"><b>dennis5heikh/native-instruments-massive-x</b></a><br><sub>Native Instruments Massive X for Windows 10/11. Designs and shapes synth patches with wavetable oscillators, drag-and-d…</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/labs-systems.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/labs-systems/portraitpro"><b>labs-systems/portraitpro</b></a><br><sub>Portraitpro for Windows 10/11. Retouches portraits by smoothing skin, reshaping faces and adjusting lighting, then expo…</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/vicoslab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vicoslab/mixed-segdec-net-comind2021"><b>vicoslab/mixed-segdec-net-comind2021</b></a><br><sub>Official PyTorch implementation for &quot;Mixed supervision for surface-defect detection: from weakly to fully supervised le…</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">85</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/lexandera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lexandera/Aardwolf"><b>lexandera/Aardwolf</b></a> <sub>archived</sub><br><sub>A remote JavaScript debugger for Android/iOS/WindowsPhone7/BlackBerry6. Written in JavaScript.</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">36</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/rokbenko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rokbenko/ai-playground"><b>rokbenko/ai-playground</b></a><br><sub>📽️ Code from tutorials presented on the &quot;Code AI with Rok&quot; YouTube channel</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">84</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/naidubruce2008.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/naidubruce2008/blender"><b>naidubruce2008/blender</b></a><br><sub>Blender for Windows 10/11. Models and animates 3D scenes with sculpting, rigging and rendering tools, then outputs fini…</sub></td>
+<td align="right"><b>316</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/andrejbauer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrejbauer/homotopy-type-theory-course"><b>andrejbauer/homotopy-type-theory-course</b></a><br><sub>A course on homotopy theory and type theory, taught jointly with Jaka Smrekar</sub></td>
+<td align="right"><b>315</b></td>
+<td align="right">8</td>
+<td>TeX</td>
+</tr>
 </tbody>
 </table>
 
@@ -442,8 +498,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 341 stars; 59 attributed candidates are tracked.
-- 86 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 315 stars; 67 attributed candidates are tracked.
+- 81 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -458,7 +458,7 @@
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/finom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/finom/matreshka"><b>finom/matreshka</b></a><br><sub>An old-school framework, maintained since 2013: two-way data binding for the HTML you already have.</sub></td>
-<td align="right"><b>894</b></td>
+<td align="right"><b>893</b></td>
 <td align="right">66</td>
 <td>JavaScript</td>
 </tr>
@@ -480,7 +480,7 @@
 <td align="right">66</td>
 <td><img src="https://github.com/yukinarit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yukinarit/pyserde"><b>yukinarit/pyserde</b></a><br><sub>Yet another serialization library on top of dataclasses, inspired by serde-rs.</sub></td>
 <td align="right"><b>854</b></td>
-<td align="right">68</td>
+<td align="right">71</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -494,14 +494,14 @@
 <td align="right">68</td>
 <td><img src="https://github.com/haonan-li.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haonan-li/CMMLU"><b>haonan-li/CMMLU</b></a><br><sub>CMMLU: Measuring massive multitask language understanding in Chinese</sub></td>
 <td align="right"><b>840</b></td>
-<td align="right">66</td>
+<td align="right">67</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/alexander-zuev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexander-zuev/supabase-mcp-server"><b>alexander-zuev/supabase-mcp-server</b></a><br><sub>Query MCP enables end-to-end management of Supabase via chat interface: read &amp; write query executions, management API s…</sub></td>
-<td align="right"><b>837</b></td>
-<td align="right">103</td>
+<td align="right"><b>836</b></td>
+<td align="right">104</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -548,16 +548,16 @@
 </tr>
 <tr>
 <td align="right">76</td>
-<td><img src="https://github.com/alexal1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexal1/Insomniac"><b>alexal1/Insomniac</b></a> <sub>archived</sub><br><sub>Instagram bot for automated Instagram interaction using Android device via ADB</sub></td>
+<td><img src="https://github.com/2captcha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/2captcha/2captcha-python"><b>2captcha/2captcha-python</b></a><br><sub>Python 3 package for easy integration with the API of 2captcha captcha solving service to bypass recaptcha, сloudflare…</sub></td>
 <td align="right"><b>815</b></td>
-<td align="right">170</td>
+<td align="right">143</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">77</td>
-<td><img src="https://github.com/2captcha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/2captcha/2captcha-python"><b>2captcha/2captcha-python</b></a><br><sub>Python 3 package for easy integration with the API of 2captcha captcha solving service to bypass recaptcha, сloudflare…</sub></td>
-<td align="right"><b>815</b></td>
-<td align="right">143</td>
+<td><img src="https://github.com/alexal1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexal1/Insomniac"><b>alexal1/Insomniac</b></a> <sub>archived</sub><br><sub>Instagram bot for automated Instagram interaction using Android device via ADB</sub></td>
+<td align="right"><b>814</b></td>
+<td align="right">170</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -570,14 +570,14 @@
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/tiiuae.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiiuae/Falcon-Perception"><b>tiiuae/Falcon-Perception</b></a><br><sub>Inference repo for Falcon-Perception and Falcon-OCR model, early-fusion, natively multimodal, dense Autoregressive Tran…</sub></td>
-<td align="right"><b>800</b></td>
+<td align="right"><b>801</b></td>
 <td align="right">80</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/techwithtim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/techwithtim/NEAT-Flappy-Bird"><b>techwithtim/NEAT-Flappy-Bird</b></a><br><sub>An AI that plays flappy bird! Using the NEAT python module.</sub></td>
-<td align="right"><b>789</b></td>
+<td align="right"><b>790</b></td>
 <td align="right">488</td>
 <td>Python</td>
 </tr>
@@ -592,7 +592,7 @@
 <td align="right">82</td>
 <td><img src="https://github.com/HavenDV.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HavenDV/H.NotifyIcon"><b>HavenDV/H.NotifyIcon</b></a><br><sub>TrayIcon for WPF/WinUI/Uno/MAUI</sub></td>
 <td align="right"><b>771</b></td>
-<td align="right">57</td>
+<td align="right">58</td>
 <td>C#</td>
 </tr>
 <tr>

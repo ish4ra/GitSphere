@@ -114,17 +114,17 @@
 </tr>
 <tr>
 <td align="right">14</td>
-<td><a href="https://github.com/DonnC"><img src="https://avatars.githubusercontent.com/u/47761288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DonnC"><b>Donald Chinhuru</b></a><br><sub>&#64;DonnC</sub></td>
-<td align="right"><b>167</b></td>
-<td align="right">106</td>
-<td><sub>Harare, Zimbabwe</sub></td>
-</tr>
-<tr>
-<td align="right">15</td>
 <td><a href="https://github.com/protendai"><img src="https://avatars.githubusercontent.com/u/55027177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/protendai"><b>Tendai Karuma</b></a><br><sub>&#64;protendai</sub></td>
 <td align="right"><b>167</b></td>
 <td align="right">7</td>
 <td><sub>Harare Zimbabwe</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/DonnC"><img src="https://avatars.githubusercontent.com/u/47761288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DonnC"><b>Donald Chinhuru</b></a><br><sub>&#64;DonnC</sub></td>
+<td align="right"><b>166</b></td>
+<td align="right">106</td>
+<td><sub>Harare, Zimbabwe</sub></td>
 </tr>
 <tr>
 <td align="right">16</td>

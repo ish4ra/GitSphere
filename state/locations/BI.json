@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-22T10:51:11.568Z",
 "terms": {"count":33,"fingerprint":"33:eebb99c6"},
-"termIndex": 0,
+"termIndex": 3,
 "specIndex": 1,
-"active": {"term":"Burundi","kind":"organizations","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjUw","page":2,"retrieved":50,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-24T21:30:37.418Z","stats":{"pages":1}},
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":558},
-"updatedAt": "2026-11-24T21:30:37.418Z"
+"stats": {"requests":18,"pages":18,"accounts":574},
+"updatedAt": "2026-11-27T11:06:24.600Z"
 }

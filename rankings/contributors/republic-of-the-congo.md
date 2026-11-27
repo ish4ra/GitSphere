@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/contributors/CG.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/contributors/CG.json">JSON</a> |
 
 </div>
 
@@ -178,6 +178,15 @@
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/gauss2021"><img src="https://avatars.githubusercontent.com/u/90898789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gauss2021"><b>Bioussala Van Davydson</b></a><br><sub>&#64;gauss2021 · 3 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/kash26"><img src="https://avatars.githubusercontent.com/u/39038161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kash26"><b>MasterKash</b></a><br><sub>&#64;kash26 · 3 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">3</td>
@@ -186,7 +195,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
+<td><a href="https://github.com/declaudefrancois"><img src="https://avatars.githubusercontent.com/u/81987699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/declaudefrancois"><b>NKOUKA Guy François de Claude</b></a><br><sub>&#64;declaudefrancois · 63 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">21</td>
 <td><a href="https://github.com/Rajivhost"><img src="https://avatars.githubusercontent.com/u/3539984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rajivhost"><b>Rajiv Mounguengue</b></a><br><sub>&#64;Rajivhost · 93 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -201,7 +219,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 20 of 298 discovered developers (278 awaiting measurement).
+- **Measured:** 23 of 299 discovered developers (276 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 46 in round 1.

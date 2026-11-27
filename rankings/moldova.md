@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 24 Nov 2026 | <a href="../data/MD.json">JSON</a> |
+| 🟡 Provisional | **19** | 24 Nov 2026 | <a href="../data/MD.json">JSON</a> |
 
 </div>
 
@@ -94,8 +94,8 @@
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/rurre.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rurre/PumkinsAvatarTools"><b>rurre/PumkinsAvatarTools</b></a><br><sub>A toolbox for easily setting up VRChat avatars in Unity. Adds functionality to the editor and automates some of the ted…</sub></td>
-<td align="right"><b>826</b></td>
-<td align="right">50</td>
+<td align="right"><b>827</b></td>
+<td align="right">51</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -147,6 +147,13 @@
 <td align="right">77</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/alisnic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alisnic/nyny"><b>alisnic/nyny</b></a><br><sub>a (ridiculously) small and powerful web framework.</sub></td>
+<td align="right"><b>316</b></td>
+<td align="right">16</td>
+<td>Ruby</td>
+</tr>
 </tbody>
 </table>
 
@@ -155,8 +162,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 362 stars; 18 attributed candidates are tracked.
-- 109 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 316 stars; 19 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

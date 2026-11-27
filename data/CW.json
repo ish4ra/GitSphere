@@ -5,7 +5,7 @@
 "country": {"code":"CW","name":"Curaçao","slug":"curacao"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":49,"ownerExpansionBacklog":72,"candidates":49,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":16,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":49,"ownerExpansionBacklog":72,"candidates":49,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":16,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"arbitrum-iso8583","nameWithOwner":"girasol-cw/arbitrum-iso8583","url":"https://github.com/girasol-cw/arbitrum-iso8583","description":null,"stars":0,"forks":1,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-05-03T02:34:16Z","pushedAt":"2026-08-12T15:37:44Z","archived":false,"owner":{"login":"girasol-cw","name":"Girasol Payments Solutions","type":"Organization","url":"https://github.com/girasol-cw","location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Iceberg-Multiservices.github.io","nameWithOwner":"Iceberg-Multiservices/Iceberg-Multiservices.github.io","url":"https://github.com/Iceberg-Multiservices/Iceberg-Multiservices.github.io","description":null,"stars":0,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2022-08-20T03:38:32Z","pushedAt":"2025-11-04T01:36:22Z","archived":false,"owner":{"login":"Iceberg-Multiservices","name":"Iceberg Multiservices","type":"Organization","url":"https://github.com/Iceberg-Multiservices","location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -57,8 +57,8 @@
   {"rank":48,"id":null,"name":"Chuchubi-festivo","nameWithOwner":"Tigerannaid/Chuchubi-festivo","url":"https://github.com/Tigerannaid/Chuchubi-festivo","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2015-12-07T19:10:37Z","pushedAt":"2015-12-07T19:10:38Z","archived":false,"owner":{"login":"Tigerannaid","name":"Dianne Luyando","type":"User","url":"https://github.com/Tigerannaid","location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":49,"id":null,"name":"vertai-token","nameWithOwner":"VerticalStudio-ai/vertai-token","url":"https://github.com/VerticalStudio-ai/vertai-token","description":null,"stars":0,"forks":0,"primaryLanguage":"Solidity","license":null,"createdAt":"2025-03-20T14:28:21Z","pushedAt":"2025-03-20T14:33:14Z","archived":false,"owner":{"login":"VerticalStudio-ai","name":"Vertical AI","type":"Organization","url":"https://github.com/VerticalStudio-ai","location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "43f7a88acf89a214",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "c122ae208644d1a6",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

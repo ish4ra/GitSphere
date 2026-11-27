@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/ZM.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/ZM.json">JSON</a> |
 
 </div>
 
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/KayLemba"><img src="https://avatars.githubusercontent.com/u/79506105?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KayLemba"><b>Kalolo Chola Lemba</b></a><br><sub>&#64;KayLemba · 113 followers</sub></td>
+<td align="right"><b>80</b></td>
+<td align="right">43</td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/kondwani0099"><img src="https://avatars.githubusercontent.com/u/101860589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kondwani0099"><b>Kondwani Nyirenda</b></a><br><sub>&#64;kondwani0099 · 60 followers</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">61</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/nmbazima"><img src="https://avatars.githubusercontent.com/u/31067101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nmbazima"><b>Newton Mbazima</b></a><br><sub>&#64;nmbazima · 146 followers</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">59</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Billypeterlennards"><img src="https://avatars.githubusercontent.com/u/43522814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Billypeterlennards"><b>Billy Peter Munyenyembe</b></a><br><sub>&#64;Billypeterlennards · 394 followers</sub></td>
 <td align="right"><b>53</b></td>
 <td align="right">35</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/KMKCODER"><img src="https://avatars.githubusercontent.com/u/66021442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KMKCODER"><b>Kapembwa Kangali</b></a><br><sub>&#64;KMKCODER · 236 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">10</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/malgamves"><img src="https://avatars.githubusercontent.com/u/25641936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/malgamves"><b>Daniel Madalitso Phiri</b></a><br><sub>&#64;malgamves · 435 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">17</td>
@@ -141,7 +150,25 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
+<td><a href="https://github.com/geraldmaboshe"><img src="https://avatars.githubusercontent.com/u/41299580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geraldmaboshe"><b>Gerald Maboshe</b></a><br><sub>&#64;geraldmaboshe · 116 followers</sub></td>
+<td align="right"><b>8</b></td>
+<td align="right">3</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/cbchisanga"><img src="https://avatars.githubusercontent.com/u/10923365?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cbchisanga"><b>Charles Bwalya Chisanga</b></a><br><sub>&#64;cbchisanga · 3 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/Lembani"><img src="https://avatars.githubusercontent.com/u/30483991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lembani"><b>Lembani Sakala</b></a><br><sub>&#64;Lembani · 85 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -156,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 399 discovered developers (382 awaiting measurement).
+- **Measured:** 20 of 399 discovered developers (379 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 83 in round 1.

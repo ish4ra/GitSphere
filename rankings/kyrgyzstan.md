@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 24 Nov 2026 | <a href="../data/KG.json">JSON</a> |
+| 🟡 Provisional | **5** | 24 Nov 2026 | <a href="../data/KG.json">JSON</a> |
 
 </div>
 
@@ -49,6 +49,13 @@
 <td align="right">6</td>
 <td>Rust</td>
 </tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/buzzySmile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/buzzySmile/qBreakpad"><b>buzzySmile/qBreakpad</b></a><br><sub>Cross-platform Qt crash handler, implemented as wrapper around google-breakpad</sub></td>
+<td align="right"><b>331</b></td>
+<td align="right">121</td>
+<td>C++</td>
+</tr>
 </tbody>
 </table>
 
@@ -57,8 +64,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 358 stars; 4 attributed candidates are tracked.
-- 126 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 331 stars; 5 attributed candidates are tracked.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 89 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

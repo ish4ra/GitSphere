@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **424** | 22 Nov 2026 | <a href="../../data/developers/CV.json">JSON</a> |
+| 🟡 Provisional | **430** | 22 Nov 2026 | <a href="../../data/developers/CV.json">JSON</a> |
 
 </div>
 
@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/NunoLima10"><img src="https://avatars.githubusercontent.com/u/84800684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NunoLima10"><b>Nuno Lima</b></a><br><sub>&#64;NunoLima10</sub></td>
-<td align="right"><b>74</b></td>
+<td align="right"><b>75</b></td>
 <td align="right">44</td>
 <td><sub>Mindelo, Cabo verde</sub></td>
 </tr>
@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/jotap1101"><img src="https://avatars.githubusercontent.com/u/101819753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jotap1101"><b>João</b></a><br><sub>&#64;jotap1101</sub></td>
-<td align="right"><b>58</b></td>
+<td align="right"><b>56</b></td>
 <td align="right">43</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
@@ -1346,1644 +1346,1686 @@
 </tr>
 <tr>
 <td align="right">190</td>
+<td><a href="https://github.com/Pires93"><img src="https://avatars.githubusercontent.com/u/18171880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pires93"><b>Jailson Correia</b></a><br><sub>&#64;Pires93</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td><sub>Praia, Cap Vert</sub></td>
+</tr>
+<tr>
+<td align="right">191</td>
 <td><a href="https://github.com/japsancha"><img src="https://avatars.githubusercontent.com/u/435622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/japsancha"><b>Joaquim Sancha</b></a><br><sub>&#64;japsancha</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">145</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">192</td>
 <td><a href="https://github.com/ivaxfernandes"><img src="https://avatars.githubusercontent.com/u/20480081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivaxfernandes"><b>ivaxfernandes</b></a><br><sub>&#64;ivaxfernandes</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">64</td>
 <td><sub>Cabo Verde - Praia, Santiago</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">193</td>
 <td><a href="https://github.com/KevenFonseca"><img src="https://avatars.githubusercontent.com/u/106703639?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KevenFonseca"><b>Keven Fonseca</b></a><br><sub>&#64;KevenFonseca</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">34</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">194</td>
 <td><a href="https://github.com/ivan-moniz"><img src="https://avatars.githubusercontent.com/u/54800345?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivan-moniz"><b>Ivan</b></a><br><sub>&#64;ivan-moniz</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">32</td>
 <td><sub>Achada Grande Frente, Praia - Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">195</td>
 <td><a href="https://github.com/esmaelcardoso"><img src="https://avatars.githubusercontent.com/u/138122618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/esmaelcardoso"><b>Esmael Cardoso</b></a><br><sub>&#64;esmaelcardoso</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">26</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">196</td>
 <td><a href="https://github.com/helciotj10"><img src="https://avatars.githubusercontent.com/u/18535513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/helciotj10"><b>helciotj10</b></a><br><sub>&#64;helciotj10</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">12</td>
 <td><sub>Praia, Cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">197</td>
 <td><a href="https://github.com/keltonsantos"><img src="https://avatars.githubusercontent.com/u/65040147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keltonsantos"><b>Kelton Santos</b></a><br><sub>&#64;keltonsantos</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">12</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">198</td>
 <td><a href="https://github.com/rubenmartins21"><img src="https://avatars.githubusercontent.com/u/35147447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rubenmartins21"><b>Ruby</b></a><br><sub>&#64;rubenmartins21</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">11</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">199</td>
 <td><a href="https://github.com/Heidimara"><img src="https://avatars.githubusercontent.com/u/26310486?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Heidimara"><b>Heidi Mara do Rosário Sousa</b></a><br><sub>&#64;Heidimara</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">9</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">200</td>
 <td><a href="https://github.com/mkanutos"><img src="https://avatars.githubusercontent.com/u/53431637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkanutos"><b>Michel Canuto</b></a><br><sub>&#64;mkanutos</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">9</td>
 <td><sub>Cidade da Praia - Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">201</td>
 <td><a href="https://github.com/wilson4lbert0"><img src="https://avatars.githubusercontent.com/u/123837590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wilson4lbert0"><b>Wilson Pereira</b></a><br><sub>&#64;wilson4lbert0</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">9</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">202</td>
 <td><a href="https://github.com/anarodrigues1996"><img src="https://avatars.githubusercontent.com/u/52258502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anarodrigues1996"><b>Ana Rodrigues</b></a><br><sub>&#64;anarodrigues1996</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">8</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">203</td>
 <td><a href="https://github.com/Madbug1401"><img src="https://avatars.githubusercontent.com/u/88629373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Madbug1401"><b>Nicolay Santos</b></a><br><sub>&#64;Madbug1401</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">8</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">204</td>
 <td><a href="https://github.com/mauroandrade138"><img src="https://avatars.githubusercontent.com/u/23036127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mauroandrade138"><b>Mauro Alex Nobre Andrade</b></a><br><sub>&#64;mauroandrade138</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">8</td>
 <td><sub>Mindelo, São Vicente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">205</td>
 <td><a href="https://github.com/Saturnino4"><img src="https://avatars.githubusercontent.com/u/159030396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Saturnino4"><b>Saturnino Moreira Mendes</b></a><br><sub>&#64;Saturnino4</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">8</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">206</td>
 <td><a href="https://github.com/Yuri-Santos24"><img src="https://avatars.githubusercontent.com/u/82416094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yuri-Santos24"><b>Yuri Santos</b></a><br><sub>&#64;Yuri-Santos24</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">8</td>
 <td><sub>São Vicente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">207</td>
 <td><a href="https://github.com/Bernaldino-Fernandes"><img src="https://avatars.githubusercontent.com/u/163675770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bernaldino-Fernandes"><b>Bernaldino centeio fernandes</b></a><br><sub>&#64;Bernaldino-Fernandes</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">7</td>
 <td><sub>Cabo verde/Praia/Palmareijo</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">208</td>
 <td><a href="https://github.com/edermonteiro"><img src="https://avatars.githubusercontent.com/u/9534485?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edermonteiro"><b>Éder Monteiro</b></a><br><sub>&#64;edermonteiro</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">7</td>
 <td><sub>Mindelo, São Vicente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">209</td>
 <td><a href="https://github.com/NunoJoSantos"><img src="https://avatars.githubusercontent.com/u/12533144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NunoJoSantos"><b>NunoJoSantos</b></a><br><sub>&#64;NunoJoSantos</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">7</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">210</td>
 <td><a href="https://github.com/endisoares31"><img src="https://avatars.githubusercontent.com/u/40142624?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/endisoares31"><b>Endi Soares</b></a><br><sub>&#64;endisoares31</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">6</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">211</td>
 <td><a href="https://github.com/KennySilva"><img src="https://avatars.githubusercontent.com/u/13671725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KennySilva"><b>Estefânio Pereira Silva</b></a><br><sub>&#64;KennySilva</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">6</td>
 <td><sub>Assomada - Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">212</td>
 <td><a href="https://github.com/elviss7"><img src="https://avatars.githubusercontent.com/u/107519891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elviss7"><b>Elvis Tomar</b></a><br><sub>&#64;elviss7</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">213</td>
 <td><a href="https://github.com/pkproductionsvisuals-creator"><img src="https://avatars.githubusercontent.com/u/240235031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pkproductionsvisuals-creator"><b>pkpro</b></a><br><sub>&#64;pkproductionsvisuals-creator</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">214</td>
 <td><a href="https://github.com/JuniorFernandes22"><img src="https://avatars.githubusercontent.com/u/153864801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JuniorFernandes22"><b>Júnior Fernandes</b></a><br><sub>&#64;JuniorFernandes22</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">215</td>
 <td><a href="https://github.com/MmrMrph"><img src="https://avatars.githubusercontent.com/u/148480543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MmrMrph"><b>n3wbie</b></a><br><sub>&#64;MmrMrph</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
 <td><sub>Cabo Verde\São Vicente\Fonte Françês</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">216</td>
 <td><a href="https://github.com/NightNightmare"><img src="https://avatars.githubusercontent.com/u/111708476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NightNightmare"><b>Ângelo Vaz</b></a><br><sub>&#64;NightNightmare</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">217</td>
 <td><a href="https://github.com/pwotwo"><img src="https://avatars.githubusercontent.com/u/10370383?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pwotwo"><b>Paulo J Barros</b></a><br><sub>&#64;pwotwo</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">218</td>
 <td><a href="https://github.com/erickdon"><img src="https://avatars.githubusercontent.com/u/77216574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erickdon"><b>Erickson Nunes</b></a><br><sub>&#64;erickdon</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td><sub>Praia- Fazenda- Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">219</td>
 <td><a href="https://github.com/tequ8"><img src="https://avatars.githubusercontent.com/u/36436661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tequ8"><b>tequ8</b></a><br><sub>&#64;tequ8</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td><sub>Country in Africa, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">220</td>
 <td><a href="https://github.com/codewrldniclas"><img src="https://avatars.githubusercontent.com/u/199544714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codewrldniclas"><b>Nicholas Alves</b></a><br><sub>&#64;codewrldniclas</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">220</td>
+<td align="right">221</td>
 <td><a href="https://github.com/Dev-Carla"><img src="https://avatars.githubusercontent.com/u/180596884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dev-Carla"><b>Carla Martins</b></a><br><sub>&#64;Dev-Carla</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">221</td>
+<td align="right">222</td>
 <td><a href="https://github.com/ivex001"><img src="https://avatars.githubusercontent.com/u/4996638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivex001"><b>Ivan Lopes</b></a><br><sub>&#64;ivex001</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Mindelo, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">222</td>
+<td align="right">223</td>
 <td><a href="https://github.com/luishenriquemaia17"><img src="https://avatars.githubusercontent.com/u/134308129?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luishenriquemaia17"><b>Luis Henrique P. Pinto Lopes Maia</b></a><br><sub>&#64;luishenriquemaia17</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">223</td>
+<td align="right">224</td>
 <td><a href="https://github.com/LuizitoSa"><img src="https://avatars.githubusercontent.com/u/133694540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LuizitoSa"><b>Luizito Sanches</b></a><br><sub>&#64;LuizitoSa</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Assomada</sub></td>
 </tr>
 <tr>
-<td align="right">224</td>
+<td align="right">225</td>
 <td><a href="https://github.com/mindelo-code"><img src="https://avatars.githubusercontent.com/u/66089600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mindelo-code"><b>Kevin Andrade</b></a><br><sub>&#64;mindelo-code</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Mindelo/Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">225</td>
+<td align="right">226</td>
 <td><a href="https://github.com/nildopio"><img src="https://avatars.githubusercontent.com/u/66559848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nildopio"><b>Ivanildo Inocêncio</b></a><br><sub>&#64;nildopio</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">226</td>
+<td align="right">227</td>
 <td><a href="https://github.com/SITRE"><img src="https://avatars.githubusercontent.com/u/47031378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SITRE"><b>SITRE</b></a><br><sub>&#64;SITRE</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Praia Cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">227</td>
+<td align="right">228</td>
 <td><a href="https://github.com/carlosfelix12"><img src="https://avatars.githubusercontent.com/u/16023959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlosfelix12"><b>carlos</b></a><br><sub>&#64;carlosfelix12</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">228</td>
+<td align="right">229</td>
 <td><a href="https://github.com/claud10-m"><img src="https://avatars.githubusercontent.com/u/51410972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/claud10-m"><b>Cláudio Michael</b></a><br><sub>&#64;claud10-m</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">229</td>
+<td align="right">230</td>
 <td><a href="https://github.com/Dandrade02"><img src="https://avatars.githubusercontent.com/u/115748664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dandrade02"><b>Domingos Andrade</b></a><br><sub>&#64;Dandrade02</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">230</td>
+<td align="right">231</td>
 <td><a href="https://github.com/GiiO01"><img src="https://avatars.githubusercontent.com/u/80856751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GiiO01"><b>GiiO</b></a><br><sub>&#64;GiiO01</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Cape Verde, Mindelo</sub></td>
 </tr>
 <tr>
-<td align="right">231</td>
+<td align="right">232</td>
 <td><a href="https://github.com/K-goncalves"><img src="https://avatars.githubusercontent.com/u/105680254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/K-goncalves"><b>Kenny Rocha Gonçalves</b></a><br><sub>&#64;K-goncalves</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">232</td>
+<td align="right">233</td>
 <td><a href="https://github.com/LilianoTvares"><img src="https://avatars.githubusercontent.com/u/34804276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LilianoTvares"><b>Liliano Enoque da Veiga Tavares</b></a><br><sub>&#64;LilianoTvares</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Praia, Santiago -Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">233</td>
+<td align="right">234</td>
 <td><a href="https://github.com/monteironet1-png"><img src="https://avatars.githubusercontent.com/u/256106931?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/monteironet1-png"><b>Janilson M. Semedo</b></a><br><sub>&#64;monteironet1-png</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">234</td>
+<td align="right">235</td>
 <td><a href="https://github.com/sandrolopes23"><img src="https://avatars.githubusercontent.com/u/30436668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sandrolopes23"><b>Sandro Lopes</b></a><br><sub>&#64;sandrolopes23</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde, Praia, Terra Branca</sub></td>
 </tr>
 <tr>
-<td align="right">235</td>
+<td align="right">236</td>
 <td><a href="https://github.com/Vinetoide"><img src="https://avatars.githubusercontent.com/u/101374154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Vinetoide"><b>Vinícius Vianna Arrudas</b></a><br><sub>&#64;Vinetoide</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>R. Cabo Verde, 160 - Vila Francisco MatarazzoSa…</sub></td>
 </tr>
 <tr>
-<td align="right">236</td>
+<td align="right">237</td>
 <td><a href="https://github.com/arlindooliveiraveiga"><img src="https://avatars.githubusercontent.com/u/60518964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arlindooliveiraveiga"><b>Arlindo Veiga</b></a><br><sub>&#64;arlindooliveiraveiga</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">237</td>
+<td align="right">238</td>
 <td><a href="https://github.com/asequiea"><img src="https://avatars.githubusercontent.com/u/46053221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asequiea"><b>AdTaylor5</b></a><br><sub>&#64;asequiea</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">238</td>
+<td align="right">239</td>
 <td><a href="https://github.com/Crisselton"><img src="https://avatars.githubusercontent.com/u/14590640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Crisselton"><b>Criss (Pessoal)</b></a><br><sub>&#64;Crisselton</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">239</td>
+<td align="right">240</td>
 <td><a href="https://github.com/EmanuelGomes79"><img src="https://avatars.githubusercontent.com/u/71194362?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EmanuelGomes79"><b>Emanuel Gomes</b></a><br><sub>&#64;EmanuelGomes79</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Ilha do Sal, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">240</td>
+<td align="right">241</td>
 <td><a href="https://github.com/EuniceMoniz"><img src="https://avatars.githubusercontent.com/u/61595219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EuniceMoniz"><b>Maria Eunice Moniz</b></a><br><sub>&#64;EuniceMoniz</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde, Santiago, Praia</sub></td>
 </tr>
 <tr>
-<td align="right">241</td>
+<td align="right">242</td>
 <td><a href="https://github.com/marvlima"><img src="https://avatars.githubusercontent.com/u/59629609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marvlima"><b>Marvin Lima</b></a><br><sub>&#64;marvlima</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>São Vicente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">242</td>
+<td align="right">243</td>
 <td><a href="https://github.com/Monxerry"><img src="https://avatars.githubusercontent.com/u/103597729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Monxerry"><b>Letícia Zego</b></a><br><sub>&#64;Monxerry</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">243</td>
+<td align="right">244</td>
 <td><a href="https://github.com/Pougues"><img src="https://avatars.githubusercontent.com/u/180656978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pougues"><b>Pougues</b></a><br><sub>&#64;Pougues</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">244</td>
+<td align="right">245</td>
 <td><a href="https://github.com/s7ephan"><img src="https://avatars.githubusercontent.com/u/93203037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/s7ephan"><b>Stephan dos Santos Soares</b></a><br><sub>&#64;s7ephan</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>São Vicente, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">245</td>
+<td align="right">246</td>
 <td><a href="https://github.com/shorttrend"><img src="https://avatars.githubusercontent.com/u/292026000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shorttrend"><b>Shorttrend</b></a><br><sub>&#64;shorttrend</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Praia - Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">246</td>
+<td align="right">247</td>
 <td><a href="https://github.com/viaset13"><img src="https://avatars.githubusercontent.com/u/109114611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/viaset13"><b>Ev</b></a><br><sub>&#64;viaset13</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">247</td>
+<td align="right">248</td>
 <td><a href="https://github.com/natsdrumer"><img src="https://avatars.githubusercontent.com/u/95451203?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/natsdrumer"><b>Natanael Duarte</b></a><br><sub>&#64;natsdrumer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">31</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">248</td>
+<td align="right">249</td>
 <td><a href="https://github.com/victorrony"><img src="https://avatars.githubusercontent.com/u/116307260?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/victorrony"><b>Victor Rony Pereira Fernandes</b></a><br><sub>&#64;victorrony</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">31</td>
 <td><sub>cape verde</sub></td>
 </tr>
 <tr>
-<td align="right">249</td>
+<td align="right">250</td>
 <td><a href="https://github.com/ruivg1382"><img src="https://avatars.githubusercontent.com/u/62600720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruivg1382"><b>Rui José V. Gonçalves</b></a><br><sub>&#64;ruivg1382</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">26</td>
 <td><sub>Cabo Verde - Calheta - Achada Monte</sub></td>
 </tr>
 <tr>
-<td align="right">250</td>
+<td align="right">251</td>
 <td><a href="https://github.com/nunomelo98"><img src="https://avatars.githubusercontent.com/u/67382746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nunomelo98"><b>Nuno Melo</b></a><br><sub>&#64;nunomelo98</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">22</td>
 <td><sub>Cape Verde, Mindelo</sub></td>
 </tr>
 <tr>
-<td align="right">251</td>
+<td align="right">252</td>
 <td><a href="https://github.com/hilariaj"><img src="https://avatars.githubusercontent.com/u/49102199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hilariaj"><b>Hilaria Jesus</b></a><br><sub>&#64;hilariaj</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">18</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">252</td>
+<td align="right">253</td>
 <td><a href="https://github.com/Alves1"><img src="https://avatars.githubusercontent.com/u/16547160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alves1"><b>Malik Alves</b></a><br><sub>&#64;Alves1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">15</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">253</td>
+<td align="right">254</td>
 <td><a href="https://github.com/Jota935"><img src="https://avatars.githubusercontent.com/u/147872543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jota935"><b>Jota935</b></a><br><sub>&#64;Jota935</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">15</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">254</td>
+<td align="right">255</td>
 <td><a href="https://github.com/R4ben"><img src="https://avatars.githubusercontent.com/u/42911754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/R4ben"><b>Ruben Brito</b></a><br><sub>&#64;R4ben</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">12</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">255</td>
+<td align="right">256</td>
 <td><a href="https://github.com/GabrielPTuga"><img src="https://avatars.githubusercontent.com/u/195351352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GabrielPTuga"><b>Gabriel Portugal</b></a><br><sub>&#64;GabrielPTuga</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">11</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">256</td>
+<td align="right">257</td>
 <td><a href="https://github.com/Homexoe"><img src="https://avatars.githubusercontent.com/u/293852696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Homexoe"><b>Danildo Silva</b></a><br><sub>&#64;Homexoe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">10</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">257</td>
+<td align="right">258</td>
 <td><a href="https://github.com/SomosCv"><img src="https://avatars.githubusercontent.com/u/270645251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SomosCv"><b>Somos.Cv</b></a><br><sub>&#64;SomosCv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">10</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">258</td>
+<td align="right">259</td>
 <td><a href="https://github.com/aniltoncabral"><img src="https://avatars.githubusercontent.com/u/7832324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aniltoncabral"><b>Anilton Cabral</b></a><br><sub>&#64;aniltoncabral</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">9</td>
 <td><sub>Praia, Cabo-Verde</sub></td>
 </tr>
 <tr>
-<td align="right">259</td>
+<td align="right">260</td>
 <td><a href="https://github.com/Heltonrib"><img src="https://avatars.githubusercontent.com/u/131787025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Heltonrib"><b>Helton Ribeiro</b></a><br><sub>&#64;Heltonrib</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">9</td>
 <td><sub>Ilha Santiago Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">260</td>
+<td align="right">261</td>
 <td><a href="https://github.com/DevBernaldino-Fernandes"><img src="https://avatars.githubusercontent.com/u/195621416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DevBernaldino-Fernandes"><b>Bernaldino centeio Fernandes</b></a><br><sub>&#64;DevBernaldino-Fernandes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Cabo verde - Praia - Palmarejo - Monte Vermelho</sub></td>
 </tr>
 <tr>
-<td align="right">261</td>
+<td align="right">262</td>
 <td><a href="https://github.com/KleivyGomes"><img src="https://avatars.githubusercontent.com/u/81966494?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KleivyGomes"><b>Kleivy Gomes</b></a><br><sub>&#64;KleivyGomes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">262</td>
+<td align="right">263</td>
 <td><a href="https://github.com/Nivram2001"><img src="https://avatars.githubusercontent.com/u/74928444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nivram2001"><b>Marvin Neves</b></a><br><sub>&#64;Nivram2001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">263</td>
+<td align="right">264</td>
 <td><a href="https://github.com/quatemu"><img src="https://avatars.githubusercontent.com/u/26005633?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/quatemu"><b>TJ</b></a><br><sub>&#64;quatemu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">264</td>
+<td align="right">265</td>
 <td><a href="https://github.com/Altino2020"><img src="https://avatars.githubusercontent.com/u/72583956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Altino2020"><b>Altino Ferreira</b></a><br><sub>&#64;Altino2020</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">265</td>
+<td align="right">266</td>
 <td><a href="https://github.com/arilsonjorge1-lang"><img src="https://avatars.githubusercontent.com/u/282034186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arilsonjorge1-lang"><b>Arilson do Rosário</b></a><br><sub>&#64;arilsonjorge1-lang</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Mindelo, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">266</td>
+<td align="right">267</td>
 <td><a href="https://github.com/Jair-Mendes"><img src="https://avatars.githubusercontent.com/u/24796834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jair-Mendes"><b>Jair Mendes</b></a><br><sub>&#64;Jair-Mendes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Achada São Filipe, Praia - Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">267</td>
+<td align="right">268</td>
 <td><a href="https://github.com/litcha"><img src="https://avatars.githubusercontent.com/u/4540542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/litcha"><b>Elisio Lima</b></a><br><sub>&#64;litcha</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Praia - Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">268</td>
+<td align="right">269</td>
 <td><a href="https://github.com/nadiunica"><img src="https://avatars.githubusercontent.com/u/40205723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nadiunica"><b>Nadiusca Lopes</b></a><br><sub>&#64;nadiunica</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">269</td>
+<td align="right">270</td>
 <td><a href="https://github.com/santiago90592"><img src="https://avatars.githubusercontent.com/u/62258409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/santiago90592"><b>Paulo Santiago</b></a><br><sub>&#64;santiago90592</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Mindelo - Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">270</td>
+<td align="right">271</td>
+<td><a href="https://github.com/woodookarasik"><img src="https://avatars.githubusercontent.com/u/183193609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/woodookarasik"><b>woodookarasik</b></a><br><sub>&#64;woodookarasik</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Kaapverdië (CV)</sub></td>
+</tr>
+<tr>
+<td align="right">272</td>
 <td><a href="https://github.com/0santos"><img src="https://avatars.githubusercontent.com/u/42589580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0santos"><b>Ernâni Santos</b></a><br><sub>&#64;0santos</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">271</td>
+<td align="right">273</td>
 <td><a href="https://github.com/joseolavo"><img src="https://avatars.githubusercontent.com/u/17180248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joseolavo"><b>joseolavo</b></a><br><sub>&#64;joseolavo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">272</td>
+<td align="right">274</td>
 <td><a href="https://github.com/NadiaCV"><img src="https://avatars.githubusercontent.com/u/107927085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NadiaCV"><b>Nadia Martins</b></a><br><sub>&#64;NadiaCV</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">273</td>
+<td align="right">275</td>
 <td><a href="https://github.com/storugoj0"><img src="https://avatars.githubusercontent.com/u/199916310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/storugoj0"><b>william soares</b></a><br><sub>&#64;storugoj0</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>cape verde</sub></td>
 </tr>
 <tr>
-<td align="right">274</td>
+<td align="right">276</td>
 <td><a href="https://github.com/alvinho19"><img src="https://avatars.githubusercontent.com/u/34109324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alvinho19"><b>Alvinho&#95;Semedo</b></a><br><sub>&#64;alvinho19</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">275</td>
+<td align="right">277</td>
 <td><a href="https://github.com/AugustoGugu94"><img src="https://avatars.githubusercontent.com/u/32389483?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AugustoGugu94"><b>Augusto Correia</b></a><br><sub>&#64;AugustoGugu94</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">276</td>
+<td align="right">278</td>
 <td><a href="https://github.com/bublikcamomile"><img src="https://avatars.githubusercontent.com/u/181552441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bublikcamomile"><b>bublikcamomile</b></a><br><sub>&#64;bublikcamomile</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Cape Verde (CV)</sub></td>
 </tr>
 <tr>
-<td align="right">277</td>
+<td align="right">279</td>
 <td><a href="https://github.com/djassi"><img src="https://avatars.githubusercontent.com/u/20426844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djassi"><b>Djassi Fonseca</b></a><br><sub>&#64;djassi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">278</td>
+<td align="right">280</td>
 <td><a href="https://github.com/IBScv"><img src="https://avatars.githubusercontent.com/u/192291658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IBScv"><b>IBS - Ilhas Business Software</b></a><br><sub>&#64;IBScv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Mindelo - Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">279</td>
+<td align="right">281</td>
 <td><a href="https://github.com/nagibatorkristmas"><img src="https://avatars.githubusercontent.com/u/183438686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nagibatorkristmas"><b>nagibatorkristmas</b></a><br><sub>&#64;nagibatorkristmas</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Cape Verde (CV)</sub></td>
 </tr>
 <tr>
-<td align="right">280</td>
+<td align="right">282</td>
 <td><a href="https://github.com/Philzinn"><img src="https://avatars.githubusercontent.com/u/117843184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Philzinn"><b>Philipe dos Reis</b></a><br><sub>&#64;Philzinn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Mindelo, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">281</td>
+<td align="right">283</td>
 <td><a href="https://github.com/duartealbertina"><img src="https://avatars.githubusercontent.com/u/194559761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duartealbertina"><b>albertina duarte</b></a><br><sub>&#64;duartealbertina</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">282</td>
+<td align="right">284</td>
 <td><a href="https://github.com/ISONE-DEVOPS"><img src="https://avatars.githubusercontent.com/u/59768273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ISONE-DEVOPS"><b>Cloud Technology</b></a><br><sub>&#64;ISONE-DEVOPS</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">283</td>
+<td align="right">285</td>
 <td><a href="https://github.com/ivaldinofortes"><img src="https://avatars.githubusercontent.com/u/15169132?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivaldinofortes"><b>iv4LD1n0</b></a><br><sub>&#64;ivaldinofortes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Cabo Verde - Porto Novo</sub></td>
 </tr>
 <tr>
-<td align="right">284</td>
+<td align="right">286</td>
 <td><a href="https://github.com/JDRicardino"><img src="https://avatars.githubusercontent.com/u/33552256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JDRicardino"><b>Ricardino Borges</b></a><br><sub>&#64;JDRicardino</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Cape Verde - Praia</sub></td>
 </tr>
 <tr>
-<td align="right">285</td>
+<td align="right">287</td>
 <td><a href="https://github.com/jorgebassuco"><img src="https://avatars.githubusercontent.com/u/109959735?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorgebassuco"><b>Jorge Pinto Bassuco</b></a><br><sub>&#64;jorgebassuco</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Cabo Verde - Praia</sub></td>
 </tr>
 <tr>
-<td align="right">286</td>
+<td align="right">288</td>
 <td><a href="https://github.com/kilseachgoogle"><img src="https://avatars.githubusercontent.com/u/181532239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kilseachgoogle"><b>kilseachgoogle</b></a><br><sub>&#64;kilseachgoogle</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Cape Verde (CV)</sub></td>
 </tr>
 <tr>
-<td align="right">287</td>
+<td align="right">289</td>
 <td><a href="https://github.com/Luis75Covilha"><img src="https://avatars.githubusercontent.com/u/45195011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Luis75Covilha"><b>Luis M B Fonseca</b></a><br><sub>&#64;Luis75Covilha</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">288</td>
+<td align="right">290</td>
 <td><a href="https://github.com/MarvinChantre"><img src="https://avatars.githubusercontent.com/u/188448379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarvinChantre"><b>Marvin Chantre</b></a><br><sub>&#64;MarvinChantre</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">289</td>
+<td align="right">291</td>
 <td><a href="https://github.com/MarvinNeves"><img src="https://avatars.githubusercontent.com/u/82329333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarvinNeves"><b>MarvinNeves</b></a><br><sub>&#64;MarvinNeves</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Mindelo, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">290</td>
+<td align="right">292</td>
 <td><a href="https://github.com/MNobreCV"><img src="https://avatars.githubusercontent.com/u/336963067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MNobreCV"><b>Mauro Nobre</b></a><br><sub>&#64;MNobreCV</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Mindelo, São Vicente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">291</td>
+<td align="right">293</td>
 <td><a href="https://github.com/nhukdns"><img src="https://avatars.githubusercontent.com/u/46325917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nhukdns"><b>nhukdns</b></a><br><sub>&#64;nhukdns</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">292</td>
+<td align="right">294</td>
 <td><a href="https://github.com/antoniogoncalves92"><img src="https://avatars.githubusercontent.com/u/31667181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antoniogoncalves92"><b>Antonio Goncalves</b></a><br><sub>&#64;antoniogoncalves92</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">293</td>
+<td align="right">295</td>
 <td><a href="https://github.com/attemptin"><img src="https://avatars.githubusercontent.com/u/136941055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/attemptin"><b>attemptin</b></a><br><sub>&#64;attemptin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Cape Verde Is</sub></td>
 </tr>
 <tr>
-<td align="right">294</td>
+<td align="right">296</td>
 <td><a href="https://github.com/celestino03"><img src="https://avatars.githubusercontent.com/u/68063755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/celestino03"><b>Celestino Landim Moreira</b></a><br><sub>&#64;celestino03</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Praia Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">295</td>
+<td align="right">297</td>
 <td><a href="https://github.com/drbadiodefora"><img src="https://avatars.githubusercontent.com/u/281282615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drbadiodefora"><b>Rui Sanches</b></a><br><sub>&#64;drbadiodefora</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>São Domingos, Santiago, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">296</td>
+<td align="right">298</td>
+<td><a href="https://github.com/headlessland"><img src="https://avatars.githubusercontent.com/u/183161082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/headlessland"><b>headlessland</b></a><br><sub>&#64;headlessland</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Kaapverdië (CV)</sub></td>
+</tr>
+<tr>
+<td align="right">299</td>
 <td><a href="https://github.com/leidilson"><img src="https://avatars.githubusercontent.com/u/188096027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leidilson"><b>Leidilson Mendes</b></a><br><sub>&#64;leidilson</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">297</td>
+<td align="right">300</td>
 <td><a href="https://github.com/mel5ilva"><img src="https://avatars.githubusercontent.com/u/90533705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mel5ilva"><b>Melanie Silva</b></a><br><sub>&#64;mel5ilva</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">298</td>
+<td align="right">301</td>
 <td><a href="https://github.com/raulmartins27"><img src="https://avatars.githubusercontent.com/u/198386882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raulmartins27"><b>Raul Martins</b></a><br><sub>&#64;raulmartins27</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Praia Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">299</td>
+<td align="right">302</td>
 <td><a href="https://github.com/ricardoNCrodrigues"><img src="https://avatars.githubusercontent.com/u/162235382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ricardoNCrodrigues"><b>Ricardo Rodrigues</b></a><br><sub>&#64;ricardoNCrodrigues</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>São Vicente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">300</td>
+<td align="right">303</td>
 <td><a href="https://github.com/wildvald"><img src="https://avatars.githubusercontent.com/u/3135504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wildvald"><b>Val-San</b></a><br><sub>&#64;wildvald</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">301</td>
+<td align="right">304</td>
 <td><a href="https://github.com/Wilshow"><img src="https://avatars.githubusercontent.com/u/50372835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wilshow"><b>Wiltavs</b></a><br><sub>&#64;Wilshow</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">302</td>
+<td align="right">305</td>
 <td><a href="https://github.com/AlexisCardoso"><img src="https://avatars.githubusercontent.com/u/27953249?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexisCardoso"><b>Alexis Cardoso</b></a><br><sub>&#64;AlexisCardoso</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Praia, Santiago - Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">303</td>
+<td align="right">306</td>
 <td><a href="https://github.com/antonio10"><img src="https://avatars.githubusercontent.com/u/11583864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antonio10"><b>Antonio Goncalves</b></a><br><sub>&#64;antonio10</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">304</td>
+<td align="right">307</td>
 <td><a href="https://github.com/Azinildo"><img src="https://avatars.githubusercontent.com/u/121403298?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Azinildo"><b>Azinildo Duarte Neves</b></a><br><sub>&#64;Azinildo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">305</td>
+<td align="right">308</td>
 <td><a href="https://github.com/carlospaiva1982"><img src="https://avatars.githubusercontent.com/u/13948766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlospaiva1982"><b>Carlos Paiva Tavares</b></a><br><sub>&#64;carlospaiva1982</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cabo Verde, ilha de Santiago Praia</sub></td>
 </tr>
 <tr>
-<td align="right">306</td>
+<td align="right">309</td>
 <td><a href="https://github.com/Ciberiana-Papelaria"><img src="https://avatars.githubusercontent.com/u/206238238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ciberiana-Papelaria"><b>Ciberiana Papelaria</b></a><br><sub>&#64;Ciberiana-Papelaria</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">307</td>
+<td align="right">310</td>
 <td><a href="https://github.com/cvprogrammer"><img src="https://avatars.githubusercontent.com/u/12845437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cvprogrammer"><b>Robbie Brito</b></a><br><sub>&#64;cvprogrammer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cape Verde, Praia</sub></td>
 </tr>
 <tr>
-<td align="right">308</td>
+<td align="right">311</td>
 <td><a href="https://github.com/DanyBritoFrancisca"><img src="https://avatars.githubusercontent.com/u/80039596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanyBritoFrancisca"><b>Dany Brito Francisca</b></a><br><sub>&#64;DanyBritoFrancisca</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">309</td>
+<td align="right">312</td>
 <td><a href="https://github.com/devgo-paulo"><img src="https://avatars.githubusercontent.com/u/71467344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devgo-paulo"><b>devgo-paulo</b></a><br><sub>&#64;devgo-paulo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Mindelo, S.Vicente-Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">310</td>
+<td align="right">313</td>
 <td><a href="https://github.com/fredericofortes-git"><img src="https://avatars.githubusercontent.com/u/194437070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fredericofortes-git"><b>Frederico Tech</b></a><br><sub>&#64;fredericofortes-git</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">311</td>
+<td align="right">314</td>
 <td><a href="https://github.com/geraldo0409"><img src="https://avatars.githubusercontent.com/u/1244575?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geraldo0409"><b>Geraldo</b></a><br><sub>&#64;geraldo0409</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Calheta de Sao Miguel - Insel Santigo - Cabo Ve…</sub></td>
 </tr>
 <tr>
-<td align="right">312</td>
+<td align="right">315</td>
 <td><a href="https://github.com/leonardoKi"><img src="https://avatars.githubusercontent.com/u/133162637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leonardoKi"><b>Leonardo Fonseca</b></a><br><sub>&#64;leonardoKi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">313</td>
+<td align="right">316</td>
+<td><a href="https://github.com/luciferstaticx"><img src="https://avatars.githubusercontent.com/u/181613833?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luciferstaticx"><b>luciferstaticx</b></a><br><sub>&#64;luciferstaticx</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Kaapverdië (CV)</sub></td>
+</tr>
+<tr>
+<td align="right">317</td>
 <td><a href="https://github.com/MarceloBarbosa01"><img src="https://avatars.githubusercontent.com/u/68301764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarceloBarbosa01"><b>Marcelo Cesar</b></a><br><sub>&#64;MarceloBarbosa01</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cape Verde ( Praia )</sub></td>
 </tr>
 <tr>
-<td align="right">314</td>
+<td align="right">318</td>
 <td><a href="https://github.com/medinaweb"><img src="https://avatars.githubusercontent.com/u/44407527?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/medinaweb"><b>medinaweb</b></a><br><sub>&#64;medinaweb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">315</td>
+<td align="right">319</td>
 <td><a href="https://github.com/MelissaAndrade2005"><img src="https://avatars.githubusercontent.com/u/333457915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MelissaAndrade2005"><b>Melissa Andrade Mendes</b></a><br><sub>&#64;MelissaAndrade2005</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Praia, Cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">316</td>
+<td align="right">320</td>
 <td><a href="https://github.com/mixart1976"><img src="https://avatars.githubusercontent.com/u/61051166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mixart1976"><b>Lauro Miranda</b></a><br><sub>&#64;mixart1976</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Mindelo Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">317</td>
+<td align="right">321</td>
 <td><a href="https://github.com/neytonrp"><img src="https://avatars.githubusercontent.com/u/78239071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neytonrp"><b>Neyton César Ramos Pereira</b></a><br><sub>&#64;neytonrp</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">318</td>
+<td align="right">322</td>
 <td><a href="https://github.com/pintoc98-collab"><img src="https://avatars.githubusercontent.com/u/297005437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pintoc98-collab"><b>Hirondina Évora &#124; GlobalMind</b></a><br><sub>&#64;pintoc98-collab</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Mindelo, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">319</td>
+<td align="right">323</td>
 <td><a href="https://github.com/superdavidfz"><img src="https://avatars.githubusercontent.com/u/60584876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/superdavidfz"><b>David Moreno</b></a><br><sub>&#64;superdavidfz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">320</td>
+<td align="right">324</td>
 <td><a href="https://github.com/TiagoSALopes"><img src="https://avatars.githubusercontent.com/u/216591659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TiagoSALopes"><b>Tiago Andrade</b></a><br><sub>&#64;TiagoSALopes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">321</td>
+<td align="right">325</td>
 <td><a href="https://github.com/ZeferinoSousa"><img src="https://avatars.githubusercontent.com/u/23457490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZeferinoSousa"><b>ZeferinoSousa</b></a><br><sub>&#64;ZeferinoSousa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">322</td>
+<td align="right">326</td>
 <td><a href="https://github.com/ZezitoSilva"><img src="https://avatars.githubusercontent.com/u/222190968?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZezitoSilva"><b>Zezito silva</b></a><br><sub>&#64;ZezitoSilva</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>📍 Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">323</td>
+<td align="right">327</td>
 <td><a href="https://github.com/ZTIC"><img src="https://avatars.githubusercontent.com/u/4686860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZTIC"><b>Jose Rodrigues</b></a><br><sub>&#64;ZTIC</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cabo Verde / Web</sub></td>
 </tr>
 <tr>
-<td align="right">324</td>
+<td align="right">328</td>
 <td><a href="https://github.com/Adilson-mm"><img src="https://avatars.githubusercontent.com/u/166034406?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adilson-mm"><b>Adilson de Melo</b></a><br><sub>&#64;Adilson-mm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">325</td>
+<td align="right">329</td>
 <td><a href="https://github.com/adilsonmartins"><img src="https://avatars.githubusercontent.com/u/12333208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adilsonmartins"><b>adilsonmartins</b></a><br><sub>&#64;adilsonmartins</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde - Maio</sub></td>
 </tr>
 <tr>
-<td align="right">326</td>
+<td align="right">330</td>
 <td><a href="https://github.com/AiltonJSF"><img src="https://avatars.githubusercontent.com/u/39198821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AiltonJSF"><b>AiltonJSF</b></a><br><sub>&#64;AiltonJSF</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">327</td>
+<td align="right">331</td>
 <td><a href="https://github.com/bochebeatz"><img src="https://avatars.githubusercontent.com/u/6135199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bochebeatz"><b>Joelson Soares Leal</b></a><br><sub>&#64;bochebeatz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cape Verde - Praia</sub></td>
 </tr>
 <tr>
-<td align="right">328</td>
+<td align="right">332</td>
 <td><a href="https://github.com/Bruno-jrs-Coder"><img src="https://avatars.githubusercontent.com/u/89876963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bruno-jrs-Coder"><b>Bruno Semedo</b></a><br><sub>&#64;Bruno-jrs-Coder</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde,São Salvador do Mundo</sub></td>
 </tr>
 <tr>
-<td align="right">329</td>
+<td align="right">333</td>
 <td><a href="https://github.com/casimiroc"><img src="https://avatars.githubusercontent.com/u/50279450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/casimiroc"><b>Casimiro Antonio Rocha</b></a><br><sub>&#64;casimiroc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">330</td>
+<td align="right">334</td>
 <td><a href="https://github.com/Dantas17"><img src="https://avatars.githubusercontent.com/u/85619202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dantas17"><b>Flávio Dantas</b></a><br><sub>&#64;Dantas17</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">331</td>
+<td align="right">335</td>
 <td><a href="https://github.com/DeniloGitHub"><img src="https://avatars.githubusercontent.com/u/23436629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DeniloGitHub"><b>Denilo</b></a><br><sub>&#64;DeniloGitHub</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">332</td>
+<td align="right">336</td>
 <td><a href="https://github.com/DIEGOREISHUB"><img src="https://avatars.githubusercontent.com/u/232928924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DIEGOREISHUB"><b>FILIPE REIS</b></a><br><sub>&#64;DIEGOREISHUB</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Praia,Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">333</td>
+<td align="right">337</td>
 <td><a href="https://github.com/djaonet"><img src="https://avatars.githubusercontent.com/u/42243347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djaonet"><b>Joao Monteiro</b></a><br><sub>&#64;djaonet</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">334</td>
+<td align="right">338</td>
 <td><a href="https://github.com/edsonlopes-dev"><img src="https://avatars.githubusercontent.com/u/138607104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edsonlopes-dev"><b>Edson Lopes</b></a><br><sub>&#64;edsonlopes-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">335</td>
+<td align="right">339</td>
 <td><a href="https://github.com/emendescv"><img src="https://avatars.githubusercontent.com/u/20455917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emendescv"><b>Edson Mendes</b></a><br><sub>&#64;emendescv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">336</td>
+<td align="right">340</td>
 <td><a href="https://github.com/enochayomide717-oss"><img src="https://avatars.githubusercontent.com/u/273877816?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enochayomide717-oss"><b>Enoch Adeyemi</b></a><br><sub>&#64;enochayomide717-oss</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>cape verde</sub></td>
 </tr>
 <tr>
-<td align="right">337</td>
+<td align="right">341</td>
 <td><a href="https://github.com/Eudisio"><img src="https://avatars.githubusercontent.com/u/91561200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eudisio"><b>Eudísio Andrade</b></a><br><sub>&#64;Eudisio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>São Vicente - Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">338</td>
+<td align="right">342</td>
 <td><a href="https://github.com/fogodigitalcv"><img src="https://avatars.githubusercontent.com/u/339102971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fogodigitalcv"><b>Fogo Digital Soc Unip Lda</b></a><br><sub>&#64;fogodigitalcv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">339</td>
+<td align="right">343</td>
 <td><a href="https://github.com/futuregamecv-maker"><img src="https://avatars.githubusercontent.com/u/253817770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/futuregamecv-maker"><b>Future Game Daniel</b></a><br><sub>&#64;futuregamecv-maker</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cape Verde ( São Vicente )</sub></td>
 </tr>
 <tr>
-<td align="right">340</td>
+<td align="right">344</td>
 <td><a href="https://github.com/Gabrielagomescv"><img src="https://avatars.githubusercontent.com/u/94361561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gabrielagomescv"><b>Gabriela Gomes</b></a><br><sub>&#64;Gabrielagomescv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">341</td>
+<td align="right">345</td>
 <td><a href="https://github.com/geraldinocv"><img src="https://avatars.githubusercontent.com/u/33418086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geraldinocv"><b>geraldinocv</b></a><br><sub>&#64;geraldinocv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">342</td>
+<td align="right">346</td>
 <td><a href="https://github.com/heliida"><img src="https://avatars.githubusercontent.com/u/37083874?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heliida"><b>Heli</b></a><br><sub>&#64;heliida</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">343</td>
+<td align="right">347</td>
 <td><a href="https://github.com/icdigitaldev"><img src="https://avatars.githubusercontent.com/u/84870006?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icdigitaldev"><b>Isaías Cardoso</b></a><br><sub>&#64;icdigitaldev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">344</td>
+<td align="right">348</td>
 <td><a href="https://github.com/ivandro2712"><img src="https://avatars.githubusercontent.com/u/29957084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivandro2712"><b>Ivaldo Monteiro</b></a><br><sub>&#64;ivandro2712</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>cabo verde, são vicente, mindelo</sub></td>
 </tr>
 <tr>
-<td align="right">345</td>
+<td align="right">349</td>
 <td><a href="https://github.com/JassiraM"><img src="https://avatars.githubusercontent.com/u/78377194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JassiraM"><b>JassiraM</b></a><br><sub>&#64;JassiraM</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cape Verde (Praia)</sub></td>
 </tr>
 <tr>
-<td align="right">346</td>
+<td align="right">350</td>
 <td><a href="https://github.com/lEmanuelLopes09"><img src="https://avatars.githubusercontent.com/u/28508426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lEmanuelLopes09"><b>Emanuel Lopes</b></a><br><sub>&#64;lEmanuelLopes09</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">347</td>
+<td align="right">351</td>
 <td><a href="https://github.com/mariapascoa"><img src="https://avatars.githubusercontent.com/u/108197212?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mariapascoa"><b>Maria Alves</b></a><br><sub>&#64;mariapascoa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mindelo, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">348</td>
+<td align="right">352</td>
 <td><a href="https://github.com/marwingraca1"><img src="https://avatars.githubusercontent.com/u/52973345?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marwingraca1"><b>Marwin Graça</b></a><br><sub>&#64;marwingraca1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>São Vicente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">349</td>
+<td align="right">353</td>
 <td><a href="https://github.com/MisterFaya"><img src="https://avatars.githubusercontent.com/u/288585991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MisterFaya"><b>Faya Justin Temessadouno</b></a><br><sub>&#64;MisterFaya</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mindelo, Sao Vincente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">350</td>
+<td align="right">354</td>
 <td><a href="https://github.com/psnbrito-ops"><img src="https://avatars.githubusercontent.com/u/249086100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/psnbrito-ops"><b>Paulo Brito</b></a><br><sub>&#64;psnbrito-ops</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">351</td>
+<td align="right">355</td>
 <td><a href="https://github.com/r0driguez18"><img src="https://avatars.githubusercontent.com/u/83719474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r0driguez18"><b>Nelson Alves</b></a><br><sub>&#64;r0driguez18</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde, Praia</sub></td>
 </tr>
 <tr>
-<td align="right">352</td>
+<td align="right">356</td>
 <td><a href="https://github.com/TI98"><img src="https://avatars.githubusercontent.com/u/23582314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TI98"><b>Ebrailson Gabriel</b></a><br><sub>&#64;TI98</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">353</td>
+<td align="right">357</td>
 <td><a href="https://github.com/xamlucode"><img src="https://avatars.githubusercontent.com/u/197730260?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xamlucode"><b>xamlu</b></a><br><sub>&#64;xamlucode</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>cape verde</sub></td>
 </tr>
 <tr>
-<td align="right">354</td>
+<td align="right">358</td>
 <td><a href="https://github.com/Zanvaro"><img src="https://avatars.githubusercontent.com/u/135835226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zanvaro"><b>zanvaro</b></a><br><sub>&#64;Zanvaro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Cabeça Carreira, santa Catarina, Santiago - Cab…</sub></td>
 </tr>
 <tr>
-<td align="right">355</td>
+<td align="right">359</td>
 <td><a href="https://github.com/5900061"><img src="https://avatars.githubusercontent.com/u/91930621?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/5900061"><b>Samuel Lopes Rodrigues</b></a><br><sub>&#64;5900061</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">356</td>
+<td align="right">360</td>
 <td><a href="https://github.com/agentme400"><img src="https://avatars.githubusercontent.com/u/310188853?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agentme400"><b>Nzinga Digital Group</b></a><br><sub>&#64;agentme400</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Sal, Cape verde</sub></td>
 </tr>
 <tr>
-<td align="right">357</td>
+<td align="right">361</td>
 <td><a href="https://github.com/alexgeogis"><img src="https://avatars.githubusercontent.com/u/69795874?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexgeogis"><b>&#64;alexgeogis</b></a><br><sub>&#64;alexgeogis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">358</td>
+<td align="right">362</td>
 <td><a href="https://github.com/Amaurihuz"><img src="https://avatars.githubusercontent.com/u/171508356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Amaurihuz"><b>Amauri</b></a><br><sub>&#64;Amaurihuz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>São Vicente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">359</td>
+<td align="right">363</td>
 <td><a href="https://github.com/anaximenology"><img src="https://avatars.githubusercontent.com/u/148465453?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anaximenology"><b>Anaxímeno Brito (Mike)</b></a><br><sub>&#64;anaximenology</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">360</td>
+<td align="right">364</td>
 <td><a href="https://github.com/AniciaAlmeida"><img src="https://avatars.githubusercontent.com/u/308361756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AniciaAlmeida"><b>Anicia Almeida</b></a><br><sub>&#64;AniciaAlmeida</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia - Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">361</td>
+<td align="right">365</td>
 <td><a href="https://github.com/arjenstudiocv"><img src="https://avatars.githubusercontent.com/u/315793971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arjenstudiocv"><b>Arjen Studio</b></a><br><sub>&#64;arjenstudiocv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">362</td>
+<td align="right">366</td>
 <td><a href="https://github.com/assis-runy-in8"><img src="https://avatars.githubusercontent.com/u/106249891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/assis-runy-in8"><b>Assis Ferreira</b></a><br><sub>&#64;assis-runy-in8</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">363</td>
+<td align="right">367</td>
 <td><a href="https://github.com/aveiga-cv"><img src="https://avatars.githubusercontent.com/u/7082508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aveiga-cv"><b>Amilton Veiga</b></a><br><sub>&#64;aveiga-cv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">364</td>
+<td align="right">368</td>
 <td><a href="https://github.com/Barbosa-P1"><img src="https://avatars.githubusercontent.com/u/137642834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Barbosa-P1"><b>Pedro Barbosa</b></a><br><sub>&#64;Barbosa-P1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>São Filipe, Fogo, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">365</td>
+<td align="right">369</td>
 <td><a href="https://github.com/botattoo"><img src="https://avatars.githubusercontent.com/u/260079454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/botattoo"><b>botato</b></a><br><sub>&#64;botattoo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>cape verde</sub></td>
 </tr>
 <tr>
-<td align="right">366</td>
+<td align="right">370</td>
 <td><a href="https://github.com/bsolutionscv"><img src="https://avatars.githubusercontent.com/u/58427978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bsolutionscv"><b>Box Solutions</b></a><br><sub>&#64;bsolutionscv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cidade da Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">367</td>
+<td align="right">371</td>
 <td><a href="https://github.com/camoyalp"><img src="https://avatars.githubusercontent.com/u/47385163?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/camoyalp"><b>Carlos Moya Aldecoa</b></a><br><sub>&#64;camoyalp</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde, Sal</sub></td>
 </tr>
 <tr>
-<td align="right">368</td>
+<td align="right">372</td>
 <td><a href="https://github.com/carlosmonteir0"><img src="https://avatars.githubusercontent.com/u/106117896?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlosmonteir0"><b>Carlos Monteiro</b></a><br><sub>&#64;carlosmonteir0</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">369</td>
+<td align="right">373</td>
 <td><a href="https://github.com/catpina"><img src="https://avatars.githubusercontent.com/u/48826296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/catpina"><b>Carlos Tavares Pina</b></a><br><sub>&#64;catpina</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">370</td>
+<td align="right">374</td>
 <td><a href="https://github.com/caua-23"><img src="https://avatars.githubusercontent.com/u/332920918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/caua-23"><b>Cauã</b></a><br><sub>&#64;caua-23</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">371</td>
+<td align="right">375</td>
 <td><a href="https://github.com/cdora3"><img src="https://avatars.githubusercontent.com/u/117091194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cdora3"><b>Frankie Thiel</b></a><br><sub>&#64;cdora3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">372</td>
+<td align="right">376</td>
 <td><a href="https://github.com/CesariaEvora"><img src="https://avatars.githubusercontent.com/u/263214378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CesariaEvora"><b>Cesaria Evora</b></a><br><sub>&#64;CesariaEvora</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">373</td>
+<td align="right">377</td>
 <td><a href="https://github.com/coding-side"><img src="https://avatars.githubusercontent.com/u/87591250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coding-side"><b>Coding Side</b></a><br><sub>&#64;coding-side</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">374</td>
+<td align="right">378</td>
 <td><a href="https://github.com/criooltec"><img src="https://avatars.githubusercontent.com/u/24513654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/criooltec"><b>criooltec</b></a><br><sub>&#64;criooltec</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>praia cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">375</td>
+<td align="right">379</td>
 <td><a href="https://github.com/cruzsousa"><img src="https://avatars.githubusercontent.com/u/69217009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cruzsousa"><b>Celso da Cruz Sousa</b></a><br><sub>&#64;cruzsousa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">376</td>
+<td align="right">380</td>
 <td><a href="https://github.com/dacruzsilva"><img src="https://avatars.githubusercontent.com/u/175860985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dacruzsilva"><b>Samir Da Cruz Silva</b></a><br><sub>&#64;dacruzsilva</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">377</td>
+<td align="right">381</td>
 <td><a href="https://github.com/DanilsonGomesCabral"><img src="https://avatars.githubusercontent.com/u/61633477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanilsonGomesCabral"><b>Danilson Gomes Cabral</b></a><br><sub>&#64;DanilsonGomesCabral</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde - ilha de santiago</sub></td>
 </tr>
 <tr>
-<td align="right">378</td>
+<td align="right">382</td>
 <td><a href="https://github.com/dkriol"><img src="https://avatars.githubusercontent.com/u/246585361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dkriol"><b>FIlipe</b></a><br><sub>&#64;dkriol</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>CABO VERDE</sub></td>
 </tr>
 <tr>
-<td align="right">379</td>
+<td align="right">383</td>
 <td><a href="https://github.com/dnrecv"><img src="https://avatars.githubusercontent.com/u/64157852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dnrecv"><b>Direção Nacional de Receitas do Estado de Cabo Verde</b></a><br><sub>&#64;dnrecv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">380</td>
+<td align="right">384</td>
 <td><a href="https://github.com/edgarascencao1234-ux"><img src="https://avatars.githubusercontent.com/u/244988759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edgarascencao1234-ux"><b>Edgar Ascensão</b></a><br><sub>&#64;edgarascencao1234-ux</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">381</td>
+<td align="right">385</td>
 <td><a href="https://github.com/edsonmlopes"><img src="https://avatars.githubusercontent.com/u/149967247?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edsonmlopes"><b>Edson Lopes</b></a><br><sub>&#64;edsonmlopes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">382</td>
+<td align="right">386</td>
 <td><a href="https://github.com/EdsonVasconcelos"><img src="https://avatars.githubusercontent.com/u/134066765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdsonVasconcelos"><b>Edson Vasconcelos</b></a><br><sub>&#64;EdsonVasconcelos</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">387</td>
 <td><a href="https://github.com/elias-santos18"><img src="https://avatars.githubusercontent.com/u/188198423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elias-santos18"><b>Elias Lima</b></a><br><sub>&#64;elias-santos18</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">384</td>
+<td align="right">388</td>
 <td><a href="https://github.com/estevaofsilva"><img src="https://avatars.githubusercontent.com/u/67068772?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/estevaofsilva"><b>Estevão Fernandes Silva</b></a><br><sub>&#64;estevaofsilva</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cape verde</sub></td>
 </tr>
 <tr>
-<td align="right">385</td>
+<td align="right">389</td>
 <td><a href="https://github.com/evelinefernandes"><img src="https://avatars.githubusercontent.com/u/304561005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evelinefernandes"><b>EVELINE BORGES FERNANDES</b></a><br><sub>&#64;evelinefernandes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">386</td>
+<td align="right">390</td>
 <td><a href="https://github.com/flavio3"><img src="https://avatars.githubusercontent.com/u/36248214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flavio3"><b>Flávio Correia</b></a><br><sub>&#64;flavio3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">387</td>
+<td align="right">391</td>
 <td><a href="https://github.com/GeekyNinja2003"><img src="https://avatars.githubusercontent.com/u/131955656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GeekyNinja2003"><b>Jerry Patrick Gomes Teixeira</b></a><br><sub>&#64;GeekyNinja2003</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">388</td>
+<td align="right">392</td>
 <td><a href="https://github.com/gil-cardoso"><img src="https://avatars.githubusercontent.com/u/3316921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gil-cardoso"><b>Lourença Santos</b></a><br><sub>&#64;gil-cardoso</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">389</td>
+<td align="right">393</td>
 <td><a href="https://github.com/GuerreiroSsouza"><img src="https://avatars.githubusercontent.com/u/200693175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GuerreiroSsouza"><b>GuerreiroSsouza</b></a><br><sub>&#64;GuerreiroSsouza</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">390</td>
+<td align="right">394</td>
 <td><a href="https://github.com/ibraimoabdala"><img src="https://avatars.githubusercontent.com/u/209817974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibraimoabdala"><b>ibraimoabdala</b></a><br><sub>&#64;ibraimoabdala</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia - Cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">391</td>
+<td align="right">395</td>
 <td><a href="https://github.com/JC-Aluno"><img src="https://avatars.githubusercontent.com/u/163366202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JC-Aluno"><b>JC Aluno</b></a><br><sub>&#64;JC-Aluno</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mindelo, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">392</td>
+<td align="right">396</td>
 <td><a href="https://github.com/JerryKMatias"><img src="https://avatars.githubusercontent.com/u/170620054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JerryKMatias"><b>Kelvin Jerry</b></a><br><sub>&#64;JerryKMatias</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mindelo, São Vicente, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">393</td>
+<td align="right">397</td>
 <td><a href="https://github.com/JoaoMagnata7"><img src="https://avatars.githubusercontent.com/u/136492732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoaoMagnata7"><b>JoaoMagnata7</b></a><br><sub>&#64;JoaoMagnata7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia/Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">394</td>
+<td align="right">398</td>
 <td><a href="https://github.com/JoenildoFurtado"><img src="https://avatars.githubusercontent.com/u/222965437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoenildoFurtado"><b>NovaTech Cabo Verde</b></a><br><sub>&#64;JoenildoFurtado</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Assomada, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">395</td>
+<td align="right">399</td>
 <td><a href="https://github.com/josebrandaocv"><img src="https://avatars.githubusercontent.com/u/107928997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josebrandaocv"><b>José Brandão</b></a><br><sub>&#64;josebrandaocv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">396</td>
+<td align="right">400</td>
 <td><a href="https://github.com/kmanframes-ctrl"><img src="https://avatars.githubusercontent.com/u/281644132?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kmanframes-ctrl"><b>Klisnman</b></a><br><sub>&#64;kmanframes-ctrl</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>CAPE VERDE</sub></td>
 </tr>
 <tr>
-<td align="right">397</td>
+<td align="right">401</td>
 <td><a href="https://github.com/kodigus"><img src="https://avatars.githubusercontent.com/u/157852392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kodigus"><b>Johnny de Pina</b></a><br><sub>&#64;kodigus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">398</td>
+<td align="right">402</td>
 <td><a href="https://github.com/leilaborges18"><img src="https://avatars.githubusercontent.com/u/204228843?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leilaborges18"><b>Leila Borges</b></a><br><sub>&#64;leilaborges18</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo verde</sub></td>
 </tr>
 <tr>
-<td align="right">399</td>
+<td align="right">403</td>
 <td><a href="https://github.com/lindomarcv"><img src="https://avatars.githubusercontent.com/u/4561514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lindomarcv"><b>Lindomar Rocha</b></a><br><sub>&#64;lindomarcv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">400</td>
+<td align="right">404</td>
 <td><a href="https://github.com/Luc4sneves"><img src="https://avatars.githubusercontent.com/u/250142728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Luc4sneves"><b>Luc4sneves</b></a><br><sub>&#64;Luc4sneves</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">401</td>
+<td align="right">405</td>
 <td><a href="https://github.com/lyles999"><img src="https://avatars.githubusercontent.com/u/196504736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lyles999"><b>CH76</b></a><br><sub>&#64;lyles999</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">402</td>
+<td align="right">406</td>
 <td><a href="https://github.com/m7freitas"><img src="https://avatars.githubusercontent.com/u/123492877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m7freitas"><b>m7freitas</b></a><br><sub>&#64;m7freitas</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">403</td>
+<td align="right">407</td>
 <td><a href="https://github.com/MatheusLange10"><img src="https://avatars.githubusercontent.com/u/134061181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatheusLange10"><b>Matheus Felipe Lange Silvério</b></a><br><sub>&#64;MatheusLange10</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">404</td>
+<td align="right">408</td>
 <td><a href="https://github.com/MichellaFurtado"><img src="https://avatars.githubusercontent.com/u/157888836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichellaFurtado"><b>Michella Furtado</b></a><br><sub>&#64;MichellaFurtado</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">405</td>
+<td align="right">409</td>
 <td><a href="https://github.com/MRSmokingNFT"><img src="https://avatars.githubusercontent.com/u/160107052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MRSmokingNFT"><b>SmokingNFTs</b></a><br><sub>&#64;MRSmokingNFT</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">406</td>
+<td align="right">410</td>
 <td><a href="https://github.com/natalinodejesussemedosanches-afk"><img src="https://avatars.githubusercontent.com/u/316251371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/natalinodejesussemedosanches-afk"><b>Natalino Sanches</b></a><br><sub>&#64;natalinodejesussemedosanches-afk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">407</td>
+<td align="right">411</td>
 <td><a href="https://github.com/ocholi3"><img src="https://avatars.githubusercontent.com/u/114202413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ocholi3"><b>Ocholi Yusuf Okpanachi</b></a><br><sub>&#64;ocholi3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">408</td>
+<td align="right">412</td>
 <td><a href="https://github.com/pauloumaru"><img src="https://avatars.githubusercontent.com/u/19709890?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pauloumaru"><b>Paulo Umaru</b></a><br><sub>&#64;pauloumaru</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">409</td>
+<td align="right">413</td>
 <td><a href="https://github.com/renatoevarchi-bot"><img src="https://avatars.githubusercontent.com/u/341160324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/renatoevarchi-bot"><b>Ocean Cabo Verde Lda</b></a><br><sub>&#64;renatoevarchi-bot</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Santa Maria - Sal - Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">410</td>
+<td align="right">414</td>
 <td><a href="https://github.com/revidacv"><img src="https://avatars.githubusercontent.com/u/219929785?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/revidacv"><b>Revida</b></a><br><sub>&#64;revidacv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">411</td>
+<td align="right">415</td>
 <td><a href="https://github.com/RobsonA7"><img src="https://avatars.githubusercontent.com/u/236581403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RobsonA7"><b>Robson Afonso</b></a><br><sub>&#64;RobsonA7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Ilha de Santiago, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">412</td>
+<td align="right">416</td>
 <td><a href="https://github.com/rrlima82"><img src="https://avatars.githubusercontent.com/u/156609265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rrlima82"><b>Rômulo Lima</b></a><br><sub>&#64;rrlima82</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Boa Vista, Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">413</td>
+<td align="right">417</td>
+<td><a href="https://github.com/senser32"><img src="https://avatars.githubusercontent.com/u/286791327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/senser32"><b>senser32</b></a><br><sub>&#64;senser32</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Capo Verde</sub></td>
+</tr>
+<tr>
+<td align="right">418</td>
 <td><a href="https://github.com/setarcos7"><img src="https://avatars.githubusercontent.com/u/170710077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/setarcos7"><b>Sócrates Silva</b></a><br><sub>&#64;setarcos7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">414</td>
+<td align="right">419</td>
 <td><a href="https://github.com/SidicoJnjai"><img src="https://avatars.githubusercontent.com/u/66143790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SidicoJnjai"><b>Sidico</b></a><br><sub>&#64;SidicoJnjai</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Sal rei boa vista cape verde</sub></td>
 </tr>
 <tr>
-<td align="right">415</td>
+<td align="right">420</td>
 <td><a href="https://github.com/silvamats"><img src="https://avatars.githubusercontent.com/u/124373359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silvamats"><b>Mateus Neves Andrade</b></a><br><sub>&#64;silvamats</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">416</td>
+<td align="right">421</td>
 <td><a href="https://github.com/SiqsuruqFlowster"><img src="https://avatars.githubusercontent.com/u/236413999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SiqsuruqFlowster"><b>Maksym Zinchenko</b></a><br><sub>&#64;SiqsuruqFlowster</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">417</td>
+<td align="right">422</td>
 <td><a href="https://github.com/spencermonteiro"><img src="https://avatars.githubusercontent.com/u/13873471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spencermonteiro"><b>spencermonteiro</b></a><br><sub>&#64;spencermonteiro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">418</td>
+<td align="right">423</td>
 <td><a href="https://github.com/SuzianaGomes"><img src="https://avatars.githubusercontent.com/u/232120605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SuzianaGomes"><b>Suziana Gomes</b></a><br><sub>&#64;SuzianaGomes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">419</td>
+<td align="right">424</td>
 <td><a href="https://github.com/Tatiana-Moreira76"><img src="https://avatars.githubusercontent.com/u/313433856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tatiana-Moreira76"><b>Tatiana</b></a><br><sub>&#64;Tatiana-Moreira76</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Praia, Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">420</td>
+<td align="right">425</td>
+<td><a href="https://github.com/Ungrosskhel"><img src="https://avatars.githubusercontent.com/u/264321626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ungrosskhel"><b>Barta Batoula</b></a><br><sub>&#64;Ungrosskhel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Cap Vert</sub></td>
+</tr>
+<tr>
+<td align="right">426</td>
 <td><a href="https://github.com/vandrosantos"><img src="https://avatars.githubusercontent.com/u/239789714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vandrosantos"><b>Vandro Neves Dos Santos</b></a><br><sub>&#64;vandrosantos</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">421</td>
+<td align="right">427</td>
 <td><a href="https://github.com/waldirfortes"><img src="https://avatars.githubusercontent.com/u/37560551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/waldirfortes"><b>Waldir Fortes</b></a><br><sub>&#64;waldirfortes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Mindelo, São Vicente - Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">422</td>
+<td align="right">428</td>
 <td><a href="https://github.com/wvvieira"><img src="https://avatars.githubusercontent.com/u/139871770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wvvieira"><b>Wilsson Vieira</b></a><br><sub>&#64;wvvieira</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cabo Verde</sub></td>
 </tr>
 <tr>
-<td align="right">423</td>
+<td align="right">429</td>
 <td><a href="https://github.com/yamandoualexander"><img src="https://avatars.githubusercontent.com/u/109680096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yamandoualexander"><b>yamandoualexander</b></a><br><sub>&#64;yamandoualexander</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Cape Verde</sub></td>
 </tr>
 <tr>
-<td align="right">424</td>
+<td align="right">430</td>
 <td><a href="https://github.com/YoungTAi1975"><img src="https://avatars.githubusercontent.com/u/213518040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YoungTAi1975"><b>Young T-Ai</b></a><br><sub>&#64;YoungTAi1975</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -2997,8 +3039,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 424 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 2 of 120 in round 1.
+- Organizations are excluded. 430 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 5 of 120 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

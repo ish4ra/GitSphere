@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SH","name":"St. Helena","slug":"st-helena"},
-"count": 12,
+"count": 10,
 "repositories": [
-  {"name":"2x74/strafetrainer","stars":1,"forks":2,"language":"SourcePawn","license":"GPL-3.0","archived":false,"createdAt":"2026-08-04T05:27:30Z","pushedAt":"2026-08-25T00:30:09Z","owner":{"login":"2x74","type":"User","name":"luna","location":"St. Helena"},"attribution":{"code":"SH","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T18:06:44.991Z","id":"legacy:2x74/strafetrainer","legacy":true},
-  {"name":"Deeannpva7/discord_bot","stars":1,"forks":0,"archived":false,"createdAt":"2024-07-20T06:43:10Z","pushedAt":"2024-07-20T06:43:11Z","owner":{"login":"Deeannpva7","type":"User","name":"Liam Mnchhoff","location":"Sint-Helena (SH)"},"attribution":{"code":"SH","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:06:44.991Z","id":"legacy:deeannpva7/discord_bot","legacy":true},
   {"name":"flamesongjasper/flamesongjasper","stars":0,"forks":0,"archived":false,"createdAt":"2024-09-30T15:22:53Z","pushedAt":"2024-09-30T15:23:07Z","owner":{"login":"flamesongjasper","type":"User","location":"St. Helena (SH)"},"attribution":{"code":"SH","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:06:44.991Z","id":"legacy:flamesongjasper/flamesongjasper","legacy":true},
   {"name":"helldragonsoftly/helldragonsoftly","stars":0,"forks":0,"archived":false,"createdAt":"2024-09-24T17:22:57Z","pushedAt":"2024-09-24T17:23:09Z","owner":{"login":"helldragonsoftly","type":"User","location":"Sint-Helena (SH)"},"attribution":{"code":"SH","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:06:44.991Z","id":"legacy:helldragonsoftly/helldragonsoftly","legacy":true},
   {"name":"hendrik-j-roux-nl/visualstudiocode","stars":0,"forks":0,"archived":false,"createdAt":"2019-08-21T08:57:38Z","pushedAt":"2020-02-04T11:10:54Z","owner":{"login":"hendrik-j-roux-nl","type":"User","name":"Hendriekus","location":"St Helena"},"attribution":{"code":"SH","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T18:06:44.991Z","id":"legacy:hendrik-j-roux-nl/visualstudiocode","legacy":true},

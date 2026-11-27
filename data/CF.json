@@ -5,7 +5,7 @@
 "country": {"code":"CF","name":"Central African Republic","slug":"central-african-republic"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":16,"ownerExpansionBacklog":25,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":59,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":16,"ownerExpansionBacklog":25,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":59,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxNTM5MDE5NDM=","name":"vue-element-ui-admin","nameWithOwner":"xusenlin/vue-element-ui-admin","url":"https://github.com/xusenlin/vue-element-ui-admin","description":":maple_leaf: 一个基于Vue 3(ScriptSetup) + TS + Vite + ElementPlus + Pinia + VueRouter + Axios的后台模板，做了目录结构的整理和常用方法的封装，开箱即用 :)","stars":477,"forks":114,"primaryLanguage":"Vue","license":{"spdxId":"MIT"},"createdAt":"2018-10-20T12:11:16Z","pushedAt":"2023-11-11T13:10:44Z","archived":false,"owner":{"login":"xusenlin","name":"Selwyn","type":"User","url":"https://github.com/xusenlin","location":"HS","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"vim","nameWithOwner":"SUNATOR-ADTEAM/vim","url":"https://github.com/SUNATOR-ADTEAM/vim","description":null,"stars":0,"forks":4,"primaryLanguage":null,"license":{"spdxId":"GPL-3.0"},"createdAt":"2021-09-23T16:02:39Z","pushedAt":"2021-09-23T16:09:21Z","archived":false,"owner":{"login":"SUNATOR-ADTEAM","name":"ROBOT","type":"Organization","url":"https://github.com/SUNATOR-ADTEAM","location":"Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -25,8 +25,8 @@
   {"rank":16,"id":null,"name":"ringcamomile","nameWithOwner":"ringcamomile/ringcamomile","url":"https://github.com/ringcamomile/ringcamomile","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-29T12:04:02Z","pushedAt":"2024-09-29T12:04:16Z","archived":false,"owner":{"login":"ringcamomile","name":null,"type":"User","url":"https://github.com/ringcamomile","location":"Central African Republic (CF)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":17,"id":null,"name":"LiquidCrystal_I2C","nameWithOwner":"wandaralab/LiquidCrystal_I2C","url":"https://github.com/wandaralab/LiquidCrystal_I2C","description":null,"stars":0,"forks":0,"primaryLanguage":"C++","license":null,"createdAt":"2019-09-29T12:54:35Z","pushedAt":"2019-09-29T12:54:56Z","archived":false,"owner":{"login":"wandaralab","name":"WandaraLab","type":"Organization","url":"https://github.com/wandaralab","location":"Bangui, Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "02162a130ea2c030",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "10fa08c817787a8d",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

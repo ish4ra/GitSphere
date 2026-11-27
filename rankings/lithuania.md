@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **79** | 24 Nov 2026 | <a href="../data/LT.json">JSON</a> |
+| 🟡 Provisional | **91** | 24 Nov 2026 | <a href="../data/LT.json">JSON</a> |
 
 </div>
 
@@ -214,7 +214,7 @@
 <td align="right">28</td>
 <td><img src="https://github.com/mgedmin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mgedmin/objgraph"><b>mgedmin/objgraph</b></a><br><sub>Visually explore Python object graphs</sub></td>
 <td align="right"><b>840</b></td>
-<td align="right">73</td>
+<td align="right">74</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -574,6 +574,90 @@
 <td align="right">13</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/justinas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/justinas/nixos-ha-kubernetes"><b>justinas/nixos-ha-kubernetes</b></a><br><sub>Toy highly-available Kubernetes cluster on NixOS</sub></td>
+<td align="right"><b>339</b></td>
+<td align="right">10</td>
+<td>Nix</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/mgedmin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mgedmin/profilehooks"><b>mgedmin/profilehooks</b></a><br><sub>Python decorators for profiling/tracing/timing a single function</sub></td>
+<td align="right"><b>338</b></td>
+<td align="right">29</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/deniz-blue.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deniz-blue/mcman"><b>deniz-blue/mcman</b></a><br><sub>Powerful Minecraft Server Manager CLI. Easily install jars (server, plugins &amp; mods) and write config files. Docker and…</sub></td>
+<td align="right"><b>335</b></td>
+<td align="right">28</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/DarkaOnLine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DarkaOnLine/SwaggerLume"><b>DarkaOnLine/SwaggerLume</b></a><br><sub>Lumen swagger</sub></td>
+<td align="right"><b>331</b></td>
+<td align="right">84</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/rokups.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rokups/hello-vue-django"><b>rokups/hello-vue-django</b></a> <sub>archived</sub><br><sub>vuejs and Django integration with hot code reload. Dont use this, use https://github.com/NdagiStanley/vue-django or htt…</sub></td>
+<td align="right"><b>329</b></td>
+<td align="right">90</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/ivelum.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivelum/job"><b>ivelum/job</b></a></td>
+<td align="right"><b>328</b></td>
+<td align="right">31</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/bring-shrubbery.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bring-shrubbery/squircle-js"><b>bring-shrubbery/squircle-js</b></a><br><sub>A squircle element for your favourite frontend framework!</sub></td>
+<td align="right"><b>325</b></td>
+<td align="right">17</td>
+<td>MDX</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/subotkevic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/subotkevic/vue-lazy-image-loading"><b>subotkevic/vue-lazy-image-loading</b></a><br><sub>Vue lazy image and background loading plugin.</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">11</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/spajus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spajus/hubot-control"><b>spajus/hubot-control</b></a><br><sub>Control Hubot via web interface</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">44</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/MrR0807.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrR0807/SpringCertification5.0"><b>MrR0807/SpringCertification5.0</b></a><br><sub>My notes for preparing for Spring Professional Certification</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">186</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/lemonlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lemonlabs/ExpandableButtonMenu"><b>lemonlabs/ExpandableButtonMenu</b></a><br><sub>&#91;DEPRECATED&#93; An Android library for an expandable button menu</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">114</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/Kaya-konstantin-6.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kaya-konstantin-6/slack-enterprise"><b>Kaya-konstantin-6/slack-enterprise</b></a><br><sub>Slack Enterprise for Windows 10/11. Messages teammates in shared channels, starts huddles and calls, shares files and p…</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -582,8 +666,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 341 stars; 79 attributed candidates are tracked.
-- 100 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 318 stars; 91 attributed candidates are tracked.
+- 97 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

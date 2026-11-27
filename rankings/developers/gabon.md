@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/yvan-ngoahitsi"><img src="https://avatars.githubusercontent.com/u/45407023?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yvan-ngoahitsi"><b>Yvan A. Ngoahitsi</b></a><br><sub>&#64;yvan-ngoahitsi</sub></td>
-<td align="right"><b>122</b></td>
+<td align="right"><b>123</b></td>
 <td align="right">38</td>
 <td><sub>Gabon</sub></td>
 </tr>
@@ -247,24 +247,24 @@
 </tr>
 <tr>
 <td align="right">33</td>
+<td><a href="https://github.com/Lichtensteiner"><img src="https://avatars.githubusercontent.com/u/132758588?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lichtensteiner"><b>Lichtensteiner Stawikowski</b></a><br><sub>&#64;Lichtensteiner</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">43</td>
+<td><sub>Libreville Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><a href="https://github.com/laurelYama"><img src="https://avatars.githubusercontent.com/u/161228377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laurelYama"><b>Laurel YAMA</b></a><br><sub>&#64;laurelYama</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">21</td>
 <td><sub>Libreville Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">35</td>
 <td><a href="https://github.com/JoanMbela"><img src="https://avatars.githubusercontent.com/u/70402573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoanMbela"><b>JoanMbela</b></a><br><sub>&#64;JoanMbela</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">7</td>
 <td><sub>Libreville, Gabon</sub></td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><a href="https://github.com/Lichtensteiner"><img src="https://avatars.githubusercontent.com/u/132758588?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lichtensteiner"><b>Lichtensteiner Stawikowski</b></a><br><sub>&#64;Lichtensteiner</sub></td>
-<td align="right"><b>9</b></td>
-<td align="right">43</td>
-<td><sub>Libreville Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">36</td>

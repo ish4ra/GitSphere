@@ -311,15 +311,15 @@
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/Monogatari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Monogatari/Monogatari"><b>Monogatari/Monogatari</b></a><br><sub>Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web.</sub></td>
-<td align="right"><b>896</b></td>
+<td align="right"><b>897</b></td>
 <td align="right">128</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/BrunoSobrino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD"><b>BrunoSobrino/TheMystic-Bot-MD</b></a><br><sub>DEPRECATED &#124; 𝙷𝚎𝚢!! 𝙷𝚘𝚕𝚊 👋, 𝚎𝚜 𝚞𝚗 𝚐𝚞𝚜𝚝𝚘 𝚝𝚎𝚗𝚎𝚛𝚝𝚎 𝚊𝚚𝚞𝚒́ 𝚎𝚗 𝚎𝚜𝚝𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘 ¿…</sub></td>
-<td align="right"><b>895</b></td>
-<td align="right">1,953</td>
+<td align="right"><b>896</b></td>
+<td align="right">1,956</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -353,22 +353,22 @@
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/obie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/obie/claude-on-rails"><b>obie/claude-on-rails</b></a><br><sub>A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude</sub></td>
-<td align="right"><b>818</b></td>
+<td align="right"><b>817</b></td>
 <td align="right">47</td>
 <td>Ruby</td>
 </tr>
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/ableev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ableev/Zabbix-in-Telegram"><b>ableev/Zabbix-in-Telegram</b></a><br><sub>Zabbix Notifications with graphs in Telegram</sub></td>
-<td align="right"><b>816</b></td>
+<td align="right"><b>815</b></td>
 <td align="right">236</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/okhosting.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/okhosting/awesome-cyber-security"><b>okhosting/awesome-cyber-security</b></a><br><sub>A curated list of cyber security resources and tools.</sub></td>
-<td align="right"><b>806</b></td>
-<td align="right">150</td>
+<td align="right"><b>807</b></td>
+<td align="right">153</td>
 <td>—</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 397 stars; 146 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 397 stars; 140 attributed candidates are tracked.
 - 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

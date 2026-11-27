@@ -5,7 +5,7 @@
 "country": {"code":"BF","name":"Burkina Faso","slug":"burkina-faso"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":140,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":138,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":115,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk2MTU3ODI2","name":"Jumper","nameWithOwner":"Yonaba/Jumper","url":"https://github.com/Yonaba/Jumper","description":"Fast, lightweight and easy-to-use pathfinding library for grid-based games","stars":652,"forks":129,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2012-10-10T13:34:13Z","pushedAt":"2022-10-21T09:02:33Z","archived":false,"owner":{"login":"Yonaba","name":"Roland","type":"User","url":"https://github.com/Yonaba","location":"Ouagadougou (Burkina Faso)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk1MTYzMTgw","name":"Moses","nameWithOwner":"Yonaba/Moses","url":"https://github.com/Yonaba/Moses","description":"Utility library for functional programming in Lua","stars":652,"forks":102,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2012-07-24T08:42:19Z","pushedAt":"2019-12-18T02:39:18Z","archived":false,"owner":{"login":"Yonaba","name":"Roland","type":"User","url":"https://github.com/Yonaba","location":"Ouagadougou (Burkina Faso)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
@@ -26,8 +26,8 @@
   {"rank":17,"id":null,"name":"github-final-project","nameWithOwner":"syounoussa/github-final-project","url":"https://github.com/syounoussa/github-final-project","description":null,"stars":0,"forks":0,"primaryLanguage":"Shell","license":{"spdxId":"Apache-2.0"},"createdAt":"2025-03-27T11:26:50Z","pushedAt":"2025-03-27T11:50:28Z","archived":false,"owner":{"login":"syounoussa","name":"SIDIBE YOUNOUSSA","type":"User","url":"https://github.com/syounoussa","location":"Bobo Dioulasso","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":18,"id":null,"name":"UrbanStyleBF","nameWithOwner":"UrbanStyleBF/UrbanStyleBF","url":"https://github.com/UrbanStyleBF/UrbanStyleBF","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-10-17T16:43:14Z","pushedAt":"2026-10-19T14:53:18Z","archived":false,"owner":{"login":"UrbanStyleBF","name":"UrbanStyleBF","type":"User","url":"https://github.com/UrbanStyleBF","location":"Bobo Dioulasso","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "8e3a9320be567ad7",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "3fa4922ec2b04916",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

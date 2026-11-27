@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 02 Nov 2026 | <a href="../data/MA.json">JSON</a> |
-
-> **Not yet re-verified.** 43 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **67** | 24 Nov 2026 | <a href="../data/MA.json">JSON</a> |
 
 </div>
 
@@ -159,21 +157,21 @@
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/yassinebridi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yassinebridi/serpl"><b>yassinebridi/serpl</b></a><br><sub>A simple terminal UI for search and replace, ala VS Code.</sub></td>
-<td align="right"><b>864</b></td>
+<td align="right"><b>866</b></td>
 <td align="right">15</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/chadi0x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chadi0x/TheBigBrother"><b>chadi0x/TheBigBrother</b></a><br><sub>The Big Brother is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual inte…</sub></td>
-<td align="right"><b>789</b></td>
+<td align="right"><b>793</b></td>
 <td align="right">115</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/medyo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/medyo/hackertab.dev"><b>medyo/hackertab.dev</b></a><br><sub>A Chrome 🌐 &amp; Firefox 🦊 extension to discover the latest developer news and tools in one tab!</sub></td>
-<td align="right"><b>779</b></td>
+<td align="right"><b>780</b></td>
 <td align="right">92</td>
 <td>TypeScript</td>
 </tr>
@@ -424,304 +422,73 @@
 </tr>
 <tr>
 <td align="right">58</td>
-<td><img src="https://github.com/Emma04.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Emma04/E-commerce-and-advisory-system"><b>Emma04/E-commerce-and-advisory-system</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>HTML</td>
+<td><img src="https://github.com/ombhd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ombhd/Cleaner_42"><b>ombhd/Cleaner&#95;42</b></a><br><sub>A cross-platform system cleaner for 42Network students that removes cache files, browser data, and temporary files to f…</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">39</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">59</td>
-<td><img src="https://github.com/Tasmemie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tasmemie/redvision"><b>Tasmemie/redvision</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/ZOUHAIRFGRA.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZOUHAIRFGRA/100-Project-Ideas-for-Full-Stack-Developers"><b>ZOUHAIRFGRA/100-Project-Ideas-for-Full-Stack-Developers</b></a><br><sub>Welcome to the &quot;100 Project Ideas for Full Stack Developers&quot; repository. This project was created with the aim of provi…</sub></td>
+<td align="right"><b>325</b></td>
+<td align="right">37</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">60</td>
-<td><img src="https://github.com/4w1il.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/4w1il/pe_files_infection"><b>4w1il/pe&#95;files&#95;infection</b></a></td>
-<td align="right"><b>1</b></td>
+<td><img src="https://github.com/kevinnovikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kevinnovikov/revo-uninstaller-free"><b>kevinnovikov/revo-uninstaller-free</b></a><br><sub>Revo Uninstaller Free for Windows 10/11. Removes stubborn programs and leftover registry entries, scans for residual fi…</sub></td>
+<td align="right"><b>324</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">61</td>
-<td><img src="https://github.com/abbenhima.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abbenhima/user-role-api"><b>abbenhima/user-role-api</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">62</td>
-<td><img src="https://github.com/Abdel200450.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdel200450/vacasion-planer"><b>Abdel200450/vacasion-planer</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">63</td>
-<td><img src="https://github.com/abdelati-bourzik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdelati-bourzik/Android-Studio-Projects"><b>abdelati-bourzik/Android-Studio-Projects</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">64</td>
-<td><img src="https://github.com/abdellatif-rhounan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdellatif-rhounan/todo-app"><b>abdellatif-rhounan/todo-app</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Vue</td>
-</tr>
-<tr>
-<td align="right">65</td>
-<td><img src="https://github.com/Abdessamad-ELMOTARAJJY.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdessamad-ELMOTARAJJY/ObjectDetectionFlask"><b>Abdessamad-ELMOTARAJJY/ObjectDetectionFlask</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
+<td><img src="https://github.com/SaadAhla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SaadAhla/D1rkLdr"><b>SaadAhla/D1rkLdr</b></a><br><sub>Shellcode Loader with Indirect Dynamic syscall Implementation , shellcode in MAC format, API resolving from PEB, Syscal…</sub></td>
+<td align="right"><b>322</b></td>
 <td align="right">66</td>
-<td><img src="https://github.com/Abdllatif-max.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdllatif-max/snake-reinforcement-learning"><b>Abdllatif-max/snake-reinforcement-learning</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">67</td>
-<td><img src="https://github.com/abdououzahod.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdououzahod/portfolio"><b>abdououzahod/portfolio</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">68</td>
-<td><img src="https://github.com/adilcodes1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adilcodes1/adilcodes1"><b>adilcodes1/adilcodes1</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">69</td>
-<td><img src="https://github.com/aimrec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aimrec/html5-boilerplate-in-jade"><b>aimrec/html5-boilerplate-in-jade</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">70</td>
-<td><img src="https://github.com/akram-prog.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akram-prog/Maji-Ndogo-Analysis"><b>akram-prog/Maji-Ndogo-Analysis</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">71</td>
-<td><img src="https://github.com/AmakdoufAli.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AmakdoufAli/landing-page-cms"><b>AmakdoufAli/landing-page-cms</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">72</td>
-<td><img src="https://github.com/Amine-Hbaiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Amine-Hbaiz/Learning-front-end-web-dev"><b>Amine-Hbaiz/Learning-front-end-web-dev</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">73</td>
-<td><img src="https://github.com/AmineLS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AmineLS/WeRecruit"><b>AmineLS/WeRecruit</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">74</td>
-<td><img src="https://github.com/amonaldo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amonaldo/raspy-smart-cam"><b>amonaldo/raspy-smart-cam</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">75</td>
-<td><img src="https://github.com/anaitsalah2020.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anaitsalah2020/hello-world"><b>anaitsalah2020/hello-world</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">76</td>
-<td><img src="https://github.com/anasbraim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anasbraim/Translator-Project"><b>anasbraim/Translator-Project</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">77</td>
-<td><img src="https://github.com/AyoubHilmi01.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AyoubHilmi01/AyoubHilmi"><b>AyoubHilmi01/AyoubHilmi</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">78</td>
-<td><img src="https://github.com/Azouaghe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Azouaghe/Tribute"><b>Azouaghe/Tribute</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">79</td>
-<td><img src="https://github.com/B9Dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/B9Dev/try_git"><b>B9Dev/try&#95;git</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">80</td>
-<td><img src="https://github.com/BilalAchaia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BilalAchaia/TheQuantaTSB"><b>BilalAchaia/TheQuantaTSB</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">81</td>
-<td><img src="https://github.com/BlackAbdel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BlackAbdel/SearchEngine-and-Docs-Classification"><b>BlackAbdel/SearchEngine-and-Docs-Classification</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">82</td>
-<td><img src="https://github.com/bloodlust666.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bloodlust666/TextFlex-documentation"><b>bloodlust666/TextFlex-documentation</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">83</td>
-<td><img src="https://github.com/bluvario.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bluvario/kattis-uwu"><b>bluvario/kattis-uwu</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">84</td>
-<td><img src="https://github.com/BoulbabMohamed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BoulbabMohamed/react-native-prize-wheel"><b>BoulbabMohamed/react-native-prize-wheel</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
+<td align="right">62</td>
+<td><img src="https://github.com/MaherAzzouzi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit"><b>MaherAzzouzi/CVE-2022-37706-LPE-exploit</b></a><br><sub>A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04)</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">41</td>
+<td>Shell</td>
 </tr>
 <tr>
-<td align="right">85</td>
-<td><img src="https://github.com/chakir123123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chakir123123/A-Study-and-implementation-of-Ensemble-Methods-for-efficient-web-threats-detection-"><b>chakir123123/A-Study-and-implementation-of-Ensemble-Methods-for-efficient-web-threats-detection-</b></a></td>
-<td align="right"><b>1</b></td>
+<td align="right">63</td>
+<td><img src="https://github.com/Alokcao2000.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Alokcao2000/oeksound-spiff"><b>Alokcao2000/oeksound-spiff</b></a><br><sub>Oeksound Spiff for Windows 10/11. Shapes and reshapes transient detail in recorded audio, letting you tighten drum hits…</sub></td>
+<td align="right"><b>322</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">86</td>
-<td><img src="https://github.com/ciretoecona.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ciretoecona/wallet"><b>ciretoecona/wallet</b></a></td>
-<td align="right"><b>1</b></td>
+<td align="right">64</td>
+<td><img src="https://github.com/mirleft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mirleft/ocaml-tls"><b>mirleft/ocaml-tls</b></a><br><sub>TLS in pure OCaml</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">71</td>
+<td>OCaml</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/bestdev1543.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bestdev1543/izotope-neutron-5"><b>bestdev1543/izotope-neutron-5</b></a><br><sub>Izotope Neutron 5 for Windows 10/11. Mixes and masters tracks with AI-assisted EQ, compression, and instrument-specific…</sub></td>
+<td align="right"><b>321</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">87</td>
-<td><img src="https://github.com/codeiseasydev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codeiseasydev/fenvi"><b>codeiseasydev/fenvi</b></a></td>
-<td align="right"><b>1</b></td>
+<td align="right">66</td>
+<td><img src="https://github.com/fatihbailey05.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fatihbailey05/glasswire-elite"><b>fatihbailey05/glasswire-elite</b></a><br><sub>Glasswire Elite for Windows 10/11. Monitors network traffic in real time, maps every app and device talking to the inte…</sub></td>
+<td align="right"><b>319</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">88</td>
-<td><img src="https://github.com/Conjurites.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Conjurites/Conjurites"><b>Conjurites/Conjurites</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">89</td>
-<td><img src="https://github.com/CrowCyber.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CrowCyber/Anime4Up-REST-API"><b>CrowCyber/Anime4Up-REST-API</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">90</td>
-<td><img src="https://github.com/DaoudLabrouzi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DaoudLabrouzi/java_projects"><b>DaoudLabrouzi/java&#95;projects</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">91</td>
-<td><img src="https://github.com/Dark-h4cker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dark-h4cker/P-Scanner"><b>Dark-h4cker/P-Scanner</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
+<td align="right">67</td>
+<td><img src="https://github.com/Mohammedcha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mohammedcha/gplay-scraper"><b>Mohammedcha/gplay-scraper</b></a><br><sub>GPlay Scraper is a powerful Python Google Play scraper library for extracting comprehensive app data from the Google Pl…</sub></td>
+<td align="right"><b>316</b></td>
+<td align="right">34</td>
 <td>Python</td>
-</tr>
-<tr>
-<td align="right">92</td>
-<td><img src="https://github.com/DELTAWEBMAROC.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DELTAWEBMAROC/rewardly-loyalty"><b>DELTAWEBMAROC/rewardly-loyalty</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/dinarsghuri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dinarsghuri/Lesson-Audit-Suite"><b>dinarsghuri/Lesson-Audit-Suite</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/Dreccanus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dreccanus/Network-Scanner"><b>Dreccanus/Network-Scanner</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/drisshaira.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/drisshaira/bootstrap-tutorials"><b>drisshaira/bootstrap-tutorials</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">96</td>
-<td><img src="https://github.com/E-Leaves.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/E-Leaves/WordAutoWriter-WAW-V1"><b>E-Leaves/WordAutoWriter-WAW-V1</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/ehbsoufiane.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ehbsoufiane/ECommerce-ASP.Net"><b>ehbsoufiane/ECommerce-ASP.Net</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>ASP</td>
-</tr>
-<tr>
-<td align="right">98</td>
-<td><img src="https://github.com/EL-KARAKHI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EL-KARAKHI/-"><b>EL-KARAKHI/-</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">99</td>
-<td><img src="https://github.com/ElHajly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ElHajly/Main"><b>ElHajly/Main</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">100</td>
-<td><img src="https://github.com/ELIDRISSI2010.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ELIDRISSI2010/android"><b>ELIDRISSI2010/android</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
 </tr>
 </tbody>
 </table>
@@ -729,11 +496,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 112 attributed candidates are tracked.
-- 43 entries were carried over from the previous dataset and are pending revalidation.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 316 stars; 67 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

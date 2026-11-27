@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 24 Nov 2026 | <a href="../data/GT.json">JSON</a> |
+| 🟡 Provisional | **14** | 24 Nov 2026 | <a href="../data/GT.json">JSON</a> |
 
 </div>
 
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/eylles.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eylles/pywal16"><b>eylles/pywal16</b></a><br><sub>16 colors fork of pywal</sub></td>
-<td align="right"><b>830</b></td>
+<td align="right"><b>831</b></td>
 <td align="right">54</td>
 <td>Python</td>
 </tr>
@@ -112,6 +112,13 @@
 <td align="right">13</td>
 <td>Vim Script</td>
 </tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/RandolphVI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RandolphVI/Hierarchical-Multi-Label-Text-Classification"><b>RandolphVI/Hierarchical-Multi-Label-Text-Classification</b></a><br><sub>The code of CIKM&#39;19 paper《Hierarchical Multi-label Text Classification: An Attention-based Recurrent Network Approach》</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">71</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -120,8 +127,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 368 stars; 13 attributed candidates are tracked.
-- 125 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 328 stars; 14 attributed candidates are tracked.
+- 124 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

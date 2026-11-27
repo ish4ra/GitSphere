@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/mattpocock"><img src="https://avatars.githubusercontent.com/u/28293365?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattpocock"><b>Matt Pocock</b></a><br><sub>&#64;mattpocock</sub></td>
-<td align="right"><b>57,290</b></td>
+<td align="right"><b>57,343</b></td>
 <td align="right">225</td>
 <td><sub>Oxfordshire</sub></td>
 </tr>
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/iamshaunjp"><img src="https://avatars.githubusercontent.com/u/9838872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamshaunjp"><b>Shaun</b></a><br><sub>&#64;iamshaunjp</sub></td>
-<td align="right"><b>32,596</b></td>
+<td align="right"><b>32,598</b></td>
 <td align="right">156</td>
 <td><sub>United Kingdom</sub></td>
 </tr>
@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/jlord"><img src="https://avatars.githubusercontent.com/u/1305617?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jlord"><b>Jessica Lord</b></a><br><sub>&#64;jlord</sub></td>
-<td align="right"><b>16,603</b></td>
+<td align="right"><b>16,601</b></td>
 <td align="right">174</td>
 <td><sub>London, England</sub></td>
 </tr>
@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/twostraws"><img src="https://avatars.githubusercontent.com/u/190200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/twostraws"><b>Paul Hudson</b></a><br><sub>&#64;twostraws</sub></td>
-<td align="right"><b>10,023</b></td>
+<td align="right"><b>10,025</b></td>
 <td align="right">82</td>
 <td><sub>Bath, UK</sub></td>
 </tr>
@@ -115,7 +115,7 @@
 <tr>
 <td align="right">14</td>
 <td><a href="https://github.com/toddmotto"><img src="https://avatars.githubusercontent.com/u/1655968?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/toddmotto"><b>Todd Motto</b></a><br><sub>&#64;toddmotto</sub></td>
-<td align="right"><b>9,717</b></td>
+<td align="right"><b>9,716</b></td>
 <td align="right">75</td>
 <td><sub>England, UK</sub></td>
 </tr>
@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><a href="https://github.com/davidbombal"><img src="https://avatars.githubusercontent.com/u/22679022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidbombal"><b>David Bombal</b></a><br><sub>&#64;davidbombal</sub></td>
-<td align="right"><b>8,341</b></td>
+<td align="right"><b>8,338</b></td>
 <td align="right">17</td>
 <td><sub>UK</sub></td>
 </tr>
@@ -157,14 +157,14 @@
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/lissy93"><img src="https://avatars.githubusercontent.com/u/1862727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lissy93"><b>Alicia Sykes</b></a><br><sub>&#64;lissy93</sub></td>
-<td align="right"><b>7,618</b></td>
+<td align="right"><b>7,619</b></td>
 <td align="right">131</td>
 <td><sub>London, UK</sub></td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/mattdesl"><img src="https://avatars.githubusercontent.com/u/1383811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattdesl"><b>Matt DesLauriers</b></a><br><sub>&#64;mattdesl</sub></td>
-<td align="right"><b>7,394</b></td>
+<td align="right"><b>7,396</b></td>
 <td align="right">641</td>
 <td><sub>London, UK</sub></td>
 </tr>
@@ -184,17 +184,17 @@
 </tr>
 <tr>
 <td align="right">24</td>
+<td><a href="https://github.com/samuelcolvin"><img src="https://avatars.githubusercontent.com/u/4039449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelcolvin"><b>Samuel Colvin</b></a><br><sub>&#64;samuelcolvin</sub></td>
+<td align="right"><b>6,778</b></td>
+<td align="right">313</td>
+<td><sub>London, United Kingdom</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/ept"><img src="https://avatars.githubusercontent.com/u/27544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ept"><b>Martin Kleppmann</b></a><br><sub>&#64;ept</sub></td>
 <td align="right"><b>6,776</b></td>
 <td align="right">101</td>
 <td><sub>Cambridge, UK</sub></td>
-</tr>
-<tr>
-<td align="right">25</td>
-<td><a href="https://github.com/samuelcolvin"><img src="https://avatars.githubusercontent.com/u/4039449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelcolvin"><b>Samuel Colvin</b></a><br><sub>&#64;samuelcolvin</sub></td>
-<td align="right"><b>6,772</b></td>
-<td align="right">313</td>
-<td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
 <td align="right">26</td>
@@ -262,7 +262,7 @@
 <tr>
 <td align="right">35</td>
 <td><a href="https://github.com/championswimmer"><img src="https://avatars.githubusercontent.com/u/1327050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/championswimmer"><b>Arnav Gupta</b></a><br><sub>&#64;championswimmer</sub></td>
-<td align="right"><b>5,145</b></td>
+<td align="right"><b>5,147</b></td>
 <td align="right">423</td>
 <td><sub>London, UK</sub></td>
 </tr>
@@ -325,7 +325,7 @@
 <tr>
 <td align="right">44</td>
 <td><a href="https://github.com/florina-muntenescu"><img src="https://avatars.githubusercontent.com/u/2998890?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/florina-muntenescu"><b>Florina Muntenescu</b></a><br><sub>&#64;florina-muntenescu</sub></td>
-<td align="right"><b>4,328</b></td>
+<td align="right"><b>4,325</b></td>
 <td align="right">19</td>
 <td><sub>London, United Kingdom</sub></td>
 </tr>
@@ -374,7 +374,7 @@
 <tr>
 <td align="right">51</td>
 <td><a href="https://github.com/lizrice"><img src="https://avatars.githubusercontent.com/u/458616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lizrice"><b>Liz Rice</b></a><br><sub>&#64;lizrice</sub></td>
-<td align="right"><b>3,957</b></td>
+<td align="right"><b>3,962</b></td>
 <td align="right">104</td>
 <td><sub>London</sub></td>
 </tr>
@@ -513,17 +513,17 @@
 </tr>
 <tr>
 <td align="right">71</td>
-<td><a href="https://github.com/riggaroo"><img src="https://avatars.githubusercontent.com/u/9973046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riggaroo"><b>Rebecca Franks</b></a><br><sub>&#64;riggaroo</sub></td>
-<td align="right"><b>2,943</b></td>
-<td align="right">37</td>
-<td><sub>London, United Kingdom</sub></td>
-</tr>
-<tr>
-<td align="right">72</td>
 <td><a href="https://github.com/whitequark"><img src="https://avatars.githubusercontent.com/u/54771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/whitequark"><b>Catherine</b></a><br><sub>&#64;whitequark</sub></td>
 <td align="right"><b>2,940</b></td>
 <td align="right">195</td>
 <td><sub>UK</sub></td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><a href="https://github.com/riggaroo"><img src="https://avatars.githubusercontent.com/u/9973046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riggaroo"><b>Rebecca Franks</b></a><br><sub>&#64;riggaroo</sub></td>
+<td align="right"><b>2,940</b></td>
+<td align="right">37</td>
+<td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
 <td align="right">73</td>
@@ -542,7 +542,7 @@
 <tr>
 <td align="right">75</td>
 <td><a href="https://github.com/daylerees"><img src="https://avatars.githubusercontent.com/u/207870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daylerees"><b>Dayle Rees</b></a><br><sub>&#64;daylerees</sub></td>
-<td align="right"><b>2,850</b></td>
+<td align="right"><b>2,849</b></td>
 <td align="right">40</td>
 <td><sub>Wales, UK</sub></td>
 </tr>
@@ -591,7 +591,7 @@
 <tr>
 <td align="right">82</td>
 <td><a href="https://github.com/andrewlock"><img src="https://avatars.githubusercontent.com/u/18755388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrewlock"><b>Andrew Lock</b></a><br><sub>&#64;andrewlock</sub></td>
-<td align="right"><b>2,696</b></td>
+<td align="right"><b>2,698</b></td>
 <td align="right">123</td>
 <td><sub>Plymouth, UK</sub></td>
 </tr>
@@ -780,7 +780,7 @@
 <tr>
 <td align="right">109</td>
 <td><a href="https://github.com/robmarkcole"><img src="https://avatars.githubusercontent.com/u/11855322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robmarkcole"><b>Robin Cole</b></a><br><sub>&#64;robmarkcole</sub></td>
-<td align="right"><b>2,121</b></td>
+<td align="right"><b>2,120</b></td>
 <td align="right">409</td>
 <td><sub>London, UK</sub></td>
 </tr>
@@ -920,7 +920,7 @@
 <tr>
 <td align="right">129</td>
 <td><a href="https://github.com/rachelandrew"><img src="https://avatars.githubusercontent.com/u/2764898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rachelandrew"><b>Rachel Andrew</b></a><br><sub>&#64;rachelandrew</sub></td>
-<td align="right"><b>1,889</b></td>
+<td align="right"><b>1,886</b></td>
 <td align="right">46</td>
 <td><sub>UK</sub></td>
 </tr>
@@ -989,17 +989,17 @@
 </tr>
 <tr>
 <td align="right">139</td>
-<td><a href="https://github.com/chshersh"><img src="https://avatars.githubusercontent.com/u/4276606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chshersh"><b>Dmitrii Kovanikov</b></a><br><sub>&#64;chshersh</sub></td>
-<td align="right"><b>1,812</b></td>
-<td align="right">30</td>
-<td><sub>London, UK</sub></td>
-</tr>
-<tr>
-<td align="right">140</td>
 <td><a href="https://github.com/keithamus"><img src="https://avatars.githubusercontent.com/u/118266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keithamus"><b>Keith Cirkel</b></a><br><sub>&#64;keithamus</sub></td>
 <td align="right"><b>1,810</b></td>
 <td align="right">373</td>
 <td><sub>London, England</sub></td>
+</tr>
+<tr>
+<td align="right">140</td>
+<td><a href="https://github.com/chshersh"><img src="https://avatars.githubusercontent.com/u/4276606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chshersh"><b>Dmitrii Kovanikov</b></a><br><sub>&#64;chshersh</sub></td>
+<td align="right"><b>1,809</b></td>
+<td align="right">30</td>
+<td><sub>London, UK</sub></td>
 </tr>
 <tr>
 <td align="right">141</td>
@@ -1227,17 +1227,17 @@
 </tr>
 <tr>
 <td align="right">173</td>
+<td><a href="https://github.com/liamg"><img src="https://avatars.githubusercontent.com/u/1187060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liamg"><b>Liam Galvin</b></a><br><sub>&#64;liamg</sub></td>
+<td align="right"><b>1,522</b></td>
+<td align="right">153</td>
+<td><sub>New Forest, United Kingdom</sub></td>
+</tr>
+<tr>
+<td align="right">174</td>
 <td><a href="https://github.com/NotAFlightRisk"><img src="https://avatars.githubusercontent.com/u/23277273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NotAFlightRisk"><b>Iain</b></a><br><sub>&#64;NotAFlightRisk</sub></td>
 <td align="right"><b>1,522</b></td>
 <td align="right">86</td>
 <td><sub>Essex, UK</sub></td>
-</tr>
-<tr>
-<td align="right">174</td>
-<td><a href="https://github.com/liamg"><img src="https://avatars.githubusercontent.com/u/1187060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liamg"><b>Liam Galvin</b></a><br><sub>&#64;liamg</sub></td>
-<td align="right"><b>1,520</b></td>
-<td align="right">153</td>
-<td><sub>New Forest, United Kingdom</sub></td>
 </tr>
 <tr>
 <td align="right">175</td>
@@ -1304,17 +1304,17 @@
 </tr>
 <tr>
 <td align="right">184</td>
+<td><a href="https://github.com/bashtage"><img src="https://avatars.githubusercontent.com/u/5585221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bashtage"><b>Kevin Sheppard</b></a><br><sub>&#64;bashtage</sub></td>
+<td align="right"><b>1,477</b></td>
+<td align="right">41</td>
+<td><sub>London, UK</sub></td>
+</tr>
+<tr>
+<td align="right">185</td>
 <td><a href="https://github.com/peter-lawrey"><img src="https://avatars.githubusercontent.com/u/1070321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peter-lawrey"><b>Peter Lawrey</b></a><br><sub>&#64;peter-lawrey</sub></td>
 <td align="right"><b>1,476</b></td>
 <td align="right">74</td>
 <td><sub>London</sub></td>
-</tr>
-<tr>
-<td align="right">185</td>
-<td><a href="https://github.com/bashtage"><img src="https://avatars.githubusercontent.com/u/5585221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bashtage"><b>Kevin Sheppard</b></a><br><sub>&#64;bashtage</sub></td>
-<td align="right"><b>1,476</b></td>
-<td align="right">41</td>
-<td><sub>London, UK</sub></td>
 </tr>
 <tr>
 <td align="right">186</td>
@@ -1480,23 +1480,23 @@
 <tr>
 <td align="right">209</td>
 <td><a href="https://github.com/nelstrom"><img src="https://avatars.githubusercontent.com/u/7069?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nelstrom"><b>Drew Neil</b></a><br><sub>&#64;nelstrom</sub></td>
-<td align="right"><b>1,370</b></td>
+<td align="right"><b>1,369</b></td>
 <td align="right">126</td>
 <td><sub>London, UK</sub></td>
 </tr>
 <tr>
 <td align="right">210</td>
-<td><a href="https://github.com/MattIPv4"><img src="https://avatars.githubusercontent.com/u/12371363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MattIPv4"><b>Matt Cowley</b></a><br><sub>&#64;MattIPv4</sub></td>
-<td align="right"><b>1,367</b></td>
-<td align="right">123</td>
-<td><sub>London, United Kingdom</sub></td>
-</tr>
-<tr>
-<td align="right">211</td>
 <td><a href="https://github.com/DmitryUlyanov"><img src="https://avatars.githubusercontent.com/u/6727524?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DmitryUlyanov"><b>Dmitry Ulyanov</b></a><br><sub>&#64;DmitryUlyanov</sub></td>
 <td align="right"><b>1,366</b></td>
 <td align="right">70</td>
 <td><sub>London</sub></td>
+</tr>
+<tr>
+<td align="right">211</td>
+<td><a href="https://github.com/MattIPv4"><img src="https://avatars.githubusercontent.com/u/12371363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MattIPv4"><b>Matt Cowley</b></a><br><sub>&#64;MattIPv4</sub></td>
+<td align="right"><b>1,362</b></td>
+<td align="right">123</td>
+<td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
 <td align="right">212</td>
@@ -1522,7 +1522,7 @@
 <tr>
 <td align="right">215</td>
 <td><a href="https://github.com/yunwei37"><img src="https://avatars.githubusercontent.com/u/34985212?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yunwei37"><b>云微</b></a><br><sub>&#64;yunwei37</sub></td>
-<td align="right"><b>1,343</b></td>
+<td align="right"><b>1,344</b></td>
 <td align="right">183</td>
 <td><sub>London</sub></td>
 </tr>
@@ -1550,7 +1550,7 @@
 <tr>
 <td align="right">219</td>
 <td><a href="https://github.com/simonmar"><img src="https://avatars.githubusercontent.com/u/609606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simonmar"><b>Simon Marlow</b></a><br><sub>&#64;simonmar</sub></td>
-<td align="right"><b>1,315</b></td>
+<td align="right"><b>1,316</b></td>
 <td align="right">44</td>
 <td><sub>Cambridge, UK</sub></td>
 </tr>
@@ -1591,16 +1591,16 @@
 </tr>
 <tr>
 <td align="right">225</td>
-<td><a href="https://github.com/OlafenwaMoses"><img src="https://avatars.githubusercontent.com/u/5909998?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OlafenwaMoses"><b>MOSES OLAFENWA</b></a><br><sub>&#64;OlafenwaMoses</sub></td>
-<td align="right"><b>1,278</b></td>
-<td align="right">35</td>
+<td><a href="https://github.com/TerryCavanagh"><img src="https://avatars.githubusercontent.com/u/2874150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TerryCavanagh"><b>Terry Cavanagh</b></a><br><sub>&#64;TerryCavanagh</sub></td>
+<td align="right"><b>1,277</b></td>
+<td align="right">37</td>
 <td><sub>London</sub></td>
 </tr>
 <tr>
 <td align="right">226</td>
-<td><a href="https://github.com/TerryCavanagh"><img src="https://avatars.githubusercontent.com/u/2874150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TerryCavanagh"><b>Terry Cavanagh</b></a><br><sub>&#64;TerryCavanagh</sub></td>
+<td><a href="https://github.com/OlafenwaMoses"><img src="https://avatars.githubusercontent.com/u/5909998?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OlafenwaMoses"><b>MOSES OLAFENWA</b></a><br><sub>&#64;OlafenwaMoses</sub></td>
 <td align="right"><b>1,277</b></td>
-<td align="right">37</td>
+<td align="right">35</td>
 <td><sub>London</sub></td>
 </tr>
 <tr>
@@ -1682,17 +1682,17 @@
 </tr>
 <tr>
 <td align="right">238</td>
-<td><a href="https://github.com/MicheleBertoli"><img src="https://avatars.githubusercontent.com/u/1308971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MicheleBertoli"><b>Michele Bertoli</b></a><br><sub>&#64;MicheleBertoli</sub></td>
-<td align="right"><b>1,235</b></td>
-<td align="right">83</td>
-<td><sub>London, England</sub></td>
-</tr>
-<tr>
-<td align="right">239</td>
 <td><a href="https://github.com/ATaylorCEngFIET"><img src="https://avatars.githubusercontent.com/u/9915242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ATaylorCEngFIET"><b>Adam Taylor</b></a><br><sub>&#64;ATaylorCEngFIET</sub></td>
 <td align="right"><b>1,234</b></td>
 <td align="right">167</td>
 <td><sub>United Kingdom</sub></td>
+</tr>
+<tr>
+<td align="right">239</td>
+<td><a href="https://github.com/MicheleBertoli"><img src="https://avatars.githubusercontent.com/u/1308971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MicheleBertoli"><b>Michele Bertoli</b></a><br><sub>&#64;MicheleBertoli</sub></td>
+<td align="right"><b>1,232</b></td>
+<td align="right">83</td>
+<td><sub>London, England</sub></td>
 </tr>
 <tr>
 <td align="right">240</td>
@@ -1704,7 +1704,7 @@
 <tr>
 <td align="right">241</td>
 <td><a href="https://github.com/ncw"><img src="https://avatars.githubusercontent.com/u/536803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ncw"><b>Nick Craig-Wood</b></a><br><sub>&#64;ncw</sub></td>
-<td align="right"><b>1,226</b></td>
+<td align="right"><b>1,227</b></td>
 <td align="right">108</td>
 <td><sub>Guildford, UK</sub></td>
 </tr>
@@ -1717,17 +1717,17 @@
 </tr>
 <tr>
 <td align="right">243</td>
-<td><a href="https://github.com/perone"><img src="https://avatars.githubusercontent.com/u/412328?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/perone"><b>Christian S. Perone</b></a><br><sub>&#64;perone</sub></td>
-<td align="right"><b>1,218</b></td>
-<td align="right">49</td>
-<td><sub>London, United Kingdom</sub></td>
-</tr>
-<tr>
-<td align="right">244</td>
 <td><a href="https://github.com/jkup"><img src="https://avatars.githubusercontent.com/u/490294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jkup"><b>Jon Kuperman</b></a><br><sub>&#64;jkup</sub></td>
 <td align="right"><b>1,217</b></td>
 <td align="right">222</td>
 <td><sub>London</sub></td>
+</tr>
+<tr>
+<td align="right">244</td>
+<td><a href="https://github.com/perone"><img src="https://avatars.githubusercontent.com/u/412328?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/perone"><b>Christian S. Perone</b></a><br><sub>&#64;perone</sub></td>
+<td align="right"><b>1,217</b></td>
+<td align="right">49</td>
+<td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
 <td align="right">245</td>
@@ -1893,7 +1893,7 @@
 <tr>
 <td align="right">268</td>
 <td><a href="https://github.com/mxbi"><img src="https://avatars.githubusercontent.com/u/6796648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mxbi"><b>Mikel Bober-Irizar</b></a><br><sub>&#64;mxbi</sub></td>
-<td align="right"><b>1,132</b></td>
+<td align="right"><b>1,133</b></td>
 <td align="right">96</td>
 <td><sub>United Kingdom</sub></td>
 </tr>
@@ -2123,16 +2123,16 @@
 </tr>
 <tr>
 <td align="right">301</td>
-<td><a href="https://github.com/jackciw"><img src="https://avatars.githubusercontent.com/u/43066291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackciw"><b>jack</b></a><br><sub>&#64;jackciw</sub></td>
-<td align="right"><b>1,029</b></td>
-<td align="right">94</td>
+<td><a href="https://github.com/OsandaMalith"><img src="https://avatars.githubusercontent.com/u/4497190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OsandaMalith"><b>Osanda Malith Jayathissa</b></a><br><sub>&#64;OsandaMalith</sub></td>
+<td align="right"><b>1,031</b></td>
+<td align="right">74</td>
 <td><sub>London</sub></td>
 </tr>
 <tr>
 <td align="right">302</td>
-<td><a href="https://github.com/OsandaMalith"><img src="https://avatars.githubusercontent.com/u/4497190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OsandaMalith"><b>Osanda Malith Jayathissa</b></a><br><sub>&#64;OsandaMalith</sub></td>
+<td><a href="https://github.com/jackciw"><img src="https://avatars.githubusercontent.com/u/43066291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackciw"><b>jack</b></a><br><sub>&#64;jackciw</sub></td>
 <td align="right"><b>1,029</b></td>
-<td align="right">74</td>
+<td align="right">94</td>
 <td><sub>London</sub></td>
 </tr>
 <tr>
@@ -2278,7 +2278,7 @@
 <tr>
 <td align="right">323</td>
 <td><a href="https://github.com/katef"><img src="https://avatars.githubusercontent.com/u/1371085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/katef"><b>Katherine</b></a><br><sub>&#64;katef</sub></td>
-<td align="right"><b>965</b></td>
+<td align="right"><b>964</b></td>
 <td align="right">26</td>
 <td><sub>Scotland</sub></td>
 </tr>
@@ -2390,7 +2390,7 @@
 <tr>
 <td align="right">339</td>
 <td><a href="https://github.com/mattlewis92"><img src="https://avatars.githubusercontent.com/u/6425649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattlewis92"><b>Matt Lewis</b></a><br><sub>&#64;mattlewis92</sub></td>
-<td align="right"><b>946</b></td>
+<td align="right"><b>947</b></td>
 <td align="right">232</td>
 <td><sub>Warwick, UK</sub></td>
 </tr>
@@ -2648,17 +2648,17 @@
 </tr>
 <tr>
 <td align="right">376</td>
-<td><a href="https://github.com/rtyley"><img src="https://avatars.githubusercontent.com/u/52038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rtyley"><b>Roberto Tyley</b></a><br><sub>&#64;rtyley</sub></td>
-<td align="right"><b>860</b></td>
-<td align="right">191</td>
-<td><sub>London, United Kingdom</sub></td>
-</tr>
-<tr>
-<td align="right">377</td>
 <td><a href="https://github.com/JeremySkinner"><img src="https://avatars.githubusercontent.com/u/90130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JeremySkinner"><b>Jeremy Skinner</b></a><br><sub>&#64;JeremySkinner</sub></td>
 <td align="right"><b>860</b></td>
 <td align="right">56</td>
 <td><sub>UK</sub></td>
+</tr>
+<tr>
+<td align="right">377</td>
+<td><a href="https://github.com/rtyley"><img src="https://avatars.githubusercontent.com/u/52038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rtyley"><b>Roberto Tyley</b></a><br><sub>&#64;rtyley</sub></td>
+<td align="right"><b>859</b></td>
+<td align="right">191</td>
+<td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
 <td align="right">378</td>
@@ -3999,80 +3999,80 @@
 </tr>
 <tr>
 <td align="right">569</td>
+<td><a href="https://github.com/hereismari"><img src="https://avatars.githubusercontent.com/u/8157164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hereismari"><b>Marianne Monteiro</b></a><br><sub>&#64;hereismari</sub></td>
+<td align="right"><b>613</b></td>
+<td align="right">76</td>
+<td><sub>London, UK</sub></td>
+</tr>
+<tr>
+<td align="right">570</td>
 <td><a href="https://github.com/QingyongHu"><img src="https://avatars.githubusercontent.com/u/29670234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QingyongHu"><b>Qingyong</b></a><br><sub>&#64;QingyongHu</sub></td>
 <td align="right"><b>613</b></td>
 <td align="right">24</td>
 <td><sub>Oxford, UK</sub></td>
 </tr>
 <tr>
-<td align="right">570</td>
+<td align="right">571</td>
 <td><a href="https://github.com/mneedham"><img src="https://avatars.githubusercontent.com/u/13220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mneedham"><b>Mark Needham</b></a><br><sub>&#64;mneedham</sub></td>
 <td align="right"><b>612</b></td>
 <td align="right">318</td>
 <td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
-<td align="right">571</td>
-<td><a href="https://github.com/hereismari"><img src="https://avatars.githubusercontent.com/u/8157164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hereismari"><b>Marianne Monteiro</b></a><br><sub>&#64;hereismari</sub></td>
+<td align="right">572</td>
+<td><a href="https://github.com/xenodium"><img src="https://avatars.githubusercontent.com/u/8107219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xenodium"><b>xenodium</b></a><br><sub>&#64;xenodium</sub></td>
 <td align="right"><b>612</b></td>
-<td align="right">76</td>
+<td align="right">126</td>
 <td><sub>London, UK</sub></td>
 </tr>
 <tr>
-<td align="right">572</td>
+<td align="right">573</td>
 <td><a href="https://github.com/chrisseaton"><img src="https://avatars.githubusercontent.com/u/341094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrisseaton"><b>Chris Seaton</b></a><br><sub>&#64;chrisseaton</sub></td>
 <td align="right"><b>612</b></td>
 <td align="right">45</td>
 <td><sub>Cheshire, The United Kingdom</sub></td>
 </tr>
 <tr>
-<td align="right">573</td>
+<td align="right">574</td>
 <td><a href="https://github.com/MarvinTeichmann"><img src="https://avatars.githubusercontent.com/u/2729159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarvinTeichmann"><b>Marvin Teichmann</b></a><br><sub>&#64;MarvinTeichmann</sub></td>
 <td align="right"><b>611</b></td>
 <td align="right">43</td>
 <td><sub>Cambridge, United Kingdom</sub></td>
 </tr>
 <tr>
-<td align="right">574</td>
+<td align="right">575</td>
 <td><a href="https://github.com/lukeredpath"><img src="https://avatars.githubusercontent.com/u/613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukeredpath"><b>Luke Redpath</b></a><br><sub>&#64;lukeredpath</sub></td>
 <td align="right"><b>610</b></td>
 <td align="right">119</td>
 <td><sub>Colchester, UK</sub></td>
 </tr>
 <tr>
-<td align="right">575</td>
+<td align="right">576</td>
 <td><a href="https://github.com/joeldrapper"><img src="https://avatars.githubusercontent.com/u/246692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joeldrapper"><b>Joel Drapper</b></a><br><sub>&#64;joeldrapper</sub></td>
 <td align="right"><b>610</b></td>
 <td align="right">72</td>
 <td><sub>Oxfordshire, UK</sub></td>
 </tr>
 <tr>
-<td align="right">576</td>
+<td align="right">577</td>
 <td><a href="https://github.com/VeldaKiara"><img src="https://avatars.githubusercontent.com/u/32552296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VeldaKiara"><b>Velda Kiara</b></a><br><sub>&#64;VeldaKiara</sub></td>
 <td align="right"><b>609</b></td>
 <td align="right">152</td>
 <td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
-<td align="right">577</td>
+<td align="right">578</td>
 <td><a href="https://github.com/gontovnik"><img src="https://avatars.githubusercontent.com/u/3436659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gontovnik"><b>Danil Gontovnik</b></a><br><sub>&#64;gontovnik</sub></td>
 <td align="right"><b>609</b></td>
 <td align="right">25</td>
 <td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
-<td align="right">578</td>
+<td align="right">579</td>
 <td><a href="https://github.com/turtledna"><img src="https://avatars.githubusercontent.com/u/129516122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/turtledna"><b>turtledna</b></a><br><sub>&#64;turtledna</sub></td>
 <td align="right"><b>609</b></td>
 <td align="right">3</td>
 <td><sub>UK</sub></td>
-</tr>
-<tr>
-<td align="right">579</td>
-<td><a href="https://github.com/xenodium"><img src="https://avatars.githubusercontent.com/u/8107219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xenodium"><b>xenodium</b></a><br><sub>&#64;xenodium</sub></td>
-<td align="right"><b>607</b></td>
-<td align="right">126</td>
-<td><sub>London, UK</sub></td>
 </tr>
 <tr>
 <td align="right">580</td>
@@ -4643,17 +4643,17 @@
 </tr>
 <tr>
 <td align="right">661</td>
+<td><a href="https://github.com/astrofrog"><img src="https://avatars.githubusercontent.com/u/314716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astrofrog"><b>Thomas Robitaille</b></a><br><sub>&#64;astrofrog</sub></td>
+<td align="right"><b>546</b></td>
+<td align="right">474</td>
+<td><sub>United Kingdom</sub></td>
+</tr>
+<tr>
+<td align="right">662</td>
 <td><a href="https://github.com/rockt"><img src="https://avatars.githubusercontent.com/u/1196835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rockt"><b>Tim Rocktäschel</b></a><br><sub>&#64;rockt</sub></td>
 <td align="right"><b>546</b></td>
 <td align="right">77</td>
 <td><sub>London</sub></td>
-</tr>
-<tr>
-<td align="right">662</td>
-<td><a href="https://github.com/astrofrog"><img src="https://avatars.githubusercontent.com/u/314716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astrofrog"><b>Thomas Robitaille</b></a><br><sub>&#64;astrofrog</sub></td>
-<td align="right"><b>545</b></td>
-<td align="right">474</td>
-<td><sub>United Kingdom</sub></td>
 </tr>
 <tr>
 <td align="right">663</td>
@@ -4707,7 +4707,7 @@
 <tr>
 <td align="right">670</td>
 <td><a href="https://github.com/NikLever"><img src="https://avatars.githubusercontent.com/u/47000827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NikLever"><b>Nik Lever</b></a><br><sub>&#64;NikLever</sub></td>
-<td align="right"><b>540</b></td>
+<td align="right"><b>539</b></td>
 <td align="right">56</td>
 <td><sub>UK</sub></td>
 </tr>
@@ -5042,52 +5042,52 @@
 </tr>
 <tr>
 <td align="right">718</td>
-<td><a href="https://github.com/aidenwallis"><img src="https://avatars.githubusercontent.com/u/12055114?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aidenwallis"><b>Aiden</b></a><br><sub>&#64;aidenwallis</sub></td>
-<td align="right"><b>507</b></td>
-<td align="right">80</td>
-<td><sub>United Kingdom</sub></td>
-</tr>
-<tr>
-<td align="right">719</td>
 <td><a href="https://github.com/Girgias"><img src="https://avatars.githubusercontent.com/u/7906688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Girgias"><b>Gina Peter Banyard</b></a><br><sub>&#64;Girgias</sub></td>
 <td align="right"><b>507</b></td>
 <td align="right">72</td>
 <td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
-<td align="right">720</td>
+<td align="right">719</td>
 <td><a href="https://github.com/MohamedBassem"><img src="https://avatars.githubusercontent.com/u/2418637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohamedBassem"><b>Mohamed Bassem</b></a><br><sub>&#64;MohamedBassem</sub></td>
 <td align="right"><b>507</b></td>
 <td align="right">67</td>
 <td><sub>London, UK</sub></td>
 </tr>
 <tr>
-<td align="right">721</td>
+<td align="right">720</td>
 <td><a href="https://github.com/benoitgrelard"><img src="https://avatars.githubusercontent.com/u/1539897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benoitgrelard"><b>Benoît Grélard</b></a><br><sub>&#64;benoitgrelard</sub></td>
 <td align="right"><b>507</b></td>
 <td align="right">3</td>
 <td><sub>London, UK</sub></td>
 </tr>
 <tr>
-<td align="right">722</td>
+<td align="right">721</td>
 <td><a href="https://github.com/higham"><img src="https://avatars.githubusercontent.com/u/1145351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/higham"><b>Nick Higham</b></a><br><sub>&#64;higham</sub></td>
 <td align="right"><b>506</b></td>
 <td align="right">23</td>
 <td><sub>Manchester, UK</sub></td>
 </tr>
 <tr>
-<td align="right">723</td>
+<td align="right">722</td>
 <td><a href="https://github.com/mattzcarey"><img src="https://avatars.githubusercontent.com/u/77928207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattzcarey"><b>Matt</b></a><br><sub>&#64;mattzcarey</sub></td>
 <td align="right"><b>505</b></td>
 <td align="right">120</td>
 <td><sub>London, UK</sub></td>
 </tr>
 <tr>
-<td align="right">724</td>
+<td align="right">723</td>
 <td><a href="https://github.com/tef"><img src="https://avatars.githubusercontent.com/u/56231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tef"><b>tef</b></a><br><sub>&#64;tef</sub></td>
 <td align="right"><b>505</b></td>
 <td align="right">87</td>
 <td><sub>Edinburgh, UK</sub></td>
+</tr>
+<tr>
+<td align="right">724</td>
+<td><a href="https://github.com/aidenwallis"><img src="https://avatars.githubusercontent.com/u/12055114?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aidenwallis"><b>Aiden</b></a><br><sub>&#64;aidenwallis</sub></td>
+<td align="right"><b>505</b></td>
+<td align="right">80</td>
+<td><sub>United Kingdom</sub></td>
 </tr>
 <tr>
 <td align="right">725</td>
@@ -5238,17 +5238,17 @@
 </tr>
 <tr>
 <td align="right">746</td>
-<td><a href="https://github.com/kittykatattack"><img src="https://avatars.githubusercontent.com/u/2936104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kittykatattack"><b>kittykatattack</b></a><br><sub>&#64;kittykatattack</sub></td>
-<td align="right"><b>495</b></td>
-<td align="right">57</td>
-<td><sub>UK</sub></td>
-</tr>
-<tr>
-<td align="right">747</td>
 <td><a href="https://github.com/SamMorrowDrums"><img src="https://avatars.githubusercontent.com/u/4811358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SamMorrowDrums"><b>Sam Morrow</b></a><br><sub>&#64;SamMorrowDrums</sub></td>
 <td align="right"><b>494</b></td>
 <td align="right">92</td>
 <td><sub>Belfast, UK</sub></td>
+</tr>
+<tr>
+<td align="right">747</td>
+<td><a href="https://github.com/kittykatattack"><img src="https://avatars.githubusercontent.com/u/2936104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kittykatattack"><b>kittykatattack</b></a><br><sub>&#64;kittykatattack</sub></td>
+<td align="right"><b>494</b></td>
+<td align="right">57</td>
+<td><sub>UK</sub></td>
 </tr>
 <tr>
 <td align="right">748</td>
@@ -5490,31 +5490,31 @@
 </tr>
 <tr>
 <td align="right">782</td>
+<td><a href="https://github.com/Treeki"><img src="https://avatars.githubusercontent.com/u/228195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Treeki"><b>Ash Wolf</b></a><br><sub>&#64;Treeki</sub></td>
+<td align="right"><b>474</b></td>
+<td align="right">58</td>
+<td><sub>Glasgow, Scotland</sub></td>
+</tr>
+<tr>
+<td align="right">783</td>
 <td><a href="https://github.com/bgavran"><img src="https://avatars.githubusercontent.com/u/3183608?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bgavran"><b>Bruno Gavranović</b></a><br><sub>&#64;bgavran</sub></td>
 <td align="right"><b>474</b></td>
 <td align="right">30</td>
 <td><sub>London, United Kingdom</sub></td>
 </tr>
 <tr>
-<td align="right">783</td>
+<td align="right">784</td>
 <td><a href="https://github.com/nerdyrodent"><img src="https://avatars.githubusercontent.com/u/74688049?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nerdyrodent"><b>Nerdy Rodent</b></a><br><sub>&#64;nerdyrodent</sub></td>
 <td align="right"><b>474</b></td>
 <td align="right">16</td>
 <td><sub>UK</sub></td>
 </tr>
 <tr>
-<td align="right">784</td>
+<td align="right">785</td>
 <td><a href="https://github.com/enggen"><img src="https://avatars.githubusercontent.com/u/12904887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enggen"><b>Engen</b></a><br><sub>&#64;enggen</sub></td>
 <td align="right"><b>473</b></td>
 <td align="right">323</td>
 <td><sub>London, UK</sub></td>
-</tr>
-<tr>
-<td align="right">785</td>
-<td><a href="https://github.com/Treeki"><img src="https://avatars.githubusercontent.com/u/228195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Treeki"><b>Ash Wolf</b></a><br><sub>&#64;Treeki</sub></td>
-<td align="right"><b>473</b></td>
-<td align="right">58</td>
-<td><sub>Glasgow, Scotland</sub></td>
 </tr>
 <tr>
 <td align="right">786</td>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,789 attributed developers are tracked; the cutoff is 384 followers.
+- Organizations are excluded. 1,804 attributed developers are tracked; the cutoff is 384 followers.
 - **Location discovery:** term 0 of 192 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

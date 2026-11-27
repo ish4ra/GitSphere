@@ -5,7 +5,7 @@
 "country": {"code":"AD","name":"Andorra","slug":"andorra"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":366,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":106,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":23,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":366,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":100,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":23,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk3MzU4NDQy","name":"SWRevealViewController","nameWithOwner":"John-Lluch/SWRevealViewController","url":"https://github.com/John-Lluch/SWRevealViewController","description":"A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !","stars":4467,"forks":958,"primaryLanguage":"Objective-C","license":{"spdxId":"NOASSERTION"},"createdAt":"2012-12-28T19:01:59Z","pushedAt":"2022-03-29T16:25:03Z","archived":false,"owner":{"login":"John-Lluch","name":"Joan Lluch","type":"User","url":"https://github.com/John-Lluch","location":"Escaldes - Andorra","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMDg2NjcyMDE=","name":"orbital","nameWithOwner":"AlexAltea/orbital","url":"https://github.com/AlexAltea/orbital","description":"Experimental PlayStation 4 emulator","stars":3649,"forks":272,"primaryLanguage":"C","license":{"spdxId":"MIT"},"createdAt":"2017-10-28T16:55:52Z","pushedAt":"2024-04-06T23:38:08Z","archived":false,"owner":{"login":"AlexAltea","name":"Alexandro Sanchez Bach","type":"User","url":"https://github.com/AlexAltea","location":"Les Escaldes, Andorra","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
@@ -20,8 +20,8 @@
   {"rank":11,"id":"MDEwOlJlcG9zaXRvcnkxNjM0MDM3NDU=","name":"slotjs","nameWithOwner":"Danziger/slotjs","url":"https://github.com/Danziger/slotjs","description":"🎰 Circular slot machine mobile-first SPA built using JavaScript, CSS variables and Emojis!","stars":376,"forks":106,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2018-12-28T11:38:31Z","pushedAt":"2023-12-31T13:47:51Z","archived":false,"owner":{"login":"Danziger","name":"Dani Gámez Franco","type":"User","url":"https://github.com/Danziger","location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":12,"id":"MDEwOlJlcG9zaXRvcnkzMjQ3Mjc0","name":"django-jinja","nameWithOwner":"niwinz/django-jinja","url":"https://github.com/niwinz/django-jinja","description":"Simple and nonobstructive jinja2 integration with Django.","stars":366,"forks":103,"primaryLanguage":"Python","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2012-01-23T14:34:36Z","pushedAt":"2026-07-20T07:22:15Z","archived":false,"owner":{"login":"niwinz","name":"Andrey Antukh","type":"User","url":"https://github.com/niwinz","location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "22ff5e8ce5ae2ac6",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "d9bf8aae6285b5c9",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

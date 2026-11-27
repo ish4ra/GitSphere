@@ -5,7 +5,7 @@
 "country": {"code":"BS","name":"Bahamas","slug":"bahamas"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":58,"ownerExpansionBacklog":143,"candidates":58,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":61,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":58,"ownerExpansionBacklog":142,"candidates":58,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":61,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"betahack-2020","nameWithOwner":"beta-group/betahack-2020","url":"https://github.com/beta-group/betahack-2020","description":null,"stars":0,"forks":3,"primaryLanguage":"HTML","license":null,"createdAt":"2020-11-14T18:03:02Z","pushedAt":"2020-11-14T22:04:59Z","archived":false,"owner":{"login":"beta-group","name":"Bahamas Engineering & Technology Advancement","type":"Organization","url":"https://github.com/beta-group","location":"Nassau, Bahamas","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Parsobober","nameWithOwner":"BobryPb/Parsobober","url":"https://github.com/BobryPb/Parsobober","description":null,"stars":0,"forks":2,"primaryLanguage":"C#","license":{"spdxId":"NOASSERTION"},"createdAt":"2024-03-11T12:41:22Z","pushedAt":"2026-02-11T19:27:59Z","archived":false,"owner":{"login":"BobryPb","name":"BobryPb","type":"Organization","url":"https://github.com/BobryPb","location":"Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -66,8 +66,8 @@
   {"rank":57,"id":null,"name":"50-projects","nameWithOwner":"darringtonricardo/50-projects","url":"https://github.com/darringtonricardo/50-projects","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2021-07-27T02:29:51Z","pushedAt":"2021-07-28T03:34:11Z","archived":false,"owner":{"login":"darringtonricardo","name":null,"type":"User","url":"https://github.com/darringtonricardo","location":"The Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":58,"id":null,"name":"voyage","nameWithOwner":"davonrolle/voyage","url":"https://github.com/davonrolle/voyage","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2025-01-15T01:24:02Z","pushedAt":"2025-01-17T00:29:30Z","archived":false,"owner":{"login":"davonrolle","name":"von","type":"User","url":"https://github.com/davonrolle","location":"Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "a5f5ee8abaa6eba4",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "9eb5da86c454a18e",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

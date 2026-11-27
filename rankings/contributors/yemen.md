@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/YE.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/YE.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/akramghaleb"><img src="https://avatars.githubusercontent.com/u/46090581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akramghaleb"><b>Akram Ghaleb</b></a><br><sub>&#64;akramghaleb · 106 followers</sub></td>
+<td align="right"><b>80</b></td>
+<td align="right">58</td>
+<td align="right">17</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/muath-ye"><img src="https://avatars.githubusercontent.com/u/34031333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muath-ye"><b>Muath Alsowadi</b></a><br><sub>&#64;muath-ye · 180 followers</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">48</td>
@@ -123,7 +132,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/EzzalddeenAli"><img src="https://avatars.githubusercontent.com/u/22683864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EzzalddeenAli"><b>Ezzalddeen Ali</b></a><br><sub>&#64;EzzalddeenAli · 72 followers</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">26</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/AbdulrhmanBashammmakh"><img src="https://avatars.githubusercontent.com/u/73081256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdulrhmanBashammmakh"><b>AB238</b></a><br><sub>&#64;AbdulrhmanBashammmakh · 597 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">3</td>
@@ -141,11 +150,29 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
+<td><a href="https://github.com/AimanAlmureish"><img src="https://avatars.githubusercontent.com/u/55395282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AimanAlmureish"><b>Aiman Almureish</b></a><br><sub>&#64;AimanAlmureish · 72 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/mbahomaid"><img src="https://avatars.githubusercontent.com/u/178747862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbahomaid"><b>Mustafa Bahomaid</b></a><br><sub>&#64;mbahomaid · 7,528 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/MuhannedNoman"><img src="https://avatars.githubusercontent.com/u/40465727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MuhannedNoman"><b>Muhanned Noman</b></a><br><sub>&#64;MuhannedNoman · 130 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -156,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 400 discovered developers (383 awaiting measurement).
+- **Measured:** 20 of 401 discovered developers (381 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 131 in round 1.

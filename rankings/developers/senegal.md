@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/dickoa"><img src="https://avatars.githubusercontent.com/u/500140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dickoa"><b>Ahmadou Dicko</b></a><br><sub>&#64;dickoa</sub></td>
-<td align="right"><b>174</b></td>
+<td align="right"><b>173</b></td>
 <td align="right">145</td>
 <td><sub>Dakar, Senegal</sub></td>
 </tr>
@@ -171,7 +171,7 @@
 <tr>
 <td align="right">22</td>
 <td><a href="https://github.com/sibylassana95"><img src="https://avatars.githubusercontent.com/u/103085452?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sibylassana95"><b>Lassana siby</b></a><br><sub>&#64;sibylassana95</sub></td>
-<td align="right"><b>121</b></td>
+<td align="right"><b>122</b></td>
 <td align="right">284</td>
 <td><sub>Senegal</sub></td>
 </tr>

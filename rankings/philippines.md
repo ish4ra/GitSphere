@@ -276,14 +276,14 @@
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/smoochiee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/smoochiee/Noisy-boy-esp32-Bluetooth-jammer"><b>smoochiee/Noisy-boy-esp32-Bluetooth-jammer</b></a><br><sub>Bluetooth jammer using esp32 with webserver</sub></td>
-<td align="right"><b>841</b></td>
-<td align="right">91</td>
+<td align="right"><b>843</b></td>
+<td align="right">93</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/jksalcedo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jksalcedo/librefind"><b>jksalcedo/librefind</b></a><br><sub>Discover and replace proprietary apps with FOSS alternatives</sub></td>
-<td align="right"><b>830</b></td>
+<td align="right"><b>833</b></td>
 <td align="right">21</td>
 <td>Kotlin</td>
 </tr>
@@ -304,7 +304,7 @@
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/qxb3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qxb3/conf"><b>qxb3/conf</b></a><br><sub>My hyprland configurations</sub></td>
-<td align="right"><b>803</b></td>
+<td align="right"><b>801</b></td>
 <td align="right">16</td>
 <td>—</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 356 stars; 110 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 356 stars; 121 attributed candidates are tracked.
 - 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

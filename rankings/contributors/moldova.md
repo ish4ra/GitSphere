@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/MD.json">JSON</a> |
+| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/contributors/MD.json">JSON</a> |
 
 </div>
 
@@ -142,6 +142,15 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/alxolr"><img src="https://avatars.githubusercontent.com/u/13674220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alxolr"><b>Alexandru Olaru</b></a><br><sub>&#64;alxolr · 51 followers</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">106</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/PlugaruT"><img src="https://avatars.githubusercontent.com/u/6437932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PlugaruT"><b>Tudor Plugaru</b></a><br><sub>&#64;PlugaruT · 50 followers</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">22</td>
@@ -150,7 +159,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/AmanDjenner"><img src="https://avatars.githubusercontent.com/u/43551092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmanDjenner"><b>Djenner</b></a><br><sub>&#64;AmanDjenner · 0 followers</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">1</td>
@@ -159,7 +168,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
+<td><a href="https://github.com/Grigore147"><img src="https://avatars.githubusercontent.com/u/574469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Grigore147"><b>Grigore Dutcovici</b></a><br><sub>&#64;Grigore147 · 64 followers</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">13</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/vgaidarji"><img src="https://avatars.githubusercontent.com/u/3036347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vgaidarji"><b>Veaceslav Gaidarji</b></a><br><sub>&#64;vgaidarji · 113 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">5</td>
@@ -168,7 +186,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
 <td><a href="https://github.com/johnsmithm"><img src="https://avatars.githubusercontent.com/u/10476109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnsmithm"><b>Moșnoi Ion</b></a><br><sub>&#64;johnsmithm · 75 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">5</td>
@@ -177,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
 <td><a href="https://github.com/chorny"><img src="https://avatars.githubusercontent.com/u/56743?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chorny"><b>Alexandr Ciornii</b></a><br><sub>&#64;chorny · 90 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -192,7 +210,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 21 of 402 discovered developers (381 awaiting measurement).
+- **Measured:** 24 of 402 discovered developers (378 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 84 in round 1.

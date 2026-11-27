@@ -149,17 +149,17 @@
 </tr>
 <tr>
 <td align="right">19</td>
-<td><a href="https://github.com/atageldi194229"><img src="https://avatars.githubusercontent.com/u/75357565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atageldi194229"><b>Atageldi</b></a><br><sub>&#64;atageldi194229</sub></td>
-<td align="right"><b>64</b></td>
-<td align="right">48</td>
-<td><sub>Ashgabat, Turkmenistan</sub></td>
-</tr>
-<tr>
-<td align="right">20</td>
 <td><a href="https://github.com/MerdanDev"><img src="https://avatars.githubusercontent.com/u/70772623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MerdanDev"><b>Merdan Atamyradow</b></a><br><sub>&#64;MerdanDev</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">22</td>
 <td><sub>Turkmenistan</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/atageldi194229"><img src="https://avatars.githubusercontent.com/u/75357565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atageldi194229"><b>Atageldi</b></a><br><sub>&#64;atageldi194229</sub></td>
+<td align="right"><b>63</b></td>
+<td align="right">48</td>
+<td><sub>Ashgabat, Turkmenistan</sub></td>
 </tr>
 <tr>
 <td align="right">21</td>
@@ -219,17 +219,17 @@
 </tr>
 <tr>
 <td align="right">29</td>
+<td><a href="https://github.com/orazgulcayew"><img src="https://avatars.githubusercontent.com/u/97003268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orazgulcayew"><b>Oraz Gulchayev</b></a><br><sub>&#64;orazgulcayew</sub></td>
+<td align="right"><b>44</b></td>
+<td align="right">48</td>
+<td><sub>Turkmenistan</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
 <td><a href="https://github.com/krahmanov"><img src="https://avatars.githubusercontent.com/u/70893861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/krahmanov"><b>Kerim Rahmanov</b></a><br><sub>&#64;krahmanov</sub></td>
 <td align="right"><b>44</b></td>
 <td align="right">1</td>
 <td><sub>Ashgabat, Turkmenistan</sub></td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td><a href="https://github.com/orazgulcayew"><img src="https://avatars.githubusercontent.com/u/97003268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orazgulcayew"><b>Oraz Gulchayev</b></a><br><sub>&#64;orazgulcayew</sub></td>
-<td align="right"><b>43</b></td>
-<td align="right">48</td>
-<td><sub>Turkmenistan</sub></td>
 </tr>
 <tr>
 <td align="right">31</td>

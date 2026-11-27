@@ -79,17 +79,17 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/ntholi"><img src="https://avatars.githubusercontent.com/u/19797741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntholi"><b>Ntholi Nkhatho</b></a><br><sub>&#64;ntholi</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">40</td>
+<td><sub>Maseru</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/AtomLaw"><img src="https://avatars.githubusercontent.com/u/3714732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AtomLaw"><b>Hlompho</b></a><br><sub>&#64;AtomLaw</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">255</td>
 <td><sub>Lesotho</sub></td>
-</tr>
-<tr>
-<td align="right">10</td>
-<td><a href="https://github.com/ntholi"><img src="https://avatars.githubusercontent.com/u/19797741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntholi"><b>Ntholi Nkhatho</b></a><br><sub>&#64;ntholi</sub></td>
-<td align="right"><b>30</b></td>
-<td align="right">40</td>
-<td><sub>Maseru</sub></td>
 </tr>
 <tr>
 <td align="right">11</td>

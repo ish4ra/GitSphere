@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **33** | 24 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **35** | 24 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -115,7 +115,7 @@
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/adnanademovic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adnanademovic/rosrust"><b>adnanademovic/rosrust</b></a><br><sub>Pure Rust implementation of a ROS client library</sub></td>
-<td align="right"><b>787</b></td>
+<td align="right"><b>788</b></td>
 <td align="right">82</td>
 <td>Rust</td>
 </tr>
@@ -252,6 +252,20 @@
 <td align="right">109</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/adnanrahic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adnanrahic/securing-restful-apis-with-jwt"><b>adnanrahic/securing-restful-apis-with-jwt</b></a><br><sub>How to secure a Nodejs RESTful CRUD API using JSON web tokens?</sub></td>
+<td align="right"><b>335</b></td>
+<td align="right">141</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/adnanrahic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adnanrahic/nodejs-restful-api"><b>adnanrahic/nodejs-restful-api</b></a><br><sub>How to create a RESTful CRUD API using Nodejs?</sub></td>
+<td align="right"><b>329</b></td>
+<td align="right">160</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -260,8 +274,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 354 stars; 33 attributed candidates are tracked.
-- 61 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 329 stars; 35 attributed candidates are tracked.
+- 49 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

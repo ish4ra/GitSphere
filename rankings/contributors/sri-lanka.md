@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/contributors/LK.json">JSON</a> |
+| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/LK.json">JSON</a> |
 
 </div>
 
@@ -151,6 +151,15 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/ipmanlk"><img src="https://avatars.githubusercontent.com/u/13213457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ipmanlk"><b>Navinda Dissanayake</b></a><br><sub>&#64;ipmanlk · 123 followers</sub></td>
+<td align="right"><b>214</b></td>
+<td align="right">192</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/Suvink"><img src="https://avatars.githubusercontent.com/u/10671497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Suvink"><b>Suvin Nimnaka</b></a><br><sub>&#64;Suvink · 537 followers</sub></td>
 <td align="right"><b>198</b></td>
 <td align="right">141</td>
@@ -159,7 +168,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/chamodshehanka"><img src="https://avatars.githubusercontent.com/u/19349315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chamodshehanka"><b>Chamod Shehanka Perera</b></a><br><sub>&#64;chamodshehanka · 742 followers</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">41</td>
@@ -168,7 +177,16 @@
 <td align="right">8</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
+<td><a href="https://github.com/lahiruroot"><img src="https://avatars.githubusercontent.com/u/45584797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lahiruroot"><b>Lahiru Udawaththa</b></a><br><sub>&#64;lahiruroot · 330 followers</sub></td>
+<td align="right"><b>56</b></td>
+<td align="right">31</td>
+<td align="right">15</td>
+<td align="right">0</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/machinelearningzuu"><img src="https://avatars.githubusercontent.com/u/41842488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/machinelearningzuu"><b>Isuru Alagiyawanna</b></a><br><sub>&#64;machinelearningzuu · 317 followers</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">39</td>
@@ -177,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
 <td><a href="https://github.com/Mindula-Dilthushan"><img src="https://avatars.githubusercontent.com/u/66836116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mindula-Dilthushan"><b>Mindula Dilthushan Manamperi</b></a><br><sub>&#64;Mindula-Dilthushan · 256 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">16</td>
@@ -186,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">21</td>
 <td><a href="https://github.com/Nadeera3784"><img src="https://avatars.githubusercontent.com/u/22231476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nadeera3784"><b>Nadeera Sampath</b></a><br><sub>&#64;Nadeera3784 · 265 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">7</td>
@@ -195,7 +213,16 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">22</td>
+<td><a href="https://github.com/chanakaudaya"><img src="https://avatars.githubusercontent.com/u/6091917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chanakaudaya"><b>Chanaka Fernando</b></a><br><sub>&#64;chanakaudaya · 227 followers</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">11</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><a href="https://github.com/lakmalrupasinghe"><img src="https://avatars.githubusercontent.com/u/7529618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lakmalrupasinghe"><b>Lakmal Rupasinghe</b></a><br><sub>&#64;lakmalrupasinghe · 224 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
@@ -210,7 +237,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 20 of 535 discovered developers (515 awaiting measurement).
+- **Measured:** 23 of 558 discovered developers (535 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 95 in round 1.

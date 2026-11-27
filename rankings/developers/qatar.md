@@ -108,21 +108,21 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/nirzaf"><img src="https://avatars.githubusercontent.com/u/18024930?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nirzaf"><b>M.F.M Fazrin</b></a><br><sub>&#64;nirzaf</sub></td>
-<td align="right"><b>129</b></td>
+<td align="right"><b>128</b></td>
 <td align="right">1,249</td>
 <td><sub>Doha - Qatar</sub></td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><a href="https://github.com/mbrksntrk"><img src="https://avatars.githubusercontent.com/u/32896514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbrksntrk"><b>M Burak Şentürk</b></a><br><sub>&#64;mbrksntrk</sub></td>
-<td align="right"><b>125</b></td>
+<td align="right"><b>126</b></td>
 <td align="right">26</td>
 <td><sub>Doha, Qatar</sub></td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><a href="https://github.com/m2ncef"><img src="https://avatars.githubusercontent.com/u/98907255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m2ncef"><b>Moncef Guezzi</b></a><br><sub>&#64;m2ncef</sub></td>
-<td align="right"><b>125</b></td>
+<td align="right"><b>126</b></td>
 <td align="right">7</td>
 <td><sub>Qatar</sub></td>
 </tr>
@@ -149,16 +149,16 @@
 </tr>
 <tr>
 <td align="right">19</td>
-<td><a href="https://github.com/mhassanxglx"><img src="https://avatars.githubusercontent.com/u/321388482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhassanxglx"><b>Mohammed A.</b></a><br><sub>&#64;mhassanxglx</sub></td>
+<td><a href="https://github.com/thouseef-hamza"><img src="https://avatars.githubusercontent.com/u/119723781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thouseef-hamza"><b>Thouseef Hamza T P</b></a><br><sub>&#64;thouseef-hamza</sub></td>
 <td align="right"><b>108</b></td>
-<td align="right">30</td>
+<td align="right">67</td>
 <td><sub>Doha, Qatar</sub></td>
 </tr>
 <tr>
 <td align="right">20</td>
-<td><a href="https://github.com/thouseef-hamza"><img src="https://avatars.githubusercontent.com/u/119723781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thouseef-hamza"><b>Thouseef Hamza T P</b></a><br><sub>&#64;thouseef-hamza</sub></td>
-<td align="right"><b>107</b></td>
-<td align="right">67</td>
+<td><a href="https://github.com/mhassanxglx"><img src="https://avatars.githubusercontent.com/u/321388482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhassanxglx"><b>Mohammed A.</b></a><br><sub>&#64;mhassanxglx</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">30</td>
 <td><sub>Doha, Qatar</sub></td>
 </tr>
 <tr>

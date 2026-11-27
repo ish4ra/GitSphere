@@ -186,7 +186,7 @@
 <td align="right">24</td>
 <td><a href="https://github.com/Dioman-Keita"><img src="https://avatars.githubusercontent.com/u/179656446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dioman-Keita"><b>Dioman Keïta</b></a><br><sub>&#64;Dioman-Keita</sub></td>
 <td align="right"><b>22</b></td>
-<td align="right">57</td>
+<td align="right">58</td>
 <td><sub>Bamako/Mali</sub></td>
 </tr>
 <tr>

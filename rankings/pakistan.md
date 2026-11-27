@@ -576,17 +576,17 @@
 </tr>
 <tr>
 <td align="right">80</td>
+<td><img src="https://github.com/bc160201983.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port"><b>bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port</b></a><br><sub>Uncharted: The Nathan Drake Collection PC port (no game files)</sub></td>
+<td align="right"><b>882</b></td>
+<td align="right">30</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">81</td>
 <td><img src="https://github.com/gdm-settings.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gdm-settings/gdm-settings"><b>gdm-settings/gdm-settings</b></a><br><sub>A settings app for GNOME&#39;s Login Manager, GDM</sub></td>
 <td align="right"><b>872</b></td>
 <td align="right">47</td>
 <td>Python</td>
-</tr>
-<tr>
-<td align="right">81</td>
-<td><img src="https://github.com/bc160201983.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port"><b>bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port</b></a><br><sub>Uncharted: The Nathan Drake Collection PC port (no game files)</sub></td>
-<td align="right"><b>859</b></td>
-<td align="right">29</td>
-<td>C++</td>
 </tr>
 <tr>
 <td align="right">82</td>
@@ -606,7 +606,7 @@
 <td align="right">84</td>
 <td><img src="https://github.com/FareedKhan-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FareedKhan-dev/train-deepseek-r1"><b>FareedKhan-dev/train-deepseek-r1</b></a><br><sub>Building DeepSeek R1 from Scratch</sub></td>
 <td align="right"><b>809</b></td>
-<td align="right">134</td>
+<td align="right">135</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
@@ -625,17 +625,17 @@
 </tr>
 <tr>
 <td align="right">87</td>
+<td><img src="https://github.com/msrbuilds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/msrbuilds/elementor-mcp"><b>msrbuilds/elementor-mcp</b></a><br><sub>WordPress MCP server with 234 Free tools and 547 total with Pro for building pages, managing content, and operating you…</sub></td>
+<td align="right"><b>775</b></td>
+<td align="right">164</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">88</td>
 <td><img src="https://github.com/byted-technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/byted-technologies/github_"><b>byted-technologies/github&#95;</b></a><br><sub>Official Fractal Compute Orchestrations ecosystem hub (v3.1 non-commercial source-available): FractalWorkspace, Fractal…</sub></td>
 <td align="right"><b>773</b></td>
 <td align="right">0</td>
 <td>—</td>
-</tr>
-<tr>
-<td align="right">88</td>
-<td><img src="https://github.com/msrbuilds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/msrbuilds/elementor-mcp"><b>msrbuilds/elementor-mcp</b></a><br><sub>WordPress MCP server with 234 Free tools and 547 total with Pro for building pages, managing content, and operating you…</sub></td>
-<td align="right"><b>772</b></td>
-<td align="right">163</td>
-<td>PHP</td>
 </tr>
 <tr>
 <td align="right">89</td>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 562 stars; 145 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 562 stars; 150 attributed candidates are tracked.
 - 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

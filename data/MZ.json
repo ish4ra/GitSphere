@@ -5,14 +5,14 @@
 "country": {"code":"MZ","name":"Mozambique","slug":"mozambique"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":365,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":365,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":117,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk4NTIwOTU0OA==","name":"adfilt","nameWithOwner":"DandelionSprout/adfilt","url":"https://github.com/DandelionSprout/adfilt","description":"The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.","stars":2320,"forks":189,"primaryLanguage":"Adblock Filter List","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-03-16T15:09:28Z","pushedAt":"2026-11-25T22:49:01Z","archived":false,"owner":{"login":"DandelionSprout","name":"Imre Eilertsen","type":"User","url":"https://github.com/DandelionSprout","location":"A chair.","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzMTgwMTA0MDU=","name":"sqlifinder","nameWithOwner":"americo/sqlifinder","url":"https://github.com/americo/sqlifinder","description":"SQL Injection Vulnerability Scanner made with Python","stars":400,"forks":72,"primaryLanguage":"Python","license":null,"createdAt":"2020-12-02T22:39:18Z","pushedAt":"2026-04-15T10:45:38Z","archived":false,"owner":{"login":"americo","name":"Américo Júnior","type":"User","url":"https://github.com/americo","location":"Mozambique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":3,"id":"R_kgDOVK4n5w","name":"lig","nameWithOwner":"KevenGoncalves/lig","url":"https://github.com/KevenGoncalves/lig","description":"IDE-style autocomplete for your terminal on macOS, Linux and Windows.","stars":365,"forks":24,"primaryLanguage":"Rust","license":{"spdxId":"MIT"},"createdAt":"2026-10-15T12:35:34Z","pushedAt":"2026-11-24T11:41:26Z","archived":false,"owner":{"login":"KevenGoncalves","name":"Keven Gonçalves","type":"User","url":"https://github.com/KevenGoncalves","location":"Beira, Sofala, Mozambique","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "670afd43f2a2f9e3",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "1ca23dc35884cdc6",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-26",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

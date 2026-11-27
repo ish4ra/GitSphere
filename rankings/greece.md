@@ -514,14 +514,14 @@
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/1nikolas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1nikolas/play-integrity-checker-app"><b>1nikolas/play-integrity-checker-app</b></a><br><sub>Get info about your Device Integrity through the Play Intergrity API</sub></td>
-<td align="right"><b>878</b></td>
+<td align="right"><b>880</b></td>
 <td align="right">105</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">72</td>
 <td><img src="https://github.com/dimtpap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dimtpap/obs-pipewire-audio-capture"><b>dimtpap/obs-pipewire-audio-capture</b></a><br><sub>Audio device and application capture for OBS Studio using PipeWire</sub></td>
-<td align="right"><b>857</b></td>
+<td align="right"><b>859</b></td>
 <td align="right">25</td>
 <td>C</td>
 </tr>
@@ -535,7 +535,7 @@
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/anestisb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anestisb/android-simg2img"><b>anestisb/android-simg2img</b></a><br><sub>Tool to convert Android sparse images to raw images</sub></td>
-<td align="right"><b>847</b></td>
+<td align="right"><b>848</b></td>
 <td align="right">226</td>
 <td>C++</td>
 </tr>
@@ -549,7 +549,7 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/homelab-00.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/homelab-00/TranscriptionSuite"><b>homelab-00/TranscriptionSuite</b></a><br><sub>A fully local and private Speech-To-Text app, offering multiple model backends, diarization &amp; calendar mode - Available…</sub></td>
-<td align="right"><b>818</b></td>
+<td align="right"><b>820</b></td>
 <td align="right">78</td>
 <td>TypeScript</td>
 </tr>
@@ -576,17 +576,17 @@
 </tr>
 <tr>
 <td align="right">80</td>
+<td><img src="https://github.com/cyb3rmik3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cyb3rmik3/KQL-threat-hunting-queries"><b>cyb3rmik3/KQL-threat-hunting-queries</b></a><br><sub>A repository of KQL queries focused on threat hunting and threat detecting for Microsoft Sentinel &amp; Microsoft XDR (Form…</sub></td>
+<td align="right"><b>809</b></td>
+<td align="right">96</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">81</td>
 <td><img src="https://github.com/tsironis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tsironis/lockr"><b>tsironis/lockr</b></a><br><sub>A minimal API wrapper for localStorage</sub></td>
 <td align="right"><b>809</b></td>
 <td align="right">74</td>
 <td>HTML</td>
-</tr>
-<tr>
-<td align="right">81</td>
-<td><img src="https://github.com/cyb3rmik3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cyb3rmik3/KQL-threat-hunting-queries"><b>cyb3rmik3/KQL-threat-hunting-queries</b></a><br><sub>A repository of KQL queries focused on threat hunting and threat detecting for Microsoft Sentinel &amp; Microsoft XDR (Form…</sub></td>
-<td align="right"><b>807</b></td>
-<td align="right">97</td>
-<td>—</td>
 </tr>
 <tr>
 <td align="right">82</td>
@@ -598,7 +598,7 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/ThanosFisherman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ThanosFisherman/WifiUtils"><b>ThanosFisherman/WifiUtils</b></a> <sub>archived</sub><br><sub>Easily Connect to WiFi Networks</sub></td>
-<td align="right"><b>797</b></td>
+<td align="right"><b>798</b></td>
 <td align="right">207</td>
 <td>Java</td>
 </tr>

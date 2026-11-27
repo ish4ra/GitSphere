@@ -5,7 +5,7 @@
 "country": {"code":"LA","name":"Laos","slug":"laos"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":145,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":112,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":141,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":112,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMzcyODA4MDE=","name":"opensoldat","nameWithOwner":"opensoldat/opensoldat","url":"https://github.com/opensoldat/opensoldat","description":"OpenSoldat is a unique 2D (side-view) multiplayer action game","stars":1467,"forks":99,"primaryLanguage":"Pascal","license":{"spdxId":"MIT"},"createdAt":"2018-06-13T23:04:38Z","pushedAt":"2026-10-18T14:53:58Z","archived":false,"owner":{"login":"opensoldat","name":"opensoldat","type":"Organization","url":"https://github.com/opensoldat","location":"ctf_Laos","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":null,"name":"nervos","nameWithOwner":"arnaudatcomet/nervos","url":"https://github.com/arnaudatcomet/nervos","description":null,"stars":0,"forks":1,"primaryLanguage":"TypeScript","license":null,"createdAt":"2021-08-09T14:42:28Z","pushedAt":"2021-08-25T16:45:43Z","archived":false,"owner":{"login":"arnaudatcomet","name":"Arnaud Phommasone","type":"User","url":"https://github.com/arnaudatcomet","location":"Vientiane, Laos","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -23,8 +23,8 @@
   {"rank":14,"id":null,"name":"TVFoundation","nameWithOwner":"aitthisonedev/TVFoundation","url":"https://github.com/aitthisonedev/TVFoundation","description":null,"stars":0,"forks":0,"primaryLanguage":"CSS","license":null,"createdAt":"2025-04-01T02:37:28Z","pushedAt":"2025-04-04T09:32:28Z","archived":false,"owner":{"login":"aitthisonedev","name":"Aitthisone (IT) Duangsompheang","type":"User","url":"https://github.com/aitthisonedev","location":"Vientiane Laos","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":15,"id":null,"name":"ThongdyGithub","nameWithOwner":"Ajack2020/ThongdyGithub","url":"https://github.com/Ajack2020/ThongdyGithub","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2020-04-26T07:14:34Z","pushedAt":"2020-04-26T07:14:36Z","archived":false,"owner":{"login":"Ajack2020","name":"Thongdy KEOPHILAVONG","type":"User","url":"https://github.com/Ajack2020","location":"Laos","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "bc7019d588b0899a",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "7433fc0b7334981e",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

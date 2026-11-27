@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 24 Nov 2026 | <a href="../data/DO.json">JSON</a> |
+| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/DO.json">JSON</a> |
 
 </div>
 
@@ -119,6 +119,13 @@
 <td align="right">256</td>
 <td>C#</td>
 </tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/tiramisulabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiramisulabs/seyfert"><b>tiramisulabs/seyfert</b></a><br><sub>the black magic Discord framework 🧙♂️</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">50</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -127,7 +134,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 356 stars; 14 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 332 stars; 15 attributed candidates are tracked.
 - 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

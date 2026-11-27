@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/dalia2323"><img src="https://avatars.githubusercontent.com/u/104034156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dalia2323"><b>dalia2323</b></a><br><sub>&#64;dalia2323</sub></td>
-<td align="right"><b>127</b></td>
+<td align="right"><b>128</b></td>
 <td align="right">25</td>
 <td><sub>Qalqilya, Palestine</sub></td>
 </tr>
@@ -240,17 +240,17 @@
 </tr>
 <tr>
 <td align="right">32</td>
+<td><a href="https://github.com/AsselAlAssel"><img src="https://avatars.githubusercontent.com/u/77459566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AsselAlAssel"><b>AsselAlAssel</b></a><br><sub>&#64;AsselAlAssel</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">60</td>
+<td><sub>Jenin, Palestine</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
 <td><a href="https://github.com/salahamassi"><img src="https://avatars.githubusercontent.com/u/17902030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/salahamassi"><b>Salah Nahed</b></a><br><sub>&#64;salahamassi</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">56</td>
 <td><sub>Gaza Palestine</sub></td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><a href="https://github.com/AsselAlAssel"><img src="https://avatars.githubusercontent.com/u/77459566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AsselAlAssel"><b>AsselAlAssel</b></a><br><sub>&#64;AsselAlAssel</sub></td>
-<td align="right"><b>102</b></td>
-<td align="right">60</td>
-<td><sub>Jenin, Palestine</sub></td>
 </tr>
 <tr>
 <td align="right">34</td>

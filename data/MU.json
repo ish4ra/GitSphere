@@ -5,7 +5,7 @@
 "country": {"code":"MU","name":"Mauritius","slug":"mauritius"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":347,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":98,"candidates":6,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":94,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":347,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":95,"candidates":6,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":94,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzOTc2MDA3NjY=","name":"balena-rpiplay","nameWithOwner":"rahul-thakoor/balena-rpiplay","url":"https://github.com/rahul-thakoor/balena-rpiplay","description":"Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.","stars":1426,"forks":53,"primaryLanguage":"Shell","license":null,"createdAt":"2021-08-18T12:57:05Z","pushedAt":"2022-03-28T13:05:33Z","archived":false,"owner":{"login":"rahul-thakoor","name":"Rahul Thakoor","type":"User","url":"https://github.com/rahul-thakoor","location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"R_kgDOGnQfxA","name":"Cybersecurity-Roadmap","nameWithOwner":"thatstraw/Cybersecurity-Roadmap","url":"https://github.com/thatstraw/Cybersecurity-Roadmap","description":null,"stars":738,"forks":68,"primaryLanguage":null,"license":{"spdxId":"GPL-2.0"},"createdAt":"2022-01-02T16:44:47Z","pushedAt":"2024-09-24T16:15:57Z","archived":false,"owner":{"login":"thatstraw","name":"Traw","type":"User","url":"https://github.com/thatstraw","location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
@@ -14,8 +14,8 @@
   {"rank":5,"id":"MDEwOlJlcG9zaXRvcnkyOTgwNTMzMQ==","name":"TGPControls","nameWithOwner":"SwiftArchitect/TGPControls","url":"https://github.com/SwiftArchitect/TGPControls","description":"Drop-in replacement for UISlider with ticks, images & animated labels","stars":356,"forks":75,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2015-01-25T06:28:36Z","pushedAt":"2020-08-08T13:39:01Z","archived":false,"owner":{"login":"SwiftArchitect","name":"Xavier Schott","type":"User","url":"https://github.com/SwiftArchitect","location":"Paris - Tahiti - Maurice - Cupertino - Montreal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
   {"rank":6,"id":"R_kgDOKHSjKQ","name":"comfy-image-saver","nameWithOwner":"giriss/comfy-image-saver","url":"https://github.com/giriss/comfy-image-saver","description":"All the tools you need to save images with their generation metadata on ComfyUI. Compatible with Civitai & Prompthero geninfo auto-detection. Works with png, j…","stars":347,"forks":79,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2023-08-15T08:39:14Z","pushedAt":"2026-07-17T17:09:23Z","archived":false,"owner":{"login":"giriss","name":"Girish Gopaul","type":"User","url":"https://github.com/giriss","location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "0a83b3a32fc5787c",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "8544dae28dab497c",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

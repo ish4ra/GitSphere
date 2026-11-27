@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 24 Nov 2026 | <a href="../data/CR.json">JSON</a> |
+| 🟡 Provisional | **18** | 24 Nov 2026 | <a href="../data/CR.json">JSON</a> |
 
 </div>
 
@@ -140,6 +140,13 @@
 <td align="right">39</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/fabian7593.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fabian7593/MagicalCamera"><b>fabian7593/MagicalCamera</b></a><br><sub>A library to take picture easy, transform your data in different format and save photos in your device</sub></td>
+<td align="right"><b>339</b></td>
+<td align="right">90</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -148,7 +155,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 357 stars; 17 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 339 stars; 18 attributed candidates are tracked.
 - 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 58 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

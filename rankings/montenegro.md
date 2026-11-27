@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 24 Nov 2026 | <a href="../data/ME.json">JSON</a> |
+| 🟡 Provisional | **14** | 24 Nov 2026 | <a href="../data/ME.json">JSON</a> |
 
 </div>
 
@@ -105,6 +105,20 @@
 <td align="right">20</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/raycastly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raycastly/texture-ripper"><b>raycastly/texture-ripper</b></a><br><sub>Extract and flatten textures from perspective images.</sub></td>
+<td align="right"><b>326</b></td>
+<td align="right">19</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/kostafey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kostafey/ejc-sql"><b>kostafey/ejc-sql</b></a><br><sub>Emacs SQL client uses Clojure JDBC.</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">37</td>
+<td>Clojure</td>
+</tr>
 </tbody>
 </table>
 
@@ -113,8 +127,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 358 stars; 12 attributed candidates are tracked.
-- 75 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 322 stars; 14 attributed candidates are tracked.
+- 62 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 44 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

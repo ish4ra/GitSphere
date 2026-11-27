@@ -668,7 +668,7 @@
 <tr>
 <td align="right">93</td>
 <td><a href="https://github.com/ardianta"><img src="https://avatars.githubusercontent.com/u/4420029?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ardianta"><b>Ahmad Muhardian</b></a><br><sub>&#64;ardianta</sub></td>
-<td align="right"><b>624</b></td>
+<td align="right"><b>623</b></td>
 <td align="right">171</td>
 <td><sub>Lombok, Indonesia</sub></td>
 </tr>
@@ -878,7 +878,7 @@
 <tr>
 <td align="right">123</td>
 <td><a href="https://github.com/ibnux"><img src="https://avatars.githubusercontent.com/u/811955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibnux"><b>iBNu Maksum</b></a><br><sub>&#64;ibnux</sub></td>
-<td align="right"><b>513</b></td>
+<td align="right"><b>512</b></td>
 <td align="right">113</td>
 <td><sub>Kota Serang, Banten, Indonesia</sub></td>
 </tr>
@@ -2109,45 +2109,45 @@
 </tr>
 <tr>
 <td align="right">299</td>
+<td><a href="https://github.com/robbytrujillo"><img src="https://avatars.githubusercontent.com/u/42326213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robbytrujillo"><b>Robby Ilhamkusuma</b></a><br><sub>&#64;robbytrujillo</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">403</td>
+<td><sub>Bogor, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">300</td>
 <td><a href="https://github.com/wafarifki"><img src="https://avatars.githubusercontent.com/u/71179459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wafarifki"><b>Wafa Rifqi Anafin</b></a><br><sub>&#64;wafarifki</sub></td>
 <td align="right"><b>272</b></td>
 <td align="right">53</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">300</td>
+<td align="right">301</td>
 <td><a href="https://github.com/justakazh"><img src="https://avatars.githubusercontent.com/u/36891477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justakazh"><b>Akas Wisnu Aji</b></a><br><sub>&#64;justakazh</sub></td>
 <td align="right"><b>272</b></td>
 <td align="right">35</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">301</td>
+<td align="right">302</td>
 <td><a href="https://github.com/lukman-ss"><img src="https://avatars.githubusercontent.com/u/64991223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukman-ss"><b>Lukman</b></a><br><sub>&#64;lukman-ss</sub></td>
 <td align="right"><b>271</b></td>
 <td align="right">140</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">302</td>
+<td align="right">303</td>
 <td><a href="https://github.com/toopay"><img src="https://avatars.githubusercontent.com/u/534245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/toopay"><b>Taufan Aditya</b></a><br><sub>&#64;toopay</sub></td>
 <td align="right"><b>271</b></td>
 <td align="right">14</td>
 <td><sub>Surabaya</sub></td>
 </tr>
 <tr>
-<td align="right">303</td>
+<td align="right">304</td>
 <td><a href="https://github.com/Nadyatjia"><img src="https://avatars.githubusercontent.com/u/33796635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nadyatjia"><b>Nadya Sutjiadi</b></a><br><sub>&#64;Nadyatjia</sub></td>
 <td align="right"><b>271</b></td>
 <td align="right">8</td>
 <td><sub>Medan</sub></td>
-</tr>
-<tr>
-<td align="right">304</td>
-<td><a href="https://github.com/robbytrujillo"><img src="https://avatars.githubusercontent.com/u/42326213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robbytrujillo"><b>Robby Ilhamkusuma</b></a><br><sub>&#64;robbytrujillo</sub></td>
-<td align="right"><b>270</b></td>
-<td align="right">403</td>
-<td><sub>Bogor, Indonesia</sub></td>
 </tr>
 <tr>
 <td align="right">305</td>
@@ -5126,73 +5126,73 @@
 </tr>
 <tr>
 <td align="right">730</td>
-<td><a href="https://github.com/basriumar12"><img src="https://avatars.githubusercontent.com/u/17800415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basriumar12"><b>Bas Bas</b></a><br><sub>&#64;basriumar12</sub></td>
-<td align="right"><b>148</b></td>
-<td align="right">415</td>
-<td><sub>Gorontalo</sub></td>
-</tr>
-<tr>
-<td align="right">731</td>
 <td><a href="https://github.com/handiko"><img src="https://avatars.githubusercontent.com/u/16716900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/handiko"><b>Handiko Gesang</b></a><br><sub>&#64;handiko</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">361</td>
 <td><sub>Jakarta, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">732</td>
+<td align="right">731</td>
 <td><a href="https://github.com/raihan-muhammad"><img src="https://avatars.githubusercontent.com/u/51007619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raihan-muhammad"><b>Raihan Muhammad</b></a><br><sub>&#64;raihan-muhammad</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">146</td>
 <td><sub>Sukoharjo</sub></td>
 </tr>
 <tr>
-<td align="right">733</td>
+<td align="right">732</td>
 <td><a href="https://github.com/KatowProject"><img src="https://avatars.githubusercontent.com/u/52640561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KatowProject"><b>M. Naufal Faqih</b></a><br><sub>&#64;KatowProject</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">90</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">734</td>
+<td align="right">733</td>
 <td><a href="https://github.com/feri-irawan"><img src="https://avatars.githubusercontent.com/u/57158078?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feri-irawan"><b>feri-irawan</b></a><br><sub>&#64;feri-irawan</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">89</td>
 <td><sub>Bulukumba, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">735</td>
+<td align="right">734</td>
 <td><a href="https://github.com/gundowijoyo"><img src="https://avatars.githubusercontent.com/u/133162689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gundowijoyo"><b>Gundo Wijoyo</b></a><br><sub>&#64;gundowijoyo</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">79</td>
 <td><sub>indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">736</td>
+<td align="right">735</td>
 <td><a href="https://github.com/VinLvy"><img src="https://avatars.githubusercontent.com/u/123059312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VinLvy"><b>Davin P F</b></a><br><sub>&#64;VinLvy</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">46</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">737</td>
+<td align="right">736</td>
 <td><a href="https://github.com/cacadosman"><img src="https://avatars.githubusercontent.com/u/22091369?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cacadosman"><b>Fadli Maulana</b></a><br><sub>&#64;cacadosman</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">42</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">738</td>
+<td align="right">737</td>
 <td><a href="https://github.com/fawwaz37"><img src="https://avatars.githubusercontent.com/u/26057436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fawwaz37"><b>Zekais</b></a><br><sub>&#64;fawwaz37</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">17</td>
 <td><sub>Surabaya, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">739</td>
+<td align="right">738</td>
 <td><a href="https://github.com/Basari-ID"><img src="https://avatars.githubusercontent.com/u/107491771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Basari-ID"><b>Brand23</b></a><br><sub>&#64;Basari-ID</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">10</td>
 <td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">739</td>
+<td><a href="https://github.com/basriumar12"><img src="https://avatars.githubusercontent.com/u/17800415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basriumar12"><b>Bas Bas</b></a><br><sub>&#64;basriumar12</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">416</td>
+<td><sub>Gorontalo</sub></td>
 </tr>
 <tr>
 <td align="right">740</td>
@@ -5854,31 +5854,31 @@
 </tr>
 <tr>
 <td align="right">834</td>
-<td><a href="https://github.com/lordzerato"><img src="https://avatars.githubusercontent.com/u/21210228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lordzerato"><b>Ramadan, Fauzi</b></a><br><sub>&#64;lordzerato</sub></td>
-<td align="right"><b>135</b></td>
-<td align="right">20</td>
-<td><sub>Kemayoran, Jakarta Pusat, Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">835</td>
 <td><a href="https://github.com/Serly-Eldina"><img src="https://avatars.githubusercontent.com/u/129021543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Serly-Eldina"><b>SERLY ELDINA</b></a><br><sub>&#64;Serly-Eldina</sub></td>
 <td align="right"><b>135</b></td>
 <td align="right">13</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">836</td>
+<td align="right">835</td>
 <td><a href="https://github.com/ricidelphy"><img src="https://avatars.githubusercontent.com/u/10242664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ricidelphy"><b>Rizki Pratama</b></a><br><sub>&#64;ricidelphy</sub></td>
 <td align="right"><b>135</b></td>
 <td align="right">11</td>
 <td><sub>Aceh, ID</sub></td>
 </tr>
 <tr>
-<td align="right">837</td>
+<td align="right">836</td>
 <td><a href="https://github.com/balitax"><img src="https://avatars.githubusercontent.com/u/1490342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/balitax"><b>Agus Cahyono</b></a><br><sub>&#64;balitax</sub></td>
 <td align="right"><b>134</b></td>
 <td align="right">447</td>
 <td><sub>Lumajang, East Java, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">837</td>
+<td><a href="https://github.com/abdshomad"><img src="https://avatars.githubusercontent.com/u/15354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdshomad"><b>Abd Shomad</b></a><br><sub>&#64;abdshomad</sub></td>
+<td align="right"><b>134</b></td>
+<td align="right">396</td>
+<td><sub>Jakarta, Indonesia</sub></td>
 </tr>
 <tr>
 <td align="right">838</td>
@@ -5938,1087 +5938,1087 @@
 </tr>
 <tr>
 <td align="right">846</td>
-<td><a href="https://github.com/abdshomad"><img src="https://avatars.githubusercontent.com/u/15354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdshomad"><b>Abd Shomad</b></a><br><sub>&#64;abdshomad</sub></td>
-<td align="right"><b>133</b></td>
-<td align="right">396</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">847</td>
 <td><a href="https://github.com/adhikasp"><img src="https://avatars.githubusercontent.com/u/6151302?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adhikasp"><b>Adhika Setya Pramudita</b></a><br><sub>&#64;adhikasp</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">196</td>
 <td><sub>Jakarta</sub></td>
 </tr>
 <tr>
-<td align="right">848</td>
+<td align="right">847</td>
 <td><a href="https://github.com/nunenuh"><img src="https://avatars.githubusercontent.com/u/901090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nunenuh"><b>Lalu Erfandi Maula Yusnu</b></a><br><sub>&#64;nunenuh</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">196</td>
 <td><sub>Mataram NTB, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">849</td>
+<td align="right">848</td>
 <td><a href="https://github.com/up2dul"><img src="https://avatars.githubusercontent.com/u/36098718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/up2dul"><b>Abdul Malik</b></a><br><sub>&#64;up2dul</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">94</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">850</td>
+<td align="right">849</td>
 <td><a href="https://github.com/rasyidf"><img src="https://avatars.githubusercontent.com/u/28984914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rasyidf"><b>Muhammad Fahmi Rasyid</b></a><br><sub>&#64;rasyidf</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">92</td>
 <td><sub>Jakarta, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">851</td>
+<td align="right">850</td>
 <td><a href="https://github.com/muhrahmatullah"><img src="https://avatars.githubusercontent.com/u/13805354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muhrahmatullah"><b>Muh. Rahmatullah</b></a><br><sub>&#64;muhrahmatullah</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">82</td>
 <td><sub>Jakarta</sub></td>
 </tr>
 <tr>
-<td align="right">852</td>
+<td align="right">851</td>
 <td><a href="https://github.com/wernayasa"><img src="https://avatars.githubusercontent.com/u/58237929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wernayasa"><b>Wernayasa</b></a><br><sub>&#64;wernayasa</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">47</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">853</td>
-<td><a href="https://github.com/dwikiby"><img src="https://avatars.githubusercontent.com/u/67305919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dwikiby"><b>Dwiki Ramadhan</b></a><br><sub>&#64;dwikiby</sub></td>
-<td align="right"><b>133</b></td>
-<td align="right">45</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">854</td>
+<td align="right">852</td>
 <td><a href="https://github.com/fikrisuheri"><img src="https://avatars.githubusercontent.com/u/61069138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fikrisuheri"><b>Fikri Suheri</b></a><br><sub>&#64;fikrisuheri</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">41</td>
 <td><sub>Ciamis,Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">855</td>
+<td align="right">853</td>
 <td><a href="https://github.com/rkukuh"><img src="https://avatars.githubusercontent.com/u/183228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rkukuh"><b>R. Kukuh</b></a><br><sub>&#64;rkukuh</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">41</td>
 <td><sub>Surabaya, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">856</td>
+<td align="right">854</td>
 <td><a href="https://github.com/bpdp"><img src="https://avatars.githubusercontent.com/u/654252?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bpdp"><b>Bambang Purnomosidi D. P.</b></a><br><sub>&#64;bpdp</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">30</td>
 <td><sub>Yogyakarta</sub></td>
 </tr>
 <tr>
-<td align="right">857</td>
+<td align="right">855</td>
 <td><a href="https://github.com/JustLazzy"><img src="https://avatars.githubusercontent.com/u/64617706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JustLazzy"><b>JustLazzy</b></a><br><sub>&#64;JustLazzy</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">22</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">858</td>
+<td align="right">856</td>
 <td><a href="https://github.com/sirilius"><img src="https://avatars.githubusercontent.com/u/19952075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sirilius"><b>Sirilius Kevin</b></a><br><sub>&#64;sirilius</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">5</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">859</td>
+<td align="right">857</td>
 <td><a href="https://github.com/rizkipm"><img src="https://avatars.githubusercontent.com/u/32662431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rizkipm"><b>RIzki Syaputra</b></a><br><sub>&#64;rizkipm</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">239</td>
 <td><sub>Tangerang Selatan</sub></td>
 </tr>
 <tr>
-<td align="right">860</td>
+<td align="right">858</td>
 <td><a href="https://github.com/rmdhfz"><img src="https://avatars.githubusercontent.com/u/39754741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rmdhfz"><b>Hafiz Ramadhan™</b></a><br><sub>&#64;rmdhfz</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">227</td>
 <td><sub>Bogor, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">861</td>
+<td align="right">859</td>
 <td><a href="https://github.com/tioirawan"><img src="https://avatars.githubusercontent.com/u/29256127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tioirawan"><b>Tio Irawan</b></a><br><sub>&#64;tioirawan</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">178</td>
 <td><sub>Batu, East Java, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">862</td>
+<td align="right">860</td>
 <td><a href="https://github.com/adibenc"><img src="https://avatars.githubusercontent.com/u/24596057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adibenc"><b>M Adib zamzam</b></a><br><sub>&#64;adibenc</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">101</td>
 <td><sub>Jakarta</sub></td>
 </tr>
 <tr>
-<td align="right">863</td>
+<td align="right">861</td>
 <td><a href="https://github.com/siabang35"><img src="https://avatars.githubusercontent.com/u/45908127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/siabang35"><b>Wildan Assyidiq</b></a><br><sub>&#64;siabang35</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">95</td>
 <td><sub>Yogyakarta, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">864</td>
+<td align="right">862</td>
 <td><a href="https://github.com/randyviandaputra"><img src="https://avatars.githubusercontent.com/u/12962273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/randyviandaputra"><b>Randy Vianda Putra</b></a><br><sub>&#64;randyviandaputra</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">63</td>
 <td><sub>Bandung, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">865</td>
+<td align="right">863</td>
 <td><a href="https://github.com/royhankamil"><img src="https://avatars.githubusercontent.com/u/114550416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/royhankamil"><b>Achmad Royhan Kamil</b></a><br><sub>&#64;royhankamil</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">30</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">866</td>
+<td align="right">864</td>
 <td><a href="https://github.com/Jeeck-XN"><img src="https://avatars.githubusercontent.com/u/87571831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jeeck-XN"><b>Jeeck X Nano</b></a><br><sub>&#64;Jeeck-XN</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">5</td>
 <td><sub>Purworejo</sub></td>
 </tr>
 <tr>
-<td align="right">867</td>
+<td align="right">865</td>
 <td><a href="https://github.com/dyaskur"><img src="https://avatars.githubusercontent.com/u/9539970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dyaskur"><b>Muhammad Dyas Yaskur</b></a><br><sub>&#64;dyaskur</sub></td>
 <td align="right"><b>131</b></td>
 <td align="right">110</td>
 <td><sub>Yogyakarta</sub></td>
 </tr>
 <tr>
-<td align="right">868</td>
+<td align="right">866</td>
 <td><a href="https://github.com/maman"><img src="https://avatars.githubusercontent.com/u/491458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maman"><b>Achmad Mahardi</b></a><br><sub>&#64;maman</sub></td>
 <td align="right"><b>131</b></td>
 <td align="right">75</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">869</td>
-<td><a href="https://github.com/syrsdev"><img src="https://avatars.githubusercontent.com/u/88642092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syrsdev"><b>Surya Nata Ardhana</b></a><br><sub>&#64;syrsdev</sub></td>
-<td align="right"><b>131</b></td>
-<td align="right">51</td>
-<td><sub>Surabaya, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">870</td>
+<td align="right">867</td>
 <td><a href="https://github.com/BudimanZahri"><img src="https://avatars.githubusercontent.com/u/143193023?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BudimanZahri"><b>Budiman Zahri</b></a><br><sub>&#64;BudimanZahri</sub></td>
 <td align="right"><b>131</b></td>
 <td align="right">16</td>
 <td><sub>Batam</sub></td>
 </tr>
 <tr>
-<td align="right">871</td>
+<td align="right">868</td>
 <td><a href="https://github.com/reksaandhika"><img src="https://avatars.githubusercontent.com/u/39384007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reksaandhika"><b>Reksa Andhika</b></a><br><sub>&#64;reksaandhika</sub></td>
 <td align="right"><b>131</b></td>
 <td align="right">16</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">872</td>
+<td align="right">869</td>
 <td><a href="https://github.com/Squadzone"><img src="https://avatars.githubusercontent.com/u/1249431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Squadzone"><b>Yanuar Harry</b></a><br><sub>&#64;Squadzone</sub></td>
 <td align="right"><b>131</b></td>
 <td align="right">10</td>
 <td><sub>medan</sub></td>
 </tr>
 <tr>
-<td align="right">873</td>
+<td align="right">870</td>
 <td><a href="https://github.com/mohlatif99"><img src="https://avatars.githubusercontent.com/u/45227172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohlatif99"><b>Moh Latif</b></a><br><sub>&#64;mohlatif99</sub></td>
 <td align="right"><b>131</b></td>
 <td align="right">3</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">874</td>
+<td align="right">871</td>
 <td><a href="https://github.com/rahmatagungj"><img src="https://avatars.githubusercontent.com/u/30583918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rahmatagungj"><b>Rahmat Agung Julians</b></a><br><sub>&#64;rahmatagungj</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">201</td>
 <td><sub>Jakarta</sub></td>
 </tr>
 <tr>
-<td align="right">875</td>
+<td align="right">872</td>
 <td><a href="https://github.com/null2264"><img src="https://avatars.githubusercontent.com/u/46041660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/null2264"><b>Ahmad Ansori Palembani</b></a><br><sub>&#64;null2264</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">190</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">876</td>
+<td align="right">873</td>
 <td><a href="https://github.com/adithwip"><img src="https://avatars.githubusercontent.com/u/27177332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adithwip"><b>Adith Widya Pradipta</b></a><br><sub>&#64;adithwip</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">106</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">877</td>
+<td align="right">874</td>
 <td><a href="https://github.com/z3n70"><img src="https://avatars.githubusercontent.com/u/39817707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/z3n70"><b>ZenalArifin</b></a><br><sub>&#64;z3n70</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">86</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">878</td>
+<td align="right">875</td>
 <td><a href="https://github.com/pebri86"><img src="https://avatars.githubusercontent.com/u/3339304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pebri86"><b>Fuji Pebri</b></a><br><sub>&#64;pebri86</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">79</td>
 <td><sub>Karawang, Indonesia (ID)</sub></td>
 </tr>
 <tr>
-<td align="right">879</td>
+<td align="right">876</td>
 <td><a href="https://github.com/kaceinspace"><img src="https://avatars.githubusercontent.com/u/12857210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaceinspace"><b>Candra Herdiansyah</b></a><br><sub>&#64;kaceinspace</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">70</td>
 <td><sub>Bandung</sub></td>
 </tr>
 <tr>
-<td align="right">880</td>
+<td align="right">877</td>
 <td><a href="https://github.com/ikbakk"><img src="https://avatars.githubusercontent.com/u/87456625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ikbakk"><b>Muhammad Iqbal Firdaus</b></a><br><sub>&#64;ikbakk</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">66</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">881</td>
+<td align="right">878</td>
 <td><a href="https://github.com/kaitodecode"><img src="https://avatars.githubusercontent.com/u/109795557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaitodecode"><b>Adi Kurniawan</b></a><br><sub>&#64;kaitodecode</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">61</td>
 <td><sub>Madiun</sub></td>
 </tr>
 <tr>
-<td align="right">882</td>
+<td align="right">879</td>
 <td><a href="https://github.com/lodestone-rock"><img src="https://avatars.githubusercontent.com/u/118566623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lodestone-rock"><b>Lodestone</b></a><br><sub>&#64;lodestone-rock</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">41</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">883</td>
+<td align="right">880</td>
 <td><a href="https://github.com/arjunaskykok"><img src="https://avatars.githubusercontent.com/u/32124593?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arjunaskykok"><b>Arjuna Sky Kok</b></a><br><sub>&#64;arjunaskykok</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">29</td>
 <td><sub>Jakarta</sub></td>
 </tr>
 <tr>
-<td align="right">884</td>
+<td align="right">881</td>
 <td><a href="https://github.com/VersaNexusIX"><img src="https://avatars.githubusercontent.com/u/228176761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VersaNexusIX"><b>Versa NexusIX</b></a><br><sub>&#64;VersaNexusIX</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">23</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">885</td>
+<td align="right">882</td>
 <td><a href="https://github.com/barunag"><img src="https://avatars.githubusercontent.com/u/34024662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barunag"><b>barunag</b></a><br><sub>&#64;barunag</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">1</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">886</td>
+<td align="right">883</td>
 <td><a href="https://github.com/Faris0520"><img src="https://avatars.githubusercontent.com/u/65797160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Faris0520"><b>Faris Daffa</b></a><br><sub>&#64;Faris0520</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">125</td>
 <td><sub>Jambi, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">887</td>
+<td align="right">884</td>
 <td><a href="https://github.com/mandaputtra"><img src="https://avatars.githubusercontent.com/u/23342943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mandaputtra"><b>Manda Putra</b></a><br><sub>&#64;mandaputtra</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">124</td>
 <td><sub>Yogyakarta, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">888</td>
+<td align="right">885</td>
 <td><a href="https://github.com/banghasan"><img src="https://avatars.githubusercontent.com/u/5436959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/banghasan"><b>Hasanudin H Syafaat</b></a><br><sub>&#64;banghasan</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">54</td>
 <td><sub>Depok</sub></td>
 </tr>
 <tr>
-<td align="right">889</td>
+<td align="right">886</td>
 <td><a href="https://github.com/wuriyanto48"><img src="https://avatars.githubusercontent.com/u/7042989?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wuriyanto48"><b>wuriyanto</b></a><br><sub>&#64;wuriyanto48</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">45</td>
 <td><sub>Central Java, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">890</td>
+<td align="right">887</td>
 <td><a href="https://github.com/Wildann77"><img src="https://avatars.githubusercontent.com/u/145567089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wildann77"><b>Wildan Haifan Jadid</b></a><br><sub>&#64;Wildann77</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">43</td>
 <td><sub>Brebes</sub></td>
 </tr>
 <tr>
-<td align="right">891</td>
+<td align="right">888</td>
 <td><a href="https://github.com/fadhilrp"><img src="https://avatars.githubusercontent.com/u/73109893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fadhilrp"><b>Mohammad Fadhil Rasyidin Parinduri</b></a><br><sub>&#64;fadhilrp</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">29</td>
 <td><sub>Kota Tangerang Selatan</sub></td>
 </tr>
 <tr>
-<td align="right">892</td>
+<td align="right">889</td>
 <td><a href="https://github.com/riyadh-gif"><img src="https://avatars.githubusercontent.com/u/114581399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riyadh-gif"><b>Riyadh Lakadimu</b></a><br><sub>&#64;riyadh-gif</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">4</td>
 <td><sub>Surabaya</sub></td>
 </tr>
 <tr>
-<td align="right">893</td>
-<td><a href="https://github.com/HatsuneMikuUwU"><img src="https://avatars.githubusercontent.com/u/146099520?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HatsuneMikuUwU"><b>Hatsune Miku</b></a><br><sub>&#64;HatsuneMikuUwU</sub></td>
-<td align="right"><b>126</b></td>
-<td align="right">0</td>
+<td align="right">890</td>
+<td><a href="https://github.com/AaEzha"><img src="https://avatars.githubusercontent.com/u/5432420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AaEzha"><b>Reza Nurfachmi</b></a><br><sub>&#64;AaEzha</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">171</td>
+<td><sub>Tangerang, Banten</sub></td>
+</tr>
+<tr>
+<td align="right">891</td>
+<td><a href="https://github.com/MozeeB"><img src="https://avatars.githubusercontent.com/u/37677563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MozeeB"><b>Mujiburrohman</b></a><br><sub>&#64;MozeeB</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">155</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
+<td align="right">892</td>
+<td><a href="https://github.com/hafidzdev"><img src="https://avatars.githubusercontent.com/u/36196578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hafidzdev"><b>M Hafidz M</b></a><br><sub>&#64;hafidzdev</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">93</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">893</td>
+<td><a href="https://github.com/alvinkl"><img src="https://avatars.githubusercontent.com/u/18324040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alvinkl"><b>Alvin Kristanto</b></a><br><sub>&#64;alvinkl</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">68</td>
+<td><sub>Jakarta</sub></td>
+</tr>
+<tr>
 <td align="right">894</td>
+<td><a href="https://github.com/dmfeisal"><img src="https://avatars.githubusercontent.com/u/672348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmfeisal"><b>Feisal</b></a><br><sub>&#64;dmfeisal</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">63</td>
+<td><sub>Jakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">895</td>
+<td><a href="https://github.com/fuaditrockz"><img src="https://avatars.githubusercontent.com/u/18319179?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fuaditrockz"><b>Fuadit Muhammad</b></a><br><sub>&#64;fuaditrockz</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">47</td>
+<td><sub>Jakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">896</td>
+<td><a href="https://github.com/lordzerato"><img src="https://avatars.githubusercontent.com/u/21210228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lordzerato"><b>Ramadan, Fauzi</b></a><br><sub>&#64;lordzerato</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">20</td>
+<td><sub>Kemayoran, Jakarta Pusat, Jakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">897</td>
+<td><a href="https://github.com/ardzz"><img src="https://avatars.githubusercontent.com/u/38525912?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ardzz"><b>Naufal Reky Ardhana</b></a><br><sub>&#64;ardzz</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">110</td>
+<td><sub>Semarang</sub></td>
+</tr>
+<tr>
+<td align="right">898</td>
+<td><a href="https://github.com/reyhansofian"><img src="https://avatars.githubusercontent.com/u/5353857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reyhansofian"><b>Reyhan Sofian</b></a><br><sub>&#64;reyhansofian</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">108</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">899</td>
+<td><a href="https://github.com/purwnt"><img src="https://avatars.githubusercontent.com/u/13495295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/purwnt"><b>Purwanto</b></a><br><sub>&#64;purwnt</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">98</td>
+<td><sub>Yogyakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">900</td>
+<td><a href="https://github.com/riandyrn"><img src="https://avatars.githubusercontent.com/u/5761331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riandyrn"><b>Riandy Rahman Nugraha</b></a><br><sub>&#64;riandyrn</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">95</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">901</td>
+<td><a href="https://github.com/zakinadhif"><img src="https://avatars.githubusercontent.com/u/56494343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zakinadhif"><b>Zaki Nadhif</b></a><br><sub>&#64;zakinadhif</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">74</td>
+<td><sub>Java, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">902</td>
+<td><a href="https://github.com/oonid"><img src="https://avatars.githubusercontent.com/u/1251789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oonid"><b>oon arfiandwi</b></a><br><sub>&#64;oonid</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">69</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">903</td>
+<td><a href="https://github.com/xathrya"><img src="https://avatars.githubusercontent.com/u/2901003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xathrya"><b>Satria Ady Pradana</b></a><br><sub>&#64;xathrya</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">62</td>
+<td><sub>DKI Jakarta</sub></td>
+</tr>
+<tr>
+<td align="right">904</td>
+<td><a href="https://github.com/GrygrFlzr"><img src="https://avatars.githubusercontent.com/u/1460917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GrygrFlzr"><b>Martin Krisnanto Putra</b></a><br><sub>&#64;GrygrFlzr</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">59</td>
+<td><sub>Jakarta</sub></td>
+</tr>
+<tr>
+<td align="right">905</td>
+<td><a href="https://github.com/kvinn-dev"><img src="https://avatars.githubusercontent.com/u/148856328?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kvinn-dev"><b>Kevin Yulian Pamungkas</b></a><br><sub>&#64;kvinn-dev</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">20</td>
+<td><sub>Jakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">906</td>
+<td><a href="https://github.com/satriabahari"><img src="https://avatars.githubusercontent.com/u/121304362?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/satriabahari"><b>satria bahari</b></a><br><sub>&#64;satriabahari</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">20</td>
+<td><sub>Jambi, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">907</td>
+<td><a href="https://github.com/codestronaut"><img src="https://avatars.githubusercontent.com/u/60147326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codestronaut"><b>Aditya Rohman</b></a><br><sub>&#64;codestronaut</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">14</td>
+<td><sub>Lombok, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">908</td>
+<td><a href="https://github.com/HatsuneMikuUwU"><img src="https://avatars.githubusercontent.com/u/146099520?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HatsuneMikuUwU"><b>Hatsune Miku</b></a><br><sub>&#64;HatsuneMikuUwU</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">11</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">909</td>
+<td><a href="https://github.com/SHA888"><img src="https://avatars.githubusercontent.com/u/72794806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SHA888"><b>Kresna</b></a><br><sub>&#64;SHA888</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">212</td>
+<td><sub>Bali, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">910</td>
+<td><a href="https://github.com/rizqyhi"><img src="https://avatars.githubusercontent.com/u/914534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rizqyhi"><b>Rizqy Hidayat</b></a><br><sub>&#64;rizqyhi</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">64</td>
+<td><sub>Bandung Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">911</td>
+<td><a href="https://github.com/dwikiby"><img src="https://avatars.githubusercontent.com/u/67305919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dwikiby"><b>Dwiki Ramadhan</b></a><br><sub>&#64;dwikiby</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">45</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">912</td>
+<td><a href="https://github.com/DennisAlund"><img src="https://avatars.githubusercontent.com/u/2051607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DennisAlund"><b>Dennis Alund</b></a><br><sub>&#64;DennisAlund</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">27</td>
+<td><sub>Denpasar, Bali, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">913</td>
+<td><a href="https://github.com/MFikri94"><img src="https://avatars.githubusercontent.com/u/34200203?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MFikri94"><b>M Fikri Setiadi</b></a><br><sub>&#64;MFikri94</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">20</td>
+<td><sub>Padang, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">914</td>
+<td><a href="https://github.com/Gaudy165"><img src="https://avatars.githubusercontent.com/u/145749228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gaudy165"><b>Aditya Gaudy Mardiono</b></a><br><sub>&#64;Gaudy165</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">18</td>
+<td><sub>East Java, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">915</td>
+<td><a href="https://github.com/azukashi"><img src="https://avatars.githubusercontent.com/u/68645946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/azukashi"><b>Azu</b></a><br><sub>&#64;azukashi</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">15</td>
+<td><sub>Bandung, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">916</td>
+<td><a href="https://github.com/KhadafiZubaidiDev"><img src="https://avatars.githubusercontent.com/u/128591613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhadafiZubaidiDev"><b>Khadafi Zubaidi</b></a><br><sub>&#64;KhadafiZubaidiDev</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">14</td>
+<td><sub>West Nusa Tenggara</sub></td>
+</tr>
+<tr>
+<td align="right">917</td>
+<td><a href="https://github.com/raihante"><img src="https://avatars.githubusercontent.com/u/22652714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raihante"><b>R E G E X</b></a><br><sub>&#64;raihante</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">14</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">918</td>
+<td><a href="https://github.com/naranyala"><img src="https://avatars.githubusercontent.com/u/25216912?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/naranyala"><b>naranyala</b></a><br><sub>&#64;naranyala</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">244</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">919</td>
+<td><a href="https://github.com/aryazakaria01"><img src="https://avatars.githubusercontent.com/u/84753790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aryazakaria01"><b>Sleryfink</b></a><br><sub>&#64;aryazakaria01</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">172</td>
+<td><sub>Jaktim - Medan</sub></td>
+</tr>
+<tr>
+<td align="right">920</td>
+<td><a href="https://github.com/davidgrcias"><img src="https://avatars.githubusercontent.com/u/76923507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidgrcias"><b>David Garcia Saragih</b></a><br><sub>&#64;davidgrcias</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">169</td>
+<td><sub>Jakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">921</td>
+<td><a href="https://github.com/ridwanzal"><img src="https://avatars.githubusercontent.com/u/12895481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ridwanzal"><b>M. Ridwan Zalbina</b></a><br><sub>&#64;ridwanzal</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">168</td>
+<td><sub>Palembang - Jakarta - Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">922</td>
+<td><a href="https://github.com/arifinfrds"><img src="https://avatars.githubusercontent.com/u/15519515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arifinfrds"><b>Arifin Firdaus</b></a><br><sub>&#64;arifinfrds</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">152</td>
+<td><sub>Surabaya, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">923</td>
+<td><a href="https://github.com/secripttermux"><img src="https://avatars.githubusercontent.com/u/58557877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/secripttermux"><b>SECRIPT TERMUX</b></a><br><sub>&#64;secripttermux</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">99</td>
+<td><sub>Jawa</sub></td>
+</tr>
+<tr>
+<td align="right">924</td>
+<td><a href="https://github.com/herudi"><img src="https://avatars.githubusercontent.com/u/11951458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/herudi"><b>herudi</b></a><br><sub>&#64;herudi</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">76</td>
+<td><sub>Majalengka - Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">925</td>
+<td><a href="https://github.com/HamsterKaget"><img src="https://avatars.githubusercontent.com/u/88565770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HamsterKaget"><b>Radja Aulia Al Ramdani</b></a><br><sub>&#64;HamsterKaget</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">69</td>
+<td><sub>Bogor Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">926</td>
+<td><a href="https://github.com/shellrean"><img src="https://avatars.githubusercontent.com/u/50508409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shellrean"><b>ShellRean</b></a><br><sub>&#64;shellrean</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">62</td>
+<td><sub>Jakarta, indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">927</td>
+<td><a href="https://github.com/meryzennn"><img src="https://avatars.githubusercontent.com/u/85497760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meryzennn"><b>0x5zen</b></a><br><sub>&#64;meryzennn</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">55</td>
+<td><sub>indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">928</td>
+<td><a href="https://github.com/ahmadammarm"><img src="https://avatars.githubusercontent.com/u/113039347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmadammarm"><b>Ahmad Ammar Musyaffa</b></a><br><sub>&#64;ahmadammarm</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">44</td>
+<td><sub>Malang City, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">929</td>
+<td><a href="https://github.com/dhiaaziz"><img src="https://avatars.githubusercontent.com/u/17357886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dhiaaziz"><b>Aziz Collins</b></a><br><sub>&#64;dhiaaziz</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">43</td>
+<td><sub>Bandung, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">930</td>
+<td><a href="https://github.com/NotHydra"><img src="https://avatars.githubusercontent.com/u/86897187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NotHydra"><b>Rizky Irswanda Ramadhana</b></a><br><sub>&#64;NotHydra</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">31</td>
+<td><sub>Balikpapan, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">931</td>
+<td><a href="https://github.com/teofiluscandra"><img src="https://avatars.githubusercontent.com/u/8913995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teofiluscandra"><b>Teofilus Candra</b></a><br><sub>&#64;teofiluscandra</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">22</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">932</td>
+<td><a href="https://github.com/InMyMine7"><img src="https://avatars.githubusercontent.com/u/113825934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/InMyMine7"><b>&#39;/Mine7</b></a><br><sub>&#64;InMyMine7</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">19</td>
+<td><sub>Bandar Lampung, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">933</td>
+<td><a href="https://github.com/inirey"><img src="https://avatars.githubusercontent.com/u/85196372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/inirey"><b>Rey</b></a><br><sub>&#64;inirey</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">14</td>
+<td><sub>Purwodadi</sub></td>
+</tr>
+<tr>
+<td align="right">934</td>
+<td><a href="https://github.com/IccTeam"><img src="https://avatars.githubusercontent.com/u/143928335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IccTeam"><b>Intelligence Cyber Community</b></a><br><sub>&#64;IccTeam</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">8</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">935</td>
+<td><a href="https://github.com/vishnoe115"><img src="https://avatars.githubusercontent.com/u/54537571?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vishnoe115"><b>Wiszky</b></a><br><sub>&#64;vishnoe115</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">182</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">936</td>
+<td><a href="https://github.com/aswansyahputra"><img src="https://avatars.githubusercontent.com/u/12567035?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aswansyahputra"><b>Muhammad Aswan Syahputra</b></a><br><sub>&#64;aswansyahputra</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">104</td>
+<td><sub>Bandung, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">937</td>
+<td><a href="https://github.com/adeyahya"><img src="https://avatars.githubusercontent.com/u/10051243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adeyahya"><b>Ade Yahya Prasetyo</b></a><br><sub>&#64;adeyahya</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">92</td>
+<td><sub>Probolinggo, East Java, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">938</td>
+<td><a href="https://github.com/Adithya-13"><img src="https://avatars.githubusercontent.com/u/62298956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adithya-13"><b>Adithya Firmansyah Putra</b></a><br><sub>&#64;Adithya-13</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">71</td>
+<td><sub>Batam, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">939</td>
+<td><a href="https://github.com/Lexxy24"><img src="https://avatars.githubusercontent.com/u/93019459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lexxy24"><b>Lexxy official</b></a><br><sub>&#64;Lexxy24</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">56</td>
+<td><sub>Sumatera Selatan</sub></td>
+</tr>
+<tr>
+<td align="right">940</td>
+<td><a href="https://github.com/syrsdev"><img src="https://avatars.githubusercontent.com/u/88642092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syrsdev"><b>Surya Nata Ardhana</b></a><br><sub>&#64;syrsdev</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">51</td>
+<td><sub>Surabaya, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">941</td>
+<td><a href="https://github.com/FlaBBB"><img src="https://avatars.githubusercontent.com/u/91487840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FlaBBB"><b>Fikri Muhammad Abdillah</b></a><br><sub>&#64;FlaBBB</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">46</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">942</td>
+<td><a href="https://github.com/suciptoid"><img src="https://avatars.githubusercontent.com/u/1310895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/suciptoid"><b>Sucipto</b></a><br><sub>&#64;suciptoid</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">46</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">943</td>
+<td><a href="https://github.com/drgx"><img src="https://avatars.githubusercontent.com/u/5230095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drgx"><b>Ryan Nixon Salim</b></a><br><sub>&#64;drgx</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">36</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">944</td>
+<td><a href="https://github.com/feryardiant"><img src="https://avatars.githubusercontent.com/u/508665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feryardiant"><b>Fery Wardiyanto</b></a><br><sub>&#64;feryardiant</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">28</td>
+<td><sub>Batang, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">945</td>
+<td><a href="https://github.com/irdaislakhuafa"><img src="https://avatars.githubusercontent.com/u/65246900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irdaislakhuafa"><b>Irda Islakhu Afa</b></a><br><sub>&#64;irdaislakhuafa</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">147</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">946</td>
+<td><a href="https://github.com/ahsanzizan"><img src="https://avatars.githubusercontent.com/u/116133300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahsanzizan"><b>Ahsan Azizan</b></a><br><sub>&#64;ahsanzizan</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">141</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">947</td>
+<td><a href="https://github.com/nizwar"><img src="https://avatars.githubusercontent.com/u/33113137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nizwar"><b>Mochamad Nizwar Syafuan</b></a><br><sub>&#64;nizwar</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">114</td>
+<td><sub>Pontianak, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">948</td>
+<td><a href="https://github.com/iffakhry"><img src="https://avatars.githubusercontent.com/u/3954318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iffakhry"><b>Fakhry Ikhsan Firdaus</b></a><br><sub>&#64;iffakhry</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">111</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">949</td>
+<td><a href="https://github.com/castariva18"><img src="https://avatars.githubusercontent.com/u/37837588?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/castariva18"><b>Tengku Belmiro</b></a><br><sub>&#64;castariva18</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">85</td>
+<td><sub>Bandung, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">950</td>
+<td><a href="https://github.com/anggathestarboy"><img src="https://avatars.githubusercontent.com/u/195422234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anggathestarboy"><b>Its Anggara</b></a><br><sub>&#64;anggathestarboy</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">77</td>
+<td><sub>Malang, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">951</td>
+<td><a href="https://github.com/Fxc7"><img src="https://avatars.githubusercontent.com/u/74123134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fxc7"><b>Farhannnnn</b></a><br><sub>&#64;Fxc7</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">40</td>
+<td><sub>Banyuwangi, jawa timur</sub></td>
+</tr>
+<tr>
+<td align="right">952</td>
+<td><a href="https://github.com/akbarwibawa"><img src="https://avatars.githubusercontent.com/u/1205965?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akbarwibawa"><b>akbarwibawa</b></a><br><sub>&#64;akbarwibawa</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">25</td>
+<td><sub>jogja, indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">953</td>
+<td><a href="https://github.com/singgihpr"><img src="https://avatars.githubusercontent.com/u/19896368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/singgihpr"><b>Singgih Aji P</b></a><br><sub>&#64;singgihpr</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">24</td>
+<td><sub>Jakarta</sub></td>
+</tr>
+<tr>
+<td align="right">954</td>
+<td><a href="https://github.com/adityaprbw"><img src="https://avatars.githubusercontent.com/u/142175094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adityaprbw"><b>Aditya Prabowo</b></a><br><sub>&#64;adityaprbw</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">5</td>
+<td><sub>Jakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">955</td>
+<td><a href="https://github.com/Inviz"><img src="https://avatars.githubusercontent.com/u/2708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Inviz"><b>Yaroslaff Fedin</b></a><br><sub>&#64;Inviz</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">112</td>
+<td><sub>Ubud, Bali</sub></td>
+</tr>
+<tr>
+<td align="right">956</td>
+<td><a href="https://github.com/adipatiarya"><img src="https://avatars.githubusercontent.com/u/16633986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adipatiarya"><b>Adipatiarya</b></a><br><sub>&#64;adipatiarya</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">80</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">957</td>
+<td><a href="https://github.com/manh21"><img src="https://avatars.githubusercontent.com/u/31276236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manh21"><b>Naufal Hakim</b></a><br><sub>&#64;manh21</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">72</td>
+<td><sub>Solo, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">958</td>
+<td><a href="https://github.com/klemens-morgenstern"><img src="https://avatars.githubusercontent.com/u/8020376?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/klemens-morgenstern"><b>Klemens Morgenstern</b></a><br><sub>&#64;klemens-morgenstern</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">66</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">959</td>
+<td><a href="https://github.com/flutterdotid"><img src="https://avatars.githubusercontent.com/u/55920888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flutterdotid"><b>flutter.id</b></a><br><sub>&#64;flutterdotid</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">61</td>
+<td><sub>Bogor, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">960</td>
+<td><a href="https://github.com/ziadyjo"><img src="https://avatars.githubusercontent.com/u/16526236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ziadyjo"><b>Ziady Mubaraq</b></a><br><sub>&#64;ziadyjo</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">58</td>
+<td><sub>Jakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">961</td>
+<td><a href="https://github.com/X-Hozmi"><img src="https://avatars.githubusercontent.com/u/116504595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/X-Hozmi"><b>Abdillah Haidar</b></a><br><sub>&#64;X-Hozmi</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">45</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">962</td>
+<td><a href="https://github.com/rianrajagede"><img src="https://avatars.githubusercontent.com/u/12784465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rianrajagede"><b>Rian Adam</b></a><br><sub>&#64;rianrajagede</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">33</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">963</td>
+<td><a href="https://github.com/irvn0x"><img src="https://avatars.githubusercontent.com/u/70256207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irvn0x"><b>irvn0x</b></a><br><sub>&#64;irvn0x</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">24</td>
+<td><sub>Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">964</td>
+<td><a href="https://github.com/AlproITS"><img src="https://avatars.githubusercontent.com/u/36375676?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlproITS"><b>AlproITS</b></a><br><sub>&#64;AlproITS</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">14</td>
+<td><sub>Surabaya</sub></td>
+</tr>
+<tr>
+<td align="right">965</td>
+<td><a href="https://github.com/EkoEdyP"><img src="https://avatars.githubusercontent.com/u/98369634?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EkoEdyP"><b>EkoEdyP</b></a><br><sub>&#64;EkoEdyP</sub></td>
+<td align="right"><b>121</b></td>
+<td align="right">46</td>
+<td><sub>indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">966</td>
+<td><a href="https://github.com/anggriawanmr"><img src="https://avatars.githubusercontent.com/u/41661216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anggriawanmr"><b>Anggriawan Marchvici Ridatama</b></a><br><sub>&#64;anggriawanmr</sub></td>
+<td align="right"><b>121</b></td>
+<td align="right">33</td>
+<td><sub>Remote, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">967</td>
+<td><a href="https://github.com/mrofisr"><img src="https://avatars.githubusercontent.com/u/31870041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrofisr"><b>Abdur Rofi</b></a><br><sub>&#64;mrofisr</sub></td>
+<td align="right"><b>121</b></td>
+<td align="right">17</td>
+<td><sub>Jakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">968</td>
 <td><a href="https://github.com/danpros"><img src="https://avatars.githubusercontent.com/u/595983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danpros"><b>Dan</b></a><br><sub>&#64;danpros</sub></td>
 <td align="right"><b>121</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">895</td>
+<td align="right">969</td>
+<td><a href="https://github.com/indrijunanda"><img src="https://avatars.githubusercontent.com/u/45716244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/indrijunanda"><b>indri junanda</b></a><br><sub>&#64;indrijunanda</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">0</td>
+<td><sub>Tanjungpinang, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">970</td>
 <td><a href="https://github.com/dewanakl"><img src="https://avatars.githubusercontent.com/u/53048107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dewanakl"><b>Dewana Kretarta Lokeswara</b></a><br><sub>&#64;dewanakl</sub></td>
 <td align="right"><b>113</b></td>
 <td align="right">0</td>
 <td><sub>Central Java</sub></td>
 </tr>
 <tr>
-<td align="right">896</td>
+<td align="right">971</td>
 <td><a href="https://github.com/alfonsusac"><img src="https://avatars.githubusercontent.com/u/20208219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfonsusac"><b>Alfonsus Ardani</b></a><br><sub>&#64;alfonsusac</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">897</td>
+<td align="right">972</td>
 <td><a href="https://github.com/cuddlexyz"><img src="https://avatars.githubusercontent.com/u/54711286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cuddlexyz"><b>Cuddlexyz</b></a><br><sub>&#64;cuddlexyz</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Semarang</sub></td>
 </tr>
 <tr>
-<td align="right">898</td>
+<td align="right">973</td>
+<td><a href="https://github.com/irahardianto"><img src="https://avatars.githubusercontent.com/u/449414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irahardianto"><b>Ichsan Rahardianto</b></a><br><sub>&#64;irahardianto</sub></td>
+<td align="right"><b>109</b></td>
+<td align="right">0</td>
+<td><sub>Jakarta, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">974</td>
 <td><a href="https://github.com/NoCrypt"><img src="https://avatars.githubusercontent.com/u/57245077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NoCrypt"><b>ncpt</b></a><br><sub>&#64;NoCrypt</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">899</td>
+<td align="right">975</td>
 <td><a href="https://github.com/awangga"><img src="https://avatars.githubusercontent.com/u/11188109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awangga"><b>Rolly Maulana Awangga</b></a><br><sub>&#64;awangga</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">900</td>
-<td><a href="https://github.com/irahardianto"><img src="https://avatars.githubusercontent.com/u/449414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irahardianto"><b>Ichsan Rahardianto</b></a><br><sub>&#64;irahardianto</sub></td>
-<td align="right"><b>108</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">901</td>
+<td align="right">976</td>
 <td><a href="https://github.com/harsxv"><img src="https://avatars.githubusercontent.com/u/32115753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/harsxv"><b>Harry Suryapambagya</b></a><br><sub>&#64;harsxv</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">902</td>
+<td align="right">977</td>
 <td><a href="https://github.com/adhiariyadi"><img src="https://avatars.githubusercontent.com/u/55935530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adhiariyadi"><b>Adhi Ariyadi</b></a><br><sub>&#64;adhiariyadi</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">903</td>
+<td align="right">978</td>
 <td><a href="https://github.com/Tsuyoken"><img src="https://avatars.githubusercontent.com/u/52185202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tsuyoken"><b>Ferdi S Kennedy</b></a><br><sub>&#64;Tsuyoken</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Cileungsi, West Java, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">904</td>
+<td align="right">979</td>
 <td><a href="https://github.com/Merricx"><img src="https://avatars.githubusercontent.com/u/14103050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Merricx"><b>Imam Alfath</b></a><br><sub>&#64;Merricx</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">905</td>
+<td align="right">980</td>
 <td><a href="https://github.com/ericc-ch"><img src="https://avatars.githubusercontent.com/u/54889298?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ericc-ch"><b>Erick Christian</b></a><br><sub>&#64;ericc-ch</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">906</td>
+<td align="right">981</td>
 <td><a href="https://github.com/dimartarmizi"><img src="https://avatars.githubusercontent.com/u/124131559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dimartarmizi"><b>Dimar Tarmizi</b></a><br><sub>&#64;dimartarmizi</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">907</td>
+<td align="right">982</td>
 <td><a href="https://github.com/junian"><img src="https://avatars.githubusercontent.com/u/3881052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junian"><b>Junian Triajianto</b></a><br><sub>&#64;junian</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>East Java</sub></td>
 </tr>
 <tr>
-<td align="right">908</td>
+<td align="right">983</td>
 <td><a href="https://github.com/DhafinFawwaz"><img src="https://avatars.githubusercontent.com/u/102228528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DhafinFawwaz"><b>Dhafin Fawwaz Ikramullah</b></a><br><sub>&#64;DhafinFawwaz</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Bandung</sub></td>
 </tr>
 <tr>
-<td align="right">909</td>
+<td align="right">984</td>
 <td><a href="https://github.com/parlay96"><img src="https://avatars.githubusercontent.com/u/32978177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/parlay96"><b>parlay</b></a><br><sub>&#64;parlay96</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Bali, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">910</td>
+<td align="right">985</td>
 <td><a href="https://github.com/alterzero"><img src="https://avatars.githubusercontent.com/u/29477440?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alterzero"><b>Muhammad Haris</b></a><br><sub>&#64;alterzero</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">911</td>
+<td align="right">986</td>
 <td><a href="https://github.com/fajarhide"><img src="https://avatars.githubusercontent.com/u/4769529?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fajarhide"><b>Fajar Hidayat</b></a><br><sub>&#64;fajarhide</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">912</td>
+<td align="right">987</td>
 <td><a href="https://github.com/piharpi"><img src="https://avatars.githubusercontent.com/u/20749264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/piharpi"><b>Harpi</b></a><br><sub>&#64;piharpi</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Banyuwangi, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">913</td>
+<td align="right">988</td>
 <td><a href="https://github.com/uudashr"><img src="https://avatars.githubusercontent.com/u/166053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uudashr"><b>Nuruddin Ashr</b></a><br><sub>&#64;uudashr</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">914</td>
+<td align="right">989</td>
 <td><a href="https://github.com/realodix"><img src="https://avatars.githubusercontent.com/u/1314456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/realodix"><b>Kei</b></a><br><sub>&#64;realodix</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Jabodetabek, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">915</td>
+<td align="right">990</td>
 <td><a href="https://github.com/sunarya-thito"><img src="https://avatars.githubusercontent.com/u/64018564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sunarya-thito"><b>Thito Yalasatria Sunarya</b></a><br><sub>&#64;sunarya-thito</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Bandung, Jawa Barat, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">916</td>
+<td align="right">991</td>
 <td><a href="https://github.com/khairul169"><img src="https://avatars.githubusercontent.com/u/10296472?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khairul169"><b>Khairul Hidayat</b></a><br><sub>&#64;khairul169</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Pontianak, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">917</td>
+<td align="right">992</td>
 <td><a href="https://github.com/aryadwiputra"><img src="https://avatars.githubusercontent.com/u/169582150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aryadwiputra"><b>Arya Dwi Putra</b></a><br><sub>&#64;aryadwiputra</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Bogor</sub></td>
 </tr>
 <tr>
-<td align="right">918</td>
+<td align="right">993</td>
 <td><a href="https://github.com/Mafifrizi"><img src="https://avatars.githubusercontent.com/u/230672917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mafifrizi"><b>kraii&#95;</b></a><br><sub>&#64;Mafifrizi</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>KOTA TANGERANG</sub></td>
 </tr>
 <tr>
-<td align="right">919</td>
+<td align="right">994</td>
 <td><a href="https://github.com/reynaldichernando"><img src="https://avatars.githubusercontent.com/u/12949382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reynaldichernando"><b>Reynaldi Chernando</b></a><br><sub>&#64;reynaldichernando</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">920</td>
+<td align="right">995</td>
+<td><a href="https://github.com/ariona"><img src="https://avatars.githubusercontent.com/u/752483?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ariona"><b>Rian Ariona</b></a><br><sub>&#64;ariona</sub></td>
+<td align="right"><b>74</b></td>
+<td align="right">0</td>
+<td><sub>Bandung</sub></td>
+</tr>
+<tr>
+<td align="right">996</td>
 <td><a href="https://github.com/Dadangdut33"><img src="https://avatars.githubusercontent.com/u/57717531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dadangdut33"><b>Fauzan F A</b></a><br><sub>&#64;Dadangdut33</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Tangerang, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">921</td>
+<td align="right">997</td>
 <td><a href="https://github.com/hayyaoe"><img src="https://avatars.githubusercontent.com/u/145606608?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hayyaoe"><b>Hayya</b></a><br><sub>&#64;hayyaoe</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">922</td>
+<td align="right">998</td>
 <td><a href="https://github.com/mimamch"><img src="https://avatars.githubusercontent.com/u/38609616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mimamch"><b>Muhammad Imam Choirudin</b></a><br><sub>&#64;mimamch</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">923</td>
-<td><a href="https://github.com/ariadng"><img src="https://avatars.githubusercontent.com/u/57926750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ariadng"><b>Aria Dhanang</b></a><br><sub>&#64;ariadng</sub></td>
-<td align="right"><b>69</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">924</td>
-<td><a href="https://github.com/Zyrexnn"><img src="https://avatars.githubusercontent.com/u/177414770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zyrexnn"><b>Ikhsan</b></a><br><sub>&#64;Zyrexnn</sub></td>
-<td align="right"><b>69</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">925</td>
-<td><a href="https://github.com/ookamiiixd"><img src="https://avatars.githubusercontent.com/u/60024250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ookamiiixd"><b>Royhan</b></a><br><sub>&#64;ookamiiixd</sub></td>
-<td align="right"><b>68</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">926</td>
-<td><a href="https://github.com/n0l3r"><img src="https://avatars.githubusercontent.com/u/71002775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/n0l3r"><b>Naufal Taufiq Ridwan</b></a><br><sub>&#64;n0l3r</sub></td>
-<td align="right"><b>66</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta</sub></td>
-</tr>
-<tr>
-<td align="right">927</td>
-<td><a href="https://github.com/saifulcoder"><img src="https://avatars.githubusercontent.com/u/1779773?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saifulcoder"><b>saiful anwar</b></a><br><sub>&#64;saifulcoder</sub></td>
-<td align="right"><b>66</b></td>
-<td align="right">0</td>
-<td><sub>Solo, jawa tengah</sub></td>
-</tr>
-<tr>
-<td align="right">928</td>
-<td><a href="https://github.com/andrechristikan"><img src="https://avatars.githubusercontent.com/u/28558871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrechristikan"><b>Andre</b></a><br><sub>&#64;andrechristikan</sub></td>
-<td align="right"><b>65</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">929</td>
-<td><a href="https://github.com/13atm01"><img src="https://avatars.githubusercontent.com/u/75361601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/13atm01"><b>Andi Trisna Mukti</b></a><br><sub>&#64;13atm01</sub></td>
-<td align="right"><b>62</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">930</td>
-<td><a href="https://github.com/ifindev"><img src="https://avatars.githubusercontent.com/u/60772169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ifindev"><b>Muhammad Arifin</b></a><br><sub>&#64;ifindev</sub></td>
-<td align="right"><b>60</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">931</td>
-<td><a href="https://github.com/ruhyadi"><img src="https://avatars.githubusercontent.com/u/39303602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruhyadi"><b>Didi Ruhyadi</b></a><br><sub>&#64;ruhyadi</sub></td>
-<td align="right"><b>59</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta</sub></td>
-</tr>
-<tr>
-<td align="right">932</td>
-<td><a href="https://github.com/rayasabari"><img src="https://avatars.githubusercontent.com/u/57746279?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rayasabari"><b>Raya Sabari</b></a><br><sub>&#64;rayasabari</sub></td>
-<td align="right"><b>58</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta</sub></td>
-</tr>
-<tr>
-<td align="right">933</td>
-<td><a href="https://github.com/taruma"><img src="https://avatars.githubusercontent.com/u/1007910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/taruma"><b>taruma sakti megariansyah</b></a><br><sub>&#64;taruma</sub></td>
-<td align="right"><b>58</b></td>
-<td align="right">0</td>
-<td><sub>Bandung</sub></td>
-</tr>
-<tr>
-<td align="right">934</td>
-<td><a href="https://github.com/davidhsianturi"><img src="https://avatars.githubusercontent.com/u/26449835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidhsianturi"><b>David H. Sianturi</b></a><br><sub>&#64;davidhsianturi</sub></td>
-<td align="right"><b>57</b></td>
-<td align="right">0</td>
-<td><sub>Kuta, Bali</sub></td>
-</tr>
-<tr>
-<td align="right">935</td>
-<td><a href="https://github.com/mansuf"><img src="https://avatars.githubusercontent.com/u/43638783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mansuf"><b>Rahman Yusuf</b></a><br><sub>&#64;mansuf</sub></td>
-<td align="right"><b>57</b></td>
-<td align="right">0</td>
-<td><sub>Bekasi, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">936</td>
-<td><a href="https://github.com/akivaron"><img src="https://avatars.githubusercontent.com/u/9086506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akivaron"><b>isna nur azis</b></a><br><sub>&#64;akivaron</sub></td>
-<td align="right"><b>56</b></td>
-<td align="right">0</td>
-<td><sub>indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">937</td>
-<td><a href="https://github.com/kenhyuwa"><img src="https://avatars.githubusercontent.com/u/17788063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenhyuwa"><b>Ken</b></a><br><sub>&#64;kenhyuwa</sub></td>
-<td align="right"><b>56</b></td>
-<td align="right">0</td>
-<td><sub>Surakarta</sub></td>
-</tr>
-<tr>
-<td align="right">938</td>
-<td><a href="https://github.com/KiKaraage"><img src="https://avatars.githubusercontent.com/u/10529881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KiKaraage"><b>KiKaraage</b></a><br><sub>&#64;KiKaraage</sub></td>
-<td align="right"><b>56</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">939</td>
-<td><a href="https://github.com/wustho"><img src="https://avatars.githubusercontent.com/u/43810055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wustho"><b>Benawi Adha</b></a><br><sub>&#64;wustho</sub></td>
-<td align="right"><b>54</b></td>
-<td align="right">0</td>
-<td><sub>Yogyakarta, Indonesia.</sub></td>
-</tr>
-<tr>
-<td align="right">940</td>
-<td><a href="https://github.com/ivankorobkov"><img src="https://avatars.githubusercontent.com/u/85294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivankorobkov"><b>Ivan Korobkov</b></a><br><sub>&#64;ivankorobkov</sub></td>
-<td align="right"><b>50</b></td>
-<td align="right">0</td>
-<td><sub>Bali, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">941</td>
-<td><a href="https://github.com/ghifarit53"><img src="https://avatars.githubusercontent.com/u/59758342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghifarit53"><b>Muhammad Ghifari Taqiuddin</b></a><br><sub>&#64;ghifarit53</sub></td>
-<td align="right"><b>47</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">942</td>
-<td><a href="https://github.com/kevinongko"><img src="https://avatars.githubusercontent.com/u/15880638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevinongko"><b>Kevin Ongko</b></a><br><sub>&#64;kevinongko</sub></td>
-<td align="right"><b>47</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">943</td>
-<td><a href="https://github.com/tickernelz"><img src="https://avatars.githubusercontent.com/u/10543415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tickernelz"><b>Zhafron Adani Kautsar</b></a><br><sub>&#64;tickernelz</sub></td>
-<td align="right"><b>45</b></td>
-<td align="right">0</td>
-<td><sub>Bandung</sub></td>
-</tr>
-<tr>
-<td align="right">944</td>
-<td><a href="https://github.com/simukti"><img src="https://avatars.githubusercontent.com/u/183417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simukti"><b>Sarjono Mukti Aji</b></a><br><sub>&#64;simukti</sub></td>
-<td align="right"><b>44</b></td>
-<td align="right">0</td>
-<td><sub>Jember, East Java</sub></td>
-</tr>
-<tr>
-<td align="right">945</td>
-<td><a href="https://github.com/sumodirjo"><img src="https://avatars.githubusercontent.com/u/44004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sumodirjo"><b>Muhammad Panji</b></a><br><sub>&#64;sumodirjo</sub></td>
-<td align="right"><b>38</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">946</td>
-<td><a href="https://github.com/fzrilsh"><img src="https://avatars.githubusercontent.com/u/55905559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fzrilsh"><b>Fazril Syaveral Hillaby</b></a><br><sub>&#64;fzrilsh</sub></td>
-<td align="right"><b>37</b></td>
-<td align="right">0</td>
-<td><sub>Indonesian, Tangerang City, Banten</sub></td>
-</tr>
-<tr>
-<td align="right">947</td>
-<td><a href="https://github.com/dianariyanto"><img src="https://avatars.githubusercontent.com/u/7848056?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dianariyanto"><b>Dian Ariyanto</b></a><br><sub>&#64;dianariyanto</sub></td>
-<td align="right"><b>36</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">948</td>
-<td><a href="https://github.com/Alamnzr123"><img src="https://avatars.githubusercontent.com/u/54619997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alamnzr123"><b>Rahmad Alamsyah Nazaruddin</b></a><br><sub>&#64;Alamnzr123</sub></td>
-<td align="right"><b>34</b></td>
-<td align="right">96</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">949</td>
-<td><a href="https://github.com/dianprata"><img src="https://avatars.githubusercontent.com/u/31064578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dianprata"><b>Dian Pratama</b></a><br><sub>&#64;dianprata</sub></td>
-<td align="right"><b>34</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">950</td>
-<td><a href="https://github.com/styd"><img src="https://avatars.githubusercontent.com/u/8341867?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/styd"><b>Adrian Setyadi</b></a><br><sub>&#64;styd</sub></td>
-<td align="right"><b>34</b></td>
-<td align="right">0</td>
-<td><sub>Bekasi, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">951</td>
-<td><a href="https://github.com/dendianugerah"><img src="https://avatars.githubusercontent.com/u/86966660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dendianugerah"><b>Dendi</b></a><br><sub>&#64;dendianugerah</sub></td>
-<td align="right"><b>33</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">952</td>
-<td><a href="https://github.com/IndominusByte"><img src="https://avatars.githubusercontent.com/u/33957651?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IndominusByte"><b>Nyoman Pradipta Dewantara</b></a><br><sub>&#64;IndominusByte</sub></td>
-<td align="right"><b>33</b></td>
-<td align="right">0</td>
-<td><sub>Bali, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">953</td>
-<td><a href="https://github.com/gnomeria"><img src="https://avatars.githubusercontent.com/u/3047437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gnomeria"><b>Sami</b></a><br><sub>&#64;gnomeria</sub></td>
-<td align="right"><b>32</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta</sub></td>
-</tr>
-<tr>
-<td align="right">954</td>
-<td><a href="https://github.com/zavierferodova"><img src="https://avatars.githubusercontent.com/u/69351578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zavierferodova"><b>Zavier Ferodova Al Fitroh</b></a><br><sub>&#64;zavierferodova</sub></td>
-<td align="right"><b>32</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">955</td>
-<td><a href="https://github.com/har07"><img src="https://avatars.githubusercontent.com/u/11190794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/har07"><b>Hanif Amal Robbani</b></a><br><sub>&#64;har07</sub></td>
-<td align="right"><b>31</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">956</td>
-<td><a href="https://github.com/davigmacode"><img src="https://avatars.githubusercontent.com/u/1879569?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davigmacode"><b>Irfan Vigma Taufik</b></a><br><sub>&#64;davigmacode</sub></td>
-<td align="right"><b>29</b></td>
-<td align="right">0</td>
-<td><sub>Bandung, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">957</td>
-<td><a href="https://github.com/dupitydumb"><img src="https://avatars.githubusercontent.com/u/37872714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dupitydumb"><b>dupitydumb</b></a><br><sub>&#64;dupitydumb</sub></td>
-<td align="right"><b>28</b></td>
-<td align="right">0</td>
-<td><sub>indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">958</td>
-<td><a href="https://github.com/zonde306"><img src="https://avatars.githubusercontent.com/u/13820323?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zonde306"><b>Hendra Setiawan</b></a><br><sub>&#64;zonde306</sub></td>
-<td align="right"><b>28</b></td>
-<td align="right">0</td>
-<td><sub>Bandung, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">959</td>
-<td><a href="https://github.com/aishalih"><img src="https://avatars.githubusercontent.com/u/1886175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aishalih"><b>Akhbar Ibnu Shalih</b></a><br><sub>&#64;aishalih</sub></td>
-<td align="right"><b>27</b></td>
-<td align="right">0</td>
-<td><sub>Yogyakarta, ID</sub></td>
-</tr>
-<tr>
-<td align="right">960</td>
-<td><a href="https://github.com/xdreizein666"><img src="https://avatars.githubusercontent.com/u/74557195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xdreizein666"><b>mfajarb</b></a><br><sub>&#64;xdreizein666</sub></td>
-<td align="right"><b>27</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">961</td>
-<td><a href="https://github.com/thewhitegrizzli"><img src="https://avatars.githubusercontent.com/u/8623404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thewhitegrizzli"><b>aiav</b></a><br><sub>&#64;thewhitegrizzli</sub></td>
-<td align="right"><b>25</b></td>
-<td align="right">0</td>
-<td><sub>Ubud, Bali</sub></td>
-</tr>
-<tr>
-<td align="right">962</td>
-<td><a href="https://github.com/mrbvrz"><img src="https://avatars.githubusercontent.com/u/3890123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrbvrz"><b>mrbvrz</b></a><br><sub>&#64;mrbvrz</sub></td>
-<td align="right"><b>24</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">963</td>
-<td><a href="https://github.com/gusaul"><img src="https://avatars.githubusercontent.com/u/10978391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gusaul"><b>Muhammad Auliya</b></a><br><sub>&#64;gusaul</sub></td>
-<td align="right"><b>23</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">964</td>
-<td><a href="https://github.com/mazznoer"><img src="https://avatars.githubusercontent.com/u/56464409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mazznoer"><b>Nor Khasyatillah</b></a><br><sub>&#64;mazznoer</sub></td>
-<td align="right"><b>22</b></td>
-<td align="right">0</td>
-<td><sub>Jogjakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">965</td>
-<td><a href="https://github.com/nabakdev"><img src="https://avatars.githubusercontent.com/u/29066277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nabakdev"><b>nabak</b></a><br><sub>&#64;nabakdev</sub></td>
-<td align="right"><b>21</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">966</td>
-<td><a href="https://github.com/mdbassit"><img src="https://avatars.githubusercontent.com/u/6975607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mdbassit"><b>Momo Bassit</b></a><br><sub>&#64;mdbassit</sub></td>
-<td align="right"><b>19</b></td>
-<td align="right">0</td>
-<td><sub>Bali, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">967</td>
-<td><a href="https://github.com/herdodp"><img src="https://avatars.githubusercontent.com/u/66925023?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/herdodp"><b>herdo dimas pratirto</b></a><br><sub>&#64;herdodp</sub></td>
-<td align="right"><b>18</b></td>
-<td align="right">0</td>
-<td><sub>indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">968</td>
-<td><a href="https://github.com/fufufufafafa"><img src="https://avatars.githubusercontent.com/u/204808067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fufufufafafa"><b>fufufufafafa</b></a><br><sub>&#64;fufufufafafa</sub></td>
-<td align="right"><b>9</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta</sub></td>
-</tr>
-<tr>
-<td align="right">969</td>
-<td><a href="https://github.com/randifajar"><img src="https://avatars.githubusercontent.com/u/46032161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/randifajar"><b>Randi Fajar Wicaksono</b></a><br><sub>&#64;randifajar</sub></td>
-<td align="right"><b>6</b></td>
-<td align="right">0</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">970</td>
-<td><a href="https://github.com/gloeyisk"><img src="https://avatars.githubusercontent.com/u/43908341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gloeyisk"><b>Gilang Iskandar</b></a><br><sub>&#64;gloeyisk</sub></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td><sub>Cimahi, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">971</td>
-<td><a href="https://github.com/ragilkorbafo"><img src="https://avatars.githubusercontent.com/u/99237933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ragilkorbafo"><b>ragilkorbafo</b></a><br><sub>&#64;ragilkorbafo</sub></td>
-<td align="right"><b>3</b></td>
-<td align="right">12</td>
-<td><sub>Timor, East Nusa Tenggara</sub></td>
-</tr>
-<tr>
-<td align="right">972</td>
-<td><a href="https://github.com/Zwandiboss08"><img src="https://avatars.githubusercontent.com/u/35337094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zwandiboss08"><b>Stefanus Suwandi</b></a><br><sub>&#64;Zwandiboss08</sub></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td><sub>Jakarta</sub></td>
-</tr>
-<tr>
-<td align="right">973</td>
-<td><a href="https://github.com/iqhtyar"><img src="https://avatars.githubusercontent.com/u/151385791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iqhtyar"><b>Iqhtyar&#64;coding</b></a><br><sub>&#64;iqhtyar</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">10</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">974</td>
-<td><a href="https://github.com/Abinoga"><img src="https://avatars.githubusercontent.com/u/158023293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abinoga"><b>Abinoga Magsaysae</b></a><br><sub>&#64;Abinoga</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">7</td>
-<td><sub>Lampung Selatan, Lampung, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">975</td>
-<td><a href="https://github.com/BintangDiandra"><img src="https://avatars.githubusercontent.com/u/155343129?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BintangDiandra"><b>Bintang</b></a><br><sub>&#64;BintangDiandra</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">7</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">976</td>
-<td><a href="https://github.com/tonmard"><img src="https://avatars.githubusercontent.com/u/153443809?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonmard"><b>Tony Mardyansyah</b></a><br><sub>&#64;tonmard</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">6</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">977</td>
-<td><a href="https://github.com/activity-debug"><img src="https://avatars.githubusercontent.com/u/153432023?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/activity-debug"><b>Activity Debug</b></a><br><sub>&#64;activity-debug</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">5</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">978</td>
-<td><a href="https://github.com/alvisas"><img src="https://avatars.githubusercontent.com/u/13281055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alvisas"><b>Alvis Ardhika Saputra</b></a><br><sub>&#64;alvisas</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">5</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">979</td>
-<td><a href="https://github.com/vunh2301"><img src="https://avatars.githubusercontent.com/u/5335773?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vunh2301"><b>Justin</b></a><br><sub>&#64;vunh2301</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">5</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">980</td>
-<td><a href="https://github.com/94fadly"><img src="https://avatars.githubusercontent.com/u/15280715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/94fadly"><b>Fadly</b></a><br><sub>&#64;94fadly</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">981</td>
-<td><a href="https://github.com/Abiey"><img src="https://avatars.githubusercontent.com/u/6399026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abiey"><b>Hilman Habibi</b></a><br><sub>&#64;Abiey</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">982</td>
-<td><a href="https://github.com/adhiwena"><img src="https://avatars.githubusercontent.com/u/11569153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adhiwena"><b>adhiwena</b></a><br><sub>&#64;adhiwena</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">983</td>
-<td><a href="https://github.com/adiarriansyah"><img src="https://avatars.githubusercontent.com/u/1858789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adiarriansyah"><b>Adi Arriansyah</b></a><br><sub>&#64;adiarriansyah</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Bandung, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">984</td>
-<td><a href="https://github.com/adielah"><img src="https://avatars.githubusercontent.com/u/3330036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adielah"><b>Qoimatul Adilah</b></a><br><sub>&#64;adielah</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Malang, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">985</td>
-<td><a href="https://github.com/adityasubawa"><img src="https://avatars.githubusercontent.com/u/5505927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adityasubawa"><b>Aditya Subawa</b></a><br><sub>&#64;adityasubawa</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Denpasar, Bali, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">986</td>
-<td><a href="https://github.com/afandi6594"><img src="https://avatars.githubusercontent.com/u/7577397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/afandi6594"><b>Ahmad Afandi</b></a><br><sub>&#64;afandi6594</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">987</td>
-<td><a href="https://github.com/ageng-setiawan"><img src="https://avatars.githubusercontent.com/u/16362032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ageng-setiawan"><b>Ageng Setiawan</b></a><br><sub>&#64;ageng-setiawan</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Bandung, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">988</td>
-<td><a href="https://github.com/agungbc"><img src="https://avatars.githubusercontent.com/u/3581916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agungbc"><b>Agung Budi Cahyono</b></a><br><sub>&#64;agungbc</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Surabaya - Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">989</td>
-<td><a href="https://github.com/agungbudip"><img src="https://avatars.githubusercontent.com/u/5372849?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agungbudip"><b>Agung Budi Prasetyo</b></a><br><sub>&#64;agungbudip</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Bandung, West Java, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">990</td>
-<td><a href="https://github.com/agussto"><img src="https://avatars.githubusercontent.com/u/7549464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agussto"><b>AGUS SUSANTO</b></a><br><sub>&#64;agussto</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">991</td>
-<td><a href="https://github.com/ahmad-mustain"><img src="https://avatars.githubusercontent.com/u/1606394?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmad-mustain"><b>Ahmad Mustain</b></a><br><sub>&#64;ahmad-mustain</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">992</td>
-<td><a href="https://github.com/ahrinal"><img src="https://avatars.githubusercontent.com/u/7554027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahrinal"><b>Ahmad Rinaldi</b></a><br><sub>&#64;ahrinal</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">993</td>
-<td><a href="https://github.com/ahura-mazda"><img src="https://avatars.githubusercontent.com/u/9284239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahura-mazda"><b>Cornelius Mellino</b></a><br><sub>&#64;ahura-mazda</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">994</td>
-<td><a href="https://github.com/alfriyan"><img src="https://avatars.githubusercontent.com/u/9282057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfriyan"><b>Alfriyan NW</b></a><br><sub>&#64;alfriyan</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">995</td>
-<td><a href="https://github.com/alonelsonranger"><img src="https://avatars.githubusercontent.com/u/6467460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alonelsonranger"><b>Leo Nelson</b></a><br><sub>&#64;alonelsonranger</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">996</td>
-<td><a href="https://github.com/AndreGlo27"><img src="https://avatars.githubusercontent.com/u/10581676?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndreGlo27"><b>Angelo Andre</b></a><br><sub>&#64;AndreGlo27</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Manado, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">997</td>
-<td><a href="https://github.com/andriRoll"><img src="https://avatars.githubusercontent.com/u/12001974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andriRoll"><b>Andri Nurul Akbar</b></a><br><sub>&#64;andriRoll</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Bandung, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">998</td>
-<td><a href="https://github.com/anggalisdiyanto"><img src="https://avatars.githubusercontent.com/u/9837232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anggalisdiyanto"><b>Angga Lisdiyanto</b></a><br><sub>&#64;anggalisdiyanto</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
-</tr>
-<tr>
 <td align="right">999</td>
-<td><a href="https://github.com/antonlim"><img src="https://avatars.githubusercontent.com/u/7473297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antonlim"><b>antonl</b></a><br><sub>&#64;antonlim</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Indonesia</sub></td>
+<td><a href="https://github.com/NHadi"><img src="https://avatars.githubusercontent.com/u/8849563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NHadi"><b>Nurul Hadi</b></a><br><sub>&#64;NHadi</sub></td>
+<td align="right"><b>70</b></td>
+<td align="right">0</td>
+<td><sub>Jakarta, Indonesia</sub></td>
 </tr>
 <tr>
 <td align="right">1000</td>
-<td><a href="https://github.com/aomcenter"><img src="https://avatars.githubusercontent.com/u/6857222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aomcenter"><b>aomcenter</b></a><br><sub>&#64;aomcenter</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
+<td><a href="https://github.com/ariadng"><img src="https://avatars.githubusercontent.com/u/57926750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ariadng"><b>Aria Dhanang</b></a><br><sub>&#64;ariadng</sub></td>
+<td align="right"><b>69</b></td>
+<td align="right">0</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 </tbody>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1,300 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 1,300 attributed developers are tracked; the cutoff is 69 followers.
 - **Location discovery:** term 0 of 183 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **93** | 24 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -241,7 +241,7 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/sudoguy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sudoguy/tiktokpy"><b>sudoguy/tiktokpy</b></a><br><sub>Tool for automated TikTok interactions</sub></td>
-<td align="right"><b>877</b></td>
+<td align="right"><b>878</b></td>
 <td align="right">165</td>
 <td>Python</td>
 </tr>
@@ -262,7 +262,7 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/ContentBlocker"><b>AdguardTeam/ContentBlocker</b></a><br><sub>Content blocking extension for Samsung Internet and Yandex Browser</sub></td>
-<td align="right"><b>774</b></td>
+<td align="right"><b>775</b></td>
 <td align="right">157</td>
 <td>Java</td>
 </tr>
@@ -672,15 +672,64 @@
 <td align="right">71</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/vadimpronin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vadimpronin/guacamole-lite"><b>vadimpronin/guacamole-lite</b></a><br><sub>Node.js library for creating Guacamole-compatible servers. Guacamole is a RDP/VNC/SSH/Telnet client for HTML5 browsers.</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">94</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/shahules786.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shahules786/mayavoz"><b>shahules786/mayavoz</b></a><br><sub>Pytorch based speech enhancement toolkit.</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">28</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/nival.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nival/Blitzkrieg"><b>nival/Blitzkrieg</b></a><br><sub>Blitzkrieg is a 2003 real-time tactics video game based on the events of World War II and the first title in the Blitzk…</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">62</td>
+<td>Rich Text Format</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdguardForMac"><b>AdguardTeam/AdguardForMac</b></a><br><sub>Open bug tracker for Mac version of AdGuard</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">18</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/blackhatethicalhacking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blackhatethicalhacking/TerminatorZ"><b>blackhatethicalhacking/TerminatorZ</b></a><br><sub>TerminatorZ is a highly sophisticated and efficient Offensive CVE Exploitation Framework that scans for top potential v…</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">47</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/arturpanteleev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arturpanteleev/backendinterview"><b>arturpanteleev/backendinterview</b></a><br><sub>Памятка Backend разработчика по прохождению собеседованй</sub></td>
+<td align="right"><b>331</b></td>
+<td align="right">59</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/blackhatethicalhacking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blackhatethicalhacking/Bug_Bounty_Tools_and_Methodology"><b>blackhatethicalhacking/Bug&#95;Bounty&#95;Tools&#95;and&#95;Methodology</b></a><br><sub>Bug Bounty Tools used on Twitch - Recon</sub></td>
+<td align="right"><b>327</b></td>
+<td align="right">85</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 348 stars; 93 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 327 stars; 104 attributed candidates are tracked.
 - 84 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **6** | 24 Oct 2026 | <a href="../data/MF.json">JSON</a> |
+| 🟠 Stale | **5** | 24 Oct 2026 | <a href="../data/MF.json">JSON</a> |
 
-> **Not yet re-verified.** 6 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 5 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,41 +25,34 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/Active-Outre-Mer-Dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Active-Outre-Mer-Dev/sxm-quiz"><b>Active-Outre-Mer-Dev/sxm-quiz</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">2</td>
 <td><img src="https://github.com/bluevistacaraibe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bluevistacaraibe/GLappGac"><b>bluevistacaraibe/GLappGac</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">2</td>
 <td><img src="https://github.com/bumperbuttzorotop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bumperbuttzorotop/bumperbuttzorotop"><b>bumperbuttzorotop/bumperbuttzorotop</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">3</td>
 <td><img src="https://github.com/commandoyaroon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/commandoyaroon/commandoyaroon"><b>commandoyaroon/commandoyaroon</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">4</td>
 <td><img src="https://github.com/muffinthemonster.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/muffinthemonster/muffinthemonster"><b>muffinthemonster/muffinthemonster</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">5</td>
 <td><img src="https://github.com/smerlinm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/smerlinm/sgs-ener-licenses"><b>smerlinm/sgs-ener-licenses</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -73,8 +66,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 6 attributed candidates are tracked.
-- 6 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 0 stars; 5 attributed candidates are tracked.
+- 5 entries were carried over from the previous dataset and are pending revalidation.
 - 16 multi-repository owners are queued for expansion.
 - **Location discovery:** term 5 of 12 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

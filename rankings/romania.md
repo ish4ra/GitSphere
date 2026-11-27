@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/RO.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/RO.json">JSON</a> |
 
 </div>
 
@@ -632,17 +632,17 @@
 </tr>
 <tr>
 <td align="right">88</td>
+<td><img src="https://github.com/invergent-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/invergent-ai/surogate"><b>invergent-ai/surogate</b></a><br><sub>Train and serve LLMs at extreme speed and massive throughput.</sub></td>
+<td align="right"><b>896</b></td>
+<td align="right">15</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">89</td>
 <td><img src="https://github.com/imbaniac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imbaniac/awesome-blockchain"><b>imbaniac/awesome-blockchain</b></a><br><sub>Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥</sub></td>
 <td align="right"><b>895</b></td>
 <td align="right">169</td>
 <td>—</td>
-</tr>
-<tr>
-<td align="right">89</td>
-<td><img src="https://github.com/invergent-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/invergent-ai/surogate"><b>invergent-ai/surogate</b></a><br><sub>Train and serve LLMs at extreme speed and massive throughput.</sub></td>
-<td align="right"><b>892</b></td>
-<td align="right">15</td>
-<td>C++</td>
 </tr>
 <tr>
 <td align="right">90</td>
@@ -675,7 +675,7 @@
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/icflorescu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icflorescu/trpc-sveltekit"><b>icflorescu/trpc-sveltekit</b></a><br><sub>End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.</sub></td>
-<td align="right"><b>833</b></td>
+<td align="right"><b>834</b></td>
 <td align="right">43</td>
 <td>TypeScript</td>
 </tr>
@@ -683,7 +683,7 @@
 <td align="right">95</td>
 <td><img src="https://github.com/CanciuCostin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CanciuCostin/android-spyware"><b>CanciuCostin/android-spyware</b></a><br><sub>Rails c&amp;c web application for spying Android devices</sub></td>
 <td align="right"><b>823</b></td>
-<td align="right">191</td>
+<td align="right">190</td>
 <td>HTML</td>
 </tr>
 <tr>

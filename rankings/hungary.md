@@ -472,15 +472,15 @@
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/theevilbit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/theevilbit/injection"><b>theevilbit/injection</b></a></td>
-<td align="right"><b>830</b></td>
+<td align="right"><b>831</b></td>
 <td align="right">200</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/hidasib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hidasib/GRU4Rec"><b>hidasib/GRU4Rec</b></a><br><sub>GRU4Rec is the original Theano implementation of the algorithm in &quot;Session-based Recommendations with Recurrent Neural…</sub></td>
-<td align="right"><b>818</b></td>
-<td align="right">227</td>
+<td align="right"><b>819</b></td>
+<td align="right">226</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -500,7 +500,7 @@
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/Hexworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hexworks/zircon"><b>Hexworks/zircon</b></a><br><sub>Zircon is an extensible and user-friendly, multiplatform tile engine.</sub></td>
-<td align="right"><b>797</b></td>
+<td align="right"><b>796</b></td>
 <td align="right">134</td>
 <td>Kotlin</td>
 </tr>
@@ -508,7 +508,7 @@
 <td align="right">70</td>
 <td><img src="https://github.com/banzaicloud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/banzaicloud/koperator"><b>banzaicloud/koperator</b></a> <sub>archived</sub><br><sub>Oh no! Yet another Apache Kafka operator for Kubernetes</sub></td>
 <td align="right"><b>787</b></td>
-<td align="right">197</td>
+<td align="right">196</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -522,7 +522,7 @@
 <td align="right">72</td>
 <td><img src="https://github.com/UltimateHackingKeyboard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/UltimateHackingKeyboard/agent"><b>UltimateHackingKeyboard/agent</b></a><br><sub>Ultimate Hacking Keyboard configurator</sub></td>
 <td align="right"><b>775</b></td>
-<td align="right">99</td>
+<td align="right">98</td>
 <td>TypeScript</td>
 </tr>
 <tr>

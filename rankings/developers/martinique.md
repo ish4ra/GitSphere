@@ -72,23 +72,23 @@
 </tr>
 <tr>
 <td align="right">8</td>
-<td><a href="https://github.com/lalabarca"><img src="https://avatars.githubusercontent.com/u/93010941?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lalabarca"><b>Laura Hardy-Dessources</b></a><br><sub>&#64;lalabarca</sub></td>
-<td align="right"><b>10</b></td>
-<td align="right">24</td>
-<td><sub>Martinique</sub></td>
-</tr>
-<tr>
-<td align="right">9</td>
 <td><a href="https://github.com/b1nj"><img src="https://avatars.githubusercontent.com/u/1835874?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/b1nj"><b>B1nj</b></a><br><sub>&#64;b1nj</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">10</td>
 <td><sub>Martinique</sub></td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">9</td>
 <td><a href="https://github.com/nadlgit"><img src="https://avatars.githubusercontent.com/u/94698993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nadlgit"><b>Nadine</b></a><br><sub>&#64;nadlgit</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">27</td>
+<td><sub>Martinique</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/lalabarca"><img src="https://avatars.githubusercontent.com/u/93010941?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lalabarca"><b>Laura Hardy-Dessources</b></a><br><sub>&#64;lalabarca</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">24</td>
 <td><sub>Martinique</sub></td>
 </tr>
 <tr>

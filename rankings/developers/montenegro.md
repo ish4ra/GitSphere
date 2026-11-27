@@ -191,17 +191,17 @@
 </tr>
 <tr>
 <td align="right">25</td>
-<td><a href="https://github.com/kostafey"><img src="https://avatars.githubusercontent.com/u/1282079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kostafey"><b>kostafey</b></a><br><sub>&#64;kostafey</sub></td>
-<td align="right"><b>67</b></td>
-<td align="right">233</td>
-<td><sub>Podgorica, Montenegro</sub></td>
-</tr>
-<tr>
-<td align="right">26</td>
 <td><a href="https://github.com/potapenko"><img src="https://avatars.githubusercontent.com/u/612926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/potapenko"><b>Eugene Potapenko</b></a><br><sub>&#64;potapenko</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">35</td>
 <td><sub>Montenegro</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/kostafey"><img src="https://avatars.githubusercontent.com/u/1282079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kostafey"><b>kostafey</b></a><br><sub>&#64;kostafey</sub></td>
+<td align="right"><b>66</b></td>
+<td align="right">233</td>
+<td><sub>Podgorica, Montenegro</sub></td>
 </tr>
 <tr>
 <td align="right">27</td>

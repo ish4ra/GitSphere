@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/sou350121.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sou350121/VLA-Handbook"><b>sou350121/VLA-Handbook</b></a><br><sub>本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。 不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战</sub></td>
-<td align="right"><b>795</b></td>
+<td align="right"><b>798</b></td>
 <td align="right">48</td>
 <td>HTML</td>
 </tr>
@@ -107,7 +107,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 356 stars; 11 attributed candidates are tracked.
-- 62 multi-repository owners are queued for expansion.
+- 50 multi-repository owners are queued for expansion.
 - **Location discovery:** term 1 of 16 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

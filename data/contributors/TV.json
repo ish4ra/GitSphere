@@ -5,15 +5,16 @@
 "country": {"code":"TV","name":"Tuvalu","slug":"tuvalu"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":25,"measuredAccounts":16,"measurementBacklog":9,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":21,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":25,"measuredAccounts":19,"measurementBacklog":6,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":21,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ0NjkzOTg=","login":"xubeiyan","name":"xubeiyan","url":"https://github.com/xubeiyan","avatarUrl":"https://avatars.githubusercontent.com/u/4469398?s=80&v=4","followers":20,"publicRepos":35,"location":"Chenhai, Tuvalu(图瓦卢，辰海市)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":97,"commits":77,"pullRequests":18,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjQyMTI0Njc=","login":"enaros","name":"Emiliano","url":"https://github.com/enaros","avatarUrl":"https://avatars.githubusercontent.com/u/4212467?s=80&v=4","followers":20,"publicRepos":55,"location":"Tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":12,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":3,"id":"U_kgDOECxrEQ","login":"s11253934-bit","name":"PELOSI","url":"https://github.com/s11253934-bit","avatarUrl":"https://avatars.githubusercontent.com/u/271346449?s=80&v=4","followers":0,"publicRepos":2,"location":"Tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27","contributions":{"public":5,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-27T02:00:00Z","windowTo":"2026-11-27T02:00:00Z","measuredOn":"2026-11-27"}},
-  {"rank":4,"id":"U_kgDOCFsOZQ","login":"Dan-Creative","name":"Доктор Кал","url":"https://github.com/Dan-Creative","avatarUrl":"https://avatars.githubusercontent.com/u/140185189?s=80&v=4","followers":0,"publicRepos":3,"location":"Funafuti","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
+  {"rank":4,"id":"U_kgDODTv_bQ","login":"temapr0","name":null,"url":"https://github.com/temapr0","avatarUrl":"https://avatars.githubusercontent.com/u/222035821?s=80&v=4","followers":1,"publicRepos":1,"location":"Tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-27T11:00:00Z","windowTo":"2026-11-27T11:00:00Z","measuredOn":"2026-11-27"}},
+  {"rank":5,"id":"U_kgDOCFsOZQ","login":"Dan-Creative","name":"Доктор Кал","url":"https://github.com/Dan-Creative","avatarUrl":"https://avatars.githubusercontent.com/u/140185189?s=80&v=4","followers":0,"publicRepos":3,"location":"Funafuti","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "19bfefc22ec71ed9",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "620cfbb4d0cb11c8",
+"updatedAt": "2026-11-27T11:33:59.196Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T11:33:59.196Z"
 }

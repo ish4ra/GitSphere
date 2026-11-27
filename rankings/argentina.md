@@ -584,8 +584,8 @@
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/linuxmobile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/linuxmobile/shin"><b>linuxmobile/shin</b></a><br><sub>A study in structural evolution. An elegant NixOS environment designed to move with the rhythm of your creative core.</sub></td>
-<td align="right"><b>883</b></td>
-<td align="right">49</td>
+<td align="right"><b>884</b></td>
+<td align="right">48</td>
 <td>Nix</td>
 </tr>
 <tr>
@@ -598,7 +598,7 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/facundoolano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/facundoolano/aso"><b>facundoolano/aso</b></a><br><sub>Tools for app store optimization on iTunes and Google Play</sub></td>
-<td align="right"><b>876</b></td>
+<td align="right"><b>877</b></td>
 <td align="right">146</td>
 <td>JavaScript</td>
 </tr>
@@ -619,8 +619,8 @@
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/Haervwe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Haervwe/open-webui-tools"><b>Haervwe/open-webui-tools</b></a><br><sub>Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerfu…</sub></td>
-<td align="right"><b>840</b></td>
-<td align="right">85</td>
+<td align="right"><b>842</b></td>
+<td align="right">84</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -633,8 +633,8 @@
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/lucasromerodb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lucasromerodb/liquid-glass-effect-macos"><b>lucasromerodb/liquid-glass-effect-macos</b></a><br><sub>Demo here</sub></td>
-<td align="right"><b>828</b></td>
-<td align="right">55</td>
+<td align="right"><b>830</b></td>
+<td align="right">56</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -646,17 +646,17 @@
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/lucaspulliese.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lucaspulliese/next-ecommerce"><b>lucaspulliese/next-ecommerce</b></a><br><sub>A beautiful ecommerce made with Next.js</sub></td>
-<td align="right"><b>774</b></td>
-<td align="right">281</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">91</td>
 <td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/contra"><b>bevacqua/contra</b></a><br><sub>:surfer: Asynchronous flow control with a functional taste to it</sub></td>
 <td align="right"><b>774</b></td>
 <td align="right">27</td>
 <td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/lucaspulliese.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lucaspulliese/next-ecommerce"><b>lucaspulliese/next-ecommerce</b></a><br><sub>A beautiful ecommerce made with Next.js</sub></td>
+<td align="right"><b>773</b></td>
+<td align="right">281</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">92</td>
@@ -668,7 +668,7 @@
 <tr>
 <td align="right">93</td>
 <td><img src="https://github.com/enzonotario.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/enzonotario/dolarapi.com"><b>enzonotario/dolarapi.com</b></a><br><sub>API desarrollada en EsJS para las diferentes cotizaciones de Dólar en Argentina, Chile, Venezuela, Uruguay, México, Bol…</sub></td>
-<td align="right"><b>767</b></td>
+<td align="right"><b>768</b></td>
 <td align="right">60</td>
 <td>JavaScript</td>
 </tr>
