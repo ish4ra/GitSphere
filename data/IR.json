@@ -5,7 +5,7 @@
 "country": {"code":"IR","name":"Iran","slug":"iran"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":348,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":108,"candidates":121,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":159,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":348,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":108,"candidates":132,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":159,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOMS9a5A","name":"ab-download-manager","nameWithOwner":"amir1376/ab-download-manager","url":"https://github.com/amir1376/ab-download-manager","description":"A Download Manager that speeds up your downloads","stars":19539,"forks":1040,"primaryLanguage":"Kotlin","license":{"spdxId":"Apache-2.0"},"createdAt":"2024-07-07T03:56:25Z","pushedAt":"2026-11-16T08:20:41Z","archived":false,"owner":{"login":"amir1376","name":"AmirHossein Abdolmotallebi","type":"User","url":"https://github.com/amir1376","location":"Iran, Behbahan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzMDM4MDI1ODg=","name":"MHDDoS","nameWithOwner":"MatrixTM/MHDDoS","url":"https://github.com/MatrixTM/MHDDoS","description":"Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 60 Methods","stars":17071,"forks":3658,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2020-10-13T19:02:46Z","pushedAt":"2026-11-24T09:32:58Z","archived":false,"owner":{"login":"MatrixTM","name":"Matrix Team","type":"Organization","url":"https://github.com/MatrixTM","location":"Iran","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOSS7IiQ","name":"teleMirror","nameWithOwner":"ircfspace/teleMirror","url":"https://github.com/ircfspace/teleMirror","description":"A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran","stars":355,"forks":61,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-05-03T07:19:00Z","pushedAt":"2026-06-07T04:07:03Z","archived":false,"owner":{"login":"ircfspace","name":"IRCF","type":"User","url":"https://github.com/ircfspace","location":"Iran","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkyNjkxNDE1MjU=","name":"IranCountryDivisions","nameWithOwner":"Hameds/IranCountryDivisions","url":"https://github.com/Hameds/IranCountryDivisions","description":"کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران تا پایان سال ۱۴۰۴","stars":348,"forks":22,"primaryLanguage":"TSQL","license":{"spdxId":"MIT"},"createdAt":"2020-06-03T16:39:55Z","pushedAt":"2026-11-12T16:32:53Z","archived":false,"owner":{"login":"Hameds","name":"Hamed","type":"User","url":"https://github.com/Hameds","location":"Iran","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "d9b6a2aa24605be7",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "24f309f1b2bee0de",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

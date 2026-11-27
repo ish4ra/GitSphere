@@ -151,7 +151,7 @@
 <td align="right">19</td>
 <td><a href="https://github.com/ameer1234567890"><img src="https://avatars.githubusercontent.com/u/160157?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ameer1234567890"><b>Ameer Dawood</b></a><br><sub>&#64;ameer1234567890</sub></td>
 <td align="right"><b>43</b></td>
-<td align="right">70</td>
+<td align="right">72</td>
 <td><sub>Thulhaadhoo, Maldives</sub></td>
 </tr>
 <tr>

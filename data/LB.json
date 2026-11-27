@@ -5,7 +5,7 @@
 "country": {"code":"LB","name":"Lebanon","slug":"lebanon"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":124,"candidates":22,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":61,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":122,"candidates":22,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":61,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOGJv-1g","name":"mirror-leech-telegram-bot","nameWithOwner":"anasty17/mirror-leech-telegram-bot","url":"https://github.com/anasty17/mirror-leech-telegram-bot","description":"Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds…","stars":4373,"forks":5131,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-10-02T18:12:12Z","pushedAt":"2026-11-24T21:16:52Z","archived":false,"owner":{"login":"anasty17","name":"Anas Tayyar","type":"User","url":"https://github.com/anasty17","location":"Saida, Lebanon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk5MzMyNDE0MQ==","name":"Watusi-for-WhatsApp","nameWithOwner":"FouadRaheb/Watusi-for-WhatsApp","url":"https://github.com/FouadRaheb/Watusi-for-WhatsApp","description":"Your all-in-one tweak for WhatsApp Messenger!","stars":2027,"forks":189,"primaryLanguage":null,"license":null,"createdAt":"2017-06-04T15:51:03Z","pushedAt":"2026-11-24T12:22:42Z","archived":false,"owner":{"login":"FouadRaheb","name":"Fouad Raheb","type":"User","url":"https://github.com/FouadRaheb","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
@@ -30,8 +30,8 @@
   {"rank":21,"id":null,"name":"Mohammad_Nasser","nameWithOwner":"82530126-cloud/Mohammad_Nasser","url":"https://github.com/82530126-cloud/Mohammad_Nasser","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-02-11T09:16:55Z","pushedAt":"2026-02-11T09:49:41Z","archived":false,"owner":{"login":"82530126-cloud","name":"Mohamad Nasser","type":"User","url":"https://github.com/82530126-cloud","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":22,"id":null,"name":"A7Admin-Panel-Finder","nameWithOwner":"a7laagamer/A7Admin-Panel-Finder","url":"https://github.com/a7laagamer/A7Admin-Panel-Finder","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2018-11-03T19:46:54Z","pushedAt":"2018-11-03T20:13:14Z","archived":false,"owner":{"login":"a7laagamer","name":"أبٰٰہہنہہ ألہٰہهكہٰہُہہر","type":"User","url":"https://github.com/a7laagamer","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "adfb0df2a620f3b8",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "47b3b8a8d0e03b1b",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

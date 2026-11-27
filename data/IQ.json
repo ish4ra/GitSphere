@@ -5,7 +5,7 @@
 "country": {"code":"IQ","name":"Iraq","slug":"iraq"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":347,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":120,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":148,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":347,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":119,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":148,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOIkaVVw","name":"OpenCursor","nameWithOwner":"PawanOsman/OpenCursor","url":"https://github.com/PawanOsman/OpenCursor","description":"Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support","stars":6050,"forks":1032,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-12-06T16:39:11Z","pushedAt":"2026-10-26T23:18:05Z","archived":false,"owner":{"login":"PawanOsman","name":"Pawan Osman","type":"User","url":"https://github.com/PawanOsman","location":"As Sulaymaniyah, Iraq","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyMzA4OTU4ODM=","name":"chatify","nameWithOwner":"munafio/chatify","url":"https://github.com/munafio/chatify","description":"Laravel’s #1 real-time chat package. Direct messages, groups, voice notes, and much more, with a full messenger UI — plus a headless API. Install in one comman…","stars":2464,"forks":484,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2019-12-30T10:28:55Z","pushedAt":"2026-11-25T14:13:37Z","archived":false,"owner":{"login":"munafio","name":"Munaf A. Mahdi","type":"User","url":"https://github.com/munafio","location":"Iraq","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
@@ -26,8 +26,8 @@
   {"rank":17,"id":"MDEwOlJlcG9zaXRvcnk3MzMxNjE1MA==","name":"permadelete","nameWithOwner":"devs-krd/permadelete","url":"https://github.com/devs-krd/permadelete","description":"Permanently shreds files, easily.","stars":347,"forks":37,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2016-11-09T19:50:08Z","pushedAt":"2023-03-31T19:21:44Z","archived":false,"owner":{"login":"devs-krd","name":"Devs.krd","type":"Organization","url":"https://github.com/devs-krd","location":"Erbil Iraq","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
   {"rank":18,"id":"MDEwOlJlcG9zaXRvcnk3Nzg1NjQwOA==","name":"en-inflectors","nameWithOwner":"FinNLP/en-inflectors","url":"https://github.com/FinNLP/en-inflectors","description":"📦 English inflection library for noun (plural to singular and singular to plural), verb (gerund, present & past) and adjectives (comparative & superlative) tr…","stars":347,"forks":21,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2017-01-02T19:22:40Z","pushedAt":"2021-02-11T22:51:57Z","archived":false,"owner":{"login":"FinNLP","name":"fin","type":"Organization","url":"https://github.com/FinNLP","location":"Iraq, Mosul","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "691997585668a163",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "2f1ce522c709a6cf",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

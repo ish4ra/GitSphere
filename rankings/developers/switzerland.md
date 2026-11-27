@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/mafintosh"><img src="https://avatars.githubusercontent.com/u/376661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mafintosh"><b>Mathias Buus</b></a><br><sub>&#64;mafintosh</sub></td>
-<td align="right"><b>6,397</b></td>
+<td align="right"><b>6,401</b></td>
 <td align="right">936</td>
 <td><sub>Switzerland</sub></td>
 </tr>
@@ -101,14 +101,14 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/antonmedv"><img src="https://avatars.githubusercontent.com/u/141232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antonmedv"><b>Anton Medvedev</b></a><br><sub>&#64;antonmedv</sub></td>
-<td align="right"><b>3,230</b></td>
+<td align="right"><b>3,228</b></td>
 <td align="right">71</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/WerWolv"><img src="https://avatars.githubusercontent.com/u/10835354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WerWolv"><b>Nik</b></a><br><sub>&#64;WerWolv</sub></td>
-<td align="right"><b>3,201</b></td>
+<td align="right"><b>3,202</b></td>
 <td align="right">135</td>
 <td><sub>Switzerland</sub></td>
 </tr>
@@ -451,7 +451,7 @@
 <tr>
 <td align="right">62</td>
 <td><a href="https://github.com/ertdfgcvb"><img src="https://avatars.githubusercontent.com/u/864073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ertdfgcvb"><b>Andreas Gysin</b></a><br><sub>&#64;ertdfgcvb</sub></td>
-<td align="right"><b>915</b></td>
+<td align="right"><b>913</b></td>
 <td align="right">17</td>
 <td><sub>Lugano</sub></td>
 </tr>
@@ -541,17 +541,17 @@
 </tr>
 <tr>
 <td align="right">75</td>
-<td><a href="https://github.com/hmarr"><img src="https://avatars.githubusercontent.com/u/110275?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hmarr"><b>Harry Marr</b></a><br><sub>&#64;hmarr</sub></td>
-<td align="right"><b>781</b></td>
-<td align="right">91</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">76</td>
 <td><a href="https://github.com/simonaco"><img src="https://avatars.githubusercontent.com/u/1573904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simonaco"><b>Simona Cotin</b></a><br><sub>&#64;simonaco</sub></td>
 <td align="right"><b>780</b></td>
 <td align="right">295</td>
 <td><sub>Zurich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><a href="https://github.com/hmarr"><img src="https://avatars.githubusercontent.com/u/110275?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hmarr"><b>Harry Marr</b></a><br><sub>&#64;hmarr</sub></td>
+<td align="right"><b>780</b></td>
+<td align="right">91</td>
+<td><sub>Switzerland</sub></td>
 </tr>
 <tr>
 <td align="right">77</td>
@@ -584,7 +584,7 @@
 <tr>
 <td align="right">81</td>
 <td><a href="https://github.com/FabianGosebrink"><img src="https://avatars.githubusercontent.com/u/11268349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FabianGosebrink"><b>Fabian Gosebrink</b></a><br><sub>&#64;FabianGosebrink</sub></td>
-<td align="right"><b>747</b></td>
+<td align="right"><b>748</b></td>
 <td align="right">133</td>
 <td><sub>Switzerland</sub></td>
 </tr>
@@ -927,7 +927,7 @@
 <tr>
 <td align="right">130</td>
 <td><a href="https://github.com/klmr"><img src="https://avatars.githubusercontent.com/u/38931?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/klmr"><b>Konrad Rudolph</b></a><br><sub>&#64;klmr</sub></td>
-<td align="right"><b>514</b></td>
+<td align="right"><b>513</b></td>
 <td align="right">120</td>
 <td><sub>Basel, CH</sub></td>
 </tr>
@@ -969,7 +969,7 @@
 <tr>
 <td align="right">136</td>
 <td><a href="https://github.com/eregon"><img src="https://avatars.githubusercontent.com/u/168854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eregon"><b>Benoit Daloze</b></a><br><sub>&#64;eregon</sub></td>
-<td align="right"><b>498</b></td>
+<td align="right"><b>497</b></td>
 <td align="right">317</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
@@ -1802,7 +1802,7 @@
 <tr>
 <td align="right">255</td>
 <td><a href="https://github.com/simonepri"><img src="https://avatars.githubusercontent.com/u/3505087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simonepri"><b>Simone Primarosa</b></a><br><sub>&#64;simonepri</sub></td>
-<td align="right"><b>304</b></td>
+<td align="right"><b>303</b></td>
 <td align="right">155</td>
 <td><sub>Zurich, Switzerland.</sub></td>
 </tr>
@@ -1899,17 +1899,17 @@
 </tr>
 <tr>
 <td align="right">269</td>
-<td><a href="https://github.com/pelle"><img src="https://avatars.githubusercontent.com/u/8680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pelle"><b>Pelle Braendgaard</b></a><br><sub>&#64;pelle</sub></td>
-<td align="right"><b>285</b></td>
-<td align="right">124</td>
-<td><sub>Zug, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">270</td>
 <td><a href="https://github.com/v7b1"><img src="https://avatars.githubusercontent.com/u/13332073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/v7b1"><b>vboehm</b></a><br><sub>&#64;v7b1</sub></td>
 <td align="right"><b>285</b></td>
 <td align="right">19</td>
 <td><sub>Basel, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">270</td>
+<td><a href="https://github.com/pelle"><img src="https://avatars.githubusercontent.com/u/8680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pelle"><b>Pelle Braendgaard</b></a><br><sub>&#64;pelle</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">124</td>
+<td><sub>Zug, Switzerland</sub></td>
 </tr>
 <tr>
 <td align="right">271</td>
@@ -2305,24 +2305,24 @@
 </tr>
 <tr>
 <td align="right">327</td>
+<td><a href="https://github.com/pooya-mohammadi"><img src="https://avatars.githubusercontent.com/u/55460936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pooya-mohammadi"><b>Pooya Mohammadi Kazaj</b></a><br><sub>&#64;pooya-mohammadi</sub></td>
+<td align="right"><b>239</b></td>
+<td align="right">182</td>
+<td><sub>Bern, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">328</td>
 <td><a href="https://github.com/cmutel"><img src="https://avatars.githubusercontent.com/u/645217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cmutel"><b>Chris Mutel</b></a><br><sub>&#64;cmutel</sub></td>
 <td align="right"><b>239</b></td>
 <td align="right">90</td>
 <td><sub>Riniken, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">328</td>
+<td align="right">329</td>
 <td><a href="https://github.com/lionaneesh"><img src="https://avatars.githubusercontent.com/u/1305901?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lionaneesh"><b>Aneesh Dogra</b></a><br><sub>&#64;lionaneesh</sub></td>
 <td align="right"><b>239</b></td>
 <td align="right">66</td>
 <td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">329</td>
-<td><a href="https://github.com/pooya-mohammadi"><img src="https://avatars.githubusercontent.com/u/55460936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pooya-mohammadi"><b>Pooya Mohammadi Kazaj</b></a><br><sub>&#64;pooya-mohammadi</sub></td>
-<td align="right"><b>238</b></td>
-<td align="right">182</td>
-<td><sub>Bern, Switzerland</sub></td>
 </tr>
 <tr>
 <td align="right">330</td>
@@ -5070,1956 +5070,1956 @@
 </tr>
 <tr>
 <td align="right">722</td>
+<td><a href="https://github.com/marcruef"><img src="https://avatars.githubusercontent.com/u/9268866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcruef"><b>Marc Ruef</b></a><br><sub>&#64;marcruef</sub></td>
+<td align="right"><b>121</b></td>
+<td align="right">15</td>
+<td><sub>Zürich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">723</td>
 <td><a href="https://github.com/ChenhongyiYang"><img src="https://avatars.githubusercontent.com/u/45643360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChenhongyiYang"><b>Chenhongyi Yang</b></a><br><sub>&#64;ChenhongyiYang</sub></td>
 <td align="right"><b>121</b></td>
 <td align="right">14</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">723</td>
-<td><a href="https://github.com/aloistr"><img src="https://avatars.githubusercontent.com/u/18054955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aloistr"><b>Alois Treindl</b></a><br><sub>&#64;aloistr</sub></td>
-<td align="right"><b>120</b></td>
-<td align="right">0</td>
-<td><sub>Zollikon, Switzerland</sub></td>
-</tr>
-<tr>
 <td align="right">724</td>
-<td><a href="https://github.com/nicoboss"><img src="https://avatars.githubusercontent.com/u/623410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicoboss"><b>Nico Bosshard</b></a><br><sub>&#64;nicoboss</sub></td>
+<td><a href="https://github.com/neophob"><img src="https://avatars.githubusercontent.com/u/837347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neophob"><b>Michael Vogt</b></a><br><sub>&#64;neophob</sub></td>
 <td align="right"><b>120</b></td>
-<td align="right">0</td>
-<td><sub>Switzerland</sub></td>
+<td align="right">147</td>
+<td><sub>Bern, Switzerland</sub></td>
 </tr>
 <tr>
 <td align="right">725</td>
-<td><a href="https://github.com/gmickel"><img src="https://avatars.githubusercontent.com/u/139907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gmickel"><b>Gordon Mickel</b></a><br><sub>&#64;gmickel</sub></td>
-<td align="right"><b>119</b></td>
-<td align="right">0</td>
-<td><sub>Basel, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">726</td>
-<td><a href="https://github.com/objecthub"><img src="https://avatars.githubusercontent.com/u/6752200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/objecthub"><b>Matthias Zenger</b></a><br><sub>&#64;objecthub</sub></td>
-<td align="right"><b>119</b></td>
-<td align="right">0</td>
-<td><sub>Zurich, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">727</td>
-<td><a href="https://github.com/OpenCoreCH"><img src="https://avatars.githubusercontent.com/u/11048416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OpenCoreCH"><b>Roman Böhringer</b></a><br><sub>&#64;OpenCoreCH</sub></td>
-<td align="right"><b>118</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/JonasVautherin"><img src="https://avatars.githubusercontent.com/u/2606672?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JonasVautherin"><b>Jonas Vautherin</b></a><br><sub>&#64;JonasVautherin</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">58</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
+<td align="right">726</td>
+<td><a href="https://github.com/nicoboss"><img src="https://avatars.githubusercontent.com/u/623410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicoboss"><b>Nico Bosshard</b></a><br><sub>&#64;nicoboss</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">40</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">727</td>
+<td><a href="https://github.com/objecthub"><img src="https://avatars.githubusercontent.com/u/6752200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/objecthub"><b>Matthias Zenger</b></a><br><sub>&#64;objecthub</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">30</td>
+<td><sub>Zurich, Switzerland</sub></td>
+</tr>
+<tr>
 <td align="right">728</td>
-<td><a href="https://github.com/xrdevrob"><img src="https://avatars.githubusercontent.com/u/88709627?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xrdevrob"><b>Roberto Coviello</b></a><br><sub>&#64;xrdevrob</sub></td>
-<td align="right"><b>117</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/jsnell"><img src="https://avatars.githubusercontent.com/u/608702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jsnell"><b>Juho Snellman</b></a><br><sub>&#64;jsnell</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">22</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
 <td align="right">729</td>
+<td><a href="https://github.com/franciscozorrilla"><img src="https://avatars.githubusercontent.com/u/35606471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/franciscozorrilla"><b>Francisco Zorrilla</b></a><br><sub>&#64;franciscozorrilla</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">19</td>
+<td><sub>Zürich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">730</td>
+<td><a href="https://github.com/KeanW"><img src="https://avatars.githubusercontent.com/u/1823774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KeanW"><b>Kean Walmsley</b></a><br><sub>&#64;KeanW</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">18</td>
+<td><sub>Neuchatel, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">731</td>
+<td><a href="https://github.com/aloistr"><img src="https://avatars.githubusercontent.com/u/18054955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aloistr"><b>Alois Treindl</b></a><br><sub>&#64;aloistr</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">4</td>
+<td><sub>Zollikon, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">732</td>
+<td><a href="https://github.com/0xquark"><img src="https://avatars.githubusercontent.com/u/84588720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xquark"><b>Karanjot Singh</b></a><br><sub>&#64;0xquark</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">121</td>
+<td><sub>Geneva, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">733</td>
+<td><a href="https://github.com/m-albert"><img src="https://avatars.githubusercontent.com/u/12528388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m-albert"><b>Marvin Albert</b></a><br><sub>&#64;m-albert</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">72</td>
+<td><sub>Basel, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">734</td>
+<td><a href="https://github.com/gmickel"><img src="https://avatars.githubusercontent.com/u/139907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gmickel"><b>Gordon Mickel</b></a><br><sub>&#64;gmickel</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">68</td>
+<td><sub>Basel, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">735</td>
+<td><a href="https://github.com/AnomalRoil"><img src="https://avatars.githubusercontent.com/u/10077203?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnomalRoil"><b>AnomalRoil</b></a><br><sub>&#64;AnomalRoil</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">44</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">736</td>
+<td><a href="https://github.com/dosomder"><img src="https://avatars.githubusercontent.com/u/3040570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dosomder"><b>dosomder</b></a><br><sub>&#64;dosomder</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">28</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">737</td>
+<td><a href="https://github.com/digitalentity"><img src="https://avatars.githubusercontent.com/u/11059099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/digitalentity"><b>Konstantin Sharlaimov</b></a><br><sub>&#64;digitalentity</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">25</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">738</td>
+<td><a href="https://github.com/Garfield-fr"><img src="https://avatars.githubusercontent.com/u/48578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Garfield-fr"><b>Bertrand Zuchuat</b></a><br><sub>&#64;Garfield-fr</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">16</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">739</td>
+<td><a href="https://github.com/okkdev"><img src="https://avatars.githubusercontent.com/u/20144629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/okkdev"><b>Jen Stehlik</b></a><br><sub>&#64;okkdev</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">109</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">740</td>
+<td><a href="https://github.com/adirochs"><img src="https://avatars.githubusercontent.com/u/6239971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adirochs"><b>Adrian Matei</b></a><br><sub>&#64;adirochs</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">74</td>
+<td><sub>Bern, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">741</td>
+<td><a href="https://github.com/PhilippSalvisberg"><img src="https://avatars.githubusercontent.com/u/3883171?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PhilippSalvisberg"><b>Philipp Salvisberg</b></a><br><sub>&#64;PhilippSalvisberg</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">60</td>
+<td><sub>Winterthur, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">742</td>
+<td><a href="https://github.com/OpenCoreCH"><img src="https://avatars.githubusercontent.com/u/11048416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OpenCoreCH"><b>Roman Böhringer</b></a><br><sub>&#64;OpenCoreCH</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">40</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">743</td>
+<td><a href="https://github.com/AndreasFMueller"><img src="https://avatars.githubusercontent.com/u/2694086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndreasFMueller"><b>Andreas Müller</b></a><br><sub>&#64;AndreasFMueller</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">33</td>
+<td><sub>Rapperswil</sub></td>
+</tr>
+<tr>
+<td align="right">744</td>
+<td><a href="https://github.com/eboda"><img src="https://avatars.githubusercontent.com/u/7904232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eboda"><b>Edgar Mayer</b></a><br><sub>&#64;eboda</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">16</td>
+<td><sub>Lausanne, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">745</td>
+<td><a href="https://github.com/gcmalloc"><img src="https://avatars.githubusercontent.com/u/184983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gcmalloc"><b>Malik Bougacha</b></a><br><sub>&#64;gcmalloc</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">142</td>
+<td><sub>Lausanne, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">746</td>
+<td><a href="https://github.com/tinix84"><img src="https://avatars.githubusercontent.com/u/16301528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tinix84"><b>Riccardo Tinivella</b></a><br><sub>&#64;tinix84</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">134</td>
+<td><sub>Buchs, SG</sub></td>
+</tr>
+<tr>
+<td align="right">747</td>
+<td><a href="https://github.com/Nibba2018"><img src="https://avatars.githubusercontent.com/u/29832615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nibba2018"><b>Soham Biswas</b></a><br><sub>&#64;Nibba2018</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">80</td>
+<td><sub>Geneva, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">748</td>
+<td><a href="https://github.com/chenguokai"><img src="https://avatars.githubusercontent.com/u/11240171?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chenguokai"><b>Xim</b></a><br><sub>&#64;chenguokai</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">70</td>
+<td><sub>Lausanne</sub></td>
+</tr>
+<tr>
+<td align="right">749</td>
+<td><a href="https://github.com/stakx"><img src="https://avatars.githubusercontent.com/u/104481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stakx"><b>Dominique Schuppli</b></a><br><sub>&#64;stakx</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">69</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">750</td>
+<td><a href="https://github.com/etienne-napoleone"><img src="https://avatars.githubusercontent.com/u/26155267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/etienne-napoleone"><b>Etienne Napoleone</b></a><br><sub>&#64;etienne-napoleone</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">46</td>
+<td><sub>Lausanne</sub></td>
+</tr>
+<tr>
+<td align="right">751</td>
+<td><a href="https://github.com/JumpiiX"><img src="https://avatars.githubusercontent.com/u/131596117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JumpiiX"><b>David Unterguggenberger</b></a><br><sub>&#64;JumpiiX</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">31</td>
+<td><sub>Zurich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">752</td>
+<td><a href="https://github.com/xrdevrob"><img src="https://avatars.githubusercontent.com/u/88709627?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xrdevrob"><b>Roberto Coviello</b></a><br><sub>&#64;xrdevrob</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">8</td>
+<td><sub>Zurich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">753</td>
+<td><a href="https://github.com/paulgessinger"><img src="https://avatars.githubusercontent.com/u/1058585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paulgessinger"><b>Paul Gessinger</b></a><br><sub>&#64;paulgessinger</sub></td>
+<td align="right"><b>116</b></td>
+<td align="right">137</td>
+<td><sub>Geneva, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">754</td>
+<td><a href="https://github.com/davidoort"><img src="https://avatars.githubusercontent.com/u/21220927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidoort"><b>David Oort Alonso</b></a><br><sub>&#64;davidoort</sub></td>
+<td align="right"><b>116</b></td>
+<td align="right">44</td>
+<td><sub>Zurich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">755</td>
+<td><a href="https://github.com/ischlag"><img src="https://avatars.githubusercontent.com/u/7107156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ischlag"><b>Imanol Schlag</b></a><br><sub>&#64;ischlag</sub></td>
+<td align="right"><b>116</b></td>
+<td align="right">25</td>
+<td><sub>Lugano</sub></td>
+</tr>
+<tr>
+<td align="right">756</td>
+<td><a href="https://github.com/VincentStimper"><img src="https://avatars.githubusercontent.com/u/23174118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VincentStimper"><b>Vincent Stimper</b></a><br><sub>&#64;VincentStimper</sub></td>
+<td align="right"><b>116</b></td>
+<td align="right">22</td>
+<td><sub>Lausanne, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">757</td>
+<td><a href="https://github.com/kward"><img src="https://avatars.githubusercontent.com/u/116626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kward"><b>Kate Ward</b></a><br><sub>&#64;kward</sub></td>
+<td align="right"><b>116</b></td>
+<td align="right">12</td>
+<td><sub>Zürich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">758</td>
 <td><a href="https://github.com/greduan"><img src="https://avatars.githubusercontent.com/u/2314074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/greduan"><b>Eduardo Lavaque</b></a><br><sub>&#64;greduan</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">730</td>
-<td><a href="https://github.com/kward"><img src="https://avatars.githubusercontent.com/u/116626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kward"><b>Kate Ward</b></a><br><sub>&#64;kward</sub></td>
-<td align="right"><b>116</b></td>
-<td align="right">0</td>
-<td><sub>Zürich, Switzerland</sub></td>
+<td align="right">759</td>
+<td><a href="https://github.com/raducotescu"><img src="https://avatars.githubusercontent.com/u/170911?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raducotescu"><b>Radu Cotescu</b></a><br><sub>&#64;raducotescu</sub></td>
+<td align="right"><b>115</b></td>
+<td align="right">42</td>
+<td><sub>Basel, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">731</td>
-<td><a href="https://github.com/paulgessinger"><img src="https://avatars.githubusercontent.com/u/1058585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paulgessinger"><b>Paul Gessinger</b></a><br><sub>&#64;paulgessinger</sub></td>
-<td align="right"><b>116</b></td>
-<td align="right">0</td>
-<td><sub>Geneva, Switzerland</sub></td>
+<td align="right">760</td>
+<td><a href="https://github.com/picnixz"><img src="https://avatars.githubusercontent.com/u/10796600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/picnixz"><b>Bénédikt Tran</b></a><br><sub>&#64;picnixz</sub></td>
+<td align="right"><b>115</b></td>
+<td align="right">15</td>
+<td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">732</td>
-<td><a href="https://github.com/VincentStimper"><img src="https://avatars.githubusercontent.com/u/23174118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VincentStimper"><b>Vincent Stimper</b></a><br><sub>&#64;VincentStimper</sub></td>
-<td align="right"><b>116</b></td>
-<td align="right">0</td>
-<td><sub>Lausanne, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">733</td>
+<td align="right">761</td>
 <td><a href="https://github.com/NMAC427"><img src="https://avatars.githubusercontent.com/u/9914734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NMAC427"><b>Nicolas Camenisch</b></a><br><sub>&#64;NMAC427</sub></td>
 <td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>AG, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">734</td>
+<td align="right">762</td>
 <td><a href="https://github.com/etiennestuder"><img src="https://avatars.githubusercontent.com/u/231070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/etiennestuder"><b>Etienne Studer</b></a><br><sub>&#64;etiennestuder</sub></td>
 <td align="right"><b>113</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">735</td>
+<td align="right">763</td>
 <td><a href="https://github.com/Wookai"><img src="https://avatars.githubusercontent.com/u/141379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wookai"><b>Vincent Etter</b></a><br><sub>&#64;Wookai</sub></td>
 <td align="right"><b>112</b></td>
 <td align="right">0</td>
 <td><sub>Vuadens, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">736</td>
+<td align="right">764</td>
 <td><a href="https://github.com/lorenwel"><img src="https://avatars.githubusercontent.com/u/5803027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lorenwel"><b>Lorenz Wellhausen</b></a><br><sub>&#64;lorenwel</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">737</td>
+<td align="right">765</td>
 <td><a href="https://github.com/thomasgalliker"><img src="https://avatars.githubusercontent.com/u/10376364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thomasgalliker"><b>Thomas Galliker</b></a><br><sub>&#64;thomasgalliker</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Cham, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">738</td>
+<td align="right">766</td>
 <td><a href="https://github.com/ChristopheJacquet"><img src="https://avatars.githubusercontent.com/u/3521368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChristopheJacquet"><b>Christophe Jacquet</b></a><br><sub>&#64;ChristopheJacquet</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">739</td>
+<td align="right">767</td>
 <td><a href="https://github.com/JamesMenetrey"><img src="https://avatars.githubusercontent.com/u/2522427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JamesMenetrey"><b>Jämes Ménétrey</b></a><br><sub>&#64;JamesMenetrey</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">740</td>
+<td align="right">768</td>
 <td><a href="https://github.com/manuelbl"><img src="https://avatars.githubusercontent.com/u/10954524?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manuelbl"><b>Manuel Bl.</b></a><br><sub>&#64;manuelbl</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">741</td>
+<td align="right">769</td>
 <td><a href="https://github.com/filippofinke"><img src="https://avatars.githubusercontent.com/u/37296364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filippofinke"><b>Filippo Finke</b></a><br><sub>&#64;filippofinke</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">742</td>
+<td align="right">770</td>
 <td><a href="https://github.com/shivamMg"><img src="https://avatars.githubusercontent.com/u/7882752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shivamMg"><b>shivam mamgain</b></a><br><sub>&#64;shivamMg</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">0</td>
 <td><sub>/root</sub></td>
 </tr>
 <tr>
-<td align="right">743</td>
+<td align="right">771</td>
 <td><a href="https://github.com/nschaetti"><img src="https://avatars.githubusercontent.com/u/19292875?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nschaetti"><b>the.artificialis</b></a><br><sub>&#64;nschaetti</sub></td>
 <td align="right"><b>105</b></td>
 <td align="right">0</td>
 <td><sub>Nyon, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">744</td>
+<td align="right">772</td>
 <td><a href="https://github.com/definelicht"><img src="https://avatars.githubusercontent.com/u/2845320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/definelicht"><b>Johannes de Fine Licht</b></a><br><sub>&#64;definelicht</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">745</td>
+<td align="right">773</td>
 <td><a href="https://github.com/jiaxi-jiang"><img src="https://avatars.githubusercontent.com/u/26936848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jiaxi-jiang"><b>Jiaxi Jiang</b></a><br><sub>&#64;jiaxi-jiang</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">746</td>
+<td align="right">774</td>
 <td><a href="https://github.com/Phlya"><img src="https://avatars.githubusercontent.com/u/2895034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Phlya"><b>Ilya Flyamer</b></a><br><sub>&#64;Phlya</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Basel, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">747</td>
+<td align="right">775</td>
 <td><a href="https://github.com/tdegeus"><img src="https://avatars.githubusercontent.com/u/7030445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tdegeus"><b>Tom de Geus</b></a><br><sub>&#64;tdegeus</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">748</td>
+<td align="right">776</td>
 <td><a href="https://github.com/lquesada"><img src="https://avatars.githubusercontent.com/u/4499933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lquesada"><b>Luis Quesada</b></a><br><sub>&#64;lquesada</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">749</td>
+<td align="right">777</td>
 <td><a href="https://github.com/mvisonneau"><img src="https://avatars.githubusercontent.com/u/1761583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvisonneau"><b>Maxime V.</b></a><br><sub>&#64;mvisonneau</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">750</td>
+<td align="right">778</td>
 <td><a href="https://github.com/slazyk"><img src="https://avatars.githubusercontent.com/u/441332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slazyk"><b>Leszek Ślażyński</b></a><br><sub>&#64;slazyk</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">751</td>
+<td align="right">779</td>
 <td><a href="https://github.com/Tontonjo"><img src="https://avatars.githubusercontent.com/u/60965766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tontonjo"><b>Tonton Jo</b></a><br><sub>&#64;Tontonjo</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">752</td>
+<td align="right">780</td>
 <td><a href="https://github.com/EPMatt"><img src="https://avatars.githubusercontent.com/u/30753195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EPMatt"><b>Matteo Agnoletto</b></a><br><sub>&#64;EPMatt</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">753</td>
+<td align="right">781</td>
 <td><a href="https://github.com/sgxgsx"><img src="https://avatars.githubusercontent.com/u/33176446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sgxgsx"><b>sgxgsx</b></a><br><sub>&#64;sgxgsx</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">754</td>
+<td align="right">782</td>
 <td><a href="https://github.com/JamesClonk"><img src="https://avatars.githubusercontent.com/u/3172084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JamesClonk"><b>Fabio Berchtold</b></a><br><sub>&#64;JamesClonk</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">755</td>
+<td align="right">783</td>
 <td><a href="https://github.com/Waboodoo"><img src="https://avatars.githubusercontent.com/u/2445563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Waboodoo"><b>Roland Meyer</b></a><br><sub>&#64;Waboodoo</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">756</td>
+<td align="right">784</td>
 <td><a href="https://github.com/MohamedElashri"><img src="https://avatars.githubusercontent.com/u/25898984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohamedElashri"><b>Mohamed Elashri</b></a><br><sub>&#64;MohamedElashri</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">757</td>
+<td align="right">785</td>
 <td><a href="https://github.com/leeroybrun"><img src="https://avatars.githubusercontent.com/u/1729528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leeroybrun"><b>Leeroy Brun</b></a><br><sub>&#64;leeroybrun</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne (Switzerland)</sub></td>
 </tr>
 <tr>
-<td align="right">758</td>
+<td align="right">786</td>
 <td><a href="https://github.com/RadLikeWhoa"><img src="https://avatars.githubusercontent.com/u/1138459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RadLikeWhoa"><b>Sacha Schmid</b></a><br><sub>&#64;RadLikeWhoa</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">759</td>
+<td align="right">787</td>
 <td><a href="https://github.com/arneschneuing"><img src="https://avatars.githubusercontent.com/u/57236970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arneschneuing"><b>Arne Schneuing</b></a><br><sub>&#64;arneschneuing</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">760</td>
+<td align="right">788</td>
 <td><a href="https://github.com/mandulaj"><img src="https://avatars.githubusercontent.com/u/3600920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mandulaj"><b>Jakub Mandula</b></a><br><sub>&#64;mandulaj</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, CH</sub></td>
 </tr>
 <tr>
-<td align="right">761</td>
+<td align="right">789</td>
 <td><a href="https://github.com/ibizaman"><img src="https://avatars.githubusercontent.com/u/1044950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibizaman"><b>Pierre Penninckx</b></a><br><sub>&#64;ibizaman</sub></td>
 <td align="right"><b>94</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">762</td>
+<td align="right">790</td>
 <td><a href="https://github.com/jeffallen"><img src="https://avatars.githubusercontent.com/u/1131456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeffallen"><b>Jeff Allen</b></a><br><sub>&#64;jeffallen</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">763</td>
+<td align="right">791</td>
 <td><a href="https://github.com/rorist"><img src="https://avatars.githubusercontent.com/u/101063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rorist"><b>Aubort Jean-Baptiste</b></a><br><sub>&#64;rorist</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne</sub></td>
 </tr>
 <tr>
-<td align="right">764</td>
+<td align="right">792</td>
 <td><a href="https://github.com/tuna-f1sh"><img src="https://avatars.githubusercontent.com/u/1886746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tuna-f1sh"><b>John Whittington</b></a><br><sub>&#64;tuna-f1sh</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Zug, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">765</td>
+<td align="right">793</td>
+<td><a href="https://github.com/juliand665"><img src="https://avatars.githubusercontent.com/u/827762?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juliand665"><b>Julian Dunskus</b></a><br><sub>&#64;juliand665</sub></td>
+<td align="right"><b>91</b></td>
+<td align="right">0</td>
+<td><sub>Zurich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">794</td>
 <td><a href="https://github.com/kschiess"><img src="https://avatars.githubusercontent.com/u/2991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kschiess"><b>Kaspar Schiess</b></a><br><sub>&#64;kschiess</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Bern, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">766</td>
+<td align="right">795</td>
 <td><a href="https://github.com/noelboss"><img src="https://avatars.githubusercontent.com/u/114080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noelboss"><b>noelboss</b></a><br><sub>&#64;noelboss</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">767</td>
+<td align="right">796</td>
 <td><a href="https://github.com/xajkep"><img src="https://avatars.githubusercontent.com/u/5421344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xajkep"><b>xajkep</b></a><br><sub>&#64;xajkep</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">768</td>
+<td align="right">797</td>
+<td><a href="https://github.com/XieGuochao"><img src="https://avatars.githubusercontent.com/u/35591503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/XieGuochao"><b>Guochao Xie</b></a><br><sub>&#64;XieGuochao</sub></td>
+<td align="right"><b>90</b></td>
+<td align="right">0</td>
+<td><sub>Zürich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">798</td>
 <td><a href="https://github.com/Developer-Mike"><img src="https://avatars.githubusercontent.com/u/52970344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Developer-Mike"><b>mika.dev</b></a><br><sub>&#64;Developer-Mike</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">769</td>
+<td align="right">799</td>
 <td><a href="https://github.com/fabsig"><img src="https://avatars.githubusercontent.com/u/32902180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fabsig"><b>Fabio Sigrist</b></a><br><sub>&#64;fabsig</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">770</td>
+<td align="right">800</td>
 <td><a href="https://github.com/amsokol"><img src="https://avatars.githubusercontent.com/u/3753540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amsokol"><b>Aleksandr Sokolovskii</b></a><br><sub>&#64;amsokol</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>St. Gallen, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">771</td>
+<td align="right">801</td>
 <td><a href="https://github.com/limpkin"><img src="https://avatars.githubusercontent.com/u/6170291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/limpkin"><b>Mathieu</b></a><br><sub>&#64;limpkin</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">772</td>
+<td align="right">802</td>
 <td><a href="https://github.com/lukebuehler"><img src="https://avatars.githubusercontent.com/u/542828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukebuehler"><b>Lukas Bühler</b></a><br><sub>&#64;lukebuehler</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">773</td>
+<td align="right">803</td>
 <td><a href="https://github.com/uwolfer"><img src="https://avatars.githubusercontent.com/u/2202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uwolfer"><b>Urs Wolfer</b></a><br><sub>&#64;uwolfer</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">774</td>
+<td align="right">804</td>
 <td><a href="https://github.com/digitsensitive"><img src="https://avatars.githubusercontent.com/u/9529840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/digitsensitive"><b>Eric</b></a><br><sub>&#64;digitsensitive</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">775</td>
+<td align="right">805</td>
 <td><a href="https://github.com/jeromevdl"><img src="https://avatars.githubusercontent.com/u/117538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeromevdl"><b>Jérôme Van Der Linden</b></a><br><sub>&#64;jeromevdl</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Geneva, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">776</td>
+<td align="right">806</td>
 <td><a href="https://github.com/w0lfzk1n"><img src="https://avatars.githubusercontent.com/u/110046682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/w0lfzk1n"><b>༺♛ᴡᷫᴏͤʟͣғͬᴢᴋͭɪͪɴͤᴅ♛༻</b></a><br><sub>&#64;w0lfzk1n</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">777</td>
+<td align="right">807</td>
 <td><a href="https://github.com/markiv"><img src="https://avatars.githubusercontent.com/u/55100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markiv"><b>Vikram Kriplaney</b></a><br><sub>&#64;markiv</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">778</td>
+<td align="right">808</td>
 <td><a href="https://github.com/marvinvr"><img src="https://avatars.githubusercontent.com/u/34551962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marvinvr"><b>Marvin von Rappard</b></a><br><sub>&#64;marvinvr</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Baden, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">779</td>
+<td align="right">809</td>
 <td><a href="https://github.com/AyrA"><img src="https://avatars.githubusercontent.com/u/1301960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AyrA"><b>AyrA</b></a><br><sub>&#64;AyrA</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">780</td>
+<td align="right">810</td>
 <td><a href="https://github.com/PaulPauls"><img src="https://avatars.githubusercontent.com/u/9610922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PaulPauls"><b>Paul Pauls</b></a><br><sub>&#64;PaulPauls</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">781</td>
+<td align="right">811</td>
 <td><a href="https://github.com/Adrianotiger"><img src="https://avatars.githubusercontent.com/u/7373079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adrianotiger"><b>Adriano</b></a><br><sub>&#64;Adrianotiger</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">782</td>
+<td align="right">812</td>
 <td><a href="https://github.com/zhejz"><img src="https://avatars.githubusercontent.com/u/29549650?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhejz"><b>Zhejun Zhang</b></a><br><sub>&#64;zhejz</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">783</td>
+<td align="right">813</td>
 <td><a href="https://github.com/dokterdok"><img src="https://avatars.githubusercontent.com/u/5354424?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dokterdok"><b>David Dudok de Wit</b></a><br><sub>&#64;dokterdok</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">784</td>
+<td align="right">814</td>
 <td><a href="https://github.com/Nikasa1889"><img src="https://avatars.githubusercontent.com/u/12717098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nikasa1889"><b>DANG HA THE HIEN</b></a><br><sub>&#64;Nikasa1889</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">785</td>
+<td align="right">815</td>
 <td><a href="https://github.com/Saibo-creator"><img src="https://avatars.githubusercontent.com/u/53392976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Saibo-creator"><b>Saibo-creator</b></a><br><sub>&#64;Saibo-creator</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">786</td>
+<td align="right">816</td>
 <td><a href="https://github.com/vkaelin"><img src="https://avatars.githubusercontent.com/u/33511688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vkaelin"><b>Valentin Kaelin</b></a><br><sub>&#64;vkaelin</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">787</td>
+<td align="right">817</td>
 <td><a href="https://github.com/valentinfrlch"><img src="https://avatars.githubusercontent.com/u/85313672?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/valentinfrlch"><b>Valentin Fröhlich</b></a><br><sub>&#64;valentinfrlch</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">788</td>
+<td align="right">818</td>
+<td><a href="https://github.com/x-way"><img src="https://avatars.githubusercontent.com/u/53128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/x-way"><b>Andreas Jaggi</b></a><br><sub>&#64;x-way</sub></td>
+<td align="right"><b>79</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">819</td>
 <td><a href="https://github.com/igashov"><img src="https://avatars.githubusercontent.com/u/19591226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/igashov"><b>Ilia Igashov</b></a><br><sub>&#64;igashov</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne</sub></td>
 </tr>
 <tr>
-<td align="right">789</td>
+<td align="right">820</td>
 <td><a href="https://github.com/msallin"><img src="https://avatars.githubusercontent.com/u/7792779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msallin"><b>Marc Sallin</b></a><br><sub>&#64;msallin</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Bern (CH)</sub></td>
 </tr>
 <tr>
-<td align="right">790</td>
+<td align="right">821</td>
+<td><a href="https://github.com/lrnzgiusti"><img src="https://avatars.githubusercontent.com/u/34248820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lrnzgiusti"><b>Lorenzo Giusti</b></a><br><sub>&#64;lrnzgiusti</sub></td>
+<td align="right"><b>77</b></td>
+<td align="right">0</td>
+<td><sub>Geneva, CH</sub></td>
+</tr>
+<tr>
+<td align="right">822</td>
 <td><a href="https://github.com/LukasBommes"><img src="https://avatars.githubusercontent.com/u/2178557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LukasBommes"><b>Lukas Bommes</b></a><br><sub>&#64;LukasBommes</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">791</td>
+<td align="right">823</td>
 <td><a href="https://github.com/platzhersh"><img src="https://avatars.githubusercontent.com/u/1445827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/platzhersh"><b>Chregi</b></a><br><sub>&#64;platzhersh</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">792</td>
+<td align="right">824</td>
 <td><a href="https://github.com/bfritscher"><img src="https://avatars.githubusercontent.com/u/338973?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bfritscher"><b>Boris Fritscher</b></a><br><sub>&#64;bfritscher</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">793</td>
+<td align="right">825</td>
 <td><a href="https://github.com/danielealbano"><img src="https://avatars.githubusercontent.com/u/861162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielealbano"><b>Daniele Salvatore Albano</b></a><br><sub>&#64;danielealbano</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">794</td>
+<td align="right">826</td>
 <td><a href="https://github.com/nidi3"><img src="https://avatars.githubusercontent.com/u/668297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nidi3"><b>Stefan Niederhauser</b></a><br><sub>&#64;nidi3</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Bern, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">795</td>
+<td align="right">827</td>
 <td><a href="https://github.com/nat-n"><img src="https://avatars.githubusercontent.com/u/880829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nat-n"><b>Nat Noordanus</b></a><br><sub>&#64;nat-n</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">796</td>
+<td align="right">828</td>
 <td><a href="https://github.com/hm21"><img src="https://avatars.githubusercontent.com/u/40503456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hm21"><b>Alex Frei</b></a><br><sub>&#64;hm21</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland, St.Gallen</sub></td>
 </tr>
 <tr>
-<td align="right">797</td>
+<td align="right">829</td>
 <td><a href="https://github.com/pberkes"><img src="https://avatars.githubusercontent.com/u/314633?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pberkes"><b>Pietro Berkes</b></a><br><sub>&#64;pberkes</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">798</td>
+<td align="right">830</td>
 <td><a href="https://github.com/shard77"><img src="https://avatars.githubusercontent.com/u/106669955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shard77"><b>shard</b></a><br><sub>&#64;shard77</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">799</td>
+<td align="right">831</td>
 <td><a href="https://github.com/underlines"><img src="https://avatars.githubusercontent.com/u/29367219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/underlines"><b>Jan Badertscher</b></a><br><sub>&#64;underlines</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">800</td>
+<td align="right">832</td>
 <td><a href="https://github.com/claudepache"><img src="https://avatars.githubusercontent.com/u/3309637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/claudepache"><b>Claude Pache</b></a><br><sub>&#64;claudepache</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">801</td>
+<td align="right">833</td>
 <td><a href="https://github.com/dluvizon"><img src="https://avatars.githubusercontent.com/u/579373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dluvizon"><b>Diogo C Luvizon</b></a><br><sub>&#64;dluvizon</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">802</td>
+<td align="right">834</td>
+<td><a href="https://github.com/edgarschnfld"><img src="https://avatars.githubusercontent.com/u/23336933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edgarschnfld"><b>Edgar Schönfeld</b></a><br><sub>&#64;edgarschnfld</sub></td>
+<td align="right"><b>68</b></td>
+<td align="right">0</td>
+<td><sub>Zürich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">835</td>
 <td><a href="https://github.com/MrWolfZ"><img src="https://avatars.githubusercontent.com/u/7452411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrWolfZ"><b>Jonathan Ziller</b></a><br><sub>&#64;MrWolfZ</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">803</td>
+<td align="right">836</td>
 <td><a href="https://github.com/samayo"><img src="https://avatars.githubusercontent.com/u/5304093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samayo"><b>Samson Daniel</b></a><br><sub>&#64;samayo</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">804</td>
+<td align="right">837</td>
 <td><a href="https://github.com/vincenzobaz"><img src="https://avatars.githubusercontent.com/u/6325220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vincenzobaz"><b>Vinz</b></a><br><sub>&#64;vincenzobaz</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne</sub></td>
 </tr>
 <tr>
-<td align="right">805</td>
+<td align="right">838</td>
 <td><a href="https://github.com/robstoll"><img src="https://avatars.githubusercontent.com/u/5557885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robstoll"><b>Robert Stoll</b></a><br><sub>&#64;robstoll</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">806</td>
+<td align="right">839</td>
 <td><a href="https://github.com/wernight"><img src="https://avatars.githubusercontent.com/u/145667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wernight"><b>Werner Beroux</b></a><br><sub>&#64;wernight</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">807</td>
+<td align="right">840</td>
 <td><a href="https://github.com/ariacom"><img src="https://avatars.githubusercontent.com/u/12451331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ariacom"><b>Seal Report</b></a><br><sub>&#64;ariacom</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland, Geneva</sub></td>
 </tr>
 <tr>
-<td align="right">808</td>
+<td align="right">841</td>
 <td><a href="https://github.com/Dan6erbond"><img src="https://avatars.githubusercontent.com/u/32235074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dan6erbond"><b>RaviAnand Mohabir</b></a><br><sub>&#64;Dan6erbond</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">809</td>
+<td align="right">842</td>
+<td><a href="https://github.com/eddex"><img src="https://avatars.githubusercontent.com/u/5302085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eddex"><b>Marco</b></a><br><sub>&#64;eddex</sub></td>
+<td align="right"><b>64</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">843</td>
 <td><a href="https://github.com/codingseb"><img src="https://avatars.githubusercontent.com/u/15038327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codingseb"><b>Coding Seb</b></a><br><sub>&#64;codingseb</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Suisse</sub></td>
 </tr>
 <tr>
-<td align="right">810</td>
+<td align="right">844</td>
 <td><a href="https://github.com/Crapworks"><img src="https://avatars.githubusercontent.com/u/1851528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Crapworks"><b>Christian</b></a><br><sub>&#64;Crapworks</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">811</td>
+<td align="right">845</td>
 <td><a href="https://github.com/cyrilgdn"><img src="https://avatars.githubusercontent.com/u/4532947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cyrilgdn"><b>Cyril Gaudin</b></a><br><sub>&#64;cyrilgdn</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">812</td>
+<td align="right">846</td>
 <td><a href="https://github.com/gskbyte"><img src="https://avatars.githubusercontent.com/u/1763948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gskbyte"><b>Jose Alcalá Correa</b></a><br><sub>&#64;gskbyte</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">813</td>
+<td align="right">847</td>
+<td><a href="https://github.com/damdoy"><img src="https://avatars.githubusercontent.com/u/11064332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damdoy"><b>Damien Doy</b></a><br><sub>&#64;damdoy</sub></td>
+<td align="right"><b>62</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">848</td>
+<td><a href="https://github.com/pegaltier"><img src="https://avatars.githubusercontent.com/u/2479323?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pegaltier"><b>Pierre-Edouard Galtier</b></a><br><sub>&#64;pegaltier</sub></td>
+<td align="right"><b>62</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">849</td>
 <td><a href="https://github.com/Yago"><img src="https://avatars.githubusercontent.com/u/2025924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yago"><b>Yann Gouffon</b></a><br><sub>&#64;Yago</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">814</td>
+<td align="right">850</td>
 <td><a href="https://github.com/astrorigin"><img src="https://avatars.githubusercontent.com/u/315208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astrorigin"><b>Stanislas Marquis</b></a><br><sub>&#64;astrorigin</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">815</td>
+<td align="right">851</td>
 <td><a href="https://github.com/folbricht"><img src="https://avatars.githubusercontent.com/u/3505107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/folbricht"><b>Frank Olbricht</b></a><br><sub>&#64;folbricht</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">816</td>
+<td align="right">852</td>
 <td><a href="https://github.com/ivanjovanovic"><img src="https://avatars.githubusercontent.com/u/23173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivanjovanovic"><b>Ivan Jovanovic</b></a><br><sub>&#64;ivanjovanovic</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">817</td>
+<td align="right">853</td>
 <td><a href="https://github.com/markbeep"><img src="https://avatars.githubusercontent.com/u/20665331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markbeep"><b>Mark</b></a><br><sub>&#64;markbeep</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">818</td>
+<td align="right">854</td>
+<td><a href="https://github.com/rricharz"><img src="https://avatars.githubusercontent.com/u/18350635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rricharz"><b>Rene Richarz</b></a><br><sub>&#64;rricharz</sub></td>
+<td align="right"><b>61</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">855</td>
 <td><a href="https://github.com/tszdanger"><img src="https://avatars.githubusercontent.com/u/35394351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tszdanger"><b>skywf</b></a><br><sub>&#64;tszdanger</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>SWISS</sub></td>
 </tr>
 <tr>
-<td align="right">819</td>
+<td align="right">856</td>
 <td><a href="https://github.com/cherkavi"><img src="https://avatars.githubusercontent.com/u/8113355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cherkavi"><b>Vitali</b></a><br><sub>&#64;cherkavi</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">820</td>
+<td align="right">857</td>
 <td><a href="https://github.com/dlepaux"><img src="https://avatars.githubusercontent.com/u/3735879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dlepaux"><b>David Lepaux</b></a><br><sub>&#64;dlepaux</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Geneva, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">821</td>
+<td align="right">858</td>
 <td><a href="https://github.com/noahflk"><img src="https://avatars.githubusercontent.com/u/82475733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noahflk"><b>Noah</b></a><br><sub>&#64;noahflk</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">822</td>
+<td align="right">859</td>
 <td><a href="https://github.com/sttz"><img src="https://avatars.githubusercontent.com/u/173249?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sttz"><b>Adrian Stutz</b></a><br><sub>&#64;sttz</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">823</td>
+<td align="right">860</td>
 <td><a href="https://github.com/brade31919"><img src="https://avatars.githubusercontent.com/u/13144700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brade31919"><b>Juan-Ting Lin</b></a><br><sub>&#64;brade31919</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">824</td>
+<td align="right">861</td>
 <td><a href="https://github.com/cl3m"><img src="https://avatars.githubusercontent.com/u/117552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cl3m"><b>Clément Beffa</b></a><br><sub>&#64;cl3m</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Geneva, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">825</td>
+<td align="right">862</td>
 <td><a href="https://github.com/Markfryazino"><img src="https://avatars.githubusercontent.com/u/40388075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Markfryazino"><b>Mark</b></a><br><sub>&#64;Markfryazino</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">826</td>
+<td align="right">863</td>
 <td><a href="https://github.com/sleinen"><img src="https://avatars.githubusercontent.com/u/32764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sleinen"><b>Simon Leinen</b></a><br><sub>&#64;sleinen</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">827</td>
+<td align="right">864</td>
 <td><a href="https://github.com/tatp22"><img src="https://avatars.githubusercontent.com/u/17035773?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tatp22"><b>Peter</b></a><br><sub>&#64;tatp22</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, CH</sub></td>
 </tr>
 <tr>
-<td align="right">828</td>
+<td align="right">865</td>
 <td><a href="https://github.com/khashashin"><img src="https://avatars.githubusercontent.com/u/17837758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khashashin"><b>khashashin</b></a><br><sub>&#64;khashashin</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">829</td>
+<td align="right">866</td>
 <td><a href="https://github.com/qqqlab"><img src="https://avatars.githubusercontent.com/u/46283638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qqqlab"><b>qqqlab</b></a><br><sub>&#64;qqqlab</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">830</td>
+<td align="right">867</td>
 <td><a href="https://github.com/sgan81"><img src="https://avatars.githubusercontent.com/u/32782680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sgan81"><b>Simon Gander</b></a><br><sub>&#64;sgan81</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">831</td>
+<td align="right">868</td>
 <td><a href="https://github.com/xmichelo"><img src="https://avatars.githubusercontent.com/u/1926756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xmichelo"><b>Xavier Michelon</b></a><br><sub>&#64;xmichelo</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Préverenges, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">832</td>
+<td align="right">869</td>
 <td><a href="https://github.com/hubsmoke"><img src="https://avatars.githubusercontent.com/u/278886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hubsmoke"><b>Sina Iman</b></a><br><sub>&#64;hubsmoke</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>Canton Schwyz, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">833</td>
+<td align="right">870</td>
 <td><a href="https://github.com/marmolejo"><img src="https://avatars.githubusercontent.com/u/232108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marmolejo"><b>Zeus Gómez Marmolejo</b></a><br><sub>&#64;marmolejo</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">834</td>
+<td align="right">871</td>
+<td><a href="https://github.com/myscience"><img src="https://avatars.githubusercontent.com/u/26123089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/myscience"><b>Paolo Muratore</b></a><br><sub>&#64;myscience</sub></td>
+<td align="right"><b>56</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">872</td>
 <td><a href="https://github.com/nuxodin"><img src="https://avatars.githubusercontent.com/u/16326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nuxodin"><b>Tobias Buschor</b></a><br><sub>&#64;nuxodin</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>St.Gallen, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">835</td>
+<td align="right">873</td>
 <td><a href="https://github.com/matteocorti"><img src="https://avatars.githubusercontent.com/u/6011536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matteocorti"><b>Matteo Corti</b></a><br><sub>&#64;matteocorti</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">836</td>
+<td align="right">874</td>
 <td><a href="https://github.com/Orlandster"><img src="https://avatars.githubusercontent.com/u/18451642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Orlandster"><b>Orlandster</b></a><br><sub>&#64;Orlandster</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">837</td>
+<td align="right">875</td>
 <td><a href="https://github.com/sbrunner"><img src="https://avatars.githubusercontent.com/u/353872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sbrunner"><b>Stéphane Brunner</b></a><br><sub>&#64;sbrunner</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne</sub></td>
 </tr>
 <tr>
-<td align="right">838</td>
+<td align="right">876</td>
 <td><a href="https://github.com/tech4bot"><img src="https://avatars.githubusercontent.com/u/12833717?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tech4bot"><b>Hack Around</b></a><br><sub>&#64;tech4bot</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">839</td>
+<td align="right">877</td>
 <td><a href="https://github.com/ctrox"><img src="https://avatars.githubusercontent.com/u/2719925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ctrox"><b>Cyrill Troxler</b></a><br><sub>&#64;ctrox</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">840</td>
+<td align="right">878</td>
 <td><a href="https://github.com/sprain"><img src="https://avatars.githubusercontent.com/u/260361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sprain"><b>Manuel Reinhard</b></a><br><sub>&#64;sprain</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Bern, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">841</td>
+<td align="right">879</td>
 <td><a href="https://github.com/upekkha"><img src="https://avatars.githubusercontent.com/u/203526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/upekkha"><b>Claude Becker</b></a><br><sub>&#64;upekkha</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland/Luxembourg</sub></td>
 </tr>
 <tr>
-<td align="right">842</td>
+<td align="right">880</td>
+<td><a href="https://github.com/mbolli"><img src="https://avatars.githubusercontent.com/u/722725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbolli"><b>Michael Bolli</b></a><br><sub>&#64;mbolli</sub></td>
+<td align="right"><b>52</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">881</td>
 <td><a href="https://github.com/shishkin"><img src="https://avatars.githubusercontent.com/u/124065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shishkin"><b>Sergey Shishkin</b></a><br><sub>&#64;shishkin</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">843</td>
+<td align="right">882</td>
 <td><a href="https://github.com/thomasduft"><img src="https://avatars.githubusercontent.com/u/11708066?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thomasduft"><b>Thomas Duft</b></a><br><sub>&#64;thomasduft</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">844</td>
+<td align="right">883</td>
 <td><a href="https://github.com/Kevinrob"><img src="https://avatars.githubusercontent.com/u/4509277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kevinrob"><b>Kevin Robatel</b></a><br><sub>&#64;Kevinrob</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">845</td>
+<td align="right">884</td>
 <td><a href="https://github.com/oOo0oOo"><img src="https://avatars.githubusercontent.com/u/2088854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oOo0oOo"><b>Oliver Dressler</b></a><br><sub>&#64;oOo0oOo</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">846</td>
+<td align="right">885</td>
 <td><a href="https://github.com/vschiavoni"><img src="https://avatars.githubusercontent.com/u/119208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vschiavoni"><b>Valerio Schiavoni</b></a><br><sub>&#64;vschiavoni</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Neuchatel, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">847</td>
+<td align="right">886</td>
 <td><a href="https://github.com/wmaurer"><img src="https://avatars.githubusercontent.com/u/2899448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wmaurer"><b>Wayne Maurer</b></a><br><sub>&#64;wmaurer</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Bern, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">848</td>
+<td align="right">887</td>
 <td><a href="https://github.com/bpatrik"><img src="https://avatars.githubusercontent.com/u/7512182?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bpatrik"><b>Patrik J. Braun</b></a><br><sub>&#64;bpatrik</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">849</td>
+<td align="right">888</td>
 <td><a href="https://github.com/MikeMeliz"><img src="https://avatars.githubusercontent.com/u/9204902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MikeMeliz"><b>Mike</b></a><br><sub>&#64;MikeMeliz</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Geneva, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">850</td>
+<td align="right">889</td>
 <td><a href="https://github.com/panmari"><img src="https://avatars.githubusercontent.com/u/719020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/panmari"><b>Panmari</b></a><br><sub>&#64;panmari</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">851</td>
+<td align="right">890</td>
 <td><a href="https://github.com/dfeich"><img src="https://avatars.githubusercontent.com/u/5095422?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dfeich"><b>Derek Feichtinger</b></a><br><sub>&#64;dfeich</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">852</td>
+<td align="right">891</td>
 <td><a href="https://github.com/mystic123"><img src="https://avatars.githubusercontent.com/u/6034261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mystic123"><b>Paweł Kapica</b></a><br><sub>&#64;mystic123</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">853</td>
+<td align="right">892</td>
 <td><a href="https://github.com/bbolli"><img src="https://avatars.githubusercontent.com/u/21444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bbolli"><b>Beat Bolli</b></a><br><sub>&#64;bbolli</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">854</td>
+<td align="right">893</td>
 <td><a href="https://github.com/eobermuhlner"><img src="https://avatars.githubusercontent.com/u/3158577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eobermuhlner"><b>Eric Obermühlner</b></a><br><sub>&#64;eobermuhlner</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">855</td>
+<td align="right">894</td>
 <td><a href="https://github.com/ikalchev"><img src="https://avatars.githubusercontent.com/u/25887324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ikalchev"><b>Ivan Kalchev</b></a><br><sub>&#64;ikalchev</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">856</td>
+<td align="right">895</td>
 <td><a href="https://github.com/a-schild"><img src="https://avatars.githubusercontent.com/u/1441009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a-schild"><b>André Schild</b></a><br><sub>&#64;a-schild</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Nidau / Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">857</td>
+<td align="right">896</td>
 <td><a href="https://github.com/ChrispyBacon-dev"><img src="https://avatars.githubusercontent.com/u/175474883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChrispyBacon-dev"><b>Chris</b></a><br><sub>&#64;ChrispyBacon-dev</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">858</td>
+<td align="right">897</td>
 <td><a href="https://github.com/FreeApophis"><img src="https://avatars.githubusercontent.com/u/110912?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FreeApophis"><b>Thomas</b></a><br><sub>&#64;FreeApophis</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">859</td>
+<td align="right">898</td>
 <td><a href="https://github.com/tuxu"><img src="https://avatars.githubusercontent.com/u/147847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tuxu"><b>Tino Wagner</b></a><br><sub>&#64;tuxu</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">860</td>
+<td align="right">899</td>
 <td><a href="https://github.com/alexeichhorn"><img src="https://avatars.githubusercontent.com/u/10730702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexeichhorn"><b>Alexander Eichhorn</b></a><br><sub>&#64;alexeichhorn</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">861</td>
+<td align="right">900</td>
 <td><a href="https://github.com/coetaur0"><img src="https://avatars.githubusercontent.com/u/17785983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coetaur0"><b>Aurélien Coet</b></a><br><sub>&#64;coetaur0</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Geneva, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">862</td>
+<td align="right">901</td>
 <td><a href="https://github.com/spiritix"><img src="https://avatars.githubusercontent.com/u/2979494?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spiritix"><b>Matt</b></a><br><sub>&#64;spiritix</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">863</td>
+<td align="right">902</td>
+<td><a href="https://github.com/daviderestivo"><img src="https://avatars.githubusercontent.com/u/16867449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daviderestivo"><b>Davide Restivo</b></a><br><sub>&#64;daviderestivo</sub></td>
+<td align="right"><b>42</b></td>
+<td align="right">0</td>
+<td><sub>Aarau, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">903</td>
 <td><a href="https://github.com/leonvogt"><img src="https://avatars.githubusercontent.com/u/17851143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leonvogt"><b>Leon Vogt</b></a><br><sub>&#64;leonvogt</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Bern, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">864</td>
+<td align="right">904</td>
 <td><a href="https://github.com/RaivoKoot"><img src="https://avatars.githubusercontent.com/u/29647087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RaivoKoot"><b>Raivo Eli Koot</b></a><br><sub>&#64;RaivoKoot</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">865</td>
+<td align="right">905</td>
 <td><a href="https://github.com/Cclleemm"><img src="https://avatars.githubusercontent.com/u/1133341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cclleemm"><b>Clément Raussin</b></a><br><sub>&#64;Cclleemm</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Genève, Suisse</sub></td>
 </tr>
 <tr>
-<td align="right">866</td>
+<td align="right">906</td>
 <td><a href="https://github.com/digint"><img src="https://avatars.githubusercontent.com/u/7590973?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/digint"><b>Axel Burri</b></a><br><sub>&#64;digint</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">867</td>
+<td align="right">907</td>
 <td><a href="https://github.com/ivankovic"><img src="https://avatars.githubusercontent.com/u/501559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivankovic"><b>Marko Ivankovic</b></a><br><sub>&#64;ivankovic</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">868</td>
+<td align="right">908</td>
+<td><a href="https://github.com/nunobrum"><img src="https://avatars.githubusercontent.com/u/6358873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nunobrum"><b>Nuno Brum</b></a><br><sub>&#64;nunobrum</sub></td>
+<td align="right"><b>41</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">909</td>
 <td><a href="https://github.com/rharish101"><img src="https://avatars.githubusercontent.com/u/25344287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rharish101"><b>Harish Rajagopal</b></a><br><sub>&#64;rharish101</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">869</td>
+<td align="right">910</td>
 <td><a href="https://github.com/jcavat"><img src="https://avatars.githubusercontent.com/u/1701806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jcavat"><b>Joel Cavat</b></a><br><sub>&#64;jcavat</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland, Geneva</sub></td>
 </tr>
 <tr>
-<td align="right">870</td>
+<td align="right">911</td>
 <td><a href="https://github.com/JonathanLink"><img src="https://avatars.githubusercontent.com/u/2573797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JonathanLink"><b>Jonathan Link</b></a><br><sub>&#64;JonathanLink</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">871</td>
+<td align="right">912</td>
 <td><a href="https://github.com/stevschmid"><img src="https://avatars.githubusercontent.com/u/2707380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stevschmid"><b>Steven Schmid</b></a><br><sub>&#64;stevschmid</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">872</td>
+<td align="right">913</td>
 <td><a href="https://github.com/lwe"><img src="https://avatars.githubusercontent.com/u/83660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lwe"><b>Lukas Westermann</b></a><br><sub>&#64;lwe</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">873</td>
+<td align="right">914</td>
 <td><a href="https://github.com/MatteoFasulo"><img src="https://avatars.githubusercontent.com/u/74818541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatteoFasulo"><b>Matteo Fasulo</b></a><br><sub>&#64;MatteoFasulo</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">874</td>
+<td align="right">915</td>
 <td><a href="https://github.com/ofajardo"><img src="https://avatars.githubusercontent.com/u/17498727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ofajardo"><b>Otto Fajardo</b></a><br><sub>&#64;ofajardo</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Basel - Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">875</td>
+<td align="right">916</td>
 <td><a href="https://github.com/patrikf"><img src="https://avatars.githubusercontent.com/u/4076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/patrikf"><b>Patrik Fimml</b></a><br><sub>&#64;patrikf</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">876</td>
+<td align="right">917</td>
 <td><a href="https://github.com/VirtCode"><img src="https://avatars.githubusercontent.com/u/41426325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VirtCode"><b>Virt</b></a><br><sub>&#64;VirtCode</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">877</td>
+<td align="right">918</td>
 <td><a href="https://github.com/biasmv"><img src="https://avatars.githubusercontent.com/u/1254268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/biasmv"><b>Marco Biasini</b></a><br><sub>&#64;biasmv</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Lucerne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">878</td>
+<td align="right">919</td>
 <td><a href="https://github.com/brockgr"><img src="https://avatars.githubusercontent.com/u/221133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brockgr"><b>Gavin Brock</b></a><br><sub>&#64;brockgr</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">879</td>
+<td align="right">920</td>
+<td><a href="https://github.com/devgg"><img src="https://avatars.githubusercontent.com/u/8250067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devgg"><b>Florian Gauger</b></a><br><sub>&#64;devgg</sub></td>
+<td align="right"><b>36</b></td>
+<td align="right">0</td>
+<td><sub>Zürich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">921</td>
 <td><a href="https://github.com/ferstl"><img src="https://avatars.githubusercontent.com/u/1487727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ferstl"><b>Stefan Ferstl</b></a><br><sub>&#64;ferstl</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">880</td>
+<td align="right">922</td>
 <td><a href="https://github.com/Giannoudis"><img src="https://avatars.githubusercontent.com/u/24658114?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Giannoudis"><b>Jani Giannoudis</b></a><br><sub>&#64;Giannoudis</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">881</td>
+<td align="right">923</td>
 <td><a href="https://github.com/hardcodet"><img src="https://avatars.githubusercontent.com/u/873009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hardcodet"><b>Philipp Sumi</b></a><br><sub>&#64;hardcodet</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">882</td>
+<td align="right">924</td>
 <td><a href="https://github.com/iamisti"><img src="https://avatars.githubusercontent.com/u/4672916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamisti"><b>Istvan Fodor</b></a><br><sub>&#64;iamisti</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">883</td>
+<td align="right">925</td>
 <td><a href="https://github.com/manuelescrig"><img src="https://avatars.githubusercontent.com/u/1849990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manuelescrig"><b>Manuel Escrig</b></a><br><sub>&#64;manuelescrig</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">884</td>
+<td align="right">926</td>
 <td><a href="https://github.com/DaRaFF"><img src="https://avatars.githubusercontent.com/u/172394?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DaRaFF"><b>Ralph Meier</b></a><br><sub>&#64;DaRaFF</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Zurich Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">885</td>
+<td align="right">927</td>
+<td><a href="https://github.com/asieradzk"><img src="https://avatars.githubusercontent.com/u/71396495?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asieradzk"><b>Adrian Sieradzki</b></a><br><sub>&#64;asieradzk</sub></td>
+<td align="right"><b>34</b></td>
+<td align="right">0</td>
+<td><sub>Zurich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">928</td>
 <td><a href="https://github.com/bernedom"><img src="https://avatars.githubusercontent.com/u/15666436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bernedom"><b>Dominik Berner</b></a><br><sub>&#64;bernedom</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">886</td>
+<td align="right">929</td>
 <td><a href="https://github.com/dmitryikh"><img src="https://avatars.githubusercontent.com/u/7412162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmitryikh"><b>Dmitry Khominich</b></a><br><sub>&#64;dmitryikh</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">887</td>
+<td align="right">930</td>
 <td><a href="https://github.com/robinfriedli"><img src="https://avatars.githubusercontent.com/u/29976416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robinfriedli"><b>Robin Friedli</b></a><br><sub>&#64;robinfriedli</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">888</td>
+<td align="right">931</td>
+<td><a href="https://github.com/jungomi"><img src="https://avatars.githubusercontent.com/u/3986846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jungomi"><b>Michael Jungo</b></a><br><sub>&#64;jungomi</sub></td>
+<td align="right"><b>32</b></td>
+<td align="right">0</td>
+<td><sub>Fribourg, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">932</td>
 <td><a href="https://github.com/martinstoeckli"><img src="https://avatars.githubusercontent.com/u/7747113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/martinstoeckli"><b>Martin Stoeckli</b></a><br><sub>&#64;martinstoeckli</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">889</td>
+<td align="right">933</td>
 <td><a href="https://github.com/matssteinweg"><img src="https://avatars.githubusercontent.com/u/51511047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matssteinweg"><b>Mats Steinweg</b></a><br><sub>&#64;matssteinweg</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">890</td>
+<td align="right">934</td>
 <td><a href="https://github.com/mnater"><img src="https://avatars.githubusercontent.com/u/280635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mnater"><b>Mathias Nater</b></a><br><sub>&#64;mnater</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">891</td>
+<td align="right">935</td>
 <td><a href="https://github.com/soberman"><img src="https://avatars.githubusercontent.com/u/3826285?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soberman"><b>Yarik Arsenkin</b></a><br><sub>&#64;soberman</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">892</td>
+<td align="right">936</td>
 <td><a href="https://github.com/hertg"><img src="https://avatars.githubusercontent.com/u/3533648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hertg"><b>hertg</b></a><br><sub>&#64;hertg</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">893</td>
+<td align="right">937</td>
 <td><a href="https://github.com/joachimBurket"><img src="https://avatars.githubusercontent.com/u/24736037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joachimBurket"><b>Joachim Burket</b></a><br><sub>&#64;joachimBurket</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">894</td>
+<td align="right">938</td>
+<td><a href="https://github.com/RaphaelJenni"><img src="https://avatars.githubusercontent.com/u/14369284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RaphaelJenni"><b>Raphael Jenni</b></a><br><sub>&#64;RaphaelJenni</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">0</td>
+<td><sub>Zurich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">939</td>
 <td><a href="https://github.com/scito"><img src="https://avatars.githubusercontent.com/u/876593?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scito"><b>Roland Kurmann</b></a><br><sub>&#64;scito</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">895</td>
+<td align="right">940</td>
 <td><a href="https://github.com/Skyfay"><img src="https://avatars.githubusercontent.com/u/76796007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Skyfay"><b>Manu</b></a><br><sub>&#64;Skyfay</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">0</td>
 <td><sub>Zurich/Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">896</td>
+<td align="right">941</td>
 <td><a href="https://github.com/detomon"><img src="https://avatars.githubusercontent.com/u/4883379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/detomon"><b>Simon Schoenenberger</b></a><br><sub>&#64;detomon</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">897</td>
+<td align="right">942</td>
 <td><a href="https://github.com/zengabor"><img src="https://avatars.githubusercontent.com/u/219762?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zengabor"><b>Gabor Lenard</b></a><br><sub>&#64;zengabor</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">898</td>
+<td align="right">943</td>
 <td><a href="https://github.com/atilladeniz"><img src="https://avatars.githubusercontent.com/u/12964782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atilladeniz"><b>Atilla Deniz</b></a><br><sub>&#64;atilladeniz</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">0</td>
 <td><sub>Schweiz</sub></td>
 </tr>
 <tr>
-<td align="right">899</td>
+<td align="right">944</td>
+<td><a href="https://github.com/basgys"><img src="https://avatars.githubusercontent.com/u/491123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basgys"><b>Bastien Gysler</b></a><br><sub>&#64;basgys</sub></td>
+<td align="right"><b>29</b></td>
+<td align="right">0</td>
+<td><sub>Zürich, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">945</td>
 <td><a href="https://github.com/evolvedlight"><img src="https://avatars.githubusercontent.com/u/23338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evolvedlight"><b>Stephen Brown</b></a><br><sub>&#64;evolvedlight</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">900</td>
+<td align="right">946</td>
 <td><a href="https://github.com/schoero"><img src="https://avatars.githubusercontent.com/u/42278642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/schoero"><b>Roger Schönbächler</b></a><br><sub>&#64;schoero</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">901</td>
+<td align="right">947</td>
+<td><a href="https://github.com/cwoffenden"><img src="https://avatars.githubusercontent.com/u/8437014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cwoffenden"><b>Carl Woffenden</b></a><br><sub>&#64;cwoffenden</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">0</td>
+<td><sub>Basel, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">948</td>
 <td><a href="https://github.com/karastojko"><img src="https://avatars.githubusercontent.com/u/12692726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karastojko"><b>karastojko</b></a><br><sub>&#64;karastojko</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Suisse</sub></td>
 </tr>
 <tr>
-<td align="right">902</td>
+<td align="right">949</td>
 <td><a href="https://github.com/martinhodler"><img src="https://avatars.githubusercontent.com/u/1345792?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/martinhodler"><b>Martin Hodler</b></a><br><sub>&#64;martinhodler</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">903</td>
+<td align="right">950</td>
 <td><a href="https://github.com/peterheinrich"><img src="https://avatars.githubusercontent.com/u/7264168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peterheinrich"><b>Peter Heinrich</b></a><br><sub>&#64;peterheinrich</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">904</td>
+<td align="right">951</td>
+<td><a href="https://github.com/szermatt"><img src="https://avatars.githubusercontent.com/u/734476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/szermatt"><b>Stephane Zermatten</b></a><br><sub>&#64;szermatt</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">0</td>
+<td><sub>Fribourg, Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">952</td>
 <td><a href="https://github.com/duydao"><img src="https://avatars.githubusercontent.com/u/1011201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duydao"><b>Duy Dao</b></a><br><sub>&#64;duydao</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">905</td>
+<td align="right">953</td>
 <td><a href="https://github.com/peregin"><img src="https://avatars.githubusercontent.com/u/1956332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peregin"><b>Levente Fall</b></a><br><sub>&#64;peregin</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">906</td>
+<td align="right">954</td>
 <td><a href="https://github.com/sphamba"><img src="https://avatars.githubusercontent.com/u/17217484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sphamba"><b>Son Pham-Ba</b></a><br><sub>&#64;sphamba</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Lausanne, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">907</td>
+<td align="right">955</td>
 <td><a href="https://github.com/gruvw"><img src="https://avatars.githubusercontent.com/u/63407038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gruvw"><b>Lucas Jung</b></a><br><sub>&#64;gruvw</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">908</td>
+<td align="right">956</td>
 <td><a href="https://github.com/l3nz"><img src="https://avatars.githubusercontent.com/u/1101849?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/l3nz"><b>lenz</b></a><br><sub>&#64;l3nz</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Mendrisio, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">909</td>
+<td align="right">957</td>
 <td><a href="https://github.com/NoahFetz"><img src="https://avatars.githubusercontent.com/u/14354391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NoahFetz"><b>Noah Fetz</b></a><br><sub>&#64;NoahFetz</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Domat/Ems, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">910</td>
+<td align="right">958</td>
 <td><a href="https://github.com/rhwilr"><img src="https://avatars.githubusercontent.com/u/4346833?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rhwilr"><b>Ralph Huwiler</b></a><br><sub>&#64;rhwilr</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">911</td>
+<td align="right">959</td>
 <td><a href="https://github.com/alfunx"><img src="https://avatars.githubusercontent.com/u/16122276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfunx"><b>Alphonse Mariya</b></a><br><sub>&#64;alfunx</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">0</td>
 <td><sub>Wädenswil, Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">912</td>
+<td align="right">960</td>
 <td><a href="https://github.com/dsbenghe"><img src="https://avatars.githubusercontent.com/u/9379302?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dsbenghe"><b>dsbenghe</b></a><br><sub>&#64;dsbenghe</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">913</td>
+<td align="right">961</td>
 <td><a href="https://github.com/pe-st"><img src="https://avatars.githubusercontent.com/u/7886892?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pe-st"><b>Peter Steiner</b></a><br><sub>&#64;pe-st</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">914</td>
+<td align="right">962</td>
 <td><a href="https://github.com/0xS4N4TG"><img src="https://avatars.githubusercontent.com/u/62789975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xS4N4TG"><b>sanat</b></a><br><sub>&#64;0xS4N4TG</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>root</sub></td>
 </tr>
 <tr>
-<td align="right">915</td>
+<td align="right">963</td>
 <td><a href="https://github.com/bprusinowski"><img src="https://avatars.githubusercontent.com/u/52032047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bprusinowski"><b>Bartosz Prusinowski</b></a><br><sub>&#64;bprusinowski</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">916</td>
+<td align="right">964</td>
 <td><a href="https://github.com/lduchosal"><img src="https://avatars.githubusercontent.com/u/1301292?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lduchosal"><b>lduchosal</b></a><br><sub>&#64;lduchosal</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">917</td>
+<td align="right">965</td>
 <td><a href="https://github.com/nicohaenggi"><img src="https://avatars.githubusercontent.com/u/10274937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicohaenggi"><b>Nico Hänggi</b></a><br><sub>&#64;nicohaenggi</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">918</td>
+<td align="right">966</td>
+<td><a href="https://github.com/Zegorax"><img src="https://avatars.githubusercontent.com/u/20574959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zegorax"><b>Zegorax</b></a><br><sub>&#64;Zegorax</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">967</td>
 <td><a href="https://github.com/bvisible"><img src="https://avatars.githubusercontent.com/u/26769160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bvisible"><b>Jérémy Christillin</b></a><br><sub>&#64;bvisible</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">919</td>
+<td align="right">968</td>
 <td><a href="https://github.com/iedr"><img src="https://avatars.githubusercontent.com/u/9928793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iedr"><b>Daren</b></a><br><sub>&#64;iedr</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">920</td>
+<td align="right">969</td>
 <td><a href="https://github.com/tmaxmax"><img src="https://avatars.githubusercontent.com/u/57960185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tmaxmax"><b>Teodor Maxim</b></a><br><sub>&#64;tmaxmax</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">921</td>
+<td align="right">970</td>
+<td><a href="https://github.com/adrische"><img src="https://avatars.githubusercontent.com/u/38351794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrische"><b>Adrian Scheerer</b></a><br><sub>&#64;adrische</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">0</td>
+<td><sub>Zürich, Switzerland - but open to travel.</sub></td>
+</tr>
+<tr>
+<td align="right">971</td>
 <td><a href="https://github.com/biscolab"><img src="https://avatars.githubusercontent.com/u/9263090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/biscolab"><b>Roberto Belotti</b></a><br><sub>&#64;biscolab</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Chiasso, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">922</td>
+<td align="right">972</td>
 <td><a href="https://github.com/fralau"><img src="https://avatars.githubusercontent.com/u/36767124?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fralau"><b>Laurent Franceschetti</b></a><br><sub>&#64;fralau</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Geneva, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">923</td>
+<td align="right">973</td>
 <td><a href="https://github.com/Glavnokoman"><img src="https://avatars.githubusercontent.com/u/6436681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Glavnokoman"><b>Slava Savenko</b></a><br><sub>&#64;Glavnokoman</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">924</td>
+<td align="right">974</td>
 <td><a href="https://github.com/krychu"><img src="https://avatars.githubusercontent.com/u/947457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/krychu"><b>Krystian Samp</b></a><br><sub>&#64;krychu</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">925</td>
+<td align="right">975</td>
 <td><a href="https://github.com/mikeqzy"><img src="https://avatars.githubusercontent.com/u/44131258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikeqzy"><b>mikeqzy</b></a><br><sub>&#64;mikeqzy</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">926</td>
+<td align="right">976</td>
 <td><a href="https://github.com/orling"><img src="https://avatars.githubusercontent.com/u/3824400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orling"><b>Orlin Georgiev</b></a><br><sub>&#64;orling</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">927</td>
+<td align="right">977</td>
+<td><a href="https://github.com/osi1880vr"><img src="https://avatars.githubusercontent.com/u/87379616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/osi1880vr"><b>osi1880vr</b></a><br><sub>&#64;osi1880vr</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">978</td>
 <td><a href="https://github.com/phkaeser"><img src="https://avatars.githubusercontent.com/u/130065133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phkaeser"><b>Philipp Kaeser</b></a><br><sub>&#64;phkaeser</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">928</td>
+<td align="right">979</td>
+<td><a href="https://github.com/Anciukevicius"><img src="https://avatars.githubusercontent.com/u/25186506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anciukevicius"><b>Titas Anciukevičius</b></a><br><sub>&#64;Anciukevicius</sub></td>
+<td align="right"><b>19</b></td>
+<td align="right">0</td>
+<td><sub>Switzerland</sub></td>
+</tr>
+<tr>
+<td align="right">980</td>
 <td><a href="https://github.com/lbuchs"><img src="https://avatars.githubusercontent.com/u/37619779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lbuchs"><b>Lukas</b></a><br><sub>&#64;lbuchs</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">0</td>
 <td><sub>Bern, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">929</td>
+<td align="right">981</td>
 <td><a href="https://github.com/Necrom4"><img src="https://avatars.githubusercontent.com/u/162458559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Necrom4"><b>Diogo Pombeiro</b></a><br><sub>&#64;Necrom4</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">930</td>
+<td align="right">982</td>
 <td><a href="https://github.com/cbopp-art"><img src="https://avatars.githubusercontent.com/u/2764787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cbopp-art"><b>Cornel Boppart</b></a><br><sub>&#64;cbopp-art</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">931</td>
+<td align="right">983</td>
 <td><a href="https://github.com/danielfernau"><img src="https://avatars.githubusercontent.com/u/5053344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielfernau"><b>Daniel Fernau</b></a><br><sub>&#64;danielfernau</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">932</td>
+<td align="right">984</td>
 <td><a href="https://github.com/swissmakers"><img src="https://avatars.githubusercontent.com/u/173353244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/swissmakers"><b>Swissmakers GmbH</b></a><br><sub>&#64;swissmakers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">933</td>
+<td align="right">985</td>
 <td><a href="https://github.com/coree"><img src="https://avatars.githubusercontent.com/u/5042747?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coree"><b>Cornelius</b></a><br><sub>&#64;coree</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">934</td>
+<td align="right">986</td>
 <td><a href="https://github.com/lukasmach"><img src="https://avatars.githubusercontent.com/u/208300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukasmach"><b>Lukas Mach</b></a><br><sub>&#64;lukasmach</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">935</td>
+<td align="right">987</td>
 <td><a href="https://github.com/max-alletsee"><img src="https://avatars.githubusercontent.com/u/6639488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/max-alletsee"><b>Max Alletsee</b></a><br><sub>&#64;max-alletsee</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>Geneva, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">936</td>
+<td align="right">988</td>
 <td><a href="https://github.com/brainbytes-dev"><img src="https://avatars.githubusercontent.com/u/40733563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brainbytes-dev"><b>BrainBytes Studio</b></a><br><sub>&#64;brainbytes-dev</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">937</td>
+<td align="right">989</td>
 <td><a href="https://github.com/charri"><img src="https://avatars.githubusercontent.com/u/5507128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/charri"><b>Thomas Charriere</b></a><br><sub>&#64;charri</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">938</td>
+<td align="right">990</td>
 <td><a href="https://github.com/deselaers"><img src="https://avatars.githubusercontent.com/u/11804972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deselaers"><b>Thomas Deselaers</b></a><br><sub>&#64;deselaers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">939</td>
+<td align="right">991</td>
 <td><a href="https://github.com/FrediBach"><img src="https://avatars.githubusercontent.com/u/871551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrediBach"><b>Fredi Bach</b></a><br><sub>&#64;FrediBach</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">940</td>
+<td align="right">992</td>
 <td><a href="https://github.com/codpro2005"><img src="https://avatars.githubusercontent.com/u/40277095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codpro2005"><b>Danilo Furrer</b></a><br><sub>&#64;codpro2005</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">941</td>
+<td align="right">993</td>
 <td><a href="https://github.com/BalzGuenat"><img src="https://avatars.githubusercontent.com/u/6719014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BalzGuenat"><b>Balz Guenat</b></a><br><sub>&#64;BalzGuenat</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">0</td>
 <td><sub>Schweiz</sub></td>
 </tr>
 <tr>
-<td align="right">942</td>
+<td align="right">994</td>
 <td><a href="https://github.com/ctabin"><img src="https://avatars.githubusercontent.com/u/5054657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ctabin"><b>Cédric Tabin</b></a><br><sub>&#64;ctabin</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">943</td>
+<td align="right">995</td>
 <td><a href="https://github.com/ichi4096"><img src="https://avatars.githubusercontent.com/u/76877413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ichi4096"><b>Michael Mösch</b></a><br><sub>&#64;ichi4096</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">944</td>
+<td align="right">996</td>
 <td><a href="https://github.com/AmirTugi"><img src="https://avatars.githubusercontent.com/u/8065975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmirTugi"><b>Amir Tugendhaft</b></a><br><sub>&#64;AmirTugi</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
 <td><sub>Zürich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">945</td>
+<td align="right">997</td>
 <td><a href="https://github.com/st4ple"><img src="https://avatars.githubusercontent.com/u/2379825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/st4ple"><b>Oliver Stapleton</b></a><br><sub>&#64;st4ple</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">946</td>
+<td align="right">998</td>
 <td><a href="https://github.com/Wombosvideo"><img src="https://avatars.githubusercontent.com/u/4274488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wombosvideo"><b>Luca</b></a><br><sub>&#64;Wombosvideo</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
 <td><sub>Zurich, Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">947</td>
+<td align="right">999</td>
 <td><a href="https://github.com/adrianschlatter"><img src="https://avatars.githubusercontent.com/u/10478149?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianschlatter"><b>Adrian Schlatter</b></a><br><sub>&#64;adrianschlatter</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
 </tr>
 <tr>
-<td align="right">948</td>
+<td align="right">1000</td>
 <td><a href="https://github.com/webyak"><img src="https://avatars.githubusercontent.com/u/9054585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/webyak"><b>Yannik Schweinzer</b></a><br><sub>&#64;webyak</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">0</td>
 <td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">949</td>
-<td><a href="https://github.com/cococonscious"><img src="https://avatars.githubusercontent.com/u/90052617?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cococonscious"><b>Finley Thomalla</b></a><br><sub>&#64;cococonscious</sub></td>
-<td align="right"><b>10</b></td>
-<td align="right">0</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">950</td>
-<td><a href="https://github.com/tastyeffectco"><img src="https://avatars.githubusercontent.com/u/205345397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tastyeffectco"><b>Abdelouahed EL KASRI</b></a><br><sub>&#64;tastyeffectco</sub></td>
-<td align="right"><b>10</b></td>
-<td align="right">0</td>
-<td><sub>zurich, switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">951</td>
-<td><a href="https://github.com/hubisan"><img src="https://avatars.githubusercontent.com/u/4160043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hubisan"><b>Daniel Hubmann</b></a><br><sub>&#64;hubisan</sub></td>
-<td align="right"><b>9</b></td>
-<td align="right">0</td>
-<td><sub>Bern, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">952</td>
-<td><a href="https://github.com/micmonay"><img src="https://avatars.githubusercontent.com/u/705503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/micmonay"><b>Michaël Monayron</b></a><br><sub>&#64;micmonay</sub></td>
-<td align="right"><b>9</b></td>
-<td align="right">0</td>
-<td><sub>Suisse</sub></td>
-</tr>
-<tr>
-<td align="right">953</td>
-<td><a href="https://github.com/annamedv"><img src="https://avatars.githubusercontent.com/u/30137868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/annamedv"><b>Anna Medvedeva</b></a><br><sub>&#64;annamedv</sub></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">954</td>
-<td><a href="https://github.com/frigi83"><img src="https://avatars.githubusercontent.com/u/16401788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frigi83"><b>Mauro Frigerio</b></a><br><sub>&#64;frigi83</sub></td>
-<td align="right"><b>6</b></td>
-<td align="right">0</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">955</td>
-<td><a href="https://github.com/Decimate1405"><img src="https://avatars.githubusercontent.com/u/24218060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Decimate1405"><b>Ani</b></a><br><sub>&#64;Decimate1405</sub></td>
-<td align="right"><b>4</b></td>
-<td align="right">9</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">956</td>
-<td><a href="https://github.com/tomedic"><img src="https://avatars.githubusercontent.com/u/11849516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomedic"><b>Tomislav</b></a><br><sub>&#64;tomedic</sub></td>
-<td align="right"><b>1</b></td>
-<td align="right">4</td>
-<td><sub>Zurich, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">957</td>
-<td><a href="https://github.com/sourcepro"><img src="https://avatars.githubusercontent.com/u/1052943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sourcepro"><b>Artur Wojciechowski</b></a><br><sub>&#64;sourcepro</sub></td>
-<td align="right"><b>1</b></td>
-<td align="right">2</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">958</td>
-<td><a href="https://github.com/chpalatinus"><img src="https://avatars.githubusercontent.com/u/958818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chpalatinus"><b>Chris Palatinus</b></a><br><sub>&#64;chpalatinus</sub></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td><sub>Zurich, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">959</td>
-<td><a href="https://github.com/galliva"><img src="https://avatars.githubusercontent.com/u/4599437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/galliva"><b>Vanni Galli</b></a><br><sub>&#64;galliva</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">5</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">960</td>
-<td><a href="https://github.com/nicedata"><img src="https://avatars.githubusercontent.com/u/9496557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicedata"><b>Martin Mohnhaupt</b></a><br><sub>&#64;nicedata</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">5</td>
-<td><sub>1283, La Plaine, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">961</td>
-<td><a href="https://github.com/1d99net"><img src="https://avatars.githubusercontent.com/u/1428760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1d99net"><b>1d99net</b></a><br><sub>&#64;1d99net</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">962</td>
-<td><a href="https://github.com/53RG10"><img src="https://avatars.githubusercontent.com/u/17089680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/53RG10"><b>Sergio Guarino</b></a><br><sub>&#64;53RG10</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Geneva, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">963</td>
-<td><a href="https://github.com/6796524"><img src="https://avatars.githubusercontent.com/u/5381800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/6796524"><b>Camille</b></a><br><sub>&#64;6796524</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">964</td>
-<td><a href="https://github.com/aandreetta"><img src="https://avatars.githubusercontent.com/u/7451785?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aandreetta"><b>Alex Andreetta</b></a><br><sub>&#64;aandreetta</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Bellinzona, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">965</td>
-<td><a href="https://github.com/aazinchenko"><img src="https://avatars.githubusercontent.com/u/18684311?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aazinchenko"><b>Anatolii</b></a><br><sub>&#64;aazinchenko</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">966</td>
-<td><a href="https://github.com/aBaechtold"><img src="https://avatars.githubusercontent.com/u/20663491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aBaechtold"><b>aBaechtold</b></a><br><sub>&#64;aBaechtold</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Zürich, Switzerland, Europe</sub></td>
-</tr>
-<tr>
-<td align="right">967</td>
-<td><a href="https://github.com/aberruezo"><img src="https://avatars.githubusercontent.com/u/9640066?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aberruezo"><b>Angel D. Berruezo</b></a><br><sub>&#64;aberruezo</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Schaffhausen, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">968</td>
-<td><a href="https://github.com/aladinbouddat"><img src="https://avatars.githubusercontent.com/u/23000101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aladinbouddat"><b>Aladin Bouddat</b></a><br><sub>&#64;aladinbouddat</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Zürich, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">969</td>
-<td><a href="https://github.com/alekhya1994"><img src="https://avatars.githubusercontent.com/u/11516220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alekhya1994"><b>alekhya1994</b></a><br><sub>&#64;alekhya1994</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>lugano,switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">970</td>
-<td><a href="https://github.com/Amalli"><img src="https://avatars.githubusercontent.com/u/13004406?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Amalli"><b>Amalia</b></a><br><sub>&#64;Amalli</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Bern, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">971</td>
-<td><a href="https://github.com/andi-hafner"><img src="https://avatars.githubusercontent.com/u/7347888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andi-hafner"><b>Andi Hafner</b></a><br><sub>&#64;andi-hafner</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">972</td>
-<td><a href="https://github.com/antw0n"><img src="https://avatars.githubusercontent.com/u/6561879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antw0n"><b>Anton Lorvi</b></a><br><sub>&#64;antw0n</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">973</td>
-<td><a href="https://github.com/aoberger"><img src="https://avatars.githubusercontent.com/u/7202099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aoberger"><b>Alexandre</b></a><br><sub>&#64;aoberger</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">974</td>
-<td><a href="https://github.com/arokke"><img src="https://avatars.githubusercontent.com/u/19796142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arokke"><b>Arokke</b></a><br><sub>&#64;arokke</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">975</td>
-<td><a href="https://github.com/aurejien"><img src="https://avatars.githubusercontent.com/u/93571810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aurejien"><b>Aurelien j</b></a><br><sub>&#64;aurejien</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">976</td>
-<td><a href="https://github.com/avyarochkin"><img src="https://avatars.githubusercontent.com/u/9364259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avyarochkin"><b>Oleksii Yarochkin</b></a><br><sub>&#64;avyarochkin</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">977</td>
-<td><a href="https://github.com/b-io"><img src="https://avatars.githubusercontent.com/u/19675311?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/b-io"><b>Florian</b></a><br><sub>&#64;b-io</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">978</td>
-<td><a href="https://github.com/Benasaurus"><img src="https://avatars.githubusercontent.com/u/16279871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Benasaurus"><b>Benas Buivydas</b></a><br><sub>&#64;Benasaurus</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">979</td>
-<td><a href="https://github.com/bereal75"><img src="https://avatars.githubusercontent.com/u/11815966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bereal75"><b>bereal75</b></a><br><sub>&#64;bereal75</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">980</td>
-<td><a href="https://github.com/bernhardsturm"><img src="https://avatars.githubusercontent.com/u/16875426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bernhardsturm"><b>Bernhard Sturm</b></a><br><sub>&#64;bernhardsturm</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Bern, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">981</td>
-<td><a href="https://github.com/blog2read"><img src="https://avatars.githubusercontent.com/u/6249323?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blog2read"><b>blog2read aka hiker</b></a><br><sub>&#64;blog2read</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">982</td>
-<td><a href="https://github.com/burkicedi"><img src="https://avatars.githubusercontent.com/u/16307600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/burkicedi"><b>Cédi</b></a><br><sub>&#64;burkicedi</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">983</td>
-<td><a href="https://github.com/Byggerat"><img src="https://avatars.githubusercontent.com/u/16974724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Byggerat"><b>Byggerat</b></a><br><sub>&#64;Byggerat</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">984</td>
-<td><a href="https://github.com/cadoubs"><img src="https://avatars.githubusercontent.com/u/7603954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cadoubs"><b>Fabien Cara</b></a><br><sub>&#64;cadoubs</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">985</td>
-<td><a href="https://github.com/call-me-Jack"><img src="https://avatars.githubusercontent.com/u/11333335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/call-me-Jack"><b>John Donaldson</b></a><br><sub>&#64;call-me-Jack</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Zurich, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">986</td>
-<td><a href="https://github.com/carl-binding"><img src="https://avatars.githubusercontent.com/u/8851329?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carl-binding"><b>Carl Binding</b></a><br><sub>&#64;carl-binding</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">987</td>
-<td><a href="https://github.com/ChrisPrefect"><img src="https://avatars.githubusercontent.com/u/3579863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChrisPrefect"><b>Chris</b></a><br><sub>&#64;ChrisPrefect</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">988</td>
-<td><a href="https://github.com/cideight"><img src="https://avatars.githubusercontent.com/u/12185377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cideight"><b>supergrid</b></a><br><sub>&#64;cideight</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">989</td>
-<td><a href="https://github.com/claude4334"><img src="https://avatars.githubusercontent.com/u/4979951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/claude4334"><b>Claude Chaudet</b></a><br><sub>&#64;claude4334</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Geneva, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">990</td>
-<td><a href="https://github.com/claudeblanc"><img src="https://avatars.githubusercontent.com/u/10053177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/claudeblanc"><b>Claude Blanc</b></a><br><sub>&#64;claudeblanc</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Lucerne, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">991</td>
-<td><a href="https://github.com/damselem"><img src="https://avatars.githubusercontent.com/u/110622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damselem"><b>Daniel Salmerón Amselem</b></a><br><sub>&#64;damselem</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Zürich, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">992</td>
-<td><a href="https://github.com/delunapaolo"><img src="https://avatars.githubusercontent.com/u/12517451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/delunapaolo"><b>Paolo De Luna</b></a><br><sub>&#64;delunapaolo</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">993</td>
-<td><a href="https://github.com/dschaeffler"><img src="https://avatars.githubusercontent.com/u/13107275?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dschaeffler"><b>Dietrich</b></a><br><sub>&#64;dschaeffler</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">994</td>
-<td><a href="https://github.com/dweber69"><img src="https://avatars.githubusercontent.com/u/3857108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dweber69"><b>Daniel Weber</b></a><br><sub>&#64;dweber69</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Zurich, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">995</td>
-<td><a href="https://github.com/emarb"><img src="https://avatars.githubusercontent.com/u/10051146?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emarb"><b>Eduardo Martinez</b></a><br><sub>&#64;emarb</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Lausanne, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">996</td>
-<td><a href="https://github.com/fir3b1rd"><img src="https://avatars.githubusercontent.com/u/1798778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fir3b1rd"><b>Daniel Hasler</b></a><br><sub>&#64;fir3b1rd</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Basel, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">997</td>
-<td><a href="https://github.com/greter"><img src="https://avatars.githubusercontent.com/u/4053432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/greter"><b>Simon Greter</b></a><br><sub>&#64;greter</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">998</td>
-<td><a href="https://github.com/hendyman"><img src="https://avatars.githubusercontent.com/u/23118380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hendyman"><b>Vladimir Hanudel</b></a><br><sub>&#64;hendyman</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Zurich, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">999</td>
-<td><a href="https://github.com/hpsof"><img src="https://avatars.githubusercontent.com/u/2521028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hpsof"><b>hanspeter schlapbach</b></a><br><sub>&#64;hpsof</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>Berne, Switzerland</sub></td>
-</tr>
-<tr>
-<td align="right">1000</td>
-<td><a href="https://github.com/JBuildr"><img src="https://avatars.githubusercontent.com/u/8625880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JBuildr"><b>John</b></a><br><sub>&#64;JBuildr</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">4</td>
-<td><sub>switzerland</sub></td>
 </tr>
 </tbody>
 </table>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1,300 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 1,300 attributed developers are tracked; the cutoff is 11 followers.
 - **Location discovery:** term 0 of 151 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

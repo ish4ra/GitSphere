@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **67** | 24 Nov 2026 | <a href="../data/MA.json">JSON</a> |
+| 🟡 Provisional | **76** | 24 Nov 2026 | <a href="../data/MA.json">JSON</a> |
 
 </div>
 
@@ -490,6 +490,69 @@
 <td align="right">34</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/xM0kht4r.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xM0kht4r/AV-EDR-Killer"><b>xM0kht4r/AV-EDR-Killer</b></a><br><sub>AV/EDR processes termination by exploiting a vulnerable driver (BYOVD)</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">55</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/SaadAhla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SaadAhla/UnhookingPatch"><b>SaadAhla/UnhookingPatch</b></a><br><sub>Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">50</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/netdur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/netdur/llama_cpp_dart"><b>netdur/llama&#95;cpp&#95;dart</b></a><br><sub>dart binding for llama.cpp</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">74</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/sheafui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sheafui/components"><b>sheafui/components</b></a><br><sub>Open source Blade components with Alpine.js and Livewire support for Laravel applications. Install directly into your c…</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">22</td>
+<td>Blade</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/SaadAhla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SaadAhla/NTDLLReflection"><b>SaadAhla/NTDLLReflection</b></a><br><sub>Bypass Userland EDR hooks by Loading Reflective Ntdll in memory from a remote server based on Windows ReleaseID to avoi…</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">45</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/geeksblabla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/geeksblabla/geeksblabla.community"><b>geeksblabla/geeksblabla.community</b></a><br><sub>GeeksBlala Community website source code</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">139</td>
+<td>Astro</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/zakaria-chahboun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zakaria-chahboun/cute"><b>zakaria-chahboun/cute</b></a><br><sub>a minimalist beautiful Go print (fmt alternative)</sub></td>
+<td align="right"><b>296</b></td>
+<td align="right">11</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/ImadSaddik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ImadSaddik/Train_Your_Language_Model_Course"><b>ImadSaddik/Train&#95;Your&#95;Language&#95;Model&#95;Course</b></a><br><sub>Train a language model to chat like you using your personal conversations from WhatsApp, Telegram, Signal, or other pla…</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">161</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/MrMugiwara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrMugiwara/CTF-Tools"><b>MrMugiwara/CTF-Tools</b></a><br><sub>Useful CTF Tools</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">54</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -498,8 +561,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 316 stars; 67 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 292 stars; 76 attributed candidates are tracked.
+- 112 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

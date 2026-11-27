@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **32** | 22 Nov 2026 | <a href="../../data/contributors/AM.json">JSON</a> |
+| 🟡 Provisional | **35** | 22 Nov 2026 | <a href="../../data/contributors/AM.json">JSON</a> |
 
 </div>
 
@@ -223,6 +223,15 @@
 </tr>
 <tr>
 <td align="right">23</td>
+<td><a href="https://github.com/ezhevita"><img src="https://avatars.githubusercontent.com/u/24438339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ezhevita"><b>Vita Chumakova</b></a><br><sub>&#64;ezhevita · 135 followers</sub></td>
+<td align="right"><b>61</b></td>
+<td align="right">35</td>
+<td align="right">10</td>
+<td align="right">3</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">24</td>
 <td><a href="https://github.com/sponomarev"><img src="https://avatars.githubusercontent.com/u/2322774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sponomarev"><b>Sergey Ponomarev</b></a><br><sub>&#64;sponomarev · 138 followers</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">8</td>
@@ -231,7 +240,25 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">25</td>
+<td><a href="https://github.com/nezorflame"><img src="https://avatars.githubusercontent.com/u/3906766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nezorflame"><b>Ilya Danilkin</b></a><br><sub>&#64;nezorflame · 119 followers</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">28</td>
+<td align="right">7</td>
+<td align="right">0</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/AmirKakavand"><img src="https://avatars.githubusercontent.com/u/50151636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmirKakavand"><b>Amir Kakavand</b></a><br><sub>&#64;AmirKakavand · 116 followers</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">40</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">27</td>
 <td><a href="https://github.com/modularcoder"><img src="https://avatars.githubusercontent.com/u/3959008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/modularcoder"><b>Gevorg Harutyunyan</b></a><br><sub>&#64;modularcoder · 127 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">40</td>
@@ -240,7 +267,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">28</td>
 <td><a href="https://github.com/vah13"><img src="https://avatars.githubusercontent.com/u/7976421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vah13"><b>vah&#95;13</b></a><br><sub>&#64;vah13 · 206 followers</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">21</td>
@@ -249,7 +276,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">29</td>
 <td><a href="https://github.com/suren-atoyan"><img src="https://avatars.githubusercontent.com/u/13118722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/suren-atoyan"><b>Suren Atoyan</b></a><br><sub>&#64;suren-atoyan · 341 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">16</td>
@@ -258,7 +285,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">30</td>
 <td><a href="https://github.com/Kelin2025"><img src="https://avatars.githubusercontent.com/u/4208480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kelin2025"><b>Anton Kosykh</b></a><br><sub>&#64;Kelin2025 · 146 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">18</td>
@@ -267,7 +294,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">31</td>
 <td><a href="https://github.com/antranigv"><img src="https://avatars.githubusercontent.com/u/5600749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antranigv"><b>Antranig Vartanian</b></a><br><sub>&#64;antranigv · 168 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">1</td>
@@ -276,7 +303,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">32</td>
 <td><a href="https://github.com/alkhachatryan"><img src="https://avatars.githubusercontent.com/u/22774727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alkhachatryan"><b>Alexey</b></a><br><sub>&#64;alkhachatryan · 1,173 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">6</td>
@@ -285,7 +312,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">33</td>
 <td><a href="https://github.com/timmarinin"><img src="https://avatars.githubusercontent.com/u/66025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timmarinin"><b>Tim Marinin</b></a><br><sub>&#64;timmarinin · 120 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
@@ -294,7 +321,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">34</td>
 <td><a href="https://github.com/armcha"><img src="https://avatars.githubusercontent.com/u/15573237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/armcha"><b>Arman</b></a><br><sub>&#64;armcha · 428 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -303,7 +330,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">35</td>
 <td><a href="https://github.com/MkrtichSargsyan"><img src="https://avatars.githubusercontent.com/u/31889642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MkrtichSargsyan"><b>Mkrtich Sargsyan</b></a><br><sub>&#64;MkrtichSargsyan · 134 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
@@ -318,7 +345,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 34 of 436 discovered developers (402 awaiting measurement).
+- **Measured:** 38 of 441 discovered developers (403 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 135 in round 1.

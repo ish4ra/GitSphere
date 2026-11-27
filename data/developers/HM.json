@@ -5,7 +5,7 @@
 "country": {"code":"HM","name":"Heard & McDonald Islands","slug":"heard-mcdonald-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":20,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjM0MTcxNQ==","login":"R-Pax","name":"pax","url":"https://github.com/R-Pax","avatarUrl":"https://avatars.githubusercontent.com/u/341715?s=80&v=4","followers":5,"publicRepos":3,"location":"Heard & McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"U_kgDOC9Ppww","login":"zero-width-space","name":"zwsp","url":"https://github.com/zero-width-space","avatarUrl":"https://avatars.githubusercontent.com/u/198437315?s=80&v=4","followers":5,"publicRepos":1,"location":"Heard Island and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -21,8 +21,8 @@
   {"rank":12,"id":"U_kgDOCse75w","login":"sgorbietto","name":null,"url":"https://github.com/sgorbietto","avatarUrl":"https://avatars.githubusercontent.com/u/180861927?s=80&v=4","followers":0,"publicRepos":0,"location":"Heard & McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":13,"id":"U_kgDODnDKjQ","login":"Spotlessdafox0","name":"Spotless-da-fox","url":"https://github.com/Spotlessdafox0","avatarUrl":"https://avatars.githubusercontent.com/u/242272909?s=80&v=4","followers":0,"publicRepos":0,"location":"Heard and McDonald islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "2e402f2a24d29bae",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "2ecfe1107d5034a9",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

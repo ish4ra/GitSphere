@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/Amen-Musingarimi"><img src="https://avatars.githubusercontent.com/u/92303637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Amen-Musingarimi"><b>Amen Musingarimi</b></a><br><sub>&#64;Amen-Musingarimi</sub></td>
-<td align="right"><b>93</b></td>
+<td align="right"><b>94</b></td>
 <td align="right">90</td>
 <td><sub>Harare, Zimbabwe</sub></td>
 </tr>

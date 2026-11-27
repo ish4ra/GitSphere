@@ -144,7 +144,7 @@
 <td align="right">18</td>
 <td><a href="https://github.com/danialothman"><img src="https://avatars.githubusercontent.com/u/10879981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danialothman"><b>Danial Othman</b></a><br><sub>&#64;danialothman</sub></td>
 <td align="right"><b>13</b></td>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><sub>Brunei Darussalam</sub></td>
 </tr>
 <tr>

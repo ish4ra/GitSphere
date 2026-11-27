@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/konkkeror"><img src="https://avatars.githubusercontent.com/u/4722734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/konkkeror"><b>Erick Marín</b></a><br><sub>&#64;konkkeror</sub></td>
-<td align="right"><b>114</b></td>
+<td align="right"><b>115</b></td>
 <td align="right">29</td>
 <td><sub>Honduras</sub></td>
 </tr>

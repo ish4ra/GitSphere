@@ -255,8 +255,8 @@
 <tr>
 <td align="right">34</td>
 <td><a href="https://github.com/Mutalenic"><img src="https://avatars.githubusercontent.com/u/19844175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mutalenic"><b>Nicholas Mutale</b></a><br><sub>&#64;Mutalenic</sub></td>
-<td align="right"><b>74</b></td>
-<td align="right">83</td>
+<td align="right"><b>75</b></td>
+<td align="right">84</td>
 <td><sub>Livingstone, Zambia</sub></td>
 </tr>
 <tr>

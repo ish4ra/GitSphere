@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/panchenko-maxim"><img src="https://avatars.githubusercontent.com/u/60844142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/panchenko-maxim"><b>Max Pnch</b></a><br><sub>&#64;panchenko-maxim</sub></td>
-<td align="right"><b>142</b></td>
+<td align="right"><b>141</b></td>
 <td align="right">30</td>
 <td><sub>North Korea</sub></td>
 </tr>

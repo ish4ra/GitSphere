@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/contributors/IM.json">JSON</a> |
+| 🟡 Provisional | **28** | 22 Nov 2026 | <a href="../../data/contributors/IM.json">JSON</a> |
 
 </div>
 
@@ -133,6 +133,15 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/martiensk"><img src="https://avatars.githubusercontent.com/u/19816791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/martiensk"><b>Martiens Kropff</b></a><br><sub>&#64;martiensk · 10 followers</sub></td>
+<td align="right"><b>43</b></td>
+<td align="right">21</td>
+<td align="right">15</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/francisuk1989"><img src="https://avatars.githubusercontent.com/u/11011688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/francisuk1989"><b>Francis</b></a><br><sub>&#64;francisuk1989 · 20 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">16</td>
@@ -141,7 +150,7 @@
 <td align="right">8</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/tonypartridge"><img src="https://avatars.githubusercontent.com/u/1400982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonypartridge"><b>Tony Partridge</b></a><br><sub>&#64;tonypartridge · 20 followers</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">17</td>
@@ -150,7 +159,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/samuelnub"><img src="https://avatars.githubusercontent.com/u/12869739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelnub"><b>Sam Yap</b></a><br><sub>&#64;samuelnub · 20 followers</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">27</td>
@@ -159,7 +168,25 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
+<td><a href="https://github.com/Gwiilo"><img src="https://avatars.githubusercontent.com/u/41574564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gwiilo"><b>Gwilo</b></a><br><sub>&#64;Gwiilo · 2 followers</sub></td>
+<td align="right"><b>27</b></td>
+<td align="right">18</td>
+<td align="right">7</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/wbquinn"><img src="https://avatars.githubusercontent.com/u/13852451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wbquinn"><b>Brian Quinn</b></a><br><sub>&#64;wbquinn · 4 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">15</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/Jessicaward"><img src="https://avatars.githubusercontent.com/u/13490377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jessicaward"><b>Jessica Ward</b></a><br><sub>&#64;Jessicaward · 17 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">12</td>
@@ -168,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
 <td><a href="https://github.com/kaushalgautam"><img src="https://avatars.githubusercontent.com/u/27900104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaushalgautam"><b>Kaushal Gautam</b></a><br><sub>&#64;kaushalgautam · 13 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
@@ -177,7 +204,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/Ifeanyi-omeck"><img src="https://avatars.githubusercontent.com/u/57332609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ifeanyi-omeck"><b>Ifeanyi Anthony Omeifejideofor</b></a><br><sub>&#64;Ifeanyi-omeck · 13 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">6</td>
@@ -186,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">22</td>
 <td><a href="https://github.com/thomas-coldwell"><img src="https://avatars.githubusercontent.com/u/31568400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thomas-coldwell"><b>Thomas Coldwell</b></a><br><sub>&#64;thomas-coldwell · 147 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">1</td>
@@ -195,7 +222,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">23</td>
 <td><a href="https://github.com/lwangenheim"><img src="https://avatars.githubusercontent.com/u/3094546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lwangenheim"><b>Lee Wangenheim</b></a><br><sub>&#64;lwangenheim · 20 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">5</td>
@@ -204,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">24</td>
 <td><a href="https://github.com/braydie"><img src="https://avatars.githubusercontent.com/u/1651008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/braydie"><b>Braydie Grove</b></a><br><sub>&#64;braydie · 366 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
@@ -213,7 +240,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">25</td>
 <td><a href="https://github.com/jackmoore"><img src="https://avatars.githubusercontent.com/u/59797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackmoore"><b>Jack Moore</b></a><br><sub>&#64;jackmoore · 1,902 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -222,7 +249,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">26</td>
 <td><a href="https://github.com/chris-jamieson"><img src="https://avatars.githubusercontent.com/u/4264763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chris-jamieson"><b>Chris Jamieson</b></a><br><sub>&#64;chris-jamieson · 24 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -231,7 +258,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">27</td>
 <td><a href="https://github.com/andyheggs"><img src="https://avatars.githubusercontent.com/u/141368539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andyheggs"><b>Andy Heggs</b></a><br><sub>&#64;andyheggs · 1 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -240,7 +267,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">28</td>
 <td><a href="https://github.com/ReayrtNyGit"><img src="https://avatars.githubusercontent.com/u/48753942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ReayrtNyGit"><b>John</b></a><br><sub>&#64;ReayrtNyGit · 1 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -255,7 +282,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 27 of 358 discovered developers (331 awaiting measurement).
+- **Measured:** 31 of 358 discovered developers (327 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 39 in round 1.

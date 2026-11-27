@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **48** | 24 Nov 2026 | <a href="../data/PE.json">JSON</a> |
+| 🟡 Provisional | **51** | 24 Nov 2026 | <a href="../data/PE.json">JSON</a> |
 
 </div>
 
@@ -357,6 +357,27 @@
 <td align="right">0</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/ericktijerou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ericktijerou/koleton"><b>ericktijerou/koleton</b></a><br><sub>The easiest library to show skeleton screens in an Android app.</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">28</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/Ender-Wang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ender-Wang/EdgeMark"><b>Ender-Wang/EdgeMark</b></a><br><sub>A native macOS side-panel Markdown notes app. Always one edge away.</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">30</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/CodigoCristo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CodigoCristo/sublimepatch"><b>CodigoCristo/sublimepatch</b></a><br><sub>Crack para Sublime Text y Merge</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">71</td>
+<td>C</td>
+</tr>
 </tbody>
 </table>
 
@@ -365,7 +386,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 320 stars; 48 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 294 stars; 51 attributed candidates are tracked.
 - 112 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 118 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

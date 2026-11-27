@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/contributors/SM.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/contributors/SM.json">JSON</a> |
 
 </div>
 
@@ -151,6 +151,15 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/GBerardi"><img src="https://avatars.githubusercontent.com/u/24650716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GBerardi"><b>Gianluca</b></a><br><sub>&#64;GBerardi · 3 followers</sub></td>
+<td align="right"><b>8</b></td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/ellenico77"><img src="https://avatars.githubusercontent.com/u/1744861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ellenico77"><b>Lorenzo Nicoletti</b></a><br><sub>&#64;ellenico77 · 18 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">2</td>
@@ -159,7 +168,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/giacomobartoli"><img src="https://avatars.githubusercontent.com/u/2913435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giacomobartoli"><b>Giacomo Bartoli</b></a><br><sub>&#64;giacomobartoli · 16 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -168,7 +177,16 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
+<td><a href="https://github.com/v1rx"><img src="https://avatars.githubusercontent.com/u/19215260?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/v1rx"><b>v1r</b></a><br><sub>&#64;v1rx · 16 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/AleRiccardi"><img src="https://avatars.githubusercontent.com/u/9944310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AleRiccardi"><b>Alessandro Riccardi</b></a><br><sub>&#64;AleRiccardi · 32 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
@@ -177,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
 <td><a href="https://github.com/simonefalcini"><img src="https://avatars.githubusercontent.com/u/1196854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simonefalcini"><b>Simone</b></a><br><sub>&#64;simonefalcini · 3 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -186,7 +204,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">21</td>
 <td><a href="https://github.com/nicorsm"><img src="https://avatars.githubusercontent.com/u/2906234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicorsm"><b>Nicola Giancecchi</b></a><br><sub>&#64;nicorsm · 36 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -201,7 +219,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 130 discovered developers (107 awaiting measurement).
+- **Measured:** 26 of 130 discovered developers (104 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 21 in round 1.

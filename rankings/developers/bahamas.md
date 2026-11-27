@@ -296,115 +296,115 @@
 </tr>
 <tr>
 <td align="right">40</td>
-<td><a href="https://github.com/Kris-Cy"><img src="https://avatars.githubusercontent.com/u/47043263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kris-Cy"><b>Kris Cy</b></a><br><sub>&#64;Kris-Cy</sub></td>
-<td align="right"><b>8</b></td>
-<td align="right">18</td>
-<td><sub>Bahamas</sub></td>
-</tr>
-<tr>
-<td align="right">41</td>
 <td><a href="https://github.com/ryanflees"><img src="https://avatars.githubusercontent.com/u/5093590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ryanflees"><b>Lulucat</b></a><br><sub>&#64;ryanflees</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">12</td>
 <td><sub>Cat Island</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">41</td>
 <td><a href="https://github.com/TerryJG"><img src="https://avatars.githubusercontent.com/u/149449194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TerryJG"><b>Terrance</b></a><br><sub>&#64;TerryJG</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">5</td>
 <td><sub>Nassau, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">42</td>
 <td><a href="https://github.com/Ragdeap"><img src="https://avatars.githubusercontent.com/u/65538839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ragdeap"><b>Alex Drask Ivanov</b></a><br><sub>&#64;Ragdeap</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">2</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">43</td>
 <td><a href="https://github.com/ryanandersen"><img src="https://avatars.githubusercontent.com/u/2391455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ryanandersen"><b>Peter Andersen</b></a><br><sub>&#64;ryanandersen</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">2</td>
 <td><sub>Lucaya, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">44</td>
 <td><a href="https://github.com/deepmindstech"><img src="https://avatars.githubusercontent.com/u/35752804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deepmindstech"><b>Deep Minds</b></a><br><sub>&#64;deepmindstech</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">1</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">45</td>
 <td><a href="https://github.com/dorson755"><img src="https://avatars.githubusercontent.com/u/68614535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dorson755"><b>Dorson Williams</b></a><br><sub>&#64;dorson755</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">74</td>
 <td><sub>Nassau Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">46</td>
 <td><a href="https://github.com/ejay010"><img src="https://avatars.githubusercontent.com/u/6069216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ejay010"><b>Eulond Kelly III</b></a><br><sub>&#64;ejay010</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">29</td>
 <td><sub>The Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">47</td>
 <td><a href="https://github.com/Reheight"><img src="https://avatars.githubusercontent.com/u/49356068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Reheight"><b>Reheight</b></a><br><sub>&#64;Reheight</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">24</td>
 <td><sub>Hopefully somewhere in the Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">48</td>
 <td><a href="https://github.com/zotz"><img src="https://avatars.githubusercontent.com/u/614926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zotz"><b>drew Roberts</b></a><br><sub>&#64;zotz</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">9</td>
 <td><sub>Nassau, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">49</td>
 <td><a href="https://github.com/TheOneAndOnlyHolyBreadKing"><img src="https://avatars.githubusercontent.com/u/128667552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheOneAndOnlyHolyBreadKing"><b>S.Bullard</b></a><br><sub>&#64;TheOneAndOnlyHolyBreadKing</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
 <td><sub>The Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">50</td>
 <td><a href="https://github.com/mefederer"><img src="https://avatars.githubusercontent.com/u/95209810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mefederer"><b>Melissa Federer</b></a><br><sub>&#64;mefederer</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">3</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">51</td>
 <td><a href="https://github.com/Gnombo"><img src="https://avatars.githubusercontent.com/u/18594299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gnombo"><b>Gnombo</b></a><br><sub>&#64;Gnombo</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">1</td>
 <td><sub>Las Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">52</td>
 <td><a href="https://github.com/balasubramanian-rengasamy"><img src="https://avatars.githubusercontent.com/u/12533223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/balasubramanian-rengasamy"><b>Bala</b></a><br><sub>&#64;balasubramanian-rengasamy</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">68</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">53</td>
 <td><a href="https://github.com/JayRKyd"><img src="https://avatars.githubusercontent.com/u/63754188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JayRKyd"><b>Jay Knowles</b></a><br><sub>&#64;JayRKyd</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">68</td>
 <td><sub>Grand Bahama, The Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">54</td>
 <td><a href="https://github.com/gtsbahamas"><img src="https://avatars.githubusercontent.com/u/164244816?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gtsbahamas"><b>Ty Wells</b></a><br><sub>&#64;gtsbahamas</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">39</td>
 <td><sub>Nassau, Bahamas</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/Kris-Cy"><img src="https://avatars.githubusercontent.com/u/47043263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kris-Cy"><b>Kris Cy</b></a><br><sub>&#64;Kris-Cy</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">18</td>
+<td><sub>Bahamas</sub></td>
 </tr>
 <tr>
 <td align="right">56</td>
@@ -492,136 +492,136 @@
 </tr>
 <tr>
 <td align="right">68</td>
-<td><a href="https://github.com/GustavoHRX"><img src="https://avatars.githubusercontent.com/u/126605730?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GustavoHRX"><b>Gustavo Rodrigues</b></a><br><sub>&#64;GustavoHRX</sub></td>
-<td align="right"><b>5</b></td>
-<td align="right">17</td>
-<td><sub>Bahamas</sub></td>
-</tr>
-<tr>
-<td align="right">69</td>
 <td><a href="https://github.com/BahamaGames"><img src="https://avatars.githubusercontent.com/u/68302439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BahamaGames"><b>Ricardo Joshua Carey</b></a><br><sub>&#64;BahamaGames</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">14</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">69</td>
 <td><a href="https://github.com/anthonyjrg"><img src="https://avatars.githubusercontent.com/u/17634582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anthonyjrg"><b>Tony Gibson</b></a><br><sub>&#64;anthonyjrg</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">12</td>
 <td><sub>Nassau, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">70</td>
 <td><a href="https://github.com/itzzzryze"><img src="https://avatars.githubusercontent.com/u/74117745?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itzzzryze"><b>Itzzz&#95;ryze</b></a><br><sub>&#64;itzzzryze</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">8</td>
 <td><sub>cat island</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">71</td>
 <td><a href="https://github.com/CooperSandra"><img src="https://avatars.githubusercontent.com/u/58150721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CooperSandra"><b>Sandra</b></a><br><sub>&#64;CooperSandra</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">6</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">72</td>
 <td><a href="https://github.com/johnsmith233"><img src="https://avatars.githubusercontent.com/u/6439188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnsmith233"><b>Jonathan Turnquest</b></a><br><sub>&#64;johnsmith233</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">5</td>
 <td><sub>Nassau, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">73</td>
 <td><a href="https://github.com/LuckyGFans"><img src="https://avatars.githubusercontent.com/u/118645681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LuckyGFans"><b>luckygf</b></a><br><sub>&#64;LuckyGFans</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
 <td><sub>bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">74</td>
 <td><a href="https://github.com/Rap12k"><img src="https://avatars.githubusercontent.com/u/20720086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rap12k"><b>Robert Pitter</b></a><br><sub>&#64;Rap12k</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">75</td>
 <td><a href="https://github.com/MrEgs"><img src="https://avatars.githubusercontent.com/u/4146086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrEgs"><b>Marcus Eggenberger</b></a><br><sub>&#64;MrEgs</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
 <td><sub>Not the Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">76</td>
 <td><a href="https://github.com/janajmccardy"><img src="https://avatars.githubusercontent.com/u/107567787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/janajmccardy"><b>Jana JM</b></a><br><sub>&#64;janajmccardy</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
 <td><sub>Nassau, The Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">77</td>
 <td><a href="https://github.com/FLIPPING-PROFITS"><img src="https://avatars.githubusercontent.com/u/211458520?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FLIPPING-PROFITS"><b>FLIPPING PROFITS</b></a><br><sub>&#64;FLIPPING-PROFITS</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">1</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">78</td>
 <td><a href="https://github.com/OppnedKatt"><img src="https://avatars.githubusercontent.com/u/68151654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OppnedKatt"><b>OppnedKatt</b></a><br><sub>&#64;OppnedKatt</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">1</td>
 <td><sub>Cat-island</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">79</td>
 <td><a href="https://github.com/Azuregold242"><img src="https://avatars.githubusercontent.com/u/65314895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Azuregold242"><b>Azure Gold</b></a><br><sub>&#64;Azuregold242</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
 <td><sub>Nassau Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">80</td>
 <td><a href="https://github.com/csbrown3"><img src="https://avatars.githubusercontent.com/u/14968720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/csbrown3"><b>C. Stephan Brown</b></a><br><sub>&#64;csbrown3</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
 <td><sub>72 Collins Avenue, Nassau, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">81</td>
 <td><a href="https://github.com/IndyZR"><img src="https://avatars.githubusercontent.com/u/153393774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IndyZR"><b>Indy</b></a><br><sub>&#64;IndyZR</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">82</td>
 <td><a href="https://github.com/smokie-j"><img src="https://avatars.githubusercontent.com/u/99466423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smokie-j"><b>Joan S</b></a><br><sub>&#64;smokie-j</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
 <td><sub>not-the-bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">83</td>
 <td><a href="https://github.com/scott-mackenzie"><img src="https://avatars.githubusercontent.com/u/1774915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scott-mackenzie"><b>Scott E. MacKenzie</b></a><br><sub>&#64;scott-mackenzie</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">41</td>
 <td><sub>Nassau, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">84</td>
 <td><a href="https://github.com/snsmith92"><img src="https://avatars.githubusercontent.com/u/23176055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/snsmith92"><b>Sherzel Smith</b></a><br><sub>&#64;snsmith92</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">20</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">86</td>
+<td align="right">85</td>
 <td><a href="https://github.com/kristenmo20"><img src="https://avatars.githubusercontent.com/u/59523096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kristenmo20"><b>Kristen Moss</b></a><br><sub>&#64;kristenmo20</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">18</td>
 <td><sub>Nassau, Bahamas</sub></td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><a href="https://github.com/GustavoHRX"><img src="https://avatars.githubusercontent.com/u/126605730?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GustavoHRX"><b>Gustavo Rodrigues</b></a><br><sub>&#64;GustavoHRX</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">17</td>
+<td><sub>Bahamas</sub></td>
 </tr>
 <tr>
 <td align="right">87</td>

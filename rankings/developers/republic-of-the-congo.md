@@ -144,7 +144,7 @@
 <td align="right">18</td>
 <td><a href="https://github.com/Osiris-Balonga"><img src="https://avatars.githubusercontent.com/u/160490248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Osiris-Balonga"><b>Emmanuel Osiris Balonga</b></a><br><sub>&#64;Osiris-Balonga</sub></td>
 <td align="right"><b>17</b></td>
-<td align="right">35</td>
+<td align="right">34</td>
 <td><sub>Brazzaville, Congo</sub></td>
 </tr>
 <tr>
@@ -205,17 +205,17 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><a href="https://github.com/babacleven"><img src="https://avatars.githubusercontent.com/u/162316044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/babacleven"><b>BABA Aristote Cleven</b></a><br><sub>&#64;babacleven</sub></td>
-<td align="right"><b>11</b></td>
-<td align="right">34</td>
-<td><sub>Congo-Brazzaville</sub></td>
-</tr>
-<tr>
-<td align="right">28</td>
 <td><a href="https://github.com/Degrace15"><img src="https://avatars.githubusercontent.com/u/244089503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Degrace15"><b>Degrace</b></a><br><sub>&#64;Degrace15</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">7</td>
 <td><sub>Congo, Brazzaville</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><a href="https://github.com/babacleven"><img src="https://avatars.githubusercontent.com/u/162316044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/babacleven"><b>BABA Aristote Cleven</b></a><br><sub>&#64;babacleven</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">35</td>
+<td><sub>Congo-Brazzaville</sub></td>
 </tr>
 <tr>
 <td align="right">29</td>

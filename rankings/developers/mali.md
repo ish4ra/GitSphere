@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/mkantem"><img src="https://avatars.githubusercontent.com/u/17012616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkantem"><b>Kante Mahamadou</b></a><br><sub>&#64;mkantem</sub></td>
-<td align="right"><b>118</b></td>
+<td align="right"><b>117</b></td>
 <td align="right">51</td>
 <td><sub>Mali</sub></td>
 </tr>
@@ -2363,7 +2363,7 @@
 <td align="right">335</td>
 <td><a href="https://github.com/akad97"><img src="https://avatars.githubusercontent.com/u/44268706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akad97"><b>Alou Koniba DEMBELE</b></a><br><sub>&#64;akad97</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">55</td>
+<td align="right">56</td>
 <td><sub>Bamako</sub></td>
 </tr>
 <tr>

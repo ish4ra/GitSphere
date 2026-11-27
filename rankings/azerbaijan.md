@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 24 Nov 2026 | <a href="../data/AZ.json">JSON</a> |
+| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/AZ.json">JSON</a> |
 
 </div>
 
@@ -112,6 +112,20 @@
 <td align="right">0</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/kamranbekirovyz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kamranbekirovyz/bunpod"><b>kamranbekirovyz/bunpod</b></a><br><sub>🎙️ Podcast player with Material 3 Expressive &amp; Flutter</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">32</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/tomipiriyev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tomipiriyev/Loko"><b>tomipiriyev/Loko</b></a><br><sub>Tiny GPS tracker with LoraWAN</sub></td>
+<td align="right"><b>296</b></td>
+<td align="right">50</td>
+<td>HTML</td>
+</tr>
 </tbody>
 </table>
 
@@ -120,8 +134,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 317 stars; 13 attributed candidates are tracked.
-- 126 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 296 stars; 15 attributed candidates are tracked.
+- 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

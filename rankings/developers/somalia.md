@@ -984,7 +984,7 @@
 <td align="right">138</td>
 <td><a href="https://github.com/mohamed-hassan1234"><img src="https://avatars.githubusercontent.com/u/220525111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohamed-hassan1234"><b>mohamed-hassan1234</b></a><br><sub>&#64;mohamed-hassan1234</sub></td>
 <td align="right"><b>7</b></td>
-<td align="right">95</td>
+<td align="right">91</td>
 <td><sub>Somalia</sub></td>
 </tr>
 <tr>

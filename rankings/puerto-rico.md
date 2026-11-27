@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **28** | 24 Nov 2026 | <a href="../data/PR.json">JSON</a> |
+| 🟡 Provisional | **31** | 24 Nov 2026 | <a href="../data/PR.json">JSON</a> |
 
 </div>
 
@@ -217,6 +217,27 @@
 <td align="right">410</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/ooovenenoso.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ooovenenoso/BadUSB-GPT"><b>ooovenenoso/BadUSB-GPT</b></a><br><sub>This repo houses Rubber Ducky scripts integrated with OpenAI&#39;s GPT. Designed for ethical hackers and researchers, it me…</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">24</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/ImaginarySense.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ImaginarySense/Imaginary-Teleprompter"><b>ImaginarySense/Imaginary-Teleprompter</b></a><br><sub>Easy to use, free software, teleprompter app.</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">64</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/EsotericSoftware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EsotericSoftware/tablelayout"><b>EsotericSoftware/tablelayout</b></a><br><sub>Table-based layout for Java UI toolkits: libgdx, Swing, Android, TWL</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">66</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -225,8 +246,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 326 stars; 28 attributed candidates are tracked.
-- 109 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 292 stars; 31 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

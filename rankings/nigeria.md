@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **59** | 24 Nov 2026 | <a href="../data/NG.json">JSON</a> |
+| 🟡 Provisional | **65** | 24 Nov 2026 | <a href="../data/NG.json">JSON</a> |
 
 </div>
 
@@ -434,6 +434,48 @@
 <td align="right">0</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/bolorundurowb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bolorundurowb/dotenv.net"><b>bolorundurowb/dotenv.net</b></a><br><sub>🔐 A library to read .env files in a .NET Core environment</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">26</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/steinathan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/steinathan/reelsmaker"><b>steinathan/reelsmaker</b></a><br><sub>ReelsMaker is a Python-based/streamlit application designed to create captivating faceless videos for social media plat…</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">67</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/4g3nt47.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/4g3nt47/Striker"><b>4g3nt47/Striker</b></a><br><sub>A Command and Control (C2)</sub></td>
+<td align="right"><b>301</b></td>
+<td align="right">41</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/xt42io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xt42io/aeroplane"><b>xt42io/aeroplane</b></a><br><sub>Deploy apps and databases on your own server.</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">49</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/coderatio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/coderatio/phpconsole"><b>coderatio/phpconsole</b></a><br><sub>An elegant PHP code writer, reader and executor.</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">15</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/gazuntype.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gazuntype/graphQL-client-unity"><b>gazuntype/graphQL-client-unity</b></a><br><sub>This repository houses a unitypackage that can be included in your Unity Project to enable it communicate with a graphQ…</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">50</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
@@ -442,8 +484,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 315 stars; 59 attributed candidates are tracked.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 294 stars; 65 attributed candidates are tracked.
+- 112 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

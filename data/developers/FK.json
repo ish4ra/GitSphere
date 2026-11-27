@@ -5,7 +5,7 @@
 "country": {"code":"FK","name":"Falkland Islands","slug":"falkland-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":20,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCJ5f9Q","login":"trrt54999","name":"trrt54999","url":"https://github.com/trrt54999","avatarUrl":"https://avatars.githubusercontent.com/u/144596981?s=80&v=4","followers":7,"publicRepos":13,"location":"Falkland Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjIyOTQwNTI1","login":"OwenRF","name":null,"url":"https://github.com/OwenRF","avatarUrl":"https://avatars.githubusercontent.com/u/22940525?s=80&v=4","followers":6,"publicRepos":3,"location":"Falkland Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -26,8 +26,8 @@
   {"rank":17,"id":"MDQ6VXNlcjM2NjEyMjQ4","login":"Hawkotron","name":"Hawkotron","url":"https://github.com/Hawkotron","avatarUrl":"https://avatars.githubusercontent.com/u/36612248?s=80&v=4","followers":0,"publicRepos":0,"location":"Falkland Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":18,"id":"U_kgDOBtmptA","login":"ikaonsen20221003","name":null,"url":"https://github.com/ikaonsen20221003","avatarUrl":"https://avatars.githubusercontent.com/u/114928052?s=80&v=4","followers":0,"publicRepos":0,"location":"falkland islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "c1b4580288179c59",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "31aa95d38c21ed8b",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

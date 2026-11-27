@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 25 Nov 2026 | <a href="../data/MN.json">JSON</a> |
+| 🟡 Provisional | **5** | 25 Nov 2026 | <a href="../data/MN.json">JSON</a> |
 
 </div>
 
@@ -49,6 +49,13 @@
 <td align="right">74</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/kusule1351-hue.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kusule1351-hue/thought-desk"><b>kusule1351-hue/thought-desk</b></a><br><sub>A fast, local-first Notion alternative built with Rust + Tauri. Block editor, nested pages, full-text search, black-and…</sub></td>
+<td align="right"><b>304</b></td>
+<td align="right">20</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -57,8 +64,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 433 stars; 4 attributed candidates are tracked.
-- 131 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 304 stars; 5 attributed candidates are tracked.
+- 126 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 152 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

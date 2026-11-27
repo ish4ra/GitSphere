@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/haileys"><img src="https://avatars.githubusercontent.com/u/179065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haileys"><b>Hailey Somerville</b></a><br><sub>&#64;haileys</sub></td>
-<td align="right"><b>9,470</b></td>
+<td align="right"><b>9,471</b></td>
 <td align="right">389</td>
 <td><sub>Naarm / Melbourne</sub></td>
 </tr>
@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/rstacruz"><img src="https://avatars.githubusercontent.com/u/74385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rstacruz"><b>Rico Sta. Cruz</b></a><br><sub>&#64;rstacruz</sub></td>
-<td align="right"><b>6,739</b></td>
+<td align="right"><b>6,740</b></td>
 <td align="right">603</td>
 <td><sub>Melbourne, AU</sub></td>
 </tr>
@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/basarat"><img src="https://avatars.githubusercontent.com/u/874898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basarat"><b>Basarat Ali Syed</b></a><br><sub>&#64;basarat</sub></td>
-<td align="right"><b>4,120</b></td>
+<td align="right"><b>4,121</b></td>
 <td align="right">446</td>
 <td><sub>Melbourne, Australia</sub></td>
 </tr>
@@ -255,7 +255,7 @@
 <tr>
 <td align="right">34</td>
 <td><a href="https://github.com/radar"><img src="https://avatars.githubusercontent.com/u/2687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/radar"><b>Ryan Bigg</b></a><br><sub>&#64;radar</sub></td>
-<td align="right"><b>2,161</b></td>
+<td align="right"><b>2,160</b></td>
 <td align="right">238</td>
 <td><sub>Warrnambool (Outer outer western Melbourne), Au…</sub></td>
 </tr>
@@ -388,14 +388,14 @@
 <tr>
 <td align="right">53</td>
 <td><a href="https://github.com/jarrodwatts"><img src="https://avatars.githubusercontent.com/u/35651410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jarrodwatts"><b>Jarrod Watts</b></a><br><sub>&#64;jarrodwatts</sub></td>
-<td align="right"><b>1,548</b></td>
+<td align="right"><b>1,547</b></td>
 <td align="right">153</td>
 <td><sub>Sydney, Australia</sub></td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td><a href="https://github.com/geelen"><img src="https://avatars.githubusercontent.com/u/23264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geelen"><b>Glen Maddern</b></a><br><sub>&#64;geelen</sub></td>
-<td align="right"><b>1,540</b></td>
+<td align="right"><b>1,539</b></td>
 <td align="right">287</td>
 <td><sub>Melbourne/Naarm</sub></td>
 </tr>
@@ -458,7 +458,7 @@
 <tr>
 <td align="right">63</td>
 <td><a href="https://github.com/alecthomas"><img src="https://avatars.githubusercontent.com/u/41767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alecthomas"><b>Alec Thomas</b></a><br><sub>&#64;alecthomas</sub></td>
-<td align="right"><b>1,441</b></td>
+<td align="right"><b>1,440</b></td>
 <td align="right">181</td>
 <td><sub>Sydney, Australia</sub></td>
 </tr>
@@ -507,7 +507,7 @@
 <tr>
 <td align="right">70</td>
 <td><a href="https://github.com/mnot"><img src="https://avatars.githubusercontent.com/u/74384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mnot"><b>Mark Nottingham</b></a><br><sub>&#64;mnot</sub></td>
-<td align="right"><b>1,360</b></td>
+<td align="right"><b>1,359</b></td>
 <td align="right">68</td>
 <td><sub>Melbourne, Australia</sub></td>
 </tr>
@@ -599,7 +599,7 @@
 <td align="right">83</td>
 <td><a href="https://github.com/loftwah"><img src="https://avatars.githubusercontent.com/u/19922556?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loftwah"><b>Dean Lofts</b></a><br><sub>&#64;loftwah</sub></td>
 <td align="right"><b>1,171</b></td>
-<td align="right">386</td>
+<td align="right">388</td>
 <td><sub>Melbourne, Australia</sub></td>
 </tr>
 <tr>
@@ -675,7 +675,7 @@
 <tr>
 <td align="right">94</td>
 <td><a href="https://github.com/durgeshsamariya"><img src="https://avatars.githubusercontent.com/u/16861529?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/durgeshsamariya"><b>Durgesh Samariya</b></a><br><sub>&#64;durgeshsamariya</sub></td>
-<td align="right"><b>1,068</b></td>
+<td align="right"><b>1,067</b></td>
 <td align="right">32</td>
 <td><sub>Australia</sub></td>
 </tr>
@@ -696,7 +696,7 @@
 <tr>
 <td align="right">97</td>
 <td><a href="https://github.com/yonaskolb"><img src="https://avatars.githubusercontent.com/u/2393781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yonaskolb"><b>Yonas Kolb</b></a><br><sub>&#64;yonaskolb</sub></td>
-<td align="right"><b>1,049</b></td>
+<td align="right"><b>1,048</b></td>
 <td align="right">106</td>
 <td><sub>Australia</sub></td>
 </tr>
@@ -717,7 +717,7 @@
 <tr>
 <td align="right">100</td>
 <td><a href="https://github.com/insin"><img src="https://avatars.githubusercontent.com/u/226692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/insin"><b>Jonny Buchanan</b></a><br><sub>&#64;insin</sub></td>
-<td align="right"><b>1,024</b></td>
+<td align="right"><b>1,025</b></td>
 <td align="right">138</td>
 <td><sub>Brisbane, Australia</sub></td>
 </tr>
@@ -787,7 +787,7 @@
 <tr>
 <td align="right">110</td>
 <td><a href="https://github.com/mattgallagher"><img src="https://avatars.githubusercontent.com/u/28080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattgallagher"><b>Matt Gallagher</b></a><br><sub>&#64;mattgallagher</sub></td>
-<td align="right"><b>975</b></td>
+<td align="right"><b>974</b></td>
 <td align="right">25</td>
 <td><sub>Melbourne, Australia.</sub></td>
 </tr>
@@ -1032,7 +1032,7 @@
 <tr>
 <td align="right">145</td>
 <td><a href="https://github.com/Brendonovich"><img src="https://avatars.githubusercontent.com/u/14191578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Brendonovich"><b>Brendan Allan</b></a><br><sub>&#64;Brendonovich</sub></td>
-<td align="right"><b>725</b></td>
+<td align="right"><b>727</b></td>
 <td align="right">125</td>
 <td><sub>Western Australia</sub></td>
 </tr>
@@ -1130,7 +1130,7 @@
 <tr>
 <td align="right">159</td>
 <td><a href="https://github.com/glasnt"><img src="https://avatars.githubusercontent.com/u/813732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/glasnt"><b>Katie McLaughlin</b></a><br><sub>&#64;glasnt</sub></td>
-<td align="right"><b>674</b></td>
+<td align="right"><b>675</b></td>
 <td align="right">369</td>
 <td><sub>Australia</sub></td>
 </tr>
@@ -1263,7 +1263,7 @@
 <tr>
 <td align="right">178</td>
 <td><a href="https://github.com/0xdevalias"><img src="https://avatars.githubusercontent.com/u/753891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xdevalias"><b>Glenn &#39;devalias&#39; Grant</b></a><br><sub>&#64;0xdevalias</sub></td>
-<td align="right"><b>614</b></td>
+<td align="right"><b>613</b></td>
 <td align="right">198</td>
 <td><sub>Australia</sub></td>
 </tr>
@@ -2753,17 +2753,17 @@
 </tr>
 <tr>
 <td align="right">391</td>
-<td><a href="https://github.com/danieldelcore"><img src="https://avatars.githubusercontent.com/u/3030010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danieldelcore"><b>Daniel Del Core</b></a><br><sub>&#64;danieldelcore</sub></td>
-<td align="right"><b>346</b></td>
-<td align="right">50</td>
-<td><sub>Sydney, Australia</sub></td>
-</tr>
-<tr>
-<td align="right">392</td>
 <td><a href="https://github.com/tim-buchalka"><img src="https://avatars.githubusercontent.com/u/23271474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tim-buchalka"><b>Tim Buchalka</b></a><br><sub>&#64;tim-buchalka</sub></td>
 <td align="right"><b>346</b></td>
 <td align="right">9</td>
 <td><sub>Adelaide, Australia</sub></td>
+</tr>
+<tr>
+<td align="right">392</td>
+<td><a href="https://github.com/danieldelcore"><img src="https://avatars.githubusercontent.com/u/3030010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danieldelcore"><b>Daniel Del Core</b></a><br><sub>&#64;danieldelcore</sub></td>
+<td align="right"><b>345</b></td>
+<td align="right">50</td>
+<td><sub>Sydney, Australia</sub></td>
 </tr>
 <tr>
 <td align="right">393</td>
@@ -2858,17 +2858,17 @@
 </tr>
 <tr>
 <td align="right">406</td>
+<td><a href="https://github.com/ArjunAranetaCodes"><img src="https://avatars.githubusercontent.com/u/16072259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArjunAranetaCodes"><b>Arjun Araneta</b></a><br><sub>&#64;ArjunAranetaCodes</sub></td>
+<td align="right"><b>338</b></td>
+<td align="right">171</td>
+<td><sub>Sydney, Australia</sub></td>
+</tr>
+<tr>
+<td align="right">407</td>
 <td><a href="https://github.com/Firstyear"><img src="https://avatars.githubusercontent.com/u/271005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Firstyear"><b>Firstyear</b></a><br><sub>&#64;Firstyear</sub></td>
 <td align="right"><b>338</b></td>
 <td align="right">93</td>
 <td><sub>Australia/Brisbane</sub></td>
-</tr>
-<tr>
-<td align="right">407</td>
-<td><a href="https://github.com/ArjunAranetaCodes"><img src="https://avatars.githubusercontent.com/u/16072259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArjunAranetaCodes"><b>Arjun Araneta</b></a><br><sub>&#64;ArjunAranetaCodes</sub></td>
-<td align="right"><b>337</b></td>
-<td align="right">171</td>
-<td><sub>Sydney, Australia</sub></td>
 </tr>
 <tr>
 <td align="right">408</td>
@@ -3516,73 +3516,73 @@
 </tr>
 <tr>
 <td align="right">500</td>
+<td><a href="https://github.com/lemonadesaltbagel"><img src="https://avatars.githubusercontent.com/u/731913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lemonadesaltbagel"><b>Austin Huang</b></a><br><sub>&#64;lemonadesaltbagel</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">34</td>
+<td><sub>Sydney, Australia</sub></td>
+</tr>
+<tr>
+<td align="right">501</td>
 <td><a href="https://github.com/alexgurr"><img src="https://avatars.githubusercontent.com/u/4161867?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexgurr"><b>Alex Gurr</b></a><br><sub>&#64;alexgurr</sub></td>
 <td align="right"><b>285</b></td>
 <td align="right">17</td>
 <td><sub>Sydney</sub></td>
 </tr>
 <tr>
-<td align="right">501</td>
+<td align="right">502</td>
 <td><a href="https://github.com/ntwb"><img src="https://avatars.githubusercontent.com/u/1016458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntwb"><b>Stephen Edgar</b></a><br><sub>&#64;ntwb</sub></td>
 <td align="right"><b>283</b></td>
 <td align="right">79</td>
 <td><sub>Melbourne, Victoria, Australia</sub></td>
 </tr>
 <tr>
-<td align="right">502</td>
+<td align="right">503</td>
 <td><a href="https://github.com/patrickgwsmith"><img src="https://avatars.githubusercontent.com/u/2635733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/patrickgwsmith"><b>Patrick George Wyndham Smith</b></a><br><sub>&#64;patrickgwsmith</sub></td>
 <td align="right"><b>282</b></td>
 <td align="right">176</td>
 <td><sub>Melbourne, Australia</sub></td>
 </tr>
 <tr>
-<td align="right">503</td>
+<td align="right">504</td>
 <td><a href="https://github.com/MegaManSec"><img src="https://avatars.githubusercontent.com/u/2505339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MegaManSec"><b>Joshua Rogers</b></a><br><sub>&#64;MegaManSec</sub></td>
 <td align="right"><b>282</b></td>
 <td align="right">51</td>
 <td><sub>5% in Australia, 95% somewhere in Eastern Europe</sub></td>
 </tr>
 <tr>
-<td align="right">504</td>
+<td align="right">505</td>
 <td><a href="https://github.com/liweiyi88"><img src="https://avatars.githubusercontent.com/u/7248260?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liweiyi88"><b>Julian Li</b></a><br><sub>&#64;liweiyi88</sub></td>
 <td align="right"><b>282</b></td>
 <td align="right">43</td>
 <td><sub>Melbourne, Australia</sub></td>
 </tr>
 <tr>
-<td align="right">505</td>
+<td align="right">506</td>
 <td><a href="https://github.com/directorcia"><img src="https://avatars.githubusercontent.com/u/13878059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/directorcia"><b>directorcia</b></a><br><sub>&#64;directorcia</sub></td>
 <td align="right"><b>281</b></td>
 <td align="right">11</td>
 <td><sub>Sydney, Australia</sub></td>
 </tr>
 <tr>
-<td align="right">506</td>
+<td align="right">507</td>
 <td><a href="https://github.com/madhavajay"><img src="https://avatars.githubusercontent.com/u/2882739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madhavajay"><b>Madhava Jay</b></a><br><sub>&#64;madhavajay</sub></td>
 <td align="right"><b>280</b></td>
 <td align="right">231</td>
 <td><sub>Brisbane, Australia</sub></td>
 </tr>
 <tr>
-<td align="right">507</td>
+<td align="right">508</td>
 <td><a href="https://github.com/tcharding"><img src="https://avatars.githubusercontent.com/u/12626037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tcharding"><b>Tobin C. Harding</b></a><br><sub>&#64;tcharding</sub></td>
 <td align="right"><b>279</b></td>
 <td align="right">136</td>
 <td><sub>Sydney, Australia.</sub></td>
 </tr>
 <tr>
-<td align="right">508</td>
+<td align="right">509</td>
 <td><a href="https://github.com/abcoathup"><img src="https://avatars.githubusercontent.com/u/28278242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abcoathup"><b>Andrew B Coathup</b></a><br><sub>&#64;abcoathup</sub></td>
 <td align="right"><b>279</b></td>
 <td align="right">104</td>
 <td><sub>Melbourne, Australia</sub></td>
-</tr>
-<tr>
-<td align="right">509</td>
-<td><a href="https://github.com/lemonadesaltbagel"><img src="https://avatars.githubusercontent.com/u/731913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lemonadesaltbagel"><b>Austin Huang</b></a><br><sub>&#64;lemonadesaltbagel</sub></td>
-<td align="right"><b>279</b></td>
-<td align="right">34</td>
-<td><sub>Sydney, Australia</sub></td>
 </tr>
 <tr>
 <td align="right">510</td>
@@ -4364,7 +4364,7 @@
 <tr>
 <td align="right">621</td>
 <td><a href="https://github.com/physwizz"><img src="https://avatars.githubusercontent.com/u/57054304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/physwizz"><b>physwizz</b></a><br><sub>&#64;physwizz</sub></td>
-<td align="right"><b>235</b></td>
+<td align="right"><b>236</b></td>
 <td align="right">387</td>
 <td><sub>Sydney Australia</sub></td>
 </tr>
@@ -4678,24 +4678,24 @@
 </tr>
 <tr>
 <td align="right">666</td>
-<td><a href="https://github.com/philippbayer"><img src="https://avatars.githubusercontent.com/u/413885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/philippbayer"><b>Philipp Bayer</b></a><br><sub>&#64;philippbayer</sub></td>
-<td align="right"><b>222</b></td>
-<td align="right">65</td>
-<td><sub>Perth, Australia</sub></td>
-</tr>
-<tr>
-<td align="right">667</td>
 <td><a href="https://github.com/stephenbradshaw"><img src="https://avatars.githubusercontent.com/u/7692557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stephenbradshaw"><b>Stephen Bradshaw</b></a><br><sub>&#64;stephenbradshaw</sub></td>
 <td align="right"><b>222</b></td>
 <td align="right">65</td>
 <td><sub>Australia</sub></td>
 </tr>
 <tr>
-<td align="right">668</td>
+<td align="right">667</td>
 <td><a href="https://github.com/sampage"><img src="https://avatars.githubusercontent.com/u/596289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sampage"><b>Sam Page</b></a><br><sub>&#64;sampage</sub></td>
 <td align="right"><b>222</b></td>
 <td align="right">15</td>
 <td><sub>Melbourne</sub></td>
+</tr>
+<tr>
+<td align="right">668</td>
+<td><a href="https://github.com/philippbayer"><img src="https://avatars.githubusercontent.com/u/413885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/philippbayer"><b>Philipp Bayer</b></a><br><sub>&#64;philippbayer</sub></td>
+<td align="right"><b>221</b></td>
+<td align="right">65</td>
+<td><sub>Perth, Australia</sub></td>
 </tr>
 <tr>
 <td align="right">669</td>
@@ -5581,44 +5581,44 @@
 </tr>
 <tr>
 <td align="right">795</td>
+<td><a href="https://github.com/MysteryPancake"><img src="https://avatars.githubusercontent.com/u/9063769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MysteryPancake"><b>Hallam Roberts</b></a><br><sub>&#64;MysteryPancake</sub></td>
+<td align="right"><b>185</b></td>
+<td align="right">40</td>
+<td><sub>Australia</sub></td>
+</tr>
+<tr>
+<td align="right">796</td>
 <td><a href="https://github.com/rajyraman"><img src="https://avatars.githubusercontent.com/u/5035266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rajyraman"><b>Natraj Yegnaraman</b></a><br><sub>&#64;rajyraman</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">111</td>
 <td><sub>Melbourne, Australia</sub></td>
 </tr>
 <tr>
-<td align="right">796</td>
+<td align="right">797</td>
 <td><a href="https://github.com/Booligoosh"><img src="https://avatars.githubusercontent.com/u/14034891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Booligoosh"><b>Ethan</b></a><br><sub>&#64;Booligoosh</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">100</td>
 <td><sub>Australia</sub></td>
 </tr>
 <tr>
-<td align="right">797</td>
+<td align="right">798</td>
 <td><a href="https://github.com/DanielThomas"><img src="https://avatars.githubusercontent.com/u/1479220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanielThomas"><b>Danny Thomas</b></a><br><sub>&#64;DanielThomas</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">78</td>
 <td><sub>Melbourne, Australia</sub></td>
 </tr>
 <tr>
-<td align="right">798</td>
+<td align="right">799</td>
 <td><a href="https://github.com/KelvinJin"><img src="https://avatars.githubusercontent.com/u/2549987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KelvinJin"><b>Jin Wang</b></a><br><sub>&#64;KelvinJin</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">67</td>
 <td><sub>Melbourne</sub></td>
 </tr>
 <tr>
-<td align="right">799</td>
+<td align="right">800</td>
 <td><a href="https://github.com/thien94"><img src="https://avatars.githubusercontent.com/u/12378920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thien94"><b>Thien Nguyen</b></a><br><sub>&#64;thien94</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">47</td>
-<td><sub>Australia</sub></td>
-</tr>
-<tr>
-<td align="right">800</td>
-<td><a href="https://github.com/MysteryPancake"><img src="https://avatars.githubusercontent.com/u/9063769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MysteryPancake"><b>Hallam Roberts</b></a><br><sub>&#64;MysteryPancake</sub></td>
-<td align="right"><b>184</b></td>
-<td align="right">40</td>
 <td><sub>Australia</sub></td>
 </tr>
 <tr>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,302 attributed developers are tracked; the cutoff is 153 followers.
+- Organizations are excluded. 1,337 attributed developers are tracked; the cutoff is 153 followers.
 - **Location discovery:** term 0 of 124 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **77** | 24 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟡 Provisional | **82** | 24 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -560,6 +560,41 @@
 <td align="right">74</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/Maksims.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Maksims/web-udp-public"><b>Maksims/web-udp-public</b></a><br><sub>Public demand for Web UDP</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">11</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/mbrock.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbrock/wisp"><b>mbrock/wisp</b></a><br><sub>Lisp in WebAssembly</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">14</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/emoRaivis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emoRaivis/MacMorpheus"><b>emoRaivis/MacMorpheus</b></a><br><sub>3D 180/360 video player for macOS and PSVR</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">54</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/desktop-apps"><b>ONLYOFFICE/desktop-apps</b></a><br><sub>The frontend for ONLYOFFICE Desktop Editors which builds the program interface</sub></td>
+<td align="right"><b>296</b></td>
+<td align="right">105</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/watch-devtube.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/watch-devtube/web"><b>watch-devtube/web</b></a><br><sub>🍿 Free and open-source tech video hub.</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">47</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -568,8 +603,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 318 stars; 77 attributed candidates are tracked.
-- 93 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 294 stars; 82 attributed candidates are tracked.
+- 91 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

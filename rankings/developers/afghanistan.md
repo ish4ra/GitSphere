@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/SaeqaSultani"><img src="https://avatars.githubusercontent.com/u/74806645?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SaeqaSultani"><b>Saeqa Sultani</b></a><br><sub>&#64;SaeqaSultani</sub></td>
-<td align="right"><b>131</b></td>
+<td align="right"><b>130</b></td>
 <td align="right">61</td>
 <td><sub>Afghanistan</sub></td>
 </tr>

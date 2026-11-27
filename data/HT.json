@@ -5,14 +5,14 @@
 "country": {"code":"HT","name":"Haiti","slug":"haiti"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":532,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":143,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":532,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":139,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":92,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk4NDE4MzAy","name":"icheck","nameWithOwner":"drgullin/icheck","url":"https://github.com/drgullin/icheck","description":"Highly customizable checkboxes and radio buttons (jQuery & Zepto)","stars":7276,"forks":1572,"primaryLanguage":"CSS","license":null,"createdAt":"2013-02-25T21:09:25Z","pushedAt":"2020-12-19T03:59:54Z","archived":false,"owner":{"login":"drgullin","name":"Damir Gubaidullin","type":"User","url":"https://github.com/drgullin","location":"Source","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOJGGQ8A","name":"use-whisper","nameWithOwner":"chengsokdara/use-whisper","url":"https://github.com/chengsokdara/use-whisper","description":"React hook for OpenAI Whisper with speech recorder, real-time transcription, and silence removal built-in","stars":784,"forks":139,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2023-03-06T16:37:33Z","pushedAt":"2024-04-30T12:12:27Z","archived":false,"owner":{"login":"chengsokdara","name":"Sokdara Cheng","type":"User","url":"https://github.com/chengsokdara","location":"Source","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-27"},
   {"rank":3,"id":"R_kgDOQW3NMQ","name":"casualties-together","nameWithOwner":"creaturefeaturelarry/casualties-together","url":"https://github.com/creaturefeaturelarry/casualties-together","description":"Online Multiplayer Co-op mod for game \"Casualties: Unknown\"","stars":532,"forks":33,"primaryLanguage":"C#","license":{"spdxId":"LGPL-2.1"},"createdAt":"2025-11-16T17:41:28Z","pushedAt":"2026-11-25T01:52:07Z","archived":false,"owner":{"login":"creaturefeaturelarry","name":"Larry","type":"User","url":"https://github.com/creaturefeaturelarry","location":"Larry","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "477a5e82674126f8",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "b383893e1218a21c",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

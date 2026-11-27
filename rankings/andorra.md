@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 24 Nov 2026 | <a href="../data/AD.json">JSON</a> |
+| 🟡 Provisional | **16** | 24 Nov 2026 | <a href="../data/AD.json">JSON</a> |
 
 </div>
 
@@ -105,6 +105,34 @@
 <td align="right">103</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/Cinderella-Man.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot"><b>Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot</b></a><br><sub>Source code to generate the &quot;Hands-on Elixir &amp; OTP: Cryptocurrency trading bot&quot; book</sub></td>
+<td align="right"><b>302</b></td>
+<td align="right">47</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/hussein-aitlahcen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hussein-aitlahcen/BlackHole"><b>hussein-aitlahcen/BlackHole</b></a><br><sub>C# RAT (Remote Administration Tool)</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">95</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/facundomedica.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/facundomedica/fast_qr_reader_view"><b>facundomedica/fast&#95;qr&#95;reader&#95;view</b></a><br><sub>A Fast QR Reader widget for Flutter. For both Android and iOS</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">157</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/loixlab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/loixlab/gstore-node"><b>loixlab/gstore-node</b></a><br><sub>Google Datastore Entities Modeling for Node.js</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">53</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -113,8 +141,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 366 stars; 12 attributed candidates are tracked.
-- 100 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 292 stars; 16 attributed candidates are tracked.
+- 90 multi-repository owners are queued for expansion.
 - **Location discovery:** term 3 of 23 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **35** | 24 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **37** | 24 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -266,6 +266,20 @@
 <td align="right">160</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/ribice.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ribice/glice"><b>ribice/glice</b></a><br><sub>Go license and dependency checker</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">22</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/ribice.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ribice/kiss"><b>ribice/kiss</b></a><br><sub>Stupidly simple Hugo blogging theme</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">119</td>
+<td>CSS</td>
+</tr>
 </tbody>
 </table>
 
@@ -274,8 +288,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 329 stars; 35 attributed candidates are tracked.
-- 49 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 305 stars; 37 attributed candidates are tracked.
+- 36 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

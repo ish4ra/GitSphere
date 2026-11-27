@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **70** | 24 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **80** | 24 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -511,6 +511,76 @@
 <td align="right">2</td>
 <td>HTML</td>
 </tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/MiragianCycle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MiragianCycle/OVIWrite"><b>MiragianCycle/OVIWrite</b></a><br><sub>Integrated Writing Environment (IWE) based on NeoVim</sub></td>
+<td align="right"><b>309</b></td>
+<td align="right">26</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/poorna-soysa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/poorna-soysa/grpc-demo"><b>poorna-soysa/grpc-demo</b></a><br><sub>This repository contains a sample application built with .NET 8, demonstrating the use of gRPC for high-performance rem…</sub></td>
+<td align="right"><b>306</b></td>
+<td align="right">156</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/Sameera-Perera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App"><b>Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App</b></a><br><sub>A modern E-Commerce mobile application built with Flutter, TDD, Clean Architecture, and BLoC.</sub></td>
+<td align="right"><b>306</b></td>
+<td align="right">103</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/harshq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/harshq/react-native-mentions"><b>harshq/react-native-mentions</b></a> <sub>archived</sub><br><sub>Mentions textbox for React Native. Works on both ios and android. :whale:</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">80</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/poorna-soysa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/poorna-soysa/vertical-slice-architecture-template"><b>poorna-soysa/vertical-slice-architecture-template</b></a><br><sub>Vertical Slice Architecture Template for .NET 10</sub></td>
+<td align="right"><b>301</b></td>
+<td align="right">135</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/sameerasw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sameerasw/airsync-android"><b>sameerasw/airsync-android</b></a><br><sub>Android app for AirSync - Bring the forbidden mac continuity to Android</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">42</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/AathifMahir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AathifMahir/MauiIcons"><b>AathifMahir/MauiIcons</b></a><br><sub>MauiIcons is Icon Collection Library for .Net Maui</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">22</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/kasun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kasun/python-tail"><b>kasun/python-tail</b></a><br><sub>Unix tail follow implementation in python</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">105</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/menukaonline.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/menukaonline/Mega-to-Google-Drive"><b>menukaonline/Mega-to-Google-Drive</b></a><br><sub>This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">139</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/shakee93.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shakee93/fonoapi"><b>shakee93/fonoapi</b></a> <sub>archived</sub><br><sub>:telephone: FonoApi - Mobile Device Description API</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">60</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -519,8 +589,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 325 stars; 70 attributed candidates are tracked.
-- 106 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 294 stars; 80 attributed candidates are tracked.
+- 99 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

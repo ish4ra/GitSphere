@@ -5,7 +5,7 @@
 "country": {"code":"CM","name":"Cameroon","slug":"cameroon"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":359,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":121,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":359,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":117,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOODWSNw","name":"circle","nameWithOwner":"ln-dev7/circle","url":"https://github.com/ln-dev7/circle","description":"UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.","stars":4771,"forks":507,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2025-03-05T04:21:49Z","pushedAt":"2026-09-04T13:42:14Z","archived":false,"owner":{"login":"ln-dev7","name":"LN","type":"User","url":"https://github.com/ln-dev7","location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyNzQ5NDA0ODk=","name":"NexoPOS","nameWithOwner":"Blair2004/NexoPOS","url":"https://github.com/Blair2004/NexoPOS","description":"Laravel-based web POS system with Vue.js, Tailwind CSS, inventory management, sales processing, customer records, reports, and modular extension support.","stars":1311,"forks":588,"primaryLanguage":"PHP","license":{"spdxId":"GPL-3.0"},"createdAt":"2020-06-25T14:40:59Z","pushedAt":"2026-11-22T17:14:30Z","archived":false,"owner":{"login":"Blair2004","name":"Blair Jersyer","type":"User","url":"https://github.com/Blair2004","location":"Cameroon. Yaoundé","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
@@ -19,8 +19,8 @@
   {"rank":10,"id":"R_kgDONrDFVA","name":"Free-Ui-game","nameWithOwner":"Leoneldev532/Free-Ui-game","url":"https://github.com/Leoneldev532/Free-Ui-game","description":null,"stars":363,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2025-01-16T07:59:33Z","pushedAt":"2026-10-08T17:56:43Z","archived":false,"owner":{"login":"Leoneldev532","name":"leonel Yimga","type":"User","url":"https://github.com/Leoneldev532","location":"Cameroun","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
   {"rank":11,"id":"R_kgDOVE3x5w","name":"landing-pages","nameWithOwner":"ln-dev7/landing-pages","url":"https://github.com/ln-dev7/landing-pages","description":"Open-source landing pages with a personality of their own.","stars":359,"forks":63,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-10-11T13:54:46Z","pushedAt":"2026-11-25T07:55:51Z","archived":false,"owner":{"login":"ln-dev7","name":"LN","type":"User","url":"https://github.com/ln-dev7","location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "9de99de9952fa2d6",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "09d825daac4dd85f",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

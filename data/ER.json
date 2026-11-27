@@ -5,7 +5,7 @@
 "country": {"code":"ER","name":"Eritrea","slug":"eritrea"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":17,"ownerExpansionBacklog":24,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":17,"ownerExpansionBacklog":24,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"soira-wall","nameWithOwner":"AbelNebay/soira-wall","url":"https://github.com/AbelNebay/soira-wall","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-03-31T09:22:29Z","pushedAt":"2026-03-31T19:20:24Z","archived":false,"owner":{"login":"AbelNebay","name":"Abel Nebay","type":"User","url":"https://github.com/AbelNebay","location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"branskreelan","nameWithOwner":"branskreelan/branskreelan","url":"https://github.com/branskreelan/branskreelan","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-27T19:05:40Z","pushedAt":"2024-09-27T19:05:52Z","archived":false,"owner":{"login":"branskreelan","name":null,"type":"User","url":"https://github.com/branskreelan","location":"Eritrea (ER)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -25,8 +25,8 @@
   {"rank":16,"id":null,"name":"MiscMinecraft","nameWithOwner":"Utikeles/MiscMinecraft","url":"https://github.com/Utikeles/MiscMinecraft","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-12-10T22:24:45Z","pushedAt":"2025-12-18T22:42:57Z","archived":false,"owner":{"login":"Utikeles","name":null,"type":"User","url":"https://github.com/Utikeles","location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":17,"id":null,"name":"zeroprinmrzadrot","nameWithOwner":"zeroprinmrzadrot/zeroprinmrzadrot","url":"https://github.com/zeroprinmrzadrot/zeroprinmrzadrot","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-25T00:26:12Z","pushedAt":"2024-09-25T00:26:24Z","archived":false,"owner":{"login":"zeroprinmrzadrot","name":null,"type":"User","url":"https://github.com/zeroprinmrzadrot","location":"Eritrea (ER)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "5e12956acc5f71e8",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "0817b75008aa04d6",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

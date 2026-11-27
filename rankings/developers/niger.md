@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/feyroozecode"><img src="https://avatars.githubusercontent.com/u/43380715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feyroozecode"><b>Ibrahim Ahmad (feyroozecode)</b></a><br><sub>&#64;feyroozecode</sub></td>
-<td align="right"><b>113</b></td>
+<td align="right"><b>115</b></td>
 <td align="right">402</td>
 <td><sub>Niger</sub></td>
 </tr>
@@ -164,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/Abdoulaye-Ly"><img src="https://avatars.githubusercontent.com/u/60848186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdoulaye-Ly"><b>Abdoulaye Ousmane Ly</b></a><br><sub>&#64;Abdoulaye-Ly</sub></td>
-<td align="right"><b>18</b></td>
+<td align="right"><b>19</b></td>
 <td align="right">51</td>
 <td><sub>Niamey, Niger</sub></td>
 </tr>

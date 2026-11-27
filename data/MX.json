@@ -5,7 +5,7 @@
 "country": {"code":"MX","name":"Mexico","slug":"mexico"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":397,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":113,"candidates":140,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":153,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":397,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":113,"candidates":146,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":153,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxNjI2MDgzMzg=","name":"ds-cheatsheets","nameWithOwner":"FavioVazquez/ds-cheatsheets","url":"https://github.com/FavioVazquez/ds-cheatsheets","description":"List of Data Science Cheatsheets to rule the world","stars":16390,"forks":4017,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2018-12-20T17:02:46Z","pushedAt":"2024-07-18T03:39:29Z","archived":false,"owner":{"login":"FavioVazquez","name":"Favio Vázquez","type":"User","url":"https://github.com/FavioVazquez","location":"México","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzMDY0MzU1","name":"bats","nameWithOwner":"sstephenson/bats","url":"https://github.com/sstephenson/bats","description":"Bash Automated Testing System","stars":7096,"forks":505,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2011-12-28T18:40:33Z","pushedAt":"2019-09-27T17:21:43Z","archived":true,"owner":{"login":"sstephenson","name":"Sam Stephenson","type":"User","url":"https://github.com/sstephenson","location":"Ciudad de México","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk2MDcxMjU1OA==","name":"loopback-sdk-builder","nameWithOwner":"mean-expert-official/loopback-sdk-builder","url":"https://github.com/mean-expert-official/loopback-sdk-builder","description":"Tool for auto-generating Software Development Kits (SDKs) for LoopBack","stars":398,"forks":174,"primaryLanguage":"HTML","license":{"spdxId":"NOASSERTION"},"createdAt":"2016-06-08T16:24:27Z","pushedAt":"2024-05-01T23:37:53Z","archived":false,"owner":{"login":"mean-expert-official","name":"MEAN Expert","type":"Organization","url":"https://github.com/mean-expert-official","location":"Guadalajara, México","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
   {"rank":100,"id":"R_kgDOGyg6PA","name":"onboarding-github-launchx","nameWithOwner":"LaunchX-InnovaccionVirtual/onboarding-github-launchx","url":"https://github.com/LaunchX-InnovaccionVirtual/onboarding-github-launchx","description":"Cómo ingresar a la organización de Launch X by Innovacción Virtual","stars":397,"forks":114,"primaryLanguage":null,"license":null,"createdAt":"2022-02-04T16:37:58Z","pushedAt":"2022-09-18T20:37:54Z","archived":false,"owner":{"login":"LaunchX-InnovaccionVirtual","name":"Launch X","type":"Organization","url":"https://github.com/LaunchX-InnovaccionVirtual","location":"Mexico","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "230aea185f3fd0e8",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "02dc41d7af5f066b",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

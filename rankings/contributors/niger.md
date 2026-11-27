@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/NE.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/NE.json">JSON</a> |
 
 </div>
 
@@ -61,7 +61,7 @@
 </tr>
 <tr>
 <td align="right">5</td>
-<td><a href="https://github.com/feyroozecode"><img src="https://avatars.githubusercontent.com/u/43380715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feyroozecode"><b>Ibrahim Ahmad (feyroozecode)</b></a><br><sub>&#64;feyroozecode · 113 followers</sub></td>
+<td><a href="https://github.com/feyroozecode"><img src="https://avatars.githubusercontent.com/u/43380715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feyroozecode"><b>Ibrahim Ahmad (feyroozecode)</b></a><br><sub>&#64;feyroozecode · 115 followers</sub></td>
 <td align="right"><b>135</b></td>
 <td align="right">96</td>
 <td align="right">2</td>
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/Abdoulaye-Ly"><img src="https://avatars.githubusercontent.com/u/60848186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdoulaye-Ly"><b>Abdoulaye Ousmane Ly</b></a><br><sub>&#64;Abdoulaye-Ly · 19 followers</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">24</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/bkina1"><img src="https://avatars.githubusercontent.com/u/124517876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bkina1"><b>Boubacar Kina</b></a><br><sub>&#64;bkina1 · 27 followers</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">23</td>
@@ -105,7 +114,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
+<td><a href="https://github.com/Godisouleymane"><img src="https://avatars.githubusercontent.com/u/117613536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Godisouleymane"><b>Souleymane Sabiou</b></a><br><sub>&#64;Godisouleymane · 12 followers</sub></td>
+<td align="right"><b>21</b></td>
+<td align="right">16</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/abass-dev"><img src="https://avatars.githubusercontent.com/u/83253804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abass-dev"><b>Mr. Abass</b></a><br><sub>&#64;abass-dev · 67 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">15</td>
@@ -114,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
 <td><a href="https://github.com/Yacoubou-seidou"><img src="https://avatars.githubusercontent.com/u/84572891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yacoubou-seidou"><b>Yacos</b></a><br><sub>&#64;Yacoubou-seidou · 65 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">12</td>
@@ -123,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/sabiou"><img src="https://avatars.githubusercontent.com/u/25927652?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sabiou"><b>Farouk Sabiou</b></a><br><sub>&#64;sabiou · 179 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">11</td>
@@ -132,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
 <td><a href="https://github.com/zeud"><img src="https://avatars.githubusercontent.com/u/20393428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zeud"><b>zeud</b></a><br><sub>&#64;zeud · 1 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -141,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/TrakyRichard"><img src="https://avatars.githubusercontent.com/u/44176825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TrakyRichard"><b>Traky Richard</b></a><br><sub>&#64;TrakyRichard · 27 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -150,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/CS-IMMS"><img src="https://avatars.githubusercontent.com/u/64371436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CS-IMMS"><b>Ismael Mahamadou Moussa</b></a><br><sub>&#64;CS-IMMS · 9 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -159,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/barayaa"><img src="https://avatars.githubusercontent.com/u/57943808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barayaa"><b>barayaa</b></a><br><sub>&#64;barayaa · 5 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -174,7 +192,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 388 discovered developers (365 awaiting measurement).
+- **Measured:** 27 of 388 discovered developers (361 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 65 in round 1.

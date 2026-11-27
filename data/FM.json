@@ -5,7 +5,7 @@
 "country": {"code":"FM","name":"Micronesia","slug":"micronesia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":15,"ownerExpansionBacklog":18,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":59,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":15,"ownerExpansionBacklog":18,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":59,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"aildelobitmap","nameWithOwner":"aildelobitmap/aildelobitmap","url":"https://github.com/aildelobitmap/aildelobitmap","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-27T17:31:58Z","pushedAt":"2024-09-27T17:32:09Z","archived":false,"owner":{"login":"aildelobitmap","name":null,"type":"User","url":"https://github.com/aildelobitmap","location":"Micronesia (FM)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"hello-world","nameWithOwner":"breakthroughs/hello-world","url":"https://github.com/breakthroughs/hello-world","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2014-11-24T08:38:59Z","pushedAt":"2014-11-24T08:38:59Z","archived":false,"owner":{"login":"breakthroughs","name":"Nacanieli (Nat) Tuivavalagi","type":"User","url":"https://github.com/breakthroughs","location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -23,8 +23,8 @@
   {"rank":14,"id":null,"name":"alldomainschecker","nameWithOwner":"soldebug/alldomainschecker","url":"https://github.com/soldebug/alldomainschecker","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-09-30T10:50:55Z","pushedAt":"2025-09-30T12:04:09Z","archived":false,"owner":{"login":"soldebug","name":null,"type":"User","url":"https://github.com/soldebug","location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":15,"id":null,"name":".github","nameWithOwner":"sxup-tech/.github","url":"https://github.com/sxup-tech/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-10-01T16:46:08Z","pushedAt":"2024-08-28T12:44:51Z","archived":false,"owner":{"login":"sxup-tech","name":"SXUP Technology","type":"Organization","url":"https://github.com/sxup-tech","location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "9ef80b6761f6c9c3",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "83827af77ab2b66d",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

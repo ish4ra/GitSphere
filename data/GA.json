@@ -5,7 +5,7 @@
 "country": {"code":"GA","name":"Gabon","slug":"gabon"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":65,"ownerExpansionBacklog":149,"candidates":65,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":45,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":65,"ownerExpansionBacklog":149,"candidates":65,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":45,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"DevConnect-v2","nameWithOwner":"WuApp241/DevConnect-v2","url":"https://github.com/WuApp241/DevConnect-v2","description":null,"stars":0,"forks":10,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-06-05T07:42:46Z","pushedAt":"2026-07-21T05:08:53Z","archived":false,"owner":{"login":"WuApp241","name":"Wura","type":"User","url":"https://github.com/WuApp241","location":"Gabon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"20Yessie","nameWithOwner":"AbelGG-It/20Yessie","url":"https://github.com/AbelGG-It/20Yessie","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-04-13T13:15:41Z","pushedAt":"2022-04-13T13:15:42Z","archived":false,"owner":{"login":"AbelGG-It","name":"SERV_IT","type":"User","url":"https://github.com/AbelGG-It","location":"Port-Gentil/Gabon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -73,8 +73,8 @@
   {"rank":64,"id":null,"name":"medic-info","nameWithOwner":"faneolya/medic-info","url":"https://github.com/faneolya/medic-info","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-08-06T19:20:04Z","pushedAt":"2026-08-06T19:22:03Z","archived":false,"owner":{"login":"faneolya","name":"Faneolia Bissangoye","type":"User","url":"https://github.com/faneolya","location":"GABON","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":65,"id":null,"name":"SAYNA-CULTUREG-PROJET1","nameWithOwner":"felixpmb/SAYNA-CULTUREG-PROJET1","url":"https://github.com/felixpmb/SAYNA-CULTUREG-PROJET1","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-03-24T17:14:34Z","pushedAt":"2023-03-30T12:57:27Z","archived":false,"owner":{"login":"felixpmb","name":"étudiant en développement","type":"User","url":"https://github.com/felixpmb","location":"gabon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "9dba385ac878b8c6",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "1c47f6fbdf5cdf5f",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

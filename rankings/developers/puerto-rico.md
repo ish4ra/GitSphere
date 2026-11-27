@@ -164,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/rnegron"><img src="https://avatars.githubusercontent.com/u/4153103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rnegron"><b>Raúl Negrón-Otero</b></a><br><sub>&#64;rnegron</sub></td>
-<td align="right"><b>117</b></td>
+<td align="right"><b>116</b></td>
 <td align="right">44</td>
 <td><sub>Bayamón, Puerto Rico</sub></td>
 </tr>
@@ -247,38 +247,38 @@
 </tr>
 <tr>
 <td align="right">33</td>
-<td><a href="https://github.com/adamb"><img src="https://avatars.githubusercontent.com/u/4441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamb"><b>Adam Beguelin</b></a><br><sub>&#64;adamb</sub></td>
-<td align="right"><b>70</b></td>
-<td align="right">76</td>
-<td><sub>Puerto Rico</sub></td>
-</tr>
-<tr>
-<td align="right">34</td>
 <td><a href="https://github.com/bombillazo"><img src="https://avatars.githubusercontent.com/u/44002321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bombillazo"><b>Hector Ayala</b></a><br><sub>&#64;bombillazo</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">12</td>
 <td><sub>Puerto Rico</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">34</td>
 <td><a href="https://github.com/mattvv"><img src="https://avatars.githubusercontent.com/u/117194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattvv"><b>Matt Van</b></a><br><sub>&#64;mattvv</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">118</td>
 <td><sub>San Juan, Puerto Rico</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">35</td>
 <td><a href="https://github.com/jamesxv7"><img src="https://avatars.githubusercontent.com/u/121668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamesxv7"><b>Jaime Olmo</b></a><br><sub>&#64;jamesxv7</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">63</td>
 <td><sub>San Juan, Puerto Rico</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">36</td>
 <td><a href="https://github.com/ooovenenoso"><img src="https://avatars.githubusercontent.com/u/120500656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ooovenenoso"><b>ooovenenoso</b></a><br><sub>&#64;ooovenenoso</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">79</td>
 <td><sub>PUERTO RICO</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><a href="https://github.com/adamb"><img src="https://avatars.githubusercontent.com/u/4441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamb"><b>Adam Beguelin</b></a><br><sub>&#64;adamb</sub></td>
+<td align="right"><b>68</b></td>
+<td align="right">76</td>
+<td><sub>Puerto Rico</sub></td>
 </tr>
 <tr>
 <td align="right">38</td>
@@ -1579,7 +1579,7 @@
 <td align="right">223</td>
 <td><a href="https://github.com/Spatialgineers"><img src="https://avatars.githubusercontent.com/u/267115993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Spatialgineers"><b>Spatialgineers</b></a><br><sub>&#64;Spatialgineers</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">76</td>
+<td align="right">75</td>
 <td><sub>Puerto Rico</sub></td>
 </tr>
 <tr>

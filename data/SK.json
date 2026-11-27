@@ -5,7 +5,7 @@
 "country": {"code":"SK","name":"Slovakia","slug":"slovakia"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":348,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":108,"candidates":108,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":150,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":348,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":108,"candidates":116,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":150,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxNDEwNzYy","name":"proxychains","nameWithOwner":"haad/proxychains","url":"https://github.com/haad/proxychains","description":"proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy…","stars":8000,"forks":680,"primaryLanguage":"C","license":{"spdxId":"GPL-2.0"},"createdAt":"2011-02-25T12:27:05Z","pushedAt":"2024-06-08T02:20:54Z","archived":false,"owner":{"login":"haad","name":"Adam Hamsik","type":"User","url":"https://github.com/haad","location":"Bratislava Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk2NzI4NjgyMA==","name":"go-callvis","nameWithOwner":"ondrajz/go-callvis","url":"https://github.com/ondrajz/go-callvis","description":"Visualize call graph of a Go program using Graphviz","stars":6527,"forks":429,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2016-09-03T11:31:46Z","pushedAt":"2026-03-30T16:22:18Z","archived":false,"owner":{"login":"ondrajz","name":"Ondrej Fabry","type":"User","url":"https://github.com/ondrajz","location":"Bratislava, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkxMTU5NzMwNA==","name":"z-schema","nameWithOwner":"zaggino/z-schema","url":"https://github.com/zaggino/z-schema","description":"JSON Schema validator written in JavaScript for NodeJS and Browsers","stars":350,"forks":92,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2013-07-23T02:13:35Z","pushedAt":"2026-11-26T11:26:13Z","archived":false,"owner":{"login":"zaggino","name":"Martin Zagora","type":"User","url":"https://github.com/zaggino","location":"Trnava, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkzNjYxOTAzOA==","name":"rext","nameWithOwner":"j91321/rext","url":"https://github.com/j91321/rext","description":"Router EXploitation Toolkit - small toolkit for easy creation and usage of various python scripts that work with embedded devices.","stars":348,"forks":101,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2015-05-31T19:43:33Z","pushedAt":"2016-12-25T18:55:52Z","archived":false,"owner":{"login":"j91321","name":"Ján Trenčanský","type":"User","url":"https://github.com/j91321","location":"Slovakia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "efc5fdac472b9205",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "24fc7800f7bb305e",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

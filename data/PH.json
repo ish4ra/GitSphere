@@ -5,7 +5,7 @@
 "country": {"code":"PH","name":"Philippines","slug":"philippines"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":356,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":114,"candidates":121,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":210,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":356,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":114,"candidates":135,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":210,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMTg5ODE4Mg==","name":"favicon-cheat-sheet","nameWithOwner":"audreyfeldroy/favicon-cheat-sheet","url":"https://github.com/audreyfeldroy/favicon-cheat-sheet","description":"Obsessive cheat sheet to favicon sizes/types.","stars":9903,"forks":395,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2013-08-05T12:54:19Z","pushedAt":"2026-01-22T10:23:59Z","archived":false,"owner":{"login":"audreyfeldroy","name":"Audrey M. Roy Greenfeld","type":"User","url":"https://github.com/audreyfeldroy","location":"Manila","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOQjgu1A","name":"sutskever-30-implementations","nameWithOwner":"pageman/sutskever-30-implementations","url":"https://github.com/pageman/sutskever-30-implementations","description":"Sutskever 30 implementations inspired by https://papercode.vercel.app/ | For Agents, use https://github.com/pageman/Sutskever-Agent | Polyglot / Multi-Backed v…","stars":5226,"forks":667,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2025-12-06T03:08:41Z","pushedAt":"2026-03-15T22:54:50Z","archived":false,"owner":{"login":"pageman","name":"Paul Pajo","type":"User","url":"https://github.com/pageman","location":"Manila, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkxMzcyMzE0MQ==","name":"laragym","nameWithOwner":"johndavedecano/laragym","url":"https://github.com/johndavedecano/laragym","description":"A laravel gym management system","stars":363,"forks":195,"primaryLanguage":"PHP","license":null,"createdAt":"2013-10-20T17:16:46Z","pushedAt":"2026-05-14T13:41:09Z","archived":false,"owner":{"login":"johndavedecano","name":"John Dave Decano","type":"User","url":"https://github.com/johndavedecano","location":"Pasig, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkxNTc2NjE2Ng==","name":"TheSidebarController","nameWithOwner":"jondanao/TheSidebarController","url":"https://github.com/jondanao/TheSidebarController","description":"A container view controller that implements different popular sidebar view controllers like Facebook, Airbnb, Flipboard, etc.","stars":356,"forks":46,"primaryLanguage":"Objective-C","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-01-09T12:30:02Z","pushedAt":"2016-02-13T04:06:59Z","archived":false,"owner":{"login":"jondanao","name":"Jon Danao","type":"User","url":"https://github.com/jondanao","location":"Quezon City, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "a8924714cb850fde",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "f904c6a17bd2ff6f",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

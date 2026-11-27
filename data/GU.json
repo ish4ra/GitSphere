@@ -5,7 +5,7 @@
 "country": {"code":"GU","name":"Guam","slug":"guam"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":77,"ownerExpansionBacklog":102,"candidates":77,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":77,"ownerExpansionBacklog":102,"candidates":77,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"dotfiles","nameWithOwner":"altobismol/dotfiles","url":"https://github.com/altobismol/dotfiles","description":null,"stars":0,"forks":10,"primaryLanguage":"CSS","license":null,"createdAt":"2013-12-01T06:37:35Z","pushedAt":"2013-10-01T02:43:11Z","archived":false,"owner":{"login":"altobismol","name":"Daniel","type":"User","url":"https://github.com/altobismol","location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"final-project","nameWithOwner":"UOG-CS201-SP25/final-project","url":"https://github.com/UOG-CS201-SP25/final-project","description":null,"stars":0,"forks":2,"primaryLanguage":null,"license":null,"createdAt":"2025-05-07T07:57:27Z","pushedAt":"2025-05-07T07:59:35Z","archived":false,"owner":{"login":"UOG-CS201-SP25","name":"UOG CS201 Programming I - SP'25","type":"Organization","url":"https://github.com/UOG-CS201-SP25","location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -85,8 +85,8 @@
   {"rank":76,"id":null,"name":"Guam2022","nameWithOwner":"WXslaughter/Guam2022","url":"https://github.com/WXslaughter/Guam2022","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-06-28T14:10:23Z","pushedAt":"2022-06-28T14:10:25Z","archived":false,"owner":{"login":"WXslaughter","name":null,"type":"User","url":"https://github.com/WXslaughter","location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":77,"id":null,"name":"yourdreambillyjoe","nameWithOwner":"yourdreambillyjoe/yourdreambillyjoe","url":"https://github.com/yourdreambillyjoe/yourdreambillyjoe","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-25T04:41:21Z","pushedAt":"2024-09-25T04:41:34Z","archived":false,"owner":{"login":"yourdreambillyjoe","name":null,"type":"User","url":"https://github.com/yourdreambillyjoe","location":"Guam (GU)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "b176f8b01b002236",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "53935e0b934a109c",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

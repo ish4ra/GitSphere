@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/kdy1"><img src="https://avatars.githubusercontent.com/u/29931815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kdy1"><b>Donny/강동윤</b></a><br><sub>&#64;kdy1</sub></td>
-<td align="right"><b>4,521</b></td>
+<td align="right"><b>4,520</b></td>
 <td align="right">329</td>
 <td><sub>South korea</sub></td>
 </tr>
@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/hahwul"><img src="https://avatars.githubusercontent.com/u/13212227?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hahwul"><b>hahwul</b></a><br><sub>&#64;hahwul</sub></td>
-<td align="right"><b>3,149</b></td>
+<td align="right"><b>3,150</b></td>
 <td align="right">232</td>
 <td><sub>Republic of Korea</sub></td>
 </tr>
@@ -178,7 +178,7 @@
 <tr>
 <td align="right">23</td>
 <td><a href="https://github.com/joshua1988"><img src="https://avatars.githubusercontent.com/u/3272748?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joshua1988"><b>Captain Pangyo</b></a><br><sub>&#64;joshua1988</sub></td>
-<td align="right"><b>1,723</b></td>
+<td align="right"><b>1,722</b></td>
 <td align="right">130</td>
 <td><sub>South Korea</sub></td>
 </tr>
@@ -360,7 +360,7 @@
 <tr>
 <td align="right">49</td>
 <td><a href="https://github.com/rosinality"><img src="https://avatars.githubusercontent.com/u/4343568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rosinality"><b>Kim Seonghyeon</b></a><br><sub>&#64;rosinality</sub></td>
-<td align="right"><b>982</b></td>
+<td align="right"><b>984</b></td>
 <td align="right">88</td>
 <td><sub>Suwon</sub></td>
 </tr>
@@ -885,7 +885,7 @@
 <tr>
 <td align="right">124</td>
 <td><a href="https://github.com/Taeyoung96"><img src="https://avatars.githubusercontent.com/u/41863759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Taeyoung96"><b>TaeYoung Kim</b></a><br><sub>&#64;Taeyoung96</sub></td>
-<td align="right"><b>544</b></td>
+<td align="right"><b>543</b></td>
 <td align="right">112</td>
 <td><sub>Uiwang, South Korea</sub></td>
 </tr>
@@ -1004,7 +1004,7 @@
 <tr>
 <td align="right">141</td>
 <td><a href="https://github.com/jisungbin"><img src="https://avatars.githubusercontent.com/u/40740128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jisungbin"><b>Ji Sungbin</b></a><br><sub>&#64;jisungbin</sub></td>
-<td align="right"><b>502</b></td>
+<td align="right"><b>501</b></td>
 <td align="right">67</td>
 <td><sub>South Korea, Seoul</sub></td>
 </tr>
@@ -1242,7 +1242,7 @@
 <tr>
 <td align="right">175</td>
 <td><a href="https://github.com/JSpiner"><img src="https://avatars.githubusercontent.com/u/5474864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JSpiner"><b>smith&#95;정성민</b></a><br><sub>&#64;JSpiner</sub></td>
-<td align="right"><b>454</b></td>
+<td align="right"><b>453</b></td>
 <td align="right">120</td>
 <td><sub>Republic of Korea, Seoul</sub></td>
 </tr>
@@ -3362,38 +3362,38 @@
 </tr>
 <tr>
 <td align="right">478</td>
-<td><a href="https://github.com/Kyounghwan01"><img src="https://avatars.githubusercontent.com/u/44187477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kyounghwan01"><b>kyounghwan Noh</b></a><br><sub>&#64;Kyounghwan01</sub></td>
-<td align="right"><b>228</b></td>
-<td align="right">71</td>
-<td><sub>Seoul,Korea</sub></td>
-</tr>
-<tr>
-<td align="right">479</td>
 <td><a href="https://github.com/js-lee-AI"><img src="https://avatars.githubusercontent.com/u/60927808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/js-lee-AI"><b>Jungseob Lee</b></a><br><sub>&#64;js-lee-AI</sub></td>
 <td align="right"><b>228</b></td>
 <td align="right">70</td>
 <td><sub>Seoul, Korea</sub></td>
 </tr>
 <tr>
-<td align="right">480</td>
+<td align="right">479</td>
 <td><a href="https://github.com/skh6075"><img src="https://avatars.githubusercontent.com/u/44698603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skh6075"><b>Andrew</b></a><br><sub>&#64;skh6075</sub></td>
 <td align="right"><b>228</b></td>
 <td align="right">8</td>
 <td><sub>Republic of Korea, Seoul</sub></td>
 </tr>
 <tr>
-<td align="right">481</td>
+<td align="right">480</td>
 <td><a href="https://github.com/perillamint"><img src="https://avatars.githubusercontent.com/u/1622360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/perillamint"><b>perillamint</b></a><br><sub>&#64;perillamint</sub></td>
 <td align="right"><b>227</b></td>
 <td align="right">281</td>
 <td><sub>Seoul, Korea</sub></td>
 </tr>
 <tr>
-<td align="right">482</td>
+<td align="right">481</td>
 <td><a href="https://github.com/junhaesung"><img src="https://avatars.githubusercontent.com/u/4813025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junhaesung"><b>전해성</b></a><br><sub>&#64;junhaesung</sub></td>
 <td align="right"><b>227</b></td>
 <td align="right">101</td>
 <td><sub>Seoul, Republic of Korea</sub></td>
+</tr>
+<tr>
+<td align="right">482</td>
+<td><a href="https://github.com/Kyounghwan01"><img src="https://avatars.githubusercontent.com/u/44187477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kyounghwan01"><b>kyounghwan Noh</b></a><br><sub>&#64;Kyounghwan01</sub></td>
+<td align="right"><b>227</b></td>
+<td align="right">71</td>
+<td><sub>Seoul,Korea</sub></td>
 </tr>
 <tr>
 <td align="right">483</td>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,359 attributed developers are tracked; the cutoff is 148 followers.
+- Organizations are excluded. 1,414 attributed developers are tracked; the cutoff is 148 followers.
 - **Location discovery:** term 0 of 152 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

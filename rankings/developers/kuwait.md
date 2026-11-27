@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><a href="https://github.com/knro"><img src="https://avatars.githubusercontent.com/u/5986347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/knro"><b>Jasem Mutlaq</b></a><br><sub>&#64;knro</sub></td>
-<td align="right"><b>102</b></td>
+<td align="right"><b>103</b></td>
 <td align="right">53</td>
 <td><sub>Kuwait</sub></td>
 </tr>

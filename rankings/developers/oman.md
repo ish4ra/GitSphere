@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/shihabal3amri"><img src="https://avatars.githubusercontent.com/u/42039842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shihabal3amri"><b>Shihab</b></a><br><sub>&#64;shihabal3amri</sub></td>
-<td align="right"><b>711</b></td>
+<td align="right"><b>714</b></td>
 <td align="right">17</td>
 <td><sub>Oman</sub></td>
 </tr>
@@ -304,8 +304,8 @@
 <tr>
 <td align="right">41</td>
 <td><a href="https://github.com/0cool-design"><img src="https://avatars.githubusercontent.com/u/41885004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0cool-design"><b>0cool</b></a><br><sub>&#64;0cool-design</sub></td>
-<td align="right"><b>37</b></td>
-<td align="right">51</td>
+<td align="right"><b>38</b></td>
+<td align="right">50</td>
 <td><sub>Oman</sub></td>
 </tr>
 <tr>
@@ -346,7 +346,7 @@
 <tr>
 <td align="right">47</td>
 <td><a href="https://github.com/zubinqayam"><img src="https://avatars.githubusercontent.com/u/221898115?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zubinqayam"><b>Zubin Qayam</b></a><br><sub>&#64;zubinqayam</sub></td>
-<td align="right"><b>10</b></td>
+<td align="right"><b>11</b></td>
 <td align="right">49</td>
 <td><sub>oman</sub></td>
 </tr>

@@ -5,7 +5,7 @@
 "country": {"code":"GL","name":"Greenland","slug":"greenland"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":78,"ownerExpansionBacklog":114,"candidates":81,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":36,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":78,"ownerExpansionBacklog":113,"candidates":81,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":36,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk0MTM0MjM1MQ==","name":"BetterDiscordApp","nameWithOwner":"Jiiks/BetterDiscordApp","url":"https://github.com/Jiiks/BetterDiscordApp","description":"Better Discord App enhances Discord desktop app with new features.","stars":1266,"forks":698,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2015-08-25T04:08:22Z","pushedAt":"2022-06-22T18:36:44Z","archived":true,"owner":{"login":"Jiiks","name":"Alexei Stukov","type":"User","url":"https://github.com/Jiiks","location":"Greenland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxODEwMjg0NzM=","name":"The_Lightmapper","nameWithOwner":"Naxela/The_Lightmapper","url":"https://github.com/Naxela/The_Lightmapper","description":"Fast and easy baked GI Lightmaps for Blender and Cycles","stars":824,"forks":67,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2019-04-12T14:51:28Z","pushedAt":"2026-09-24T18:54:46Z","archived":false,"owner":{"login":"Naxela","name":"Alexander Kleemann","type":"User","url":"https://github.com/Naxela","location":"Greenland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
@@ -89,8 +89,8 @@
   {"rank":80,"id":null,"name":"nulls","nameWithOwner":"zenull/nulls","url":"https://github.com/zenull/nulls","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2020-05-18T09:21:16Z","pushedAt":"2020-05-18T09:36:15Z","archived":false,"owner":{"login":"zenull","name":null,"type":"User","url":"https://github.com/zenull","location":"Narsaq, Greenland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":81,"id":null,"name":"zninjazhappyshot","nameWithOwner":"zninjazhappyshot/zninjazhappyshot","url":"https://github.com/zninjazhappyshot/zninjazhappyshot","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-29T02:37:07Z","pushedAt":"2024-09-29T02:37:40Z","archived":false,"owner":{"login":"zninjazhappyshot","name":null,"type":"User","url":"https://github.com/zninjazhappyshot","location":"Greenland (GL)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "7e609473cd87da83",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "41ae9ae9088cf3ee",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

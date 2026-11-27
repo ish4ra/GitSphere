@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **5** | 27 Oct 2026 | <a href="../data/UM.json">JSON</a> |
+| 🟠 Stale | **3** | 27 Oct 2026 | <a href="../data/UM.json">JSON</a> |
 
-> **Not yet re-verified.** 5 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 3 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,34 +25,20 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/OgJAkFy8.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OgJAkFy8/Mad-Libs"><b>OgJAkFy8/Mad-Libs</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">2</td>
-<td><img src="https://github.com/RanchoSM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RanchoSM/CTSDirectlinkLibrary"><b>RanchoSM/CTSDirectlinkLibrary</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">3</td>
 <td><img src="https://github.com/Doge-Linux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Doge-Linux/Doge-Logos"><b>Doge-Linux/Doge-Logos</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">2</td>
 <td><img src="https://github.com/faykhet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/faykhet/cokies.xyz"><b>faykhet/cokies.xyz</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">3</td>
 <td><img src="https://github.com/IiDxmon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IiDxmon/Yinn"><b>IiDxmon/Yinn</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -66,8 +52,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 5 attributed candidates are tracked.
-- 5 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 0 stars; 3 attributed candidates are tracked.
+- 3 entries were carried over from the previous dataset and are pending revalidation.
 - 7 multi-repository owners are queued for expansion.
 - **Location discovery:** term 6 of 29 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

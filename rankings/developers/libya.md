@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/MohamedFarag6"><img src="https://avatars.githubusercontent.com/u/176765276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohamedFarag6"><b>Mohamed Farag</b></a><br><sub>&#64;MohamedFarag6</sub></td>
-<td align="right"><b>121</b></td>
+<td align="right"><b>120</b></td>
 <td align="right">34</td>
 <td><sub>Benghazi, Libya</sub></td>
 </tr>
@@ -268,23 +268,23 @@
 </tr>
 <tr>
 <td align="right">36</td>
-<td><a href="https://github.com/khengari77"><img src="https://avatars.githubusercontent.com/u/56775117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khengari77"><b>Abdulrahman Khengari</b></a><br><sub>&#64;khengari77</sub></td>
-<td align="right"><b>37</b></td>
-<td align="right">62</td>
-<td><sub>Tripoli, Libya</sub></td>
-</tr>
-<tr>
-<td align="right">37</td>
 <td><a href="https://github.com/Mo7ammedXD"><img src="https://avatars.githubusercontent.com/u/141755868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mo7ammedXD"><b>MOHAMMED&#95;XD</b></a><br><sub>&#64;Mo7ammedXD</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">11</td>
 <td><sub>Libya</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">37</td>
 <td><a href="https://github.com/getplutu"><img src="https://avatars.githubusercontent.com/u/126381629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/getplutu"><b>Plutu</b></a><br><sub>&#64;getplutu</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">2</td>
+<td><sub>Tripoli, Libya</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/khengari77"><img src="https://avatars.githubusercontent.com/u/56775117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khengari77"><b>Abdulrahman Khengari</b></a><br><sub>&#64;khengari77</sub></td>
+<td align="right"><b>36</b></td>
+<td align="right">62</td>
 <td><sub>Tripoli, Libya</sub></td>
 </tr>
 <tr>
@@ -338,17 +338,17 @@
 </tr>
 <tr>
 <td align="right">46</td>
+<td><a href="https://github.com/AmeraAbdallah"><img src="https://avatars.githubusercontent.com/u/26938174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmeraAbdallah"><b>Amera</b></a><br><sub>&#64;AmeraAbdallah</sub></td>
+<td align="right"><b>34</b></td>
+<td align="right">65</td>
+<td><sub>Tripoli Libya</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
 <td><a href="https://github.com/torgodly"><img src="https://avatars.githubusercontent.com/u/57685643?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/torgodly"><b>Abdullah al-hajj</b></a><br><sub>&#64;torgodly</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">71</td>
 <td><sub>libya</sub></td>
-</tr>
-<tr>
-<td align="right">47</td>
-<td><a href="https://github.com/AmeraAbdallah"><img src="https://avatars.githubusercontent.com/u/26938174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmeraAbdallah"><b>Amera</b></a><br><sub>&#64;AmeraAbdallah</sub></td>
-<td align="right"><b>33</b></td>
-<td align="right">65</td>
-<td><sub>Tripoli Libya</sub></td>
 </tr>
 <tr>
 <td align="right">48</td>
@@ -1019,7 +1019,7 @@
 <td align="right">143</td>
 <td><a href="https://github.com/Flat-Duck"><img src="https://avatars.githubusercontent.com/u/7350041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Flat-Duck"><b>A.Mahidwei</b></a><br><sub>&#64;Flat-Duck</sub></td>
 <td align="right"><b>12</b></td>
-<td align="right">63</td>
+<td align="right">64</td>
 <td><sub>Libya</sub></td>
 </tr>
 <tr>

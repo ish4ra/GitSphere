@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/Emadalshamery"><img src="https://avatars.githubusercontent.com/u/158820036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Emadalshamery"><b>Emad QEAD Alshamiri</b></a><br><sub>&#64;Emadalshamery</sub></td>
-<td align="right"><b>168</b></td>
+<td align="right"><b>167</b></td>
 <td align="right">184</td>
 <td><sub>Yemen</sub></td>
 </tr>

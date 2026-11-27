@@ -5,12 +5,13 @@
 "country": {"code":"CU","name":"Cuba","slug":"cuba"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":594,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":79,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":90,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":308,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":72,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":90,"unresolved":0},"exhaustive":false},
 "repositories": [
-  {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMDIyNzE5MDI=","name":"MystiQ","nameWithOwner":"swl-x/MystiQ","url":"https://github.com/swl-x/MystiQ","description":"Qt5/C++ FFmpeg Media Converter","stars":594,"forks":82,"primaryLanguage":"C++","license":{"spdxId":"GPL-3.0"},"createdAt":"2019-08-14T04:02:26Z","pushedAt":"2024-06-12T02:50:36Z","archived":false,"owner":{"login":"swl-x","name":"SWL-X Project","type":"Organization","url":"https://github.com/swl-x","location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
+  {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMDIyNzE5MDI=","name":"MystiQ","nameWithOwner":"swl-x/MystiQ","url":"https://github.com/swl-x/MystiQ","description":"Qt5/C++ FFmpeg Media Converter","stars":594,"forks":82,"primaryLanguage":"C++","license":{"spdxId":"GPL-3.0"},"createdAt":"2019-08-14T04:02:26Z","pushedAt":"2024-06-12T02:50:36Z","archived":false,"owner":{"login":"swl-x","name":"SWL-X Project","type":"Organization","url":"https://github.com/swl-x","location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
+  {"rank":2,"id":"R_kgDOHLgXKQ","name":"GamerHack.github.io","nameWithOwner":"GamerHack/GamerHack.github.io","url":"https://github.com/GamerHack/GamerHack.github.io","description":"PS4 Jailbreak for all exploitable firmwares","stars":308,"forks":236,"primaryLanguage":"HTML","license":null,"createdAt":"2022-04-15T03:36:41Z","pushedAt":"2026-11-19T01:41:44Z","archived":false,"owner":{"login":"GamerHack","name":null,"type":"User","url":"https://github.com/GamerHack","location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "c58673cd90d4d6ac",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "39e0af5b09ba1727",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

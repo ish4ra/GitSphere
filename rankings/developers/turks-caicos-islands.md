@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **32** | 22 Nov 2026 | <a href="../../data/developers/TC.json">JSON</a> |
+| 🟡 Provisional | **32** | 24 Nov 2026 | <a href="../../data/developers/TC.json">JSON</a> |
 
 </div>
 

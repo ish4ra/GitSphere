@@ -10,7 +10,7 @@
   {"rank":1,"id":"MDQ6VXNlcjE3NzgyMDQ=","login":"apiad","name":"Alejandro Piad","url":"https://github.com/apiad","avatarUrl":"https://avatars.githubusercontent.com/u/1778204?s=80&v=4","followers":461,"publicRepos":80,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjcyOTIyNDc3","login":"jr20xx","name":"José Ricardo","url":"https://github.com/jr20xx","avatarUrl":"https://avatars.githubusercontent.com/u/72922477?s=80&v=4","followers":385,"publicRepos":20,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOCRYR_Q","login":"SolAriass","name":"Sol Macarena Arias","url":"https://github.com/SolAriass","avatarUrl":"https://avatars.githubusercontent.com/u/152441341?s=80&v=4","followers":244,"publicRepos":6,"location":"Ramos Mejía, Buenos Aires","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-24"},
-  {"rank":4,"id":"MDQ6VXNlcjc2NjQxNDg1","login":"GamerHack","name":null,"url":"https://github.com/GamerHack","avatarUrl":"https://avatars.githubusercontent.com/u/76641485?s=80&v=4","followers":237,"publicRepos":1,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
+  {"rank":4,"id":"MDQ6VXNlcjc2NjQxNDg1","login":"GamerHack","name":null,"url":"https://github.com/GamerHack","avatarUrl":"https://avatars.githubusercontent.com/u/76641485?s=80&v=4","followers":239,"publicRepos":1,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":5,"id":"U_kgDOBsSEvA","login":"Aran-tm","name":"Aran","url":"https://github.com/Aran-tm","avatarUrl":"https://avatars.githubusercontent.com/u/113542332?s=80&v=4","followers":220,"publicRepos":32,"location":"Habana","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
   {"rank":6,"id":"U_kgDOCYQyiw","login":"LFrench03","name":"Luis Ernesto","url":"https://github.com/LFrench03","avatarUrl":"https://avatars.githubusercontent.com/u/159658635?s=80&v=4","followers":139,"publicRepos":10,"location":"La Habana","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-26"},
   {"rank":7,"id":"U_kgDOB8n9aQ","login":"PushoDev","name":"Luis A. Guisado","url":"https://github.com/PushoDev","avatarUrl":"https://avatars.githubusercontent.com/u/130678121?s=80&v=4","followers":136,"publicRepos":96,"location":"Ciudad de Manzanillo, Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
@@ -404,8 +404,8 @@
   {"rank":395,"id":"U_kgDOCS33KQ","login":"leomedevil","name":"LeoDev","url":"https://github.com/leomedevil","avatarUrl":"https://avatars.githubusercontent.com/u/154007337?s=80&v=4","followers":0,"publicRepos":2,"location":"cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":396,"id":"U_kgDODRLn-g","login":"CarlSDWare","name":"Carl","url":"https://github.com/CarlSDWare","avatarUrl":"https://avatars.githubusercontent.com/u/219342842?s=80&v=4","followers":0,"publicRepos":1,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "5179bbbc7c8cd377",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "63ab172ce077ed8f",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/contributors/PF.json">JSON</a> |
+| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/PF.json">JSON</a> |
 
 </div>
 
@@ -142,6 +142,15 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/dbelrose"><img src="https://avatars.githubusercontent.com/u/36456663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dbelrose"><b>Didier Belrose</b></a><br><sub>&#64;dbelrose · 0 followers</sub></td>
+<td align="right"><b>78</b></td>
+<td align="right">74</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/laurentpellet"><img src="https://avatars.githubusercontent.com/u/11530611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laurentpellet"><b>Laurent PELLET</b></a><br><sub>&#64;laurentpellet · 2 followers</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">58</td>
@@ -150,7 +159,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/guybedo"><img src="https://avatars.githubusercontent.com/u/5336692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guybedo"><b>guybedo</b></a><br><sub>&#64;guybedo · 8 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">5</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/Chelsea486MHz"><img src="https://avatars.githubusercontent.com/u/12125422?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chelsea486MHz"><b>Chelsea Murgia</b></a><br><sub>&#64;Chelsea486MHz · 74 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">7</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/jbtheou"><img src="https://avatars.githubusercontent.com/u/1218120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jbtheou"><b>Jean-Baptiste Théou</b></a><br><sub>&#64;jbtheou · 12 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">2</td>
@@ -177,7 +186,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/MartinBINARD"><img src="https://avatars.githubusercontent.com/u/78610464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MartinBINARD"><b>Martin Binard</b></a><br><sub>&#64;MartinBINARD · 7 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">7</td>
@@ -186,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/Rem4rkable"><img src="https://avatars.githubusercontent.com/u/39060013?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rem4rkable"><b>Ariel</b></a><br><sub>&#64;Rem4rkable · 4 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/rputoa"><img src="https://avatars.githubusercontent.com/u/9744516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rputoa"><b>Rowan PUTOA</b></a><br><sub>&#64;rputoa · 2 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -204,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/sysnux"><img src="https://avatars.githubusercontent.com/u/6288570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sysnux"><b>Jean-Denis Girard</b></a><br><sub>&#64;sysnux · 1 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -213,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/teuna"><img src="https://avatars.githubusercontent.com/u/312506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teuna"><b>Teuna Ferrand</b></a><br><sub>&#64;teuna · 9 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -228,7 +237,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 28 of 127 discovered developers (99 awaiting measurement).
+- **Measured:** 32 of 127 discovered developers (95 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 5 of 55 in round 1.

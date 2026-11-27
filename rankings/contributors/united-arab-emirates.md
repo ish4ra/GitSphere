@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 23 Nov 2026 | <a href="../../data/contributors/AE.json">JSON</a> |
+| 🟡 Provisional | **20** | 23 Nov 2026 | <a href="../../data/contributors/AE.json">JSON</a> |
 
 </div>
 
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td align="right">4</td>
-<td><a href="https://github.com/knqyf263"><img src="https://avatars.githubusercontent.com/u/2253692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/knqyf263"><b>Teppei Fukuda</b></a><br><sub>&#64;knqyf263 · 1,006 followers</sub></td>
+<td><a href="https://github.com/knqyf263"><img src="https://avatars.githubusercontent.com/u/2253692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/knqyf263"><b>Teppei Fukuda</b></a><br><sub>&#64;knqyf263 · 1,005 followers</sub></td>
 <td align="right"><b>2,690</b></td>
 <td align="right">2,222</td>
 <td align="right">91</td>
@@ -133,7 +133,7 @@
 </tr>
 <tr>
 <td align="right">13</td>
-<td><a href="https://github.com/techwithtim"><img src="https://avatars.githubusercontent.com/u/35348871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/techwithtim"><b>Tim Ruscica</b></a><br><sub>&#64;techwithtim · 25,334 followers</sub></td>
+<td><a href="https://github.com/techwithtim"><img src="https://avatars.githubusercontent.com/u/35348871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/techwithtim"><b>Tim Ruscica</b></a><br><sub>&#64;techwithtim · 25,336 followers</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">26</td>
 <td align="right">1</td>
@@ -178,10 +178,28 @@
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/BlondelSeumo"><img src="https://avatars.githubusercontent.com/u/10848467?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BlondelSeumo"><b>Blondel Seumo</b></a><br><sub>&#64;BlondelSeumo · 239 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/AlanBinu007"><img src="https://avatars.githubusercontent.com/u/65335042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlanBinu007"><b>Alan Binu</b></a><br><sub>&#64;AlanBinu007 · 237 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/bakoorahnin"><img src="https://avatars.githubusercontent.com/u/46295417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bakoorahnin"><b>Hnin Diab Singer</b></a><br><sub>&#64;bakoorahnin · 135 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -192,7 +210,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 20 of 716 discovered developers (696 awaiting measurement).
+- **Measured:** 23 of 735 discovered developers (712 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 98 in round 1.

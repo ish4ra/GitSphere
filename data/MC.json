@@ -5,7 +5,7 @@
 "country": {"code":"MC","name":"Monaco","slug":"monaco"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":63,"ownerExpansionBacklog":134,"candidates":63,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":23,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":63,"ownerExpansionBacklog":130,"candidates":63,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":23,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Docs","nameWithOwner":"Elysys/Docs","url":"https://github.com/Elysys/Docs","description":null,"stars":0,"forks":1,"primaryLanguage":"CSS","license":{"spdxId":"Apache-2.0"},"createdAt":"2022-12-02T08:44:09Z","pushedAt":"2026-05-29T15:09:35Z","archived":false,"owner":{"login":"Elysys","name":"Elysys SARL","type":"User","url":"https://github.com/Elysys","location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"mistralHackaton2026","nameWithOwner":"giraudremi92/mistralHackaton2026","url":"https://github.com/giraudremi92/mistralHackaton2026","description":null,"stars":0,"forks":1,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2026-02-28T08:21:51Z","pushedAt":"2026-03-01T15:55:20Z","archived":false,"owner":{"login":"giraudremi92","name":"Rémi","type":"User","url":"https://github.com/giraudremi92","location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -71,8 +71,8 @@
   {"rank":62,"id":null,"name":"invisible-recaptcha","nameWithOwner":"groupecomplus/invisible-recaptcha","url":"https://github.com/groupecomplus/invisible-recaptcha","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":{"spdxId":"GPL-2.0"},"createdAt":"2023-09-25T12:56:49Z","pushedAt":"2023-10-13T09:29:53Z","archived":false,"owner":{"login":"groupecomplus","name":"Groupe Complus","type":"User","url":"https://github.com/groupecomplus","location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":63,"id":null,"name":"HarmonyaDAO-frontend","nameWithOwner":"HarmonyaDAO/HarmonyaDAO-frontend","url":"https://github.com/HarmonyaDAO/HarmonyaDAO-frontend","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-02-12T10:41:46Z","pushedAt":"2022-02-12T10:52:20Z","archived":false,"owner":{"login":"HarmonyaDAO","name":"Harmonyameta","type":"User","url":"https://github.com/HarmonyaDAO","location":"Monaco, London","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "d0238011a67500fe",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "a4d6826cb4ad8617",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

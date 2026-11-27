@@ -2489,7 +2489,7 @@
 <td align="right">353</td>
 <td><a href="https://github.com/Check-karim"><img src="https://avatars.githubusercontent.com/u/71732374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Check-karim"><b>Abdoul Karim</b></a><br><sub>&#64;Check-karim</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">52</td>
+<td align="right">54</td>
 <td><sub>BURUNDI,Bujumbura</sub></td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **26** | 24 Nov 2026 | <a href="../data/EC.json">JSON</a> |
+| 🟡 Provisional | **28** | 24 Nov 2026 | <a href="../data/EC.json">JSON</a> |
 
 </div>
 
@@ -203,6 +203,20 @@
 <td align="right">0</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/darwin-morocho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darwin-morocho/OneCalendarView"><b>darwin-morocho/OneCalendarView</b></a><br><sub>CalendarView Personalizado para desarrolladores android</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">40</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/GataNina-Li.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GataNina-Li/GataBotLite-MD"><b>GataNina-Li/GataBotLite-MD</b></a><br><sub>𝗕𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼(𝗮)!! 𝗘𝘅𝗽𝗹𝗼𝗿𝗮 𝗲𝘀𝘁𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗼, 𝗚𝗮𝘁𝗮𝗕𝗼𝘁𝗟𝗶𝘁𝗲-𝗠𝗗 🌸 𝗲𝘀 𝘂𝗻 𝗕�…</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">661</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -211,8 +225,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 319 stars; 26 attributed candidates are tracked.
-- 117 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 295 stars; 28 attributed candidates are tracked.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 117 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **50** | 24 Nov 2026 | <a href="../data/KE.json">JSON</a> |
+| 🟡 Provisional | **58** | 24 Nov 2026 | <a href="../data/KE.json">JSON</a> |
 
 </div>
 
@@ -371,6 +371,62 @@
 <td align="right">4</td>
 <td>Rust</td>
 </tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/joelkanyi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joelkanyi/kompose-country-code-picker"><b>joelkanyi/kompose-country-code-picker</b></a><br><sub>A Compose Multiplatform library based on Material 3 (M3) that provides a country code picker for Android, iOS, JVM, JS,…</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">35</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/evansmurithi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evansmurithi/cloak"><b>evansmurithi/cloak</b></a><br><sub>A Command Line OTP Authenticator application.</sub></td>
+<td align="right"><b>309</b></td>
+<td align="right">17</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/CHEGEBB.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CHEGEBB/IMEI-TRACKER"><b>CHEGEBB/IMEI-TRACKER</b></a></td>
+<td align="right"><b>304</b></td>
+<td align="right">185</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/kn9ts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kn9ts/project-mulla"><b>kn9ts/project-mulla</b></a><br><sub>Talk to MPESA API via a REST API. Bringing the MPESA G2 API to the 21st century. --</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">117</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/joelkanyi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joelkanyi/Muviz"><b>joelkanyi/Muviz</b></a><br><sub>A Jetpack compose app that consumes the TMDB API to display movie and Tv shows and their details</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">40</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/Ericgacoki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ericgacoki/NeatFlix"><b>Ericgacoki/NeatFlix</b></a><br><sub>An android app built using Jetpack Compose that consumes TMDB API to display the current trending, upcoming, top rated,…</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">31</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/krivahtoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/krivahtoo/silicon.nvim"><b>krivahtoo/silicon.nvim</b></a><br><sub>Neovim plugin for silicon in Rust</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">8</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/JohnMwendwa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JohnMwendwa/JohnMwendwa"><b>JohnMwendwa/JohnMwendwa</b></a><br><sub>A self-updating github profile</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">64</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -379,8 +435,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 320 stars; 50 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 297 stars; 58 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **36** | 24 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
+| 🟡 Provisional | **38** | 24 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
 
 </div>
 
@@ -273,6 +273,20 @@
 <td align="right">13</td>
 <td>Pascal</td>
 </tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/joker25000.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joker25000/Optiva-Framework"><b>joker25000/Optiva-Framework</b></a><br><sub>Optiva-Framework 🔎 Web Application Scanner🕵️</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">89</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/Fennec-hub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Fennec-hub/three-viewport-gizmo"><b>Fennec-hub/three-viewport-gizmo</b></a><br><sub>Three Viewport Gizmo is a highly customizable standalone interactive three.js view helper controls, allowing effortless…</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">31</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -281,8 +295,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 319 stars; 36 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 305 stars; 38 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

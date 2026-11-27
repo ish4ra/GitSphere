@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 24 Nov 2026 | <a href="../data/MD.json">JSON</a> |
+| 🟡 Provisional | **23** | 24 Nov 2026 | <a href="../data/MD.json">JSON</a> |
 
 </div>
 
@@ -154,6 +154,34 @@
 <td align="right">16</td>
 <td>Ruby</td>
 </tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/alexeisavca.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexeisavca/webtorrentapp"><b>alexeisavca/webtorrentapp</b></a><br><sub>Webtorrent App</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">18</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/face-hh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/face-hh/wattesigma"><b>face-hh/wattesigma</b></a><br><sub>An overly dramatic Web Browser made with Godot. Shaders, bugs, and obscure search engines!</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">27</td>
+<td>GDScript</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/matiaspub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matiaspub/bxApiDocs"><b>matiaspub/bxApiDocs</b></a> <sub>archived</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">87</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/dimmg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dimmg/dockselpy"><b>dimmg/dockselpy</b></a><br><sub>Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">84</td>
+<td>Dockerfile</td>
+</tr>
 </tbody>
 </table>
 
@@ -162,8 +190,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 316 stars; 19 attributed candidates are tracked.
-- 105 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 292 stars; 23 attributed candidates are tracked.
+- 98 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

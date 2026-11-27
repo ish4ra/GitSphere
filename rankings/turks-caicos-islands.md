@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **21** | 31 Oct 2026 | <a href="../data/TC.json">JSON</a> |
+| 🟠 Stale | **20** | 31 Oct 2026 | <a href="../data/TC.json">JSON</a> |
 
-> **Not yet re-verified.** 21 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 20 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,146 +25,139 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/madusankap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/madusankap/turing"><b>madusankap/turing</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">2</td>
 <td><img src="https://github.com/anayadoraelk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anayadoraelk/anayadoraelk"><b>anayadoraelk/anayadoraelk</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">2</td>
 <td><img src="https://github.com/aquaeliakruger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aquaeliakruger/aquaeliakruger"><b>aquaeliakruger/aquaeliakruger</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">3</td>
 <td><img src="https://github.com/bdanny2.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bdanny2/TypingTutor"><b>bdanny2/TypingTutor</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">4</td>
 <td><img src="https://github.com/BuritoGrizon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BuritoGrizon/django-activity-stream"><b>BuritoGrizon/django-activity-stream</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">5</td>
 <td><img src="https://github.com/CFBlacdragoon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CFBlacdragoon/xamarin-forms-samples"><b>CFBlacdragoon/xamarin-forms-samples</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">6</td>
 <td><img src="https://github.com/DovanoKM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DovanoKM/hello-world"><b>DovanoKM/hello-world</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">7</td>
 <td><img src="https://github.com/frn-development.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/frn-development/Messager-bot"><b>frn-development/Messager-bot</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">8</td>
 <td><img src="https://github.com/head-dunce.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/head-dunce/parcelpirate"><b>head-dunce/parcelpirate</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">9</td>
 <td><img src="https://github.com/johnwuelk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/johnwuelk/tigrinya.net"><b>johnwuelk/tigrinya.net</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">10</td>
 <td><img src="https://github.com/KINGJP500.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KINGJP500/property-clone"><b>KINGJP500/property-clone</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>Ruby</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">11</td>
 <td><img src="https://github.com/MJennings97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MJennings97/hairenvy"><b>MJennings97/hairenvy</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>CSS</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">12</td>
 <td><img src="https://github.com/Nabla20.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nabla20/CHAMPINsum"><b>Nabla20/CHAMPINsum</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">13</td>
 <td><img src="https://github.com/omerpinar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/omerpinar/dartflutter"><b>omerpinar/dartflutter</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">14</td>
 <td><img src="https://github.com/PPHconsultancy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PPHconsultancy/PPH-consultancy-website"><b>PPHconsultancy/PPH-consultancy-website</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">15</td>
 <td><img src="https://github.com/Quidni-Group.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Quidni-Group/wundergun"><b>Quidni-Group/wundergun</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">16</td>
 <td><img src="https://github.com/RoyJax579.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RoyJax579/Python"><b>RoyJax579/Python</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">17</td>
 <td><img src="https://github.com/SCATPACKH3M1392.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SCATPACKH3M1392/BLACKCHARG3R"><b>SCATPACKH3M1392/BLACKCHARG3R</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">18</td>
 <td><img src="https://github.com/sudonpm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sudonpm/rnpopulate"><b>sudonpm/rnpopulate</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">19</td>
 <td><img src="https://github.com/TargonYazilim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TargonYazilim/VSSApi"><b>TargonYazilim/VSSApi</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">20</td>
 <td><img src="https://github.com/techpreneur02.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/techpreneur02/theme"><b>techpreneur02/theme</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -178,8 +171,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 21 attributed candidates are tracked.
-- 21 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 0 stars; 20 attributed candidates are tracked.
+- 20 entries were carried over from the previous dataset and are pending revalidation.
 - 25 multi-repository owners are queued for expansion.
 - **Location discovery:** term 6 of 29 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

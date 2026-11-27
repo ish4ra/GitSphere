@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **59** | 24 Nov 2026 | <a href="../data/IS.json">JSON</a> |
+| 🟡 Provisional | **64** | 24 Nov 2026 | <a href="../data/IS.json">JSON</a> |
 
 </div>
 
@@ -434,6 +434,41 @@
 <td align="right">14</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/jh3y.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jh3y/vincent-van-git"><b>jh3y/vincent-van-git</b></a><br><sub>Use your Github commit history as a canvas!</sub></td>
+<td align="right"><b>312</b></td>
+<td align="right">24</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/unidoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/unidoc/unipdf-examples"><b>unidoc/unipdf-examples</b></a><br><sub>Examples for creating and processing PDF files with UniPDF https://github.com/unidoc/unipdf</sub></td>
+<td align="right"><b>306</b></td>
+<td align="right">106</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/mattmueller.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mattmueller/foursquare2"><b>mattmueller/foursquare2</b></a><br><sub>Ruby wrapper for the foursquare v2 api</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">106</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/mecid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mecid/swift-unidirectional-flow"><b>mecid/swift-unidirectional-flow</b></a><br><sub>Unidirectional flow implemented using the latest Swift Generics and Swift Concurrency features.</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">10</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/ueno-llc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ueno-llc/gsap-tools"><b>ueno-llc/gsap-tools</b></a> <sub>archived</sub><br><sub>A simple tool to debug GSAP animations</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">14</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -442,8 +477,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 317 stars; 59 attributed candidates are tracked.
-- 74 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 300 stars; 64 attributed candidates are tracked.
+- 70 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

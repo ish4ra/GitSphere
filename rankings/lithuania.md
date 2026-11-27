@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **91** | 24 Nov 2026 | <a href="../data/LT.json">JSON</a> |
+| 🟡 Provisional | **99** | 24 Nov 2026 | <a href="../data/LT.json">JSON</a> |
 
 </div>
 
@@ -658,6 +658,62 @@
 <td align="right">0</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/arnas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arnas/awesome-pytorch-scholarship"><b>arnas/awesome-pytorch-scholarship</b></a> <sub>archived</sub><br><sub>A list of awesome PyTorch scholarship articles, guides, blogs, courses and other resources.</sub></td>
+<td align="right"><b>313</b></td>
+<td align="right">67</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/bring-shrubbery.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bring-shrubbery/ml-sharp-web"><b>bring-shrubbery/ml-sharp-web</b></a><br><sub>Web playground to create Gaussian Splats using Apple&#39;s SHARP model</sub></td>
+<td align="right"><b>301</b></td>
+<td align="right">10</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/walmis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/walmis/blackmagic-espidf"><b>walmis/blackmagic-espidf</b></a><br><sub>Blackmagic Wireless SWD Debug probe hosted on esp-idf SDK (for ESP8266) with UART on Telnet port and HTTP using xterm.js</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">59</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/viliusle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/viliusle/Hermite-resize"><b>viliusle/Hermite-resize</b></a><br><sub>Canvas image resize/resample using Hermite filter with JavaScript.</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">45</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/qgindi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qgindi/LibreAutomate"><b>qgindi/LibreAutomate</b></a><br><sub>C# script editor and automation library for Windows</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">36</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/CreativeIT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CreativeIT/getmdl-select"><b>CreativeIT/getmdl-select</b></a><br><sub>Select for material-design-lite</sub></td>
+<td align="right"><b>293</b></td>
+<td align="right">82</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/domasx2.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/domasx2/sequelize-fixtures"><b>domasx2/sequelize-fixtures</b></a><br><sub>Load data from json, yaml or js to sequelize</sub></td>
+<td align="right"><b>293</b></td>
+<td align="right">81</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/mgedmin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mgedmin/check-manifest"><b>mgedmin/check-manifest</b></a><br><sub>Tool to check the completeness of MANIFEST.in for Python packages</sub></td>
+<td align="right"><b>293</b></td>
+<td align="right">48</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -666,8 +722,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 318 stars; 91 attributed candidates are tracked.
-- 97 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 293 stars; 99 attributed candidates are tracked.
+- 96 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

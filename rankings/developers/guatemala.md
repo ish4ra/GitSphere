@@ -128,31 +128,31 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/Alvaro-SP"><img src="https://avatars.githubusercontent.com/u/82612644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alvaro-SP"><b>Alvaro Socop</b></a><br><sub>&#64;Alvaro-SP</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">89</td>
+<td><sub>Guatemala</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/brandonT2002"><img src="https://avatars.githubusercontent.com/u/98117886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brandonT2002"><b>Brandon Tejaxún</b></a><br><sub>&#64;brandonT2002</sub></td>
 <td align="right"><b>120</b></td>
 <td align="right">56</td>
 <td><sub>Guatemala</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
-<td><a href="https://github.com/Alvaro-SP"><img src="https://avatars.githubusercontent.com/u/82612644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alvaro-SP"><b>Alvaro Socop</b></a><br><sub>&#64;Alvaro-SP</sub></td>
-<td align="right"><b>119</b></td>
-<td align="right">89</td>
-<td><sub>Guatemala</sub></td>
-</tr>
-<tr>
 <td align="right">18</td>
-<td><a href="https://github.com/cms"><img src="https://avatars.githubusercontent.com/u/130128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cms"><b>Christian C. Salvadó</b></a><br><sub>&#64;cms</sub></td>
-<td align="right"><b>118</b></td>
-<td align="right">31</td>
-<td><sub>Guatemala</sub></td>
-</tr>
-<tr>
-<td align="right">19</td>
 <td><a href="https://github.com/elmergustavo"><img src="https://avatars.githubusercontent.com/u/42653934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elmergustavo"><b>Gustavo (tavcode)</b></a><br><sub>&#64;elmergustavo</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">112</td>
 <td><sub>Quetzaltenango, Guatemala</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/cms"><img src="https://avatars.githubusercontent.com/u/130128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cms"><b>Christian C. Salvadó</b></a><br><sub>&#64;cms</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">31</td>
+<td><sub>Guatemala</sub></td>
 </tr>
 <tr>
 <td align="right">20</td>
@@ -249,14 +249,14 @@
 <td align="right">33</td>
 <td><a href="https://github.com/Guerra24"><img src="https://avatars.githubusercontent.com/u/9023392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Guerra24"><b>Lili</b></a><br><sub>&#64;Guerra24</sub></td>
 <td align="right"><b>76</b></td>
-<td align="right">43</td>
+<td align="right">44</td>
 <td><sub>Guatemala</sub></td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><a href="https://github.com/euqueme"><img src="https://avatars.githubusercontent.com/u/52209067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/euqueme"><b>Maria Eugenia Quemé Peña</b></a><br><sub>&#64;euqueme</sub></td>
 <td align="right"><b>75</b></td>
-<td align="right">43</td>
+<td align="right">44</td>
 <td><sub>Guatemala</sub></td>
 </tr>
 <tr>

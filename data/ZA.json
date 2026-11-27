@@ -5,7 +5,7 @@
 "country": {"code":"ZA","name":"South Africa","slug":"south-africa"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":335,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":107,"candidates":111,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":144,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":335,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":107,"candidates":126,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":144,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOS1HAYA","name":"loop-engineering","nameWithOwner":"cobusgreyling/loop-engineering","url":"https://github.com/cobusgreyling/loop-engineering","description":"Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani…","stars":11834,"forks":1586,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-06-09T06:28:20Z","pushedAt":"2026-11-25T14:30:34Z","archived":false,"owner":{"login":"cobusgreyling","name":"Cobus Greyling","type":"User","url":"https://github.com/cobusgreyling","location":"South Africa","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxOTQ0MTU2","name":"lunr.js","nameWithOwner":"olivernn/lunr.js","url":"https://github.com/olivernn/lunr.js","description":"A bit like Solr, but much smaller and not as bright","stars":9200,"forks":555,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2011-06-23T20:53:57Z","pushedAt":"2024-07-31T11:57:09Z","archived":false,"owner":{"login":"olivernn","name":"Oliver Nightingale","type":"User","url":"https://github.com/olivernn","location":"Cape Town","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOG_RnTQ","name":"terraform-aws-clickops-notifier","nameWithOwner":"cloudandthings/terraform-aws-clickops-notifier","url":"https://github.com/cloudandthings/terraform-aws-clickops-notifier","description":"Get notified when actions are taken in the AWS Console.","stars":336,"forks":30,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2022-03-12T06:37:55Z","pushedAt":"2026-11-10T06:46:58Z","archived":false,"owner":{"login":"cloudandthings","name":"cloudandthings.io","type":"Organization","url":"https://github.com/cloudandthings","location":"Cape Town, South Africa","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
   {"rank":100,"id":"R_kgDORfOX3Q","name":"explore-claude-code","nameWithOwner":"LukeRenton/explore-claude-code","url":"https://github.com/LukeRenton/explore-claude-code","description":"Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more.","stars":335,"forks":36,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2026-03-05T14:37:50Z","pushedAt":"2026-10-30T07:54:22Z","archived":false,"owner":{"login":"LukeRenton","name":"Luke Renton","type":"User","url":"https://github.com/LukeRenton","location":"Johannesburg","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "8fe8296faae8a0fe",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "3896f67527909bc0",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

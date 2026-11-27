@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/takanome-dev"><img src="https://avatars.githubusercontent.com/u/79809121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/takanome-dev"><b>El Hadji Malick Seck</b></a><br><sub>&#64;takanome-dev</sub></td>
-<td align="right"><b>195</b></td>
+<td align="right"><b>193</b></td>
 <td align="right">139</td>
 <td><sub>Dakar, Senegal</sub></td>
 </tr>
@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/Xnil0"><img src="https://avatars.githubusercontent.com/u/122977558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Xnil0"><b>J4ck</b></a><br><sub>&#64;Xnil0</sub></td>
-<td align="right"><b>120</b></td>
+<td align="right"><b>119</b></td>
 <td align="right">27</td>
 <td><sub>Dakar, Senegal</sub></td>
 </tr>
@@ -207,7 +207,7 @@
 <td align="right">27</td>
 <td><a href="https://github.com/Bakarseck"><img src="https://avatars.githubusercontent.com/u/86267786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bakarseck"><b>Bakarseck</b></a><br><sub>&#64;Bakarseck</sub></td>
 <td align="right"><b>98</b></td>
-<td align="right">130</td>
+<td align="right">131</td>
 <td><sub>Dakar, Senegal</sub></td>
 </tr>
 <tr>

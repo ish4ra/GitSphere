@@ -5,13 +5,13 @@
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":518,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":130,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":518,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":129,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxOTkzMzc0Njg=","name":"responsive-viewer","nameWithOwner":"skmail/responsive-viewer","url":"https://github.com/skmail/responsive-viewer","description":"Responsive Viewer - chrome extension to show multiple screens in one view.","stars":848,"forks":94,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2019-07-28T21:09:40Z","pushedAt":"2025-10-12T08:46:47Z","archived":false,"owner":{"login":"skmail","name":null,"type":"User","url":"https://github.com/skmail","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyODk1NTYyMjY=","name":"headers-css","nameWithOwner":"shadeed/headers-css","url":"https://github.com/shadeed/headers-css","description":"The blueprint HTML and CSS for 17+ website headers","stars":518,"forks":80,"primaryLanguage":"HTML","license":null,"createdAt":"2020-08-22T19:47:35Z","pushedAt":"2020-11-01T10:01:01Z","archived":false,"owner":{"login":"shadeed","name":"Ahmad Shadeed","type":"User","url":"https://github.com/shadeed","location":"Tulkarm, Palestine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "38e63b99e69b879d",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "cc3d103fa8fd8581",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

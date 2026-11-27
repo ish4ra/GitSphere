@@ -5,12 +5,12 @@
 "country": {"code":"PA","name":"Panama","slug":"panama"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":5852,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":124,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":81,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":5852,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":81,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOU4zrqA","name":"vapi-network","nameWithOwner":"vAPI-Network/vapi-network","url":"https://github.com/vAPI-Network/vapi-network","description":"Buyer-controlled client for x402 API payments in USDC on Base.","stars":5852,"forks":195,"primaryLanguage":"TypeScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2026-10-02T13:05:19Z","pushedAt":"2026-11-24T19:34:42Z","archived":false,"owner":{"login":"vAPI-Network","name":"vAPI Network","type":"Organization","url":"https://github.com/vAPI-Network","location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "ec3ffc76f1d76060",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "76bd23125c185b85",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

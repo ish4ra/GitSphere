@@ -282,23 +282,23 @@
 </tr>
 <tr>
 <td align="right">38</td>
-<td><a href="https://github.com/walonCode"><img src="https://avatars.githubusercontent.com/u/193446375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/walonCode"><b>Mohamed Lamin Walon Jalloh</b></a><br><sub>&#64;walonCode</sub></td>
-<td align="right"><b>12</b></td>
-<td align="right">56</td>
-<td><sub>Sierra Leone</sub></td>
-</tr>
-<tr>
-<td align="right">39</td>
 <td><a href="https://github.com/Morie55"><img src="https://avatars.githubusercontent.com/u/57179507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Morie55"><b>Morie Keita</b></a><br><sub>&#64;Morie55</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">19</td>
 <td><sub>Sierra leone</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">39</td>
 <td><a href="https://github.com/EstherSarianSow"><img src="https://avatars.githubusercontent.com/u/86640723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EstherSarianSow"><b>EstherSarianSow</b></a><br><sub>&#64;EstherSarianSow</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">3</td>
+<td><sub>Sierra Leone</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><a href="https://github.com/walonCode"><img src="https://avatars.githubusercontent.com/u/193446375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/walonCode"><b>Mohamed Lamin Walon Jalloh</b></a><br><sub>&#64;walonCode</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">56</td>
 <td><sub>Sierra Leone</sub></td>
 </tr>
 <tr>

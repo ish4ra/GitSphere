@@ -128,17 +128,17 @@
 </tr>
 <tr>
 <td align="right">16</td>
-<td><a href="https://github.com/bashu"><img src="https://avatars.githubusercontent.com/u/144783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bashu"><b>Basil Sh.</b></a><br><sub>&#64;bashu</sub></td>
-<td align="right"><b>106</b></td>
-<td align="right">64</td>
-<td><sub>Bishkek, Kyrgyzstan</sub></td>
-</tr>
-<tr>
-<td align="right">17</td>
 <td><a href="https://github.com/5ekastanx"><img src="https://avatars.githubusercontent.com/u/177409030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/5ekastanx"><b>bekastan</b></a><br><sub>&#64;5ekastanx</sub></td>
 <td align="right"><b>105</b></td>
 <td align="right">57</td>
 <td><sub>Osh &#124; Kyrgyzstan</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/bashu"><img src="https://avatars.githubusercontent.com/u/144783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bashu"><b>Basil Sh.</b></a><br><sub>&#64;bashu</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">64</td>
+<td><sub>Bishkek, Kyrgyzstan</sub></td>
 </tr>
 <tr>
 <td align="right">18</td>
@@ -200,7 +200,7 @@
 <td align="right">26</td>
 <td><a href="https://github.com/dontsovcmc"><img src="https://avatars.githubusercontent.com/u/6192152?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dontsovcmc"><b>Evgeny Dontsov</b></a><br><sub>&#64;dontsovcmc</sub></td>
 <td align="right"><b>72</b></td>
-<td align="right">63</td>
+<td align="right">64</td>
 <td><sub>Bishkek, Kyrgyzstan</sub></td>
 </tr>
 <tr>

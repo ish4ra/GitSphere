@@ -5,7 +5,7 @@
 "country": {"code":"MV","name":"Maldives","slug":"maldives"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":387,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":105,"candidates":5,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":68,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":387,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":96,"candidates":5,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":68,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOG-LsGA","name":"seerr","nameWithOwner":"seerr-team/seerr","url":"https://github.com/seerr-team/seerr","description":"Open-source media request and discovery manager for Jellyfin, Plex, and Emby.","stars":13349,"forks":1165,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-03-09T09:18:22Z","pushedAt":"2026-11-25T11:52:46Z","archived":false,"owner":{"login":"seerr-team","name":"Seerr Team","type":"Organization","url":"https://github.com/seerr-team","location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOGKumxQ","name":"ImStudio","nameWithOwner":"Raais/ImStudio","url":"https://github.com/Raais/ImStudio","description":"GUI layout designer for Dear ImGui","stars":930,"forks":81,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2021-10-05T16:47:56Z","pushedAt":"2023-08-01T06:30:42Z","archived":false,"owner":{"login":"Raais","name":null,"type":"User","url":"https://github.com/Raais","location":"Malé, Maldives","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
@@ -13,8 +13,8 @@
   {"rank":4,"id":"R_kgDOH_W-Bw","name":"filament-fabricator","nameWithOwner":"Z3d0X/filament-fabricator","url":"https://github.com/Z3d0X/filament-fabricator","description":"Block-Based Page Builder Skeleton for your Filament Apps","stars":388,"forks":70,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2022-09-13T15:47:23Z","pushedAt":"2026-06-30T20:19:39Z","archived":false,"owner":{"login":"Z3d0X","name":"ZedoX","type":"User","url":"https://github.com/Z3d0X","location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":5,"id":"R_kgDOHO6_7A","name":"filament-logger","nameWithOwner":"Z3d0X/filament-logger","url":"https://github.com/Z3d0X/filament-logger","description":"Extensible activity logger for filament that works out-of-the-box.","stars":387,"forks":76,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2022-04-25T14:36:53Z","pushedAt":"2026-03-16T12:22:13Z","archived":true,"owner":{"login":"Z3d0X","name":"ZedoX","type":"User","url":"https://github.com/Z3d0X","location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "72e3bb905b7a66d0",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "a6bd835421537a4d",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

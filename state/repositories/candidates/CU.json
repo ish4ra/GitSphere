@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CU","name":"Cuba","slug":"cuba"},
-"count": 1,
+"count": 2,
 "repositories": [
-  {"id":"MDEwOlJlcG9zaXRvcnkyMDIyNzE5MDI=","name":"swl-x/MystiQ","stars":594,"forks":82,"language":"C++","license":"GPL-3.0","description":"Qt5/C++ FFmpeg Media Converter","archived":false,"createdAt":"2019-08-14T04:02:26Z","pushedAt":"2024-06-12T02:50:36Z","owner":{"id":"MDEyOk9yZ2FuaXphdGlvbjYxMDI2Nzg3","login":"swl-x","type":"Organization","name":"SWL-X Project","location":"Cuba"},"attribution":{"code":"CU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-25T04:20:26.169Z","verifiedAt":"2026-11-25T04:20:26.169Z","cycle":1}
+  {"id":"MDEwOlJlcG9zaXRvcnkyMDIyNzE5MDI=","name":"swl-x/MystiQ","stars":594,"forks":82,"language":"C++","license":"GPL-3.0","description":"Qt5/C++ FFmpeg Media Converter","archived":false,"createdAt":"2019-08-14T04:02:26Z","pushedAt":"2024-06-12T02:50:36Z","owner":{"id":"MDEyOk9yZ2FuaXphdGlvbjYxMDI2Nzg3","login":"swl-x","type":"Organization","name":"SWL-X Project","location":"Cuba"},"attribution":{"code":"CU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-25T04:20:26.169Z","verifiedAt":"2026-11-25T04:20:26.169Z","cycle":1},
+  {"id":"R_kgDOHLgXKQ","name":"GamerHack/GamerHack.github.io","stars":308,"forks":236,"language":"HTML","description":"PS4 Jailbreak for all exploitable firmwares","archived":false,"createdAt":"2022-04-15T03:36:41Z","pushedAt":"2026-11-19T01:41:44Z","owner":{"id":"MDQ6VXNlcjc2NjQxNDg1","login":"GamerHack","type":"User","location":"Cuba"},"attribution":{"code":"CU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-27T20:00:06.784Z","verifiedAt":"2026-11-27T20:00:06.784Z","cycle":1}
 ]
 }

@@ -5,7 +5,7 @@
 "country": {"code":"FM","name":"Micronesia","slug":"micronesia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":24,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":59,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":24,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":59,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjU5NTI3NzE=","login":"edper","name":"Edper","url":"https://github.com/edper","avatarUrl":"https://avatars.githubusercontent.com/u/5952771?s=80&v=4","followers":4,"publicRepos":92,"location":"Federated States of Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjU4MTUzODM0","login":"toshioue","name":"Hitoshi Oue","url":"https://github.com/toshioue","avatarUrl":"https://avatars.githubusercontent.com/u/58153834?s=80&v=4","followers":4,"publicRepos":16,"location":"Pohnpei, Micronesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
@@ -32,8 +32,8 @@
   {"rank":23,"id":"MDQ6VXNlcjI2NjU0NDUw","login":"MacchiatoMan","name":"MacchiatoMan","url":"https://github.com/MacchiatoMan","avatarUrl":"https://avatars.githubusercontent.com/u/26654450?s=80&v=4","followers":0,"publicRepos":0,"location":"Ngoof, Yap, Federated States of Micronesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-27"},
   {"rank":24,"id":"U_kgDOCZWcag","login":"mhaney10","name":"Melanie Haney","url":"https://github.com/mhaney10","avatarUrl":"https://avatars.githubusercontent.com/u/160799850?s=80&v=4","followers":0,"publicRepos":0,"location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "b38755326a8ea46f",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "3541f4b278622cf5",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><a href="https://github.com/phcollignon"><img src="https://avatars.githubusercontent.com/u/7680604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phcollignon"><b>Philippe Collignon</b></a><br><sub>&#64;phcollignon</sub></td>
-<td align="right"><b>264</b></td>
+<td align="right"><b>265</b></td>
 <td align="right">35</td>
 <td><sub>Luxembourg</sub></td>
 </tr>
@@ -290,7 +290,7 @@
 <tr>
 <td align="right">39</td>
 <td><a href="https://github.com/Moltivie"><img src="https://avatars.githubusercontent.com/u/14014692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Moltivie"><b>Moltivie</b></a><br><sub>&#64;Moltivie</sub></td>
-<td align="right"><b>120</b></td>
+<td align="right"><b>119</b></td>
 <td align="right">38</td>
 <td><sub>Luxembourg</sub></td>
 </tr>
@@ -298,7 +298,7 @@
 <td align="right">40</td>
 <td><a href="https://github.com/alitourani"><img src="https://avatars.githubusercontent.com/u/42409909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alitourani"><b>Ali Tourani</b></a><br><sub>&#64;alitourani</sub></td>
 <td align="right"><b>112</b></td>
-<td align="right">44</td>
+<td align="right">45</td>
 <td><sub>Luxembourg</sub></td>
 </tr>
 <tr>

@@ -5,7 +5,7 @@
 "country": {"code":"CG","name":"Republic of the Congo","slug":"republic-of-the-congo"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":20,"ownerExpansionBacklog":144,"candidates":20,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":46,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":20,"ownerExpansionBacklog":142,"candidates":20,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":46,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Number_Manipulation","nameWithOwner":"alBeToe/Number_Manipulation","url":"https://github.com/alBeToe/Number_Manipulation","description":null,"stars":0,"forks":0,"primaryLanguage":"Java","license":null,"createdAt":"2018-12-29T13:49:03Z","pushedAt":"2018-12-29T13:51:02Z","archived":false,"owner":{"login":"alBeToe","name":"Alfred Toengaho","type":"User","url":"https://github.com/alBeToe","location":"Kinshasa, Congo DR","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"cse340","nameWithOwner":"atherbeauta/cse340","url":"https://github.com/atherbeauta/cse340","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-05-11T20:59:53Z","pushedAt":"2026-10-03T20:43:47Z","archived":false,"owner":{"login":"atherbeauta","name":"Kazadi Athanase Muamba","type":"User","url":"https://github.com/atherbeauta","location":"LUBUMBASHI DR CONGO","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -28,8 +28,8 @@
   {"rank":19,"id":null,"name":"brasserie","nameWithOwner":"yannickchoni/brasserie","url":"https://github.com/yannickchoni/brasserie","description":null,"stars":0,"forks":0,"primaryLanguage":"Kotlin","license":null,"createdAt":"2021-10-06T08:07:23Z","pushedAt":"2021-10-12T12:04:17Z","archived":false,"owner":{"login":"yannickchoni","name":"Yannick Choni","type":"User","url":"https://github.com/yannickchoni","location":"Lubumbashi, Congo DR","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":20,"id":null,"name":"AI-Learning-Journey","nameWithOwner":"yeabsirabirhanu/AI-Learning-Journey","url":"https://github.com/yeabsirabirhanu/AI-Learning-Journey","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-07-17T03:48:34Z","pushedAt":"2026-07-17T10:23:14Z","archived":false,"owner":{"login":"yeabsirabirhanu","name":"Yeabsira Birhanu","type":"User","url":"https://github.com/yeabsirabirhanu","location":"Brazzaville, Republic of the Congo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "c8b112d7cb915891",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "f7adf0cf1521cfdf",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

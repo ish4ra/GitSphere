@@ -5,7 +5,7 @@
 "country": {"code":"GP","name":"Guadeloupe","slug":"guadeloupe"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":98,"ownerExpansionBacklog":142,"candidates":106,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":25,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":98,"ownerExpansionBacklog":141,"candidates":106,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":25,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk3OTY3NjI2MQ==","name":"snowden-archive","nameWithOwner":"iamcryptoki/snowden-archive","url":"https://github.com/iamcryptoki/snowden-archive","description":"💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.","stars":1443,"forks":204,"primaryLanguage":null,"license":null,"createdAt":"2017-01-21T22:15:48Z","pushedAt":"2020-01-14T12:59:22Z","archived":false,"owner":{"login":"iamcryptoki","name":"Gael Gentil","type":"User","url":"https://github.com/iamcryptoki","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyMjE3MzYz","name":"twmn","nameWithOwner":"sboli/twmn","url":"https://github.com/sboli/twmn","description":"A notification system for tiling window managers","stars":533,"forks":46,"primaryLanguage":"C++","license":{"spdxId":"LGPL-3.0"},"createdAt":"2011-08-16T18:17:09Z","pushedAt":"2025-10-23T11:07:05Z","archived":false,"owner":{"login":"sboli","name":"Bolivar Stephen","type":"User","url":"https://github.com/sboli","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"shanflow-leaderboard-tip","nameWithOwner":"shaneal972/shanflow-leaderboard-tip","url":"https://github.com/shaneal972/shanflow-leaderboard-tip","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-08-27T20:27:52Z","pushedAt":"2026-09-23T13:37:46Z","archived":false,"owner":{"login":"shaneal972","name":"David JACQUA","type":"User","url":"https://github.com/shaneal972","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"guadadem","nameWithOwner":"sio971/guadadem","url":"https://github.com/sio971/guadadem","description":null,"stars":0,"forks":0,"primaryLanguage":"Java","license":null,"createdAt":"2020-11-15T15:53:01Z","pushedAt":"2020-11-15T22:19:52Z","archived":false,"owner":{"login":"sio971","name":"sio971","type":"User","url":"https://github.com/sio971","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "82d4ad0e88e5929c",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "a030670f03966d50",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

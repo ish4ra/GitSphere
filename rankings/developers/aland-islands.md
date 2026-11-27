@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/danielkert-dev"><img src="https://avatars.githubusercontent.com/u/72834950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielkert-dev"><b>Daniel Kert - Danke</b></a><br><sub>&#64;danielkert-dev</sub></td>
-<td align="right"><b>19</b></td>
+<td align="right"><b>18</b></td>
 <td align="right">11</td>
 <td><sub>Åland</sub></td>
 </tr>
@@ -156,17 +156,17 @@
 </tr>
 <tr>
 <td align="right">20</td>
-<td><a href="https://github.com/blueskiy01"><img src="https://avatars.githubusercontent.com/u/122779689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blueskiy01"><b>blueskiy01</b></a><br><sub>&#64;blueskiy01</sub></td>
-<td align="right"><b>11</b></td>
-<td align="right">11</td>
-<td><sub>Mariehamn, Åland Islands</sub></td>
-</tr>
-<tr>
-<td align="right">21</td>
 <td><a href="https://github.com/AntonWiklund1"><img src="https://avatars.githubusercontent.com/u/70876919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AntonWiklund1"><b>Anton Wiklund</b></a><br><sub>&#64;AntonWiklund1</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">4</td>
 <td><sub>Åland</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/blueskiy01"><img src="https://avatars.githubusercontent.com/u/122779689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blueskiy01"><b>blueskiy01</b></a><br><sub>&#64;blueskiy01</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">11</td>
+<td><sub>Mariehamn, Åland Islands</sub></td>
 </tr>
 <tr>
 <td align="right">22</td>

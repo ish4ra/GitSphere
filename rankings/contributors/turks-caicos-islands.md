@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 23 Nov 2026 | <a href="../../data/contributors/TC.json">JSON</a> |
+| 🟡 Provisional | **7** | 23 Nov 2026 | <a href="../../data/contributors/TC.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/PPHconsultancy"><img src="https://avatars.githubusercontent.com/u/206948729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PPHconsultancy"><b>PPH Professional Consultancy &amp; Services</b></a><br><sub>&#64;PPHconsultancy · 0 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/bdanny2"><img src="https://avatars.githubusercontent.com/u/17894477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bdanny2"><b>Andrew Dunbar</b></a><br><sub>&#64;bdanny2 · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/johnwuelk"><img src="https://avatars.githubusercontent.com/u/12553753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnwuelk"><b>Johannes Wülk</b></a><br><sub>&#64;johnwuelk · 3 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -51,7 +60,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/MJennings97"><img src="https://avatars.githubusercontent.com/u/76759602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MJennings97"><b>Marvin Jennings</b></a><br><sub>&#64;MJennings97 · 1 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -60,11 +69,20 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/head-dunce"><img src="https://avatars.githubusercontent.com/u/58668957?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/head-dunce"><b>Jim</b></a><br><sub>&#64;head-dunce · 1 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/bluehavenmarina"><img src="https://avatars.githubusercontent.com/u/282490750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluehavenmarina"><b>Blue Haven Marina</b></a><br><sub>&#64;bluehavenmarina · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -75,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 20 of 32 discovered developers (12 awaiting measurement).
+- **Measured:** 23 of 32 discovered developers (9 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 29 in round 1.

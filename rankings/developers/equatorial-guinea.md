@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **81** | 22 Nov 2026 | <a href="../../data/developers/GQ.json">JSON</a> |
+| 🟡 Provisional | **87** | 22 Nov 2026 | <a href="../../data/developers/GQ.json">JSON</a> |
 
 </div>
 
@@ -457,132 +457,174 @@
 </tr>
 <tr>
 <td align="right">63</td>
-<td><a href="https://github.com/itbonafidemicrobank"><img src="https://avatars.githubusercontent.com/u/216961966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itbonafidemicrobank"><b>IT.BonafideMicrobank</b></a><br><sub>&#64;itbonafidemicrobank</sub></td>
+<td><a href="https://github.com/INFO-LSGE"><img src="https://avatars.githubusercontent.com/u/310596583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/INFO-LSGE"><b>Asociación LSGE — Lengua de Signos de Guinea Ecuatorial</b></a><br><sub>&#64;INFO-LSGE</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Malabo, Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
 <td align="right">64</td>
+<td><a href="https://github.com/itbonafidemicrobank"><img src="https://avatars.githubusercontent.com/u/216961966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itbonafidemicrobank"><b>IT.BonafideMicrobank</b></a><br><sub>&#64;itbonafidemicrobank</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Malabo, Guinea Ecuatorial</sub></td>
+</tr>
+<tr>
+<td align="right">65</td>
 <td><a href="https://github.com/jestechcorporation"><img src="https://avatars.githubusercontent.com/u/57268742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jestechcorporation"><b>Oscar</b></a><br><sub>&#64;jestechcorporation</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Malabo: Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">66</td>
 <td><a href="https://github.com/jesusmesie-png"><img src="https://avatars.githubusercontent.com/u/302474995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesusmesie-png"><b>Jesús Mesias</b></a><br><sub>&#64;jesusmesie-png</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">67</td>
 <td><a href="https://github.com/LuisJordyBikoro"><img src="https://avatars.githubusercontent.com/u/64341490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LuisJordyBikoro"><b>José Luis BIKORO N</b></a><br><sub>&#64;LuisJordyBikoro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">68</td>
 <td><a href="https://github.com/mbilenakuo"><img src="https://avatars.githubusercontent.com/u/191989046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbilenakuo"><b>María Milagrosa Mbile Nakuo</b></a><br><sub>&#64;mbilenakuo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lea,Bata,Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">69</td>
 <td><a href="https://github.com/Miguel-Ak47"><img src="https://avatars.githubusercontent.com/u/231219755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Miguel-Ak47"><b>Miguel-Ak47</b></a><br><sub>&#64;Miguel-Ak47</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Malabo/Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">70</td>
 <td><a href="https://github.com/mvandyreo"><img src="https://avatars.githubusercontent.com/u/179494860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvandyreo"><b>Miguel Angel Vandy Reo</b></a><br><sub>&#64;mvandyreo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Malabo, Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">71</td>
 <td><a href="https://github.com/Ramiro31jr"><img src="https://avatars.githubusercontent.com/u/202080685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ramiro31jr"><b>Ramiro31jr</b></a><br><sub>&#64;Ramiro31jr</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oyala, Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">72</td>
 <td><a href="https://github.com/sukupandachu"><img src="https://avatars.githubusercontent.com/u/15521459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sukupandachu"><b>sukupandachu</b></a><br><sub>&#64;sukupandachu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Equatorial Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">73</td>
 <td><a href="https://github.com/yosoydoramn"><img src="https://avatars.githubusercontent.com/u/98126996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yosoydoramn"><b>Domingo Raul MITOGO NKENE</b></a><br><sub>&#64;yosoydoramn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Malabo - Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">74</td>
 <td><a href="https://github.com/Avelinoweb"><img src="https://avatars.githubusercontent.com/u/80952520?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Avelinoweb"><b>Avelinoweb</b></a><br><sub>&#64;Avelinoweb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Equatorial Guinea, Malabo</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">75</td>
 <td><a href="https://github.com/Calbert72"><img src="https://avatars.githubusercontent.com/u/282224462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Calbert72"><b>Calbert 72</b></a><br><sub>&#64;Calbert72</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">76</td>
 <td><a href="https://github.com/cesar-momo"><img src="https://avatars.githubusercontent.com/u/221470523?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cesar-momo"><b>César Momo Chema</b></a><br><sub>&#64;cesar-momo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Malabo, Equatorial Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">77</td>
+<td><a href="https://github.com/clementerivas11-glitch"><img src="https://avatars.githubusercontent.com/u/284662062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/clementerivas11-glitch"><b>Brando Clemente Rivas</b></a><br><sub>&#64;clementerivas11-glitch</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Malabo/Guinea Ecuatorial</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/CNP-WEB"><img src="https://avatars.githubusercontent.com/u/56772533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CNP-WEB"><b>CniapgeWeb</b></a><br><sub>&#64;CNP-WEB</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Guinea Ecuatorial</sub></td>
+</tr>
+<tr>
+<td align="right">79</td>
 <td><a href="https://github.com/ebangobama"><img src="https://avatars.githubusercontent.com/u/182317740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ebangobama"><b>ING. EBANG OBAMA</b></a><br><sub>&#64;ebangobama</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Malabo, Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">80</td>
 <td><a href="https://github.com/Hathortek"><img src="https://avatars.githubusercontent.com/u/212133008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hathortek"><b>Hathortek</b></a><br><sub>&#64;Hathortek</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Caracolas, Malabo - Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">81</td>
 <td><a href="https://github.com/info-gst"><img src="https://avatars.githubusercontent.com/u/206844855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/info-gst"><b>GEPerol Star Travel</b></a><br><sub>&#64;info-gst</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Malabo, Guinea Ecuatorial</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">82</td>
 <td><a href="https://github.com/marufribin"><img src="https://avatars.githubusercontent.com/u/77118328?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marufribin"><b>Md. Maruf Hasnain</b></a><br><sub>&#64;marufribin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Bata, Equatorial Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">83</td>
+<td><a href="https://github.com/mbomio89-blip"><img src="https://avatars.githubusercontent.com/u/264588224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbomio89-blip"><b>Clemente Mbomio Ebang</b></a><br><sub>&#64;mbomio89-blip</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Malabo, Guinea Ecuatorial</sub></td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><a href="https://github.com/micha-codePHP"><img src="https://avatars.githubusercontent.com/u/298350246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/micha-codePHP"><b>Aarón Mariano Micha Micha Nfono</b></a><br><sub>&#64;micha-codePHP</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Guinea Ecuatorial</sub></td>
+</tr>
+<tr>
+<td align="right">85</td>
 <td><a href="https://github.com/OndoMangue"><img src="https://avatars.githubusercontent.com/u/191816301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OndoMangue"><b>Sammy</b></a><br><sub>&#64;OndoMangue</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Equatorial Guinea (Malabo)</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">86</td>
+<td><a href="https://github.com/Sima899"><img src="https://avatars.githubusercontent.com/u/106609821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sima899"><b>Anacleto Sima</b></a><br><sub>&#64;Sima899</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Malabo/ Guinea Ecuatorial</sub></td>
+</tr>
+<tr>
+<td align="right">87</td>
 <td><a href="https://github.com/yohnsue"><img src="https://avatars.githubusercontent.com/u/352219658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yohnsue"><b>YoH-LaTHe</b></a><br><sub>&#64;yohnsue</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -596,8 +638,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 81 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 6 of 47 in round 1.
+- Organizations are excluded. 87 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 8 of 47 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

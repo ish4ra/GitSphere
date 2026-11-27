@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/Fraganya"><img src="https://avatars.githubusercontent.com/u/10554509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fraganya"><b>Francis Ganya</b></a><br><sub>&#64;Fraganya</sub></td>
-<td align="right"><b>261</b></td>
+<td align="right"><b>260</b></td>
 <td align="right">49</td>
 <td><sub>Blantyre, Malawi</sub></td>
 </tr>

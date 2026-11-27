@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **63** | 24 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
+| 🟡 Provisional | **65** | 24 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
 
 </div>
 
@@ -462,6 +462,20 @@
 <td align="right">37</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/artemnovichkov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/artemnovichkov/Swift-For-Scripting"><b>artemnovichkov/Swift-For-Scripting</b></a><br><sub>📋A hand-curated collection of useful and informative Swift Scripting materials.</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">9</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/dKosarevsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dKosarevsky/AI-Talks"><b>dKosarevsky/AI-Talks</b></a><br><sub>AI Talks - ChatGPT Assistant via Streamlit</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">126</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -470,7 +484,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 318 stars; 63 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 295 stars; 65 attributed candidates are tracked.
 - 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **50** | 24 Nov 2026 | <a href="../data/LU.json">JSON</a> |
+| 🟡 Provisional | **54** | 24 Nov 2026 | <a href="../data/LU.json">JSON</a> |
 
 </div>
 
@@ -371,6 +371,34 @@
 <td align="right">0</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/phcollignon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/phcollignon/helm3"><b>phcollignon/helm3</b></a><br><sub>Ressources for &quot;Packaging Applications with Helm for Kubernetes&quot; &#64; Pluralsight (Helm version 3)</sub></td>
+<td align="right"><b>306</b></td>
+<td align="right">534</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/qdm12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qdm12/dns"><b>qdm12/dns</b></a><br><sub>Docker DNS server on steroids to access DNS-over-TLS from Cloudflare, Google, Quad9, Quadrant or CleanBrowsing</sub></td>
+<td align="right"><b>301</b></td>
+<td align="right">44</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/hgourvest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hgourvest/dcef3"><b>hgourvest/dcef3</b></a> <sub>archived</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">169</td>
+<td>Pascal</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/prowide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prowide/prowide-core"><b>prowide/prowide-core</b></a><br><sub>Model and parsers for all SWIFT MT (FIN) messages</sub></td>
+<td align="right"><b>296</b></td>
+<td align="right">131</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -379,8 +407,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 317 stars; 50 attributed candidates are tracked.
-- 95 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 296 stars; 54 attributed candidates are tracked.
+- 90 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

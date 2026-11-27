@@ -100,38 +100,38 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/R3tr8"><img src="https://avatars.githubusercontent.com/u/39610870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/R3tr8"><b>Franck-Emmanuel</b></a><br><sub>&#64;R3tr8</sub></td>
+<td align="right"><b>8</b></td>
+<td align="right">18</td>
+<td><sub>Martinique</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/glefait"><img src="https://avatars.githubusercontent.com/u/7490317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/glefait"><b>Guillem Lefait</b></a><br><sub>&#64;glefait</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">63</td>
 <td><sub>Fort-de-France, Martinique</sub></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/kdichon"><img src="https://avatars.githubusercontent.com/u/77813321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kdichon"><b>Kdichon</b></a><br><sub>&#64;kdichon</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">28</td>
 <td><sub>Martinique</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/WestleyB"><img src="https://avatars.githubusercontent.com/u/22403106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WestleyB"><b>Wez</b></a><br><sub>&#64;WestleyB</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">27</td>
 <td><sub>Paris - Martinique - London</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/ohendev"><img src="https://avatars.githubusercontent.com/u/38585040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ohendev"><b>Ohen</b></a><br><sub>&#64;ohendev</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">22</td>
 <td><sub>French Martinique</sub></td>
-</tr>
-<tr>
-<td align="right">16</td>
-<td><a href="https://github.com/R3tr8"><img src="https://avatars.githubusercontent.com/u/39610870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/R3tr8"><b>Franck-Emmanuel</b></a><br><sub>&#64;R3tr8</sub></td>
-<td align="right"><b>7</b></td>
-<td align="right">18</td>
-<td><sub>Martinique</sub></td>
 </tr>
 <tr>
 <td align="right">17</td>

@@ -5,7 +5,7 @@
 "country": {"code":"HM","name":"Heard & McDonald Islands","slug":"heard-mcdonald-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":26,"candidates":19,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":26,"candidates":19,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":".github","nameWithOwner":"AnvilTweaks/.github","url":"https://github.com/AnvilTweaks/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-05-09T21:26:57Z","pushedAt":"2026-05-09T21:27:54Z","archived":false,"owner":{"login":"AnvilTweaks","name":"AnvilTweaks","type":"Organization","url":"https://github.com/AnvilTweaks","location":"Heard and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-26","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"GameTrade","nameWithOwner":"cewmates-1/GameTrade","url":"https://github.com/cewmates-1/GameTrade","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"BSD-2-Clause"},"createdAt":"2022-08-03T03:29:41Z","pushedAt":"2022-08-05T09:38:03Z","archived":false,"owner":{"login":"cewmates-1","name":"FamTech","type":"Organization","url":"https://github.com/cewmates-1","location":"Heard and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-26","pendingRevalidation":true},
@@ -27,8 +27,8 @@
   {"rank":18,"id":null,"name":"pearproject.eu.org","nameWithOwner":"ThePearProject/pearproject.eu.org","url":"https://github.com/ThePearProject/pearproject.eu.org","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2023-03-26T16:23:29Z","pushedAt":"2024-06-17T22:10:52Z","archived":false,"owner":{"login":"ThePearProject","name":"The Pear Project","type":"Organization","url":"https://github.com/ThePearProject","location":"Heard and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-26","pendingRevalidation":true},
   {"rank":19,"id":null,"name":"autocompleter","nameWithOwner":"zero-width-space/autocompleter","url":"https://github.com/zero-width-space/autocompleter","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-07-16T06:13:21Z","pushedAt":"2026-07-16T10:14:05Z","archived":false,"owner":{"login":"zero-width-space","name":"zwsp","type":"User","url":"https://github.com/zero-width-space","location":"Heard Island and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-26","pendingRevalidation":true}
 ],
-"contentHash": "22af7e5b1fae3d68",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "1ab498e8cbae6ec9",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-10-26",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

@@ -38,14 +38,14 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/JakeWharton"><img src="https://avatars.githubusercontent.com/u/66577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JakeWharton"><b>Jake Wharton</b></a><br><sub>&#64;JakeWharton</sub></td>
-<td align="right"><b>68,815</b></td>
+<td align="right"><b>68,818</b></td>
 <td align="right">155</td>
 <td><sub>Pittsburgh, PA, USA</sub></td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/addyosmani"><img src="https://avatars.githubusercontent.com/u/110953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/addyosmani"><b>Addy Osmani</b></a><br><sub>&#64;addyosmani</sub></td>
-<td align="right"><b>55,922</b></td>
+<td align="right"><b>55,932</b></td>
 <td align="right">363</td>
 <td><sub>Sunnyvale, California</sub></td>
 </tr>
@@ -59,14 +59,14 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/geohot"><img src="https://avatars.githubusercontent.com/u/72895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geohot"><b>George Hotz</b></a><br><sub>&#64;geohot</sub></td>
-<td align="right"><b>47,697</b></td>
+<td align="right"><b>47,701</b></td>
 <td align="right">103</td>
 <td><sub>San Diego, CA</sub></td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/getify"><img src="https://avatars.githubusercontent.com/u/150330?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/getify"><b>Kyle Simpson</b></a><br><sub>&#64;getify</sub></td>
-<td align="right"><b>45,484</b></td>
+<td align="right"><b>45,486</b></td>
 <td align="right">74</td>
 <td><sub>Austin, TX</sub></td>
 </tr>
@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/kentcdodds"><img src="https://avatars.githubusercontent.com/u/1500684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kentcdodds"><b>Kent C. Dodds</b></a><br><sub>&#64;kentcdodds</sub></td>
-<td align="right"><b>35,891</b></td>
+<td align="right"><b>35,872</b></td>
 <td align="right">755</td>
 <td><sub>Salt Lake City, Utah, USA</sub></td>
 </tr>
@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/WebDevSimplified"><img src="https://avatars.githubusercontent.com/u/39717099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WebDevSimplified"><b>WebDevSimplified</b></a><br><sub>&#64;WebDevSimplified</sub></td>
-<td align="right"><b>32,450</b></td>
+<td align="right"><b>32,448</b></td>
 <td align="right">239</td>
 <td><sub>Nebraska</sub></td>
 </tr>
@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><a href="https://github.com/buckyroberts"><img src="https://avatars.githubusercontent.com/u/8547538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/buckyroberts"><b>Bucky Roberts</b></a><br><sub>&#64;buckyroberts</sub></td>
-<td align="right"><b>26,963</b></td>
+<td align="right"><b>26,960</b></td>
 <td align="right">45</td>
 <td><sub>New York, NY</sub></td>
 </tr>
@@ -164,14 +164,14 @@
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/mitchellh"><img src="https://avatars.githubusercontent.com/u/1299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mitchellh"><b>Mitchell Hashimoto</b></a><br><sub>&#64;mitchellh</sub></td>
-<td align="right"><b>25,424</b></td>
+<td align="right"><b>25,471</b></td>
 <td align="right">119</td>
 <td><sub>Los Angeles, CA</sub></td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><a href="https://github.com/kelseyhightower"><img src="https://avatars.githubusercontent.com/u/1123322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kelseyhightower"><b>Kelsey Hightower</b></a><br><sub>&#64;kelseyhightower</sub></td>
-<td align="right"><b>25,008</b></td>
+<td align="right"><b>25,014</b></td>
 <td align="right">196</td>
 <td><sub>Washington</sub></td>
 </tr>
@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/tpope"><img src="https://avatars.githubusercontent.com/u/378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tpope"><b>Tim Pope</b></a><br><sub>&#64;tpope</sub></td>
-<td align="right"><b>23,579</b></td>
+<td align="right"><b>23,596</b></td>
 <td align="right">85</td>
 <td><sub>Brooklyn, NY</sub></td>
 </tr>
@@ -220,7 +220,7 @@
 <tr>
 <td align="right">29</td>
 <td><a href="https://github.com/t3dotgg"><img src="https://avatars.githubusercontent.com/u/6751787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/t3dotgg"><b>Theo Browne</b></a><br><sub>&#64;t3dotgg</sub></td>
-<td align="right"><b>22,239</b></td>
+<td align="right"><b>22,257</b></td>
 <td align="right">140</td>
 <td><sub>San Francisco, CA</sub></td>
 </tr>
@@ -234,14 +234,14 @@
 <tr>
 <td align="right">31</td>
 <td><a href="https://github.com/Rich-Harris"><img src="https://avatars.githubusercontent.com/u/1162160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rich-Harris"><b>Rich Harris</b></a><br><sub>&#64;Rich-Harris</sub></td>
-<td align="right"><b>20,953</b></td>
+<td align="right"><b>20,915</b></td>
 <td align="right">395</td>
 <td><sub>NYC</sub></td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><a href="https://github.com/john-smilga"><img src="https://avatars.githubusercontent.com/u/42133389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/john-smilga"><b>Yanis Smilga</b></a><br><sub>&#64;john-smilga</sub></td>
-<td align="right"><b>20,715</b></td>
+<td align="right"><b>20,718</b></td>
 <td align="right">262</td>
 <td><sub>Sarasota, FL</sub></td>
 </tr>
@@ -255,7 +255,7 @@
 <tr>
 <td align="right">34</td>
 <td><a href="https://github.com/loiane"><img src="https://avatars.githubusercontent.com/u/59545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loiane"><b>Loiane Groner</b></a><br><sub>&#64;loiane</sub></td>
-<td align="right"><b>20,038</b></td>
+<td align="right"><b>20,043</b></td>
 <td align="right">223</td>
 <td><sub>Florida, US</sub></td>
 </tr>
@@ -269,14 +269,14 @@
 <tr>
 <td align="right">36</td>
 <td><a href="https://github.com/shiffman"><img src="https://avatars.githubusercontent.com/u/191758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shiffman"><b>Daniel Shiffman</b></a><br><sub>&#64;shiffman</sub></td>
-<td align="right"><b>19,523</b></td>
+<td align="right"><b>19,522</b></td>
 <td align="right">176</td>
 <td><sub>New York, NY</sub></td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><a href="https://github.com/mattt"><img src="https://avatars.githubusercontent.com/u/7659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattt"><b>Mattt</b></a><br><sub>&#64;mattt</sub></td>
-<td align="right"><b>19,311</b></td>
+<td align="right"><b>19,312</b></td>
 <td align="right">163</td>
 <td><sub>Portland, OR</sub></td>
 </tr>
@@ -290,7 +290,7 @@
 <tr>
 <td align="right">39</td>
 <td><a href="https://github.com/unclebob"><img src="https://avatars.githubusercontent.com/u/36901?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unclebob"><b>Robert C. Martin</b></a><br><sub>&#64;unclebob</sub></td>
-<td align="right"><b>18,937</b></td>
+<td align="right"><b>18,948</b></td>
 <td align="right">107</td>
 <td><sub>Gurnee, IL</sub></td>
 </tr>
@@ -304,7 +304,7 @@
 <tr>
 <td align="right">41</td>
 <td><a href="https://github.com/trekhleb"><img src="https://avatars.githubusercontent.com/u/3000285?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trekhleb"><b>Oleksii Trekhleb</b></a><br><sub>&#64;trekhleb</sub></td>
-<td align="right"><b>18,134</b></td>
+<td align="right"><b>18,139</b></td>
 <td align="right">29</td>
 <td><sub>San Francisco Bay Area</sub></td>
 </tr>
@@ -339,7 +339,7 @@
 <tr>
 <td align="right">46</td>
 <td><a href="https://github.com/wesm"><img src="https://avatars.githubusercontent.com/u/329591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wesm"><b>Wes McKinney</b></a><br><sub>&#64;wesm</sub></td>
-<td align="right"><b>17,147</b></td>
+<td align="right"><b>17,160</b></td>
 <td align="right">135</td>
 <td><sub>Nashville, TN</sub></td>
 </tr>
@@ -353,21 +353,21 @@
 <tr>
 <td align="right">48</td>
 <td><a href="https://github.com/ChrisTitusTech"><img src="https://avatars.githubusercontent.com/u/7896101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChrisTitusTech"><b>Chris Titus</b></a><br><sub>&#64;ChrisTitusTech</sub></td>
-<td align="right"><b>16,981</b></td>
+<td align="right"><b>16,982</b></td>
 <td align="right">98</td>
 <td><sub>Dallas, TX</sub></td>
 </tr>
 <tr>
 <td align="right">49</td>
 <td><a href="https://github.com/codingforentrepreneurs"><img src="https://avatars.githubusercontent.com/u/8030945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codingforentrepreneurs"><b>Coding For Entrepreneurs</b></a><br><sub>&#64;codingforentrepreneurs</sub></td>
-<td align="right"><b>16,958</b></td>
+<td align="right"><b>16,957</b></td>
 <td align="right">232</td>
 <td><sub>Boise, Idaho</sub></td>
 </tr>
 <tr>
 <td align="right">50</td>
 <td><a href="https://github.com/spf13"><img src="https://avatars.githubusercontent.com/u/173412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spf13"><b>Steve Francia</b></a><br><sub>&#64;spf13</sub></td>
-<td align="right"><b>16,715</b></td>
+<td align="right"><b>16,716</b></td>
 <td align="right">127</td>
 <td><sub>NYC</sub></td>
 </tr>
@@ -465,14 +465,14 @@
 <tr>
 <td align="right">64</td>
 <td><a href="https://github.com/feross"><img src="https://avatars.githubusercontent.com/u/121766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feross"><b>Feross Aboukhadijeh</b></a><br><sub>&#64;feross</sub></td>
-<td align="right"><b>14,924</b></td>
+<td align="right"><b>14,932</b></td>
 <td align="right">148</td>
 <td><sub>Stanford, CA</sub></td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><a href="https://github.com/davidfowl"><img src="https://avatars.githubusercontent.com/u/95136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidfowl"><b>David Fowler</b></a><br><sub>&#64;davidfowl</sub></td>
-<td align="right"><b>14,452</b></td>
+<td align="right"><b>14,453</b></td>
 <td align="right">295</td>
 <td><sub>Bellevue, WA</sub></td>
 </tr>
@@ -493,7 +493,7 @@
 <tr>
 <td align="right">68</td>
 <td><a href="https://github.com/bradfitz"><img src="https://avatars.githubusercontent.com/u/2621?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bradfitz"><b>Brad Fitzpatrick</b></a><br><sub>&#64;bradfitz</sub></td>
-<td align="right"><b>13,911</b></td>
+<td align="right"><b>13,919</b></td>
 <td align="right">192</td>
 <td><sub>Seattle</sub></td>
 </tr>
@@ -514,7 +514,7 @@
 <tr>
 <td align="right">71</td>
 <td><a href="https://github.com/btholt"><img src="https://avatars.githubusercontent.com/u/999523?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/btholt"><b>Brian Holt</b></a><br><sub>&#64;btholt</sub></td>
-<td align="right"><b>13,652</b></td>
+<td align="right"><b>13,651</b></td>
 <td align="right">183</td>
 <td><sub>Seattle, WA</sub></td>
 </tr>
@@ -556,7 +556,7 @@
 <tr>
 <td align="right">77</td>
 <td><a href="https://github.com/jart"><img src="https://avatars.githubusercontent.com/u/49262?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jart"><b>Justin Tunney</b></a><br><sub>&#64;jart</sub></td>
-<td align="right"><b>12,197</b></td>
+<td align="right"><b>12,198</b></td>
 <td align="right">231</td>
 <td><sub>New Jersey, USA</sub></td>
 </tr>
@@ -661,7 +661,7 @@
 <tr>
 <td align="right">92</td>
 <td><a href="https://github.com/andrewrk"><img src="https://avatars.githubusercontent.com/u/106511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrewrk"><b>Andrew Kelley</b></a><br><sub>&#64;andrewrk</sub></td>
-<td align="right"><b>10,727</b></td>
+<td align="right"><b>10,738</b></td>
 <td align="right">229</td>
 <td><sub>Portland, Oregon</sub></td>
 </tr>
@@ -675,14 +675,14 @@
 <tr>
 <td align="right">94</td>
 <td><a href="https://github.com/romannurik"><img src="https://avatars.githubusercontent.com/u/100155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/romannurik"><b>Roman Nurik</b></a><br><sub>&#64;romannurik</sub></td>
-<td align="right"><b>10,691</b></td>
+<td align="right"><b>10,690</b></td>
 <td align="right">73</td>
 <td><sub>New York, NY</sub></td>
 </tr>
 <tr>
 <td align="right">95</td>
 <td><a href="https://github.com/mgechev"><img src="https://avatars.githubusercontent.com/u/455023?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgechev"><b>Minko Gechev</b></a><br><sub>&#64;mgechev</sub></td>
-<td align="right"><b>10,540</b></td>
+<td align="right"><b>10,539</b></td>
 <td align="right">393</td>
 <td><sub>California 🌴</sub></td>
 </tr>
@@ -710,7 +710,7 @@
 <tr>
 <td align="right">99</td>
 <td><a href="https://github.com/Sentdex"><img src="https://avatars.githubusercontent.com/u/5905296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sentdex"><b>Harrison</b></a><br><sub>&#64;Sentdex</sub></td>
-<td align="right"><b>10,434</b></td>
+<td align="right"><b>10,435</b></td>
 <td align="right">54</td>
 <td><sub>Texas</sub></td>
 </tr>
@@ -765,17 +765,17 @@
 </tr>
 <tr>
 <td align="right">107</td>
+<td><a href="https://github.com/tenderlove"><img src="https://avatars.githubusercontent.com/u/3124?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tenderlove"><b>Aaron Patterson</b></a><br><sub>&#64;tenderlove</sub></td>
+<td align="right"><b>9,870</b></td>
+<td align="right">392</td>
+<td><sub>Seattle</sub></td>
+</tr>
+<tr>
+<td align="right">108</td>
 <td><a href="https://github.com/dtolnay"><img src="https://avatars.githubusercontent.com/u/1940490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dtolnay"><b>David Tolnay</b></a><br><sub>&#64;dtolnay</sub></td>
 <td align="right"><b>9,863</b></td>
 <td align="right">122</td>
 <td><sub>Redwood City, California</sub></td>
-</tr>
-<tr>
-<td align="right">108</td>
-<td><a href="https://github.com/tenderlove"><img src="https://avatars.githubusercontent.com/u/3124?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tenderlove"><b>Aaron Patterson</b></a><br><sub>&#64;tenderlove</sub></td>
-<td align="right"><b>9,858</b></td>
-<td align="right">392</td>
-<td><sub>Seattle</sub></td>
 </tr>
 <tr>
 <td align="right">109</td>
@@ -801,7 +801,7 @@
 <tr>
 <td align="right">112</td>
 <td><a href="https://github.com/felangel"><img src="https://avatars.githubusercontent.com/u/8855632?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/felangel"><b>Felix Angelov</b></a><br><sub>&#64;felangel</sub></td>
-<td align="right"><b>9,289</b></td>
+<td align="right"><b>9,288</b></td>
 <td align="right">152</td>
 <td><sub>Chicago</sub></td>
 </tr>
@@ -927,7 +927,7 @@
 <tr>
 <td align="right">130</td>
 <td><a href="https://github.com/DeborahK"><img src="https://avatars.githubusercontent.com/u/7987365?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DeborahK"><b>Deborah Kurata</b></a><br><sub>&#64;DeborahK</sub></td>
-<td align="right"><b>8,005</b></td>
+<td align="right"><b>8,004</b></td>
 <td align="right">96</td>
 <td><sub>San Francisco/Silicon Valley, CA</sub></td>
 </tr>
@@ -947,22 +947,22 @@
 </tr>
 <tr>
 <td align="right">133</td>
+<td><a href="https://github.com/msitarzewski"><img src="https://avatars.githubusercontent.com/u/1972242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msitarzewski"><b>Michael Sitarzewski</b></a><br><sub>&#64;msitarzewski</sub></td>
+<td align="right"><b>7,783</b></td>
+<td align="right">52</td>
+<td><sub>Dallas, Texas</sub></td>
+</tr>
+<tr>
+<td align="right">134</td>
 <td><a href="https://github.com/dabit3"><img src="https://avatars.githubusercontent.com/u/1857282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dabit3"><b>Nader Dabit</b></a><br><sub>&#64;dabit3</sub></td>
 <td align="right"><b>7,782</b></td>
 <td align="right">514</td>
 <td><sub>Madison, Mississippi</sub></td>
 </tr>
 <tr>
-<td align="right">134</td>
-<td><a href="https://github.com/msitarzewski"><img src="https://avatars.githubusercontent.com/u/1972242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msitarzewski"><b>Michael Sitarzewski</b></a><br><sub>&#64;msitarzewski</sub></td>
-<td align="right"><b>7,753</b></td>
-<td align="right">52</td>
-<td><sub>Dallas, Texas</sub></td>
-</tr>
-<tr>
 <td align="right">135</td>
 <td><a href="https://github.com/mjackson"><img src="https://avatars.githubusercontent.com/u/92839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mjackson"><b>Michael Jackson</b></a><br><sub>&#64;mjackson</sub></td>
-<td align="right"><b>7,505</b></td>
+<td align="right"><b>7,506</b></td>
 <td align="right">206</td>
 <td><sub>Carlsbad, California</sub></td>
 </tr>
@@ -976,7 +976,7 @@
 <tr>
 <td align="right">137</td>
 <td><a href="https://github.com/jtleek"><img src="https://avatars.githubusercontent.com/u/1571674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jtleek"><b>Jeff L.</b></a><br><sub>&#64;jtleek</sub></td>
-<td align="right"><b>7,434</b></td>
+<td align="right"><b>7,433</b></td>
 <td align="right">113</td>
 <td><sub>Seattle, WA</sub></td>
 </tr>
@@ -997,7 +997,7 @@
 <tr>
 <td align="right">140</td>
 <td><a href="https://github.com/gazijarin"><img src="https://avatars.githubusercontent.com/u/32211479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gazijarin"><b>Gazi</b></a><br><sub>&#64;gazijarin</sub></td>
-<td align="right"><b>7,225</b></td>
+<td align="right"><b>7,265</b></td>
 <td align="right">20</td>
 <td><sub>New York City</sub></td>
 </tr>
@@ -1032,7 +1032,7 @@
 <tr>
 <td align="right">145</td>
 <td><a href="https://github.com/lidangzzz"><img src="https://avatars.githubusercontent.com/u/6800565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lidangzzz"><b>立党 Lidang</b></a><br><sub>&#64;lidangzzz</sub></td>
-<td align="right"><b>7,062</b></td>
+<td align="right"><b>7,065</b></td>
 <td align="right">51</td>
 <td><sub>Texas</sub></td>
 </tr>
@@ -1053,21 +1053,21 @@
 <tr>
 <td align="right">148</td>
 <td><a href="https://github.com/ankane"><img src="https://avatars.githubusercontent.com/u/220358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ankane"><b>Andrew Kane</b></a><br><sub>&#64;ankane</sub></td>
-<td align="right"><b>6,976</b></td>
+<td align="right"><b>6,977</b></td>
 <td align="right">447</td>
 <td><sub>San Francisco, CA</sub></td>
 </tr>
 <tr>
 <td align="right">149</td>
 <td><a href="https://github.com/rhiever"><img src="https://avatars.githubusercontent.com/u/1719223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rhiever"><b>Randy Olson</b></a><br><sub>&#64;rhiever</sub></td>
-<td align="right"><b>6,657</b></td>
+<td align="right"><b>6,658</b></td>
 <td align="right">84</td>
 <td><sub>Anacortes, WA</sub></td>
 </tr>
 <tr>
 <td align="right">150</td>
 <td><a href="https://github.com/TooTallNate"><img src="https://avatars.githubusercontent.com/u/71256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TooTallNate"><b>Nathan Rajlich</b></a><br><sub>&#64;TooTallNate</sub></td>
-<td align="right"><b>6,606</b></td>
+<td align="right"><b>6,602</b></td>
 <td align="right">414</td>
 <td><sub>San Francisco, CA</sub></td>
 </tr>
@@ -1081,7 +1081,7 @@
 <tr>
 <td align="right">152</td>
 <td><a href="https://github.com/jherr"><img src="https://avatars.githubusercontent.com/u/22392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jherr"><b>Jack Herrington</b></a><br><sub>&#64;jherr</sub></td>
-<td align="right"><b>6,587</b></td>
+<td align="right"><b>6,589</b></td>
 <td align="right">488</td>
 <td><sub>Happy Valley, OR</sub></td>
 </tr>
@@ -1123,7 +1123,7 @@
 <tr>
 <td align="right">158</td>
 <td><a href="https://github.com/HuXn-WebDev"><img src="https://avatars.githubusercontent.com/u/85052811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HuXn-WebDev"><b>HuXn-WebDev</b></a><br><sub>&#64;HuXn-WebDev</sub></td>
-<td align="right"><b>6,441</b></td>
+<td align="right"><b>6,438</b></td>
 <td align="right">28</td>
 <td><sub>United States</sub></td>
 </tr>
@@ -1430,17 +1430,17 @@
 </tr>
 <tr>
 <td align="right">202</td>
+<td><a href="https://github.com/leimao"><img src="https://avatars.githubusercontent.com/u/17606112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leimao"><b>Lei Mao</b></a><br><sub>&#64;leimao</sub></td>
+<td align="right"><b>5,160</b></td>
+<td align="right">219</td>
+<td><sub>Silicon Valley, California</sub></td>
+</tr>
+<tr>
+<td align="right">203</td>
 <td><a href="https://github.com/stephentoub"><img src="https://avatars.githubusercontent.com/u/2642209?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stephentoub"><b>Stephen Toub</b></a><br><sub>&#64;stephentoub</sub></td>
 <td align="right"><b>5,160</b></td>
 <td align="right">99</td>
 <td><sub>Boston, MA</sub></td>
-</tr>
-<tr>
-<td align="right">203</td>
-<td><a href="https://github.com/leimao"><img src="https://avatars.githubusercontent.com/u/17606112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leimao"><b>Lei Mao</b></a><br><sub>&#64;leimao</sub></td>
-<td align="right"><b>5,159</b></td>
-<td align="right">219</td>
-<td><sub>Silicon Valley, California</sub></td>
 </tr>
 <tr>
 <td align="right">204</td>
@@ -1452,7 +1452,7 @@
 <tr>
 <td align="right">205</td>
 <td><a href="https://github.com/lefticus"><img src="https://avatars.githubusercontent.com/u/234279?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lefticus"><b>Jason Turner</b></a><br><sub>&#64;lefticus</sub></td>
-<td align="right"><b>5,113</b></td>
+<td align="right"><b>5,115</b></td>
 <td align="right">113</td>
 <td><sub>Denver, CO</sub></td>
 </tr>
@@ -1970,7 +1970,7 @@
 <tr>
 <td align="right">279</td>
 <td><a href="https://github.com/chrisvfritz"><img src="https://avatars.githubusercontent.com/u/2327556?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrisvfritz"><b>Chris Fritz</b></a><br><sub>&#64;chrisvfritz</sub></td>
-<td align="right"><b>4,046</b></td>
+<td align="right"><b>4,045</b></td>
 <td align="right">148</td>
 <td><sub>Durham, NC, USA</sub></td>
 </tr>
@@ -2012,7 +2012,7 @@
 <tr>
 <td align="right">285</td>
 <td><a href="https://github.com/progrium"><img src="https://avatars.githubusercontent.com/u/647?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/progrium"><b>Jeff Lindsay</b></a><br><sub>&#64;progrium</sub></td>
-<td align="right"><b>4,010</b></td>
+<td align="right"><b>4,011</b></td>
 <td align="right">290</td>
 <td><sub>Oakland, CA</sub></td>
 </tr>
@@ -2089,7 +2089,7 @@
 <tr>
 <td align="right">296</td>
 <td><a href="https://github.com/skeeto"><img src="https://avatars.githubusercontent.com/u/29988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skeeto"><b>Christopher Wellons</b></a><br><sub>&#64;skeeto</sub></td>
-<td align="right"><b>3,926</b></td>
+<td align="right"><b>3,929</b></td>
 <td align="right">280</td>
 <td><sub>Maryland</sub></td>
 </tr>
@@ -2180,7 +2180,7 @@
 <tr>
 <td align="right">309</td>
 <td><a href="https://github.com/schollz"><img src="https://avatars.githubusercontent.com/u/6550035?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/schollz"><b>Zack</b></a><br><sub>&#64;schollz</sub></td>
-<td align="right"><b>3,805</b></td>
+<td align="right"><b>3,804</b></td>
 <td align="right">1,168</td>
 <td><sub>Seattle, WA</sub></td>
 </tr>
@@ -2278,7 +2278,7 @@
 <tr>
 <td align="right">323</td>
 <td><a href="https://github.com/haacked"><img src="https://avatars.githubusercontent.com/u/19977?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haacked"><b>Phil Haack</b></a><br><sub>&#64;haacked</sub></td>
-<td align="right"><b>3,695</b></td>
+<td align="right"><b>3,692</b></td>
 <td align="right">106</td>
 <td><sub>Bellevue, WA</sub></td>
 </tr>
@@ -2327,7 +2327,7 @@
 <tr>
 <td align="right">330</td>
 <td><a href="https://github.com/jlongster"><img src="https://avatars.githubusercontent.com/u/17031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jlongster"><b>James Long</b></a><br><sub>&#64;jlongster</sub></td>
-<td align="right"><b>3,615</b></td>
+<td align="right"><b>3,614</b></td>
 <td align="right">259</td>
 <td><sub>Richmond, VA</sub></td>
 </tr>
@@ -2348,7 +2348,7 @@
 <tr>
 <td align="right">333</td>
 <td><a href="https://github.com/joaomdmoura"><img src="https://avatars.githubusercontent.com/u/667063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joaomdmoura"><b>João Moura</b></a><br><sub>&#64;joaomdmoura</sub></td>
-<td align="right"><b>3,604</b></td>
+<td align="right"><b>3,603</b></td>
 <td align="right">73</td>
 <td><sub>San Fracsico, CA, USA</sub></td>
 </tr>
@@ -2516,7 +2516,7 @@
 <tr>
 <td align="right">357</td>
 <td><a href="https://github.com/jgm"><img src="https://avatars.githubusercontent.com/u/3044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jgm"><b>John MacFarlane</b></a><br><sub>&#64;jgm</sub></td>
-<td align="right"><b>3,391</b></td>
+<td align="right"><b>3,392</b></td>
 <td align="right">104</td>
 <td><sub>Berkeley, CA</sub></td>
 </tr>
@@ -2628,7 +2628,7 @@
 <tr>
 <td align="right">373</td>
 <td><a href="https://github.com/zhoubolei"><img src="https://avatars.githubusercontent.com/u/1149687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhoubolei"><b>Bolei Zhou</b></a><br><sub>&#64;zhoubolei</sub></td>
-<td align="right"><b>3,200</b></td>
+<td align="right"><b>3,199</b></td>
 <td align="right">44</td>
 <td><sub>California</sub></td>
 </tr>
@@ -2683,24 +2683,24 @@
 </tr>
 <tr>
 <td align="right">381</td>
-<td><a href="https://github.com/mikeckennedy"><img src="https://avatars.githubusercontent.com/u/2035561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikeckennedy"><b>Michael Kennedy</b></a><br><sub>&#64;mikeckennedy</sub></td>
-<td align="right"><b>3,130</b></td>
-<td align="right">192</td>
-<td><sub>Portland, OR</sub></td>
-</tr>
-<tr>
-<td align="right">382</td>
 <td><a href="https://github.com/rwxrob"><img src="https://avatars.githubusercontent.com/u/3749067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rwxrob"><b>Rob Muhlestein</b></a><br><sub>&#64;rwxrob</sub></td>
 <td align="right"><b>3,130</b></td>
 <td align="right">46</td>
 <td><sub>Charlotte, UT</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">382</td>
 <td><a href="https://github.com/coding-horror"><img src="https://avatars.githubusercontent.com/u/1522517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coding-horror"><b>Jeff Atwood</b></a><br><sub>&#64;coding-horror</sub></td>
 <td align="right"><b>3,130</b></td>
 <td align="right">11</td>
 <td><sub>Alameda, CA</sub></td>
+</tr>
+<tr>
+<td align="right">383</td>
+<td><a href="https://github.com/mikeckennedy"><img src="https://avatars.githubusercontent.com/u/2035561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikeckennedy"><b>Michael Kennedy</b></a><br><sub>&#64;mikeckennedy</sub></td>
+<td align="right"><b>3,127</b></td>
+<td align="right">192</td>
+<td><sub>Portland, OR</sub></td>
 </tr>
 <tr>
 <td align="right">384</td>
@@ -3012,17 +3012,17 @@
 </tr>
 <tr>
 <td align="right">428</td>
+<td><a href="https://github.com/maziarraissi"><img src="https://avatars.githubusercontent.com/u/26285694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maziarraissi"><b>Maziar Raissi</b></a><br><sub>&#64;maziarraissi</sub></td>
+<td align="right"><b>2,762</b></td>
+<td align="right">21</td>
+<td><sub>Riverside, California</sub></td>
+</tr>
+<tr>
+<td align="right">429</td>
 <td><a href="https://github.com/ctate"><img src="https://avatars.githubusercontent.com/u/366502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ctate"><b>Chris Tate</b></a><br><sub>&#64;ctate</sub></td>
 <td align="right"><b>2,761</b></td>
 <td align="right">154</td>
 <td><sub>Austin, TX</sub></td>
-</tr>
-<tr>
-<td align="right">429</td>
-<td><a href="https://github.com/maziarraissi"><img src="https://avatars.githubusercontent.com/u/26285694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maziarraissi"><b>Maziar Raissi</b></a><br><sub>&#64;maziarraissi</sub></td>
-<td align="right"><b>2,761</b></td>
-<td align="right">21</td>
-<td><sub>Riverside, California</sub></td>
 </tr>
 <tr>
 <td align="right">430</td>
@@ -3090,7 +3090,7 @@
 <tr>
 <td align="right">439</td>
 <td><a href="https://github.com/karanpratapsingh"><img src="https://avatars.githubusercontent.com/u/29705703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karanpratapsingh"><b>Karan Pratap Singh</b></a><br><sub>&#64;karanpratapsingh</sub></td>
-<td align="right"><b>2,706</b></td>
+<td align="right"><b>2,705</b></td>
 <td align="right">23</td>
 <td><sub>San Francisco, California</sub></td>
 </tr>
@@ -3167,7 +3167,7 @@
 <tr>
 <td align="right">450</td>
 <td><a href="https://github.com/mikeroyal"><img src="https://avatars.githubusercontent.com/u/45159366?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikeroyal"><b>Michael Royal</b></a><br><sub>&#64;mikeroyal</sub></td>
-<td align="right"><b>2,631</b></td>
+<td align="right"><b>2,632</b></td>
 <td align="right">393</td>
 <td><sub>California, USA</sub></td>
 </tr>
@@ -3194,17 +3194,17 @@
 </tr>
 <tr>
 <td align="right">454</td>
-<td><a href="https://github.com/RamiKrispin"><img src="https://avatars.githubusercontent.com/u/12760966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RamiKrispin"><b>Rami Krispin</b></a><br><sub>&#64;RamiKrispin</sub></td>
-<td align="right"><b>2,626</b></td>
-<td align="right">167</td>
-<td><sub>Cupertino, California, US</sub></td>
-</tr>
-<tr>
-<td align="right">455</td>
 <td><a href="https://github.com/ZacSweers"><img src="https://avatars.githubusercontent.com/u/1361086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZacSweers"><b>Zac Sweers</b></a><br><sub>&#64;ZacSweers</sub></td>
 <td align="right"><b>2,625</b></td>
 <td align="right">248</td>
 <td><sub>New York</sub></td>
+</tr>
+<tr>
+<td align="right">455</td>
+<td><a href="https://github.com/RamiKrispin"><img src="https://avatars.githubusercontent.com/u/12760966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RamiKrispin"><b>Rami Krispin</b></a><br><sub>&#64;RamiKrispin</sub></td>
+<td align="right"><b>2,625</b></td>
+<td align="right">167</td>
+<td><sub>Cupertino, California, US</sub></td>
 </tr>
 <tr>
 <td align="right">456</td>
@@ -3222,87 +3222,87 @@
 </tr>
 <tr>
 <td align="right">458</td>
+<td><a href="https://github.com/leereilly"><img src="https://avatars.githubusercontent.com/u/121322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leereilly"><b>Lee Reilly</b></a><br><sub>&#64;leereilly</sub></td>
+<td align="right"><b>2,624</b></td>
+<td align="right">485</td>
+<td><sub>San Francisco, CA</sub></td>
+</tr>
+<tr>
+<td align="right">459</td>
 <td><a href="https://github.com/benjchristensen"><img src="https://avatars.githubusercontent.com/u/813492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benjchristensen"><b>Ben Christensen</b></a><br><sub>&#64;benjchristensen</sub></td>
 <td align="right"><b>2,623</b></td>
 <td align="right">8</td>
 <td><sub>Silicon Valley</sub></td>
 </tr>
 <tr>
-<td align="right">459</td>
+<td align="right">460</td>
 <td><a href="https://github.com/ashutosh1919"><img src="https://avatars.githubusercontent.com/u/20843596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashutosh1919"><b>Ashutosh Hathidara</b></a><br><sub>&#64;ashutosh1919</sub></td>
 <td align="right"><b>2,617</b></td>
 <td align="right">120</td>
 <td><sub>San Francisco, CA, USA</sub></td>
 </tr>
 <tr>
-<td align="right">460</td>
+<td align="right">461</td>
 <td><a href="https://github.com/RyanCavanaugh"><img src="https://avatars.githubusercontent.com/u/6685088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RyanCavanaugh"><b>Ryan Cavanaugh</b></a><br><sub>&#64;RyanCavanaugh</sub></td>
 <td align="right"><b>2,609</b></td>
 <td align="right">150</td>
 <td><sub>Seattle, WA</sub></td>
 </tr>
 <tr>
-<td align="right">461</td>
+<td align="right">462</td>
 <td><a href="https://github.com/jackpot51"><img src="https://avatars.githubusercontent.com/u/7741236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackpot51"><b>Jeremy Soller</b></a><br><sub>&#64;jackpot51</sub></td>
 <td align="right"><b>2,609</b></td>
 <td align="right">106</td>
 <td><sub>Colorado</sub></td>
 </tr>
 <tr>
-<td align="right">462</td>
+<td align="right">463</td>
 <td><a href="https://github.com/jdvillal"><img src="https://avatars.githubusercontent.com/u/57422146?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jdvillal"><b>Jorge Villalta</b></a><br><sub>&#64;jdvillal</sub></td>
 <td align="right"><b>2,607</b></td>
 <td align="right">31</td>
 <td><sub>New York</sub></td>
 </tr>
 <tr>
-<td align="right">463</td>
+<td align="right">464</td>
 <td><a href="https://github.com/rileytestut"><img src="https://avatars.githubusercontent.com/u/705880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rileytestut"><b>Riley Testut</b></a><br><sub>&#64;rileytestut</sub></td>
 <td align="right"><b>2,605</b></td>
 <td align="right">86</td>
 <td><sub>Dallas, TX</sub></td>
 </tr>
 <tr>
-<td align="right">464</td>
+<td align="right">465</td>
 <td><a href="https://github.com/andrewgodwin"><img src="https://avatars.githubusercontent.com/u/36182?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrewgodwin"><b>Andrew Godwin</b></a><br><sub>&#64;andrewgodwin</sub></td>
 <td align="right"><b>2,601</b></td>
 <td align="right">67</td>
 <td><sub>Denver, CO, USA</sub></td>
 </tr>
 <tr>
-<td align="right">465</td>
+<td align="right">466</td>
 <td><a href="https://github.com/Jabrils"><img src="https://avatars.githubusercontent.com/u/26837387?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jabrils"><b>Jabrils</b></a><br><sub>&#64;Jabrils</sub></td>
 <td align="right"><b>2,598</b></td>
 <td align="right">55</td>
 <td><sub>San Diego</sub></td>
 </tr>
 <tr>
-<td align="right">466</td>
+<td align="right">467</td>
 <td><a href="https://github.com/DanielRosenwasser"><img src="https://avatars.githubusercontent.com/u/972891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanielRosenwasser"><b>Daniel Rosenwasser</b></a><br><sub>&#64;DanielRosenwasser</sub></td>
 <td align="right"><b>2,595</b></td>
 <td align="right">190</td>
 <td><sub>Seattle, WA</sub></td>
 </tr>
 <tr>
-<td align="right">467</td>
+<td align="right">468</td>
 <td><a href="https://github.com/josh"><img src="https://avatars.githubusercontent.com/u/137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josh"><b>Joshua Peek</b></a><br><sub>&#64;josh</sub></td>
 <td align="right"><b>2,595</b></td>
 <td align="right">68</td>
 <td><sub>San Francisco, CA</sub></td>
 </tr>
 <tr>
-<td align="right">468</td>
+<td align="right">469</td>
 <td><a href="https://github.com/pluskid"><img src="https://avatars.githubusercontent.com/u/3542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pluskid"><b>Chiyuan Zhang</b></a><br><sub>&#64;pluskid</sub></td>
 <td align="right"><b>2,595</b></td>
 <td align="right">33</td>
 <td><sub>Boston, MA</sub></td>
-</tr>
-<tr>
-<td align="right">469</td>
-<td><a href="https://github.com/leereilly"><img src="https://avatars.githubusercontent.com/u/121322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leereilly"><b>Lee Reilly</b></a><br><sub>&#64;leereilly</sub></td>
-<td align="right"><b>2,592</b></td>
-<td align="right">485</td>
-<td><sub>San Francisco, CA</sub></td>
 </tr>
 <tr>
 <td align="right">470</td>
@@ -3404,17 +3404,17 @@
 </tr>
 <tr>
 <td align="right">484</td>
+<td><a href="https://github.com/vkhorikov"><img src="https://avatars.githubusercontent.com/u/9768119?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vkhorikov"><b>Vladimir Khorikov</b></a><br><sub>&#64;vkhorikov</sub></td>
+<td align="right"><b>2,530</b></td>
+<td align="right">27</td>
+<td><sub>United States, VA</sub></td>
+</tr>
+<tr>
+<td align="right">485</td>
 <td><a href="https://github.com/bdougie"><img src="https://avatars.githubusercontent.com/u/5713670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bdougie"><b>Brian Douglas</b></a><br><sub>&#64;bdougie</sub></td>
 <td align="right"><b>2,529</b></td>
 <td align="right">443</td>
 <td><sub>Oakland, CA</sub></td>
-</tr>
-<tr>
-<td align="right">485</td>
-<td><a href="https://github.com/vkhorikov"><img src="https://avatars.githubusercontent.com/u/9768119?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vkhorikov"><b>Vladimir Khorikov</b></a><br><sub>&#64;vkhorikov</sub></td>
-<td align="right"><b>2,529</b></td>
-<td align="right">27</td>
-<td><sub>United States, VA</sub></td>
 </tr>
 <tr>
 <td align="right">486</td>
@@ -3474,38 +3474,38 @@
 </tr>
 <tr>
 <td align="right">494</td>
+<td><a href="https://github.com/nedbat"><img src="https://avatars.githubusercontent.com/u/23789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nedbat"><b>Ned Batchelder</b></a><br><sub>&#64;nedbat</sub></td>
+<td align="right"><b>2,496</b></td>
+<td align="right">144</td>
+<td><sub>Boston, MA, USA</sub></td>
+</tr>
+<tr>
+<td align="right">495</td>
 <td><a href="https://github.com/Stitchpunk"><img src="https://avatars.githubusercontent.com/u/16246169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Stitchpunk"><b>Winnie</b></a><br><sub>&#64;Stitchpunk</sub></td>
 <td align="right"><b>2,496</b></td>
 <td align="right">14</td>
 <td><sub>San Francisco, Ca</sub></td>
 </tr>
 <tr>
-<td align="right">495</td>
+<td align="right">496</td>
 <td><a href="https://github.com/gavinandresen"><img src="https://avatars.githubusercontent.com/u/331997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gavinandresen"><b>Gavin Andresen</b></a><br><sub>&#64;gavinandresen</sub></td>
 <td align="right"><b>2,495</b></td>
 <td align="right">11</td>
 <td><sub>Amherst, MA</sub></td>
 </tr>
 <tr>
-<td align="right">496</td>
+<td align="right">497</td>
 <td><a href="https://github.com/jamesqquick"><img src="https://avatars.githubusercontent.com/u/5391915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamesqquick"><b>James Q Quick</b></a><br><sub>&#64;jamesqquick</sub></td>
 <td align="right"><b>2,489</b></td>
 <td align="right">213</td>
 <td><sub>Memphis</sub></td>
 </tr>
 <tr>
-<td align="right">497</td>
+<td align="right">498</td>
 <td><a href="https://github.com/ssg"><img src="https://avatars.githubusercontent.com/u/241217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ssg"><b>Sedat Kapanoğlu</b></a><br><sub>&#64;ssg</sub></td>
 <td align="right"><b>2,489</b></td>
 <td align="right">72</td>
 <td><sub>San Francisco, California</sub></td>
-</tr>
-<tr>
-<td align="right">498</td>
-<td><a href="https://github.com/nedbat"><img src="https://avatars.githubusercontent.com/u/23789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nedbat"><b>Ned Batchelder</b></a><br><sub>&#64;nedbat</sub></td>
-<td align="right"><b>2,483</b></td>
-<td align="right">144</td>
-<td><sub>Boston, MA, USA</sub></td>
 </tr>
 <tr>
 <td align="right">499</td>
@@ -3545,7 +3545,7 @@
 <tr>
 <td align="right">504</td>
 <td><a href="https://github.com/Gabriella439"><img src="https://avatars.githubusercontent.com/u/1313787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gabriella439"><b>gabby</b></a><br><sub>&#64;Gabriella439</sub></td>
-<td align="right"><b>2,472</b></td>
+<td align="right"><b>2,473</b></td>
 <td align="right">257</td>
 <td><sub>San Jose, CA</sub></td>
 </tr>
@@ -3699,14 +3699,14 @@
 <tr>
 <td align="right">526</td>
 <td><a href="https://github.com/Manishearth"><img src="https://avatars.githubusercontent.com/u/1617736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Manishearth"><b>Manish Goregaokar</b></a><br><sub>&#64;Manishearth</sub></td>
-<td align="right"><b>2,399</b></td>
+<td align="right"><b>2,398</b></td>
 <td align="right">452</td>
 <td><sub>Berkeley, CA</sub></td>
 </tr>
 <tr>
 <td align="right">527</td>
 <td><a href="https://github.com/bfirsh"><img src="https://avatars.githubusercontent.com/u/40906?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bfirsh"><b>Ben Firshman</b></a><br><sub>&#64;bfirsh</sub></td>
-<td align="right"><b>2,397</b></td>
+<td align="right"><b>2,396</b></td>
 <td align="right">245</td>
 <td><sub>San Francisco, CA, USA</sub></td>
 </tr>
@@ -3734,7 +3734,7 @@
 <tr>
 <td align="right">531</td>
 <td><a href="https://github.com/djspiewak"><img src="https://avatars.githubusercontent.com/u/752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djspiewak"><b>Daniel Spiewak</b></a><br><sub>&#64;djspiewak</sub></td>
-<td align="right"><b>2,376</b></td>
+<td align="right"><b>2,375</b></td>
 <td align="right">154</td>
 <td><sub>Chicago, IL</sub></td>
 </tr>
@@ -3908,10 +3908,10 @@
 </tr>
 <tr>
 <td align="right">556</td>
-<td><a href="https://github.com/Wattenberger"><img src="https://avatars.githubusercontent.com/u/3506269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wattenberger"><b>Amelia Wattenberger</b></a><br><sub>&#64;Wattenberger</sub></td>
-<td align="right"><b>2,282</b></td>
-<td align="right">93</td>
-<td><sub>Oakland, CA</sub></td>
+<td><a href="https://github.com/punkpeye"><img src="https://avatars.githubusercontent.com/u/108313943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/punkpeye"><b>Frank Fiegel</b></a><br><sub>&#64;punkpeye</sub></td>
+<td align="right"><b>2,284</b></td>
+<td align="right">12</td>
+<td><sub>Miami, FL</sub></td>
 </tr>
 <tr>
 <td align="right">557</td>
@@ -3922,17 +3922,17 @@
 </tr>
 <tr>
 <td align="right">558</td>
+<td><a href="https://github.com/Wattenberger"><img src="https://avatars.githubusercontent.com/u/3506269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wattenberger"><b>Amelia Wattenberger</b></a><br><sub>&#64;Wattenberger</sub></td>
+<td align="right"><b>2,281</b></td>
+<td align="right">93</td>
+<td><sub>Oakland, CA</sub></td>
+</tr>
+<tr>
+<td align="right">559</td>
 <td><a href="https://github.com/chris-sev"><img src="https://avatars.githubusercontent.com/u/1857851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chris-sev"><b>Chris Sev</b></a><br><sub>&#64;chris-sev</sub></td>
 <td align="right"><b>2,277</b></td>
 <td align="right">59</td>
 <td><sub>Denver</sub></td>
-</tr>
-<tr>
-<td align="right">559</td>
-<td><a href="https://github.com/punkpeye"><img src="https://avatars.githubusercontent.com/u/108313943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/punkpeye"><b>Frank Fiegel</b></a><br><sub>&#64;punkpeye</sub></td>
-<td align="right"><b>2,274</b></td>
-<td align="right">12</td>
-<td><sub>Miami, FL</sub></td>
 </tr>
 <tr>
 <td align="right">560</td>
@@ -4154,7 +4154,7 @@
 <tr>
 <td align="right">591</td>
 <td><a href="https://github.com/kousen"><img src="https://avatars.githubusercontent.com/u/22784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kousen"><b>Ken Kousen</b></a><br><sub>&#64;kousen</sub></td>
-<td align="right"><b>2,173</b></td>
+<td align="right"><b>2,172</b></td>
 <td align="right">204</td>
 <td><sub>Marlborough, CT</sub></td>
 </tr>
@@ -4175,7 +4175,7 @@
 <tr>
 <td align="right">594</td>
 <td><a href="https://github.com/echen"><img src="https://avatars.githubusercontent.com/u/102375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/echen"><b>Edwin Chen</b></a><br><sub>&#64;echen</sub></td>
-<td align="right"><b>2,162</b></td>
+<td align="right"><b>2,161</b></td>
 <td align="right">37</td>
 <td><sub>NYC</sub></td>
 </tr>
@@ -4259,7 +4259,7 @@
 <tr>
 <td align="right">606</td>
 <td><a href="https://github.com/terkelg"><img src="https://avatars.githubusercontent.com/u/2302254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/terkelg"><b>Terkel</b></a><br><sub>&#64;terkelg</sub></td>
-<td align="right"><b>2,127</b></td>
+<td align="right"><b>2,126</b></td>
 <td align="right">57</td>
 <td><sub>Brooklyn, NY</sub></td>
 </tr>
@@ -4293,24 +4293,24 @@
 </tr>
 <tr>
 <td align="right">611</td>
-<td><a href="https://github.com/zachgoll"><img src="https://avatars.githubusercontent.com/u/16676157?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zachgoll"><b>Zach Gollwitzer</b></a><br><sub>&#64;zachgoll</sub></td>
-<td align="right"><b>2,099</b></td>
-<td align="right">42</td>
-<td><sub>Cincinnati, OH</sub></td>
-</tr>
-<tr>
-<td align="right">612</td>
 <td><a href="https://github.com/brianchandotcom"><img src="https://avatars.githubusercontent.com/u/282080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brianchandotcom"><b>Brian Chan</b></a><br><sub>&#64;brianchandotcom</sub></td>
 <td align="right"><b>2,099</b></td>
 <td align="right">19</td>
 <td><sub>Los Angeles, CA</sub></td>
 </tr>
 <tr>
-<td align="right">613</td>
+<td align="right">612</td>
 <td><a href="https://github.com/slavingia"><img src="https://avatars.githubusercontent.com/u/74396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slavingia"><b>Sahil Lavingia</b></a><br><sub>&#64;slavingia</sub></td>
 <td align="right"><b>2,098</b></td>
 <td align="right">52</td>
 <td><sub>New York, NY</sub></td>
+</tr>
+<tr>
+<td align="right">613</td>
+<td><a href="https://github.com/zachgoll"><img src="https://avatars.githubusercontent.com/u/16676157?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zachgoll"><b>Zach Gollwitzer</b></a><br><sub>&#64;zachgoll</sub></td>
+<td align="right"><b>2,098</b></td>
+<td align="right">42</td>
+<td><sub>Cincinnati, OH</sub></td>
 </tr>
 <tr>
 <td align="right">614</td>
@@ -4350,14 +4350,14 @@
 <tr>
 <td align="right">619</td>
 <td><a href="https://github.com/praeclarum"><img src="https://avatars.githubusercontent.com/u/323548?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/praeclarum"><b>Frank A. Krueger</b></a><br><sub>&#64;praeclarum</sub></td>
-<td align="right"><b>2,069</b></td>
+<td align="right"><b>2,068</b></td>
 <td align="right">150</td>
 <td><sub>Seattle, WA</sub></td>
 </tr>
 <tr>
 <td align="right">620</td>
 <td><a href="https://github.com/spencergibb"><img src="https://avatars.githubusercontent.com/u/594085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spencergibb"><b>Spencer Gibb</b></a><br><sub>&#64;spencergibb</sub></td>
-<td align="right"><b>2,065</b></td>
+<td align="right"><b>2,063</b></td>
 <td align="right">145</td>
 <td><sub>Ann Arbor, MI</sub></td>
 </tr>
@@ -4559,52 +4559,52 @@
 </tr>
 <tr>
 <td align="right">649</td>
+<td><a href="https://github.com/RocketGod-git"><img src="https://avatars.githubusercontent.com/u/57732082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RocketGod-git"><b>RocketGod</b></a><br><sub>&#64;RocketGod-git</sub></td>
+<td align="right"><b>1,989</b></td>
+<td align="right">185</td>
+<td><sub>Los Angeles</sub></td>
+</tr>
+<tr>
+<td align="right">650</td>
 <td><a href="https://github.com/dilmerv"><img src="https://avatars.githubusercontent.com/u/1216121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dilmerv"><b>Dilmer Valecillos ᯅ</b></a><br><sub>&#64;dilmerv</sub></td>
 <td align="right"><b>1,989</b></td>
 <td align="right">163</td>
 <td><sub>Salt Lake City, US</sub></td>
 </tr>
 <tr>
-<td align="right">650</td>
-<td><a href="https://github.com/cferdinandi"><img src="https://avatars.githubusercontent.com/u/1724852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cferdinandi"><b>Chris Ferdinandi</b></a><br><sub>&#64;cferdinandi</sub></td>
-<td align="right"><b>1,987</b></td>
-<td align="right">260</td>
-<td><sub>Boston, MA</sub></td>
-</tr>
-<tr>
 <td align="right">651</td>
 <td><a href="https://github.com/win4r"><img src="https://avatars.githubusercontent.com/u/42172631?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/win4r"><b>Chao Qin</b></a><br><sub>&#64;win4r</sub></td>
-<td align="right"><b>1,986</b></td>
+<td align="right"><b>1,988</b></td>
 <td align="right">135</td>
 <td><sub>1600 Pennsylvania Ave NW, Washington, DC 20500,…</sub></td>
 </tr>
 <tr>
 <td align="right">652</td>
+<td><a href="https://github.com/R-s0n"><img src="https://avatars.githubusercontent.com/u/64763093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/R-s0n"><b>rs0n</b></a><br><sub>&#64;R-s0n</sub></td>
+<td align="right"><b>1,987</b></td>
+<td align="right">61</td>
+<td><sub>Houston, TX</sub></td>
+</tr>
+<tr>
+<td align="right">653</td>
+<td><a href="https://github.com/cferdinandi"><img src="https://avatars.githubusercontent.com/u/1724852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cferdinandi"><b>Chris Ferdinandi</b></a><br><sub>&#64;cferdinandi</sub></td>
+<td align="right"><b>1,986</b></td>
+<td align="right">260</td>
+<td><sub>Boston, MA</sub></td>
+</tr>
+<tr>
+<td align="right">654</td>
 <td><a href="https://github.com/lvdmaaten"><img src="https://avatars.githubusercontent.com/u/1168046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lvdmaaten"><b>Laurens van der Maaten</b></a><br><sub>&#64;lvdmaaten</sub></td>
 <td align="right"><b>1,986</b></td>
 <td align="right">23</td>
 <td><sub>New York</sub></td>
 </tr>
 <tr>
-<td align="right">653</td>
+<td align="right">655</td>
 <td><a href="https://github.com/jongalloway"><img src="https://avatars.githubusercontent.com/u/68539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jongalloway"><b>Jon Galloway</b></a><br><sub>&#64;jongalloway</sub></td>
 <td align="right"><b>1,984</b></td>
 <td align="right">249</td>
 <td><sub>Jamul, CA</sub></td>
-</tr>
-<tr>
-<td align="right">654</td>
-<td><a href="https://github.com/R-s0n"><img src="https://avatars.githubusercontent.com/u/64763093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/R-s0n"><b>rs0n</b></a><br><sub>&#64;R-s0n</sub></td>
-<td align="right"><b>1,984</b></td>
-<td align="right">61</td>
-<td><sub>Houston, TX</sub></td>
-</tr>
-<tr>
-<td align="right">655</td>
-<td><a href="https://github.com/RocketGod-git"><img src="https://avatars.githubusercontent.com/u/57732082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RocketGod-git"><b>RocketGod</b></a><br><sub>&#64;RocketGod-git</sub></td>
-<td align="right"><b>1,983</b></td>
-<td align="right">185</td>
-<td><sub>Los Angeles</sub></td>
 </tr>
 <tr>
 <td align="right">656</td>
@@ -4643,38 +4643,38 @@
 </tr>
 <tr>
 <td align="right">661</td>
+<td><a href="https://github.com/kitlangton"><img src="https://avatars.githubusercontent.com/u/7587245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kitlangton"><b>Kit Langton</b></a><br><sub>&#64;kitlangton</sub></td>
+<td align="right"><b>1,975</b></td>
+<td align="right">371</td>
+<td><sub>San Francisco, CA</sub></td>
+</tr>
+<tr>
+<td align="right">662</td>
 <td><a href="https://github.com/sebastienros"><img src="https://avatars.githubusercontent.com/u/1165805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sebastienros"><b>Sébastien Ros</b></a><br><sub>&#64;sebastienros</sub></td>
 <td align="right"><b>1,973</b></td>
 <td align="right">179</td>
 <td><sub>Bellevue, WA</sub></td>
 </tr>
 <tr>
-<td align="right">662</td>
+<td align="right">663</td>
 <td><a href="https://github.com/curran"><img src="https://avatars.githubusercontent.com/u/68416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/curran"><b>Curran Kelleher</b></a><br><sub>&#64;curran</sub></td>
 <td align="right"><b>1,971</b></td>
 <td align="right">307</td>
 <td><sub>Albany, NY</sub></td>
 </tr>
 <tr>
-<td align="right">663</td>
+<td align="right">664</td>
 <td><a href="https://github.com/robconery"><img src="https://avatars.githubusercontent.com/u/78586?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robconery"><b>Rob Conery</b></a><br><sub>&#64;robconery</sub></td>
 <td align="right"><b>1,970</b></td>
 <td align="right">53</td>
 <td><sub>Honolulu HI</sub></td>
 </tr>
 <tr>
-<td align="right">664</td>
+<td align="right">665</td>
 <td><a href="https://github.com/ylecun"><img src="https://avatars.githubusercontent.com/u/1435513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ylecun"><b>Yann LeCun</b></a><br><sub>&#64;ylecun</sub></td>
 <td align="right"><b>1,970</b></td>
 <td align="right">12</td>
 <td><sub>New York, NY, USA</sub></td>
-</tr>
-<tr>
-<td align="right">665</td>
-<td><a href="https://github.com/kitlangton"><img src="https://avatars.githubusercontent.com/u/7587245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kitlangton"><b>Kit Langton</b></a><br><sub>&#64;kitlangton</sub></td>
-<td align="right"><b>1,969</b></td>
-<td align="right">371</td>
-<td><sub>San Francisco, CA</sub></td>
 </tr>
 <tr>
 <td align="right">666</td>
@@ -4784,7 +4784,7 @@
 <tr>
 <td align="right">681</td>
 <td><a href="https://github.com/tananaev"><img src="https://avatars.githubusercontent.com/u/1161863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tananaev"><b>Anton Tananaev</b></a><br><sub>&#64;tananaev</sub></td>
-<td align="right"><b>1,917</b></td>
+<td align="right"><b>1,918</b></td>
 <td align="right">32</td>
 <td><sub>San Francisco Bay Area</sub></td>
 </tr>
@@ -5113,7 +5113,7 @@
 <tr>
 <td align="right">728</td>
 <td><a href="https://github.com/Raynos"><img src="https://avatars.githubusercontent.com/u/479538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Raynos"><b>Jake Verbaten</b></a><br><sub>&#64;Raynos</sub></td>
-<td align="right"><b>1,832</b></td>
+<td align="right"><b>1,831</b></td>
 <td align="right">679</td>
 <td><sub>Orlando, FL</sub></td>
 </tr>
@@ -5141,7 +5141,7 @@
 <tr>
 <td align="right">732</td>
 <td><a href="https://github.com/ericniebler"><img src="https://avatars.githubusercontent.com/u/225757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ericniebler"><b>Eric Niebler</b></a><br><sub>&#64;ericniebler</sub></td>
-<td align="right"><b>1,823</b></td>
+<td align="right"><b>1,822</b></td>
 <td align="right">55</td>
 <td><sub>Seattle, WA</sub></td>
 </tr>
@@ -6233,7 +6233,7 @@
 <tr>
 <td align="right">888</td>
 <td><a href="https://github.com/josephmachado"><img src="https://avatars.githubusercontent.com/u/61124148?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josephmachado"><b>Start Data Engineering</b></a><br><sub>&#64;josephmachado</sub></td>
-<td align="right"><b>1,534</b></td>
+<td align="right"><b>1,533</b></td>
 <td align="right">77</td>
 <td><sub>New York</sub></td>
 </tr>
@@ -6401,14 +6401,14 @@
 <tr>
 <td align="right">912</td>
 <td><a href="https://github.com/heapwolf"><img src="https://avatars.githubusercontent.com/u/136109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heapwolf"><b>heapwolf</b></a><br><sub>&#64;heapwolf</sub></td>
-<td align="right"><b>1,505</b></td>
+<td align="right"><b>1,504</b></td>
 <td align="right">150</td>
 <td><sub>New York</sub></td>
 </tr>
 <tr>
 <td align="right">913</td>
 <td><a href="https://github.com/64json"><img src="https://avatars.githubusercontent.com/u/1618732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/64json"><b>Jinseo Park</b></a><br><sub>&#64;64json</sub></td>
-<td align="right"><b>1,505</b></td>
+<td align="right"><b>1,504</b></td>
 <td align="right">51</td>
 <td><sub>NYC</sub></td>
 </tr>
@@ -6555,7 +6555,7 @@
 <tr>
 <td align="right">934</td>
 <td><a href="https://github.com/sahildua2305"><img src="https://avatars.githubusercontent.com/u/5206277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sahildua2305"><b>Sahil Dua</b></a><br><sub>&#64;sahildua2305</sub></td>
-<td align="right"><b>1,465</b></td>
+<td align="right"><b>1,466</b></td>
 <td align="right">192</td>
 <td><sub>San Francisco, United States</sub></td>
 </tr>
@@ -7017,7 +7017,7 @@
 <tr>
 <td align="right">1000</td>
 <td><a href="https://github.com/bketelsen"><img src="https://avatars.githubusercontent.com/u/37492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bketelsen"><b>Brian Ketelsen</b></a><br><sub>&#64;bketelsen</sub></td>
-<td align="right"><b>1,387</b></td>
+<td align="right"><b>1,388</b></td>
 <td align="right">319</td>
 <td><sub>Tampa, FL</sub></td>
 </tr>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 2,029 attributed developers are tracked; the cutoff is 1,387 followers.
+- Organizations are excluded. 2,034 attributed developers are tracked; the cutoff is 1,388 followers.
 - **Location discovery:** term 0 of 151 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

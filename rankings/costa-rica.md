@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 24 Nov 2026 | <a href="../data/CR.json">JSON</a> |
+| 🟡 Provisional | **20** | 24 Nov 2026 | <a href="../data/CR.json">JSON</a> |
 
 </div>
 
@@ -147,6 +147,20 @@
 <td align="right">90</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/apokalipto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/apokalipto/devise_saml_authenticatable"><b>apokalipto/devise&#95;saml&#95;authenticatable</b></a><br><sub>Devise SAML 2.0 authentication strategy</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">161</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/jetm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jetm/mediatek-mt7927-dkms"><b>jetm/mediatek-mt7927-dkms</b></a><br><sub>DKMS package for MediaTek MT7927/MT6639 Filogic 380 WiFi 7 + Bluetooth on Linux</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">24</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -155,8 +169,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 339 stars; 18 attributed candidates are tracked.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 298 stars; 20 attributed candidates are tracked.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 58 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

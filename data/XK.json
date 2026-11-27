@@ -5,15 +5,15 @@
 "country": {"code":"XK","name":"Kosovo","slug":"kosovo"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":325,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":95,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":54,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":325,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":90,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":54,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzODMwODY3OTY=","name":"awesome-list-rpc-nodes-providers","nameWithOwner":"arddluma/awesome-list-rpc-nodes-providers","url":"https://github.com/arddluma/awesome-list-rpc-nodes-providers","description":"A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arb…","stars":917,"forks":243,"primaryLanguage":null,"license":null,"createdAt":"2021-07-05T09:33:49Z","pushedAt":"2025-08-28T14:42:04Z","archived":false,"owner":{"login":"arddluma","name":"AArdian","type":"User","url":"https://github.com/arddluma","location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMDQwNjk2NzU=","name":"kit","nameWithOwner":"kujtimiihoxha/kit","url":"https://github.com/kujtimiihoxha/kit","description":"GoKit CLI","stars":724,"forks":155,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2017-09-19T12:04:52Z","pushedAt":"2025-12-05T02:29:56Z","archived":false,"owner":{"login":"kujtimiihoxha","name":"Kujtim Hoxha","type":"User","url":"https://github.com/kujtimiihoxha","location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":3,"id":"MDEwOlJlcG9zaXRvcnkzMzM5NzIxNDA=","name":"larafirebase","nameWithOwner":"kutia-software-company/larafirebase","url":"https://github.com/kutia-software-company/larafirebase","description":"😍 Laravel Firebase Cloud Messaging. ✍️ Developed by Gentrit Abazi.","stars":368,"forks":80,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2021-01-28T22:24:24Z","pushedAt":"2026-06-28T10:08:37Z","archived":false,"owner":{"login":"kutia-software-company","name":"Kutia Software Company","type":"Organization","url":"https://github.com/kutia-software-company","location":"Rruga Anton Cetta Nr.5, Prishtine, Kosove","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
   {"rank":4,"id":"MDEwOlJlcG9zaXRvcnkzODc0NDk3NzU=","name":"awesome-list-testnet-faucets","nameWithOwner":"arddluma/awesome-list-testnet-faucets","url":"https://github.com/arddluma/awesome-list-testnet-faucets","description":"Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, FantomTest, Sokol, Aurora etc","stars":325,"forks":88,"primaryLanguage":null,"license":null,"createdAt":"2021-07-19T12:04:26Z","pushedAt":"2025-08-28T14:44:38Z","archived":false,"owner":{"login":"arddluma","name":"AArdian","type":"User","url":"https://github.com/arddluma","location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "45eb917d9c0ba0fc",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "9c58b764e7c5710c",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

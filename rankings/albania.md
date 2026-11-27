@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/AL.json">JSON</a> |
+| 🟡 Provisional | **18** | 24 Nov 2026 | <a href="../data/AL.json">JSON</a> |
 
 </div>
 
@@ -126,6 +126,27 @@
 <td align="right">67</td>
 <td>CSS</td>
 </tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/redianmarku.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/redianmarku/instagram-follower-scraper"><b>redianmarku/instagram-follower-scraper</b></a><br><sub>A python script that can automatically scrape other people followers on instagram and save them in a txt file.</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">92</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/NiazMorshed2007.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NiazMorshed2007/shadcn-tour"><b>NiazMorshed2007/shadcn-tour</b></a></td>
+<td align="right"><b>295</b></td>
+<td align="right">5</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/redianmarku.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/redianmarku/Django-Twitter-Clone"><b>redianmarku/Django-Twitter-Clone</b></a><br><sub>A fully functional Twitter Clone built with Django.</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">132</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -134,8 +155,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 324 stars; 15 attributed candidates are tracked.
-- 115 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 292 stars; 18 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

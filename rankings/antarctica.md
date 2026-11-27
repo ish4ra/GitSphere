@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **40** | 24 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
+| 🟡 Provisional | **42** | 24 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
 
 </div>
 
@@ -301,6 +301,20 @@
 <td align="right">149</td>
 <td>Perl</td>
 </tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/pancakeswap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pancakeswap/pancake-toolkit"><b>pancakeswap/pancake-toolkit</b></a><br><sub>:hammer&#95;and&#95;pick: Pancake frontend packages</sub></td>
+<td align="right"><b>301</b></td>
+<td align="right">728</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/Washi1337.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Washi1337/ghidra-nativeaot"><b>Washi1337/ghidra-nativeaot</b></a><br><sub>Ghidra .NET Native AOT Analyzer Plugin</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">49</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -309,7 +323,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 318 stars; 40 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 298 stars; 42 attributed candidates are tracked.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

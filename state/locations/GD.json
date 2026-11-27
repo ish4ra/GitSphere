@@ -6,9 +6,9 @@
 "terms": {"count":15,"fingerprint":"15:bd0d14f1"},
 "termIndex": 1,
 "specIndex": 0,
-"active": {"term":"Granada","kind":"users","queue":[{"metric":[0,6250000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-22T22:06:20.671Z","stats":{"splits":4,"leaves":4,"pages":4}},
+"active": {"term":"Granada","kind":"users","queue":[{"metric":[0,781250],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-22T22:06:20.671Z","stats":{"splits":7,"leaves":7,"pages":7}},
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":8,"accounts":115},
+"stats": {"requests":18,"pages":11,"accounts":115},
 "updatedAt": "2026-11-22T22:06:20.671Z"
 }

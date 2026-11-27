@@ -185,14 +185,14 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/Margarida-Andre"><img src="https://avatars.githubusercontent.com/u/49066735?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Margarida-Andre"><b>Margarida André</b></a><br><sub>&#64;Margarida-Andre</sub></td>
-<td align="right"><b>127</b></td>
+<td align="right"><b>128</b></td>
 <td align="right">33</td>
 <td><sub>Luanda, Angola</sub></td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/tavaresevaristo"><img src="https://avatars.githubusercontent.com/u/118382424?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tavaresevaristo"><b>Tavares Evaristo</b></a><br><sub>&#64;tavaresevaristo</sub></td>
-<td align="right"><b>116</b></td>
+<td align="right"><b>118</b></td>
 <td align="right">3</td>
 <td><sub>Angola - Luanda</sub></td>
 </tr>

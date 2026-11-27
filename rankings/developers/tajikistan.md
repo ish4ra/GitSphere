@@ -520,101 +520,101 @@
 </tr>
 <tr>
 <td align="right">72</td>
+<td><a href="https://github.com/mirora95"><img src="https://avatars.githubusercontent.com/u/75768325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mirora95"><b>Orasta Mirdadoeva</b></a><br><sub>&#64;mirora95</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">59</td>
+<td><sub>Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
 <td><a href="https://github.com/Bobokhuja"><img src="https://avatars.githubusercontent.com/u/65486207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bobokhuja"><b>Bobokhuja</b></a><br><sub>&#64;Bobokhuja</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">35</td>
 <td><sub>Tajikistan, Dushanbe</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">74</td>
 <td><a href="https://github.com/Tursunkhuja"><img src="https://avatars.githubusercontent.com/u/56147667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tursunkhuja"><b>Tursunkhuja Norkhojaev</b></a><br><sub>&#64;Tursunkhuja</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">28</td>
 <td><sub>Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">75</td>
 <td><a href="https://github.com/kurbonovDev"><img src="https://avatars.githubusercontent.com/u/165633821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kurbonovDev"><b>Kurbonov Muhammad</b></a><br><sub>&#64;kurbonovDev</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">17</td>
 <td><sub>Tajikistan, Dushanbe</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">76</td>
 <td><a href="https://github.com/rabboni171"><img src="https://avatars.githubusercontent.com/u/137025659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rabboni171"><b>Rabboni Bafoev</b></a><br><sub>&#64;rabboni171</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">16</td>
 <td><sub>Dushanbe, Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">77</td>
 <td><a href="https://github.com/devabdurasul"><img src="https://avatars.githubusercontent.com/u/59469358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devabdurasul"><b>Abdurasul Isoqov</b></a><br><sub>&#64;devabdurasul</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">8</td>
 <td><sub>Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">78</td>
 <td><a href="https://github.com/dalerazimov"><img src="https://avatars.githubusercontent.com/u/29509446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dalerazimov"><b>Daler Azimov</b></a><br><sub>&#64;dalerazimov</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">7</td>
 <td><sub>Dushanbe, Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">79</td>
 <td><a href="https://github.com/BahodurTursunov"><img src="https://avatars.githubusercontent.com/u/63169312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BahodurTursunov"><b>Bakha</b></a><br><sub>&#64;BahodurTursunov</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">45</td>
 <td><sub>Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">80</td>
 <td><a href="https://github.com/ahrorhaidarov"><img src="https://avatars.githubusercontent.com/u/151090046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahrorhaidarov"><b>Ahrorjon</b></a><br><sub>&#64;ahrorhaidarov</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">28</td>
 <td><sub>Khujand Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">81</td>
 <td><a href="https://github.com/GulomovCreative"><img src="https://avatars.githubusercontent.com/u/20814058?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GulomovCreative"><b>Bakhtovar Gulomov</b></a><br><sub>&#64;GulomovCreative</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">16</td>
 <td><sub>Dushanbe, Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">82</td>
 <td><a href="https://github.com/behryuz"><img src="https://avatars.githubusercontent.com/u/67573777?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/behryuz"><b>Behruz</b></a><br><sub>&#64;behryuz</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">15</td>
 <td><sub>Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">83</td>
 <td><a href="https://github.com/kkosim"><img src="https://avatars.githubusercontent.com/u/50594836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kkosim"><b>Qosim Qosimi</b></a><br><sub>&#64;kkosim</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">12</td>
 <td><sub>Dushanbe, Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">84</td>
 <td><a href="https://github.com/amirymax"><img src="https://avatars.githubusercontent.com/u/48012861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amirymax"><b>Zikrullo Amiri</b></a><br><sub>&#64;amirymax</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">10</td>
 <td><sub>Dushanbe, Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">85</td>
 <td><a href="https://github.com/SuhrobKholmurodov"><img src="https://avatars.githubusercontent.com/u/133983363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SuhrobKholmurodov"><b>Suhrob Kholmurodov</b></a><br><sub>&#64;SuhrobKholmurodov</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">8</td>
 <td><sub>Tajikistan, Dushanbe</sub></td>
-</tr>
-<tr>
-<td align="right">85</td>
-<td><a href="https://github.com/mirora95"><img src="https://avatars.githubusercontent.com/u/75768325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mirora95"><b>Orasta Mirdadoeva</b></a><br><sub>&#64;mirora95</sub></td>
-<td align="right"><b>15</b></td>
-<td align="right">59</td>
-<td><sub>Tajikistan</sub></td>
 </tr>
 <tr>
 <td align="right">86</td>

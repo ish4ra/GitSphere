@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **44** | 24 Nov 2026 | <a href="../data/SA.json">JSON</a> |
+| 🟡 Provisional | **47** | 24 Nov 2026 | <a href="../data/SA.json">JSON</a> |
 
 </div>
 
@@ -329,6 +329,27 @@
 <td align="right">125</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/hadialqattan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hadialqattan/pycln"><b>hadialqattan/pycln</b></a><br><sub>A formatter for finding and removing unused import statements.</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">24</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/SamiEnazi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SamiEnazi/infamous2-port"><b>SamiEnazi/infamous2-port</b></a><br><sub>inFAMOUS 2 (PS3) as a native PC program for Windows and Linux: Setup recompiles YOUR copy on your PC (static recompilat…</sub></td>
+<td align="right"><b>302</b></td>
+<td align="right">7</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/AzizAK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AzizAK/react-native-detector"><b>AzizAK/react-native-detector</b></a><br><sub>a screenshot detector for react native</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">40</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -337,8 +358,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 319 stars; 44 attributed candidates are tracked.
-- 99 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 292 stars; 47 attributed candidates are tracked.
+- 97 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

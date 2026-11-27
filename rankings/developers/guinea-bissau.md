@@ -151,7 +151,7 @@
 <td align="right">19</td>
 <td><a href="https://github.com/alawysal"><img src="https://avatars.githubusercontent.com/u/48211755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alawysal"><b>Alawy Sal</b></a><br><sub>&#64;alawysal</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><sub>Bissau, Guinea Bissau</sub></td>
 </tr>
 <tr>
@@ -422,7 +422,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 56 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 6 of 49 in round 1.
+- **Location discovery:** term 9 of 49 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

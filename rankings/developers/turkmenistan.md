@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/evgeniy-dammer"><img src="https://avatars.githubusercontent.com/u/57175456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evgeniy-dammer"><b>Evgeniy Dammer</b></a><br><sub>&#64;evgeniy-dammer</sub></td>
-<td align="right"><b>163</b></td>
+<td align="right"><b>161</b></td>
 <td align="right">46</td>
 <td><sub>Ashgabat, Turkmenistan</sub></td>
 </tr>
@@ -1880,7 +1880,7 @@
 <td align="right">266</td>
 <td><a href="https://github.com/Bahram2006"><img src="https://avatars.githubusercontent.com/u/201134207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bahram2006"><b>Bahram Myradow</b></a><br><sub>&#64;Bahram2006</sub></td>
 <td align="right"><b>3</b></td>
-<td align="right">48</td>
+<td align="right">50</td>
 <td><sub>Turkmenistan</sub></td>
 </tr>
 <tr>

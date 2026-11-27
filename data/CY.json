@@ -5,7 +5,7 @@
 "country": {"code":"CY","name":"Cyprus","slug":"cyprus"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":327,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":84,"candidates":104,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":105,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":327,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":84,"candidates":113,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":105,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk2MjcxMjg5OQ==","name":"AdGuardHome","nameWithOwner":"AdguardTeam/AdGuardHome","url":"https://github.com/AdguardTeam/AdGuardHome","description":"Network-wide ads & trackers blocking DNS server","stars":38835,"forks":2639,"primaryLanguage":"TypeScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2016-07-06T10:31:47Z","pushedAt":"2026-11-24T15:15:40Z","archived":false,"owner":{"login":"AdguardTeam","name":"AdGuard","type":"Organization","url":"https://github.com/AdguardTeam","location":"Cyprus","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMTQ4MTMzOA==","name":"core-js","nameWithOwner":"zloirock/core-js","url":"https://github.com/zloirock/core-js","description":"Standard Library","stars":25510,"forks":1674,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2013-07-17T16:32:27Z","pushedAt":"2026-11-25T14:28:02Z","archived":false,"owner":{"login":"zloirock","name":"Denis Pushkarev","type":"User","url":"https://github.com/zloirock","location":"Cyprus, Larnaca","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkxMTQwNTAxOTY=","name":"backendinterview","nameWithOwner":"arturpanteleev/backendinterview","url":"https://github.com/arturpanteleev/backendinterview","description":"Памятка Backend разработчика по прохождению собеседованй","stars":331,"forks":59,"primaryLanguage":"CSS","license":null,"createdAt":"2017-12-12T23:31:48Z","pushedAt":"2025-03-16T11:08:17Z","archived":false,"owner":{"login":"arturpanteleev","name":"Artur Panteleev","type":"User","url":"https://github.com/arturpanteleev","location":"Limassol","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-27"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkzNjc4NzE3MzA=","name":"Bug_Bounty_Tools_and_Methodology","nameWithOwner":"blackhatethicalhacking/Bug_Bounty_Tools_and_Methodology","url":"https://github.com/blackhatethicalhacking/Bug_Bounty_Tools_and_Methodology","description":"Bug Bounty Tools used on Twitch - Recon","stars":327,"forks":85,"primaryLanguage":null,"license":{"spdxId":"GPL-3.0"},"createdAt":"2021-05-16T12:17:44Z","pushedAt":"2026-07-23T12:38:19Z","archived":false,"owner":{"login":"blackhatethicalhacking","name":"Black Hat Ethical Hacking","type":"User","url":"https://github.com/blackhatethicalhacking","location":"Cyprus","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "28923aa7b486d324",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "b63c2250ef8cab88",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

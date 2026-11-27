@@ -5,10 +5,10 @@
 "country": {"code":"CD","name":"DR Congo","slug":"dr-congo"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":135,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":112,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":133,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":112,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "de791f4d91fe28b3",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "6df94cd34bd71d1c",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **76** | 24 Nov 2026 | <a href="../data/CL.json">JSON</a> |
+| 🟡 Provisional | **84** | 24 Nov 2026 | <a href="../data/CL.json">JSON</a> |
 
 </div>
 
@@ -553,6 +553,62 @@
 <td align="right">31</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/jgpavez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jgpavez/LSTM---Stock-prediction"><b>jgpavez/LSTM---Stock-prediction</b></a><br><sub>A long term short term memory recurrent neural network to predict forex data time series</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">151</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/misobadev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/misobadev/neostation-frontend"><b>misobadev/neostation-frontend</b></a><br><sub>The Multiplatform Emulation Frontend.</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">51</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/gepd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gepd/Deviot"><b>gepd/Deviot</b></a><br><sub>Sublime Text plugin for IoT development based in PlatformIO ecosystem (Arduino IDE)</sub></td>
+<td align="right"><b>309</b></td>
+<td align="right">58</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/jakeajames.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jakeajames/rootlessJB"><b>jakeajames/rootlessJB</b></a></td>
+<td align="right"><b>308</b></td>
+<td align="right">78</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/maria-rcks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maria-rcks/dinorip"><b>maria-rcks/dinorip</b></a><br><sub>Free &amp; Open Source Texture Ripper</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">11</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/FxxMorgan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FxxMorgan/anime1v-api"><b>FxxMorgan/anime1v-api</b></a><br><sub>Sistema de API para scraping de anime desde AnimeAV1.com totalmente open source, de fans para fans.</sub></td>
+<td align="right"><b>306</b></td>
+<td align="right">56</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/grisuno.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/grisuno/LazyOwn"><b>grisuno/LazyOwn</b></a><br><sub>837 CLI commands. Multi-operator C2. 153 MCP tools for AI agents. The First OSS C2 with Linux native c BOF support + bu…</sub></td>
+<td align="right"><b>302</b></td>
+<td align="right">64</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/bidah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bidah/react-native-vercel-ai"><b>bidah/react-native-vercel-ai</b></a><br><sub>🤖 ⚛️ Run Vercel AI package on React Native and Expo universal native apps (Mobile and web)</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">13</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -561,8 +617,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 322 stars; 76 attributed candidates are tracked.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 294 stars; 84 attributed candidates are tracked.
+- 109 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

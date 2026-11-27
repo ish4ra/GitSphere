@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/contributors/PK.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/PK.json">JSON</a> |
 
 </div>
 
@@ -160,6 +160,15 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/yousufkalim"><img src="https://avatars.githubusercontent.com/u/86219218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yousufkalim"><b>Yousuf K.</b></a><br><sub>&#64;yousufkalim · 676 followers</sub></td>
+<td align="right"><b>157</b></td>
+<td align="right">28</td>
+<td align="right">18</td>
+<td align="right">8</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/hamzaali81"><img src="https://avatars.githubusercontent.com/u/41760022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hamzaali81"><b>Hamza Ali</b></a><br><sub>&#64;hamzaali81 · 1,269 followers</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">49</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/tauseedzaman"><img src="https://avatars.githubusercontent.com/u/64689921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tauseedzaman"><b>Tauseed Zaman</b></a><br><sub>&#64;tauseedzaman · 182 followers</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">77</td>
@@ -177,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/jaffarabbas"><img src="https://avatars.githubusercontent.com/u/54433038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaffarabbas"><b>Jaffar Abbas</b></a><br><sub>&#64;jaffarabbas · 121 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">41</td>
@@ -186,7 +195,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
+<td><a href="https://github.com/JunaidQadirB"><img src="https://avatars.githubusercontent.com/u/642353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JunaidQadirB"><b>Junaid Qadir</b></a><br><sub>&#64;JunaidQadirB · 134 followers</sub></td>
+<td align="right"><b>42</b></td>
+<td align="right">28</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">21</td>
 <td><a href="https://github.com/AhmedRaja1"><img src="https://avatars.githubusercontent.com/u/52793181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AhmedRaja1"><b>Raja Ahmed</b></a><br><sub>&#64;AhmedRaja1 · 350 followers</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">28</td>
@@ -195,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">22</td>
 <td><a href="https://github.com/mInzamamMalik"><img src="https://avatars.githubusercontent.com/u/14273842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mInzamamMalik"><b>Inzamam Malik</b></a><br><sub>&#64;mInzamamMalik · 1,254 followers</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">19</td>
@@ -204,13 +222,22 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">23</td>
 <td><a href="https://github.com/usama7628674"><img src="https://avatars.githubusercontent.com/u/29252277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/usama7628674"><b>Usama Abdul Sattar</b></a><br><sub>&#64;usama7628674 · 371 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">5</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">5</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/611noorsaeed"><img src="https://avatars.githubusercontent.com/u/124183389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/611noorsaeed"><b>Noor Saeed</b></a><br><sub>&#64;611noorsaeed · 598 followers</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -219,7 +246,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 932 discovered developers (909 awaiting measurement).
+- **Measured:** 27 of 959 discovered developers (932 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 147 in round 1.

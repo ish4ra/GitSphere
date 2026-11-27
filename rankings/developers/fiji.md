@@ -31,8 +31,8 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/aryann-7"><img src="https://avatars.githubusercontent.com/u/201594176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aryann-7"><b>Aryan Singh</b></a><br><sub>&#64;aryann-7</sub></td>
-<td align="right"><b>76</b></td>
-<td align="right">49</td>
+<td align="right"><b>74</b></td>
+<td align="right">50</td>
 <td><sub>Suva, Fiji</sub></td>
 </tr>
 <tr>
@@ -1493,14 +1493,14 @@
 </tr>
 <tr>
 <td align="right">211</td>
-<td><a href="https://github.com/Awei2020"><img src="https://avatars.githubusercontent.com/u/62026905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Awei2020"><b>Awei</b></a><br><sub>&#64;Awei2020</sub></td>
+<td><a href="https://github.com/zhenttang"><img src="https://avatars.githubusercontent.com/u/124014121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhenttang"><b>TangZhen</b></a><br><sub>&#64;zhenttang</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">54</td>
+<td align="right">61</td>
 <td><sub>0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji</sub></td>
 </tr>
 <tr>
 <td align="right">212</td>
-<td><a href="https://github.com/zhenttang"><img src="https://avatars.githubusercontent.com/u/124014121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhenttang"><b>TangZhen</b></a><br><sub>&#64;zhenttang</sub></td>
+<td><a href="https://github.com/Awei2020"><img src="https://avatars.githubusercontent.com/u/62026905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Awei2020"><b>Awei</b></a><br><sub>&#64;Awei2020</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">54</td>
 <td><sub>0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji</sub></td>

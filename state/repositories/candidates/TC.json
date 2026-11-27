@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"TC","name":"Turks & Caicos Islands","slug":"turks-caicos-islands"},
-"count": 21,
+"count": 20,
 "repositories": [
-  {"name":"madusankap/turing","stars":1,"forks":0,"language":"Java","archived":false,"createdAt":"2014-12-10T08:54:24Z","pushedAt":"2014-12-10T09:50:57Z","owner":{"login":"madusankap","type":"User","name":"Madusanka Premaratne","location":"Palm Grove, Colombo 03"},"attribution":{"code":"TC","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-31T05:55:05.378Z","id":"legacy:madusankap/turing","legacy":true},
   {"name":"anayadoraelk/anayadoraelk","stars":0,"forks":0,"archived":false,"createdAt":"2024-09-14T07:46:00Z","pushedAt":"2024-09-14T07:46:10Z","owner":{"login":"anayadoraelk","type":"User","location":"Turks & Caicos Islands (TC)"},"attribution":{"code":"TC","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-31T05:55:05.378Z","id":"legacy:anayadoraelk/anayadoraelk","legacy":true},
   {"name":"aquaeliakruger/aquaeliakruger","stars":0,"forks":0,"archived":false,"createdAt":"2024-09-14T07:35:30Z","pushedAt":"2024-09-14T07:35:45Z","owner":{"login":"aquaeliakruger","type":"User","location":"Turks & Caicos Islands (TC)"},"attribution":{"code":"TC","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-31T05:55:05.378Z","id":"legacy:aquaeliakruger/aquaeliakruger","legacy":true},
   {"name":"bdanny2/TypingTutor","stars":0,"forks":0,"archived":false,"createdAt":"2026-06-26T14:04:36Z","pushedAt":"2026-06-26T14:04:36Z","owner":{"login":"bdanny2","type":"User","name":"Andrew Dunbar","location":"Turks and Caicos Islands"},"attribution":{"code":"TC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:05.378Z","id":"legacy:bdanny2/typingtutor","legacy":true},

@@ -5,7 +5,7 @@
 "country": {"code":"GM","name":"Gambia","slug":"gambia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":61,"ownerExpansionBacklog":142,"candidates":61,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":108,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":61,"ownerExpansionBacklog":142,"candidates":61,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":108,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"portfolio","nameWithOwner":"gdscutg/portfolio","url":"https://github.com/gdscutg/portfolio","description":null,"stars":0,"forks":4,"primaryLanguage":"HTML","license":null,"createdAt":"2022-06-17T22:47:10Z","pushedAt":"2022-08-18T07:26:15Z","archived":false,"owner":{"login":"gdscutg","name":"GDSC University of The Gambia","type":"Organization","url":"https://github.com/gdscutg","location":"Gambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ECNN","nameWithOwner":"bbah74/ECNN","url":"https://github.com/bbah74/ECNN","description":null,"stars":0,"forks":1,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2020-06-15T00:08:15Z","pushedAt":"2020-06-19T20:04:15Z","archived":false,"owner":{"login":"bbah74","name":"Bubacarr Bah","type":"User","url":"https://github.com/bbah74","location":"Fajara, Bakau, The Gambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -69,8 +69,8 @@
   {"rank":60,"id":null,"name":"omics","nameWithOwner":"Brezesky/omics","url":"https://github.com/Brezesky/omics","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-05-06T12:46:21Z","pushedAt":"2025-05-06T12:52:39Z","archived":false,"owner":{"login":"Brezesky","name":"Brezesky Kotanmi","type":"User","url":"https://github.com/Brezesky","location":"Banjul","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":61,"id":null,"name":"bromkocouckocou","nameWithOwner":"bromkocouckocou/bromkocouckocou","url":"https://github.com/bromkocouckocou/bromkocouckocou","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-28T07:29:40Z","pushedAt":"2024-09-28T07:29:53Z","archived":false,"owner":{"login":"bromkocouckocou","name":null,"type":"User","url":"https://github.com/bromkocouckocou","location":"Gambia (GM)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "b5f3568b7d40cd59",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "72a05aa74b02769b",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

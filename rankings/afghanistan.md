@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/AF.json">JSON</a> |
+| 🟡 Provisional | **14** | 24 Nov 2026 | <a href="../data/AF.json">JSON</a> |
 
 </div>
 
@@ -98,6 +98,27 @@
 <td align="right">60</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/afgprogrammer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/afgprogrammer/Flutter-home-service-app"><b>afgprogrammer/Flutter-home-service-app</b></a><br><sub>Flutter Home Service Application Example - Day 35</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">107</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/afgprogrammer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/afgprogrammer/Flutter-Login-Page-3"><b>afgprogrammer/Flutter-Login-Page-3</b></a><br><sub>Flutter Beautiful Login Page Design and Animation - day 14</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">80</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/bwhaley.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bwhaley/ssmsh"><b>bwhaley/ssmsh</b></a><br><sub>A shell for the EC2 Parameter Store</sub></td>
+<td align="right"><b>296</b></td>
+<td align="right">15</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -106,8 +127,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 341 stars; 11 attributed candidates are tracked.
-- 130 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 296 stars; 14 attributed candidates are tracked.
+- 126 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 171 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

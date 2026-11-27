@@ -5,14 +5,14 @@
 "country": {"code":"SY","name":"Syria","slug":"syria"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":353,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":121,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":136,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":353,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":120,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":136,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOPz62BQ","name":"Agentic-Design-Patterns","nameWithOwner":"evoiz/Agentic-Design-Patterns","url":"https://github.com/evoiz/Agentic-Design-Patterns","description":null,"stars":4188,"forks":642,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2025-09-21T07:22:50Z","pushedAt":"2026-07-24T14:23:04Z","archived":false,"owner":{"login":"evoiz","name":"Elias Al-bittar","type":"User","url":"https://github.com/evoiz","location":"Homs, Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzNjE3NTA1MDg=","name":"mkv-muxing-batch-gui","nameWithOwner":"yaser01/mkv-muxing-batch-gui","url":"https://github.com/yaser01/mkv-muxing-batch-gui","description":"App to muxing videos with audios/subtitles with so many options!","stars":663,"forks":46,"primaryLanguage":"Python","license":{"spdxId":"GPL-2.0"},"createdAt":"2021-04-26T12:57:26Z","pushedAt":"2024-01-17T09:20:10Z","archived":false,"owner":{"login":"yaser01","name":"Yasser Milato","type":"User","url":"https://github.com/yaser01","location":"Syria","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":3,"id":"MDEwOlJlcG9zaXRvcnkyMDU1NDc0ODE=","name":"glaucus","nameWithOwner":"glaucuslinux/glaucus","url":"https://github.com/glaucuslinux/glaucus","description":"An opinionated Linux® distribution based on musl libc and toybox","stars":353,"forks":6,"primaryLanguage":null,"license":{"spdxId":"MPL-2.0"},"createdAt":"2019-08-31T13:23:01Z","pushedAt":"2026-11-13T22:56:29Z","archived":false,"owner":{"login":"glaucuslinux","name":"glaucus Linux","type":"Organization","url":"https://github.com/glaucuslinux","location":"Syria","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "2026b1f3b0ed5e42",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "350f79a22856353a",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

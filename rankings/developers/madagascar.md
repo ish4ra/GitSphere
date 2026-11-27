@@ -191,23 +191,23 @@
 </tr>
 <tr>
 <td align="right">25</td>
-<td><a href="https://github.com/Tombosoa"><img src="https://avatars.githubusercontent.com/u/127602403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tombosoa"><b>Nantenaina Ramanatombosoa</b></a><br><sub>&#64;Tombosoa</sub></td>
-<td align="right"><b>136</b></td>
-<td align="right">69</td>
-<td><sub>Madagascar</sub></td>
-</tr>
-<tr>
-<td align="right">26</td>
 <td><a href="https://github.com/rmanantsoa"><img src="https://avatars.githubusercontent.com/u/18415884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rmanantsoa"><b>Tianamanantsoa</b></a><br><sub>&#64;rmanantsoa</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">59</td>
 <td><sub>101 Antananarivo, Madagascar</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">26</td>
 <td><a href="https://github.com/FunnyVazoniaina"><img src="https://avatars.githubusercontent.com/u/144912456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FunnyVazoniaina"><b>Funny VAZONIAINA</b></a><br><sub>&#64;FunnyVazoniaina</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">41</td>
+<td><sub>Madagascar</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/Tombosoa"><img src="https://avatars.githubusercontent.com/u/127602403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tombosoa"><b>Nantenaina Ramanatombosoa</b></a><br><sub>&#64;Tombosoa</sub></td>
+<td align="right"><b>129</b></td>
+<td align="right">69</td>
 <td><sub>Madagascar</sub></td>
 </tr>
 <tr>
@@ -255,7 +255,7 @@
 <tr>
 <td align="right">34</td>
 <td><a href="https://github.com/MarcHerilala"><img src="https://avatars.githubusercontent.com/u/127602616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcHerilala"><b>Marc RAZANAJATOVO</b></a><br><sub>&#64;MarcHerilala</sub></td>
-<td align="right"><b>102</b></td>
+<td align="right"><b>101</b></td>
 <td align="right">70</td>
 <td><sub>Madagascar</sub></td>
 </tr>

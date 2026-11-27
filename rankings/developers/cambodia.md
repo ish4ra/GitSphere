@@ -164,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/it-chhaya"><img src="https://avatars.githubusercontent.com/u/52463584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/it-chhaya"><b>Chan Chhaya</b></a><br><sub>&#64;it-chhaya</sub></td>
-<td align="right"><b>119</b></td>
+<td align="right"><b>118</b></td>
 <td align="right">147</td>
 <td><sub>Toul Kork, Phnom Penh, Cambodia</sub></td>
 </tr>
@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/keoKAY"><img src="https://avatars.githubusercontent.com/u/102707262?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keoKAY"><b>KAY KEO</b></a><br><sub>&#64;keoKAY</sub></td>
-<td align="right"><b>104</b></td>
+<td align="right"><b>103</b></td>
 <td align="right">84</td>
 <td><sub>phnom penh, cambodia</sub></td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 25 Nov 2026 | <a href="../data/KW.json">JSON</a> |
+| 🟡 Provisional | **14** | 25 Nov 2026 | <a href="../data/KW.json">JSON</a> |
 
 </div>
 
@@ -112,6 +112,13 @@
 <td align="right">12</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/telly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/telly/FloatingAction"><b>telly/FloatingAction</b></a><br><sub>A basic implementation of Floating Action pattern</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">40</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -120,7 +127,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 380 stars; 13 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 305 stars; 14 attributed candidates are tracked.
 - 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 32 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

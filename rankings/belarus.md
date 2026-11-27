@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **46** | 24 Nov 2026 | <a href="../data/BY.json">JSON</a> |
+| 🟡 Provisional | **49** | 24 Nov 2026 | <a href="../data/BY.json">JSON</a> |
 
 </div>
 
@@ -343,6 +343,27 @@
 <td align="right">48</td>
 <td>Assembly</td>
 </tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/v-ladynev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/v-ladynev/keycloak-nodejs-example"><b>v-ladynev/keycloak-nodejs-example</b></a><br><sub>A simply step by step Keycloak, MySQL and Node.js integration tutorial. There are some docker examples as well.</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">99</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/1ven.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1ven/do"><b>1ven/do</b></a><br><sub>📋 Notes management application built with React and Redux</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">46</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/gojuno.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gojuno/koptional"><b>gojuno/koptional</b></a><br><sub>Minimalistic Optional type for Kotlin that tries to fit its null-safe type system as smooth as possible.</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">21</td>
+<td>Kotlin</td>
+</tr>
 </tbody>
 </table>
 
@@ -351,7 +372,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 315 stars; 46 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 294 stars; 49 attributed candidates are tracked.
 - 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

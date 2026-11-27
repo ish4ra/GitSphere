@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/KI.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/KI.json">JSON</a> |
 
 </div>
 
@@ -142,7 +142,7 @@
 </tr>
 <tr>
 <td align="right">14</td>
-<td><a href="https://github.com/karotu"><img src="https://avatars.githubusercontent.com/u/40752981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karotu"><b>Karotu Tannang</b></a><br><sub>&#64;karotu · 0 followers</sub></td>
+<td><a href="https://github.com/awesomebehnam-collab"><img src="https://avatars.githubusercontent.com/u/259205737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awesomebehnam-collab"><b>behnam asady</b></a><br><sub>&#64;awesomebehnam-collab · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -151,6 +151,15 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/karotu"><img src="https://avatars.githubusercontent.com/u/40752981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karotu"><b>Karotu Tannang</b></a><br><sub>&#64;karotu · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/marukiyoko"><img src="https://avatars.githubusercontent.com/u/17765027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marukiyoko"><b>Aleksandr</b></a><br><sub>&#64;marukiyoko · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -165,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 26 of 39 discovered developers (13 awaiting measurement).
+- **Measured:** 30 of 39 discovered developers (9 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 30 in round 1.

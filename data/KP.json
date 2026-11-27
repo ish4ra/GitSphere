@@ -5,7 +5,7 @@
 "country": {"code":"KP","name":"North Korea","slug":"north-korea"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":62,"ownerExpansionBacklog":140,"candidates":67,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":130,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":62,"ownerExpansionBacklog":137,"candidates":67,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":130,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOJSHucg","name":"awesome-open-gpt","nameWithOwner":"EwingYangs/awesome-open-gpt","url":"https://github.com/EwingYangs/awesome-open-gpt","description":"Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥","stars":6076,"forks":543,"primaryLanguage":"Python","license":null,"createdAt":"2023-04-03T13:05:07Z","pushedAt":"2025-05-16T10:55:24Z","archived":false,"owner":{"login":"EwingYangs","name":"Ewing","type":"User","url":"https://github.com/EwingYangs","location":"Guang Dong","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOMq2RnQ","name":"go-emby2openlist","nameWithOwner":"AmbitiousJun/go-emby2openlist","url":"https://github.com/AmbitiousJun/go-emby2openlist","description":"Go 语言编写的 Emby + OpenList (Alist) 网盘直链反向代理服务，深度适配阿里云盘转码播放，支持 OpenList 本地目录树生成，配置简单，DockerCompose 一键部署","stars":676,"forks":71,"primaryLanguage":"Go","license":{"spdxId":"GPL-3.0"},"createdAt":"2024-08-31T08:15:43Z","pushedAt":"2026-09-29T12:30:49Z","archived":false,"owner":{"login":"AmbitiousJun","name":"小陈","type":"User","url":"https://github.com/AmbitiousJun","location":"Guang Dong","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-24"},
@@ -75,8 +75,8 @@
   {"rank":66,"id":null,"name":"VS-Test","nameWithOwner":"FRBraatz/VS-Test","url":"https://github.com/FRBraatz/VS-Test","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2017-09-15T00:06:56Z","pushedAt":"2017-09-15T00:24:35Z","archived":false,"owner":{"login":"FRBraatz","name":"Frederick Braatz","type":"User","url":"https://github.com/FRBraatz","location":"Pyongyang, Democratic People's Republic of Korea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":67,"id":null,"name":"SuperSlayerExploits","nameWithOwner":"Fullmess/SuperSlayerExploits","url":"https://github.com/Fullmess/SuperSlayerExploits","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-10-25T15:14:54Z","pushedAt":"2021-10-25T15:15:24Z","archived":false,"owner":{"login":"Fullmess","name":"FullMess","type":"User","url":"https://github.com/Fullmess","location":"North Korea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "60226539964035ac",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "f55ce3d49ed0dbcd",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"FO","name":"Faroe Islands","slug":"faroe-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":55,"ownerExpansionBacklog":100,"candidates":56,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":50,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":55,"ownerExpansionBacklog":99,"candidates":56,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":50,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOMJBQfQ","name":"hygg","nameWithOwner":"kruseio/hygg","url":"https://github.com/kruseio/hygg","description":"📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.","stars":362,"forks":17,"primaryLanguage":"Rust","license":{"spdxId":"AGPL-3.0"},"createdAt":"2024-06-13T16:51:05Z","pushedAt":"2026-10-30T02:32:55Z","archived":false,"owner":{"login":"kruseio","name":"Ragnar Kruse","type":"User","url":"https://github.com/kruseio","location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
   {"rank":2,"id":null,"name":"seturprojekt","nameWithOwner":"rhizashell/seturprojekt","url":"https://github.com/rhizashell/seturprojekt","description":null,"stars":0,"forks":1,"primaryLanguage":"JavaScript","license":null,"createdAt":"2020-11-03T14:07:18Z","pushedAt":"2021-01-04T19:09:03Z","archived":false,"owner":{"login":"rhizashell","name":null,"type":"User","url":"https://github.com/rhizashell","location":"The Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -64,8 +64,8 @@
   {"rank":55,"id":null,"name":"vegg","nameWithOwner":"vegg/vegg","url":"https://github.com/vegg/vegg","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2013-04-26T17:42:55Z","pushedAt":"2014-05-03T14:11:01Z","archived":false,"owner":{"login":"vegg","name":"Vegg","type":"Organization","url":"https://github.com/vegg","location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":56,"id":null,"name":"clearcomm","nameWithOwner":"Viggz/clearcomm","url":"https://github.com/Viggz/clearcomm","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2018-06-25T12:41:43Z","pushedAt":"2018-06-25T12:41:44Z","archived":false,"owner":{"login":"Viggz","name":"Virgar Poulsen","type":"User","url":"https://github.com/Viggz","location":"Faroe islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "8f7ee6f79d9e1179",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "929289e3a1b7ed72",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

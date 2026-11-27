@@ -5,7 +5,7 @@
 "country": {"code":"GF","name":"French Guiana","slug":"french-guiana"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":40,"ownerExpansionBacklog":64,"candidates":42,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":35,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":40,"ownerExpansionBacklog":66,"candidates":42,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":35,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzODg4NDAzNTE=","name":"Mortal","nameWithOwner":"Equim-chan/Mortal","url":"https://github.com/Equim-chan/Mortal","description":"🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.","stars":1623,"forks":235,"primaryLanguage":"Rust","license":{"spdxId":"AGPL-3.0"},"createdAt":"2021-07-23T15:08:48Z","pushedAt":"2025-09-28T14:29:24Z","archived":false,"owner":{"login":"Equim-chan","name":"Equim","type":"User","url":"https://github.com/Equim-chan","location":"GF(2)","attribution":{"confidence":"medium","evidence":"country-code"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyNDM4MTA2NzI=","name":"mjai-reviewer","nameWithOwner":"Equim-chan/mjai-reviewer","url":"https://github.com/Equim-chan/mjai-reviewer","description":"🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.","stars":1274,"forks":142,"primaryLanguage":"Rust","license":{"spdxId":"Apache-2.0"},"createdAt":"2020-02-28T16:49:04Z","pushedAt":"2025-02-22T07:35:31Z","archived":false,"owner":{"login":"Equim-chan","name":"Equim","type":"User","url":"https://github.com/Equim-chan","location":"GF(2)","attribution":{"confidence":"medium","evidence":"country-code"}},"verifiedOn":"2026-11-26"},
@@ -50,8 +50,8 @@
   {"rank":41,"id":null,"name":"Linux-tools-","nameWithOwner":"vigilance973-art/Linux-tools-","url":"https://github.com/vigilance973-art/Linux-tools-","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-01-23T15:34:21Z","pushedAt":"2026-01-23T15:34:22Z","archived":false,"owner":{"login":"vigilance973-art","name":"Approuague","type":"User","url":"https://github.com/vigilance973-art","location":"Guyane Française","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":42,"id":null,"name":"kinopub","nameWithOwner":"XucisaSuj26/kinopub","url":"https://github.com/XucisaSuj26/kinopub","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-26T13:23:46Z","pushedAt":"2026-09-26T13:23:47Z","archived":false,"owner":{"login":"XucisaSuj26","name":"apogee.uplink","type":"User","url":"https://github.com/XucisaSuj26","location":"Kourou, French Guiana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "9e4b068870aee078",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "6f47d7705b303415",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

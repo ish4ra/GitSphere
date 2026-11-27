@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/GR.json">JSON</a> |
+| 🟡 Provisional | **28** | 22 Nov 2026 | <a href="../../data/contributors/GR.json">JSON</a> |
 
 </div>
 
@@ -142,6 +142,24 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/bergercookie"><img src="https://avatars.githubusercontent.com/u/5816719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bergercookie"><b>Nikos Koukis</b></a><br><sub>&#64;bergercookie · 132 followers</sub></td>
+<td align="right"><b>697</b></td>
+<td align="right">681</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/dspinellis"><img src="https://avatars.githubusercontent.com/u/1212716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dspinellis"><b>Diomidis Spinellis</b></a><br><sub>&#64;dspinellis · 1,713 followers</sub></td>
+<td align="right"><b>676</b></td>
+<td align="right">577</td>
+<td align="right">17</td>
+<td align="right">69</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/georapbox"><img src="https://avatars.githubusercontent.com/u/6596039?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/georapbox"><b>George Raptis</b></a><br><sub>&#64;georapbox · 135 followers</sub></td>
 <td align="right"><b>394</b></td>
 <td align="right">361</td>
@@ -150,7 +168,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/spapas"><img src="https://avatars.githubusercontent.com/u/3911074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spapas"><b>Serafeim Papastefanos</b></a><br><sub>&#64;spapas · 175 followers</sub></td>
 <td align="right"><b>327</b></td>
 <td align="right">302</td>
@@ -159,7 +177,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/petrostrak"><img src="https://avatars.githubusercontent.com/u/45797153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/petrostrak"><b>petrostrak</b></a><br><sub>&#64;petrostrak · 155 followers</sub></td>
 <td align="right"><b>314</b></td>
 <td align="right">298</td>
@@ -168,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
 <td><a href="https://github.com/gstavrinos"><img src="https://avatars.githubusercontent.com/u/6703819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gstavrinos"><b>George Stavrinos</b></a><br><sub>&#64;gstavrinos · 135 followers</sub></td>
 <td align="right"><b>259</b></td>
 <td align="right">202</td>
@@ -177,7 +195,25 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
+<td><a href="https://github.com/angelosstampoulisgithub"><img src="https://avatars.githubusercontent.com/u/176431316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angelosstampoulisgithub"><b>Angelos Staboulis</b></a><br><sub>&#64;angelosstampoulisgithub · 433 followers</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">201</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/wallymathieu"><img src="https://avatars.githubusercontent.com/u/88096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wallymathieu"><b>Oskar Mathieu Gewalli</b></a><br><sub>&#64;wallymathieu · 116 followers</sub></td>
+<td align="right"><b>215</b></td>
+<td align="right">118</td>
+<td align="right">32</td>
+<td align="right">45</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">22</td>
 <td><a href="https://github.com/iani"><img src="https://avatars.githubusercontent.com/u/181956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iani"><b>Iannis Zannos</b></a><br><sub>&#64;iani · 172 followers</sub></td>
 <td align="right"><b>199</b></td>
 <td align="right">186</td>
@@ -186,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">23</td>
 <td><a href="https://github.com/thanpolas"><img src="https://avatars.githubusercontent.com/u/458813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thanpolas"><b>Thanos Polychronakis</b></a><br><sub>&#64;thanpolas · 346 followers</sub></td>
 <td align="right"><b>176</b></td>
 <td align="right">164</td>
@@ -195,7 +231,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">24</td>
 <td><a href="https://github.com/EleftheriaBatsou"><img src="https://avatars.githubusercontent.com/u/17240273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EleftheriaBatsou"><b>Eleftheria Batsou</b></a><br><sub>&#64;EleftheriaBatsou · 808 followers</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">53</td>
@@ -204,7 +240,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">25</td>
 <td><a href="https://github.com/stjordanis"><img src="https://avatars.githubusercontent.com/u/4212985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stjordanis"><b>STYLIANOS IORDANIS</b></a><br><sub>&#64;stjordanis · 327 followers</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
@@ -213,7 +249,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">26</td>
 <td><a href="https://github.com/iracleous"><img src="https://avatars.githubusercontent.com/u/26898518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iracleous"><b>Dimitrios Iracleous</b></a><br><sub>&#64;iracleous · 136 followers</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">77</td>
@@ -222,7 +258,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">27</td>
 <td><a href="https://github.com/ptzagk"><img src="https://avatars.githubusercontent.com/u/66448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ptzagk"><b>Panayiotis Tzagkarakis</b></a><br><sub>&#64;ptzagk · 161 followers</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
@@ -231,7 +267,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">28</td>
 <td><a href="https://github.com/admariner"><img src="https://avatars.githubusercontent.com/u/8210250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/admariner"><b>Periklis Papanikolaou</b></a><br><sub>&#64;admariner · 260 followers</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">3</td>
@@ -246,7 +282,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 28 of 607 discovered developers (579 awaiting measurement).
+- **Measured:** 32 of 627 discovered developers (595 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 149 in round 1.

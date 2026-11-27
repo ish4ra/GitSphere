@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **74** | 24 Nov 2026 | <a href="../data/AM.json">JSON</a> |
+| 🟡 Provisional | **80** | 24 Nov 2026 | <a href="../data/AM.json">JSON</a> |
 
 </div>
 
@@ -539,6 +539,48 @@
 <td align="right">43</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/olsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olsh/Feedly-Notifier"><b>olsh/Feedly-Notifier</b></a><br><sub>Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">38</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/yervandsar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yervandsar/ExpandedTabBar"><b>yervandsar/ExpandedTabBar</b></a><br><sub>ExpandedTabBar is a very creative designed solution for &quot;more&quot; items in UITabBarController. It&#39;s greate experience to h…</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">19</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/vahe-evoyan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vahe-evoyan/armenian-phonetic"><b>vahe-evoyan/armenian-phonetic</b></a><br><sub>Armenian phonetic keyboard layout for Mac OSX. Հայերեն ֆոնետիկ ստեղնաշար Mac OSX-ի համար։</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">47</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/Feghal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Feghal/ImageDetect"><b>Feghal/ImageDetect</b></a><br><sub>✂️ Detect and crop faces, barcodes and texts in image with iOS 11 Vision api.</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">32</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/vtereshkov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vtereshkov/xdpw"><b>vtereshkov/xdpw</b></a><br><sub>XD Pascal: A small embeddable self-hosting Pascal compiler for Windows. Supports Go-style methods and interfaces</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">40</td>
+<td>Pascal</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/shahen94.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shahen94/react-native-switch"><b>shahen94/react-native-switch</b></a><br><sub>Customisable switch component for RN</sub></td>
+<td align="right"><b>293</b></td>
+<td align="right">169</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -547,7 +589,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 317 stars; 74 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 293 stars; 80 attributed candidates are tracked.
 - 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

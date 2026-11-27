@@ -5,7 +5,7 @@
 "country": {"code":"SZ","name":"Eswatini","slug":"eswatini"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":68,"ownerExpansionBacklog":149,"candidates":68,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":36,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":68,"ownerExpansionBacklog":147,"candidates":68,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":36,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"whmcs-expenses","nameWithOwner":"Oscah3/whmcs-expenses","url":"https://github.com/Oscah3/whmcs-expenses","description":null,"stars":0,"forks":5,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2019-12-29T22:36:54Z","pushedAt":"2014-11-28T09:29:46Z","archived":false,"owner":{"login":"Oscah3","name":"Siphesihle Malinga","type":"User","url":"https://github.com/Oscah3","location":"Manzini, Eswatini","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"sds-test-system","nameWithOwner":"Co-ordinator/sds-test-system","url":"https://github.com/Co-ordinator/sds-test-system","description":null,"stars":0,"forks":2,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-01-26T10:06:33Z","pushedAt":"2026-10-08T13:44:18Z","archived":false,"owner":{"login":"Co-ordinator","name":"Coordinator","type":"User","url":"https://github.com/Co-ordinator","location":"Manzini, Eswatini","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -76,8 +76,8 @@
   {"rank":67,"id":null,"name":"iris-scoring-service","nameWithOwner":"hlophesizolwethu/iris-scoring-service","url":"https://github.com/hlophesizolwethu/iris-scoring-service","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-08-08T13:18:00Z","pushedAt":"2026-08-08T14:10:04Z","archived":false,"owner":{"login":"hlophesizolwethu","name":"Furman-hlophe","type":"User","url":"https://github.com/hlophesizolwethu","location":"Mbabane","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":68,"id":null,"name":"example_sqlite_connector_bug","nameWithOwner":"I3igI3uilder/example_sqlite_connector_bug","url":"https://github.com/I3igI3uilder/example_sqlite_connector_bug","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2022-01-18T13:04:14Z","pushedAt":"2022-01-18T13:06:12Z","archived":false,"owner":{"login":"I3igI3uilder","name":null,"type":"User","url":"https://github.com/I3igI3uilder","location":"Swaziland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "24b679e69b9bfb83",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "0c32be6b76c83fd9",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

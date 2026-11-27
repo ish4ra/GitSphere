@@ -65,16 +65,16 @@
 </tr>
 <tr>
 <td align="right">7</td>
-<td><a href="https://github.com/Y4NN777"><img src="https://avatars.githubusercontent.com/u/171065166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Y4NN777"><b>Ragnang-Newende Yanis Axel DABO</b></a><br><sub>&#64;Y4NN777</sub></td>
-<td align="right"><b>125</b></td>
-<td align="right">88</td>
+<td><a href="https://github.com/codebadolo"><img src="https://avatars.githubusercontent.com/u/122725139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codebadolo"><b>Badolo Geofroy</b></a><br><sub>&#64;codebadolo</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">165</td>
 <td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>
 <td align="right">8</td>
-<td><a href="https://github.com/codebadolo"><img src="https://avatars.githubusercontent.com/u/122725139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codebadolo"><b>Badolo Geofroy</b></a><br><sub>&#64;codebadolo</sub></td>
-<td align="right"><b>121</b></td>
-<td align="right">165</td>
+<td><a href="https://github.com/Y4NN777"><img src="https://avatars.githubusercontent.com/u/171065166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Y4NN777"><b>Ragnang-Newende Yanis Axel DABO</b></a><br><sub>&#64;Y4NN777</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">59</td>
 <td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>

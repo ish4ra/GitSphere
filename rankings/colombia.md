@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **88** | 24 Nov 2026 | <a href="../data/CO.json">JSON</a> |
+| 🟡 Provisional | **99** | 24 Nov 2026 | <a href="../data/CO.json">JSON</a> |
 
 </div>
 
@@ -637,6 +637,83 @@
 <td align="right">0</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/Edu4rdSHL.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Edu4rdSHL/tor-router"><b>Edu4rdSHL/tor-router</b></a><br><sub>A tool that allows you to make TOR your default gateway and send all internet connections under TOR (as transparent pro…</sub></td>
+<td align="right"><b>313</b></td>
+<td align="right">65</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/srcolinas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/srcolinas/roadmap-to-AI"><b>srcolinas/roadmap-to-AI</b></a></td>
+<td align="right"><b>312</b></td>
+<td align="right">72</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/jamesmullenbach.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jamesmullenbach/caml-mimic"><b>jamesmullenbach/caml-mimic</b></a><br><sub>multilabel classification of EHR notes</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">127</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/juan-csv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juan-csv/face_liveness_detection-Anti-spoofing"><b>juan-csv/face&#95;liveness&#95;detection-Anti-spoofing</b></a><br><sub>face liveness detection activate, the script asks the person to generate an action, for example one of the actions they…</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">81</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/medevorg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/medevorg/nodetskeleton"><b>medevorg/nodetskeleton</b></a><br><sub>A NodeJS Skeleton based in Clean Architecture to use TypeScript with ExpressJS, KoaJS or any other web server framework…</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">32</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/cs3157.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cs3157/recitations"><b>cs3157/recitations</b></a><br><sub>Recitation notes for cs3157, the C systems programming course with a narrative</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">218</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/rmunate.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rmunate/SpellNumber"><b>rmunate/SpellNumber</b></a><br><sub>🔢 Convert Numbers to Words Effortlessly in Laravel! 🌟🔠 Say goodbye to complex coding! This ingenious library, seamle…</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">49</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/cabol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cabol/shards"><b>cabol/shards</b></a><br><sub>Partitioned ETS tables for Erlang and Elixir</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">36</td>
+<td>Erlang</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/andresilvagomez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andresilvagomez/Localize"><b>andresilvagomez/Localize</b></a><br><sub>Localize is a framework writed in swift to localize your projects easier improves i18n, including storyboards and strin…</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">49</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/juanbeniteza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juanbeniteza/django-rest-framework-crud"><b>juanbeniteza/django-rest-framework-crud</b></a><br><sub>Simple CRUD REST API with Python Django Rest Framework</sub></td>
+<td align="right"><b>293</b></td>
+<td align="right">188</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/nivandres.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nivandres/intl-t"><b>nivandres/intl-t</b></a><br><sub>A Fully-Typed Object-Based i18n Translation Library</sub></td>
+<td align="right"><b>293</b></td>
+<td align="right">6</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -645,8 +722,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 316 stars; 88 attributed candidates are tracked.
-- 109 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 293 stars; 99 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 119 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

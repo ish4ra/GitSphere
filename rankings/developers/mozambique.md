@@ -151,13 +151,13 @@
 <td align="right">19</td>
 <td><a href="https://github.com/Machaieie"><img src="https://avatars.githubusercontent.com/u/90422313?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Machaieie"><b>Edwin Machaieie</b></a><br><sub>&#64;Machaieie</sub></td>
 <td align="right"><b>118</b></td>
-<td align="right">42</td>
+<td align="right">43</td>
 <td><sub>Maputo, Mozambique</sub></td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/luisjeremias"><img src="https://avatars.githubusercontent.com/u/67968674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luisjeremias"><b>Luis Geremias</b></a><br><sub>&#64;luisjeremias</sub></td>
-<td align="right"><b>117</b></td>
+<td align="right"><b>116</b></td>
 <td align="right">39</td>
 <td><sub>Mozambique</sub></td>
 </tr>

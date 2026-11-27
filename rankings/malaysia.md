@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **83** | 24 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟡 Provisional | **91** | 24 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -602,6 +602,62 @@
 <td align="right">85</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/xiesuichao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xiesuichao/KLineView"><b>xiesuichao/KLineView</b></a><br><sub>Android股票走势图K线控件</sub></td>
+<td align="right"><b>312</b></td>
+<td align="right">72</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/AzimsTech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AzimsTech/Android_Hacking"><b>AzimsTech/Android&#95;Hacking</b></a><br><sub>All things Android &#124; Happy New Year 🎉 2026️⃣</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">47</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/rc-chuah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rc-chuah/Kali-Nethunter-In-Termux"><b>rc-chuah/Kali-Nethunter-In-Termux</b></a> <sub>archived</sub><br><sub>This is a script by which you can install Kali Nethunter (Kali Linux) in your termux application without rooted phone.</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">50</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/orchestral.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orchestral/platform"><b>orchestral/platform</b></a><br><sub>Orchestra Platform Application Skeleton</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">32</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/tmlee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tmlee/time_difference"><b>tmlee/time&#95;difference</b></a><br><sub>The missing Ruby method to print out time difference (duration) in year, month, week, day, hour, minute, and second.</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">85</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/junwen-k.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/junwen-k/ui-x"><b>junwen-k/ui-x</b></a><br><sub>Additional beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open S…</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">10</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/kitloong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kitloong/json-server-vercel"><b>kitloong/json-server-vercel</b></a><br><sub>Deploy JSON Server to Vercel</sub></td>
+<td align="right"><b>301</b></td>
+<td align="right">766</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/fahidattique55.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fahidattique55/FAPaginationLayout"><b>fahidattique55/FAPaginationLayout</b></a><br><sub>Collection view pagination layout</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">40</td>
+<td>Swift</td>
+</tr>
 </tbody>
 </table>
 
@@ -610,8 +666,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 315 stars; 83 attributed candidates are tracked.
-- 106 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 299 stars; 91 attributed candidates are tracked.
+- 104 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

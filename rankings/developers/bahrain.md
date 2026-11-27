@@ -38,14 +38,14 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/fairbird"><img src="https://avatars.githubusercontent.com/u/1761779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fairbird"><b>RAED</b></a><br><sub>&#64;fairbird</sub></td>
-<td align="right"><b>121</b></td>
+<td align="right"><b>120</b></td>
 <td align="right">33</td>
 <td><sub>Bahrain</sub></td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/0xRar"><img src="https://avatars.githubusercontent.com/u/33517160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xRar"><b>0xRar</b></a><br><sub>&#64;0xRar</sub></td>
-<td align="right"><b>116</b></td>
+<td align="right"><b>115</b></td>
 <td align="right">73</td>
 <td><sub>Bahrain</sub></td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/MO.json">JSON</a> |
+| 🟡 Provisional | **12** | 24 Nov 2026 | <a href="../data/MO.json">JSON</a> |
 
 </div>
 
@@ -98,6 +98,13 @@
 <td align="right">10</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/DoongLi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DoongLi/Active-SLAM-Paper-List"><b>DoongLi/Active-SLAM-Paper-List</b></a><br><sub>This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Explo…</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">20</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -106,8 +113,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 356 stars; 11 attributed candidates are tracked.
-- 50 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 314 stars; 12 attributed candidates are tracked.
+- 44 multi-repository owners are queued for expansion.
 - **Location discovery:** term 1 of 16 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

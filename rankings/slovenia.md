@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **67** | 24 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟡 Provisional | **73** | 24 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -490,6 +490,48 @@
 <td align="right">8</td>
 <td>TeX</td>
 </tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/xtruder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xtruder/nix-devcontainer"><b>xtruder/nix-devcontainer</b></a> <sub>archived</sub><br><sub>Swiss army knife container for vscode development environments</sub></td>
+<td align="right"><b>313</b></td>
+<td align="right">34</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/aksonov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aksonov/react-native-xmpp"><b>aksonov/react-native-xmpp</b></a><br><sub>XMPP library for React Native (iOS and Android native support)</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">95</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/Jinjinov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jinjinov/OpenHabitTracker"><b>Jinjinov/OpenHabitTracker</b></a><br><sub>C# .NET 10 Blazor habit tracker application. Works on Web, Windows, Linux, Android, iOS and macOS.</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">29</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/blaz-r.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blaz-r/pi_pico_neopixel"><b>blaz-r/pi&#95;pico&#95;neopixel</b></a><br><sub>Pi Pico library for NeoPixel led-strip written in MicroPython. Works with ws2812b (RGB) and sk6812 (RGBW).</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">57</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/rokbenko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rokbenko/quackd"><b>rokbenko/quackd</b></a><br><sub>The communication layer between people and robots, and between robots. Talk to any robot in your own words, with an LLM…</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">32</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/xtruder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xtruder/kubenix"><b>xtruder/kubenix</b></a> <sub>archived</sub><br><sub>Replaced by https://github.com/hall/kubenix</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">33</td>
+<td>Nix</td>
+</tr>
 </tbody>
 </table>
 
@@ -498,8 +540,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 315 stars; 67 attributed candidates are tracked.
-- 81 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 295 stars; 73 attributed candidates are tracked.
+- 79 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

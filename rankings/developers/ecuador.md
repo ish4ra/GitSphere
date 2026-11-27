@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/GataNina-Li"><img src="https://avatars.githubusercontent.com/u/96250885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GataNina-Li"><b>Gata Dios</b></a><br><sub>&#64;GataNina-Li</sub></td>
-<td align="right"><b>588</b></td>
+<td align="right"><b>590</b></td>
 <td align="right">14</td>
 <td><sub>Ecuador</sub></td>
 </tr>
@@ -149,31 +149,31 @@
 </tr>
 <tr>
 <td align="right">19</td>
-<td><a href="https://github.com/yjot-dev"><img src="https://avatars.githubusercontent.com/u/65629345?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yjot-dev"><b>YASSER ORTIZ T.</b></a><br><sub>&#64;yjot-dev</sub></td>
-<td align="right"><b>128</b></td>
-<td align="right">14</td>
-<td><sub>Ecuador</sub></td>
-</tr>
-<tr>
-<td align="right">20</td>
 <td><a href="https://github.com/roberto-aq"><img src="https://avatars.githubusercontent.com/u/85282308?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roberto-aq"><b>Roberto Andrade Quijije</b></a><br><sub>&#64;roberto-aq</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">64</td>
 <td><sub>Portoviejo</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">20</td>
 <td><a href="https://github.com/simonsan"><img src="https://avatars.githubusercontent.com/u/14062932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simonsan"><b>simonsan</b></a><br><sub>&#64;simonsan</sub></td>
 <td align="right"><b>126</b></td>
 <td align="right">455</td>
 <td><sub>CUBE</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">21</td>
 <td><a href="https://github.com/omarjcm"><img src="https://avatars.githubusercontent.com/u/632376?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omarjcm"><b>Guillermo Pizarro</b></a><br><sub>&#64;omarjcm</sub></td>
 <td align="right"><b>125</b></td>
 <td align="right">68</td>
 <td><sub>Guayaquil, Ecuador</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/yjot-dev"><img src="https://avatars.githubusercontent.com/u/65629345?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yjot-dev"><b>YASSER ORTIZ T.</b></a><br><sub>&#64;yjot-dev</sub></td>
+<td align="right"><b>121</b></td>
+<td align="right">14</td>
+<td><sub>Ecuador</sub></td>
 </tr>
 <tr>
 <td align="right">23</td>
@@ -282,23 +282,23 @@
 </tr>
 <tr>
 <td align="right">38</td>
+<td><a href="https://github.com/MarcoS9309"><img src="https://avatars.githubusercontent.com/u/217665993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcoS9309"><b>MarcoS9309</b></a><br><sub>&#64;MarcoS9309</sub></td>
+<td align="right"><b>92</b></td>
+<td align="right">74</td>
+<td><sub>Ecuador</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
 <td><a href="https://github.com/vasanza"><img src="https://avatars.githubusercontent.com/u/12642226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vasanza"><b>vasanza</b></a><br><sub>&#64;vasanza</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">35</td>
 <td><sub>Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">40</td>
 <td><a href="https://github.com/Alcatraz2033"><img src="https://avatars.githubusercontent.com/u/74221996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alcatraz2033"><b>AlcatrazTH</b></a><br><sub>&#64;Alcatraz2033</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">25</td>
-<td><sub>Ecuador</sub></td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><a href="https://github.com/MarcoS9309"><img src="https://avatars.githubusercontent.com/u/217665993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcoS9309"><b>MarcoS9309</b></a><br><sub>&#64;MarcoS9309</sub></td>
-<td align="right"><b>91</b></td>
-<td align="right">74</td>
 <td><sub>Ecuador</sub></td>
 </tr>
 <tr>

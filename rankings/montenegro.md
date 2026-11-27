@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 24 Nov 2026 | <a href="../data/ME.json">JSON</a> |
+| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/ME.json">JSON</a> |
 
 </div>
 
@@ -119,6 +119,13 @@
 <td align="right">37</td>
 <td>Clojure</td>
 </tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/dchest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dchest/siphash"><b>dchest/siphash</b></a><br><sub>Go implementation of SipHash-2-4, a fast short-input PRF created by Jean-Philippe Aumasson and Daniel J. Bernstein.</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">40</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -127,8 +134,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 322 stars; 14 attributed candidates are tracked.
-- 62 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 297 stars; 15 attributed candidates are tracked.
+- 53 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 44 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

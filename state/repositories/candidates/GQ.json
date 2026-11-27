@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GQ","name":"Equatorial Guinea","slug":"equatorial-guinea"},
-"count": 35,
+"count": 36,
 "repositories": [
+  {"id":"R_kgDOKRsgYg","name":"ntu-aris/MMAUD","stars":295,"forks":28,"language":"SCSS","license":"MIT","description":"[ICRA-2024] MMAUD: A comprehensive multi-modal anti-UAV dataset for modern miniature drone threats","archived":false,"createdAt":"2023-09-10T13:15:30Z","pushedAt":"2026-10-27T19:53:13Z","owner":{"id":"MDEyOk9yZ2FuaXphdGlvbjc4NDY1Mzg4","login":"ntu-aris","type":"Organization","name":"NTU ARIS","location":"S1-B4C-14, NTU, 50 Nanyang Avenue, Singapore 639798"},"attribution":{"code":"GQ","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-27T20:07:43.186Z","verifiedAt":"2026-11-27T20:07:43.186Z","cycle":1},
   {"name":"anicetondong/mi-primer-juegomat","stars":0,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2026-03-30T01:51:45Z","pushedAt":"2026-04-28T16:36:06Z","owner":{"login":"anicetondong","type":"User","name":"Aniceto Ndong NKOGO NNEGUE","location":"Guinea Ecuatorial"},"attribution":{"code":"GQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:anicetondong/mi-primer-juegomat","legacy":true},
   {"name":"Annw216/semantic-search-middleware","stars":0,"forks":0,"license":"GPL-2.0","archived":false,"createdAt":"2026-08-01T16:01:36Z","pushedAt":"2026-08-01T16:01:37Z","owner":{"login":"Annw216","type":"User","name":"Ignacio","location":"Nueva Guinea Ecuatorial"},"attribution":{"code":"GQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:annw216/semantic-search-middleware","legacy":true},
   {"name":"Astuto02/menu_manila","stars":0,"forks":0,"language":"CSS","archived":false,"createdAt":"2025-05-25T17:36:30Z","pushedAt":"2025-07-05T06:31:10Z","owner":{"login":"Astuto02","type":"User","name":"radeo_eyene","location":"Guinea Ecuatorial"},"attribution":{"code":"GQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:astuto02/menu_manila","legacy":true},

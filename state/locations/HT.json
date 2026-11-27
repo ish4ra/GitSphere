@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-23T03:00:24.929Z",
 "terms": {"count":92,"fingerprint":"92:dad1a1f7"},
-"termIndex": 0,
-"specIndex": 0,
-"active": {"term":"Haiti","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjYwMA==","page":13,"retrieved":600,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-23T03:00:24.930Z","stats":{"pages":12}},
+"termIndex": 1,
+"specIndex": 1,
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":600},
-"updatedAt": "2026-11-23T03:00:24.929Z"
+"stats": {"requests":18,"pages":18,"accounts":816},
+"updatedAt": "2026-11-27T20:15:53.021Z"
 }

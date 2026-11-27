@@ -296,24 +296,24 @@
 </tr>
 <tr>
 <td align="right">40</td>
-<td><a href="https://github.com/solonkonora"><img src="https://avatars.githubusercontent.com/u/79814497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/solonkonora"><b>Nkwada Nora Solonko</b></a><br><sub>&#64;solonkonora</sub></td>
-<td align="right"><b>125</b></td>
-<td align="right">91</td>
-<td><sub>Yaounde, Cameroon</sub></td>
-</tr>
-<tr>
-<td align="right">41</td>
 <td><a href="https://github.com/RMPR"><img src="https://avatars.githubusercontent.com/u/23162145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RMPR"><b>Paul Mairo</b></a><br><sub>&#64;RMPR</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">169</td>
 <td><sub>Cameroon</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">41</td>
 <td><a href="https://github.com/Wandji69"><img src="https://avatars.githubusercontent.com/u/30343223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wandji69"><b>Collins Wandji</b></a><br><sub>&#64;Wandji69</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">118</td>
 <td><sub>Buea, Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><a href="https://github.com/solonkonora"><img src="https://avatars.githubusercontent.com/u/79814497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/solonkonora"><b>Nkwada Nora Solonko</b></a><br><sub>&#64;solonkonora</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">91</td>
+<td><sub>Yaounde, Cameroon</sub></td>
 </tr>
 <tr>
 <td align="right">43</td>

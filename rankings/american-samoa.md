@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **19** | 03 Nov 2026 | <a href="../data/AS.json">JSON</a> |
-
-> **Not yet re-verified.** 3 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **17** | 24 Nov 2026 | <a href="../data/AS.json">JSON</a> |
 
 </div>
 
@@ -137,24 +135,10 @@
 </tr>
 <tr>
 <td align="right">17</td>
-<td><img src="https://github.com/breepinkpiggys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/breepinkpiggys/breepinkpiggys"><b>breepinkpiggys/breepinkpiggys</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">18</td>
-<td><img src="https://github.com/https-example.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/https-example/sturdy-octo-tribble"><b>https-example/sturdy-octo-tribble</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">19</td>
-<td><img src="https://github.com/sweetypieredhulk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sweetypieredhulk/sweetypieredhulk"><b>sweetypieredhulk/sweetypieredhulk</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-pairs"><b>neoclide/coc-pairs</b></a><br><sub>Basic auto pairs extension of coc.nvim</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">14</td>
+<td>TypeScript</td>
 </tr>
 </tbody>
 </table>
@@ -162,11 +146,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 19 attributed candidates are tracked.
-- 3 entries were carried over from the previous dataset and are pending revalidation.
-- 49 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 299 stars; 17 attributed candidates are tracked.
+- 47 multi-repository owners are queued for expansion.
 - **Location discovery:** term 7 of 34 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

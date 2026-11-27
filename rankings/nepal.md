@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **50** | 24 Nov 2026 | <a href="../data/NP.json">JSON</a> |
+| 🟡 Provisional | **53** | 24 Nov 2026 | <a href="../data/NP.json">JSON</a> |
 
 </div>
 
@@ -371,6 +371,27 @@
 <td align="right">35</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/Kyutefox.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kyutefox/Iconify"><b>Kyutefox/Iconify</b></a><br><sub>Upgrade your designs with our browser extension! Download premium SVG icons and stickers from Flaticon, Icons8, and Ico…</sub></td>
+<td align="right"><b>304</b></td>
+<td align="right">23</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/Bikranshu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bikranshu/express-react-boilerplate"><b>Bikranshu/express-react-boilerplate</b></a><br><sub>Express, MySQL, React/Redux, NodeJs Application Boilerplate</sub></td>
+<td align="right"><b>302</b></td>
+<td align="right">112</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/bimsina.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bimsina/Matinee-Flutter"><b>bimsina/Matinee-Flutter</b></a><br><sub>This is an app that displays you details of movies that you can search for , or browse.</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">80</td>
+<td>Dart</td>
+</tr>
 </tbody>
 </table>
 
@@ -379,8 +400,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 315 stars; 50 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 292 stars; 53 attributed candidates are tracked.
+- 109 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 69 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

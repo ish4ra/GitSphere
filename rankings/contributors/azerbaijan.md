@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **32** | 22 Nov 2026 | <a href="../../data/contributors/AZ.json">JSON</a> |
+| 🟡 Provisional | **34** | 22 Nov 2026 | <a href="../../data/contributors/AZ.json">JSON</a> |
 
 </div>
 
@@ -277,6 +277,24 @@
 </tr>
 <tr>
 <td align="right">29</td>
+<td><a href="https://github.com/FidanMemmedova"><img src="https://avatars.githubusercontent.com/u/100687487?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FidanMemmedova"><b>Fidan Mammadova</b></a><br><sub>&#64;FidanMemmedova · 143 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">11</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/thefidanabdulla"><img src="https://avatars.githubusercontent.com/u/95448022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thefidanabdulla"><b>Abdulla D. Fidan</b></a><br><sub>&#64;thefidanabdulla · 160 followers</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">16</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">31</td>
 <td><a href="https://github.com/khanjanov"><img src="https://avatars.githubusercontent.com/u/114681364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khanjanov"><b>Karim</b></a><br><sub>&#64;khanjanov · 439 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">11</td>
@@ -285,7 +303,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">32</td>
 <td><a href="https://github.com/zeynallow"><img src="https://avatars.githubusercontent.com/u/7191627?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zeynallow"><b>Zeynal</b></a><br><sub>&#64;zeynallow · 265 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">5</td>
@@ -294,7 +312,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">33</td>
 <td><a href="https://github.com/Ulvi9"><img src="https://avatars.githubusercontent.com/u/64775437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ulvi9"><b>Ulvi9</b></a><br><sub>&#64;Ulvi9 · 170 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -303,7 +321,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">34</td>
 <td><a href="https://github.com/aliyevorkhan"><img src="https://avatars.githubusercontent.com/u/22706686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliyevorkhan"><b>Orkhan ALIYEV</b></a><br><sub>&#64;aliyevorkhan · 228 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -318,7 +336,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 34 of 417 discovered developers (383 awaiting measurement).
+- **Measured:** 38 of 423 discovered developers (385 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 185 in round 1.

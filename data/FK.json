@@ -5,7 +5,7 @@
 "country": {"code":"FK","name":"Falkland Islands","slug":"falkland-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":11,"ownerExpansionBacklog":15,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":11,"ownerExpansionBacklog":15,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"KNTU-2023","nameWithOwner":"Dunedayl/KNTU-2023","url":"https://github.com/Dunedayl/KNTU-2023","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2023-10-16T12:45:55Z","pushedAt":"2023-10-17T10:55:50Z","archived":false,"owner":{"login":"Dunedayl","name":"Valentine Romantsov","type":"User","url":"https://github.com/Dunedayl","location":"Falkland islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Student","nameWithOwner":"Jansen27/Student","url":"https://github.com/Jansen27/Student","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2017-03-05T18:15:07Z","pushedAt":"2017-03-05T18:15:07Z","archived":false,"owner":{"login":"Jansen27","name":"Jansen Reolada","type":"User","url":"https://github.com/Jansen27","location":"Stanley, Falkland Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -19,8 +19,8 @@
   {"rank":10,"id":null,"name":"sphinx_rtd_theme","nameWithOwner":"TipsetFalseBan/sphinx_rtd_theme","url":"https://github.com/TipsetFalseBan/sphinx_rtd_theme","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-18T20:58:31Z","pushedAt":"2023-12-18T20:58:31Z","archived":false,"owner":{"login":"TipsetFalseBan","name":"TipsetFalseBan","type":"User","url":"https://github.com/TipsetFalseBan","location":"Falkland Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":11,"id":null,"name":"warpathprostfrost","nameWithOwner":"warpathprostfrost/warpathprostfrost","url":"https://github.com/warpathprostfrost/warpathprostfrost","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-25T00:40:46Z","pushedAt":"2024-09-25T00:40:59Z","archived":false,"owner":{"login":"warpathprostfrost","name":null,"type":"User","url":"https://github.com/warpathprostfrost","location":"Falkland Islands (FK)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "7de1124bc4cef9be",
-"updatedAt": "2026-11-26T19:09:34.131Z",
+"contentHash": "dce0c9ab77447643",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-26T19:09:34.131Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

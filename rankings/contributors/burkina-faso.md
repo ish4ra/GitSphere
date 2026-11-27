@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **30** | 22 Nov 2026 | <a href="../../data/contributors/BF.json">JSON</a> |
+| 🟡 Provisional | **31** | 22 Nov 2026 | <a href="../../data/contributors/BF.json">JSON</a> |
 
 </div>
 
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><a href="https://github.com/Y4NN777"><img src="https://avatars.githubusercontent.com/u/171065166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Y4NN777"><b>Ragnang-Newende Yanis Axel DABO</b></a><br><sub>&#64;Y4NN777 · 125 followers</sub></td>
+<td><a href="https://github.com/Y4NN777"><img src="https://avatars.githubusercontent.com/u/171065166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Y4NN777"><b>Ragnang-Newende Yanis Axel DABO</b></a><br><sub>&#64;Y4NN777 · 120 followers</sub></td>
 <td align="right"><b>3,502</b></td>
 <td align="right">3,005</td>
 <td align="right">325</td>
@@ -115,7 +115,7 @@
 </tr>
 <tr>
 <td align="right">11</td>
-<td><a href="https://github.com/codebadolo"><img src="https://avatars.githubusercontent.com/u/122725139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codebadolo"><b>Badolo Geofroy</b></a><br><sub>&#64;codebadolo · 121 followers</sub></td>
+<td><a href="https://github.com/codebadolo"><img src="https://avatars.githubusercontent.com/u/122725139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codebadolo"><b>Badolo Geofroy</b></a><br><sub>&#64;codebadolo · 120 followers</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">151</td>
 <td align="right">0</td>
@@ -277,6 +277,15 @@
 </tr>
 <tr>
 <td align="right">29</td>
+<td><a href="https://github.com/rikudosama"><img src="https://avatars.githubusercontent.com/u/20500592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rikudosama"><b>Lengam jean bonaventure</b></a><br><sub>&#64;rikudosama · 15 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">30</td>
 <td><a href="https://github.com/sinaloid"><img src="https://avatars.githubusercontent.com/u/84934192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sinaloid"><b>Sinali Dionou</b></a><br><sub>&#64;sinaloid · 6 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -285,7 +294,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">31</td>
 <td><a href="https://github.com/Eff4real"><img src="https://avatars.githubusercontent.com/u/19754488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eff4real"><b>Effren Ouedraogo</b></a><br><sub>&#64;Eff4real · 8 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -300,7 +309,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 33 of 711 discovered developers (678 awaiting measurement).
+- **Measured:** 37 of 711 discovered developers (674 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 115 in round 1.

@@ -5,7 +5,7 @@
 "country": {"code":"MR","name":"Mauritania","slug":"mauritania"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":73,"ownerExpansionBacklog":138,"candidates":73,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":104,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":73,"ownerExpansionBacklog":137,"candidates":73,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":104,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"UFIM","nameWithOwner":"Cheikh-Ahmed-Telmoud/UFIM","url":"https://github.com/Cheikh-Ahmed-Telmoud/UFIM","description":null,"stars":0,"forks":1,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-06-26T13:51:08Z","pushedAt":"2026-08-18T11:36:14Z","archived":false,"owner":{"login":"Cheikh-Ahmed-Telmoud","name":"Cheikh Abdelkader Ahmed Telmoud","type":"User","url":"https://github.com/Cheikh-Ahmed-Telmoud","location":"Nouakchott, Mauritania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"anatomy-teaching-in-mauritania","nameWithOwner":"drtfeil/anatomy-teaching-in-mauritania","url":"https://github.com/drtfeil/anatomy-teaching-in-mauritania","description":null,"stars":0,"forks":1,"primaryLanguage":null,"license":null,"createdAt":"2019-12-17T20:18:16Z","pushedAt":"2019-12-17T21:01:58Z","archived":false,"owner":{"login":"drtfeil","name":"YAHYA TFEIL","type":"User","url":"https://github.com/drtfeil","location":"Nouakchott - Mauritania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -81,8 +81,8 @@
   {"rank":72,"id":null,"name":"fast","nameWithOwner":"lemrabett/fast","url":"https://github.com/lemrabett/fast","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-01-18T16:18:28Z","pushedAt":"2023-01-18T16:18:28Z","archived":false,"owner":{"login":"lemrabett","name":"Lemrabett Chareck Mahy","type":"User","url":"https://github.com/lemrabett","location":"Mauritania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":73,"id":null,"name":"LallaM","nameWithOwner":"lmahaman/LallaM","url":"https://github.com/lmahaman/LallaM","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-19T11:54:55Z","pushedAt":"2026-09-19T11:54:56Z","archived":false,"owner":{"login":"lmahaman","name":"Lalla Mahaman","type":"User","url":"https://github.com/lmahaman","location":"Mauritania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "a4a2fc67f0f128c2",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "6c954dcbd9acc2e2",
+"updatedAt": "2026-11-27T20:39:08.642Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-27T20:39:08.642Z"
 }

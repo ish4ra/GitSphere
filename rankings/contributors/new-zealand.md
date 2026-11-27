@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/contributors/NZ.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/NZ.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,24 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/olitreadwell"><img src="https://avatars.githubusercontent.com/u/3107864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olitreadwell"><b>Oli Treadwell (he/him)</b></a><br><sub>&#64;olitreadwell · 121 followers</sub></td>
+<td align="right"><b>5,254</b></td>
+<td align="right">3,750</td>
+<td align="right">992</td>
+<td align="right">8</td>
+<td align="right">482</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/eileenmcnaughton"><img src="https://avatars.githubusercontent.com/u/336308?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eileenmcnaughton"><b>Eileen McNaughton</b></a><br><sub>&#64;eileenmcnaughton · 116 followers</sub></td>
+<td align="right"><b>3,870</b></td>
+<td align="right">2,867</td>
+<td align="right">941</td>
+<td align="right">53</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/ndbroadbent"><img src="https://avatars.githubusercontent.com/u/139536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndbroadbent"><b>Nathan Broadbent</b></a><br><sub>&#64;ndbroadbent · 361 followers</sub></td>
 <td align="right"><b>3,719</b></td>
 <td align="right">3,350</td>
@@ -69,7 +87,7 @@
 <td align="right">98</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/ioquatix"><img src="https://avatars.githubusercontent.com/u/30030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ioquatix"><b>Samuel Williams</b></a><br><sub>&#64;ioquatix · 1,428 followers</sub></td>
 <td align="right"><b>3,570</b></td>
 <td align="right">2,396</td>
@@ -78,7 +96,7 @@
 <td align="right">80</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/gardner"><img src="https://avatars.githubusercontent.com/u/787026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gardner"><b>Gardner Bickford</b></a><br><sub>&#64;gardner · 130 followers</sub></td>
 <td align="right"><b>2,377</b></td>
 <td align="right">1,929</td>
@@ -87,7 +105,7 @@
 <td align="right">152</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/AmirulAndalib"><img src="https://avatars.githubusercontent.com/u/86344856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmirulAndalib"><b>M Amirul</b></a><br><sub>&#64;AmirulAndalib · 471 followers</sub></td>
 <td align="right"><b>1,877</b></td>
 <td align="right">1,719</td>
@@ -96,7 +114,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/RichardLitt"><img src="https://avatars.githubusercontent.com/u/910753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RichardLitt"><b>Richard Littauer</b></a><br><sub>&#64;RichardLitt · 3,502 followers</sub></td>
 <td align="right"><b>1,825</b></td>
 <td align="right">1,277</td>
@@ -105,7 +123,7 @@
 <td align="right">162</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><a href="https://github.com/schell"><img src="https://avatars.githubusercontent.com/u/24942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/schell"><b>Schell Carl Scivally</b></a><br><sub>&#64;schell · 269 followers</sub></td>
 <td align="right"><b>1,351</b></td>
 <td align="right">873</td>
@@ -114,7 +132,7 @@
 <td align="right">143</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
 <td><a href="https://github.com/lukemurraynz"><img src="https://avatars.githubusercontent.com/u/24467442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukemurraynz"><b>Luke Murray</b></a><br><sub>&#64;lukemurraynz · 500 followers</sub></td>
 <td align="right"><b>1,065</b></td>
 <td align="right">913</td>
@@ -123,7 +141,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/ahdinosaur"><img src="https://avatars.githubusercontent.com/u/719605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahdinosaur"><b>Mikey</b></a><br><sub>&#64;ahdinosaur · 664 followers</sub></td>
 <td align="right"><b>699</b></td>
 <td align="right">559</td>
@@ -132,7 +150,7 @@
 <td align="right">50</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
 <td><a href="https://github.com/parndt"><img src="https://avatars.githubusercontent.com/u/10128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/parndt"><b>Philip Arndt</b></a><br><sub>&#64;parndt · 455 followers</sub></td>
 <td align="right"><b>272</b></td>
 <td align="right">118</td>
@@ -141,7 +159,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/rjocoleman"><img src="https://avatars.githubusercontent.com/u/154176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rjocoleman"><b>Robert Coleman</b></a><br><sub>&#64;rjocoleman · 149 followers</sub></td>
 <td align="right"><b>245</b></td>
 <td align="right">216</td>
@@ -150,7 +168,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/ivanvanderbyl"><img src="https://avatars.githubusercontent.com/u/24278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivanvanderbyl"><b>Ivan Vanderbyl</b></a><br><sub>&#64;ivanvanderbyl · 179 followers</sub></td>
 <td align="right"><b>243</b></td>
 <td align="right">190</td>
@@ -159,7 +177,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/danielcompton"><img src="https://avatars.githubusercontent.com/u/811954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielcompton"><b>Daniel Compton</b></a><br><sub>&#64;danielcompton · 343 followers</sub></td>
 <td align="right"><b>217</b></td>
 <td align="right">138</td>
@@ -168,7 +186,7 @@
 <td align="right">26</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
 <td><a href="https://github.com/ryankurte"><img src="https://avatars.githubusercontent.com/u/860620?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ryankurte"><b>ryan</b></a><br><sub>&#64;ryankurte · 285 followers</sub></td>
 <td align="right"><b>207</b></td>
 <td align="right">155</td>
@@ -177,7 +195,7 @@
 <td align="right">22</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
 <td><a href="https://github.com/artisdom"><img src="https://avatars.githubusercontent.com/u/100931?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/artisdom"><b>Ted Feng</b></a><br><sub>&#64;artisdom · 161 followers</sub></td>
 <td align="right"><b>207</b></td>
 <td align="right">110</td>
@@ -186,7 +204,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">21</td>
 <td><a href="https://github.com/CyberFlameGO"><img src="https://avatars.githubusercontent.com/u/24910512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CyberFlameGO"><b>CyberFlame</b></a><br><sub>&#64;CyberFlameGO · 221 followers</sub></td>
 <td align="right"><b>155</b></td>
 <td align="right">52</td>
@@ -195,13 +213,31 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">22</td>
 <td><a href="https://github.com/Richienb"><img src="https://avatars.githubusercontent.com/u/29491356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Richienb"><b>Richie Bendall</b></a><br><sub>&#64;Richienb · 431 followers</sub></td>
 <td align="right"><b>141</b></td>
 <td align="right">38</td>
 <td align="right">15</td>
 <td align="right">8</td>
 <td align="right">50</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/andrewchambers"><img src="https://avatars.githubusercontent.com/u/962885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrewchambers"><b>andrewchambers</b></a><br><sub>&#64;andrewchambers · 353 followers</sub></td>
+<td align="right"><b>137</b></td>
+<td align="right">121</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/Kevnz"><img src="https://avatars.githubusercontent.com/u/62547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kevnz"><b>Kevin Isom</b></a><br><sub>&#64;Kevnz · 118 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">10</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -210,7 +246,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 729 discovered developers (706 awaiting measurement).
+- **Measured:** 27 of 751 discovered developers (724 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 123 in round 1.

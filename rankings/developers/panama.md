@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/muniter"><img src="https://avatars.githubusercontent.com/u/9699804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muniter"><b>Javier Lopez</b></a><br><sub>&#64;muniter</sub></td>
-<td align="right"><b>62</b></td>
+<td align="right"><b>61</b></td>
 <td align="right">69</td>
 <td><sub>Panama, Panama City</sub></td>
 </tr>

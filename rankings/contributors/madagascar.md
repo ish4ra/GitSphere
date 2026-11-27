@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/MG.json">JSON</a> |
+| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/contributors/MG.json">JSON</a> |
 
 </div>
 
@@ -160,6 +160,15 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/MarcHerilala"><img src="https://avatars.githubusercontent.com/u/127602616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcHerilala"><b>Marc RAZANAJATOVO</b></a><br><sub>&#64;MarcHerilala · 101 followers</sub></td>
+<td align="right"><b>29</b></td>
+<td align="right">25</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/mattnix4"><img src="https://avatars.githubusercontent.com/u/60849130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattnix4"><b>Nix Ra</b></a><br><sub>&#64;mattnix4 · 416 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">14</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/jnandritsilavo"><img src="https://avatars.githubusercontent.com/u/19282121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jnandritsilavo"><b>Jean Narivelo</b></a><br><sub>&#64;jnandritsilavo · 3 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">13</td>
@@ -177,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/julkwel"><img src="https://avatars.githubusercontent.com/u/30557565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/julkwel"><b>Julien Rajerison</b></a><br><sub>&#64;julkwel · 341 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">15</td>
@@ -186,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/r-annicet"><img src="https://avatars.githubusercontent.com/u/47118464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r-annicet"><b>Annicet</b></a><br><sub>&#64;r-annicet · 3 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">10</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/TANTELY00"><img src="https://avatars.githubusercontent.com/u/172104486?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TANTELY00"><b>Tantelinirina RAVOSON</b></a><br><sub>&#64;TANTELY00 · 3 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">9</td>
@@ -204,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/judicaelandria"><img src="https://avatars.githubusercontent.com/u/46365844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/judicaelandria"><b>Judicael</b></a><br><sub>&#64;judicaelandria · 78 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">7</td>
@@ -213,7 +222,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
+<td><a href="https://github.com/Tombosoa"><img src="https://avatars.githubusercontent.com/u/127602403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tombosoa"><b>Nantenaina Ramanatombosoa</b></a><br><sub>&#64;Tombosoa · 129 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">24</td>
 <td><a href="https://github.com/s4r14k"><img src="https://avatars.githubusercontent.com/u/30065347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/s4r14k"><b>s4r14k</b></a><br><sub>&#64;s4r14k · 4 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -222,7 +240,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">25</td>
 <td><a href="https://github.com/marion586"><img src="https://avatars.githubusercontent.com/u/54215467?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marion586"><b>marion</b></a><br><sub>&#64;marion586 · 4 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -237,7 +255,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 24 of 401 discovered developers (377 awaiting measurement).
+- **Measured:** 28 of 401 discovered developers (373 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 174 in round 1.
