@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><a href="https://github.com/JonCooperWorks"><img src="https://avatars.githubusercontent.com/u/2176510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JonCooperWorks"><b>JonCooperWorks</b></a><br><sub>&#64;JonCooperWorks</sub></td>
-<td align="right"><b>102</b></td>
+<td align="right"><b>101</b></td>
 <td align="right">74</td>
 <td><sub>Jamaica</sub></td>
 </tr>

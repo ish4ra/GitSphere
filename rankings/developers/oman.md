@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><a href="https://github.com/AMEERKOTTA"><img src="https://avatars.githubusercontent.com/u/53536783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AMEERKOTTA"><b>AMEER KOTTA</b></a><br><sub>&#64;AMEERKOTTA</sub></td>
-<td align="right"><b>150</b></td>
+<td align="right"><b>149</b></td>
 <td align="right">48</td>
 <td><sub>Muscat, Oman</sub></td>
 </tr>
@@ -185,8 +185,8 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/HosseinShabani"><img src="https://avatars.githubusercontent.com/u/30228861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HosseinShabani"><b>Hossein Shabani</b></a><br><sub>&#64;HosseinShabani</sub></td>
-<td align="right"><b>109</b></td>
-<td align="right">0</td>
+<td align="right"><b>108</b></td>
+<td align="right">14</td>
 <td><sub>Oman</sub></td>
 </tr>
 <tr>

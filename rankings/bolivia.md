@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 25 Nov 2026 | <a href="../data/BO.json">JSON</a> |
+| 🟡 Provisional | **9** | 25 Nov 2026 | <a href="../data/BO.json">JSON</a> |
 
 </div>
 
@@ -77,6 +77,13 @@
 <td align="right">33</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/carlitux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carlitux/deoplete-ternjs"><b>carlitux/deoplete-ternjs</b></a><br><sub>deoplete.nvim source for javascript</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">24</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -85,8 +92,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 424 stars; 8 attributed candidates are tracked.
-- 120 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 272 stars; 9 attributed candidates are tracked.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

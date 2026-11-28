@@ -5,7 +5,7 @@
 "country": {"code":"LS","name":"Lesotho","slug":"lesotho"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":51,"ownerExpansionBacklog":146,"candidates":52,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":47,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":51,"ownerExpansionBacklog":145,"candidates":52,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":47,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzMjkzOTA5NjY=","name":"bat","nameWithOwner":"tshakalekholoane/bat","url":"https://github.com/tshakalekholoane/bat","description":"Battery management utility for Linux laptops.","stars":378,"forks":28,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2021-01-13T18:02:46Z","pushedAt":"2026-09-14T03:15:27Z","archived":false,"owner":{"login":"tshakalekholoane","name":"Tshaka Lekholoane","type":"User","url":"https://github.com/tshakalekholoane","location":"Maseru, Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":null,"name":"CS4433QR","nameWithOwner":"TsepoPUT/CS4433QR","url":"https://github.com/TsepoPUT/CS4433QR","description":null,"stars":0,"forks":2,"primaryLanguage":"Java","license":null,"createdAt":"2023-12-19T06:21:02Z","pushedAt":"2023-12-19T16:44:52Z","archived":false,"owner":{"login":"TsepoPUT","name":"Tsepo Putsoane","type":"User","url":"https://github.com/TsepoPUT","location":"Maseru, Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -60,8 +60,8 @@
   {"rank":51,"id":null,"name":"capital-link-website","nameWithOwner":"DjKingMan/capital-link-website","url":"https://github.com/DjKingMan/capital-link-website","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-03-18T10:53:40Z","pushedAt":"2026-03-18T10:58:09Z","archived":false,"owner":{"login":"DjKingMan","name":"DjKingman","type":"User","url":"https://github.com/DjKingMan","location":"Maseru, Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":52,"id":null,"name":"Docleke","nameWithOwner":"docleke/Docleke","url":"https://github.com/docleke/Docleke","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-08-13T13:28:55Z","pushedAt":"2026-08-13T13:28:55Z","archived":false,"owner":{"login":"docleke","name":"Adekunle Adeleke","type":"User","url":"https://github.com/docleke","location":"Maseru","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "efefbda6e5f199b1",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "d4fee8c66238a449",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

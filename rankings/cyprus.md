@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -282,7 +282,7 @@
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/blitzarx1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blitzarx1/egui_graphs"><b>blitzarx1/egui&#95;graphs</b></a><br><sub>Interactive graph visualization widget for rust powered by egui and petgraph</sub></td>
+<td><img src="https://github.com/blitzarx1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blitzarx1/egui_graphs"><b>blitzarx1/egui&#95;graphs</b></a> <sub>archived</sub><br><sub>Interactive graph visualization widget for rust powered by egui and petgraph</sub></td>
 <td align="right"><b>716</b></td>
 <td align="right">76</td>
 <td>Rust</td>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 327 stars; 113 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 327 stars; 121 attributed candidates are tracked.
 - 84 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

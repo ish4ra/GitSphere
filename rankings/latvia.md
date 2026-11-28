@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **82** | 24 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟡 Provisional | **91** | 25 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -270,13 +270,13 @@
 <td align="right">36</td>
 <td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/concept"><b>puikinsh/concept</b></a><br><sub>Free Bootstrap 5 admin dashboard template with Vite build process</sub></td>
 <td align="right"><b>731</b></td>
-<td align="right">377</td>
+<td align="right">378</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/containerum.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/containerum/containerum"><b>containerum/containerum</b></a><br><sub>Web UI for Kubernetes with teamwork and CI/CD support</sub></td>
-<td align="right"><b>719</b></td>
+<td align="right"><b>718</b></td>
 <td align="right">51</td>
 <td>Smarty</td>
 </tr>
@@ -290,7 +290,7 @@
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/evanca.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evanca/flutter-ai-rules"><b>evanca/flutter-ai-rules</b></a><br><sub>Flutter AI Skills and Rules for Claude, Codex, Cursor, and Other AI-Powered IDEs</sub></td>
-<td align="right"><b>675</b></td>
+<td align="right"><b>676</b></td>
 <td align="right">67</td>
 <td>Shell</td>
 </tr>
@@ -595,6 +595,69 @@
 <td align="right">47</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/DeveloperMaris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DeveloperMaris/ToolReleases"><b>DeveloperMaris/ToolReleases</b></a><br><sub>macOS application, which reads the public RSS feed from Apple and shows the latest Apple tool releases in a formatted l…</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">6</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/DocSpace"><b>ONLYOFFICE/DocSpace</b></a><br><sub>ONLYOFFICE Apps are modular building blocks that extend ONLYOFFICE Docs: AI agents, Forms, Rooms, and Files. Apps and e…</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">123</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/Marcisbee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Marcisbee/exome"><b>Marcisbee/exome</b></a><br><sub>🔅 State manager for deeply nested states</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">11</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/Anrijs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Anrijs/Aranet4-Python"><b>Anrijs/Aranet4-Python</b></a><br><sub>Aranet4, Aranet2 and Aranet Radiation Python client</sub></td>
+<td align="right"><b>281</b></td>
+<td align="right">35</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/kasparsd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kasparsd/minit"><b>kasparsd/minit</b></a><br><sub>A WordPress plugin to combine CSS and Javascript files.</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">42</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/agrism.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/agrism/books"><b>agrism/books</b></a><br><sub>must read</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">69</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/ChiliLabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChiliLabs/CHIOTPField"><b>ChiliLabs/CHIOTPField</b></a><br><sub>CHIOTPField is a set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc. Mady by &#64;ChiliLa…</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">19</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/server"><b>ONLYOFFICE/server</b></a><br><sub>The backend server software layer which is the part of ONLYOFFICE Document Server and is the base for all other compone…</sub></td>
+<td align="right"><b>278</b></td>
+<td align="right">372</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/watch-devtube.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/watch-devtube/contrib"><b>watch-devtube/contrib</b></a> <sub>archived</sub><br><sub>Data for dev.tube – 🍿 a free and open-source tech video hub.</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">190</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -603,8 +666,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 294 stars; 82 attributed candidates are tracked.
-- 91 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 273 stars; 91 attributed candidates are tracked.
+- 90 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

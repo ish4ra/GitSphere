@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/GQ.json">JSON</a> |
+| 🟡 Provisional | **26** | 22 Nov 2026 | <a href="../../data/contributors/GQ.json">JSON</a> |
 
 </div>
 
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/Nico-es"><img src="https://avatars.githubusercontent.com/u/210747947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nico-es"><b>Mama Grande Technologies S.L</b></a><br><sub>&#64;Nico-es · 0 followers</sub></td>
+<td align="right"><b>36</b></td>
+<td align="right">35</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/Adrian-sami"><img src="https://avatars.githubusercontent.com/u/220576636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adrian-sami"><b>Adrian Fernando</b></a><br><sub>&#64;Adrian-sami · 0 followers</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">30</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/esomoyogabowno2018"><img src="https://avatars.githubusercontent.com/u/189357380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/esomoyogabowno2018"><b>Gabino Owono</b></a><br><sub>&#64;esomoyogabowno2018 · 0 followers</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">29</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Owono2001"><img src="https://avatars.githubusercontent.com/u/94006907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Owono2001"><b>Pedro Fabian Owono</b></a><br><sub>&#64;Owono2001 · 30 followers</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">21</td>
@@ -123,7 +132,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/Jeremias-Cyborg"><img src="https://avatars.githubusercontent.com/u/159452139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jeremias-Cyborg"><b>Jeremias Obiang</b></a><br><sub>&#64;Jeremias-Cyborg · 0 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">13</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/danielengonga"><img src="https://avatars.githubusercontent.com/u/148784709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielengonga"><b>Daniel</b></a><br><sub>&#64;danielengonga · 0 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">12</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/FENA10"><img src="https://avatars.githubusercontent.com/u/79813767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FENA10"><b>FENA10</b></a><br><sub>&#64;FENA10 · 0 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">8</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/mbueule97"><img src="https://avatars.githubusercontent.com/u/148970610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbueule97"><b>Miguel A. NAT</b></a><br><sub>&#64;mbueule97 · 0 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">4</td>
@@ -159,7 +168,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/winny05"><img src="https://avatars.githubusercontent.com/u/206441160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/winny05"><b>Ignacia Bibiana Angono ONDO BENGOBESAMAN</b></a><br><sub>&#64;winny05 · 0 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">8</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/anicetondong"><img src="https://avatars.githubusercontent.com/u/213324910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anicetondong"><b>Aniceto Ndong NKOGO NNEGUE</b></a><br><sub>&#64;anicetondong · 0 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">7</td>
@@ -177,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/sersobrenatural"><img src="https://avatars.githubusercontent.com/u/39493303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sersobrenatural"><b>Santiago Gabriel Micha Ndong Obiang</b></a><br><sub>&#64;sersobrenatural · 1 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -186,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/belsa"><img src="https://avatars.githubusercontent.com/u/30261590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/belsa"><b>Dorac</b></a><br><sub>&#64;belsa · 0 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/seamuddin"><img src="https://avatars.githubusercontent.com/u/38663656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seamuddin"><b>Seam uddin</b></a><br><sub>&#64;seamuddin · 14 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -204,7 +213,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
+<td><a href="https://github.com/ngomo2037"><img src="https://avatars.githubusercontent.com/u/172001700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ngomo2037"><b>Nestor Ngomo Ngomo Nchama</b></a><br><sub>&#64;ngomo2037 · 0 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><a href="https://github.com/jose19889"><img src="https://avatars.githubusercontent.com/u/41426395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jose19889"><b>Jose Martin Mbomio Edu</b></a><br><sub>&#64;jose19889 · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -213,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">24</td>
 <td><a href="https://github.com/melitonio"><img src="https://avatars.githubusercontent.com/u/48398900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melitonio"><b>Meliton Pablo Mangue Mañana</b></a><br><sub>&#64;melitonio · 1 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -222,7 +240,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">25</td>
 <td><a href="https://github.com/dataegconsulting"><img src="https://avatars.githubusercontent.com/u/68244681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dataegconsulting"><b>DATA EG CONSULTING</b></a><br><sub>&#64;dataegconsulting · 0 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -231,7 +249,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">26</td>
 <td><a href="https://github.com/clinton341"><img src="https://avatars.githubusercontent.com/u/46147913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/clinton341"><b>Clinton Ezeronye</b></a><br><sub>&#64;clinton341 · 1 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -246,7 +264,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 35 of 87 discovered developers (52 awaiting measurement).
+- **Measured:** 40 of 87 discovered developers (47 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 8 of 47 in round 1.

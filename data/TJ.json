@@ -5,12 +5,12 @@
 "country": {"code":"TJ","name":"Tajikistan","slug":"tajikistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":342,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":123,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":97,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":342,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":117,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":97,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOH-IAzQ","name":"VolleyVision","nameWithOwner":"shukkkur/VolleyVision","url":"https://github.com/shukkkur/VolleyVision","description":"Applying Deep Learning Approaches to Volleyball Data","stars":342,"forks":59,"primaryLanguage":"Python","license":{"spdxId":"AGPL-3.0"},"createdAt":"2022-09-10T05:47:56Z","pushedAt":"2025-06-20T04:17:07Z","archived":false,"owner":{"login":"shukkkur","name":"Shakhansho Shukur Sabzaliev","type":"User","url":"https://github.com/shukkkur","location":"Khorog, Gorno-Badakhshan","attribution":{"confidence":"high","evidence":"place-with-subdivision"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "3fdae340e9dfa7ab",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "2a6b31668779aa87",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-27",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

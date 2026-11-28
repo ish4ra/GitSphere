@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/contributors/MM.json">JSON</a> |
+| 🟡 Provisional | **29** | 22 Nov 2026 | <a href="../../data/contributors/MM.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/h2kyaw"><img src="https://avatars.githubusercontent.com/u/4678120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/h2kyaw"><b>Hein Htet Kyaw</b></a><br><sub>&#64;h2kyaw · 3 followers</sub></td>
+<td align="right"><b>829</b></td>
+<td align="right">774</td>
+<td align="right">23</td>
+<td align="right">2</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/why-a-en"><img src="https://avatars.githubusercontent.com/u/110251622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/why-a-en"><b>Yan Min Thwin</b></a><br><sub>&#64;why-a-en · 38 followers</sub></td>
 <td align="right"><b>813</b></td>
 <td align="right">730</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/ROM-robotics"><img src="https://avatars.githubusercontent.com/u/26279204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ROM-robotics"><b>ROM Robotics</b></a><br><sub>&#64;ROM-robotics · 154 followers</sub></td>
 <td align="right"><b>568</b></td>
 <td align="right">484</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/minlwin"><img src="https://avatars.githubusercontent.com/u/1300121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/minlwin"><b>Min Lwin</b></a><br><sub>&#64;minlwin · 1,208 followers</sub></td>
 <td align="right"><b>365</b></td>
 <td align="right">360</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/theaungmyatmoe"><img src="https://avatars.githubusercontent.com/u/65492233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/theaungmyatmoe"><b>Aung Myat Moe</b></a><br><sub>&#64;theaungmyatmoe · 235 followers</sub></td>
 <td align="right"><b>343</b></td>
 <td align="right">332</td>
@@ -96,7 +105,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/arkarmin-gg"><img src="https://avatars.githubusercontent.com/u/134714087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arkarmin-gg"><b>Arkar Min</b></a><br><sub>&#64;arkarmin-gg · 302 followers</sub></td>
 <td align="right"><b>292</b></td>
 <td align="right">256</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/wintun-devop"><img src="https://avatars.githubusercontent.com/u/71956577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wintun-devop"><b>Win Tun Hlaing</b></a><br><sub>&#64;wintun-devop · 111 followers</sub></td>
 <td align="right"><b>276</b></td>
 <td align="right">242</td>
@@ -114,7 +123,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
+<td><a href="https://github.com/kirankarki"><img src="https://avatars.githubusercontent.com/u/5351916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kirankarki"><b>Aung Kyaw Phyo</b></a><br><sub>&#64;kirankarki · 109 followers</sub></td>
+<td align="right"><b>247</b></td>
+<td align="right">188</td>
+<td align="right">49</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/Hein-HtetSan"><img src="https://avatars.githubusercontent.com/u/99192842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hein-HtetSan"><b>dev&#64;hnhts</b></a><br><sub>&#64;Hein-HtetSan · 204 followers</sub></td>
 <td align="right"><b>126</b></td>
 <td align="right">103</td>
@@ -123,7 +141,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/KhunHtetzNaing"><img src="https://avatars.githubusercontent.com/u/12862097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhunHtetzNaing"><b>Khun Htetz Naing</b></a><br><sub>&#64;KhunHtetzNaing · 417 followers</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">108</td>
@@ -132,7 +150,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
+<td><a href="https://github.com/IndieCoderMM"><img src="https://avatars.githubusercontent.com/u/72640048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IndieCoderMM"><b>Hein Thant</b></a><br><sub>&#64;IndieCoderMM · 111 followers</sub></td>
+<td align="right"><b>75</b></td>
+<td align="right">68</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/etherio97"><img src="https://avatars.githubusercontent.com/u/50423290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/etherio97"><b>Etherio</b></a><br><sub>&#64;etherio97 · 16 followers</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">13</td>
@@ -141,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">17</td>
 <td><a href="https://github.com/sanlinhtik3"><img src="https://avatars.githubusercontent.com/u/73860592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sanlinhtik3"><b>San Lin Htike</b></a><br><sub>&#64;sanlinhtik3 · 299 followers</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">41</td>
@@ -150,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">18</td>
 <td><a href="https://github.com/ko-htut"><img src="https://avatars.githubusercontent.com/u/27004428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ko-htut"><b>Ko Htut</b></a><br><sub>&#64;ko-htut · 172 followers</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">26</td>
@@ -159,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">19</td>
 <td><a href="https://github.com/win-than-htike"><img src="https://avatars.githubusercontent.com/u/13495028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/win-than-htike"><b>Win Than Htike</b></a><br><sub>&#64;win-than-htike · 70 followers</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">19</td>
@@ -168,7 +195,16 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
+<td><a href="https://github.com/htunlinnkyaw"><img src="https://avatars.githubusercontent.com/u/70058388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/htunlinnkyaw"><b>htunlinnkyaw</b></a><br><sub>&#64;htunlinnkyaw · 4 followers</sub></td>
+<td align="right"><b>29</b></td>
+<td align="right">21</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">21</td>
 <td><a href="https://github.com/r1skkam"><img src="https://avatars.githubusercontent.com/u/58542375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r1skkam"><b>Kam Khan Sang</b></a><br><sub>&#64;r1skkam · 56 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">24</td>
@@ -177,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">22</td>
 <td><a href="https://github.com/HlaingMinThan"><img src="https://avatars.githubusercontent.com/u/65280043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HlaingMinThan"><b>Hlaing Min Than(Faizal)</b></a><br><sub>&#64;HlaingMinThan · 694 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">5</td>
@@ -186,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">23</td>
 <td><a href="https://github.com/TwizzyIndy"><img src="https://avatars.githubusercontent.com/u/6712795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TwizzyIndy"><b>Aung Khant Myo</b></a><br><sub>&#64;TwizzyIndy · 128 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">12</td>
@@ -195,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">24</td>
 <td><a href="https://github.com/MinSiThu"><img src="https://avatars.githubusercontent.com/u/27894558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MinSiThu"><b>Min Si Thu</b></a><br><sub>&#64;MinSiThu · 213 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">18</td>
@@ -204,7 +240,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">25</td>
 <td><a href="https://github.com/nainglinaung"><img src="https://avatars.githubusercontent.com/u/914416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nainglinaung"><b>Naing Lin Aung</b></a><br><sub>&#64;nainglinaung · 120 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">16</td>
@@ -213,7 +249,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">26</td>
 <td><a href="https://github.com/tharhtetsan"><img src="https://avatars.githubusercontent.com/u/25545264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tharhtetsan"><b>Thar Htet San</b></a><br><sub>&#64;tharhtetsan · 244 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">10</td>
@@ -222,7 +258,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">27</td>
 <td><a href="https://github.com/winhtut"><img src="https://avatars.githubusercontent.com/u/29735267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/winhtut"><b>WinHtut</b></a><br><sub>&#64;winhtut · 426 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -231,7 +267,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">28</td>
 <td><a href="https://github.com/BrillianceOsprey"><img src="https://avatars.githubusercontent.com/u/56672040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BrillianceOsprey"><b>Brilliance Osprey(MyatSoe)</b></a><br><sub>&#64;BrillianceOsprey · 119 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -240,7 +276,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">29</td>
 <td><a href="https://github.com/trhura"><img src="https://avatars.githubusercontent.com/u/420541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trhura"><b>Thura Hlaing</b></a><br><sub>&#64;trhura · 264 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -255,7 +291,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 28 of 274 discovered developers (246 awaiting measurement).
+- **Measured:** 33 of 279 discovered developers (246 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 161 in round 1.

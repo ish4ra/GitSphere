@@ -5,7 +5,7 @@
 "country": {"code":"TT","name":"Trinidad & Tobago","slug":"trinidad-tobago"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":304,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":114,"candidates":20,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":46,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":304,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":113,"candidates":20,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":46,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzMTUwNDQ5MQ==","name":"echo","nameWithOwner":"labstack/echo","url":"https://github.com/labstack/echo","description":"High performance, minimalist Go web framework","stars":32841,"forks":2889,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2015-03-01T17:43:01Z","pushedAt":"2026-11-20T18:13:45Z","archived":false,"owner":{"login":"labstack","name":"LabStack LLC","type":"Organization","url":"https://github.com/labstack","location":"SFO","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxNDE0ODI4NjY=","name":"my-arsenal-of-aws-security-tools","nameWithOwner":"toniblyx/my-arsenal-of-aws-security-tools","url":"https://github.com/toniblyx/my-arsenal-of-aws-security-tools","description":"List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.","stars":9541,"forks":1585,"primaryLanguage":"Shell","license":{"spdxId":"Apache-2.0"},"createdAt":"2018-07-18T19:48:36Z","pushedAt":"2026-10-02T20:21:00Z","archived":false,"owner":{"login":"toniblyx","name":"Toni de la Fuente","type":"User","url":"https://github.com/toniblyx","location":"GRX-SFO","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
@@ -28,8 +28,8 @@
   {"rank":19,"id":"R_kgDOGRCaIw","name":"efmls-configs-nvim","nameWithOwner":"creativenull/efmls-configs-nvim","url":"https://github.com/creativenull/efmls-configs-nvim","description":"An unofficial collection of linters and formatters configured for efm-langserver for neovim.","stars":318,"forks":51,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2021-10-23T20:40:42Z","pushedAt":"2026-09-01T02:30:08Z","archived":false,"owner":{"login":"creativenull","name":"Arnold Chand","type":"User","url":"https://github.com/creativenull","location":"Trinidad and Tobago","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
   {"rank":20,"id":"MDEwOlJlcG9zaXRvcnk4ODg5MDUzOQ==","name":"United-GNOME","nameWithOwner":"godlyranchdressing/United-GNOME","url":"https://github.com/godlyranchdressing/United-GNOME","description":"GTK2/3 + GNOME Shell theme based on a Ubuntu 18.04 design concept.","stars":304,"forks":15,"primaryLanguage":"CSS","license":{"spdxId":"GPL-3.0"},"createdAt":"2017-04-20T17:05:42Z","pushedAt":"2021-05-30T16:37:49Z","archived":true,"owner":{"login":"godlyranchdressing","name":"Aaron Papin","type":"User","url":"https://github.com/godlyranchdressing","location":"Trinidad & Tobago","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "307a499f86ae0adb",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "c9cfefb7cc5c8832",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

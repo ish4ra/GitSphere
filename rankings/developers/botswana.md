@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/Goitseone-Themba"><img src="https://avatars.githubusercontent.com/u/97857682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Goitseone-Themba"><b>ISOTOPE &#124; THEMBA</b></a><br><sub>&#64;Goitseone-Themba</sub></td>
-<td align="right"><b>103</b></td>
+<td align="right"><b>102</b></td>
 <td align="right">73</td>
 <td><sub>Botswana</sub></td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/SK.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
 </div>
 
@@ -268,17 +268,17 @@
 </tr>
 <tr>
 <td align="right">36</td>
+<td><img src="https://github.com/Kin69.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kin69/Athena"><b>Kin69/Athena</b></a><br><sub>Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devic…</sub></td>
+<td align="right"><b>753</b></td>
+<td align="right">45</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">37</td>
 <td><img src="https://github.com/RobinCsl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RobinCsl/awesome-js-tooling-not-in-js"><b>RobinCsl/awesome-js-tooling-not-in-js</b></a><br><sub>A curated list of JavaScript tooling not written in JavaScript</sub></td>
 <td align="right"><b>751</b></td>
 <td align="right">17</td>
 <td>—</td>
-</tr>
-<tr>
-<td align="right">37</td>
-<td><img src="https://github.com/Kin69.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kin69/Athena"><b>Kin69/Athena</b></a><br><sub>Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devic…</sub></td>
-<td align="right"><b>749</b></td>
-<td align="right">43</td>
-<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">38</td>
@@ -290,28 +290,28 @@
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/lalinsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lalinsky/zio"><b>lalinsky/zio</b></a><br><sub>Async I/O framework for Zig</sub></td>
-<td align="right"><b>708</b></td>
-<td align="right">53</td>
+<td align="right"><b>707</b></td>
+<td align="right">54</td>
 <td>Zig</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Dialer"><b>SimpleMobileTools/Simple-Dialer</b></a><br><sub>A handy phone call manager with phonebook, number blocking and multi-SIM support</sub></td>
-<td align="right"><b>702</b></td>
-<td align="right">275</td>
+<td align="right"><b>701</b></td>
+<td align="right">276</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-SMS-Messenger"><b>SimpleMobileTools/Simple-SMS-Messenger</b></a><br><sub>An easy and quick way of managing SMS and MMS messages without ads.</sub></td>
-<td align="right"><b>671</b></td>
-<td align="right">228</td>
+<td align="right"><b>672</b></td>
+<td align="right">229</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/henrichg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/henrichg/PhoneProfilesPlus"><b>henrichg/PhoneProfilesPlus</b></a><br><sub>Profile manager for Android - event triggered</sub></td>
-<td align="right"><b>668</b></td>
+<td align="right"><b>669</b></td>
 <td align="right">36</td>
 <td>Java</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 348 stars; 116 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 348 stars; 120 attributed candidates are tracked.
 - 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

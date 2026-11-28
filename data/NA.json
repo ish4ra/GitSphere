@@ -5,12 +5,12 @@
 "country": {"code":"NA","name":"Namibia","slug":"namibia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":2096,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":133,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":91,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2096,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":91,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk1NTczMzgyNg==","name":"ebook","nameWithOwner":"dolotech/ebook","url":"https://github.com/dolotech/ebook","description":"学习资料","stars":2096,"forks":743,"primaryLanguage":"Vim Script","license":null,"createdAt":"2016-04-07T23:03:04Z","pushedAt":"2021-12-02T03:11:16Z","archived":false,"owner":{"login":"dolotech","name":"photo","type":"User","url":"https://github.com/dolotech","location":"photo","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "ac7239df21f66bb5",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "390efe4615d7fa05",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-26",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

@@ -1,9 +1,10 @@
 {
 "schemaVersion": 3,
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
-"count": 2,
+"count": 3,
 "repositories": [
   {"id":"MDEwOlJlcG9zaXRvcnkxOTkzMzc0Njg=","name":"skmail/responsive-viewer","stars":848,"forks":94,"language":"TypeScript","license":"MIT","description":"Responsive Viewer - chrome extension to show multiple screens in one view.","archived":false,"createdAt":"2019-07-28T21:09:40Z","pushedAt":"2025-10-12T08:46:47Z","owner":{"id":"MDQ6VXNlcjM2NzA4MTA=","login":"skmail","type":"User","location":"Palestine"},"attribution":{"code":"PS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-27T11:21:20.491Z","verifiedAt":"2026-11-27T11:21:20.491Z","cycle":1,"revalidatedAt":"2026-11-27T11:21:20.491Z"},
-  {"id":"MDEwOlJlcG9zaXRvcnkyODk1NTYyMjY=","name":"shadeed/headers-css","stars":518,"forks":80,"language":"HTML","description":"The blueprint HTML and CSS for 17+ website headers","archived":false,"createdAt":"2020-08-22T19:47:35Z","pushedAt":"2020-11-01T10:01:01Z","owner":{"id":"MDQ6VXNlcjgwMzg2NTk=","login":"shadeed","type":"User","name":"Ahmad Shadeed","location":"Tulkarm, Palestine"},"attribution":{"code":"PS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-25T14:35:40.812Z","verifiedAt":"2026-11-25T14:35:40.812Z","cycle":1}
+  {"id":"MDEwOlJlcG9zaXRvcnkyODk1NTYyMjY=","name":"shadeed/headers-css","stars":518,"forks":80,"language":"HTML","description":"The blueprint HTML and CSS for 17+ website headers","archived":false,"createdAt":"2020-08-22T19:47:35Z","pushedAt":"2020-11-01T10:01:01Z","owner":{"id":"MDQ6VXNlcjgwMzg2NTk=","login":"shadeed","type":"User","name":"Ahmad Shadeed","location":"Tulkarm, Palestine"},"attribution":{"code":"PS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-25T14:35:40.812Z","verifiedAt":"2026-11-25T14:35:40.812Z","cycle":1},
+  {"id":"MDEwOlJlcG9zaXRvcnkxNDU4MzQ3NDU=","name":"AbedAlqaderSwedan1/ASWCrypter","stars":290,"forks":84,"language":"Shell","description":"An Bash&Python Script For Generating Payloads that Bypasses All Antivirus so far [FUD]","archived":false,"createdAt":"2018-08-23T09:55:13Z","pushedAt":"2018-09-09T10:40:57Z","owner":{"id":"MDQ6VXNlcjM2NjY2NDI4","login":"AbedAlqaderSwedan1","type":"User","name":"AbedAlqader Swedan","location":"palestine"},"attribution":{"code":"PS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-28T02:41:53.180Z","verifiedAt":"2026-11-28T02:41:53.180Z","cycle":1}
 ]
 }

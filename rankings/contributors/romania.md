@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **26** | 22 Nov 2026 | <a href="../../data/contributors/RO.json">JSON</a> |
+| 🟡 Provisional | **30** | 22 Nov 2026 | <a href="../../data/contributors/RO.json">JSON</a> |
 
 </div>
 
@@ -196,6 +196,24 @@
 </tr>
 <tr>
 <td align="right">20</td>
+<td><a href="https://github.com/andreiverse"><img src="https://avatars.githubusercontent.com/u/35298550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreiverse"><b>Andrei Sonea</b></a><br><sub>&#64;andreiverse · 241 followers</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">234</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/alexnm"><img src="https://avatars.githubusercontent.com/u/9945366?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexnm"><b>Alex Moldovan</b></a><br><sub>&#64;alexnm · 237 followers</sub></td>
+<td align="right"><b>249</b></td>
+<td align="right">219</td>
+<td align="right">7</td>
+<td align="right">21</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">22</td>
 <td><a href="https://github.com/mgax"><img src="https://avatars.githubusercontent.com/u/27617?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgax"><b>Alex Morega</b></a><br><sub>&#64;mgax · 237 followers</sub></td>
 <td align="right"><b>187</b></td>
 <td align="right">140</td>
@@ -204,7 +222,16 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">23</td>
+<td><a href="https://github.com/andreialecu"><img src="https://avatars.githubusercontent.com/u/697707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreialecu"><b>Andrei Alecu</b></a><br><sub>&#64;andreialecu · 114 followers</sub></td>
+<td align="right"><b>180</b></td>
+<td align="right">113</td>
+<td align="right">29</td>
+<td align="right">0</td>
+<td align="right">23</td>
+</tr>
+<tr>
+<td align="right">24</td>
 <td><a href="https://github.com/revolter"><img src="https://avatars.githubusercontent.com/u/5748627?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/revolter"><b>Iulian Onofrei</b></a><br><sub>&#64;revolter · 159 followers</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">103</td>
@@ -213,7 +240,7 @@
 <td align="right">20</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">25</td>
 <td><a href="https://github.com/ionelmc"><img src="https://avatars.githubusercontent.com/u/129501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ionelmc"><b>Ionel Cristian Mărieș</b></a><br><sub>&#64;ionelmc · 515 followers</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">90</td>
@@ -222,7 +249,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">26</td>
 <td><a href="https://github.com/ubogdan"><img src="https://avatars.githubusercontent.com/u/4992696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ubogdan"><b>Bogdan Ungureanu</b></a><br><sub>&#64;ubogdan · 122 followers</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">19</td>
@@ -231,7 +258,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">27</td>
 <td><a href="https://github.com/alessioalex"><img src="https://avatars.githubusercontent.com/u/332898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alessioalex"><b>Alexandru Vlăduţu</b></a><br><sub>&#64;alessioalex · 252 followers</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">13</td>
@@ -240,7 +267,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">28</td>
 <td><a href="https://github.com/dapetcu21"><img src="https://avatars.githubusercontent.com/u/428060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dapetcu21"><b>Marius Petcu</b></a><br><sub>&#64;dapetcu21 · 117 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">12</td>
@@ -249,7 +276,16 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">29</td>
+<td><a href="https://github.com/andreinitescu"><img src="https://avatars.githubusercontent.com/u/743918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreinitescu"><b>Andrei Nitescu</b></a><br><sub>&#64;andreinitescu · 110 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">30</td>
 <td><a href="https://github.com/Therzok"><img src="https://avatars.githubusercontent.com/u/109974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Therzok"><b>Marius Ungureanu</b></a><br><sub>&#64;Therzok · 190 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -264,7 +300,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 27 of 629 discovered developers (602 awaiting measurement).
+- **Measured:** 31 of 645 discovered developers (614 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 154 in round 1.

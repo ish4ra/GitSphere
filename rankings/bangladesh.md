@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/BD.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/BD.json">JSON</a> |
 
 </div>
 
@@ -500,7 +500,7 @@
 <tr>
 <td align="right">69</td>
 <td><img src="https://github.com/palahsu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/palahsu/MBomb"><b>palahsu/MBomb</b></a><br><sub>MBomb(Gmail To Gmail) Mail Bombing! Send Unlimited Bombing!</sub></td>
-<td align="right"><b>742</b></td>
+<td align="right"><b>745</b></td>
 <td align="right">69</td>
 <td>Python</td>
 </tr>
@@ -514,8 +514,8 @@
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/sohelamin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sohelamin/laravel-admin"><b>sohelamin/laravel-admin</b></a><br><sub>Laravel Admin Panel</sub></td>
-<td align="right"><b>730</b></td>
-<td align="right">267</td>
+<td align="right"><b>731</b></td>
+<td align="right">266</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -549,7 +549,7 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/hasinhayder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hasinhayder/tyro"><b>hasinhayder/tyro</b></a><br><sub>Tyro is the complete authentication, roles &amp; privileges package for Laravel 12 &amp; 13: a modern RBAC/ACL solution built o…</sub></td>
-<td align="right"><b>684</b></td>
+<td align="right"><b>685</b></td>
 <td align="right">48</td>
 <td>PHP</td>
 </tr>
@@ -563,21 +563,21 @@
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/nadimtuhin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nadimtuhin/claude-token-optimizer"><b>nadimtuhin/claude-token-optimizer</b></a><br><sub>Cut the tokens Claude Code loads at session start. CLI that sets up a small CLAUDE.md with on-demand docs, measures sta…</sub></td>
-<td align="right"><b>669</b></td>
+<td align="right"><b>673</b></td>
 <td align="right">91</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/mdgaziur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mdgaziur/findex"><b>mdgaziur/findex</b></a><br><sub>Findex is a highly customizable application finder written in Rust and uses GTK3</sub></td>
-<td align="right"><b>667</b></td>
+<td align="right"><b>668</b></td>
 <td align="right">28</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/MahdiMashrur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist"><b>MahdiMashrur/Awesome-Application-Security-Checklist</b></a><br><sub>Checklist of the most important security countermeasures when designing, creating, testing your web/mobile application</sub></td>
-<td align="right"><b>663</b></td>
+<td align="right"><b>662</b></td>
 <td align="right">64</td>
 <td>—</td>
 </tr>

@@ -170,16 +170,16 @@
 </tr>
 <tr>
 <td align="right">22</td>
-<td><a href="https://github.com/amusukwa"><img src="https://avatars.githubusercontent.com/u/30260269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amusukwa"><b>Alice</b></a><br><sub>&#64;amusukwa</sub></td>
+<td><a href="https://github.com/chikondikamwendo"><img src="https://avatars.githubusercontent.com/u/68282071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chikondikamwendo"><b>Chikondi Kamwendo</b></a><br><sub>&#64;chikondikamwendo</sub></td>
 <td align="right"><b>123</b></td>
-<td align="right">45</td>
+<td align="right">6</td>
 <td><sub>Malawi</sub></td>
 </tr>
 <tr>
 <td align="right">23</td>
-<td><a href="https://github.com/chikondikamwendo"><img src="https://avatars.githubusercontent.com/u/68282071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chikondikamwendo"><b>Chikondi Kamwendo</b></a><br><sub>&#64;chikondikamwendo</sub></td>
-<td align="right"><b>123</b></td>
-<td align="right">6</td>
+<td><a href="https://github.com/amusukwa"><img src="https://avatars.githubusercontent.com/u/30260269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amusukwa"><b>Alice</b></a><br><sub>&#64;amusukwa</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">45</td>
 <td><sub>Malawi</sub></td>
 </tr>
 <tr>

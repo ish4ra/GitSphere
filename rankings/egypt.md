@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/EG.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/EG.json">JSON</a> |
 
 </div>
 
@@ -507,14 +507,14 @@
 <tr>
 <td align="right">70</td>
 <td><img src="https://github.com/A-Hemeda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/A-Hemeda/Remote-Jobs-List"><b>A-Hemeda/Remote-Jobs-List</b></a></td>
-<td align="right"><b>755</b></td>
+<td align="right"><b>754</b></td>
 <td align="right">44</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/ahmedbna.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmedbna/ui"><b>ahmedbna/ui</b></a><br><sub>BNA UI - Expo, React Native components library</sub></td>
-<td align="right"><b>742</b></td>
+<td align="right"><b>741</b></td>
 <td align="right">57</td>
 <td>TypeScript</td>
 </tr>
@@ -522,7 +522,7 @@
 <td align="right">72</td>
 <td><img src="https://github.com/ctf0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ctf0/Seti_ST3"><b>ctf0/Seti&#95;ST3</b></a> <sub>archived</sub><br><sub>Seti&#95;UI Port for ST3.</sub></td>
 <td align="right"><b>738</b></td>
-<td align="right">142</td>
+<td align="right">141</td>
 <td>—</td>
 </tr>
 <tr>
@@ -549,7 +549,7 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/mcunet"><b>mit-han-lab/mcunet</b></a><br><sub>&#91;NeurIPS 2020&#93; MCUNet: Tiny Deep Learning on IoT Devices; &#91;NeurIPS 2021&#93; MCUNetV2: Memory-Efficient Patch-based Inferen…</sub></td>
-<td align="right"><b>725</b></td>
+<td align="right"><b>726</b></td>
 <td align="right">111</td>
 <td>Python</td>
 </tr>

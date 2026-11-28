@@ -375,7 +375,7 @@
 <td align="right">51</td>
 <td><a href="https://github.com/bokic"><img src="https://avatars.githubusercontent.com/u/5620944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bokic"><b>Boris Barbulovski</b></a><br><sub>&#64;bokic</sub></td>
 <td align="right"><b>28</b></td>
-<td align="right">53</td>
+<td align="right">52</td>
 <td><sub>North Macedonia</sub></td>
 </tr>
 <tr>

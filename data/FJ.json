@@ -5,12 +5,13 @@
 "country": {"code":"FJ","name":"Fiji","slug":"fiji"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":655,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":123,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":272,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":120,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0},"exhaustive":false},
 "repositories": [
-  {"rank":1,"id":"R_kgDORrasTQ","name":"ppt-agent-workflow-san","nameWithOwner":"mucsbr/ppt-agent-workflow-san","url":"https://github.com/mucsbr/ppt-agent-workflow-san","description":"渐进交互式ppt生成skill","stars":655,"forks":68,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-03-19T15:03:16Z","pushedAt":"2026-09-02T15:14:03Z","archived":false,"owner":{"login":"mucsbr","name":"beingS","type":"User","url":"https://github.com/mucsbr","location":"0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"}
+  {"rank":1,"id":"R_kgDORrasTQ","name":"ppt-agent-workflow-san","nameWithOwner":"mucsbr/ppt-agent-workflow-san","url":"https://github.com/mucsbr/ppt-agent-workflow-san","description":"渐进交互式ppt生成skill","stars":657,"forks":68,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-03-19T15:03:16Z","pushedAt":"2026-09-02T15:14:03Z","archived":false,"owner":{"login":"mucsbr","name":"beingS","type":"User","url":"https://github.com/mucsbr","location":"0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"},
+  {"rank":2,"id":"R_kgDOG6nywg","name":"PrivacySpace","nameWithOwner":"GeekTR/PrivacySpace","url":"https://github.com/GeekTR/PrivacySpace","description":"隐秘空间/PrivacySpace","stars":272,"forks":35,"primaryLanguage":"Kotlin","license":{"spdxId":"MIT"},"createdAt":"2022-02-27T11:54:25Z","pushedAt":"2022-05-18T08:39:22Z","archived":false,"owner":{"login":"GeekTR","name":"Rui Tang","type":"User","url":"https://github.com/GeekTR","location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "a03b2f5eea304ebe",
-"updatedAt": "2026-11-27T20:39:08.642Z",
-"verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"contentHash": "e796c2d0497a7553",
+"updatedAt": "2026-11-28T03:23:20.276Z",
+"verifiedOn": "2026-11-28",
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

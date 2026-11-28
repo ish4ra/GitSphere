@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/RS.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/RS.json">JSON</a> |
 
 </div>
 
@@ -450,30 +450,30 @@
 </tr>
 <tr>
 <td align="right">62</td>
-<td><img src="https://github.com/radianttap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radianttap/Coordinator"><b>radianttap/Coordinator</b></a><br><sub>Implementation of Coordinators app design pattern.</sub></td>
+<td><img src="https://github.com/ognjengt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ognjengt/founder-skills"><b>ognjengt/founder-skills</b></a><br><sub>Claude skills for founders</sub></td>
 <td align="right"><b>709</b></td>
-<td align="right">47</td>
-<td>Swift</td>
+<td align="right">102</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">63</td>
+<td><img src="https://github.com/radianttap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radianttap/Coordinator"><b>radianttap/Coordinator</b></a><br><sub>Implementation of Coordinators app design pattern.</sub></td>
+<td align="right"><b>709</b></td>
+<td align="right">46</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">64</td>
 <td><img src="https://github.com/StefanKovac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/StefanKovac/flex-layout-attribute"><b>StefanKovac/flex-layout-attribute</b></a><br><sub>HTML layout helper based on CSS flexbox specification —</sub></td>
 <td align="right"><b>706</b></td>
 <td align="right">57</td>
 <td>CSS</td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">65</td>
 <td><img src="https://github.com/stojanovic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stojanovic/scottyjs"><b>stojanovic/scottyjs</b></a> <sub>archived</sub><br><sub>Deploy static websites and single page apps to AWS S3 and CloudFront with a single command</sub></td>
 <td align="right"><b>703</b></td>
 <td align="right">33</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">65</td>
-<td><img src="https://github.com/ognjengt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ognjengt/founder-skills"><b>ognjengt/founder-skills</b></a><br><sub>Claude skills for founders</sub></td>
-<td align="right"><b>702</b></td>
-<td align="right">99</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -486,7 +486,7 @@
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/ynwarcs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ynwarcs/CVE-2024-38063"><b>ynwarcs/CVE-2024-38063</b></a><br><sub>poc for CVE-2024-38063 (RCE in tcpip.sys)</sub></td>
-<td align="right"><b>690</b></td>
+<td align="right"><b>691</b></td>
 <td align="right">123</td>
 <td>Python</td>
 </tr>

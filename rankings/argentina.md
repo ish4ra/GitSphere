@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/AR.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/AR.json">JSON</a> |
 
 </div>
 
@@ -696,14 +696,14 @@
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/fedecaccia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fedecaccia/avellaneda-stoikov"><b>fedecaccia/avellaneda-stoikov</b></a><br><sub>Avellaneda-Stoikov HFT market making algorithm implementation</sub></td>
-<td align="right"><b>741</b></td>
+<td align="right"><b>742</b></td>
 <td align="right">179</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">98</td>
 <td><img src="https://github.com/lambdaclass.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lambdaclass/lambdaworks"><b>lambdaclass/lambdaworks</b></a><br><sub>lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their ind…</sub></td>
-<td align="right"><b>739</b></td>
+<td align="right"><b>740</b></td>
 <td align="right">194</td>
 <td>Rust</td>
 </tr>

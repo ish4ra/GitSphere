@@ -213,7 +213,7 @@
 <tr>
 <td align="right">28</td>
 <td><a href="https://github.com/pmuhammedov"><img src="https://avatars.githubusercontent.com/u/78790183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pmuhammedov"><b>Pena Muhammedov</b></a><br><sub>&#64;pmuhammedov</sub></td>
-<td align="right"><b>46</b></td>
+<td align="right"><b>45</b></td>
 <td align="right">41</td>
 <td><sub>Ashgabat, Turkmenistan</sub></td>
 </tr>

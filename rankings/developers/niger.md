@@ -361,7 +361,7 @@
 <td align="right">49</td>
 <td><a href="https://github.com/debugAyo"><img src="https://avatars.githubusercontent.com/u/209979037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/debugAyo"><b>Ayomide Olajide</b></a><br><sub>&#64;debugAyo</sub></td>
 <td align="right"><b>5</b></td>
-<td align="right">46</td>
+<td align="right">47</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>

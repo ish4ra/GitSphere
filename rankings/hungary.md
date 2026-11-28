@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/HU.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/HU.json">JSON</a> |
 
 </div>
 
@@ -549,7 +549,7 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/tevelee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tevelee/SwiftUI-Flow"><b>tevelee/SwiftUI-Flow</b></a><br><sub>Flow Layout implemented in SwiftUI</sub></td>
-<td align="right"><b>748</b></td>
+<td align="right"><b>749</b></td>
 <td align="right">67</td>
 <td>Swift</td>
 </tr>
@@ -606,7 +606,7 @@
 <td align="right">84</td>
 <td><img src="https://github.com/adamtheone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adamtheone/canDrive"><b>adamtheone/canDrive</b></a><br><sub>Tools for hacking your car</sub></td>
 <td align="right"><b>696</b></td>
-<td align="right">180</td>
+<td align="right">179</td>
 <td>C</td>
 </tr>
 <tr>
@@ -640,7 +640,7 @@
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/asciimoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asciimoo/omnom"><b>asciimoo/omnom</b></a><br><sub>A web content preservation service</sub></td>
-<td align="right"><b>669</b></td>
+<td align="right"><b>670</b></td>
 <td align="right">41</td>
 <td>Go</td>
 </tr>

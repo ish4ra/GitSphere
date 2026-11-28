@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/TO.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/TO.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/abyss-furina"><img src="https://avatars.githubusercontent.com/u/299859925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abyss-furina"><b>abyss-furina</b></a><br><sub>&#64;abyss-furina · 1 followers</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">7</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/FortuneDev1"><img src="https://avatars.githubusercontent.com/u/114457630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FortuneDev1"><b>FortuneDev</b></a><br><sub>&#64;FortuneDev1 · 0 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">8</td>
@@ -69,7 +78,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
+<td><a href="https://github.com/Gul4310"><img src="https://avatars.githubusercontent.com/u/333524471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gul4310"><b>Amador Girón</b></a><br><sub>&#64;Gul4310 · 0 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/byte315"><img src="https://avatars.githubusercontent.com/u/334482680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/byte315"><b>Cyber</b></a><br><sub>&#64;byte315 · 0 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">4</td>
@@ -78,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/ccrryysstt44ll"><img src="https://avatars.githubusercontent.com/u/139738681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ccrryysstt44ll"><b>CRYST4L</b></a><br><sub>&#64;ccrryysstt44ll · 0 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
@@ -87,7 +105,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/james151br"><img src="https://avatars.githubusercontent.com/u/36056662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/james151br"><b>James</b></a><br><sub>&#64;james151br · 1 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -96,7 +114,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/brobertson89"><img src="https://avatars.githubusercontent.com/u/334205752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brobertson89"><b>Bradley Robertson</b></a><br><sub>&#64;brobertson89 · 1 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -111,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 24 of 50 discovered developers (26 awaiting measurement).
+- **Measured:** 28 of 50 discovered developers (22 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 5 of 29 in round 1.

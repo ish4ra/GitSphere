@@ -5,13 +5,13 @@
 "country": {"code":"NI","name":"Nicaragua","slug":"nicaragua"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":391,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":125,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":112,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":391,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":117,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":112,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk1MDY3MDU1OA==","name":"FacebookBot","nameWithOwner":"miaru3d/FacebookBot","url":"https://github.com/miaru3d/FacebookBot","description":"A facebook bot to scrap, post, spam and more without the facebook API","stars":413,"forks":122,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2016-01-29T15:20:09Z","pushedAt":"2024-03-19T12:08:36Z","archived":false,"owner":{"login":"miaru3d","name":"Miaru3d","type":"User","url":"https://github.com/miaru3d","location":"Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMTA0OTU2MTM=","name":"getaltname","nameWithOwner":"franccesco/getaltname","url":"https://github.com/franccesco/getaltname","description":"Extract subdomains from SSL certificates in HTTPS sites.","stars":391,"forks":71,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2017-11-13T03:28:10Z","pushedAt":"2026-09-01T06:58:34Z","archived":false,"owner":{"login":"franccesco","name":"Franccesco Orozco","type":"User","url":"https://github.com/franccesco","location":"Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "ed888d526e4efb88",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "b40c0aca5367c55f",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-26",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

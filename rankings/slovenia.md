@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **73** | 24 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟡 Provisional | **79** | 25 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -248,7 +248,7 @@
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/gto76.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gto76/linux-cheatsheet"><b>gto76/linux-cheatsheet</b></a><br><sub>Comprehensive Linux Cheatsheet</sub></td>
-<td align="right"><b>732</b></td>
+<td align="right"><b>733</b></td>
 <td align="right">223</td>
 <td>Shell</td>
 </tr>
@@ -269,21 +269,21 @@
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/aksonov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aksonov/react-native-tabs"><b>aksonov/react-native-tabs</b></a><br><sub>React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)</sub></td>
-<td align="right"><b>725</b></td>
+<td align="right"><b>723</b></td>
 <td align="right">112</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/alekseykulikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alekseykulikov/backbone-offline"><b>alekseykulikov/backbone-offline</b></a><br><sub>&#91;Deprecated&#93; Allows your Backbone.js app to work offline</sub></td>
-<td align="right"><b>714</b></td>
+<td align="right"><b>713</b></td>
 <td align="right">48</td>
 <td>CoffeeScript</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/refaktor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/refaktor/rye"><b>refaktor/rye</b></a><br><sub>Programming and interaction language. Flexible about syntax, strict about state.</sub></td>
-<td align="right"><b>711</b></td>
+<td align="right"><b>712</b></td>
 <td align="right">33</td>
 <td>Go</td>
 </tr>
@@ -291,7 +291,7 @@
 <td align="right">39</td>
 <td><img src="https://github.com/Jinjinov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jinjinov/Hardware.Info"><b>Jinjinov/Hardware.Info</b></a><br><sub>Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapt…</sub></td>
 <td align="right"><b>708</b></td>
-<td align="right">104</td>
+<td align="right">105</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -532,6 +532,48 @@
 <td align="right">33</td>
 <td>Nix</td>
 </tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/dz0ny.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dz0ny/klipper-prusa-mk3s"><b>dz0ny/klipper-prusa-mk3s</b></a><br><sub>Structured Klipper config for Prusa MK3s 3D printer</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">78</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/symfony-si.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/symfony-si/symfony-must-watch"><b>symfony-si/symfony-must-watch</b></a><br><sub>🎥 Must-watch videos about Symfony</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">21</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/Jackysi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jackysi/advancedtomato"><b>Jackysi/advancedtomato</b></a><br><sub>AdvancedTomato firmware repository (Tomato by Shibby fork)</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">69</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/maslick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maslick/koder"><b>maslick/koder</b></a><br><sub>QR/bar code scanner for the Browser</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">31</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/andrejbauer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrejbauer/spartan-type-theory"><b>andrejbauer/spartan-type-theory</b></a><br><sub>Spartan type theory</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">18</td>
+<td>OCaml</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/MoffKalast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MoffKalast/vizanti"><b>MoffKalast/vizanti</b></a><br><sub>A mission planner and visualizer for controlling outdoor ROS robots.</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">67</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -540,8 +582,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 295 stars; 73 attributed candidates are tracked.
-- 79 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 275 stars; 79 attributed candidates are tracked.
+- 75 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

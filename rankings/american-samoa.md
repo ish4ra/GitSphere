@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 24 Nov 2026 | <a href="../data/AS.json">JSON</a> |
+| 🟡 Provisional | **18** | 25 Nov 2026 | <a href="../data/AS.json">JSON</a> |
 
 </div>
 
@@ -65,9 +65,9 @@
 </tr>
 <tr>
 <td align="right">7</td>
-<td><img src="https://github.com/KitionAI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KitionAI/kition"><b>KitionAI/kition</b></a><br><sub>Kition: the open pro suite for AI. Notes, tables, boards and professional editors in one desktop workspace, edited by y…</sub></td>
-<td align="right"><b>694</b></td>
-<td align="right">45</td>
+<td><img src="https://github.com/KitionAI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KitionAI/kition"><b>KitionAI/kition</b></a><br><sub>Kition: the open pro suite for AI. 16 professional editors in one desktop workspace, edited by you and your agent</sub></td>
+<td align="right"><b>714</b></td>
+<td align="right">46</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -140,6 +140,13 @@
 <td align="right">14</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/vim-jsx-improve"><b>neoclide/vim-jsx-improve</b></a><br><sub>Syntax and indent plugin for React jsx.</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">23</td>
+<td>Vim Script</td>
+</tr>
 </tbody>
 </table>
 
@@ -148,8 +155,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 299 stars; 17 attributed candidates are tracked.
-- 47 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 279 stars; 18 attributed candidates are tracked.
+- 45 multi-repository owners are queued for expansion.
 - **Location discovery:** term 7 of 34 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

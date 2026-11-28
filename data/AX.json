@@ -5,13 +5,13 @@
 "country": {"code":"AX","name":"Åland Islands","slug":"aland-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":359,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":94,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":33,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":359,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":92,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":33,"unresolved":0},"exhaustive":false},
 "repositories": [
-  {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMTM3MjYwNDQ=","name":"mynlp","nameWithOwner":"mayabot/mynlp","url":"https://github.com/mayabot/mynlp","description":"一个生产级、高性能、模块化、可扩展的中文NLP工具包。（中文分词、平均感知机、fastText、拼音、新词发现、分词纠错、BM25、人名识别、命名实体、自定义词典）","stars":686,"forks":87,"primaryLanguage":"Java","license":{"spdxId":"Apache-2.0"},"createdAt":"2017-12-10T05:35:01Z","pushedAt":"2025-09-14T03:52:47Z","archived":true,"owner":{"login":"mayabot","name":"m","type":"Organization","url":"https://github.com/mayabot","location":"Åland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
+  {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMTM3MjYwNDQ=","name":"mynlp","nameWithOwner":"mayabot/mynlp","url":"https://github.com/mayabot/mynlp","description":"一个生产级、高性能、模块化、可扩展的中文NLP工具包。（中文分词、平均感知机、fastText、拼音、新词发现、分词纠错、BM25、人名识别、命名实体、自定义词典）","stars":686,"forks":87,"primaryLanguage":"Java","license":{"spdxId":"Apache-2.0"},"createdAt":"2017-12-10T05:35:01Z","pushedAt":"2025-09-14T03:52:47Z","archived":true,"owner":{"login":"mayabot","name":"m","type":"Organization","url":"https://github.com/mayabot","location":"Åland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"},
   {"rank":2,"id":"R_kgDOHV4xlw","name":"choc_keycaps","nameWithOwner":"namnlos-io/choc_keycaps","url":"https://github.com/namnlos-io/choc_keycaps","description":"Collected keycaps for Choc switches.","stars":359,"forks":29,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2022-05-16T06:37:44Z","pushedAt":"2024-01-30T11:05:57Z","archived":false,"owner":{"login":"namnlos-io","name":"Namnlos Custom Electronics","type":"Organization","url":"https://github.com/namnlos-io","location":"Åland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "0e43571b10b3ce9c",
-"updatedAt": "2026-11-27T20:39:08.642Z",
-"verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"contentHash": "3d9cc8fb9f0ebdc3",
+"updatedAt": "2026-11-28T03:23:20.276Z",
+"verifiedOn": "2026-11-27",
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

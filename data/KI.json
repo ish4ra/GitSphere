@@ -5,7 +5,7 @@
 "country": {"code":"KI","name":"Kiribati","slug":"kiribati"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":17,"ownerExpansionBacklog":28,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":30,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":17,"ownerExpansionBacklog":28,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":30,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"wdd231","nameWithOwner":"Aj-Kazza/wdd231","url":"https://github.com/Aj-Kazza/wdd231","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-06-29T12:20:28Z","pushedAt":"2026-08-13T23:57:00Z","archived":false,"owner":{"login":"Aj-Kazza","name":"Ari-John Katia","type":"User","url":"https://github.com/Aj-Kazza","location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"dw130","nameWithOwner":"byui-riben/dw130","url":"https://github.com/byui-riben/dw130","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2023-01-14T12:07:50Z","pushedAt":"2023-01-21T13:12:26Z","archived":false,"owner":{"login":"byui-riben","name":"Kaarubea","type":"User","url":"https://github.com/byui-riben","location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -25,8 +25,8 @@
   {"rank":16,"id":null,"name":"zsh-setup","nameWithOwner":"wreiher/zsh-setup","url":"https://github.com/wreiher/zsh-setup","description":null,"stars":0,"forks":0,"primaryLanguage":"Shell","license":null,"createdAt":"2023-04-05T22:06:24Z","pushedAt":"2025-10-10T23:50:08Z","archived":false,"owner":{"login":"wreiher","name":"Wayne Reiher","type":"User","url":"https://github.com/wreiher","location":"Bairiki, Tarawa, Kiribati","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":17,"id":null,"name":"UnicaScr","nameWithOwner":"XxFulecoxX/UnicaScr","url":"https://github.com/XxFulecoxX/UnicaScr","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-10-03T18:25:56Z","pushedAt":"2026-10-03T18:27:28Z","archived":false,"owner":{"login":"XxFulecoxX","name":"Fuleco","type":"User","url":"https://github.com/XxFulecoxX","location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "bbe1e254304f72b2",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "275969ce35b8723c",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

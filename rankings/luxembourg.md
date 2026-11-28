@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **54** | 24 Nov 2026 | <a href="../data/LU.json">JSON</a> |
+| 🟡 Provisional | **61** | 25 Nov 2026 | <a href="../data/LU.json">JSON</a> |
 
 </div>
 
@@ -171,7 +171,7 @@
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/fmind.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fmind/mlops-coding-course"><b>fmind/mlops-coding-course</b></a><br><sub>Learn how to create, develop, and maintain a state-of-the-art MLOps code base</sub></td>
-<td align="right"><b>748</b></td>
+<td align="right"><b>749</b></td>
 <td align="right">131</td>
 <td>—</td>
 </tr>
@@ -399,6 +399,55 @@
 <td align="right">131</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/pandora-analysis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pandora-analysis/pandora"><b>pandora-analysis/pandora</b></a><br><sub>Pandora is an analysis framework to discover if a file is suspicious and conveniently show the results</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">48</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/qdm12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qdm12/godevcontainer"><b>qdm12/godevcontainer</b></a><br><sub>Golang development container for Visual Studio Code Remote Containers Development</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">52</td>
+<td>Dockerfile</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/eLvErDe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eLvErDe/hwraid"><b>eLvErDe/hwraid</b></a><br><sub>HWRaid: Free code from http://hwraid.le-vert.net</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">107</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/jdel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jdel/sspks"><b>jdel/sspks</b></a><br><sub>A very simple Synology Package Server, reverse engineered from the official Synology package repository and SynoCommuni…</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">65</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/hgourvest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hgourvest/node-firebird"><b>hgourvest/node-firebird</b></a><br><sub>Pure javascript and asynchronous Firebird client for Node.js.</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">145</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/TokenySolutions.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TokenySolutions/T-REX"><b>TokenySolutions/T-REX</b></a> <sub>archived</sub><br><sub>T-REX is a suite of smart contracts implementing the EIP 3643 and developed by Tokeny to manage and transfer financial…</sub></td>
+<td align="right"><b>271</b></td>
+<td align="right">243</td>
+<td>Solidity</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/SvenGDK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SvenGDK/RetroMultiTools"><b>SvenGDK/RetroMultiTools</b></a> <sub>archived</sub><br><sub>A cross-platform desktop utility for managing, inspecting, modifying, patching &amp; launching retro game ROMs.</sub></td>
+<td align="right"><b>271</b></td>
+<td align="right">5</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
@@ -407,8 +456,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 296 stars; 54 attributed candidates are tracked.
-- 90 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 271 stars; 61 attributed candidates are tracked.
+- 86 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

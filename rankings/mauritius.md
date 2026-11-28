@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 24 Nov 2026 | <a href="../data/MU.json">JSON</a> |
+| 🟡 Provisional | **9** | 25 Nov 2026 | <a href="../data/MU.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/thatstraw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thatstraw/Cybersecurity-Roadmap"><b>thatstraw/Cybersecurity-Roadmap</b></a></td>
-<td align="right"><b>738</b></td>
+<td align="right"><b>739</b></td>
 <td align="right">68</td>
 <td>—</td>
 </tr>
@@ -63,6 +63,27 @@
 <td align="right">79</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/yuvraj108c.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yuvraj108c/ComfyUI-Whisper"><b>yuvraj108c/ComfyUI-Whisper</b></a><br><sub>Transcribe audio and add subtitles to videos using Whisper in ComfyUI</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">43</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/Abdur-rahmaanJ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdur-rahmaanJ/shopcube"><b>Abdur-rahmaanJ/shopcube</b></a><br><sub>🛒 POS &amp; ecommerce solution for Shops. (Woo-commerce for Python) Complete with cart and wishlist.</sub></td>
+<td align="right"><b>278</b></td>
+<td align="right">134</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/yuvraj108c.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yuvraj108c/ComfyUI-FLOAT"><b>yuvraj108c/ComfyUI-FLOAT</b></a><br><sub>Generative Motion Latent Flow Matching for Audio-driven Talking Portrait</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">35</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -71,8 +92,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 347 stars; 6 attributed candidates are tracked.
-- 85 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 273 stars; 9 attributed candidates are tracked.
+- 71 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 94 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

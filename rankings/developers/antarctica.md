@@ -179,7 +179,7 @@
 <td align="right">23</td>
 <td><a href="https://github.com/IcingTomato"><img src="https://avatars.githubusercontent.com/u/24474531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IcingTomato"><b>icing&#64;tomato:~#</b></a><br><sub>&#64;IcingTomato</sub></td>
 <td align="right"><b>72</b></td>
-<td align="right">82</td>
+<td align="right">83</td>
 <td><sub>Antarctica</sub></td>
 </tr>
 <tr>
@@ -485,37 +485,37 @@
 </tr>
 <tr>
 <td align="right">67</td>
+<td><a href="https://github.com/dmoa"><img src="https://avatars.githubusercontent.com/u/44374106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmoa"><b>Stan Osipenko</b></a><br><sub>&#64;dmoa</sub></td>
+<td align="right"><b>21</b></td>
+<td align="right">83</td>
+<td><sub>Antarctica</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
 <td><a href="https://github.com/Pancake2021"><img src="https://avatars.githubusercontent.com/u/92122200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pancake2021"><b>Pancake2021</b></a><br><sub>&#64;Pancake2021</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">56</td>
 <td><sub>Antarctica</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">69</td>
 <td><a href="https://github.com/cosalt"><img src="https://avatars.githubusercontent.com/u/91860754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cosalt"><b>Nawin Ray Martin</b></a><br><sub>&#64;cosalt</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">45</td>
 <td><sub>antarctica</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">70</td>
 <td><a href="https://github.com/shreeshiv"><img src="https://avatars.githubusercontent.com/u/22559884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shreeshiv"><b>Shreeshiv Patel</b></a><br><sub>&#64;shreeshiv</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">45</td>
 <td><sub>Antarctica</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">71</td>
 <td><a href="https://github.com/FreezingSnail"><img src="https://avatars.githubusercontent.com/u/36997863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FreezingSnail"><b>Freezing Snail</b></a><br><sub>&#64;FreezingSnail</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">85</td>
-<td><sub>Antarctica</sub></td>
-</tr>
-<tr>
-<td align="right">71</td>
-<td><a href="https://github.com/dmoa"><img src="https://avatars.githubusercontent.com/u/44374106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmoa"><b>Stan Osipenko</b></a><br><sub>&#64;dmoa</sub></td>
-<td align="right"><b>20</b></td>
-<td align="right">83</td>
 <td><sub>Antarctica</sub></td>
 </tr>
 <tr>

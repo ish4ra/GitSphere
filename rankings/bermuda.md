@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 24 Nov 2026 | <a href="../data/BM.json">JSON</a> |
+| 🟡 Provisional | **8** | 26 Nov 2026 | <a href="../data/BM.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/DesktopECHO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DesktopECHO/Pi-hole-for-Android"><b>DesktopECHO/Pi-hole-for-Android</b></a><br><sub>Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)</sub></td>
-<td align="right"><b>669</b></td>
+<td align="right"><b>671</b></td>
 <td align="right">59</td>
 <td>Shell</td>
 </tr>

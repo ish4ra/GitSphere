@@ -415,80 +415,80 @@
 </tr>
 <tr>
 <td align="right">57</td>
-<td><a href="https://github.com/Jace-Mc"><img src="https://avatars.githubusercontent.com/u/178604878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jace-Mc"><b>Jacon11</b></a><br><sub>&#64;Jace-Mc</sub></td>
-<td align="right"><b>6</b></td>
-<td align="right">15</td>
-<td><sub>New Providence, Bahamas</sub></td>
-</tr>
-<tr>
-<td align="right">58</td>
 <td><a href="https://github.com/Wraami"><img src="https://avatars.githubusercontent.com/u/83980439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wraami"><b>Wraami</b></a><br><sub>&#64;Wraami</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">10</td>
 <td><sub>Cat Island, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">58</td>
 <td><a href="https://github.com/evilcore29"><img src="https://avatars.githubusercontent.com/u/37900445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evilcore29"><b>Dmitry</b></a><br><sub>&#64;evilcore29</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">7</td>
 <td><sub>The Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">59</td>
 <td><a href="https://github.com/carlswann"><img src="https://avatars.githubusercontent.com/u/11665573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlswann"><b>Carl Swann</b></a><br><sub>&#64;carlswann</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">6</td>
 <td><sub>Freeport, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">60</td>
 <td><a href="https://github.com/justnardo"><img src="https://avatars.githubusercontent.com/u/32949367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justnardo"><b>Just&#95;Nardo</b></a><br><sub>&#64;justnardo</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">6</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">61</td>
 <td><a href="https://github.com/Rh0d0dendr0n"><img src="https://avatars.githubusercontent.com/u/90791117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rh0d0dendr0n"><b>Lucky Luke</b></a><br><sub>&#64;Rh0d0dendr0n</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
 <td><sub>Nassau, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">62</td>
 <td><a href="https://github.com/po8coin"><img src="https://avatars.githubusercontent.com/u/37667828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/po8coin"><b>PO8</b></a><br><sub>&#64;po8coin</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">63</td>
 <td><a href="https://github.com/emmanuelal242"><img src="https://avatars.githubusercontent.com/u/177258871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emmanuelal242"><b>Emmanuel Alcime</b></a><br><sub>&#64;emmanuelal242</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
 <td><sub>Nassau, The Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">64</td>
 <td><a href="https://github.com/amcollie"><img src="https://avatars.githubusercontent.com/u/1966219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amcollie"><b>Alexandros Collie</b></a><br><sub>&#64;amcollie</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">102</td>
 <td><sub>Nassau, Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">65</td>
 <td><a href="https://github.com/Niikii-J"><img src="https://avatars.githubusercontent.com/u/63566497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Niikii-J"><b>Nikita Johnson</b></a><br><sub>&#64;Niikii-J</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">89</td>
 <td><sub>Bahamas</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">66</td>
 <td><a href="https://github.com/Hydrodone"><img src="https://avatars.githubusercontent.com/u/127539027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hydrodone"><b>Julia Kim</b></a><br><sub>&#64;Hydrodone</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">28</td>
 <td><sub>Nassau, Bahamas</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><a href="https://github.com/Jace-Mc"><img src="https://avatars.githubusercontent.com/u/178604878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jace-Mc"><b>Jacon11</b></a><br><sub>&#64;Jace-Mc</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">15</td>
+<td><sub>New Providence, Bahamas</sub></td>
 </tr>
 <tr>
 <td align="right">68</td>

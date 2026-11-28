@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 24 Nov 2026 | <a href="../data/FJ.json">JSON</a> |
+| 🟡 Provisional | **2** | 28 Nov 2026 | <a href="../data/FJ.json">JSON</a> |
 
 </div>
 
@@ -24,9 +24,16 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/mucsbr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mucsbr/ppt-agent-workflow-san"><b>mucsbr/ppt-agent-workflow-san</b></a><br><sub>渐进交互式ppt生成skill</sub></td>
-<td align="right"><b>655</b></td>
+<td align="right"><b>657</b></td>
 <td align="right">68</td>
 <td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/GeekTR.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GeekTR/PrivacySpace"><b>GeekTR/PrivacySpace</b></a><br><sub>隐秘空间/PrivacySpace</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">35</td>
+<td>Kotlin</td>
 </tr>
 </tbody>
 </table>
@@ -36,8 +43,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 655 stars; 1 attributed candidates are tracked.
-- 123 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 272 stars; 2 attributed candidates are tracked.
+- 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 32 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

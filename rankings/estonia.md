@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/EE.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/EE.json">JSON</a> |
 
 </div>
 
@@ -464,44 +464,44 @@
 </tr>
 <tr>
 <td align="right">64</td>
-<td><img src="https://github.com/joshuaalpuerto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joshuaalpuerto/node-ddd-boilerplate"><b>joshuaalpuerto/node-ddd-boilerplate</b></a><br><sub>Node DDD Boilerplate</sub></td>
-<td align="right"><b>745</b></td>
-<td align="right">144</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">65</td>
-<td><img src="https://github.com/Braffolk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Braffolk/fable5-world-demo"><b>Braffolk/fable5-world-demo</b></a><br><sub>Laas: 3D world built by Claude Fable 5 to test its capabilities using three.js</sub></td>
-<td align="right"><b>744</b></td>
-<td align="right">118</td>
+<td><img src="https://github.com/ersinkoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ersinkoc/AI-Video-Factory"><b>ersinkoc/AI-Video-Factory</b></a><br><sub>AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review;…</sub></td>
+<td align="right"><b>748</b></td>
+<td align="right">105</td>
 <td>TypeScript</td>
 </tr>
 <tr>
+<td align="right">65</td>
+<td><img src="https://github.com/joshuaalpuerto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joshuaalpuerto/node-ddd-boilerplate"><b>joshuaalpuerto/node-ddd-boilerplate</b></a><br><sub>Node DDD Boilerplate</sub></td>
+<td align="right"><b>745</b></td>
+<td align="right">143</td>
+<td>JavaScript</td>
+</tr>
+<tr>
 <td align="right">66</td>
+<td><img src="https://github.com/Braffolk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Braffolk/fable5-world-demo"><b>Braffolk/fable5-world-demo</b></a><br><sub>Laas: 3D world built by Claude Fable 5 to test its capabilities using three.js</sub></td>
+<td align="right"><b>745</b></td>
+<td align="right">119</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">67</td>
 <td><img src="https://github.com/jpmml.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jpmml/sklearn2pmml"><b>jpmml/sklearn2pmml</b></a><br><sub>Python library for converting Scikit-Learn pipelines to PMML</sub></td>
 <td align="right"><b>705</b></td>
 <td align="right">111</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">68</td>
 <td><img src="https://github.com/rubygarage.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rubygarage/collection-view-layouts"><b>rubygarage/collection-view-layouts</b></a><br><sub>A library that implements custom flow layouts for iOS apps</sub></td>
 <td align="right"><b>686</b></td>
 <td align="right">86</td>
 <td>Swift</td>
 </tr>
 <tr>
-<td align="right">68</td>
-<td><img src="https://github.com/ersinkoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ersinkoc/AI-Video-Factory"><b>ersinkoc/AI-Video-Factory</b></a><br><sub>AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review;…</sub></td>
-<td align="right"><b>682</b></td>
-<td align="right">95</td>
-<td>TypeScript</td>
-</tr>
-<tr>
 <td align="right">69</td>
 <td><img src="https://github.com/janesmae.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/janesmae/awesome-drones"><b>janesmae/awesome-drones</b></a><br><sub>A curated list of Awesome Drones resources</sub></td>
-<td align="right"><b>680</b></td>
-<td align="right">107</td>
+<td align="right"><b>682</b></td>
+<td align="right">109</td>
 <td>—</td>
 </tr>
 <tr>
@@ -513,17 +513,17 @@
 </tr>
 <tr>
 <td align="right">71</td>
-<td><img src="https://github.com/AvaloniaUI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AvaloniaUI/Avalonia.Templates"><b>AvaloniaUI/Avalonia.Templates</b></a><br><sub>Avalonia Templates for &#96;dotnet new&#96;</sub></td>
+<td><img src="https://github.com/zone-eu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zone-eu/zone-mta"><b>zone-eu/zone-mta</b></a><br><sub>📤 Modern outbound MTA cross platform and extendable server application</sub></td>
 <td align="right"><b>674</b></td>
-<td align="right">100</td>
-<td>C#</td>
+<td align="right">110</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><img src="https://github.com/zone-eu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zone-eu/zone-mta"><b>zone-eu/zone-mta</b></a><br><sub>📤 Modern outbound MTA cross platform and extendable server application</sub></td>
-<td align="right"><b>673</b></td>
-<td align="right">110</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/AvaloniaUI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AvaloniaUI/Avalonia.Templates"><b>AvaloniaUI/Avalonia.Templates</b></a><br><sub>Avalonia Templates for &#96;dotnet new&#96;</sub></td>
+<td align="right"><b>674</b></td>
+<td align="right">101</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">73</td>

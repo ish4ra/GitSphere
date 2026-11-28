@@ -137,7 +137,7 @@
 <td align="right">17</td>
 <td><a href="https://github.com/yannkb"><img src="https://avatars.githubusercontent.com/u/31290613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yannkb"><b>Yann Bouchereau</b></a><br><sub>&#64;yannkb</sub></td>
 <td align="right"><b>8</b></td>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><sub>Papeete, French Polynesia</sub></td>
 </tr>
 <tr>

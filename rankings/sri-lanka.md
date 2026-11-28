@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **80** | 24 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **84** | 25 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -199,8 +199,8 @@
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/gamonoid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gamonoid/icehrm"><b>gamonoid/icehrm</b></a><br><sub>Manage your employees easily with a robust and efficient Human Resource Management System</sub></td>
-<td align="right"><b>742</b></td>
-<td align="right">428</td>
+<td align="right"><b>741</b></td>
+<td align="right">429</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -220,21 +220,21 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/nimsandu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nimsandu/spicetify-bloom"><b>nimsandu/spicetify-bloom</b></a><br><sub>Spicetify theme inspired by Microsoft&#39;s Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Lis…</sub></td>
-<td align="right"><b>681</b></td>
+<td align="right"><b>682</b></td>
 <td align="right">54</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/IsuruMaduranga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IsuruMaduranga/harness-engineering-101"><b>IsuruMaduranga/harness-engineering-101</b></a><br><sub>Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body.</sub></td>
-<td align="right"><b>662</b></td>
-<td align="right">69</td>
+<td align="right"><b>666</b></td>
+<td align="right">70</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/khr898.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khr898/ntfsmac"><b>khr898/ntfsmac</b></a><br><sub>NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification.</sub></td>
-<td align="right"><b>656</b></td>
+<td align="right"><b>657</b></td>
 <td align="right">22</td>
 <td>Swift</td>
 </tr>
@@ -581,6 +581,34 @@
 <td align="right">60</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/poorna-soysa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/poorna-soysa/books-api-docker-compose-postgresql-redis"><b>poorna-soysa/books-api-docker-compose-postgresql-redis</b></a><br><sub>This repository showcases a sample API built with .NET 10, designed to demonstrate the integration of Docker Compose fo…</sub></td>
+<td align="right"><b>286</b></td>
+<td align="right">179</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/arunoda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arunoda/meteor-streams"><b>arunoda/meteor-streams</b></a><br><sub>Realtime messaging for Meteor</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">96</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/kalanakt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kalanakt/awesome-telegram"><b>kalanakt/awesome-telegram</b></a><br><sub>A curated list of awesome telegram groups, channels, bots, open source projects And Libraries</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">121</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/miyurudassanayake.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miyurudassanayake/sni-injector"><b>miyurudassanayake/sni-injector</b></a><br><sub>SNI Injecting tool for free internet (HTTP Injector)</sub></td>
+<td align="right"><b>278</b></td>
+<td align="right">91</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -589,8 +617,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 294 stars; 80 attributed candidates are tracked.
-- 99 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 278 stars; 84 attributed candidates are tracked.
+- 94 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

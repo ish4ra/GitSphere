@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 24 Nov 2026 | <a href="../data/SY.json">JSON</a> |
+| 🟡 Provisional | **4** | 26 Nov 2026 | <a href="../data/SY.json">JSON</a> |
 
 </div>
 
@@ -32,7 +32,7 @@
 <td align="right">2</td>
 <td><img src="https://github.com/yaser01.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yaser01/mkv-muxing-batch-gui"><b>yaser01/mkv-muxing-batch-gui</b></a><br><sub>App to muxing videos with audios/subtitles with so many options!</sub></td>
 <td align="right"><b>663</b></td>
-<td align="right">46</td>
+<td align="right">45</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -42,6 +42,13 @@
 <td align="right">6</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/ahmed-alnassif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmed-alnassif/AndroSH"><b>ahmed-alnassif/AndroSH</b></a><br><sub>AndroSH No-Root Multi-Distro Linux on Android via Shizuku/ADB - Run Arch, Fedora, Alpine, Debian, Ubuntu, Kali, Void, M…</sub></td>
+<td align="right"><b>291</b></td>
+<td align="right">24</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -50,8 +57,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 353 stars; 3 attributed candidates are tracked.
-- 120 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 291 stars; 4 attributed candidates are tracked.
+- 116 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

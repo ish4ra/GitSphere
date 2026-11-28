@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **47** | 24 Nov 2026 | <a href="../data/SA.json">JSON</a> |
+| 🟡 Provisional | **55** | 25 Nov 2026 | <a href="../data/SA.json">JSON</a> |
 
 </div>
 
@@ -350,6 +350,62 @@
 <td align="right">40</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/drmakerr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/drmakerr/DrPasswords"><b>drmakerr/DrPasswords</b></a><br><sub>Open-source physical password manager built with ESP32-S3 with HID typing and TOTP support.</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">48</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/mcanini.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mcanini/SysML-reading-list"><b>mcanini/SysML-reading-list</b></a><br><sub>Systems for ML/AI &amp; ML/AI for Systems paper reading list: A curated reading list of computer science research for work…</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">40</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/KAUST-Academy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KAUST-Academy/2025_Artificial-Intelligence-Summer"><b>KAUST-Academy/2025&#95;Artificial-Intelligence-Summer</b></a><br><sub>KAUST Academy Artificial Intelligence Summer 2025</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">37</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/Mosaibah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mosaibah/oreilly-ingest"><b>Mosaibah/oreilly-ingest</b></a><br><sub>Oreilly Downloader (PDF, EPUB, Markdown, JSON, Text)</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">72</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/paulgavrikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/paulgavrikov/xiaomi-miband-android"><b>paulgavrikov/xiaomi-miband-android</b></a><br><sub>Access Xiaomi MiBand from Android (4.3+) via Bluetooth LE.</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">100</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/rn0x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rn0x/altaqwaa-desktop"><b>rn0x/altaqwaa-desktop</b></a><br><sub>التقوى &#124; تطبيق إسلامي لسطح المكتب يعمل على انظمة التشغيل ويندوز ولينكس</sub></td>
+<td align="right"><b>278</b></td>
+<td align="right">34</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/obahareth.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/obahareth/are-you-es5"><b>obahareth/are-you-es5</b></a><br><sub>A package to help you find out which of your node&#95;modules aren&#39;t ES5 so you can add them to your Webpack/Rollup/Parcel…</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">22</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/Hamed-Hasan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hamed-Hasan/Online-Booking-Management"><b>Hamed-Hasan/Online-Booking-Management</b></a><br><sub>🏠🗺️ Chisfis: A Next.js template for all your booking needs! 🎉 Features 30+ pages, 🌓 Dark/Light modes, 🗺️ Google Ma…</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">132</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -358,8 +414,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 292 stars; 47 attributed candidates are tracked.
-- 97 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 274 stars; 55 attributed candidates are tracked.
+- 95 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

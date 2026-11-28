@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **76** | 24 Nov 2026 | <a href="../data/MA.json">JSON</a> |
+| 🟡 Provisional | **79** | 25 Nov 2026 | <a href="../data/MA.json">JSON</a> |
 
 </div>
 
@@ -206,8 +206,8 @@
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/anasfik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anasfik/openai"><b>anasfik/openai</b></a><br><sub>A typed OpenAI SDK for Dart and Flutter, with streaming and support for OpenAI-compatible providers.</sub></td>
-<td align="right"><b>664</b></td>
-<td align="right">229</td>
+<td align="right"><b>665</b></td>
+<td align="right">228</td>
 <td>Dart</td>
 </tr>
 <tr>
@@ -553,6 +553,27 @@
 <td align="right">54</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/yassinemaaroufi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yassinemaaroufi/MibianLib"><b>yassinemaaroufi/MibianLib</b></a><br><sub>Python Options Pricing Library</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">84</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/amjarmed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amjarmed/Awesome-AnyType-Resources"><b>amjarmed/Awesome-AnyType-Resources</b></a><br><sub>🎉 A curated collection of useful links, tutorials, and resources for the AnyType app – a knowledge management and orga…</sub></td>
+<td align="right"><b>286</b></td>
+<td align="right">13</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/yjose.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yjose/input-otp-native"><b>yjose/input-otp-native</b></a><br><sub>🔐 OTP input for React Native/Expo App: unstyled, copy-paste examples, fully tested</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">16</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -561,8 +582,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 292 stars; 76 attributed candidates are tracked.
-- 112 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 285 stars; 79 attributed candidates are tracked.
+- 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **46** | 24 Nov 2026 | <a href="../data/UY.json">JSON</a> |
+| 🟡 Provisional | **51** | 25 Nov 2026 | <a href="../data/UY.json">JSON</a> |
 
 </div>
 
@@ -171,7 +171,7 @@
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/git-artes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/git-artes/gr-tempest"><b>git-artes/gr-tempest</b></a><br><sub>An implementation of TEMPEST en GNU Radio</sub></td>
-<td align="right"><b>658</b></td>
+<td align="right"><b>660</b></td>
 <td align="right">73</td>
 <td>C++</td>
 </tr>
@@ -343,6 +343,41 @@
 <td align="right">48</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/skydiver.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skydiver/ewelink-api"><b>skydiver/ewelink-api</b></a><br><sub>eWeLink API for JavaScript</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">105</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/san650.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/san650/ember-cli-page-object"><b>san650/ember-cli-page-object</b></a><br><sub>This ember-cli addon eases the construction of page objects on your acceptance and integration tests</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">91</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/zevarito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zevarito/mixpanel"><b>zevarito/mixpanel</b></a><br><sub>Simple lib to track events in Mixpanel service. It can be used in any rack based framework.</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">82</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/ignaciogarcia-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ignaciogarcia-dev/walty"><b>ignaciogarcia-dev/walty</b></a><br><sub>On-chain crypto payment platform for individuals and businesses.</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">2</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/devnacho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devnacho/mountain_view"><b>devnacho/mountain&#95;view</b></a><br><sub>Living styleguide for Rails</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">26</td>
+<td>Ruby</td>
+</tr>
 </tbody>
 </table>
 
@@ -351,8 +386,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 293 stars; 46 attributed candidates are tracked.
-- 107 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 274 stars; 51 attributed candidates are tracked.
+- 104 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 80 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

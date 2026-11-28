@@ -156,17 +156,17 @@
 </tr>
 <tr>
 <td align="right">20</td>
-<td><a href="https://github.com/ENG-CJ"><img src="https://avatars.githubusercontent.com/u/77126546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ENG-CJ"><b>Abdulrahman</b></a><br><sub>&#64;ENG-CJ</sub></td>
-<td align="right"><b>114</b></td>
-<td align="right">157</td>
-<td><sub>Mogdisho,banadir,somalia</sub></td>
-</tr>
-<tr>
-<td align="right">21</td>
 <td><a href="https://github.com/Manka-Mohamet"><img src="https://avatars.githubusercontent.com/u/112868742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Manka-Mohamet"><b>عبد الرحمان محمد</b></a><br><sub>&#64;Manka-Mohamet</sub></td>
 <td align="right"><b>112</b></td>
 <td align="right">7</td>
 <td><sub>Somalia</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/ENG-CJ"><img src="https://avatars.githubusercontent.com/u/77126546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ENG-CJ"><b>Abdulrahman</b></a><br><sub>&#64;ENG-CJ</sub></td>
+<td align="right"><b>111</b></td>
+<td align="right">157</td>
+<td><sub>Mogdisho,banadir,somalia</sub></td>
 </tr>
 <tr>
 <td align="right">22</td>
@@ -353,7 +353,7 @@
 <tr>
 <td align="right">48</td>
 <td><a href="https://github.com/kingqabil"><img src="https://avatars.githubusercontent.com/u/20561465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kingqabil"><b>SadiQ HabiL</b></a><br><sub>&#64;kingqabil</sub></td>
-<td align="right"><b>44</b></td>
+<td align="right"><b>45</b></td>
 <td align="right">78</td>
 <td><sub>Somalia</sub></td>
 </tr>

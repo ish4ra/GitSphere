@@ -5,7 +5,7 @@
 "country": {"code":"NC","name":"New Caledonia","slug":"new-caledonia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":95,"ownerExpansionBacklog":133,"candidates":96,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":65,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":95,"ownerExpansionBacklog":131,"candidates":96,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":65,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk2NjgyMTYzOA==","name":"yaac-another-awesome-cv","nameWithOwner":"darwiin/yaac-another-awesome-cv","url":"https://github.com/darwiin/yaac-another-awesome-cv","description":"YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.","stars":1054,"forks":286,"primaryLanguage":"TeX","license":{"spdxId":"LPPL-1.3c"},"createdAt":"2016-08-29T07:29:23Z","pushedAt":"2022-11-14T22:46:27Z","archived":false,"owner":{"login":"darwiin","name":"Christophe ROGER","type":"User","url":"https://github.com/darwiin","location":"New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
   {"rank":2,"id":null,"name":"statasdmx","nameWithOwner":"roly97/statasdmx","url":"https://github.com/roly97/statasdmx","description":null,"stars":0,"forks":2,"primaryLanguage":"Stata","license":null,"createdAt":"2019-10-23T05:42:05Z","pushedAt":"2019-10-24T05:39:57Z","archived":false,"owner":{"login":"roly97","name":null,"type":"User","url":"https://github.com/roly97","location":"Noumea, New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -104,8 +104,8 @@
   {"rank":95,"id":null,"name":"CoursOpenclassrooms","nameWithOwner":"Xavier-Tiedrez/CoursOpenclassrooms","url":"https://github.com/Xavier-Tiedrez/CoursOpenclassrooms","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-09-07T05:12:48Z","pushedAt":"2021-09-07T05:12:49Z","archived":false,"owner":{"login":"Xavier-Tiedrez","name":"Xavier TIEDREZ","type":"User","url":"https://github.com/Xavier-Tiedrez","location":"New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":96,"id":null,"name":"Crex24Api","nameWithOwner":"Zebio21/Crex24Api","url":"https://github.com/Zebio21/Crex24Api","description":null,"stars":0,"forks":0,"primaryLanguage":"C#","license":{"spdxId":"Apache-2.0"},"createdAt":"2021-12-23T02:08:32Z","pushedAt":"2021-11-10T17:43:23Z","archived":false,"owner":{"login":"Zebio21","name":"Sébastien Boulanger","type":"User","url":"https://github.com/Zebio21","location":"Nouméa, New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "fad84593e427db78",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "afc669efa35defc2",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

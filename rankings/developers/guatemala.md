@@ -157,14 +157,14 @@
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/tian2992"><img src="https://avatars.githubusercontent.com/u/203330?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tian2992"><b>Sebastian Oliva</b></a><br><sub>&#64;tian2992</sub></td>
-<td align="right"><b>113</b></td>
+<td align="right"><b>112</b></td>
 <td align="right">136</td>
 <td><sub>Guatemala</sub></td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/Daniel0110000"><img src="https://avatars.githubusercontent.com/u/108102267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Daniel0110000"><b>Daniel Blas</b></a><br><sub>&#64;Daniel0110000</sub></td>
-<td align="right"><b>105</b></td>
+<td align="right"><b>104</b></td>
 <td align="right">19</td>
 <td><sub>Guatemala</sub></td>
 </tr>

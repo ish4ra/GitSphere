@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **37** | 24 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **39** | 25 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -123,7 +123,7 @@
 <td align="right">15</td>
 <td><img src="https://github.com/esensar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/esensar/nvim-dev-container"><b>esensar/nvim-dev-container</b></a> <sub>archived</sub><br><sub>Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container</sub></td>
 <td align="right"><b>742</b></td>
-<td align="right">22</td>
+<td align="right">23</td>
 <td>Lua</td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/MS-WEB-BN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MS-WEB-BN/h4rpy"><b>MS-WEB-BN/h4rpy</b></a><br><sub>Automated WPA/WPA2 PSK attack tool.</sub></td>
-<td align="right"><b>677</b></td>
+<td align="right"><b>679</b></td>
 <td align="right">91</td>
 <td>Shell</td>
 </tr>
@@ -280,6 +280,20 @@
 <td align="right">119</td>
 <td>CSS</td>
 </tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/jasminb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jasminb/jsonapi-converter"><b>jasminb/jsonapi-converter</b></a><br><sub>JSONAPI-Converter is a Java/Android library that provides support for working with JSONAPI spec</sub></td>
+<td align="right"><b>281</b></td>
+<td align="right">88</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/nenadg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nenadg/docker-unity3d"><b>nenadg/docker-unity3d</b></a> <sub>archived</sub><br><sub>Docker container for Unity</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">18</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -288,8 +302,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 305 stars; 37 attributed candidates are tracked.
-- 36 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 274 stars; 39 attributed candidates are tracked.
+- 24 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

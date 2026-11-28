@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 25 Nov 2026 | <a href="../data/IQ.json">JSON</a> |
+| 🟡 Provisional | **19** | 25 Nov 2026 | <a href="../data/IQ.json">JSON</a> |
 
 </div>
 
@@ -147,6 +147,13 @@
 <td align="right">21</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/Ha3MrX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ha3MrX/GitTool"><b>Ha3MrX/GitTool</b></a><br><sub>Git Best Tools Hacking For Kali Linux 2018</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">61</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -155,8 +162,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 347 stars; 18 attributed candidates are tracked.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 280 stars; 19 attributed candidates are tracked.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

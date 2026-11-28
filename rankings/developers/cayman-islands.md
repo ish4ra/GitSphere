@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/andreogle"><img src="https://avatars.githubusercontent.com/u/4114009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreogle"><b>André Ogle</b></a><br><sub>&#64;andreogle</sub></td>
-<td align="right"><b>75</b></td>
+<td align="right"><b>76</b></td>
 <td align="right">20</td>
 <td><sub>🇰🇾 Cayman Islands</sub></td>
 </tr>
@@ -2032,7 +2032,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 286 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 1 of 67 in round 1.
+- **Location discovery:** term 4 of 67 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

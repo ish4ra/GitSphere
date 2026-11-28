@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **40** | 24 Nov 2026 | <a href="../data/TN.json">JSON</a> |
+| 🟡 Provisional | **42** | 25 Nov 2026 | <a href="../data/TN.json">JSON</a> |
 
 </div>
 
@@ -107,29 +107,29 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><img src="https://github.com/ahmedmani.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmedmani/pairipfix"><b>ahmedmani/pairipfix</b></a><br><sub>A simple LSPosed module to bypass signature checks for apks installed from outside google play</sub></td>
+<td align="right"><b>722</b></td>
+<td align="right">55</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><img src="https://github.com/omarabid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/omarabid/rust-companies"><b>omarabid/rust-companies</b></a><br><sub>A list of companies using Rust in production.</sub></td>
 <td align="right"><b>721</b></td>
 <td align="right">82</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><img src="https://github.com/sigmaSd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sigmaSd/IRust"><b>sigmaSd/IRust</b></a><br><sub>Cross Platform Rust Repl</sub></td>
-<td align="right"><b>716</b></td>
+<td align="right"><b>715</b></td>
 <td align="right">38</td>
 <td>Rust</td>
 </tr>
 <tr>
-<td align="right">15</td>
-<td><img src="https://github.com/ahmedmani.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmedmani/pairipfix"><b>ahmedmani/pairipfix</b></a><br><sub>A simple LSPosed module to bypass signature checks for apks installed from outside google play</sub></td>
-<td align="right"><b>715</b></td>
-<td align="right">53</td>
-<td>Java</td>
-</tr>
-<tr>
 <td align="right">16</td>
 <td><img src="https://github.com/Mino260806.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mino260806/KeyboardGPT"><b>Mino260806/KeyboardGPT</b></a><br><sub>LSPosed Module to integrate Generative AI like ChatGPT in keyboard.</sub></td>
-<td align="right"><b>703</b></td>
+<td align="right"><b>704</b></td>
 <td align="right">36</td>
 <td>Java</td>
 </tr>
@@ -301,6 +301,20 @@
 <td align="right">25</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/Loukious.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Loukious/TikTokStreamKeyGenerator"><b>Loukious/TikTokStreamKeyGenerator</b></a><br><sub>TikTok Live Stream Key Generator for OBS Studio</sub></td>
+<td align="right"><b>291</b></td>
+<td align="right">75</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/Cyb0r9.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cyb0r9/Androspy"><b>Cyb0r9/Androspy</b></a><br><sub>Androspy framework is a Backdoor Crypter &amp; Creator with Automatic IP Poisener</sub></td>
+<td align="right"><b>271</b></td>
+<td align="right">68</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -309,8 +323,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 303 stars; 40 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 271 stars; 42 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

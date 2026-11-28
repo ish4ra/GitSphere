@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/IR.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/IR.json">JSON</a> |
 
 </div>
 
@@ -226,36 +226,36 @@
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/ultrasecurity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ultrasecurity/webkiller"><b>ultrasecurity/webkiller</b></a><br><sub>Tool Information Gathering Write By Python.</sub></td>
-<td align="right"><b>751</b></td>
-<td align="right">177</td>
-<td>Python</td>
+<td><img src="https://github.com/ultrasecurity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ultrasecurity/webkiller"><b>ultrasecurity/webkiller</b></a><br><sub>agentic recon &amp; exploitation engine for bug bounty &amp; pentest.</sub></td>
+<td align="right"><b>753</b></td>
+<td align="right">176</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/niyumard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/niyumard/Doom-Emacs-Cheat-Sheet"><b>niyumard/Doom-Emacs-Cheat-Sheet</b></a><br><sub>This is a cheat sheet for doom emacs, mostly from the guides I see online.</sub></td>
-<td align="right"><b>745</b></td>
+<td align="right"><b>746</b></td>
 <td align="right">72</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/MatinGhanbari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatinGhanbari/v2ray-configs"><b>MatinGhanbari/v2ray-configs</b></a><br><sub>♾️ Free V2ray Configs, Updating Every 15 minutes.</sub></td>
-<td align="right"><b>719</b></td>
+<td align="right"><b>723</b></td>
 <td align="right">84</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/vfarid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vfarid/v2ray-worker-sub"><b>vfarid/v2ray-worker-sub</b></a> <sub>archived</sub><br><sub>A Cloudflare&#39;s Worker script to gather free v2ray configs and mix them with worker in order to make them work over filt…</sub></td>
-<td align="right"><b>708</b></td>
+<td align="right"><b>707</b></td>
 <td align="right">293</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/kavaan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kavaan/clean-architecture-solution-template"><b>kavaan/clean-architecture-solution-template</b></a><br><sub>You don&#39;t always need to start over; consider utilizing the existing infrastructure!</sub></td>
-<td align="right"><b>688</b></td>
+<td align="right"><b>687</b></td>
 <td align="right">129</td>
 <td>—</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 348 stars; 132 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 348 stars; 150 attributed candidates are tracked.
 - 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

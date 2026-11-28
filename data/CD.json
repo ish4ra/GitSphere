@@ -3,12 +3,14 @@
 "mode": "repositories",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CD","name":"DR Congo","slug":"dr-congo"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":133,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":112,"unresolved":0},"exhaustive":false},
-"repositories": [],
-"contentHash": "6df94cd34bd71d1c",
-"updatedAt": "2026-11-27T20:39:08.642Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"coverage": {"basis":"partial","cutoffStars":279,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":129,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":112,"unresolved":0},"exhaustive":false},
+"repositories": [
+  {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzNTM1NDYwMTk=","name":"deeplearningtheory","nameWithOwner":"foocker/deeplearningtheory","url":"https://github.com/foocker/deeplearningtheory","description":null,"stars":279,"forks":26,"primaryLanguage":null,"license":{"spdxId":"Apache-2.0"},"createdAt":"2021-04-01T02:14:18Z","pushedAt":"2026-03-14T03:39:20Z","archived":false,"owner":{"login":"foocker","name":"fq","type":"User","url":"https://github.com/foocker","location":"CD","attribution":{"confidence":"medium","evidence":"country-code"}},"verifiedOn":"2026-11-28"}
+],
+"contentHash": "7110cd6664a5209c",
+"updatedAt": "2026-11-28T03:23:20.276Z",
+"verifiedOn": "2026-11-28",
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **33** | 22 Nov 2026 | <a href="../../data/contributors/CR.json">JSON</a> |
+| 🟡 Provisional | **37** | 22 Nov 2026 | <a href="../../data/contributors/CR.json">JSON</a> |
 
 </div>
 
@@ -79,7 +79,7 @@
 </tr>
 <tr>
 <td align="right">7</td>
-<td><a href="https://github.com/Klerith"><img src="https://avatars.githubusercontent.com/u/3438503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Klerith"><b>Fernando Herrera</b></a><br><sub>&#64;Klerith · 15,639 followers</sub></td>
+<td><a href="https://github.com/Klerith"><img src="https://avatars.githubusercontent.com/u/3438503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Klerith"><b>Fernando Herrera</b></a><br><sub>&#64;Klerith · 15,642 followers</sub></td>
 <td align="right"><b>746</b></td>
 <td align="right">647</td>
 <td align="right">67</td>
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/get-itips"><img src="https://avatars.githubusercontent.com/u/36666927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/get-itips"><b>Andres Mariano Gorzelany</b></a><br><sub>&#64;get-itips · 87 followers</sub></td>
+<td align="right"><b>561</b></td>
+<td align="right">559</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/maRce10"><img src="https://avatars.githubusercontent.com/u/13245502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maRce10"><b>Marcelo Araya-Salas</b></a><br><sub>&#64;maRce10 · 78 followers</sub></td>
 <td align="right"><b>558</b></td>
 <td align="right">532</td>
@@ -123,7 +132,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/tito"><img src="https://avatars.githubusercontent.com/u/37904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tito"><b>Mathieu Virbel</b></a><br><sub>&#64;tito · 534 followers</sub></td>
 <td align="right"><b>551</b></td>
 <td align="right">324</td>
@@ -132,7 +141,7 @@
 <td align="right">27</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/JoanEsquivel"><img src="https://avatars.githubusercontent.com/u/48256183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoanEsquivel"><b>Joan Esquivel</b></a><br><sub>&#64;JoanEsquivel · 378 followers</sub></td>
 <td align="right"><b>422</b></td>
 <td align="right">399</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/miguelestradam3"><img src="https://avatars.githubusercontent.com/u/212426258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miguelestradam3"><b>Miguel Estrada</b></a><br><sub>&#64;miguelestradam3 · 1,130 followers</sub></td>
 <td align="right"><b>357</b></td>
 <td align="right">327</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/brolag"><img src="https://avatars.githubusercontent.com/u/1393385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brolag"><b>Alfredo Bonilla</b></a><br><sub>&#64;brolag · 204 followers</sub></td>
 <td align="right"><b>319</b></td>
 <td align="right">258</td>
@@ -159,7 +168,7 @@
 <td align="right">12</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/AndrewJey"><img src="https://avatars.githubusercontent.com/u/8399156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndrewJey"><b>Andrés Joseph Jiménez Leandro</b></a><br><sub>&#64;AndrewJey · 81 followers</sub></td>
 <td align="right"><b>313</b></td>
 <td align="right">241</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/xandro2021"><img src="https://avatars.githubusercontent.com/u/88587370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xandro2021"><b>xandro2021</b></a><br><sub>&#64;xandro2021 · 107 followers</sub></td>
 <td align="right"><b>309</b></td>
 <td align="right">285</td>
@@ -177,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/Crisrod0912"><img src="https://avatars.githubusercontent.com/u/255913826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Crisrod0912"><b>Cristopher Rodríguez</b></a><br><sub>&#64;Crisrod0912 · 196 followers</sub></td>
 <td align="right"><b>252</b></td>
 <td align="right">223</td>
@@ -186,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/SRZpeedTEC"><img src="https://avatars.githubusercontent.com/u/167647761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SRZpeedTEC"><b>Santiago Boza Quirós</b></a><br><sub>&#64;SRZpeedTEC · 5 followers</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">157</td>
@@ -195,7 +204,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/AustinPonce"><img src="https://avatars.githubusercontent.com/u/167488463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AustinPonce"><b>Austin Antonio Carrillo Ponce</b></a><br><sub>&#64;AustinPonce · 1 followers</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">121</td>
@@ -204,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/elmaedesistemas"><img src="https://avatars.githubusercontent.com/u/47683800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elmaedesistemas"><b>Deiby Mejia Ruiz</b></a><br><sub>&#64;elmaedesistemas · 82 followers</sub></td>
 <td align="right"><b>137</b></td>
 <td align="right">112</td>
@@ -213,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/siddharta1337"><img src="https://avatars.githubusercontent.com/u/791982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/siddharta1337"><b>Carlos Solis</b></a><br><sub>&#64;siddharta1337 · 491 followers</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">97</td>
@@ -222,7 +231,16 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
+<td><a href="https://github.com/danielcdz"><img src="https://avatars.githubusercontent.com/u/66186331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielcdz"><b>Daniel C</b></a><br><sub>&#64;danielcdz · 77 followers</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">92</td>
+<td align="right">7</td>
+<td align="right">5</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/efonsecab"><img src="https://avatars.githubusercontent.com/u/3481899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/efonsecab"><b>Eduardo Fonseca</b></a><br><sub>&#64;efonsecab · 82 followers</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">93</td>
@@ -231,7 +249,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">26</td>
 <td><a href="https://github.com/r0r0x-xx"><img src="https://avatars.githubusercontent.com/u/55760024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r0r0x-xx"><b>r0r0x</b></a><br><sub>&#64;r0r0x-xx · 461 followers</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">79</td>
@@ -240,7 +258,16 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">27</td>
+<td><a href="https://github.com/rcstr"><img src="https://avatars.githubusercontent.com/u/532402?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rcstr"><b>Rommel Castro</b></a><br><sub>&#64;rcstr · 79 followers</sub></td>
+<td align="right"><b>86</b></td>
+<td align="right">66</td>
+<td align="right">14</td>
+<td align="right">0</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/come-maiz"><img src="https://avatars.githubusercontent.com/u/617831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/come-maiz"><b>Leonardo Arias Fonseca</b></a><br><sub>&#64;come-maiz · 263 followers</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">9</td>
@@ -249,7 +276,7 @@
 <td align="right">48</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">29</td>
 <td><a href="https://github.com/jorneycr"><img src="https://avatars.githubusercontent.com/u/30164447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorneycr"><b>Jorney Lopez</b></a><br><sub>&#64;jorneycr · 773 followers</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">46</td>
@@ -258,7 +285,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">30</td>
 <td><a href="https://github.com/FvD"><img src="https://avatars.githubusercontent.com/u/2441145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FvD"><b>Frans van Dunné</b></a><br><sub>&#64;FvD · 80 followers</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">37</td>
@@ -267,7 +294,7 @@
 <td align="right">12</td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">31</td>
 <td><a href="https://github.com/Fabricio-Alvarez"><img src="https://avatars.githubusercontent.com/u/181508850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fabricio-Alvarez"><b>Fabricio Álvarez Ruiz</b></a><br><sub>&#64;Fabricio-Alvarez · 1 followers</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">42</td>
@@ -276,7 +303,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">32</td>
 <td><a href="https://github.com/tuto1902"><img src="https://avatars.githubusercontent.com/u/2152532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tuto1902"><b>Arturo Rojas</b></a><br><sub>&#64;tuto1902 · 116 followers</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">23</td>
@@ -285,7 +312,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">33</td>
 <td><a href="https://github.com/JustinCast"><img src="https://avatars.githubusercontent.com/u/17890146?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JustinCast"><b>JustinCast</b></a><br><sub>&#64;JustinCast · 86 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">12</td>
@@ -294,7 +321,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">34</td>
 <td><a href="https://github.com/djhvscf"><img src="https://avatars.githubusercontent.com/u/4496763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djhvscf"><b>Dennis Hernández</b></a><br><sub>&#64;djhvscf · 104 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">6</td>
@@ -303,7 +330,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">35</td>
+<td><a href="https://github.com/ylv-io"><img src="https://avatars.githubusercontent.com/u/3285000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ylv-io"><b>Igor Yalovoy</b></a><br><sub>&#64;ylv-io · 130 followers</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">6</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">36</td>
 <td><a href="https://github.com/carlfm01"><img src="https://avatars.githubusercontent.com/u/32177100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlfm01"><b>Carlos Fonseca</b></a><br><sub>&#64;carlfm01 · 90 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -312,7 +348,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">37</td>
 <td><a href="https://github.com/MrAlex6204"><img src="https://avatars.githubusercontent.com/u/8126962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrAlex6204"><b>Alex Vera</b></a><br><sub>&#64;MrAlex6204 · 260 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -327,7 +363,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 37 of 418 discovered developers (381 awaiting measurement).
+- **Measured:** 42 of 424 discovered developers (382 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 58 in round 1.

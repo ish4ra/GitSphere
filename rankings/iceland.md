@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **64** | 24 Nov 2026 | <a href="../data/IS.json">JSON</a> |
+| 🟡 Provisional | **69** | 25 Nov 2026 | <a href="../data/IS.json">JSON</a> |
 
 </div>
 
@@ -213,7 +213,7 @@
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/sveinbjornt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sveinbjornt/hear"><b>sveinbjornt/hear</b></a><br><sub>Command line interface for the built-in speech recognition and transcription capabilities in macOS.</sub></td>
-<td align="right"><b>671</b></td>
+<td align="right"><b>670</b></td>
 <td align="right">35</td>
 <td>Objective-C</td>
 </tr>
@@ -469,6 +469,41 @@
 <td align="right">14</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/einaregilsson.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/einaregilsson/cards.js"><b>einaregilsson/cards.js</b></a><br><sub>Javascript library for card games.</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">174</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/imbue-bit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imbue-bit/OpenClaw-PwnKit"><b>imbue-bit/OpenClaw-PwnKit</b></a><br><sub>Get shell to almost any OpenClaw host machine.</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">36</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/soidaken.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/soidaken/VScrollView"><b>soidaken/VScrollView</b></a><br><sub>基于CocosCreater引擎编辑器的全新滚动组件和虚拟列表,目前仅支持3.8.x版本,其它版本待更新</sub></td>
+<td align="right"><b>286</b></td>
+<td align="right">139</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/fannarsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fannarsh/country-list"><b>fannarsh/country-list</b></a><br><sub>Maps ISO 3166-1-alpha-2 codes to English country names and vice versa.</sub></td>
+<td align="right"><b>286</b></td>
+<td align="right">85</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/rthor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rthor/isjs"><b>rthor/isjs</b></a><br><sub>Check your data against regular expressions or known keywords.</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">12</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -477,8 +512,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 300 stars; 64 attributed candidates are tracked.
-- 70 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 270 stars; 69 attributed candidates are tracked.
+- 67 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

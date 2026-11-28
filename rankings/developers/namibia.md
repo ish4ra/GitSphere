@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/Kacelo"><img src="https://avatars.githubusercontent.com/u/49986005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kacelo"><b>Vernon Kacelo</b></a><br><sub>&#64;Kacelo</sub></td>
-<td align="right"><b>94</b></td>
+<td align="right"><b>93</b></td>
 <td align="right">46</td>
 <td><sub>Windhoek, Namibia</sub></td>
 </tr>

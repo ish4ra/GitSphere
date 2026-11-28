@@ -5,7 +5,7 @@
 "country": {"code":"NE","name":"Niger","slug":"niger"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":52,"ownerExpansionBacklog":139,"candidates":54,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":65,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":52,"ownerExpansionBacklog":138,"candidates":54,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":65,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOJSDBLw","name":"mangayomi","nameWithOwner":"kodjodevf/mangayomi","url":"https://github.com/kodjodevf/mangayomi","description":"Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows","stars":4562,"forks":217,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-04-03T09:49:56Z","pushedAt":"2026-11-20T17:23:38Z","archived":false,"owner":{"login":"kodjodevf","name":"Moustapha Kodjo Amadou","type":"User","url":"https://github.com/kodjodevf","location":"Niamey,Niger","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOJ46_tw","name":"mangayomi-extensions","nameWithOwner":"kodjodevf/mangayomi-extensions","url":"https://github.com/kodjodevf/mangayomi-extensions","description":"Public source extensions (Manga & novels only) for the Mangayomi app.","stars":363,"forks":76,"primaryLanguage":"JavaScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-07-07T20:39:39Z","pushedAt":"2025-10-01T14:28:07Z","archived":true,"owner":{"login":"kodjodevf","name":"Moustapha Kodjo Amadou","type":"User","url":"https://github.com/kodjodevf","location":"Niamey,Niger","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-27"},
@@ -62,8 +62,8 @@
   {"rank":53,"id":null,"name":"SMILES-2026-Boubacar","nameWithOwner":"boubacarbetto/SMILES-2026-Boubacar","url":"https://github.com/boubacarbetto/SMILES-2026-Boubacar","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-05-10T09:12:24Z","pushedAt":"2026-05-10T22:43:22Z","archived":false,"owner":{"login":"boubacarbetto","name":"SOUMANA BETTO BOUBACAR","type":"User","url":"https://github.com/boubacarbetto","location":"Niamey, Niger","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":54,"id":null,"name":"glowing-doodle","nameWithOwner":"bounou08/glowing-doodle","url":"https://github.com/bounou08/glowing-doodle","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2025-04-21T22:57:19Z","pushedAt":"2025-04-21T22:57:41Z","archived":false,"owner":{"login":"bounou08","name":"bounou","type":"User","url":"https://github.com/bounou08","location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "5b99041f21fde831",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "7755d43a2dfc1685",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

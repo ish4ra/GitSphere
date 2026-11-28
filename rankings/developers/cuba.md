@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/vircoding"><img src="https://avatars.githubusercontent.com/u/105513077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vircoding"><b>Luis Miguel Navarro</b></a><br><sub>&#64;vircoding</sub></td>
-<td align="right"><b>110</b></td>
+<td align="right"><b>109</b></td>
 <td align="right">36</td>
 <td><sub>La Habana, Cuba</sub></td>
 </tr>

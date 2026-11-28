@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 24 Nov 2026 | <a href="../data/BF.json">JSON</a> |
+| 🟡 Provisional | **4** | 25 Nov 2026 | <a href="../data/BF.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/Yonaba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yonaba/Jumper"><b>Yonaba/Jumper</b></a><br><sub>Fast, lightweight and easy-to-use pathfinding library for grid-based games</sub></td>
-<td align="right"><b>652</b></td>
+<td align="right"><b>653</b></td>
 <td align="right">129</td>
 <td>Lua</td>
 </tr>
@@ -58,7 +58,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 425 stars; 4 attributed candidates are tracked.
-- 137 multi-repository owners are queued for expansion.
+- 134 multi-repository owners are queued for expansion.
 - **Location discovery:** term 1 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

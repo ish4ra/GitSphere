@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/PK.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/PK.json">JSON</a> |
 
 </div>
 
@@ -640,14 +640,14 @@
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/thsnkhn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thsnkhn/harbor"><b>thsnkhn/harbor</b></a><br><sub>Beautiful native macOS download manager for direct links, magnets, and torrents.</sub></td>
-<td align="right"><b>724</b></td>
+<td align="right"><b>729</b></td>
 <td align="right">33</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/rehmatworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rehmatworks/gplaydl"><b>rehmatworks/gplaydl</b></a><br><sub>Command Line Google Play APK downloader. Download APK files to your PC directly from Google Play Store.</sub></td>
-<td align="right"><b>711</b></td>
+<td align="right"><b>712</b></td>
 <td align="right">84</td>
 <td>Python</td>
 </tr>

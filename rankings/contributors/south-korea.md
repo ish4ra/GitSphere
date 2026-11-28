@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **26** | 22 Nov 2026 | <a href="../../data/contributors/KR.json">JSON</a> |
+| 🟡 Provisional | **30** | 22 Nov 2026 | <a href="../../data/contributors/KR.json">JSON</a> |
 
 </div>
 
@@ -178,6 +178,15 @@
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/mazelines"><img src="https://avatars.githubusercontent.com/u/4396439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mazelines"><b>jplee</b></a><br><sub>&#64;mazelines · 110 followers</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">216</td>
+<td align="right">40</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/potatogim"><img src="https://avatars.githubusercontent.com/u/4374338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/potatogim"><b>Jihyeon Gim</b></a><br><sub>&#64;potatogim · 189 followers</sub></td>
 <td align="right"><b>306</b></td>
 <td align="right">161</td>
@@ -186,7 +195,7 @@
 <td align="right">28</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/wdshin"><img src="https://avatars.githubusercontent.com/u/559032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wdshin"><b>Wondong Shin</b></a><br><sub>&#64;wdshin · 126 followers</sub></td>
 <td align="right"><b>252</b></td>
 <td align="right">195</td>
@@ -195,7 +204,7 @@
 <td align="right">10</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/sailfish009"><img src="https://avatars.githubusercontent.com/u/17582766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sailfish009"><b>sailfish009</b></a><br><sub>&#64;sailfish009 · 119 followers</sub></td>
 <td align="right"><b>227</b></td>
 <td align="right">168</td>
@@ -204,7 +213,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/kenu"><img src="https://avatars.githubusercontent.com/u/718691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenu"><b>kenu</b></a><br><sub>&#64;kenu · 745 followers</sub></td>
 <td align="right"><b>223</b></td>
 <td align="right">174</td>
@@ -213,7 +222,7 @@
 <td align="right">6</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/Kadantte"><img src="https://avatars.githubusercontent.com/u/11579313?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kadantte"><b>Jae Jin</b></a><br><sub>&#64;Kadantte · 186 followers</sub></td>
 <td align="right"><b>188</b></td>
 <td align="right">40</td>
@@ -222,7 +231,7 @@
 <td align="right">47</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
 <td><a href="https://github.com/curieuxjy"><img src="https://avatars.githubusercontent.com/u/40867411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/curieuxjy"><b>Jung Yeon Lee</b></a><br><sub>&#64;curieuxjy · 307 followers</sub></td>
 <td align="right"><b>143</b></td>
 <td align="right">117</td>
@@ -231,7 +240,16 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">25</td>
+<td><a href="https://github.com/hskang9"><img src="https://avatars.githubusercontent.com/u/12888144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hskang9"><b>Hyungsuk Kang</b></a><br><sub>&#64;hskang9 · 131 followers</sub></td>
+<td align="right"><b>134</b></td>
+<td align="right">120</td>
+<td align="right">7</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">26</td>
 <td><a href="https://github.com/jeongwhanchoi"><img src="https://avatars.githubusercontent.com/u/29731173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeongwhanchoi"><b>Jeongwhan Choi</b></a><br><sub>&#64;jeongwhanchoi · 281 followers</sub></td>
 <td align="right"><b>124</b></td>
 <td align="right">92</td>
@@ -240,7 +258,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">27</td>
+<td><a href="https://github.com/JoeCP17"><img src="https://avatars.githubusercontent.com/u/76832303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoeCP17"><b>Ueibin Kim</b></a><br><sub>&#64;JoeCP17 · 113 followers</sub></td>
+<td align="right"><b>59</b></td>
+<td align="right">53</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/rheehot"><img src="https://avatars.githubusercontent.com/u/7463532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rheehot"><b>Peter Lee Jong Woo</b></a><br><sub>&#64;rheehot · 271 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">3</td>
@@ -249,7 +276,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">29</td>
+<td><a href="https://github.com/codewalkerster"><img src="https://avatars.githubusercontent.com/u/2783234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codewalkerster"><b>Chris</b></a><br><sub>&#64;codewalkerster · 114 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">18</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">30</td>
 <td><a href="https://github.com/pjc0247"><img src="https://avatars.githubusercontent.com/u/1961216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pjc0247"><b>Park June Chul</b></a><br><sub>&#64;pjc0247 · 158 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -264,7 +300,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 26 of 1,414 discovered developers (1,388 awaiting measurement).
+- **Measured:** 30 of 1,476 discovered developers (1,446 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 152 in round 1.

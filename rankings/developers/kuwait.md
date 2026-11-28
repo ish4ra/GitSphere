@@ -107,240 +107,240 @@
 </tr>
 <tr>
 <td align="right">13</td>
-<td><a href="https://github.com/DiNaSoR"><img src="https://avatars.githubusercontent.com/u/8531014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DiNaSoR"><b>BuYousef</b></a><br><sub>&#64;DiNaSoR</sub></td>
-<td align="right"><b>108</b></td>
-<td align="right">50</td>
-<td><sub>Kuwait</sub></td>
-</tr>
-<tr>
-<td align="right">14</td>
 <td><a href="https://github.com/asmaaeltawil"><img src="https://avatars.githubusercontent.com/u/47079983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asmaaeltawil"><b>Asmaa Eltawil</b></a><br><sub>&#64;asmaaeltawil</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">4</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">14</td>
 <td><a href="https://github.com/knro"><img src="https://avatars.githubusercontent.com/u/5986347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/knro"><b>Jasem Mutlaq</b></a><br><sub>&#64;knro</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">53</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">15</td>
 <td><a href="https://github.com/iZaL"><img src="https://avatars.githubusercontent.com/u/6410176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iZaL"><b>Afzal Abbas</b></a><br><sub>&#64;iZaL</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">112</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">16</td>
 <td><a href="https://github.com/Cliprz"><img src="https://avatars.githubusercontent.com/u/2878229?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cliprz"><b>Yousef Ismaeil</b></a><br><sub>&#64;Cliprz</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">8</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">17</td>
 <td><a href="https://github.com/mohammedgmgn"><img src="https://avatars.githubusercontent.com/u/17784553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohammedgmgn"><b>Mohammed Abdullah</b></a><br><sub>&#64;mohammedgmgn</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">108</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">18</td>
 <td><a href="https://github.com/kuwaitbinary"><img src="https://avatars.githubusercontent.com/u/1690779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kuwaitbinary"><b>Abdullah Al Mashmoum</b></a><br><sub>&#64;kuwaitbinary</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">9</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">19</td>
 <td><a href="https://github.com/AlanBennyOfficial"><img src="https://avatars.githubusercontent.com/u/148381987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlanBennyOfficial"><b>Alan Benny</b></a><br><sub>&#64;AlanBennyOfficial</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">36</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">20</td>
 <td><a href="https://github.com/Abdulkader-Safi"><img src="https://avatars.githubusercontent.com/u/53955839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdulkader-Safi"><b>Abdulkader Safi</b></a><br><sub>&#64;Abdulkader-Safi</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">253</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">21</td>
 <td><a href="https://github.com/MoathOthman"><img src="https://avatars.githubusercontent.com/u/1166727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MoathOthman"><b>Moath othman</b></a><br><sub>&#64;MoathOthman</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">82</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">22</td>
 <td><a href="https://github.com/MaaSTaaR"><img src="https://avatars.githubusercontent.com/u/3127391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MaaSTaaR"><b>Mohammed Q. Hussain</b></a><br><sub>&#64;MaaSTaaR</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">17</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">23</td>
 <td><a href="https://github.com/Eazy2Code"><img src="https://avatars.githubusercontent.com/u/94037749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eazy2Code"><b>Eazy2Code</b></a><br><sub>&#64;Eazy2Code</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">20</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">24</td>
 <td><a href="https://github.com/Dreamersoul"><img src="https://avatars.githubusercontent.com/u/6298868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dreamersoul"><b>Hamad AlGhanim</b></a><br><sub>&#64;Dreamersoul</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">54</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">25</td>
 <td><a href="https://github.com/melsheikh92"><img src="https://avatars.githubusercontent.com/u/5676934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melsheikh92"><b>Mahmoud Elsheikh</b></a><br><sub>&#64;melsheikh92</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">26</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">26</td>
 <td><a href="https://github.com/EdwardMuturi"><img src="https://avatars.githubusercontent.com/u/9773206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdwardMuturi"><b>Edward Muturi</b></a><br><sub>&#64;EdwardMuturi</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">73</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">27</td>
 <td><a href="https://github.com/selmux"><img src="https://avatars.githubusercontent.com/u/73164386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/selmux"><b>Sulaiman Alhasawi</b></a><br><sub>&#64;selmux</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">4</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">28</td>
 <td><a href="https://github.com/Octowl"><img src="https://avatars.githubusercontent.com/u/1828497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Octowl"><b>Aziz Alsaffar</b></a><br><sub>&#64;Octowl</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">87</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">29</td>
 <td><a href="https://github.com/Maryom"><img src="https://avatars.githubusercontent.com/u/3218401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maryom"><b>Mariam AlJamea</b></a><br><sub>&#64;Maryom</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">46</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">30</td>
 <td><a href="https://github.com/aesmail"><img src="https://avatars.githubusercontent.com/u/602354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aesmail"><b>Abdullah Esmail</b></a><br><sub>&#64;aesmail</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">31</td>
 <td><a href="https://github.com/Bashar"><img src="https://avatars.githubusercontent.com/u/142219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bashar"><b>Bashar Al-Abdulhadi</b></a><br><sub>&#64;Bashar</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">53</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">32</td>
 <td><a href="https://github.com/aabouissa"><img src="https://avatars.githubusercontent.com/u/33400295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aabouissa"><b>Ahmad Abouissa</b></a><br><sub>&#64;aabouissa</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">25</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">33</td>
 <td><a href="https://github.com/saskw2010"><img src="https://avatars.githubusercontent.com/u/3606587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saskw2010"><b>Mostafa Elnagar</b></a><br><sub>&#64;saskw2010</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">35</td>
 <td><sub>kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">34</td>
 <td><a href="https://github.com/arabcoders"><img src="https://avatars.githubusercontent.com/u/1621552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arabcoders"><b>Abdulmohsen</b></a><br><sub>&#64;arabcoders</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">35</td>
 <td><a href="https://github.com/AlahmadiQ8"><img src="https://avatars.githubusercontent.com/u/3461501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlahmadiQ8"><b>Mohammad Asad Alahmadi</b></a><br><sub>&#64;AlahmadiQ8</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">201</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">36</td>
 <td><a href="https://github.com/2div"><img src="https://avatars.githubusercontent.com/u/96177680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2div"><b>mdiv.io</b></a><br><sub>&#64;2div</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">43</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">37</td>
 <td><a href="https://github.com/zahedshareef"><img src="https://avatars.githubusercontent.com/u/1624394?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zahedshareef"><b>ザヘド</b></a><br><sub>&#64;zahedshareef</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">40</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">38</td>
 <td><a href="https://github.com/aalhendi"><img src="https://avatars.githubusercontent.com/u/20049338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aalhendi"><b>Abdulrazzaq Alhendi</b></a><br><sub>&#64;aalhendi</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">30</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">39</td>
 <td><a href="https://github.com/careless10"><img src="https://avatars.githubusercontent.com/u/3756021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/careless10"><b>Menawer</b></a><br><sub>&#64;careless10</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">24</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">40</td>
 <td><a href="https://github.com/AbdelazizMoustafa1"><img src="https://avatars.githubusercontent.com/u/40801573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdelazizMoustafa1"><b>Abdelaziz Moustafa</b></a><br><sub>&#64;AbdelazizMoustafa1</sub></td>
 <td align="right"><b>44</b></td>
 <td align="right">12</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">41</td>
 <td><a href="https://github.com/drhema"><img src="https://avatars.githubusercontent.com/u/8281473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drhema"><b>Ibrahim Elsherbiny</b></a><br><sub>&#64;drhema</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">135</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">42</td>
 <td><a href="https://github.com/AbdullahAlh"><img src="https://avatars.githubusercontent.com/u/3493883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdullahAlh"><b>Abdullah Alhussainan</b></a><br><sub>&#64;AbdullahAlh</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">14</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
-<td><a href="https://github.com/jamalxcode"><img src="https://avatars.githubusercontent.com/u/59729959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamalxcode"><b>jamal xcode</b></a><br><sub>&#64;jamalxcode</sub></td>
-<td align="right"><b>5</b></td>
-<td align="right">52</td>
+<td align="right">43</td>
+<td><a href="https://github.com/halfwhey"><img src="https://avatars.githubusercontent.com/u/269841589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halfwhey"><b>halfwhey</b></a><br><sub>&#64;halfwhey</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">0</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">44</td>
 <td><a href="https://github.com/Khanal2023"><img src="https://avatars.githubusercontent.com/u/154681150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Khanal2023"><b>Devendra-Khanal</b></a><br><sub>&#64;Khanal2023</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">5</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">45</td>
 <td><a href="https://github.com/Yacine-Book"><img src="https://avatars.githubusercontent.com/u/117831802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yacine-Book"><b>YacineYax</b></a><br><sub>&#64;Yacine-Book</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
+<td><sub>Kuwait</sub></td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><a href="https://github.com/jamalxcode"><img src="https://avatars.githubusercontent.com/u/59729959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamalxcode"><b>jamal xcode</b></a><br><sub>&#64;jamalxcode</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">54</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
@@ -506,191 +506,191 @@
 </tr>
 <tr>
 <td align="right">70</td>
-<td><a href="https://github.com/BekRashidov"><img src="https://avatars.githubusercontent.com/u/51822370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BekRashidov"><b>Bekcods</b></a><br><sub>&#64;BekRashidov</sub></td>
-<td align="right"><b>3</b></td>
-<td align="right">52</td>
-<td><sub>Kuwait</sub></td>
-</tr>
-<tr>
-<td align="right">71</td>
 <td><a href="https://github.com/melroy27"><img src="https://avatars.githubusercontent.com/u/42931694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melroy27"><b>Melroy Rodrigues</b></a><br><sub>&#64;melroy27</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">34</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">71</td>
 <td><a href="https://github.com/mrdasdeveloper"><img src="https://avatars.githubusercontent.com/u/216001794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrdasdeveloper"><b>Ramesh Kumar Das</b></a><br><sub>&#64;mrdasdeveloper</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">32</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">72</td>
 <td><a href="https://github.com/khurram-DS"><img src="https://avatars.githubusercontent.com/u/73300634?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khurram-DS"><b>khurram shakoor</b></a><br><sub>&#64;khurram-DS</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">29</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">73</td>
 <td><a href="https://github.com/umesha-1996"><img src="https://avatars.githubusercontent.com/u/77042124?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/umesha-1996"><b>Umesha Ravihari</b></a><br><sub>&#64;umesha-1996</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">27</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">74</td>
 <td><a href="https://github.com/hrswatirai-debug"><img src="https://avatars.githubusercontent.com/u/245583331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hrswatirai-debug"><b>Swati</b></a><br><sub>&#64;hrswatirai-debug</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">25</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">75</td>
 <td><a href="https://github.com/rzaeen"><img src="https://avatars.githubusercontent.com/u/122557765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rzaeen"><b>rzaeen</b></a><br><sub>&#64;rzaeen</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">22</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">76</td>
 <td><a href="https://github.com/Mohsporty"><img src="https://avatars.githubusercontent.com/u/89320733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mohsporty"><b>Mohammad Assadi</b></a><br><sub>&#64;Mohsporty</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">18</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">77</td>
 <td><a href="https://github.com/catlomao"><img src="https://avatars.githubusercontent.com/u/84031819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/catlomao"><b>catlomao</b></a><br><sub>&#64;catlomao</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">15</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">78</td>
 <td><a href="https://github.com/AAshry10"><img src="https://avatars.githubusercontent.com/u/115898382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AAshry10"><b>Ahmed El-ashry</b></a><br><sub>&#64;AAshry10</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">13</td>
 <td><sub>Salmiya,Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">79</td>
 <td><a href="https://github.com/amalyosri"><img src="https://avatars.githubusercontent.com/u/64544563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amalyosri"><b>Amal Yosri</b></a><br><sub>&#64;amalyosri</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">12</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">80</td>
 <td><a href="https://github.com/khaled-sharaf"><img src="https://avatars.githubusercontent.com/u/21013563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khaled-sharaf"><b>Khaled Muhammed Sharaf Eldin</b></a><br><sub>&#64;khaled-sharaf</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">11</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">81</td>
 <td><a href="https://github.com/SuFxGIT"><img src="https://avatars.githubusercontent.com/u/85013290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SuFxGIT"><b>Abdullah Al-Baqer</b></a><br><sub>&#64;SuFxGIT</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">9</td>
 <td><sub>Kuwait city</sub></td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">82</td>
 <td><a href="https://github.com/agatho-daemon"><img src="https://avatars.githubusercontent.com/u/31913284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agatho-daemon"><b>Agathodaemon</b></a><br><sub>&#64;agatho-daemon</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">8</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">83</td>
 <td><a href="https://github.com/Abby-wq"><img src="https://avatars.githubusercontent.com/u/182691998?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abby-wq"><b>Abeha Ahsan</b></a><br><sub>&#64;Abby-wq</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">6</td>
 <td><sub>Fintas, Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">84</td>
 <td><a href="https://github.com/alansariteach"><img src="https://avatars.githubusercontent.com/u/309505588?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alansariteach"><b>alansari.teach</b></a><br><sub>&#64;alansariteach</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">6</td>
 <td><sub>kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">86</td>
+<td align="right">85</td>
 <td><a href="https://github.com/hany-elkhadragy"><img src="https://avatars.githubusercontent.com/u/63884803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hany-elkhadragy"><b>Hany Elkhadragy</b></a><br><sub>&#64;hany-elkhadragy</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">6</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">87</td>
+<td align="right">86</td>
 <td><a href="https://github.com/KhaledAliMoh"><img src="https://avatars.githubusercontent.com/u/15934104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhaledAliMoh"><b>KhaledAliMoh</b></a><br><sub>&#64;KhaledAliMoh</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">6</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">88</td>
+<td align="right">87</td>
 <td><a href="https://github.com/Yourstress"><img src="https://avatars.githubusercontent.com/u/992048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yourstress"><b>Mansour Al-Sarraf</b></a><br><sub>&#64;Yourstress</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">6</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">89</td>
+<td align="right">88</td>
 <td><a href="https://github.com/98alisayed"><img src="https://avatars.githubusercontent.com/u/70264391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/98alisayed"><b>Ali Sayed</b></a><br><sub>&#64;98alisayed</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">5</td>
 <td><sub>Salmiya, Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">90</td>
+<td align="right">89</td>
 <td><a href="https://github.com/q8mahir-devops"><img src="https://avatars.githubusercontent.com/u/132234040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/q8mahir-devops"><b>Muhammad Mahir</b></a><br><sub>&#64;q8mahir-devops</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">5</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">90</td>
 <td><a href="https://github.com/Rasas07"><img src="https://avatars.githubusercontent.com/u/88239508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rasas07"><b>Rasas Kii</b></a><br><sub>&#64;Rasas07</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">5</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">91</td>
 <td><a href="https://github.com/AbbasAlameer"><img src="https://avatars.githubusercontent.com/u/85877376?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbbasAlameer"><b>Abbas Alameer</b></a><br><sub>&#64;AbbasAlameer</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">4</td>
 <td><sub>Sabah Al-Salem University City, Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">92</td>
 <td><a href="https://github.com/1p51mu581"><img src="https://avatars.githubusercontent.com/u/59802206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1p51mu581"><b>╰┈⫸ᴳℜᴬиᴰ√⌁𝓜ą§τℰR꙰一ᴍᵈᴷ&#96;&#96;˚·.™</b></a><br><sub>&#64;1p51mu581</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">3</td>
 <td><sub>Denver, New York, Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">94</td>
+<td align="right">93</td>
 <td><a href="https://github.com/YazanQ"><img src="https://avatars.githubusercontent.com/u/15657797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YazanQ"><b>Yazan Qaisi</b></a><br><sub>&#64;YazanQ</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">94</td>
 <td><a href="https://github.com/DiwaniyaLabs"><img src="https://avatars.githubusercontent.com/u/991874?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DiwaniyaLabs"><b>Diwaniya Labs</b></a><br><sub>&#64;DiwaniyaLabs</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>
-<td align="right">96</td>
+<td align="right">95</td>
 <td><a href="https://github.com/devq8"><img src="https://avatars.githubusercontent.com/u/26865300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devq8"><b>Khaled Alghanim</b></a><br><sub>&#64;devq8</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">79</td>
+<td><sub>Kuwait</sub></td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><a href="https://github.com/BekRashidov"><img src="https://avatars.githubusercontent.com/u/51822370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BekRashidov"><b>Bekcods</b></a><br><sub>&#64;BekRashidov</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">52</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>

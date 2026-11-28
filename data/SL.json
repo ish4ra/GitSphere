@@ -5,10 +5,10 @@
 "country": {"code":"SL","name":"Sierra Leone","slug":"sierra-leone"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":142,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":69,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":141,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":69,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "75676f6d0d0fd0e8",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "debc6bc62a33567a",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

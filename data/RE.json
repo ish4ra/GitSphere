@@ -5,7 +5,7 @@
 "country": {"code":"RE","name":"Réunion","slug":"reunion"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":46,"ownerExpansionBacklog":132,"candidates":47,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":24,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":46,"ownerExpansionBacklog":131,"candidates":47,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":24,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDORUbedw","name":"snip","nameWithOwner":"edouard-claude/snip","url":"https://github.com/edouard-claude/snip","description":"CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go.","stars":485,"forks":50,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2026-02-20T04:01:26Z","pushedAt":"2026-11-05T14:15:31Z","archived":false,"owner":{"login":"edouard-claude","name":"Edouard CLAUDE","type":"User","url":"https://github.com/edouard-claude","location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"datocms-plugin-slug-with-collections","nameWithOwner":"JulClt/datocms-plugin-slug-with-collections","url":"https://github.com/JulClt/datocms-plugin-slug-with-collections","description":null,"stars":0,"forks":2,"primaryLanguage":"TypeScript","license":null,"createdAt":"2023-04-18T22:05:40Z","pushedAt":"2023-05-03T15:35:08Z","archived":false,"owner":{"login":"JulClt","name":"Julien Collet","type":"User","url":"https://github.com/JulClt","location":"Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -55,8 +55,8 @@
   {"rank":46,"id":null,"name":"pokemon-api-testing","nameWithOwner":"em-majowska/pokemon-api-testing","url":"https://github.com/em-majowska/pokemon-api-testing","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-09-25T18:10:54Z","pushedAt":"2026-09-25T18:18:46Z","archived":false,"owner":{"login":"em-majowska","name":"Ewa Majowska","type":"User","url":"https://github.com/em-majowska","location":"Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":47,"id":null,"name":"video_maker","nameWithOwner":"Emmanuel97423/video_maker","url":"https://github.com/Emmanuel97423/video_maker","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2025-03-03T13:10:36Z","pushedAt":"2025-04-01T18:44:53Z","archived":false,"owner":{"login":"Emmanuel97423","name":"Emmanuel Narcisse","type":"User","url":"https://github.com/Emmanuel97423","location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "825c5bdeb681a910",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "644306941d0c4662",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

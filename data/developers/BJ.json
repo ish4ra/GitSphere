@@ -5,7 +5,7 @@
 "country": {"code":"BJ","name":"Benin","slug":"benin"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":65,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":86,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":65,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":86,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI0MzIzNTgx","login":"JideGuru","name":"Festus Olusegun","url":"https://github.com/JideGuru","avatarUrl":"https://avatars.githubusercontent.com/u/24323581?s=80&v=4","followers":2197,"publicRepos":105,"location":"Cotonou, Benin.","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-27"},
   {"rank":2,"id":"U_kgDODVVCDQ","login":"yusions","name":"not very active rn","url":"https://github.com/yusions","avatarUrl":"https://avatars.githubusercontent.com/u/223691277?s=80&v=4","followers":566,"publicRepos":1,"location":"・・・・・ hi im ley / cinna / holli","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
@@ -22,11 +22,12 @@
   {"rank":13,"id":"U_kgDOCnnYKA","login":"COCOUVI","name":"Alexandro Cocouvi","url":"https://github.com/COCOUVI","avatarUrl":"https://avatars.githubusercontent.com/u/175757352?s=80&v=4","followers":131,"publicRepos":65,"location":"Benin","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-27"},
   {"rank":14,"id":"U_kgDOCE_50Q","login":"florentak","name":"Florent Ayidedji","url":"https://github.com/florentak","avatarUrl":"https://avatars.githubusercontent.com/u/139459025?s=80&v=4","followers":118,"publicRepos":0,"location":"Cotonou, Littoral, Benin","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-27"},
   {"rank":15,"id":"MDQ6VXNlcjI0OTUxMjIx","login":"ChafikHadjAbdouRazack","name":"Chafik HADJ ABDOU RAZACK","url":"https://github.com/ChafikHadjAbdouRazack","avatarUrl":"https://avatars.githubusercontent.com/u/24951221?s=80&v=4","followers":115,"publicRepos":61,"location":"Benin","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-27"},
-  {"rank":16,"id":"MDQ6VXNlcjU1Mjk0NDU3","login":"onesine","name":"Lewhe Onesine","url":"https://github.com/onesine","avatarUrl":"https://avatars.githubusercontent.com/u/55294457?s=80&v=4","followers":97,"publicRepos":35,"location":"Cotonou, Bénin","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-25"},
-  {"rank":17,"id":"MDQ6VXNlcjM5MzE3NTM=","login":"brexis","name":"Boris KOUMONDJI","url":"https://github.com/brexis","avatarUrl":"https://avatars.githubusercontent.com/u/3931753?s=80&v=4","followers":65,"publicRepos":79,"location":"Bénin","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-26"}
+  {"rank":16,"id":"U_kgDOBiyaZQ","login":"VEGLOgabin","name":"Gabin Houetchenou VEGLO","url":"https://github.com/VEGLOgabin","avatarUrl":"https://avatars.githubusercontent.com/u/103586405?s=80&v=4","followers":109,"publicRepos":70,"location":"Benin","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-28"},
+  {"rank":17,"id":"MDQ6VXNlcjU1Mjk0NDU3","login":"onesine","name":"Lewhe Onesine","url":"https://github.com/onesine","avatarUrl":"https://avatars.githubusercontent.com/u/55294457?s=80&v=4","followers":97,"publicRepos":35,"location":"Cotonou, Bénin","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-25"},
+  {"rank":18,"id":"MDQ6VXNlcjM5MzE3NTM=","login":"brexis","name":"Boris KOUMONDJI","url":"https://github.com/brexis","avatarUrl":"https://avatars.githubusercontent.com/u/3931753?s=80&v=4","followers":65,"publicRepos":79,"location":"Bénin","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "f110ee9bf1bd726b",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "8eeb225780b9467b",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

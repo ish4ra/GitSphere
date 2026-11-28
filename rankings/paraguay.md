@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 25 Nov 2026 | <a href="../data/PY.json">JSON</a> |
+| 🟡 Provisional | **12** | 25 Nov 2026 | <a href="../data/PY.json">JSON</a> |
 
 </div>
 
@@ -91,6 +91,20 @@
 <td align="right">140</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/prolic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prolic/fpp"><b>prolic/fpp</b></a><br><sub>Functional PHP Preprocessor - Generate Immutable Data Types</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">26</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/vito-go.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vito-go/mywords"><b>vito-go/mywords</b></a><br><sub>通过在线浏览或手动输入网址，自动提取网页中的单词及其上下文。软件会对单词进行去重、统计，并筛选出陌生的单词。作为一款开源字典工具，它将成为您英语学习的得力助手。</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">34</td>
+<td>Dart</td>
+</tr>
 </tbody>
 </table>
 
@@ -99,8 +113,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 297 stars; 10 attributed candidates are tracked.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 282 stars; 12 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

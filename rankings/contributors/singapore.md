@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **26** | 22 Nov 2026 | <a href="../../data/contributors/SG.json">JSON</a> |
+| 🟡 Provisional | **30** | 22 Nov 2026 | <a href="../../data/contributors/SG.json">JSON</a> |
 
 </div>
 
@@ -79,7 +79,7 @@
 </tr>
 <tr>
 <td align="right">7</td>
-<td><a href="https://github.com/happydog-intj"><img src="https://avatars.githubusercontent.com/u/212984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/happydog-intj"><b>happy dog</b></a><br><sub>&#64;happydog-intj · 4,009 followers</sub></td>
+<td><a href="https://github.com/happydog-intj"><img src="https://avatars.githubusercontent.com/u/212984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/happydog-intj"><b>happy dog</b></a><br><sub>&#64;happydog-intj · 4,008 followers</sub></td>
 <td align="right"><b>553</b></td>
 <td align="right">477</td>
 <td align="right">21</td>
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/sourcepirate"><img src="https://avatars.githubusercontent.com/u/5940286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sourcepirate"><b>Sathya Narrayanan</b></a><br><sub>&#64;sourcepirate · 126 followers</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">220</td>
+<td align="right">30</td>
+<td align="right">3</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/xobs"><img src="https://avatars.githubusercontent.com/u/238325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xobs"><b>Sean Cross</b></a><br><sub>&#64;xobs · 691 followers</sub></td>
 <td align="right"><b>284</b></td>
 <td align="right">168</td>
@@ -123,7 +132,7 @@
 <td align="right">45</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/shuowang-ai"><img src="https://avatars.githubusercontent.com/u/16516703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shuowang-ai"><b>Shuo Wang</b></a><br><sub>&#64;shuowang-ai · 127 followers</sub></td>
 <td align="right"><b>268</b></td>
 <td align="right">183</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/chuongmep"><img src="https://avatars.githubusercontent.com/u/31106432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chuongmep"><b>Chuong Ho</b></a><br><sub>&#64;chuongmep · 672 followers</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">181</td>
@@ -141,7 +150,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/u1i"><img src="https://avatars.githubusercontent.com/u/27874591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/u1i"><b>Uli</b></a><br><sub>&#64;u1i · 340 followers</sub></td>
 <td align="right"><b>209</b></td>
 <td align="right">181</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/vvincenttttt"><img src="https://avatars.githubusercontent.com/u/42313099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vvincenttttt"><b>Tianhao(Vincent) Fu</b></a><br><sub>&#64;vvincenttttt · 220 followers</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">103</td>
@@ -159,8 +168,8 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">16</td>
-<td><a href="https://github.com/sonnylazuardi"><img src="https://avatars.githubusercontent.com/u/856609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sonnylazuardi"><b>Sonny Lazuardi</b></a><br><sub>&#64;sonnylazuardi · 2,812 followers</sub></td>
+<td align="right">17</td>
+<td><a href="https://github.com/sonnylazuardi"><img src="https://avatars.githubusercontent.com/u/856609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sonnylazuardi"><b>Sonny Lazuardi</b></a><br><sub>&#64;sonnylazuardi · 2,813 followers</sub></td>
 <td align="right"><b>187</b></td>
 <td align="right">174</td>
 <td align="right">5</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/chuacw"><img src="https://avatars.githubusercontent.com/u/1757930?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chuacw"><b>Chua CheeWee</b></a><br><sub>&#64;chuacw · 152 followers</sub></td>
 <td align="right"><b>166</b></td>
 <td align="right">102</td>
@@ -177,7 +186,7 @@
 <td align="right">28</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/xieydd"><img src="https://avatars.githubusercontent.com/u/20329697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xieydd"><b>xieydd</b></a><br><sub>&#64;xieydd · 183 followers</sub></td>
 <td align="right"><b>149</b></td>
 <td align="right">78</td>
@@ -186,7 +195,16 @@
 <td align="right">8</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
+<td><a href="https://github.com/cheahengsoon"><img src="https://avatars.githubusercontent.com/u/2833325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cheahengsoon"><b>Eng Soon Cheah</b></a><br><sub>&#64;cheahengsoon · 111 followers</sub></td>
+<td align="right"><b>110</b></td>
+<td align="right">35</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="right">21</td>
 <td><a href="https://github.com/JSeam2"><img src="https://avatars.githubusercontent.com/u/22354889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JSeam2"><b>Jseam</b></a><br><sub>&#64;JSeam2 · 234 followers</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">49</td>
@@ -195,7 +213,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">22</td>
 <td><a href="https://github.com/Bharathkumarraju"><img src="https://avatars.githubusercontent.com/u/5610588?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bharathkumarraju"><b>Bharathkumar</b></a><br><sub>&#64;Bharathkumarraju · 601 followers</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">38</td>
@@ -204,7 +222,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">23</td>
 <td><a href="https://github.com/momika233"><img src="https://avatars.githubusercontent.com/u/56291820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/momika233"><b>momika233</b></a><br><sub>&#64;momika233 · 717 followers</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">19</td>
@@ -213,7 +231,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">24</td>
 <td><a href="https://github.com/yeyintminthuhtut"><img src="https://avatars.githubusercontent.com/u/6358256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yeyintminthuhtut"><b>r0lan</b></a><br><sub>&#64;yeyintminthuhtut · 1,162 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">20</td>
@@ -222,7 +240,25 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">25</td>
+<td><a href="https://github.com/hongshibao"><img src="https://avatars.githubusercontent.com/u/13634371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hongshibao"><b>thinkpoet</b></a><br><sub>&#64;hongshibao · 109 followers</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">14</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/honghuac"><img src="https://avatars.githubusercontent.com/u/8625482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/honghuac"><b>Hong</b></a><br><sub>&#64;honghuac · 112 followers</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">27</td>
 <td><a href="https://github.com/QC-L"><img src="https://avatars.githubusercontent.com/u/13861040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QC-L"><b>QiChang Li</b></a><br><sub>&#64;QC-L · 564 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">12</td>
@@ -231,7 +267,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">28</td>
 <td><a href="https://github.com/shantanu561993"><img src="https://avatars.githubusercontent.com/u/8576432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shantanu561993"><b>Shantanu Khandelwal</b></a><br><sub>&#64;shantanu561993 · 177 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">3</td>
@@ -240,7 +276,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">29</td>
 <td><a href="https://github.com/P3t3rp4rk3r"><img src="https://avatars.githubusercontent.com/u/7028794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/P3t3rp4rk3r"><b>Santhosh Baswa</b></a><br><sub>&#64;P3t3rp4rk3r · 213 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">6</td>
@@ -249,7 +285,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">30</td>
 <td><a href="https://github.com/vdt"><img src="https://avatars.githubusercontent.com/u/1792491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vdt"><b>Vikram Dutt</b></a><br><sub>&#64;vdt · 320 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -264,7 +300,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 26 of 1,300 discovered developers (1,274 awaiting measurement).
+- **Measured:** 30 of 1,300 discovered developers (1,270 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 109 in round 1.

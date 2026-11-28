@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/VG.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/VG.json">JSON</a> |
 
 </div>
 
@@ -151,6 +151,15 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/DeLenglobal"><img src="https://avatars.githubusercontent.com/u/273506722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DeLenglobal"><b>Delen Global</b></a><br><sub>&#64;DeLenglobal · 0 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/cryptsurf"><img src="https://avatars.githubusercontent.com/u/287033193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cryptsurf"><b>CryptSurf VPN</b></a><br><sub>&#64;cryptsurf · 0 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -165,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 37 of 86 discovered developers (49 awaiting measurement).
+- **Measured:** 42 of 86 discovered developers (44 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 19 in round 1.

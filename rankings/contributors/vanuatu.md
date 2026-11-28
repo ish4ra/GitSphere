@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/VU.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/VU.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/JackKnoxKalsakau-only1"><img src="https://avatars.githubusercontent.com/u/298000261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JackKnoxKalsakau-only1"><b>Jack&#95;Knox&#95;Kalsakau</b></a><br><sub>&#64;JackKnoxKalsakau-only1 · 0 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/etanijela-web"><img src="https://avatars.githubusercontent.com/u/265210903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/etanijela-web"><b>Nijela</b></a><br><sub>&#64;etanijela-web · 1 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/angeu4"><img src="https://avatars.githubusercontent.com/u/15817263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angeu4"><b>Angelus Eutherius</b></a><br><sub>&#64;angeu4 · 4 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/SolaFide"><img src="https://avatars.githubusercontent.com/u/3750351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SolaFide"><b>Michael Smith</b></a><br><sub>&#64;SolaFide · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 78 discovered developers (55 awaiting measurement).
+- **Measured:** 27 of 78 discovered developers (51 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 5 of 21 in round 1.

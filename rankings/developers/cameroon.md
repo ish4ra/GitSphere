@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/ln-dev7"><img src="https://avatars.githubusercontent.com/u/62269693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ln-dev7"><b>LN</b></a><br><sub>&#64;ln-dev7</sub></td>
-<td align="right"><b>1,258</b></td>
+<td align="right"><b>1,257</b></td>
 <td align="right">280</td>
 <td><sub>Cameroon</sub></td>
 </tr>
@@ -380,24 +380,24 @@
 </tr>
 <tr>
 <td align="right">52</td>
-<td><a href="https://github.com/bansikah22"><img src="https://avatars.githubusercontent.com/u/180421787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bansikah22"><b>Noel Bansikah</b></a><br><sub>&#64;bansikah22</sub></td>
-<td align="right"><b>94</b></td>
-<td align="right">79</td>
-<td><sub>Bangangte, Cameroon</sub></td>
-</tr>
-<tr>
-<td align="right">53</td>
 <td><a href="https://github.com/trey-rosius"><img src="https://avatars.githubusercontent.com/u/29162353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trey-rosius"><b>Ro</b></a><br><sub>&#64;trey-rosius</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">161</td>
 <td><sub>Douala,Cameroon</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">53</td>
 <td><a href="https://github.com/Kimbohlovette"><img src="https://avatars.githubusercontent.com/u/37558983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kimbohlovette"><b>KIMBOH LOVETTE</b></a><br><sub>&#64;Kimbohlovette</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">71</td>
 <td><sub>Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/bansikah22"><img src="https://avatars.githubusercontent.com/u/180421787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bansikah22"><b>Noel Bansikah</b></a><br><sub>&#64;bansikah22</sub></td>
+<td align="right"><b>87</b></td>
+<td align="right">79</td>
+<td><sub>Bangangte, Cameroon</sub></td>
 </tr>
 <tr>
 <td align="right">55</td>

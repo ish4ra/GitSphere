@@ -255,7 +255,7 @@
 <tr>
 <td align="right">34</td>
 <td><a href="https://github.com/GCABC123"><img src="https://avatars.githubusercontent.com/u/63153448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GCABC123"><b>GENERAL CONSULTING ABC 123 BY OSAROPRIME ™ ✪</b></a><br><sub>&#64;GCABC123</sub></td>
-<td align="right"><b>25</b></td>
+<td align="right"><b>24</b></td>
 <td align="right">77</td>
 <td><sub>Trinidad &amp; Tobago</sub></td>
 </tr>

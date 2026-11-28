@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/PH.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
 </div>
 
@@ -324,17 +324,17 @@
 </tr>
 <tr>
 <td align="right">44</td>
+<td><img src="https://github.com/Blapples.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Blapples/SekaiPop"><b>Blapples/SekaiPop</b></a><br><sub>a project sekai inspired quickshell rice</sub></td>
+<td align="right"><b>742</b></td>
+<td align="right">54</td>
+<td>QML</td>
+</tr>
+<tr>
+<td align="right">45</td>
 <td><img src="https://github.com/bfintal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bfintal/Counter-Up"><b>bfintal/Counter-Up</b></a> <sub>archived</sub><br><sub>Counter-Up is a lightweight jQuery plugin that counts up to a targeted number when the number becomes visible.</sub></td>
 <td align="right"><b>737</b></td>
 <td align="right">687</td>
 <td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/Blapples.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Blapples/SekaiPop"><b>Blapples/SekaiPop</b></a><br><sub>a project sekai inspired quickshell rice</sub></td>
-<td align="right"><b>731</b></td>
-<td align="right">53</td>
-<td>QML</td>
 </tr>
 <tr>
 <td align="right">46</td>
@@ -346,14 +346,14 @@
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/lxsmnsyc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lxsmnsyc/terracotta"><b>lxsmnsyc/terracotta</b></a><br><sub>Headless UI for SolidJS</sub></td>
-<td align="right"><b>713</b></td>
+<td align="right"><b>712</b></td>
 <td align="right">21</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/dominicstop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominicstop/react-native-ios-context-menu"><b>dominicstop/react-native-ios-context-menu</b></a><br><sub>A react-native component to use context menu&#39;s (UIMenu) on iOS 13/14+</sub></td>
-<td align="right"><b>698</b></td>
+<td align="right"><b>699</b></td>
 <td align="right">46</td>
 <td>TypeScript</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 356 stars; 135 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 356 stars; 150 attributed candidates are tracked.
 - 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

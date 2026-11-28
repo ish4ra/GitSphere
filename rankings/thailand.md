@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/TH.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/TH.json">JSON</a> |
 
 </div>
 
@@ -535,7 +535,7 @@
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/titipata.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/titipata/pubmed_parser"><b>titipata/pubmed&#95;parser</b></a><br><sub>:clipboard: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset</sub></td>
-<td align="right"><b>737</b></td>
+<td align="right"><b>738</b></td>
 <td align="right">181</td>
 <td>Python</td>
 </tr>
@@ -571,14 +571,14 @@
 <td align="right">79</td>
 <td><img src="https://github.com/earthchie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/earthchie/jquery.Thailand.js"><b>earthchie/jquery.Thailand.js</b></a><br><sub>ตัวช่วยกรอกที่อยู่ที่ดีที่สุดในไทย ไม่ต้องใช้ Server Side!</sub></td>
 <td align="right"><b>695</b></td>
-<td align="right">459</td>
+<td align="right">458</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/5argon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/5argon/NotchSolution"><b>5argon/NotchSolution</b></a><br><sub>A set of components and tools to solve notched/cutout phones layout problems for Unity.</sub></td>
 <td align="right"><b>693</b></td>
-<td align="right">95</td>
+<td align="right">94</td>
 <td>C#</td>
 </tr>
 <tr>

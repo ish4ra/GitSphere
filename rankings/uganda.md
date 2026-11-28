@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **10** | 03 Nov 2026 | <a href="../data/UG.json">JSON</a> |
+| 🟠 Stale | **11** | 03 Nov 2026 | <a href="../data/UG.json">JSON</a> |
 
 > **Not yet re-verified.** 5 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -60,34 +60,41 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><img src="https://github.com/has2k1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/has2k1/plydata"><b>has2k1/plydata</b></a><br><sub>A grammar for data manipulation in Python</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">11</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><img src="https://github.com/dostrim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dostrim/ufaas-hackathon-2021"><b>dostrim/ufaas-hackathon-2021</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><img src="https://github.com/oumasimple.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oumasimple/my-open-source-repository"><b>oumasimple/my-open-source-repository</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><img src="https://github.com/AllanKleinz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AllanKleinz/Netflix-Clone"><b>AllanKleinz/Netflix-Clone</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><img src="https://github.com/creativedna14.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/creativedna14/creativedna14.github.io"><b>creativedna14/creativedna14.github.io</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><img src="https://github.com/darkmonsxd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darkmonsxd/darkmonsxd"><b>darkmonsxd/darkmonsxd</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -101,9 +108,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 10 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 0 stars; 11 attributed candidates are tracked.
 - 5 entries were carried over from the previous dataset and are pending revalidation.
-- 129 multi-repository owners are queued for expansion.
+- 127 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 169 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

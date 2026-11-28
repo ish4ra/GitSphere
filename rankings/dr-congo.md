@@ -14,19 +14,30 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../data/CD.json">JSON</a> |
+| 🟡 Provisional | **1** | 28 Nov 2026 | <a href="../data/CD.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/foocker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/foocker/deeplearningtheory"><b>foocker/deeplearningtheory</b></a></td>
+<td align="right"><b>279</b></td>
+<td align="right">26</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has — stars; 0 attributed candidates are tracked.
-- 133 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 279 stars; 1 attributed candidates are tracked.
+- 129 multi-repository owners are queued for expansion.
 - **Location discovery:** term 2 of 112 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

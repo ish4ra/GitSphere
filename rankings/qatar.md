@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 25 Nov 2026 | <a href="../data/QA.json">JSON</a> |
+| 🟡 Provisional | **7** | 25 Nov 2026 | <a href="../data/QA.json">JSON</a> |
 
 </div>
 
@@ -56,6 +56,20 @@
 <td align="right">50</td>
 <td>Typst</td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/Samimust.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Samimust/predictive-maintenance"><b>Samimust/predictive-maintenance</b></a><br><sub>Data Wrangling, EDA, Feature Engineering, Model Selection, Regression, Binary and Multi-class Classification (Python, s…</sub></td>
+<td align="right"><b>291</b></td>
+<td align="right">158</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/myofficework000.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/myofficework000/Jetpack-Compose-All-in-one-Guide"><b>myofficework000/Jetpack-Compose-All-in-one-Guide</b></a><br><sub>Learn step by step UI development using Jetpack compose &#91;beginners to advance&#93;</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">34</td>
+<td>Kotlin</td>
+</tr>
 </tbody>
 </table>
 
@@ -64,8 +78,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 292 stars; 5 attributed candidates are tracked.
-- 105 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 289 stars; 7 attributed candidates are tracked.
+- 101 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 43 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

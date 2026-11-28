@@ -5,12 +5,13 @@
 "country": {"code":"YE","name":"Yemen","slug":"yemen"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":781,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":273,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":119,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0},"exhaustive":false},
 "repositories": [
-  {"rank":1,"id":"R_kgDOKBTtdw","name":"NibrasShell","nameWithOwner":"AhmedSaadi0/NibrasShell","url":"https://github.com/AhmedSaadi0/NibrasShell","description":"AI‑integrated shell.","stars":781,"forks":42,"primaryLanguage":"QML","license":{"spdxId":"MIT"},"createdAt":"2023-07-30T06:49:16Z","pushedAt":"2026-11-27T02:06:28Z","archived":false,"owner":{"login":"AhmedSaadi0","name":"Ahmed Alsaadi","type":"User","url":"https://github.com/AhmedSaadi0","location":"Sanaa, Yemen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"}
+  {"rank":1,"id":"R_kgDOKBTtdw","name":"NibrasShell","nameWithOwner":"AhmedSaadi0/NibrasShell","url":"https://github.com/AhmedSaadi0/NibrasShell","description":"AI‑integrated shell.","stars":781,"forks":42,"primaryLanguage":"QML","license":{"spdxId":"MIT"},"createdAt":"2023-07-30T06:49:16Z","pushedAt":"2026-11-27T02:06:28Z","archived":false,"owner":{"login":"AhmedSaadi0","name":"Ahmed Alsaadi","type":"User","url":"https://github.com/AhmedSaadi0","location":"Sanaa, Yemen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
+  {"rank":2,"id":"R_kgDOJMbWjw","name":"filament-page-with-sidebar","nameWithOwner":"aymanalhattami/filament-page-with-sidebar","url":"https://github.com/aymanalhattami/filament-page-with-sidebar","description":"Organize pages in the sidebar in order to make navigation between pages more comfortable.","stars":273,"forks":33,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2023-03-21T14:24:48Z","pushedAt":"2026-06-22T02:32:57Z","archived":false,"owner":{"login":"aymanalhattami","name":"Ayman Alhattami","type":"User","url":"https://github.com/aymanalhattami","location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "4dd41c3b607ebd4b",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "040f7a73f920f0af",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-27",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

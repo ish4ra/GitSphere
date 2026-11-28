@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/ME.json">JSON</a> |
+| 🟡 Provisional | **17** | 25 Nov 2026 | <a href="../data/ME.json">JSON</a> |
 
 </div>
 
@@ -52,8 +52,8 @@
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/qf-studio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qf-studio/pilot"><b>qf-studio/pilot</b></a><br><sub>AI that ships your tickets.</sub></td>
-<td align="right"><b>744</b></td>
-<td align="right">60</td>
+<td align="right"><b>745</b></td>
+<td align="right">61</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/QuasarApp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/QuasarApp/CQtDeployer"><b>QuasarApp/CQtDeployer</b></a><br><sub>This project is used to deploy applications written using QML, qt or other С / С++ frameworks.</sub></td>
-<td align="right"><b>656</b></td>
+<td align="right"><b>657</b></td>
 <td align="right">94</td>
 <td>C++</td>
 </tr>
@@ -126,6 +126,20 @@
 <td align="right">40</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/dchest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dchest/webp-quicklook"><b>dchest/webp-quicklook</b></a> <sub>archived</sub><br><sub>&#91;DEPRECATED&#93; QuickLook plugin to generate thumbnails and previews for WebP images</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">24</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/amelentev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amelentev/java-oo"><b>amelentev/java-oo</b></a><br><sub>Java Operator Overloading</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">30</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -134,8 +148,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 297 stars; 15 attributed candidates are tracked.
-- 53 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 277 stars; 17 attributed candidates are tracked.
+- 40 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 44 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

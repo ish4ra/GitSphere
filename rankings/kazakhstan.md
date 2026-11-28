@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **65** | 24 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
+| 🟡 Provisional | **67** | 25 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
 
 </div>
 
@@ -206,7 +206,7 @@
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/Madi-S.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Madi-S/Lead-Generation"><b>Madi-S/Lead-Generation</b></a><br><sub>Python script, which empowers people with no programming background to generate robust leads on a mass scale. This repo…</sub></td>
-<td align="right"><b>696</b></td>
+<td align="right"><b>697</b></td>
 <td align="right">113</td>
 <td>Python</td>
 </tr>
@@ -214,7 +214,7 @@
 <td align="right">28</td>
 <td><img src="https://github.com/raindropio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raindropio/android"><b>raindropio/android</b></a><br><sub>Official Raindrop.io mobile app for Android</sub></td>
 <td align="right"><b>667</b></td>
-<td align="right">97</td>
+<td align="right">98</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -476,6 +476,20 @@
 <td align="right">126</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/Yevgenium.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yevgenium/weather-chart-card"><b>Yevgenium/weather-chart-card</b></a> <sub>archived</sub><br><sub>Custom weather card with charts</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">72</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/itsezlife.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itsezlife/flutter-instagram-offline-first-clone"><b>itsezlife/flutter-instagram-offline-first-clone</b></a><br><sub>Production-ready Flutter Instagram clone with complete offline-first architecture using PowerSync &amp; Supabase. Features…</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">99</td>
+<td>Dart</td>
+</tr>
 </tbody>
 </table>
 
@@ -484,8 +498,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 295 stars; 65 attributed candidates are tracked.
-- 106 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 270 stars; 67 attributed candidates are tracked.
+- 104 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

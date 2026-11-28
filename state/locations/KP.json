@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-23T12:42:34.661Z",
 "terms": {"count":130,"fingerprint":"130:45bf9c39"},
-"termIndex": 0,
+"termIndex": 3,
 "specIndex": 1,
-"active": {"term":"North Korea","kind":"organizations","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjE1MA==","page":4,"retrieved":150,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-25T23:53:11.898Z","stats":{"pages":3}},
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":576},
-"updatedAt": "2026-11-25T23:53:11.898Z"
+"stats": {"requests":18,"pages":18,"accounts":651},
+"updatedAt": "2026-11-28T02:58:11.199Z"
 }

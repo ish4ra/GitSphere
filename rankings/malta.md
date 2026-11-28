@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 24 Nov 2026 | <a href="../data/MT.json">JSON</a> |
+| 🟡 Provisional | **23** | 25 Nov 2026 | <a href="../data/MT.json">JSON</a> |
 
 </div>
 
@@ -154,6 +154,34 @@
 <td align="right">62</td>
 <td>C</td>
 </tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/CM2Walki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CM2Walki/steamcmd"><b>CM2Walki/steamcmd</b></a><br><sub>Minimal image containing Valve&#39;s SteamCMD binary: https://hub.docker.com/r/cm2network/steamcmd/</sub></td>
+<td align="right"><b>286</b></td>
+<td align="right">66</td>
+<td>Dockerfile</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/ChintanTrivedi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChintanTrivedi/DeepGamingAI_FIFARL"><b>ChintanTrivedi/DeepGamingAI&#95;FIFARL</b></a><br><sub>Using Reinforcement Learning to play FIFA</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">69</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/stevedotmt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stevedotmt/awesome-slo"><b>stevedotmt/awesome-slo</b></a><br><sub>Curated list of resources on SLOs</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">9</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/CarlBugeja.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CarlBugeja/Open-Reflow"><b>CarlBugeja/Open-Reflow</b></a><br><sub>A controller for self-reflowing PCBs</sub></td>
+<td align="right"><b>271</b></td>
+<td align="right">36</td>
+<td>C++</td>
+</tr>
 </tbody>
 </table>
 
@@ -162,8 +190,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 298 stars; 19 attributed candidates are tracked.
-- 84 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 271 stars; 23 attributed candidates are tracked.
+- 80 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 104 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

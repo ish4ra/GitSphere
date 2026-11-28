@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **24** | 03 Nov 2026 | <a href="../data/VE.json">JSON</a> |
+| 🟠 Stale | **27** | 03 Nov 2026 | <a href="../data/VE.json">JSON</a> |
 
 > **Not yet re-verified.** 9 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -68,7 +68,7 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/maxsteeel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maxsteeel/nomount"><b>maxsteeel/nomount</b></a><br><sub>NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.</sub></td>
-<td align="right"><b>738</b></td>
+<td align="right"><b>753</b></td>
 <td align="right">99</td>
 <td>C</td>
 </tr>
@@ -130,62 +130,83 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><img src="https://github.com/cabrerahector.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cabrerahector/wordpress-popular-posts"><b>cabrerahector/wordpress-popular-posts</b></a><br><sub>WP Popular Posts - A highly customizable WordPress widget that displays your most popular posts.</sub></td>
+<td align="right"><b>281</b></td>
+<td align="right">82</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/engeldlgado.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/engeldlgado/toshllm"><b>engeldlgado/toshllm</b></a><br><sub>Run large language models locally on Intel Macs with AMD GPUs - native macOS app with Metal acceleration</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">32</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/VonHeikemen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VonHeikemen/nvim-starter"><b>VonHeikemen/nvim-starter</b></a><br><sub>Neovim example configuration. To help you start in your journey</sub></td>
+<td align="right"><b>276</b></td>
+<td align="right">19</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><img src="https://github.com/Ccubik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ccubik/Curso-de-Wordpress-Base"><b>Ccubik/Curso-de-Wordpress-Base</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
 <td><img src="https://github.com/Aileen-Moreno.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aileen-Moreno/ArToolKit"><b>Aileen-Moreno/ArToolKit</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><img src="https://github.com/angele1996.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/angele1996/escuela"><b>angele1996/escuela</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">22</td>
 <td><img src="https://github.com/asah-software.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asah-software/sparc-kolbe"><b>asah-software/sparc-kolbe</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">23</td>
 <td><img src="https://github.com/DoubleBeast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DoubleBeast/Cacti_Doc"><b>DoubleBeast/Cacti&#95;Doc</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>CSS</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">24</td>
 <td><img src="https://github.com/ferjyanez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ferjyanez/Medina-Yanez-ThesisUNIMET2018"><b>ferjyanez/Medina-Yanez-ThesisUNIMET2018</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">25</td>
 <td><img src="https://github.com/fjasis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fjasis/la-vieja-a2018"><b>fjasis/la-vieja-a2018</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">26</td>
 <td><img src="https://github.com/HillaryMarian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HillaryMarian/python-ipysheet"><b>HillaryMarian/python-ipysheet</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">27</td>
 <td><img src="https://github.com/ItsMylifeBaby.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ItsMylifeBaby/Proyecto_3_Java"><b>ItsMylifeBaby/Proyecto&#95;3&#95;Java</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -199,7 +220,7 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 24 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 0 stars; 27 attributed candidates are tracked.
 - 9 entries were carried over from the previous dataset and are pending revalidation.
 - 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 127 in round 1.

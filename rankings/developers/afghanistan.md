@@ -220,7 +220,7 @@
 <tr>
 <td align="right">29</td>
 <td><a href="https://github.com/Aalem"><img src="https://avatars.githubusercontent.com/u/3881951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aalem"><b>Aalem Daneshyar</b></a><br><sub>&#64;Aalem</sub></td>
-<td align="right"><b>104</b></td>
+<td align="right"><b>103</b></td>
 <td align="right">33</td>
 <td><sub>Herat University, Herat-Afghanistan</sub></td>
 </tr>
@@ -297,7 +297,7 @@
 <tr>
 <td align="right">40</td>
 <td><a href="https://github.com/SaadullahKarimi"><img src="https://avatars.githubusercontent.com/u/79996938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SaadullahKarimi"><b>Sadullah Karimi</b></a><br><sub>&#64;SaadullahKarimi</sub></td>
-<td align="right"><b>80</b></td>
+<td align="right"><b>79</b></td>
 <td align="right">42</td>
 <td><sub>Kabul, Afghanistan</sub></td>
 </tr>

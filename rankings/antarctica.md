@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **42** | 24 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
+| 🟡 Provisional | **45** | 25 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
 
 </div>
 
@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/main"><b>ublue-os/main</b></a><br><sub>OCI base images of Fedora with batteries included</sub></td>
-<td align="right"><b>707</b></td>
+<td align="right"><b>708</b></td>
 <td align="right">87</td>
 <td>Just</td>
 </tr>
@@ -315,6 +315,27 @@
 <td align="right">49</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/MarlinFirmware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MarlinFirmware/AutoBuildMarlin"><b>MarlinFirmware/AutoBuildMarlin</b></a><br><sub>Visual Studio Code extension to more easily build Marlin Firmware</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">70</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/BlueMystical.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BlueMystical/EDHM_UI"><b>BlueMystical/EDHM&#95;UI</b></a><br><sub>User Interface for EDHM mod (Elite Dangerous)</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">25</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/thongtech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thongtech/go-legacy-win7"><b>thongtech/go-legacy-win7</b></a><br><sub>Go programming language with Windows 7/8/8.1, early Windows 10 and Server 2008 R2/2012/2012 R2/2016/2019 support, plus…</sub></td>
+<td align="right"><b>276</b></td>
+<td align="right">32</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -323,7 +344,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 298 stars; 42 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 276 stars; 45 attributed candidates are tracked.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

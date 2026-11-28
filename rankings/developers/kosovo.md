@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/kujtimiihoxha"><img src="https://avatars.githubusercontent.com/u/14311743?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kujtimiihoxha"><b>Kujtim Hoxha</b></a><br><sub>&#64;kujtimiihoxha</sub></td>
-<td align="right"><b>594</b></td>
+<td align="right"><b>593</b></td>
 <td align="right">80</td>
 <td><sub>Prishtina, Kosovo</sub></td>
 </tr>
@@ -912,66 +912,66 @@
 </tr>
 <tr>
 <td align="right">128</td>
-<td><a href="https://github.com/Gennttii"><img src="https://avatars.githubusercontent.com/u/3110966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gennttii"><b>Genti</b></a><br><sub>&#64;Gennttii</sub></td>
-<td align="right"><b>10</b></td>
-<td align="right">41</td>
-<td><sub>Republic of Kosovo</sub></td>
-</tr>
-<tr>
-<td align="right">129</td>
 <td><a href="https://github.com/jetonr"><img src="https://avatars.githubusercontent.com/u/2385217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jetonr"><b>Jeton R.</b></a><br><sub>&#64;jetonr</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">13</td>
 <td><sub>Prishtina, Kosovo</sub></td>
 </tr>
 <tr>
-<td align="right">130</td>
+<td align="right">129</td>
 <td><a href="https://github.com/ArditBeqiraj"><img src="https://avatars.githubusercontent.com/u/185199828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArditBeqiraj"><b>Ardit Beqiraj</b></a><br><sub>&#64;ArditBeqiraj</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">10</td>
 <td><sub>Kosovo</sub></td>
 </tr>
 <tr>
-<td align="right">131</td>
+<td align="right">130</td>
 <td><a href="https://github.com/Artan-Hysenaj"><img src="https://avatars.githubusercontent.com/u/73657387?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Artan-Hysenaj"><b>Artan Hysenaj</b></a><br><sub>&#64;Artan-Hysenaj</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">10</td>
 <td><sub>Peja, Kosovo</sub></td>
 </tr>
 <tr>
-<td align="right">132</td>
+<td align="right">131</td>
 <td><a href="https://github.com/fdomgjoni99"><img src="https://avatars.githubusercontent.com/u/89722818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fdomgjoni99"><b>Florian Domgjoni</b></a><br><sub>&#64;fdomgjoni99</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">10</td>
 <td><sub>Kosovo</sub></td>
 </tr>
 <tr>
-<td align="right">133</td>
+<td align="right">132</td>
 <td><a href="https://github.com/AGegaj"><img src="https://avatars.githubusercontent.com/u/27575027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AGegaj"><b>Avdirrahman Gegaj</b></a><br><sub>&#64;AGegaj</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">9</td>
 <td><sub>Kosovo</sub></td>
 </tr>
 <tr>
-<td align="right">134</td>
+<td align="right">133</td>
 <td><a href="https://github.com/matrixleo"><img src="https://avatars.githubusercontent.com/u/73724759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matrixleo"><b>Leon Berisha</b></a><br><sub>&#64;matrixleo</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">8</td>
 <td><sub>Kosovo</sub></td>
 </tr>
 <tr>
-<td align="right">135</td>
+<td align="right">134</td>
 <td><a href="https://github.com/ndriqa"><img src="https://avatars.githubusercontent.com/u/32796182?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndriqa"><b>Ndriçim Rrahmani</b></a><br><sub>&#64;ndriqa</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">6</td>
 <td><sub>Gjilan, Kosovo</sub></td>
 </tr>
 <tr>
-<td align="right">136</td>
+<td align="right">135</td>
 <td><a href="https://github.com/ADerguti"><img src="https://avatars.githubusercontent.com/u/108687620?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ADerguti"><b>Arbon Derguti</b></a><br><sub>&#64;ADerguti</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">2</td>
 <td><sub>Kosovo</sub></td>
+</tr>
+<tr>
+<td align="right">136</td>
+<td><a href="https://github.com/Gennttii"><img src="https://avatars.githubusercontent.com/u/3110966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gennttii"><b>Genti</b></a><br><sub>&#64;Gennttii</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">41</td>
+<td><sub>Republic of Kosovo</sub></td>
 </tr>
 <tr>
 <td align="right">137</td>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 24 Nov 2026 | <a href="../data/JO.json">JSON</a> |
+| 🟡 Provisional | **22** | 25 Nov 2026 | <a href="../data/JO.json">JSON</a> |
 
 </div>
 
@@ -154,6 +154,27 @@
 <td align="right">153</td>
 <td>C#</td>
 </tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/SaifAqqad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SaifAqqad/AHK_MicMute"><b>SaifAqqad/AHK&#95;MicMute</b></a><br><sub>Super simple mic control with all the tweaks you could ever want</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">23</td>
+<td>AutoHotkey</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/malkouz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/malkouz/MKMagneticProgress"><b>malkouz/MKMagneticProgress</b></a><br><sub>A circular progress bar for iOS written in Swift</sub></td>
+<td align="right"><b>286</b></td>
+<td align="right">49</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/talalmajali.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/talalmajali/react-native-countdown-component"><b>talalmajali/react-native-countdown-component</b></a><br><sub>React Native CountDown</sub></td>
+<td align="right"><b>276</b></td>
+<td align="right">236</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -162,8 +183,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 320 stars; 19 attributed candidates are tracked.
-- 118 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 276 stars; 22 attributed candidates are tracked.
+- 116 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 106 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

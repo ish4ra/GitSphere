@@ -346,7 +346,7 @@
 <tr>
 <td align="right">47</td>
 <td><a href="https://github.com/RaulCoello"><img src="https://avatars.githubusercontent.com/u/107969032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RaulCoello"><b>Raul D</b></a><br><sub>&#64;RaulCoello</sub></td>
-<td align="right"><b>85</b></td>
+<td align="right"><b>84</b></td>
 <td align="right">43</td>
 <td><sub>Ecuador</sub></td>
 </tr>

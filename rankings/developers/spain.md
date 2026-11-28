@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/carlosazaustre"><img src="https://avatars.githubusercontent.com/u/650752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlosazaustre"><b>Carlos Azaustre</b></a><br><sub>&#64;carlosazaustre</sub></td>
-<td align="right"><b>4,529</b></td>
+<td align="right"><b>4,528</b></td>
 <td align="right">309</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><a href="https://github.com/LeCoupa"><img src="https://avatars.githubusercontent.com/u/1658644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LeCoupa"><b>Julien Le Coupanec</b></a><br><sub>&#64;LeCoupa</sub></td>
-<td align="right"><b>2,806</b></td>
+<td align="right"><b>2,807</b></td>
 <td align="right">8</td>
 <td><sub>Barcelona, Spain.</sub></td>
 </tr>
@@ -409,7 +409,7 @@
 <tr>
 <td align="right">56</td>
 <td><a href="https://github.com/ngosang"><img src="https://avatars.githubusercontent.com/u/10577978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ngosang"><b>Diego Heras</b></a><br><sub>&#64;ngosang</sub></td>
-<td align="right"><b>1,381</b></td>
+<td align="right"><b>1,382</b></td>
 <td align="right">52</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
@@ -1339,17 +1339,17 @@
 </tr>
 <tr>
 <td align="right">189</td>
-<td><a href="https://github.com/Piker-Alpha"><img src="https://avatars.githubusercontent.com/u/2561500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Piker-Alpha"><b>Pike R. Alpha</b></a><br><sub>&#64;Piker-Alpha</sub></td>
-<td align="right"><b>503</b></td>
-<td align="right">22</td>
-<td><sub>Spain</sub></td>
-</tr>
-<tr>
-<td align="right">190</td>
 <td><a href="https://github.com/agviegas"><img src="https://avatars.githubusercontent.com/u/56475338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agviegas"><b>Antonio González Viegas</b></a><br><sub>&#64;agviegas</sub></td>
 <td align="right"><b>503</b></td>
 <td align="right">3</td>
 <td><sub>Sevilla, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">190</td>
+<td><a href="https://github.com/Piker-Alpha"><img src="https://avatars.githubusercontent.com/u/2561500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Piker-Alpha"><b>Pike R. Alpha</b></a><br><sub>&#64;Piker-Alpha</sub></td>
+<td align="right"><b>502</b></td>
+<td align="right">22</td>
+<td><sub>Spain</sub></td>
 </tr>
 <tr>
 <td align="right">191</td>
@@ -3145,24 +3145,24 @@
 </tr>
 <tr>
 <td align="right">447</td>
-<td><a href="https://github.com/crguezl"><img src="https://avatars.githubusercontent.com/u/1142554?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crguezl"><b>Casiano Rodriguez-Leon</b></a><br><sub>&#64;crguezl</sub></td>
-<td align="right"><b>249</b></td>
-<td align="right">412</td>
-<td><sub>La Laguna. Tenerife</sub></td>
-</tr>
-<tr>
-<td align="right">448</td>
 <td><a href="https://github.com/jfy133"><img src="https://avatars.githubusercontent.com/u/17950287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jfy133"><b>James A. Fellows Yates</b></a><br><sub>&#64;jfy133</sub></td>
 <td align="right"><b>249</b></td>
 <td align="right">66</td>
 <td><sub>Catalunya, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">449</td>
+<td align="right">448</td>
 <td><a href="https://github.com/Suxrob14"><img src="https://avatars.githubusercontent.com/u/205811847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Suxrob14"><b>SUXROB</b></a><br><sub>&#64;Suxrob14</sub></td>
 <td align="right"><b>248</b></td>
 <td align="right">746</td>
 <td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">449</td>
+<td><a href="https://github.com/crguezl"><img src="https://avatars.githubusercontent.com/u/1142554?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crguezl"><b>Casiano Rodriguez-Leon</b></a><br><sub>&#64;crguezl</sub></td>
+<td align="right"><b>248</b></td>
+<td align="right">412</td>
+<td><sub>La Laguna. Tenerife</sub></td>
 </tr>
 <tr>
 <td align="right">450</td>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,305 attributed developers are tracked; the cutoff is 124 followers.
+- Organizations are excluded. 1,303 attributed developers are tracked; the cutoff is 124 followers.
 - **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

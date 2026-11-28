@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 24 Nov 2026 | <a href="../data/AD.json">JSON</a> |
+| 🟡 Provisional | **16** | 25 Nov 2026 | <a href="../data/AD.json">JSON</a> |
 
 </div>
 
@@ -45,8 +45,8 @@
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/ericrisco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ericrisco/rsc-harness"><b>ericrisco/rsc-harness</b></a><br><sub>Your agent invents things because it has no memory, and can&#39;t touch your database because it has no arms. rsc is the me…</sub></td>
-<td align="right"><b>661</b></td>
-<td align="right">93</td>
+<td align="right"><b>677</b></td>
+<td align="right">95</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 292 stars; 16 attributed candidates are tracked.
-- 90 multi-repository owners are queued for expansion.
+- 84 multi-repository owners are queued for expansion.
 - **Location discovery:** term 3 of 23 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

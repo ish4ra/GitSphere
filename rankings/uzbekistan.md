@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **24** | 24 Nov 2026 | <a href="../data/UZ.json">JSON</a> |
+| 🟡 Provisional | **28** | 25 Nov 2026 | <a href="../data/UZ.json">JSON</a> |
 
 </div>
 
@@ -72,17 +72,17 @@
 </tr>
 <tr>
 <td align="right">8</td>
-<td><img src="https://github.com/selectel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/selectel/pyte"><b>selectel/pyte</b></a><br><sub>Simple VTXXX-compatible linux terminal emulator</sub></td>
-<td align="right"><b>759</b></td>
-<td align="right">124</td>
-<td>Python</td>
+<td><img src="https://github.com/smixs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/smixs/visual-skills"><b>smixs/visual-skills</b></a><br><sub>AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance…</sub></td>
+<td align="right"><b>776</b></td>
+<td align="right">89</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">9</td>
-<td><img src="https://github.com/smixs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/smixs/visual-skills"><b>smixs/visual-skills</b></a><br><sub>AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance…</sub></td>
-<td align="right"><b>757</b></td>
-<td align="right">87</td>
-<td>—</td>
+<td><img src="https://github.com/selectel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/selectel/pyte"><b>selectel/pyte</b></a><br><sub>Simple VTXXX-compatible linux terminal emulator</sub></td>
+<td align="right"><b>758</b></td>
+<td align="right">124</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">10</td>
@@ -189,6 +189,34 @@
 <td align="right">204</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/Andrey0189.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Andrey0189/nixos-config-reborn"><b>Andrey0189/nixos-config-reborn</b></a><br><sub>❄️ Ampersand&#39;s redesigned NixOS Config</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">30</td>
+<td>Nix</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/kugaevsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kugaevsky/mousetrap-rails"><b>kugaevsky/mousetrap-rails</b></a><br><sub>Rails gem for handling keyboard shortcuts via mousetrap javascript library</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">7</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/MaxFour.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MaxFour/Music-Player"><b>MaxFour/Music-Player</b></a><br><sub>Lightweight and Material designed Music Player</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">70</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/getspherelabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/getspherelabs/anypass-kmp"><b>getspherelabs/anypass-kmp</b></a><br><sub>AnyPass: A Compose Multiplatform app for your all-in-one password manager</sub></td>
+<td align="right"><b>271</b></td>
+<td align="right">32</td>
+<td>Kotlin</td>
+</tr>
 </tbody>
 </table>
 
@@ -197,8 +225,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 311 stars; 24 attributed candidates are tracked.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 271 stars; 28 attributed candidates are tracked.
+- 109 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

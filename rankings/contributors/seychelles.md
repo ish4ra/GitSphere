@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/SC.json">JSON</a> |
+| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/contributors/SC.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/ocornu"><img src="https://avatars.githubusercontent.com/u/54847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ocornu"><b>Olivier Cornu</b></a><br><sub>&#64;ocornu · 17 followers</sub></td>
+<td align="right"><b>43</b></td>
+<td align="right">19</td>
+<td align="right">8</td>
+<td align="right">3</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/airseychellesroblox"><img src="https://avatars.githubusercontent.com/u/263137830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/airseychellesroblox"><b>Air Seychelles Roblox</b></a><br><sub>&#64;airseychellesroblox · 0 followers</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">29</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/imprezahost"><img src="https://avatars.githubusercontent.com/u/45517946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imprezahost"><b>Impreza Host</b></a><br><sub>&#64;imprezahost · 3 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">1</td>
@@ -132,7 +141,16 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
+<td><a href="https://github.com/ChrKo1"><img src="https://avatars.githubusercontent.com/u/8571010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChrKo1"><b>Christoph Konrad</b></a><br><sub>&#64;ChrKo1 · 2 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">10</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/eoea"><img src="https://avatars.githubusercontent.com/u/59754250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eoea"><b>Emile Antat</b></a><br><sub>&#64;eoea · 0 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">7</td>
@@ -141,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/EYAKENOCODE"><img src="https://avatars.githubusercontent.com/u/135286038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EYAKENOCODE"><b>ROBERT</b></a><br><sub>&#64;EYAKENOCODE · 0 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">3</td>
@@ -150,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/AnonymousGhost-SC"><img src="https://avatars.githubusercontent.com/u/87562583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnonymousGhost-SC"><b>Adrian Noel</b></a><br><sub>&#64;AnonymousGhost-SC · 8 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">5</td>
@@ -159,7 +177,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
+<td><a href="https://github.com/jyqalan"><img src="https://avatars.githubusercontent.com/u/7675267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jyqalan"><b>Dan Fu</b></a><br><sub>&#64;jyqalan · 1 followers</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/smichalowski"><img src="https://avatars.githubusercontent.com/u/3269993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smichalowski"><b>Sebastian Michalowski</b></a><br><sub>&#64;smichalowski · 17 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -168,7 +195,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
 <td><a href="https://github.com/finessed"><img src="https://avatars.githubusercontent.com/u/7689000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/finessed"><b>Delroy Finesse</b></a><br><sub>&#64;finessed · 1 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -183,7 +210,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 26 of 193 discovered developers (167 awaiting measurement).
+- **Measured:** 30 of 193 discovered developers (163 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 39 in round 1.

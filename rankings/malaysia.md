@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **91** | 24 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -658,15 +658,78 @@
 <td align="right">40</td>
 <td>Swift</td>
 </tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/rklyz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rklyz/MyRice"><b>rklyz/MyRice</b></a><br><sub>:rice: Beras</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">24</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/drshahizan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/drshahizan/software-engineering"><b>drshahizan/software-engineering</b></a><br><sub>This course is designed to give students an introduction to an engineering approach in the development of high-quality…</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">84</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/kenfai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kenfai/KavSoft-Tutorials-iOS"><b>kenfai/KavSoft-Tutorials-iOS</b></a><br><sub>iOS SwiftUI Tutorials by Kavsoft</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">77</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/zernonia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zernonia/madewithsupabase"><b>zernonia/madewithsupabase</b></a><br><sub>A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">29</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/pearlxcore.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pearlxcore/PS5PKGTool"><b>pearlxcore/PS5PKGTool</b></a><br><sub>A Windows app for managing your PS5 dump and image collection, reading PS5 packages, and building or converting images.</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">27</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/jimmy54.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jimmy54/iRime"><b>jimmy54/iRime</b></a><br><sub>iRime</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">55</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/hecongqing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hecongqing/2018-daguan-competition"><b>hecongqing/2018-daguan-competition</b></a><br><sub>2018年&quot;达观杯&quot;文本智能处理挑战赛-长文本分类-rank4</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">73</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/asyraf9.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asyraf9/bootstrap-sidebar"><b>asyraf9/bootstrap-sidebar</b></a><br><sub>A responsive sidebar plugin for bootstrap 3. if your menus are too big to fit into a horizontal menubar, or you need to…</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">70</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/orchestral.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orchestral/testbench-core"><b>orchestral/testbench-core</b></a><br><sub>The Testing Framework for Laravel Development</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">47</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 299 stars; 91 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 273 stars; 102 attributed candidates are tracked.
 - 104 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

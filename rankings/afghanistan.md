@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 24 Nov 2026 | <a href="../data/AF.json">JSON</a> |
+| 🟡 Provisional | **16** | 25 Nov 2026 | <a href="../data/AF.json">JSON</a> |
 
 </div>
 
@@ -32,7 +32,7 @@
 <td align="right">2</td>
 <td><img src="https://github.com/AntiCope.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AntiCope/meteor-rejects"><b>AntiCope/meteor-rejects</b></a><br><sub>An addon to Meteor Client with features that won&#39;t be added to Meteor. Because they were either rejected or are ports f…</sub></td>
 <td align="right"><b>694</b></td>
-<td align="right">224</td>
+<td align="right">225</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -119,6 +119,20 @@
 <td align="right">15</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/ssahibsingh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ssahibsingh/React_E-Commerce"><b>ssahibsingh/React&#95;E-Commerce</b></a><br><sub>🛒 An Ecommerce website made with Reactjs Framework</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">199</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/afgprogrammer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/afgprogrammer/Flutter-Login-Signup-page"><b>afgprogrammer/Flutter-Login-Signup-page</b></a><br><sub>Flutter Login and Signup Page design and Animation - day 23</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">58</td>
+<td>Dart</td>
+</tr>
 </tbody>
 </table>
 
@@ -127,8 +141,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 296 stars; 14 attributed candidates are tracked.
-- 126 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 280 stars; 16 attributed candidates are tracked.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 171 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

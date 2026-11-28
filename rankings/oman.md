@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 24 Nov 2026 | <a href="../data/OM.json">JSON</a> |
+| 🟡 Provisional | **10** | 25 Nov 2026 | <a href="../data/OM.json">JSON</a> |
 
 </div>
 
@@ -84,6 +84,13 @@
 <td align="right">31</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/Aslemammad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aslemammad/vite-plugin-cloudflare"><b>Aslemammad/vite-plugin-cloudflare</b></a> <sub>archived</sub><br><sub>🔥 Easier and better experience writing Cloudflare workers in Vite</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">9</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -92,8 +99,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 298 stars; 9 attributed candidates are tracked.
-- 117 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 283 stars; 10 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 41 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

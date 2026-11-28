@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 24 Nov 2026 | <a href="../data/MD.json">JSON</a> |
+| 🟡 Provisional | **26** | 25 Nov 2026 | <a href="../data/MD.json">JSON</a> |
 
 </div>
 
@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/CyberShadow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CyberShadow/btdu"><b>CyberShadow/btdu</b></a><br><sub>sampling disk usage profiler for btrfs</sub></td>
-<td align="right"><b>691</b></td>
+<td align="right"><b>693</b></td>
 <td align="right">10</td>
 <td>D</td>
 </tr>
@@ -182,6 +182,27 @@
 <td align="right">84</td>
 <td>Dockerfile</td>
 </tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/CyberShadow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CyberShadow/trimcheck"><b>CyberShadow/trimcheck</b></a><br><sub>SSD TRIM check tool for Windows</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">25</td>
+<td>D</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/uptrace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/uptrace/go-clickhouse"><b>uptrace/go-clickhouse</b></a><br><sub>Golang ClickHouse client</sub></td>
+<td align="right"><b>281</b></td>
+<td align="right">36</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/sandulat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sandulat/routes-gen"><b>sandulat/routes-gen</b></a><br><sub>Framework agnostic routes typings generator. Remix ☑️ SolidStart ☑️</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">12</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -190,8 +211,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 292 stars; 23 attributed candidates are tracked.
-- 98 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 280 stars; 26 attributed candidates are tracked.
+- 95 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

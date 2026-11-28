@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **65** | 24 Nov 2026 | <a href="../data/NG.json">JSON</a> |
+| 🟡 Provisional | **68** | 25 Nov 2026 | <a href="../data/NG.json">JSON</a> |
 
 </div>
 
@@ -212,23 +212,23 @@
 </tr>
 <tr>
 <td align="right">28</td>
+<td><img src="https://github.com/davidakpele.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/davidakpele/wifi-densepose"><b>davidakpele/wifi-densepose</b></a><br><sub>Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enabl…</sub></td>
+<td align="right"><b>704</b></td>
+<td align="right">214</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">29</td>
 <td><img src="https://github.com/amirsanni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amirsanni/Video-Call-App-NodeJS"><b>amirsanni/Video-Call-App-NodeJS</b></a><br><sub>A conference call implementation using WebRTC, Socket.io and Node.js</sub></td>
 <td align="right"><b>699</b></td>
 <td align="right">360</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">29</td>
-<td><img src="https://github.com/davidakpele.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/davidakpele/wifi-densepose"><b>davidakpele/wifi-densepose</b></a><br><sub>Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enabl…</sub></td>
-<td align="right"><b>674</b></td>
-<td align="right">201</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">30</td>
 <td><img src="https://github.com/CommunityPro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CommunityPro/portfolio-html"><b>CommunityPro/portfolio-html</b></a><br><sub>🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio we…</sub></td>
-<td align="right"><b>671</b></td>
-<td align="right">298</td>
+<td align="right"><b>672</b></td>
+<td align="right">299</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -476,6 +476,27 @@
 <td align="right">50</td>
 <td>C#</td>
 </tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/hisabimbola.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hisabimbola/slack-history-export"><b>hisabimbola/slack-history-export</b></a> <sub>archived</sub><br><sub>A NPM module that allows slack users export their history</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">42</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/Xor-el.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Xor-el/HashLib4Pascal"><b>Xor-el/HashLib4Pascal</b></a><br><sub>Hashing for Modern Object Pascal</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">93</td>
+<td>Assembly</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/davepartner.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/davepartner/pmanager"><b>davepartner/pmanager</b></a><br><sub>A project management system built using laravel. Watch full video here</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">101</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -484,8 +505,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 294 stars; 65 attributed candidates are tracked.
-- 112 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 272 stars; 68 attributed candidates are tracked.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

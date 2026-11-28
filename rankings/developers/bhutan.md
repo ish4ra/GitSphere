@@ -431,7 +431,7 @@
 <td align="right">59</td>
 <td><a href="https://github.com/ps-ruby"><img src="https://avatars.githubusercontent.com/u/23139057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ps-ruby"><b>Prakash Sanyasi</b></a><br><sub>&#64;ps-ruby</sub></td>
 <td align="right"><b>7</b></td>
-<td align="right">32</td>
+<td align="right">33</td>
 <td><sub>Thimphu, Bhutan</sub></td>
 </tr>
 <tr>

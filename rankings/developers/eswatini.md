@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/BrianMsane"><img src="https://avatars.githubusercontent.com/u/154548195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BrianMsane"><b>Brian Msane</b></a><br><sub>&#64;BrianMsane</sub></td>
-<td align="right"><b>17</b></td>
+<td align="right"><b>16</b></td>
 <td align="right">20</td>
 <td><sub>Ezulwini, Eswatini</sub></td>
 </tr>

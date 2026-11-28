@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/contributors/TR.json">JSON</a> |
+| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/TR.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/f"><img src="https://avatars.githubusercontent.com/u/196477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/f"><b>Fatih Kadir Akın</b></a><br><sub>&#64;f · 11,795 followers</sub></td>
+<td align="right"><b>4,180</b></td>
+<td align="right">3,893</td>
+<td align="right">191</td>
+<td align="right">37</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/bahattinyunus"><img src="https://avatars.githubusercontent.com/u/83650878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bahattinyunus"><b>Bahattin Yunus ÇETİN</b></a><br><sub>&#64;bahattinyunus · 9,730 followers</sub></td>
 <td align="right"><b>3,970</b></td>
 <td align="right">3,847</td>
@@ -78,7 +87,16 @@
 <td align="right">10</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
+<td><a href="https://github.com/aliok"><img src="https://avatars.githubusercontent.com/u/376732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliok"><b>Ali Ok</b></a><br><sub>&#64;aliok · 329 followers</sub></td>
+<td align="right"><b>915</b></td>
+<td align="right">520</td>
+<td align="right">118</td>
+<td align="right">94</td>
+<td align="right">150</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/hamitmizrak"><img src="https://avatars.githubusercontent.com/u/15179871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hamitmizrak"><b>Blockchain, Devops,Mobil, Full Stack Developer &amp; Software Trainer Hamit Mızrak</b></a><br><sub>&#64;hamitmizrak · 654 followers</sub></td>
 <td align="right"><b>905</b></td>
 <td align="right">885</td>
@@ -87,7 +105,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
+<td><a href="https://github.com/ebubekirbastama"><img src="https://avatars.githubusercontent.com/u/12575603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ebubekirbastama"><b>Ebubekir Bastama</b></a><br><sub>&#64;ebubekirbastama · 112 followers</sub></td>
+<td align="right"><b>735</b></td>
+<td align="right">677</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/alicanyucel"><img src="https://avatars.githubusercontent.com/u/32604562?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alicanyucel"><b>Ali Can Yücel</b></a><br><sub>&#64;alicanyucel · 190 followers</sub></td>
 <td align="right"><b>679</b></td>
 <td align="right">588</td>
@@ -96,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">12</td>
 <td><a href="https://github.com/WildGenie"><img src="https://avatars.githubusercontent.com/u/39780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WildGenie"><b>Bilgehan Zeki ÖZAYTAÇ</b></a><br><sub>&#64;WildGenie · 880 followers</sub></td>
 <td align="right"><b>567</b></td>
 <td align="right">545</td>
@@ -105,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">13</td>
 <td><a href="https://github.com/ramazansancar"><img src="https://avatars.githubusercontent.com/u/8878055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ramazansancar"><b>Ramazan Sancar</b></a><br><sub>&#64;ramazansancar · 469 followers</sub></td>
 <td align="right"><b>554</b></td>
 <td align="right">239</td>
@@ -114,7 +141,7 @@
 <td align="right">218</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">14</td>
 <td><a href="https://github.com/VB10"><img src="https://avatars.githubusercontent.com/u/17102578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VB10"><b>Veli Bacik</b></a><br><sub>&#64;VB10 · 3,435 followers</sub></td>
 <td align="right"><b>495</b></td>
 <td align="right">295</td>
@@ -123,7 +150,7 @@
 <td align="right">74</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">15</td>
 <td><a href="https://github.com/erkankaragul"><img src="https://avatars.githubusercontent.com/u/98192243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erkankaragul"><b>0xhantos</b></a><br><sub>&#64;erkankaragul · 161 followers</sub></td>
 <td align="right"><b>384</b></td>
 <td align="right">298</td>
@@ -132,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">16</td>
 <td><a href="https://github.com/ikpehlivan"><img src="https://avatars.githubusercontent.com/u/61942555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ikpehlivan"><b>İlteriş Kaan PEHLİVAN</b></a><br><sub>&#64;ikpehlivan · 217 followers</sub></td>
 <td align="right"><b>206</b></td>
 <td align="right">121</td>
@@ -141,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">17</td>
 <td><a href="https://github.com/developer-guy"><img src="https://avatars.githubusercontent.com/u/16693043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/developer-guy"><b>Batuhan Apaydın</b></a><br><sub>&#64;developer-guy · 959 followers</sub></td>
 <td align="right"><b>197</b></td>
 <td align="right">178</td>
@@ -150,7 +177,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">18</td>
 <td><a href="https://github.com/onuratakan"><img src="https://avatars.githubusercontent.com/u/41792982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onuratakan"><b>Onur ULUSOY</b></a><br><sub>&#64;onuratakan · 469 followers</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">149</td>
@@ -159,7 +186,16 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">19</td>
+<td><a href="https://github.com/Sermineldek"><img src="https://avatars.githubusercontent.com/u/113600174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sermineldek"><b>Şermin Eldek</b></a><br><sub>&#64;Sermineldek · 187 followers</sub></td>
+<td align="right"><b>101</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/TanerSaydam"><img src="https://avatars.githubusercontent.com/u/83103843?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TanerSaydam"><b>Taner Saydam</b></a><br><sub>&#64;TanerSaydam · 793 followers</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">54</td>
@@ -168,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">21</td>
 <td><a href="https://github.com/SELIMCNR"><img src="https://avatars.githubusercontent.com/u/90525336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SELIMCNR"><b>Selim Çınar</b></a><br><sub>&#64;SELIMCNR · 483 followers</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">40</td>
@@ -177,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">22</td>
 <td><a href="https://github.com/yakintech"><img src="https://avatars.githubusercontent.com/u/16878108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yakintech"><b>yakintech</b></a><br><sub>&#64;yakintech · 551 followers</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">26</td>
@@ -186,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">23</td>
 <td><a href="https://github.com/ademkocamaz"><img src="https://avatars.githubusercontent.com/u/12304649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ademkocamaz"><b>Adem KOCAMAZ</b></a><br><sub>&#64;ademkocamaz · 187 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">4</td>
@@ -201,7 +237,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 1,500 discovered developers (1,477 awaiting measurement).
+- **Measured:** 27 of 1,551 discovered developers (1,524 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 169 in round 1.

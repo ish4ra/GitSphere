@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/contributors/ME.json">JSON</a> |
+| 🟡 Provisional | **29** | 22 Nov 2026 | <a href="../../data/contributors/ME.json">JSON</a> |
 
 </div>
 
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/mkayander"><img src="https://avatars.githubusercontent.com/u/34479008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkayander"><b>Max Kayander</b></a><br><sub>&#64;mkayander · 8 followers</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">358</td>
+<td align="right">93</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/arikon"><img src="https://avatars.githubusercontent.com/u/75247?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arikon"><b>Sergey Belov</b></a><br><sub>&#64;arikon · 132 followers</sub></td>
 <td align="right"><b>263</b></td>
 <td align="right">138</td>
@@ -114,7 +123,16 @@
 <td align="right">88</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
+<td><a href="https://github.com/leokotman"><img src="https://avatars.githubusercontent.com/u/71670937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leokotman"><b>Leo K</b></a><br><sub>&#64;leokotman · 3 followers</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">174</td>
+<td align="right">69</td>
+<td align="right">3</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/lockie"><img src="https://avatars.githubusercontent.com/u/160056?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lockie"><b>Andrew Kravchuk</b></a><br><sub>&#64;lockie · 135 followers</sub></td>
 <td align="right"><b>220</b></td>
 <td align="right">193</td>
@@ -123,7 +141,7 @@
 <td align="right">10</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/cblp"><img src="https://avatars.githubusercontent.com/u/63495?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cblp"><b>Yury Syrovetsky</b></a><br><sub>&#64;cblp · 141 followers</sub></td>
 <td align="right"><b>166</b></td>
 <td align="right">132</td>
@@ -132,7 +150,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
 <td><a href="https://github.com/UncleAndy"><img src="https://avatars.githubusercontent.com/u/726954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UncleAndy"><b>Andrey Velikoredchanin</b></a><br><sub>&#64;UncleAndy · 12 followers</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">27</td>
@@ -141,7 +159,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/olegstepura"><img src="https://avatars.githubusercontent.com/u/534510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olegstepura"><b>Oleg Stepura</b></a><br><sub>&#64;olegstepura · 18 followers</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">65</td>
@@ -150,7 +168,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
+<td><a href="https://github.com/uu"><img src="https://avatars.githubusercontent.com/u/95994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uu"><b>Michael Pirogov</b></a><br><sub>&#64;uu · 30 followers</sub></td>
+<td align="right"><b>90</b></td>
+<td align="right">90</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/dchest"><img src="https://avatars.githubusercontent.com/u/52677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dchest"><b>Dmitry Chestnykh</b></a><br><sub>&#64;dchest · 554 followers</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">69</td>
@@ -159,7 +186,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">19</td>
 <td><a href="https://github.com/vovkasm"><img src="https://avatars.githubusercontent.com/u/95272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vovkasm"><b>Vladimir Timofeev</b></a><br><sub>&#64;vovkasm · 100 followers</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">65</td>
@@ -168,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
 <td><a href="https://github.com/D4rk4"><img src="https://avatars.githubusercontent.com/u/1151390?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/D4rk4"><b>Dmitry Galenko</b></a><br><sub>&#64;D4rk4 · 20 followers</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">44</td>
@@ -177,7 +204,7 @@
 <td align="right">11</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/vladignatyev"><img src="https://avatars.githubusercontent.com/u/513940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vladignatyev"><b>Vladimir Ignatev</b></a><br><sub>&#64;vladignatyev · 88 followers</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">49</td>
@@ -186,7 +213,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">22</td>
 <td><a href="https://github.com/mladen"><img src="https://avatars.githubusercontent.com/u/1547739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mladen"><b>Mladen Krivaćević</b></a><br><sub>&#64;mladen · 48 followers</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">62</td>
@@ -195,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">23</td>
 <td><a href="https://github.com/Const-me"><img src="https://avatars.githubusercontent.com/u/925112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Const-me"><b>Konstantin</b></a><br><sub>&#64;Const-me · 364 followers</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">47</td>
@@ -204,7 +231,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">24</td>
 <td><a href="https://github.com/therustmonk"><img src="https://avatars.githubusercontent.com/u/418920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/therustmonk"><b>Denis Kolodin</b></a><br><sub>&#64;therustmonk · 798 followers</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">9</td>
@@ -213,7 +240,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">25</td>
+<td><a href="https://github.com/infnetdanpro"><img src="https://avatars.githubusercontent.com/u/33713163?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/infnetdanpro"><b>infnetdanpro</b></a><br><sub>&#64;infnetdanpro · 10 followers</sub></td>
+<td align="right"><b>34</b></td>
+<td align="right">19</td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">26</td>
 <td><a href="https://github.com/janisivanoov"><img src="https://avatars.githubusercontent.com/u/85873435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/janisivanoov"><b>Ivan</b></a><br><sub>&#64;janisivanoov · 11 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -222,7 +258,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">27</td>
 <td><a href="https://github.com/SugarF0x"><img src="https://avatars.githubusercontent.com/u/44411379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SugarF0x"><b>Aleksej Tuzov</b></a><br><sub>&#64;SugarF0x · 8 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -231,7 +267,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">28</td>
 <td><a href="https://github.com/okolomiets"><img src="https://avatars.githubusercontent.com/u/1560423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/okolomiets"><b>OІeg КoІomіets</b></a><br><sub>&#64;okolomiets · 5 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -240,7 +276,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">29</td>
 <td><a href="https://github.com/1000001rtem"><img src="https://avatars.githubusercontent.com/u/36985510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1000001rtem"><b>Artem Eremin</b></a><br><sub>&#64;1000001rtem · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -255,7 +291,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 28 of 394 discovered developers (366 awaiting measurement).
+- **Measured:** 33 of 394 discovered developers (361 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 44 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 24 Nov 2026 | <a href="../data/DO.json">JSON</a> |
+| 🟡 Provisional | **20** | 25 Nov 2026 | <a href="../data/DO.json">JSON</a> |
 
 </div>
 
@@ -53,7 +53,7 @@
 <td align="right">5</td>
 <td><img src="https://github.com/xhit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xhit/go-simple-mail"><b>xhit/go-simple-mail</b></a><br><sub>Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.</sub></td>
 <td align="right"><b>699</b></td>
-<td align="right">109</td>
+<td align="right">110</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -147,6 +147,20 @@
 <td align="right">42</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/sgermosen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sgermosen/TorneoPredicciones"><b>sgermosen/TorneoPredicciones</b></a><br><sub>Esta aplicacion de ejemplo tiene la finalidad de darle seguimiento a cualquier clase de torneo, y hacer predicciones al…</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">236</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/rmariuzzo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rmariuzzo/Lang.js"><b>rmariuzzo/Lang.js</b></a><br><sub>:performing&#95;arts: Laravel Translator class in JavaScript!</sub></td>
+<td align="right"><b>276</b></td>
+<td align="right">62</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -155,8 +169,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 299 stars; 18 attributed candidates are tracked.
-- 101 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 276 stars; 20 attributed candidates are tracked.
+- 97 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

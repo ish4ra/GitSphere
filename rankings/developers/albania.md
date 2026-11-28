@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/NiazMorshed2007"><img src="https://avatars.githubusercontent.com/u/77217706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NiazMorshed2007"><b>Niaz Morshed</b></a><br><sub>&#64;NiazMorshed2007</sub></td>
-<td align="right"><b>198</b></td>
+<td align="right"><b>199</b></td>
 <td align="right">61</td>
 <td><sub>Planet</sub></td>
 </tr>
@@ -172,7 +172,7 @@
 <td align="right">22</td>
 <td><a href="https://github.com/KristiSeraj"><img src="https://avatars.githubusercontent.com/u/65773022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KristiSeraj"><b>Kristi</b></a><br><sub>&#64;KristiSeraj</sub></td>
 <td align="right"><b>88</b></td>
-<td align="right">54</td>
+<td align="right">55</td>
 <td><sub>Albania</sub></td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/BG.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/BG.json">JSON</a> |
 
 </div>
 
@@ -669,14 +669,14 @@
 <td align="right">93</td>
 <td><img src="https://github.com/irusanov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/irusanov/ZenTimings"><b>irusanov/ZenTimings</b></a></td>
 <td align="right"><b>743</b></td>
-<td align="right">35</td>
+<td align="right">36</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/Roobyx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Roobyx/awesome-game-design"><b>Roobyx/awesome-game-design</b></a><br><sub>A comprehensive list of Game Design related learning materials, examples and tools.</sub></td>
 <td align="right"><b>723</b></td>
-<td align="right">57</td>
+<td align="right">58</td>
 <td>—</td>
 </tr>
 <tr>

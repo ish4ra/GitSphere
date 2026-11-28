@@ -312,7 +312,7 @@
 <td align="right">42</td>
 <td><a href="https://github.com/bllbtnd"><img src="https://avatars.githubusercontent.com/u/61012751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bllbtnd"><b>Balla Botond</b></a><br><sub>&#64;bllbtnd</sub></td>
 <td align="right"><b>7</b></td>
-<td align="right">24</td>
+<td align="right">27</td>
 <td><sub>Isle of Man</sub></td>
 </tr>
 <tr>
@@ -2536,7 +2536,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 358 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 1 of 39 in round 1.
+- **Location discovery:** term 4 of 39 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

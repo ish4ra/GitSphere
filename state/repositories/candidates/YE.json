@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"YE","name":"Yemen","slug":"yemen"},
-"count": 1,
+"count": 2,
 "repositories": [
-  {"id":"R_kgDOKBTtdw","name":"AhmedSaadi0/NibrasShell","stars":781,"forks":42,"language":"QML","license":"MIT","description":"AI‑integrated shell.","archived":false,"createdAt":"2023-07-30T06:49:16Z","pushedAt":"2026-11-27T02:06:28Z","owner":{"id":"MDQ6VXNlcjY4ODMyNDcw","login":"AhmedSaadi0","type":"User","name":"Ahmed Alsaadi","location":"Sanaa, Yemen"},"attribution":{"code":"YE","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-27T11:21:26.211Z","verifiedAt":"2026-11-27T11:21:26.211Z","cycle":1,"revalidatedAt":"2026-11-27T11:21:26.211Z"}
+  {"id":"R_kgDOKBTtdw","name":"AhmedSaadi0/NibrasShell","stars":781,"forks":42,"language":"QML","license":"MIT","description":"AI‑integrated shell.","archived":false,"createdAt":"2023-07-30T06:49:16Z","pushedAt":"2026-11-27T02:06:28Z","owner":{"id":"MDQ6VXNlcjY4ODMyNDcw","login":"AhmedSaadi0","type":"User","name":"Ahmed Alsaadi","location":"Sanaa, Yemen"},"attribution":{"code":"YE","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-27T11:21:26.211Z","verifiedAt":"2026-11-27T11:21:26.211Z","cycle":1,"revalidatedAt":"2026-11-27T11:21:26.211Z"},
+  {"id":"R_kgDOJMbWjw","name":"aymanalhattami/filament-page-with-sidebar","stars":273,"forks":33,"language":"PHP","license":"MIT","description":"Organize pages in the sidebar in order to make navigation between pages more comfortable.","archived":false,"createdAt":"2023-03-21T14:24:48Z","pushedAt":"2026-06-22T02:32:57Z","owner":{"id":"MDQ6VXNlcjM0MzE1Nzc4","login":"aymanalhattami","type":"User","name":"Ayman Alhattami","location":"Yemen"},"attribution":{"code":"YE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-28T02:51:53.243Z","verifiedAt":"2026-11-28T02:51:53.243Z","cycle":1}
 ]
 }

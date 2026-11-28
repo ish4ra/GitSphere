@@ -368,7 +368,7 @@
 <td align="right">50</td>
 <td><a href="https://github.com/adamsoro0321"><img src="https://avatars.githubusercontent.com/u/88541758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamsoro0321"><b>Asbrain</b></a><br><sub>&#64;adamsoro0321</sub></td>
 <td align="right"><b>14</b></td>
-<td align="right">43</td>
+<td align="right">44</td>
 <td><sub>BURKINA FASO , Ouagadougou</sub></td>
 </tr>
 <tr>
@@ -401,24 +401,24 @@
 </tr>
 <tr>
 <td align="right">55</td>
-<td><a href="https://github.com/Rodhackgang"><img src="https://avatars.githubusercontent.com/u/116571045?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rodhackgang"><b>Rodrigue Sama</b></a><br><sub>&#64;Rodhackgang</sub></td>
-<td align="right"><b>13</b></td>
-<td align="right">44</td>
-<td><sub>Ouagadougou, Burkina Faso</sub></td>
-</tr>
-<tr>
-<td align="right">56</td>
 <td><a href="https://github.com/AlassaneSakande"><img src="https://avatars.githubusercontent.com/u/84173235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlassaneSakande"><b>Alassane Sakande</b></a><br><sub>&#64;AlassaneSakande</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">7</td>
 <td><sub>Burkina Faso / Ouagadougou</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">56</td>
 <td><a href="https://github.com/traoreera"><img src="https://avatars.githubusercontent.com/u/68350805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/traoreera"><b>Eliezer Traore</b></a><br><sub>&#64;traoreera</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">49</td>
 <td><sub>Burkina Faso</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/Rodhackgang"><img src="https://avatars.githubusercontent.com/u/116571045?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rodhackgang"><b>Rodrigue Sama</b></a><br><sub>&#64;Rodhackgang</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">44</td>
+<td><sub>Ouagadougou, Burkina Faso</sub></td>
 </tr>
 <tr>
 <td align="right">58</td>

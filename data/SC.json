@@ -5,7 +5,7 @@
 "country": {"code":"SC","name":"Seychelles","slug":"seychelles"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":140,"candidates":105,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":39,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":139,"candidates":105,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":39,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMTU1MjA5NQ==","name":"api-connectors","nameWithOwner":"BitMEX/api-connectors","url":"https://github.com/BitMEX/api-connectors","description":"Libraries for connecting to the BitMEX API.","stars":906,"forks":773,"primaryLanguage":"C++","license":null,"createdAt":"2014-07-07T01:07:10Z","pushedAt":"2024-05-29T01:29:07Z","archived":false,"owner":{"login":"BitMEX","name":"BitMEX: Bitcoin Mercantile Exchange","type":"Organization","url":"https://github.com/BitMEX","location":"Mahé, Seychelles","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-27"},
   {"rank":2,"id":null,"name":"bluebit-core","nameWithOwner":"BluebitFinance/bluebit-core","url":"https://github.com/BluebitFinance/bluebit-core","description":null,"stars":0,"forks":2,"primaryLanguage":"Solidity","license":null,"createdAt":"2022-04-14T07:23:47Z","pushedAt":"2022-04-14T07:29:49Z","archived":false,"owner":{"login":"BluebitFinance","name":"BlueBit Finance","type":"User","url":"https://github.com/BluebitFinance","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"synergy-build","nameWithOwner":"wouldnt/synergy-build","url":"https://github.com/wouldnt/synergy-build","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"NOASSERTION"},"createdAt":"2022-09-07T15:47:55Z","pushedAt":"2022-09-07T22:00:16Z","archived":false,"owner":{"login":"wouldnt","name":"Wouldnt","type":"User","url":"https://github.com/wouldnt","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"XANA-Jetton","nameWithOwner":"XANA-Team/XANA-Jetton","url":"https://github.com/XANA-Team/XANA-Jetton","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-10-01T08:58:01Z","pushedAt":"2024-10-01T08:59:44Z","archived":false,"owner":{"login":"XANA-Team","name":"XANA-Team","type":"Organization","url":"https://github.com/XANA-Team","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "9902da7a6b94395f",
-"updatedAt": "2026-11-27T11:33:59.196Z",
+"contentHash": "7200996176af619f",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-27T11:33:59.196Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

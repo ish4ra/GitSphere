@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **53** | 24 Nov 2026 | <a href="../data/NP.json">JSON</a> |
+| 🟡 Provisional | **59** | 25 Nov 2026 | <a href="../data/NP.json">JSON</a> |
 
 </div>
 
@@ -392,6 +392,48 @@
 <td align="right">80</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/SajidAnTechie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SajidAnTechie/ShopPoint"><b>SajidAnTechie/ShopPoint</b></a><br><sub>:loudspeaker: A mern stack e-commerce app</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">93</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/mesaugat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mesaugat/express-api-es6-starter"><b>mesaugat/express-api-es6-starter</b></a> <sub>archived</sub><br><sub>Build APIs with Express.js in no time using ES6/ES7/ESNext goodness.</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">87</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/bimsina.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bimsina/wallpaper"><b>bimsina/wallpaper</b></a><br><sub>Wallpaper App made with Flutter with Dynamic Theming.</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">83</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/lohanidamodar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lohanidamodar/flutter_opentrivia"><b>lohanidamodar/flutter&#95;opentrivia</b></a><br><sub>&#42;&#42;Updated to Flutter 3&#42;&#42; OpenTrivia-A quiz app made with flutter</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">101</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/anaida07.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anaida07/MEVN-boilerplate"><b>anaida07/MEVN-boilerplate</b></a><br><sub>A fullstack boilerplate with Mongo, ExpressJS, VueJS and NodeJS.</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">110</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/vijaythapa333.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vijaythapa333/web-design-course-restaurant"><b>vijaythapa333/web-design-course-restaurant</b></a><br><sub>This is a Restaurant Theme Website Template, designed using html and css.</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">199</td>
+<td>HTML</td>
+</tr>
 </tbody>
 </table>
 
@@ -400,7 +442,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 292 stars; 53 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 274 stars; 59 attributed candidates are tracked.
 - 109 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 69 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

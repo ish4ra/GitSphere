@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 24 Nov 2026 | <a href="../data/CR.json">JSON</a> |
+| 🟡 Provisional | **20** | 25 Nov 2026 | <a href="../data/CR.json">JSON</a> |
 
 </div>
 
@@ -37,17 +37,17 @@
 </tr>
 <tr>
 <td align="right">3</td>
-<td><img src="https://github.com/Klerith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Klerith/mas-talento"><b>Klerith/mas-talento</b></a><br><sub>Repositorio con las hojas de atajo y presentaciones de mis cursos</sub></td>
-<td align="right"><b>746</b></td>
-<td align="right">201</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/crsolver.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/crsolver/claude-pxl"><b>crsolver/claude-pxl</b></a></td>
+<td align="right"><b>748</b></td>
+<td align="right">97</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
-<td><img src="https://github.com/crsolver.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/crsolver/claude-pxl"><b>crsolver/claude-pxl</b></a></td>
-<td align="right"><b>739</b></td>
-<td align="right">96</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/Klerith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Klerith/mas-talento"><b>Klerith/mas-talento</b></a><br><sub>Repositorio con las hojas de atajo y presentaciones de mis cursos</sub></td>
+<td align="right"><b>747</b></td>
+<td align="right">203</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">5</td>
@@ -170,7 +170,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 298 stars; 20 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 58 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

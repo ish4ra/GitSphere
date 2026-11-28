@@ -478,93 +478,93 @@
 </tr>
 <tr>
 <td align="right">66</td>
-<td><a href="https://github.com/dotbm"><img src="https://avatars.githubusercontent.com/u/22107083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dotbm"><b>dot bm ltd.</b></a><br><sub>&#64;dotbm</sub></td>
-<td align="right"><b>3</b></td>
-<td align="right">22</td>
-<td><sub>Bermuda</sub></td>
-</tr>
-<tr>
-<td align="right">67</td>
 <td><a href="https://github.com/Hamza-ELAKLY"><img src="https://avatars.githubusercontent.com/u/65505094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hamza-ELAKLY"><b>Hamza-ELAKLY</b></a><br><sub>&#64;Hamza-ELAKLY</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">8</td>
 <td><sub>Bermuda Triangle</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">67</td>
 <td><a href="https://github.com/nicholasmisawo"><img src="https://avatars.githubusercontent.com/u/162431761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicholasmisawo"><b>Nicholas Misawo</b></a><br><sub>&#64;nicholasmisawo</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">3</td>
 <td><sub>Bermuda</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">68</td>
 <td><a href="https://github.com/AngelWilson"><img src="https://avatars.githubusercontent.com/u/4915799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AngelWilson"><b>AngelWilson</b></a><br><sub>&#64;AngelWilson</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
 <td><sub>Bermuda</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">69</td>
 <td><a href="https://github.com/GO-p-max"><img src="https://avatars.githubusercontent.com/u/196520694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GO-p-max"><b>MG coin !</b></a><br><sub>&#64;GO-p-max</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
 <td><sub>Bermuda Triangle</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">70</td>
 <td><a href="https://github.com/lourencelinao"><img src="https://avatars.githubusercontent.com/u/39908576?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lourencelinao"><b>Saint</b></a><br><sub>&#64;lourencelinao</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
 <td><sub>Bermuda Triangle</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">71</td>
 <td><a href="https://github.com/darcher-athene"><img src="https://avatars.githubusercontent.com/u/85505889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darcher-athene"><b>Daniel Archer</b></a><br><sub>&#64;darcher-athene</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
 <td><sub>Bermuda</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">72</td>
 <td><a href="https://github.com/jehynds"><img src="https://avatars.githubusercontent.com/u/240932243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jehynds"><b>Janna Hynds</b></a><br><sub>&#64;jehynds</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>St. George&#39;s, Bermuda</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">73</td>
 <td><a href="https://github.com/kevinminors"><img src="https://avatars.githubusercontent.com/u/44020606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevinminors"><b>Kevin Minors</b></a><br><sub>&#64;kevinminors</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Bermuda</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">74</td>
 <td><a href="https://github.com/r1ncognito"><img src="https://avatars.githubusercontent.com/u/69448772?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r1ncognito"><b>rincognito</b></a><br><sub>&#64;r1ncognito</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Bermuda Triangle</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">75</td>
 <td><a href="https://github.com/bugcowboy"><img src="https://avatars.githubusercontent.com/u/127704372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bugcowboy"><b>Tobias Kessler</b></a><br><sub>&#64;bugcowboy</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">30</td>
 <td><sub>Bermuda</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">76</td>
 <td><a href="https://github.com/Aborio"><img src="https://avatars.githubusercontent.com/u/96600815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aborio"><b>Agustin Borio</b></a><br><sub>&#64;Aborio</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">25</td>
 <td><sub>Bermudas</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">77</td>
 <td><a href="https://github.com/cpedro"><img src="https://avatars.githubusercontent.com/u/4924103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cpedro"><b>Chris Pedro</b></a><br><sub>&#64;cpedro</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">24</td>
+<td><sub>Bermuda</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/dotbm"><img src="https://avatars.githubusercontent.com/u/22107083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dotbm"><b>dot bm ltd.</b></a><br><sub>&#64;dotbm</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">22</td>
 <td><sub>Bermuda</sub></td>
 </tr>
 <tr>

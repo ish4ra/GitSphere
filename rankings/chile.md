@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **84** | 24 Nov 2026 | <a href="../data/CL.json">JSON</a> |
+| 🟡 Provisional | **95** | 25 Nov 2026 | <a href="../data/CL.json">JSON</a> |
 
 </div>
 
@@ -228,7 +228,7 @@
 <td align="right">30</td>
 <td><img src="https://github.com/jbkunst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jbkunst/highcharter"><b>jbkunst/highcharter</b></a><br><sub>R wrapper for highcharts</sub></td>
 <td align="right"><b>743</b></td>
-<td align="right">155</td>
+<td align="right">156</td>
 <td>R</td>
 </tr>
 <tr>
@@ -609,6 +609,83 @@
 <td align="right">13</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/diegoulloao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/diegoulloao/ioquake3-mac-install"><b>diegoulloao/ioquake3-mac-install</b></a><br><sub>install ioquake3 on macOs in one command (apple silicon support)</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">38</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/mfuentesg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mfuentesg/SyncSettings"><b>mfuentesg/SyncSettings</b></a> <sub>archived</sub><br><sub>Sync Settings - The cross-platform solution to keep Sublime Text configuration synchronized</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">43</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/nicolasparada.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nicolasparada/nakama"><b>nicolasparada/nakama</b></a><br><sub>The next social network for anime fans uwu</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">31</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/pb3lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pb3lab/ibm3202"><b>pb3lab/ibm3202</b></a><br><sub>Google Colab Tutorials for IBM3202</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">91</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/bidah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bidah/skill-set"><b>bidah/skill-set</b></a><br><sub>Collection of Claude Code skills</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">33</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/EstebanFuentealba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EstebanFuentealba/MALVEKE-Flipper-Zero"><b>EstebanFuentealba/MALVEKE-Flipper-Zero</b></a><br><sub>GAME BOY Tools for Flipper Zero. The perfect companion for your Flipper Zero. Equipped with ESP32-S2 for WiFi. MALVEKE…</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">8</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/ecaminero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ecaminero/nestjs-ddd"><b>ecaminero/nestjs-ddd</b></a><br><sub>Nestjs DDD</sub></td>
+<td align="right"><b>276</b></td>
+<td align="right">37</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/GNSB.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS"><b>GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS</b></a><br><sub>EA SPORTS UFC 3 (PS4) native port for Linux and Windows — SacredFire/bbport runtime + shadPS4-derived Vulkan renderer</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">56</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/freshworkstudio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/freshworkstudio/gps-tracking-nodejs"><b>freshworkstudio/gps-tracking-nodejs</b></a><br><sub>Let you work with some GPS trackers that connects through tcp.</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">162</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/dccuchile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dccuchile/CC6205"><b>dccuchile/CC6205</b></a><br><sub>Natural Language Processing</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">75</td>
+<td>TeX</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/Laragear.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Laragear/CacheQuery"><b>Laragear/CacheQuery</b></a><br><sub>Remember your query results using only one method. Yes, only one.</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">16</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -617,8 +694,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 294 stars; 84 attributed candidates are tracked.
-- 109 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 272 stars; 95 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **99** | 24 Nov 2026 | <a href="../data/CO.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/CO.json">JSON</a> |
 
 </div>
 
@@ -206,14 +206,14 @@
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/fguzman82.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fguzman82/gateGPT"><b>fguzman82/gateGPT</b></a><br><sub>Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.</sub></td>
-<td align="right"><b>658</b></td>
-<td align="right">105</td>
+<td align="right"><b>659</b></td>
+<td align="right">107</td>
 <td>Verilog</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/jahirfiquitiva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jahirfiquitiva/Frames"><b>jahirfiquitiva/Frames</b></a><br><sub>Free, feature-rich, easily customizable Android dashboard for wallpapers apps</sub></td>
-<td align="right"><b>652</b></td>
+<td align="right"><b>651</b></td>
 <td align="right">135</td>
 <td>Kotlin</td>
 </tr>
@@ -714,15 +714,22 @@
 <td align="right">6</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/robertoardila.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robertoardila/support-unity-memoryprofiler"><b>robertoardila/support-unity-memoryprofiler</b></a><br><sub>Extension for the existing Unity memory profiler project</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">68</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 293 stars; 99 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 283 stars; 105 attributed candidates are tracked.
 - 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 119 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

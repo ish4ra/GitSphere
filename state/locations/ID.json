@@ -6,9 +6,9 @@
 "terms": {"count":183,"fingerprint":"183:10d8cb5e"},
 "termIndex": 0,
 "specIndex": 0,
-"active": {"term":"Indonesia","kind":"users","queue":[{"metric":[0,1562500],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-23T03:00:55.748Z","stats":{"splits":6,"leaves":6,"pages":6}},
+"active": {"term":"Indonesia","kind":"users","queue":[{"metric":[0,195312],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-23T03:00:55.748Z","stats":{"splits":9,"leaves":9,"pages":9}},
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":6,"accounts":0},
+"stats": {"requests":18,"pages":9,"accounts":0},
 "updatedAt": "2026-11-23T03:00:55.748Z"
 }

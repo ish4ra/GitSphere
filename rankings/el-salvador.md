@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **46** | 24 Nov 2026 | <a href="../data/SV.json">JSON</a> |
+| 🟡 Provisional | **51** | 25 Nov 2026 | <a href="../data/SV.json">JSON</a> |
 
 </div>
 
@@ -343,6 +343,41 @@
 <td align="right">13</td>
 <td>Rust</td>
 </tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/ewilderj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ewilderj/doap"><b>ewilderj/doap</b></a><br><sub>RDF schema for describing software projects</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">63</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/muthu-r.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/muthu-r/horcrux"><b>muthu-r/horcrux</b></a><br><sub>On Demand, Version controlled access to Data for your Docker containers</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">15</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/huytd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/huytd/goxkey"><b>huytd/goxkey</b></a><br><sub>Bộ gõ tiếng Việt không có chức năng gì ngoài gõ tiếng Việt...</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">35</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/huazhouwang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/huazhouwang/WIFIADB"><b>huazhouwang/WIFIADB</b></a> <sub>archived</sub><br><sub>Connect adb from devices to androidstudio by wifi without usb anymore</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">39</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/honghaoz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/honghaoz/Loggerithm"><b>honghaoz/Loggerithm</b></a> <sub>archived</sub><br><sub>A lightweight Swift logger, uses &#96;print&#96; in development and &#96;NSLog&#96; in production. Support colourful and formatted outp…</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">14</td>
+<td>Swift</td>
+</tr>
 </tbody>
 </table>
 
@@ -351,8 +386,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 292 stars; 46 attributed candidates are tracked.
-- 116 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 270 stars; 51 attributed candidates are tracked.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 71 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

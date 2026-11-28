@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/GT.json">JSON</a> |
+| 🟡 Provisional | **15** | 25 Nov 2026 | <a href="../data/GT.json">JSON</a> |
 
 </div>
 
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/TaTo30.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TaTo30/vue-pdf"><b>TaTo30/vue-pdf</b></a><br><sub>PDF component for Vue 3</sub></td>
-<td align="right"><b>690</b></td>
+<td align="right"><b>691</b></td>
 <td align="right">113</td>
 <td>TypeScript</td>
 </tr>

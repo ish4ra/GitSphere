@@ -27,7 +27,7 @@ Explore GitHub repositories and developers by country, ranked by stars, follower
 <br>
 <a href="./rankings/README.md"><b>Browse 250 countries →</b></a>
 <br>
-<sub>10,840 repositories ranked · 234 countries with results</sub>
+<sub>9,554 repositories ranked · 218 countries with results</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="./rankings/developers/README.md">
@@ -39,7 +39,7 @@ Explore GitHub repositories and developers by country, ranked by stars, follower
 <br>
 <a href="./rankings/developers/README.md"><b>Browse 250 countries →</b></a>
 <br>
-<sub>105,847 developers ranked · 250 countries with results</sub>
+<sub>107,162 developers ranked · 250 countries with results</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="./rankings/contributors/README.md">
@@ -51,14 +51,14 @@ Explore GitHub repositories and developers by country, ranked by stars, follower
 <br>
 <a href="./rankings/contributors/README.md"><b>Browse 250 countries →</b></a>
 <br>
-<sub>5,479 contributors ranked · 250 countries with results</sub>
+<sub>6,255 contributors ranked · 250 countries with results</sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<sub>Last successful refresh <b>27 Nov 2026</b> · 250 countries and territories · Star scan verified to <b>292★</b> · Follower scan verified to <b>116</b></sub>
+<sub>Last successful refresh <b>28 Nov 2026</b> · 250 countries and territories · Star scan verified to <b>270★</b> · Follower scan verified to <b>109</b></sub>
 
 </div>
 
@@ -66,7 +66,7 @@ Explore GitHub repositories and developers by country, ranked by stars, follower
 
 | Ranking | 🟢 Published | 🟡 Provisional | 🔵 Building | 🟠 Stale | ⚪ No attributable results | 🔴 Blocked | Total |
 | :-- | --: | --: | --: | --: | --: | --: | --: |
-| Top Repositories | 54 | 92 | 16 | 88 | 0 | 0 | 250 |
+| Top Repositories | 57 | 103 | 32 | 58 | 0 | 0 | 250 |
 | Top Developers | 15 | 235 | 0 | 0 | 0 | 0 | 250 |
 | Top Contributors | 0 | 250 | 0 | 0 | 0 | 0 | 250 |
 

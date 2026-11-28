@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **49** | 24 Nov 2026 | <a href="../data/BY.json">JSON</a> |
+| 🟡 Provisional | **51** | 25 Nov 2026 | <a href="../data/BY.json">JSON</a> |
 
 </div>
 
@@ -184,30 +184,30 @@
 </tr>
 <tr>
 <td align="right">24</td>
+<td><img src="https://github.com/Bayselonarrend.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bayselonarrend/OpenIntegrations"><b>Bayselonarrend/OpenIntegrations</b></a><br><sub>Набор инструментов интеграции с популярными сервисами и технологиями для 1С:Предприятие, OneScript и CLI+MCP (Telegram,…</sub></td>
+<td align="right"><b>704</b></td>
+<td align="right">84</td>
+<td>1C Enterprise</td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><img src="https://github.com/alexzhirkevich.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexzhirkevich/compottie"><b>alexzhirkevich/compottie</b></a><br><sub>Compose Multiplatform library for rendering Lottie animations with a custom pure Kotlin renderer</sub></td>
 <td align="right"><b>701</b></td>
 <td align="right">27</td>
 <td>Kotlin</td>
 </tr>
 <tr>
-<td align="right">25</td>
-<td><img src="https://github.com/Bayselonarrend.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bayselonarrend/OpenIntegrations"><b>Bayselonarrend/OpenIntegrations</b></a><br><sub>Набор инструментов интеграции с популярными сервисами и технологиями для 1С:Предприятие, OneScript и CLI+MCP (Telegram,…</sub></td>
-<td align="right"><b>698</b></td>
-<td align="right">84</td>
-<td>1C Enterprise</td>
-</tr>
-<tr>
 <td align="right">26</td>
 <td><img src="https://github.com/jackson-storm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jackson-storm/DynamicNotch"><b>jackson-storm/DynamicNotch</b></a><br><sub>The native Dynamic Island and notch experience for macOS.</sub></td>
-<td align="right"><b>682</b></td>
-<td align="right">57</td>
+<td align="right"><b>687</b></td>
+<td align="right">59</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/Mixaill.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mixaill/FakePDB"><b>Mixaill/FakePDB</b></a><br><sub>Tool for PDB generation from IDA Pro database</sub></td>
 <td align="right"><b>657</b></td>
-<td align="right">97</td>
+<td align="right">98</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -364,6 +364,20 @@
 <td align="right">21</td>
 <td>Kotlin</td>
 </tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/unspok3n.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/unspok3n/beatportdl"><b>unspok3n/beatportdl</b></a><br><sub>Beatport &amp; Beatsource downloader (FLAC, AAC)</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">64</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/BEPb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BEPb/github-contributions"><b>BEPb/github-contributions</b></a><br><sub>If you want to beautify your GitHub activity history</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">33</td>
+<td>HTML</td>
+</tr>
 </tbody>
 </table>
 
@@ -372,8 +386,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 294 stars; 49 attributed candidates are tracked.
-- 107 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 274 stars; 51 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

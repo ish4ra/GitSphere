@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 24 Nov 2026 | <a href="../data/MO.json">JSON</a> |
+| 🟡 Provisional | **12** | 25 Nov 2026 | <a href="../data/MO.json">JSON</a> |
 
 </div>
 
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/Boom5426.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Boom5426/Nature-Paper-Skills"><b>Boom5426/Nature-Paper-Skills</b></a><br><sub>An AI-powered Scientific Writing Workflow: Agent skills for drafting, revising, auditing, and resubmitting Nature-style…</sub></td>
-<td align="right"><b>694</b></td>
+<td align="right"><b>703</b></td>
 <td align="right">55</td>
 <td>Python</td>
 </tr>
@@ -114,7 +114,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 314 stars; 12 attributed candidates are tracked.
-- 44 multi-repository owners are queued for expansion.
+- 31 multi-repository owners are queued for expansion.
 - **Location discovery:** term 1 of 16 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

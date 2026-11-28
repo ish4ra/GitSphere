@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/GR.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/GR.json">JSON</a> |
 
 </div>
 
@@ -633,8 +633,8 @@
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/d3vilh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/d3vilh/openvpn-ui"><b>d3vilh/openvpn-ui</b></a><br><sub>Web User Interface for OpenVPN</sub></td>
-<td align="right"><b>756</b></td>
-<td align="right">168</td>
+<td align="right"><b>757</b></td>
+<td align="right">167</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -647,42 +647,42 @@
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/Ilias1988.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ilias1988/Hacking-Cheatsheets"><b>Ilias1988/Hacking-Cheatsheets</b></a><br><sub>A comprehensive collection of penetration testing cheatsheets, guides, and tools.</sub></td>
-<td align="right"><b>744</b></td>
-<td align="right">100</td>
+<td align="right"><b>747</b></td>
+<td align="right">99</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/malwarepad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/malwarepad/cavOS"><b>malwarepad/cavOS</b></a><br><sub>💾 Amd64 operating system in C. Trying to make a full OS, with a simple and readable codebase!</sub></td>
-<td align="right"><b>737</b></td>
+<td align="right"><b>736</b></td>
 <td align="right">52</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/abatsakidis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abatsakidis/PDFDeSecure"><b>abatsakidis/PDFDeSecure</b></a><br><sub>An easy-to-use PDF Unlocker. Remove copy-protection from PDF files.</sub></td>
-<td align="right"><b>732</b></td>
+<td align="right"><b>733</b></td>
 <td align="right">68</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">93</td>
+<td><img src="https://github.com/k4m4.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/k4m4/onioff"><b>k4m4/onioff</b></a><br><sub>🌰 An onion url inspector for inspecting deep web links.</sub></td>
+<td align="right"><b>725</b></td>
+<td align="right">130</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">94</td>
 <td><img src="https://github.com/AmmarkoV.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AmmarkoV/SAM3DBody-cpp"><b>AmmarkoV/SAM3DBody-cpp</b></a><br><sub>Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-j…</sub></td>
 <td align="right"><b>724</b></td>
 <td align="right">103</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">94</td>
-<td><img src="https://github.com/k4m4.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/k4m4/onioff"><b>k4m4/onioff</b></a><br><sub>🌰 An onion url inspector for inspecting deep web links.</sub></td>
-<td align="right"><b>723</b></td>
-<td align="right">130</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">95</td>
 <td><img src="https://github.com/OFFTKP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OFFTKP/felix86"><b>OFFTKP/felix86</b></a><br><sub>Run x86 and x86-64 games on RISC‑V Linux</sub></td>
-<td align="right"><b>715</b></td>
+<td align="right"><b>716</b></td>
 <td align="right">37</td>
 <td>C++</td>
 </tr>
@@ -703,8 +703,8 @@
 <tr>
 <td align="right">98</td>
 <td><img src="https://github.com/3ct0s.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/3ct0s/dystopia-c2"><b>3ct0s/dystopia-c2</b></a><br><sub>Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s</sub></td>
-<td align="right"><b>702</b></td>
-<td align="right">157</td>
+<td align="right"><b>703</b></td>
+<td align="right">159</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -717,7 +717,7 @@
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/klipitkas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/klipitkas/tunnl.gg"><b>klipitkas/tunnl.gg</b></a><br><sub>A minimal SSH tunneling service. Expose your local apps to the internet with a single command.</sub></td>
-<td align="right"><b>693</b></td>
+<td align="right"><b>694</b></td>
 <td align="right">53</td>
 <td>Go</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 693 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 694 stars; 150 attributed candidates are tracked.
 - 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 149 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

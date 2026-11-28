@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/AE.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/AE.json">JSON</a> |
 
 </div>
 
@@ -612,7 +612,7 @@
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/acmbpdc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/acmbpdc/openlib.cs"><b>acmbpdc/openlib.cs</b></a><br><sub>📚 A Collection of Free &amp; Open Resources for University Coursework in Computer Science.</sub></td>
-<td align="right"><b>743</b></td>
+<td align="right"><b>742</b></td>
 <td align="right">130</td>
 <td>Python</td>
 </tr>
@@ -626,14 +626,14 @@
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/knqyf263.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/knqyf263/go-plugin"><b>knqyf263/go-plugin</b></a><br><sub>Go Plugin System over WebAssembly</sub></td>
-<td align="right"><b>734</b></td>
+<td align="right"><b>735</b></td>
 <td align="right">39</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/ironcev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ironcev/awesome-roslyn"><b>ironcev/awesome-roslyn</b></a><br><sub>Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source…</sub></td>
-<td align="right"><b>733</b></td>
+<td align="right"><b>734</b></td>
 <td align="right">62</td>
 <td>—</td>
 </tr>
@@ -641,43 +641,43 @@
 <td align="right">89</td>
 <td><img src="https://github.com/anup-a.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anup-a/svgwave"><b>anup-a/svgwave</b></a><br><sub>SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.</sub></td>
 <td align="right"><b>727</b></td>
-<td align="right">74</td>
+<td align="right">73</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">90</td>
+<td><img src="https://github.com/QuantJourneyOrg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/QuantJourneyOrg/quantjourney-bt"><b>QuantJourneyOrg/quantjourney-bt</b></a><br><sub>QuantJourney Backtester</sub></td>
+<td align="right"><b>723</b></td>
+<td align="right">275</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">91</td>
 <td><img src="https://github.com/techwithtim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/techwithtim/Sudoku-GUI-Solver"><b>techwithtim/Sudoku-GUI-Solver</b></a><br><sub>This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version.</sub></td>
 <td align="right"><b>721</b></td>
 <td align="right">338</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">92</td>
 <td><img src="https://github.com/rinvex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rinvex/laravel-subscriptions"><b>rinvex/laravel-subscriptions</b></a> <sub>archived</sub><br><sub>⚠️ &#91;ABANDONED&#93; Rinvex Subscribable is a flexible plans and subscription management system for Laravel, with the require…</sub></td>
-<td align="right"><b>720</b></td>
-<td align="right">341</td>
+<td align="right"><b>719</b></td>
+<td align="right">340</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">93</td>
 <td><img src="https://github.com/DenizParlak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DenizParlak/Zeus"><b>DenizParlak/Zeus</b></a><br><sub>AWS Auditing &amp; Hardening Tool</sub></td>
 <td align="right"><b>716</b></td>
 <td align="right">93</td>
 <td>Shell</td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">94</td>
 <td><img src="https://github.com/graninas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/graninas/cpp_functional_programming"><b>graninas/cpp&#95;functional&#95;programming</b></a><br><sub>List of materials about functional programming in C++</sub></td>
 <td align="right"><b>714</b></td>
 <td align="right">64</td>
 <td>—</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/QuantJourneyOrg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/QuantJourneyOrg/quantjourney-bt"><b>QuantJourneyOrg/quantjourney-bt</b></a><br><sub>QuantJourney Backtester</sub></td>
-<td align="right"><b>713</b></td>
-<td align="right">272</td>
-<td>Python</td>
 </tr>
 <tr>
 <td align="right">95</td>
@@ -704,7 +704,7 @@
 <td align="right">98</td>
 <td><img src="https://github.com/alizahid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alizahid/slinky"><b>alizahid/slinky</b></a><br><sub>A light-weight, responsive, mobile-like navigation menu plugin</sub></td>
 <td align="right"><b>671</b></td>
-<td align="right">101</td>
+<td align="right">100</td>
 <td>JavaScript</td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 24 Nov 2026 | <a href="../data/CV.json">JSON</a> |
+| 🟡 Provisional | **6** | 25 Nov 2026 | <a href="../data/CV.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/arthurhenrique.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arthurhenrique/cookiecutter-fastapi"><b>arthurhenrique/cookiecutter-fastapi</b></a><br><sub>Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests</sub></td>
-<td align="right"><b>711</b></td>
+<td align="right"><b>712</b></td>
 <td align="right">75</td>
 <td>Python</td>
 </tr>
@@ -56,6 +56,13 @@
 <td align="right">16</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/tinabyte.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tinabyte/birthday-cake-from-crush"><b>tinabyte/birthday-cake-from-crush</b></a></td>
+<td align="right"><b>275</b></td>
+<td align="right">121</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -64,8 +71,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 378 stars; 5 attributed candidates are tracked.
-- 140 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 275 stars; 6 attributed candidates are tracked.
+- 138 multi-repository owners are queued for expansion.
 - **Location discovery:** term 5 of 120 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -1,6 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CD","name":"DR Congo","slug":"dr-congo"},
-"count": 0,
-"repositories": []
+"count": 1,
+"repositories": [
+  {"id":"MDEwOlJlcG9zaXRvcnkzNTM1NDYwMTk=","name":"foocker/deeplearningtheory","stars":279,"forks":26,"license":"Apache-2.0","archived":false,"createdAt":"2021-04-01T02:14:18Z","pushedAt":"2026-03-14T03:39:20Z","owner":{"id":"MDQ6VXNlcjIxOTY1MzYx","login":"foocker","type":"User","name":"fq","location":"CD"},"attribution":{"code":"CD","confidence":"medium","evidence":"country-code"},"seenAt":"2026-11-28T02:48:06.547Z","verifiedAt":"2026-11-28T02:48:06.547Z","cycle":1}
+]
 }

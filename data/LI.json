@@ -5,7 +5,7 @@
 "country": {"code":"LI","name":"Liechtenstein","slug":"liechtenstein"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":51,"ownerExpansionBacklog":117,"candidates":56,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":24,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":51,"ownerExpansionBacklog":114,"candidates":56,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":24,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOQic9EQ","name":"CVE-2025-55182","nameWithOwner":"msanft/CVE-2025-55182","url":"https://github.com/msanft/CVE-2025-55182","description":"Explanation and full RCE PoC for CVE-2025-55182","stars":1436,"forks":198,"primaryLanguage":"Python","license":null,"createdAt":"2025-12-04T11:49:55Z","pushedAt":"2025-12-08T13:51:04Z","archived":false,"owner":{"login":"msanft","name":"Moritz Sanft","type":"User","url":"https://github.com/msanft","location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk5OTgwMjAzNg==","name":"aeternity","nameWithOwner":"aeternity/aeternity","url":"https://github.com/aeternity/aeternity","description":"æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens","stars":1087,"forks":241,"primaryLanguage":"Erlang","license":{"spdxId":"ISC"},"createdAt":"2017-08-09T11:44:30Z","pushedAt":"2026-09-15T06:02:55Z","archived":false,"owner":{"login":"aeternity","name":"æternity","type":"Organization","url":"https://github.com/aeternity","location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"},
@@ -64,8 +64,8 @@
   {"rank":55,"id":null,"name":"substrate-note-template","nameWithOwner":"Innovationscoach/substrate-note-template","url":"https://github.com/Innovationscoach/substrate-note-template","description":null,"stars":0,"forks":0,"primaryLanguage":"Rust","license":{"spdxId":"Unlicense"},"createdAt":"2021-05-02T08:50:17Z","pushedAt":"2023-01-20T23:10:55Z","archived":false,"owner":{"login":"Innovationscoach","name":"Uwe Seeske","type":"User","url":"https://github.com/Innovationscoach","location":"Ruggell, Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":56,"id":null,"name":"intospaceelk","nameWithOwner":"intospaceelk/intospaceelk","url":"https://github.com/intospaceelk/intospaceelk","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-30T06:29:07Z","pushedAt":"2024-09-30T06:29:32Z","archived":false,"owner":{"login":"intospaceelk","name":null,"type":"User","url":"https://github.com/intospaceelk","location":"Liechtenstein (LI)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "4047659db7eadfcb",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "3e5a3734afb65b25",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

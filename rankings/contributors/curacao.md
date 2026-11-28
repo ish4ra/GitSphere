@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/contributors/CW.json">JSON</a> |
+| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/CW.json">JSON</a> |
 
 </div>
 
@@ -214,6 +214,15 @@
 </tr>
 <tr>
 <td align="right">22</td>
+<td><a href="https://github.com/plopezbarbosa"><img src="https://avatars.githubusercontent.com/u/779183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/plopezbarbosa"><b>Pierre López Barbosa</b></a><br><sub>&#64;plopezbarbosa · 62 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><a href="https://github.com/Riick97"><img src="https://avatars.githubusercontent.com/u/59068379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Riick97"><b>Ulric Ricardo</b></a><br><sub>&#64;Riick97 · 1 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -228,7 +237,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 36 of 83 discovered developers (47 awaiting measurement).
+- **Measured:** 41 of 83 discovered developers (42 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 8 of 16 in round 1.

@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/AmaduKamara"><img src="https://avatars.githubusercontent.com/u/50941074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmaduKamara"><b>Amadu Kamara</b></a><br><sub>&#64;AmaduKamara</sub></td>
-<td align="right"><b>110</b></td>
+<td align="right"><b>111</b></td>
 <td align="right">183</td>
 <td><sub>Freetown, Sierra Leone.</sub></td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **38** | 24 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
+| 🟡 Provisional | **43** | 25 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
 
 </div>
 
@@ -109,13 +109,13 @@
 <td align="right">13</td>
 <td><img src="https://github.com/SamBelkacem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SamBelkacem/AI-ML-cheatsheets"><b>SamBelkacem/AI-ML-cheatsheets</b></a><br><sub>Cheatsheets for AI and Machine Learning</sub></td>
 <td align="right"><b>739</b></td>
-<td align="right">243</td>
+<td align="right">242</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/x4nth055.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/x4nth055/emotion-recognition-using-speech"><b>x4nth055/emotion-recognition-using-speech</b></a><br><sub>Building and training Speech Emotion Recognizer that predicts human emotions using Python, Sci-kit learn and Keras</sub></td>
-<td align="right"><b>686</b></td>
+<td align="right"><b>687</b></td>
 <td align="right">250</td>
 <td>Python</td>
 </tr>
@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/YasserNull.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YasserNull/shappky"><b>YasserNull/shappky</b></a><br><sub>A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.</sub></td>
-<td align="right"><b>657</b></td>
+<td align="right"><b>660</b></td>
 <td align="right">21</td>
 <td>Kotlin</td>
 </tr>
@@ -287,6 +287,41 @@
 <td align="right">31</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/ayadseghairi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ayadseghairi/tornet"><b>ayadseghairi/tornet</b></a><br><sub>TorNet is a Python package that automates IP address changes using Tor. It is a top tool for securing your networks by…</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">44</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/nferhat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nferhat/fht-compositor"><b>nferhat/fht-compositor</b></a><br><sub>A dynamic tiling Wayland compositor.</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">16</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/syvixor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syvixor/skills-icons"><b>syvixor/skills-icons</b></a><br><sub>showcase skills in projects or profiles effortlessly.</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">43</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/kaymen99.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kaymen99/langgraph-email-automation"><b>kaymen99/langgraph-email-automation</b></a><br><sub>Multi AI agents for customer support email automation built with Langchain &amp; Langgraph</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">78</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/ipenywis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ipenywis/laya-ultrafast"><b>ipenywis/laya-ultrafast</b></a><br><sub>Same as jev-ultrafast but using Laya</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">43</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -295,8 +330,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 305 stars; 38 attributed candidates are tracked.
-- 106 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 280 stars; 43 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

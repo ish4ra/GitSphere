@@ -54,7 +54,7 @@
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/aub-mind.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aub-mind/arabert"><b>aub-mind/arabert</b></a><br><sub>Pre-trained Transformers for Arabic Language Understanding and Generation (Arabic BERT, Arabic GPT2, Arabic ELECTRA)</sub></td>
-<td align="right"><b>739</b></td>
+<td align="right"><b>738</b></td>
 <td align="right">150</td>
 <td>Python</td>
 </tr>
@@ -187,7 +187,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 22 attributed candidates are tracked.
 - 14 entries were carried over from the previous dataset and are pending revalidation.
-- 122 multi-repository owners are queued for expansion.
+- 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 61 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

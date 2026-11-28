@@ -58,17 +58,17 @@
 </tr>
 <tr>
 <td align="right">6</td>
-<td><a href="https://github.com/rsgrafx"><img src="https://avatars.githubusercontent.com/u/3698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rsgrafx"><b>Orion Engleton</b></a><br><sub>&#64;rsgrafx</sub></td>
-<td align="right"><b>64</b></td>
-<td align="right">49</td>
-<td><sub>SoCal &#124;&gt; Fiji Islands</sub></td>
-</tr>
-<tr>
-<td align="right">7</td>
 <td><a href="https://github.com/navneil-naicker"><img src="https://avatars.githubusercontent.com/u/12376933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/navneil-naicker"><b>Navneil Naicker</b></a><br><sub>&#64;navneil-naicker</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">2</td>
 <td><sub>Suva City, Central, Fiji</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/rsgrafx"><img src="https://avatars.githubusercontent.com/u/3698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rsgrafx"><b>Orion Engleton</b></a><br><sub>&#64;rsgrafx</sub></td>
+<td align="right"><b>63</b></td>
+<td align="right">49</td>
+<td><sub>SoCal &#124;&gt; Fiji Islands</sub></td>
 </tr>
 <tr>
 <td align="right">8</td>
@@ -158,7 +158,7 @@
 <td align="right">20</td>
 <td><a href="https://github.com/SMani0547"><img src="https://avatars.githubusercontent.com/u/166791610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SMani0547"><b>Shiva Mani Goundar</b></a><br><sub>&#64;SMani0547</sub></td>
 <td align="right"><b>19</b></td>
-<td align="right">43</td>
+<td align="right">44</td>
 <td><sub>Nadi, Fiji</sub></td>
 </tr>
 <tr>

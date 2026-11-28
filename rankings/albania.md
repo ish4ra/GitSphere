@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 24 Nov 2026 | <a href="../data/AL.json">JSON</a> |
+| 🟡 Provisional | **18** | 25 Nov 2026 | <a href="../data/AL.json">JSON</a> |
 
 </div>
 
@@ -60,7 +60,7 @@
 <td align="right">6</td>
 <td><img src="https://github.com/jp7677.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jp7677/dxvk-nvapi"><b>jp7677/dxvk-nvapi</b></a><br><sub>Alternative NVAPI implementation on top of DXVK.</sub></td>
 <td align="right"><b>679</b></td>
-<td align="right">73</td>
+<td align="right">74</td>
 <td>C++</td>
 </tr>
 <tr>

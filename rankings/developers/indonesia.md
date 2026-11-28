@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/mhaidarhanif"><img src="https://avatars.githubusercontent.com/u/235584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhaidarhanif"><b>Heyda Han</b></a><br><sub>&#64;mhaidarhanif</sub></td>
-<td align="right"><b>1,703</b></td>
+<td align="right"><b>1,698</b></td>
 <td align="right">368</td>
 <td><sub>Indonesia</sub></td>
 </tr>
@@ -500,7 +500,7 @@
 <tr>
 <td align="right">69</td>
 <td><a href="https://github.com/fzn0x"><img src="https://avatars.githubusercontent.com/u/50759463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fzn0x"><b>functionx.dev</b></a><br><sub>&#64;fzn0x</sub></td>
-<td align="right"><b>731</b></td>
+<td align="right"><b>730</b></td>
 <td align="right">34</td>
 <td><sub>Indonesia</sub></td>
 </tr>
@@ -1221,8 +1221,8 @@
 <tr>
 <td align="right">172</td>
 <td><a href="https://github.com/aancw"><img src="https://avatars.githubusercontent.com/u/6284204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aancw"><b>Aan</b></a><br><sub>&#64;aancw</sub></td>
-<td align="right"><b>405</b></td>
-<td align="right">357</td>
+<td align="right"><b>404</b></td>
+<td align="right">358</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
@@ -3040,59 +3040,59 @@
 </tr>
 <tr>
 <td align="right">432</td>
+<td><a href="https://github.com/nyancodeid"><img src="https://avatars.githubusercontent.com/u/24630806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nyancodeid"><b>Ryan Aunur Rassyid</b></a><br><sub>&#64;nyancodeid</sub></td>
+<td align="right"><b>213</b></td>
+<td align="right">180</td>
+<td><sub>Jombang, Indonesia</sub></td>
+</tr>
+<tr>
+<td align="right">433</td>
 <td><a href="https://github.com/dickydev"><img src="https://avatars.githubusercontent.com/u/86364468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dickydev"><b>Dicky Fernando Sitepu</b></a><br><sub>&#64;dickydev</sub></td>
 <td align="right"><b>213</b></td>
 <td align="right">176</td>
 <td><sub>Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">433</td>
+<td align="right">434</td>
 <td><a href="https://github.com/agusibrahim"><img src="https://avatars.githubusercontent.com/u/5948377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agusibrahim"><b>Agus Ibrahim</b></a><br><sub>&#64;agusibrahim</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">199</td>
 <td><sub>Bogor, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">434</td>
+<td align="right">435</td>
 <td><a href="https://github.com/andihoerudin24"><img src="https://avatars.githubusercontent.com/u/26282423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andihoerudin24"><b>AndiHoerudin</b></a><br><sub>&#64;andihoerudin24</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">97</td>
 <td><sub>Cibinong Bogor</sub></td>
 </tr>
 <tr>
-<td align="right">435</td>
+<td align="right">436</td>
 <td><a href="https://github.com/abumaryam"><img src="https://avatars.githubusercontent.com/u/11420082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abumaryam"><b>Dian Prawira</b></a><br><sub>&#64;abumaryam</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">85</td>
 <td><sub>Pontianak, West Borneo, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">436</td>
+<td align="right">437</td>
 <td><a href="https://github.com/gigahidjrikaaa"><img src="https://avatars.githubusercontent.com/u/52191436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gigahidjrikaaa"><b>Giga Hidjrika Aura Adkhy</b></a><br><sub>&#64;gigahidjrikaaa</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">78</td>
 <td><sub>Yogyakarta, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">437</td>
+<td align="right">438</td>
 <td><a href="https://github.com/fians"><img src="https://avatars.githubusercontent.com/u/4204007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fians"><b>Alfiana Sibuea</b></a><br><sub>&#64;fians</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">39</td>
 <td><sub>Jakarta, Indonesia</sub></td>
 </tr>
 <tr>
-<td align="right">438</td>
+<td align="right">439</td>
 <td><a href="https://github.com/aulianza"><img src="https://avatars.githubusercontent.com/u/15605885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aulianza"><b>Ryan Aulia</b></a><br><sub>&#64;aulianza</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">31</td>
 <td><sub>Jakarta, Indonesia</sub></td>
-</tr>
-<tr>
-<td align="right">439</td>
-<td><a href="https://github.com/nyancodeid"><img src="https://avatars.githubusercontent.com/u/24630806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nyancodeid"><b>Ryan Aunur Rassyid</b></a><br><sub>&#64;nyancodeid</sub></td>
-<td align="right"><b>211</b></td>
-<td align="right">180</td>
-<td><sub>Jombang, Indonesia</sub></td>
 </tr>
 <tr>
 <td align="right">440</td>
@@ -4240,7 +4240,7 @@
 <td><a href="https://github.com/MRHRTZ"><img src="https://avatars.githubusercontent.com/u/52845610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MRHRTZ"><b>Hanif Ahmad Syauqi</b></a><br><sub>&#64;MRHRTZ</sub></td>
 <td align="right"><b>169</b></td>
 <td align="right">70</td>
-<td><sub>Bandung, Jawa Barat, Indonesia.</sub></td>
+<td><sub>Bandung, Indonesia.</sub></td>
 </tr>
 <tr>
 <td align="right">604</td>
@@ -5128,7 +5128,7 @@
 <td align="right">730</td>
 <td><a href="https://github.com/handiko"><img src="https://avatars.githubusercontent.com/u/16716900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/handiko"><b>Handiko Gesang</b></a><br><sub>&#64;handiko</sub></td>
 <td align="right"><b>148</b></td>
-<td align="right">361</td>
+<td align="right">362</td>
 <td><sub>Jakarta, Indonesia</sub></td>
 </tr>
 <tr>

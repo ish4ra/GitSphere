@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/thatstraw"><img src="https://avatars.githubusercontent.com/u/61482810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thatstraw"><b>Traw</b></a><br><sub>&#64;thatstraw</sub></td>
-<td align="right"><b>587</b></td>
+<td align="right"><b>588</b></td>
 <td align="right">87</td>
 <td><sub>Mauritius</sub></td>
 </tr>
@@ -88,7 +88,7 @@
 <td align="right">10</td>
 <td><a href="https://github.com/MrSunshyne"><img src="https://avatars.githubusercontent.com/u/1721611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrSunshyne"><b>Sandeep Ramgolam</b></a><br><sub>&#64;MrSunshyne</sub></td>
 <td align="right"><b>112</b></td>
-<td align="right">196</td>
+<td align="right">198</td>
 <td><sub>Mauritius</sub></td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@
 <td align="right">18</td>
 <td><a href="https://github.com/EdgarEldy"><img src="https://avatars.githubusercontent.com/u/26207338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdgarEldy"><b>EDGAR MUHAMYANGABO</b></a><br><sub>&#64;EdgarEldy</sub></td>
 <td align="right"><b>79</b></td>
-<td align="right">82</td>
+<td align="right">85</td>
 <td><sub>Mauritius</sub></td>
 </tr>
 <tr>

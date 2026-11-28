@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/AymanMady"><img src="https://avatars.githubusercontent.com/u/126827455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AymanMady"><b>Bechir Mady</b></a><br><sub>&#64;AymanMady</sub></td>
-<td align="right"><b>158</b></td>
+<td align="right"><b>156</b></td>
 <td align="right">34</td>
 <td><sub>Nouakchott Mauritania</sub></td>
 </tr>
@@ -74,7 +74,7 @@
 <td align="right">8</td>
 <td><a href="https://github.com/babasahi"><img src="https://avatars.githubusercontent.com/u/77709362?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/babasahi"><b>Babe Saleh Dahi</b></a><br><sub>&#64;babasahi</sub></td>
 <td align="right"><b>35</b></td>
-<td align="right">36</td>
+<td align="right">37</td>
 <td><sub>Nouakchott, Mauritania</sub></td>
 </tr>
 <tr>

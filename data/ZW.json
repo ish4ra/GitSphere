@@ -5,13 +5,14 @@
 "country": {"code":"ZW","name":"Zimbabwe","slug":"zimbabwe"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":629,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":127,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":66,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":275,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":125,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":66,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOOUZaeg","name":"MALVIN-XD","nameWithOwner":"MalvinTechInfo/MALVIN-XD","url":"https://github.com/MalvinTechInfo/MALVIN-XD","description":"MALVIN XD Whatsapp Bot | World Best Whatsapp Bot | Made In Zimbabwe ɓy Malvin King","stars":1591,"forks":3757,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-04-05T10:39:29Z","pushedAt":"2026-10-15T10:57:36Z","archived":false,"owner":{"login":"MalvinTechInfo","name":"Malvin Tech","type":"Organization","url":"https://github.com/MalvinTechInfo","location":"Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
-  {"rank":2,"id":"R_kgDOO_8xKA","name":"star-xd","nameWithOwner":"mrxdking/star-xd","url":"https://github.com/mrxdking/star-xd","description":"✨ Star XD - Advanced WhatsApp bot with AI features, media tools, and group management. Built on Baileys by Malvin King.","stars":629,"forks":1393,"primaryLanguage":"Python","license":null,"createdAt":"2025-06-22T15:23:52Z","pushedAt":"2026-09-21T19:17:51Z","archived":false,"owner":{"login":"mrxdking","name":"Malvin King","type":"User","url":"https://github.com/mrxdking","location":"Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
+  {"rank":2,"id":"R_kgDOO_8xKA","name":"star-xd","nameWithOwner":"mrxdking/star-xd","url":"https://github.com/mrxdking/star-xd","description":"✨ Star XD - Advanced WhatsApp bot with AI features, media tools, and group management. Built on Baileys by Malvin King.","stars":629,"forks":1393,"primaryLanguage":"Python","license":null,"createdAt":"2025-06-22T15:23:52Z","pushedAt":"2026-09-21T19:17:51Z","archived":false,"owner":{"login":"mrxdking","name":"Malvin King","type":"User","url":"https://github.com/mrxdking","location":"Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
+  {"rank":3,"id":"R_kgDOKrV9eQ","name":"AyuGramDocs","nameWithOwner":"AyuGram/AyuGramDocs","url":"https://github.com/AyuGram/AyuGramDocs","description":"Simple documentation. Powered by retype.","stars":275,"forks":37,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2023-11-09T10:47:17Z","pushedAt":"2025-01-08T04:09:36Z","archived":false,"owner":{"login":"AyuGram","name":"AyuGram","type":"Organization","url":"https://github.com/AyuGram","location":"Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "fedf683074ac510d",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "9891552a88aa32ec",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

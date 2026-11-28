@@ -1,10 +1,6 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CC","name":"Cocos (Keeling) Islands","slug":"cocos-keeling-islands"},
-"count": 3,
-"repositories": [
-  {"name":"defiocean-io/bell-platforms","stars":0,"forks":0,"license":"MIT","archived":false,"createdAt":"2025-02-15T21:38:39Z","pushedAt":"2025-02-15T21:38:39Z","owner":{"login":"defiocean-io","type":"Organization","name":"DeFiOcean","location":"Cocos (Keeling) Islands"},"attribution":{"code":"CC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:31:54.101Z","id":"legacy:defiocean-io/bell-platforms","legacy":true},
-  {"name":"epichelloguy/deepjazz","stars":0,"forks":0,"archived":false,"createdAt":"2023-12-18T21:10:44Z","pushedAt":"2023-12-18T21:10:44Z","owner":{"login":"epichelloguy","type":"User","name":"epichelloguy","location":"Cocos (Keeling) Islands"},"attribution":{"code":"CC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:31:54.101Z","id":"legacy:epichelloguy/deepjazz","legacy":true},
-  {"name":"funproxy/Documents","stars":0,"forks":0,"archived":false,"createdAt":"2024-10-29T08:58:01Z","pushedAt":"2024-10-29T08:58:32Z","owner":{"login":"funproxy","type":"Organization","name":"Funproxy","location":"Cocos (Keeling) Islands"},"attribution":{"code":"CC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:31:54.101Z","id":"legacy:funproxy/documents","legacy":true}
-]
+"count": 0,
+"repositories": []
 }

@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td align="right">4</td>
-<td><a href="https://github.com/Naville"><img src="https://avatars.githubusercontent.com/u/5205699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Naville"><b>Zhang</b></a><br><sub>&#64;Naville · 1,320 followers</sub></td>
+<td><a href="https://github.com/Naville"><img src="https://avatars.githubusercontent.com/u/5205699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Naville"><b>Zhang</b></a><br><sub>&#64;Naville · 1,319 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">10</td>
 <td align="right">2</td>
@@ -111,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 28 of 38 discovered developers (10 awaiting measurement).
+- **Measured:** 33 of 38 discovered developers (5 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 62 in round 1.

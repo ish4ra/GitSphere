@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **58** | 24 Nov 2026 | <a href="../data/KE.json">JSON</a> |
+| 🟡 Provisional | **66** | 25 Nov 2026 | <a href="../data/KE.json">JSON</a> |
 
 </div>
 
@@ -129,21 +129,21 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/merlos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/merlos/iOS-Open-GPX-Tracker"><b>merlos/iOS-Open-GPX-Tracker</b></a><br><sub>GPS Tracker app for iOS + WatchOS. Log your tracks without limits and share them; Open source GPX tracker app written i…</sub></td>
-<td align="right"><b>723</b></td>
+<td align="right"><b>724</b></td>
 <td align="right">162</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/su-sid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/su-sid/Microsoft-Office-2021"><b>su-sid/Microsoft-Office-2021</b></a><br><sub>Download and Activate Microsoft Office 2021 (Latest) for free. (Legal)</sub></td>
-<td align="right"><b>711</b></td>
+<td align="right"><b>710</b></td>
 <td align="right">412</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/VictorKabata.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VictorKabata/Notflix"><b>VictorKabata/Notflix</b></a><br><sub>My Kotlin Multiplatform playground that is NOT a clone of Netflix</sub></td>
-<td align="right"><b>683</b></td>
+<td align="right"><b>685</b></td>
 <td align="right">96</td>
 <td>Kotlin</td>
 </tr>
@@ -427,6 +427,62 @@
 <td align="right">64</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/mikeymckay.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikeymckay/google-spreadsheet-javascript"><b>mikeymckay/google-spreadsheet-javascript</b></a><br><sub>Read data from google spreadsheets</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">144</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/design-sparx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/design-sparx/antd-multipurpose-dashboard"><b>design-sparx/antd-multipurpose-dashboard</b></a><br><sub>A free, open source, Vite, Typescript admin theme created using Ant Design 5</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">74</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/williamluke4.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/williamluke4/Nitro"><b>williamluke4/Nitro</b></a><br><sub>An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">22</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/fbiego.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fbiego/ESP32_BLE_OTA_Arduino"><b>fbiego/ESP32&#95;BLE&#95;OTA&#95;Arduino</b></a><br><sub>OTA update on ESP32 via BLE</sub></td>
+<td align="right"><b>278</b></td>
+<td align="right">55</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/Breens-Mbaka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Breens-Mbaka/Jetpack-Compose-Tables"><b>Breens-Mbaka/Jetpack-Compose-Tables</b></a><br><sub>🐝 A Compose UI data table library which allows developers to seamless integrate visually appealing and customizable ta…</sub></td>
+<td align="right"><b>276</b></td>
+<td align="right">18</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/TralahM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TralahM/blackhat-go"><b>TralahM/blackhat-go</b></a><br><sub>As hackers, we put a premium on function over elegance as time is always scarce. When you need to quickly create a solu…</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">46</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/waiyaki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/waiyaki/postgres-express-node-tutorial"><b>waiyaki/postgres-express-node-tutorial</b></a> <sub>archived</sub><br><sub>Repository hosting code for the &quot;Getting Started With NodeJS, Express and Postgres Using Sequelize&quot; blogpost.</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">100</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/fbiego.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fbiego/ESP32Time"><b>fbiego/ESP32Time</b></a><br><sub>An Arduino library for setting and retrieving internal RTC time on ESP32 boards</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">47</td>
+<td>C++</td>
+</tr>
 </tbody>
 </table>
 
@@ -435,7 +491,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 297 stars; 58 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 270 stars; 66 attributed candidates are tracked.
 - 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

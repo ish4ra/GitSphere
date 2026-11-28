@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 25 Nov 2026 | <a href="../data/PS.json">JSON</a> |
+| 🟡 Provisional | **3** | 25 Nov 2026 | <a href="../data/PS.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,13 @@
 <td align="right">80</td>
 <td>HTML</td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/AbedAlqaderSwedan1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AbedAlqaderSwedan1/ASWCrypter"><b>AbedAlqaderSwedan1/ASWCrypter</b></a><br><sub>An Bash&amp;Python Script For Generating Payloads that Bypasses All Antivirus so far &#91;FUD&#93;</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">84</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -43,8 +50,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 518 stars; 2 attributed candidates are tracked.
-- 129 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 290 stars; 3 attributed candidates are tracked.
+- 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

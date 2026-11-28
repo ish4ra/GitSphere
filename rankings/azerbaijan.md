@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/AZ.json">JSON</a> |
+| 🟡 Provisional | **15** | 25 Nov 2026 | <a href="../data/AZ.json">JSON</a> |
 
 </div>
 
@@ -60,7 +60,7 @@
 <td align="right">6</td>
 <td><img src="https://github.com/rasadov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rasadov/EcommerceAPI"><b>rasadov/EcommerceAPI</b></a><br><sub>Modular e-commerce backend with a GraphQL gateway and gRPC microservices for accounts, products, orders, payments, and…</sub></td>
 <td align="right"><b>698</b></td>
-<td align="right">107</td>
+<td align="right">108</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 296 stars; 15 attributed candidates are tracked.
-- 125 multi-repository owners are queued for expansion.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

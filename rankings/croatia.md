@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/HR.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/HR.json">JSON</a> |
 
 </div>
 

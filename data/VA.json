@@ -5,7 +5,7 @@
 "country": {"code":"VA","name":"Vatican City","slug":"vatican-city"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":35,"ownerExpansionBacklog":69,"candidates":35,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":17,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":35,"ownerExpansionBacklog":68,"candidates":35,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":17,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ole-backend","nameWithOwner":"OLE-UMC-5th/ole-backend","url":"https://github.com/OLE-UMC-5th/ole-backend","description":null,"stars":0,"forks":3,"primaryLanguage":"Java","license":null,"createdAt":"2024-01-14T12:27:19Z","pushedAt":"2024-03-26T10:49:48Z","archived":false,"owner":{"login":"OLE-UMC-5th","name":"OLAE","type":"Organization","url":"https://github.com/OLE-UMC-5th","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"socketio-numberOfOnlineUser-ts","nameWithOwner":"NOPR9D/socketio-numberOfOnlineUser-ts","url":"https://github.com/NOPR9D/socketio-numberOfOnlineUser-ts","description":null,"stars":0,"forks":1,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-11-09T20:22:45Z","pushedAt":"2022-11-14T04:11:25Z","archived":false,"owner":{"login":"NOPR9D","name":"NOPR9D ☄️","type":"User","url":"https://github.com/NOPR9D","location":"Vatican City State (Holy See)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -43,8 +43,8 @@
   {"rank":34,"id":null,"name":"boersenspiel","nameWithOwner":"vronton/boersenspiel","url":"https://github.com/vronton/boersenspiel","description":null,"stars":0,"forks":0,"primaryLanguage":"Vue","license":null,"createdAt":"2024-02-20T23:47:29Z","pushedAt":"2024-02-24T18:36:43Z","archived":false,"owner":{"login":"vronton","name":"Ve","type":"User","url":"https://github.com/vronton","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":35,"id":null,"name":".github","nameWithOwner":"wacky-tv-wall/.github","url":"https://github.com/wacky-tv-wall/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-02-26T03:22:54Z","pushedAt":"2023-02-26T03:30:15Z","archived":false,"owner":{"login":"wacky-tv-wall","name":"MDMA","type":"Organization","url":"https://github.com/wacky-tv-wall","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "15e9bc1d91ef8ead",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "bf6a9fb592791d59",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

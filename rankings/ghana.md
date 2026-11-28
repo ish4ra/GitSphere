@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 24 Nov 2026 | <a href="../data/GH.json">JSON</a> |
+| 🟡 Provisional | **10** | 25 Nov 2026 | <a href="../data/GH.json">JSON</a> |
 
 </div>
 
@@ -31,14 +31,14 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/kossisoroyce.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kossisoroyce/timber"><b>kossisoroyce/timber</b></a><br><sub>Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost &amp; ONNX models into na…</sub></td>
-<td align="right"><b>691</b></td>
+<td align="right"><b>692</b></td>
 <td align="right">23</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/akornor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akornor/playlistor"><b>akornor/playlistor</b></a><br><sub>🎶Apple Music ↔️ Spotify playlist convertor.</sub></td>
-<td align="right"><b>677</b></td>
+<td align="right"><b>676</b></td>
 <td align="right">50</td>
 <td>Python</td>
 </tr>
@@ -77,6 +77,20 @@
 <td align="right">61</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/finixbit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/finixbit/elf-parser"><b>finixbit/elf-parser</b></a><br><sub>Lightweight elf binary parser with no external dependencies - Sections, Symbols, Relocations, Segments</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">45</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/Ahurein.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ahurein/rein_player"><b>Ahurein/rein&#95;player</b></a><br><sub>A fast and intuitive video player with a clean UI, inspired by PotPlayer, designed for Linux and macOS.</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">15</td>
+<td>Dart</td>
+</tr>
 </tbody>
 </table>
 
@@ -85,8 +99,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 301 stars; 8 attributed candidates are tracked.
-- 125 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 275 stars; 10 attributed candidates are tracked.
+- 121 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

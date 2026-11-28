@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/mkantem"><img src="https://avatars.githubusercontent.com/u/17012616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkantem"><b>Kante Mahamadou</b></a><br><sub>&#64;mkantem</sub></td>
-<td align="right"><b>117</b></td>
+<td align="right"><b>116</b></td>
 <td align="right">51</td>
 <td><sub>Mali</sub></td>
 </tr>

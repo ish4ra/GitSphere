@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/ocaes"><img src="https://avatars.githubusercontent.com/u/55317022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ocaes"><b>Tsitso Mafantiri</b></a><br><sub>&#64;ocaes</sub></td>
-<td align="right"><b>113</b></td>
+<td align="right"><b>111</b></td>
 <td align="right">23</td>
 <td><sub>Lesotho</sub></td>
 </tr>
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/Ntlele"><img src="https://avatars.githubusercontent.com/u/142914150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ntlele"><b>David</b></a><br><sub>&#64;Ntlele</sub></td>
-<td align="right"><b>24</b></td>
+<td align="right"><b>25</b></td>
 <td align="right">32</td>
 <td><sub>Lesotho</sub></td>
 </tr>
@@ -3733,7 +3733,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 529 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 1 of 47 in round 1.
+- **Location discovery:** term 4 of 47 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

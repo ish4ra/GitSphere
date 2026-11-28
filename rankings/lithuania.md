@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **99** | 24 Nov 2026 | <a href="../data/LT.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/LT.json">JSON</a> |
 
 </div>
 
@@ -241,7 +241,7 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/rokups.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rokups/ImNodes"><b>rokups/ImNodes</b></a><br><sub>Node graph implementation for Dear ImGui. Used in https://github.com/rokups/rbfx</sub></td>
-<td align="right"><b>749</b></td>
+<td align="right"><b>750</b></td>
 <td align="right">59</td>
 <td>C++</td>
 </tr>
@@ -255,8 +255,8 @@
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/espkvm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/espkvm/espkvm"><b>espkvm/espkvm</b></a><br><sub>IP-KVM on the ESP32-P4: HDMI capture, USB keyboard and mouse, and a browser console over HTTPS</sub></td>
-<td align="right"><b>712</b></td>
-<td align="right">54</td>
+<td align="right"><b>725</b></td>
+<td align="right">55</td>
 <td>C</td>
 </tr>
 <tr>
@@ -714,15 +714,22 @@
 <td align="right">48</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/OzymandiasTheGreat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OzymandiasTheGreat/emoji-keyboard"><b>OzymandiasTheGreat/emoji-keyboard</b></a> <sub>archived</sub><br><sub>Type emoji easily! Virtual keyboard-like emoji palette for Linux with &#91;fewer&#93; of features.</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">29</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 293 stars; 99 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 287 stars; 109 attributed candidates are tracked.
 - 96 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

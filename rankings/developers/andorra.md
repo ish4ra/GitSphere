@@ -207,7 +207,7 @@
 <td align="right">27</td>
 <td><a href="https://github.com/jgimeno"><img src="https://avatars.githubusercontent.com/u/4056757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jgimeno"><b>Jonathan Gimeno</b></a><br><sub>&#64;jgimeno</sub></td>
 <td align="right"><b>43</b></td>
-<td align="right">37</td>
+<td align="right">39</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
@@ -310,23 +310,23 @@
 </tr>
 <tr>
 <td align="right">42</td>
-<td><a href="https://github.com/MichelKansou"><img src="https://avatars.githubusercontent.com/u/15091838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichelKansou"><b>Michel Kansou</b></a><br><sub>&#64;MichelKansou</sub></td>
-<td align="right"><b>22</b></td>
-<td align="right">36</td>
-<td><sub>Andorra</sub></td>
-</tr>
-<tr>
-<td align="right">43</td>
 <td><a href="https://github.com/sergiorodenas"><img src="https://avatars.githubusercontent.com/u/2689890?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergiorodenas"><b>Sergio Ródenas</b></a><br><sub>&#64;sergiorodenas</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">25</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">43</td>
 <td><a href="https://github.com/ColColty"><img src="https://avatars.githubusercontent.com/u/45457264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ColColty"><b>Tomàs Forné Cappeau</b></a><br><sub>&#64;ColColty</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">22</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/MichelKansou"><img src="https://avatars.githubusercontent.com/u/15091838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichelKansou"><b>Michel Kansou</b></a><br><sub>&#64;MichelKansou</sub></td>
+<td align="right"><b>21</b></td>
+<td align="right">36</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>

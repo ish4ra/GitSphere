@@ -5,13 +5,13 @@
 "country": {"code":"BB","name":"Barbados","slug":"barbados"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":547,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":139,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":547,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk1OTQ4ODg5Ng==","name":"ColorfulNews","nameWithOwner":"kaku2015/ColorfulNews","url":"https://github.com/kaku2015/ColorfulNews","description":"A news-reading App (MVP+Dagger2+RxJava+Retrofit2+Material Design)","stars":1295,"forks":411,"primaryLanguage":"Java","license":null,"createdAt":"2016-05-23T14:19:17Z","pushedAt":"2016-10-30T12:31:14Z","archived":false,"owner":{"login":"kaku2015","name":"FishingNet","type":"User","url":"https://github.com/kaku2015","location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk2MDk0MjQyNw==","name":"WeatherAlarmClock","nameWithOwner":"kaku2015/WeatherAlarmClock","url":"https://github.com/kaku2015/WeatherAlarmClock","description":"Alarm clock with weather forecast 一款具有天气提醒功能的闹钟","stars":547,"forks":181,"primaryLanguage":"Java","license":null,"createdAt":"2016-06-12T04:34:28Z","pushedAt":"2019-04-19T09:06:14Z","archived":false,"owner":{"login":"kaku2015","name":"FishingNet","type":"User","url":"https://github.com/kaku2015","location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "456e78c06fc613e9",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "8380141b31747d17",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

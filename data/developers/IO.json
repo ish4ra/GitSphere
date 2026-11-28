@@ -5,7 +5,7 @@
 "country": {"code":"IO","name":"British Indian Ocean Territory","slug":"british-indian-ocean-territory"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":21,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY2MDY1Njc0","login":"LixvYang","name":"Larson","url":"https://github.com/LixvYang","avatarUrl":"https://avatars.githubusercontent.com/u/66065674?s=80&v=4","followers":93,"publicRepos":214,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"U_kgDOB3F4LA","login":"linuxdistribution","name":"linuxdistribution","url":"https://github.com/linuxdistribution","avatarUrl":"https://avatars.githubusercontent.com/u/124876844?s=80&v=4","followers":8,"publicRepos":2,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"U_kgDOCTkb7A","login":"ObsoleteForma","name":"ObsoleteForma","url":"https://github.com/ObsoleteForma","avatarUrl":"https://avatars.githubusercontent.com/u/154737644?s=80&v=4","followers":0,"publicRepos":4,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":8,"id":"MDQ6VXNlcjI2MTY1ODY4","login":"dameon10325","name":"Dameon Price","url":"https://github.com/dameon10325","avatarUrl":"https://avatars.githubusercontent.com/u/26165868?s=80&v=4","followers":0,"publicRepos":1,"location":"British Indian Ocean Territory (Chagos Archipelago)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "62061fe3e723310b",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "a3b93d66d1086292",
+"updatedAt": "2026-11-28T03:23:20.276Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-28T03:23:20.276Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/MX.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/MX.json">JSON</a> |
 
 </div>
 
@@ -395,14 +395,14 @@
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/marcosrivasr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marcosrivasr/Curso-PHP-MySQL"><b>marcosrivasr/Curso-PHP-MySQL</b></a><br><sub>Archivos de los tutoriales del curso de programación del canal de Youtube</sub></td>
-<td align="right"><b>702</b></td>
+<td align="right"><b>701</b></td>
 <td align="right">584</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/andresaraujo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andresaraujo/timeago.dart"><b>andresaraujo/timeago.dart</b></a><br><sub>A library useful for creating fuzzy timestamps. (e.g. &quot;5 minutes ago&quot;)</sub></td>
-<td align="right"><b>676</b></td>
+<td align="right"><b>675</b></td>
 <td align="right">231</td>
 <td>Dart</td>
 </tr>
@@ -423,8 +423,8 @@
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/ivam3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivam3/i-Haklab"><b>ivam3/i-Haklab</b></a><br><sub>i-Haklab is a hacking laboratory for Termux that contains open source tools for pentesting, scan/find vulnerabilities,…</sub></td>
-<td align="right"><b>658</b></td>
-<td align="right">70</td>
+<td align="right"><b>660</b></td>
+<td align="right">71</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 397 stars; 146 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 397 stars; 150 attributed candidates are tracked.
 - 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

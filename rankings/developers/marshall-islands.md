@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **38** | 22 Nov 2026 | <a href="../../data/developers/MH.json">JSON</a> |
+| 🟡 Provisional | **38** | 23 Nov 2026 | <a href="../../data/developers/MH.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Naville"><img src="https://avatars.githubusercontent.com/u/5205699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Naville"><b>Zhang</b></a><br><sub>&#64;Naville</sub></td>
-<td align="right"><b>1,320</b></td>
+<td align="right"><b>1,319</b></td>
 <td align="right">22</td>
 <td><sub>lib/Analysis</sub></td>
 </tr>

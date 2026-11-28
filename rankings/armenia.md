@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **80** | 24 Nov 2026 | <a href="../data/AM.json">JSON</a> |
+| 🟡 Provisional | **84** | 25 Nov 2026 | <a href="../data/AM.json">JSON</a> |
 
 </div>
 
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/suren-atoyan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/suren-atoyan/react-pwa"><b>suren-atoyan/react-pwa</b></a><br><sub>Starter kit for modern web applications</sub></td>
-<td align="right"><b>717</b></td>
+<td align="right"><b>718</b></td>
 <td align="right">154</td>
 <td>TypeScript</td>
 </tr>
@@ -235,7 +235,7 @@
 <td align="right">31</td>
 <td><img src="https://github.com/ai-forever.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ai-forever/Real-ESRGAN"><b>ai-forever/Real-ESRGAN</b></a><br><sub>PyTorch implementation of Real-ESRGAN model</sub></td>
 <td align="right"><b>656</b></td>
-<td align="right">224</td>
+<td align="right">225</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -581,6 +581,34 @@
 <td align="right">169</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/boxfrommars.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/boxfrommars/rutorika-sortable"><b>boxfrommars/rutorika-sortable</b></a><br><sub>Adds sortable behavior to Laravel Eloquent models</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">47</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/nubick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nubick/unity-utils"><b>nubick/unity-utils</b></a><br><sub>Different help scripts for Unity engine.</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">63</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/rasjonell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rasjonell/dashbrew"><b>rasjonell/dashbrew</b></a><br><sub>TUI dashboard builder that lets you visualize data from scripts and APIs right in your console</sub></td>
+<td align="right"><b>281</b></td>
+<td align="right">7</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/FaceONNX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FaceONNX/FaceONNX"><b>FaceONNX/FaceONNX</b></a><br><sub>Face recognition and analytics library based on deep neural networks and ONNX runtime</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">50</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
@@ -589,8 +617,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 293 stars; 80 attributed candidates are tracked.
-- 105 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 280 stars; 84 attributed candidates are tracked.
+- 104 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
