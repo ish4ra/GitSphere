@@ -339,7 +339,7 @@
 <tr>
 <td align="right">46</td>
 <td><a href="https://github.com/emadrasooli"><img src="https://avatars.githubusercontent.com/u/155413103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emadrasooli"><b>Emad Rasooli</b></a><br><sub>&#64;emadrasooli</sub></td>
-<td align="right"><b>71</b></td>
+<td align="right"><b>70</b></td>
 <td align="right">31</td>
 <td><sub>Herat, Afghanistan</sub></td>
 </tr>

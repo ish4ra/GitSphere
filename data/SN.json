@@ -5,15 +5,15 @@
 "country": {"code":"SN","name":"Senegal","slug":"senegal"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":275,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":89,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":124,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":275,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":84,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":124,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOMJIftg","name":"omni-tools","nameWithOwner":"iib0011/omni-tools","url":"https://github.com/iib0011/omni-tools","description":"Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!","stars":10786,"forks":774,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2024-06-13T23:06:42Z","pushedAt":"2026-10-24T12:13:14Z","archived":false,"owner":{"login":"iib0011","name":"Ibrahima G. Coulibaly","type":"User","url":"https://github.com/iib0011","location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOJFm5Qw","name":"awesome-ai-papers","nameWithOwner":"aimerou/awesome-ai-papers","url":"https://github.com/aimerou/awesome-ai-papers","description":"A curated list of the most impressive AI papers","stars":1316,"forks":118,"primaryLanguage":null,"license":null,"createdAt":"2023-03-05T13:11:05Z","pushedAt":"2025-07-01T13:31:54Z","archived":false,"owner":{"login":"aimerou","name":"Aïmérou Ndiaye","type":"User","url":"https://github.com/aimerou","location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":3,"id":"R_kgDOLYuhBw","name":"unix-and-linux-sysadmin-notes","nameWithOwner":"abdoufermat5/unix-and-linux-sysadmin-notes","url":"https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes","description":"Unix and Linux system administration handbook by Evi Nemeth Garth Snyder Trent R. Hein Ben Whaley Dan Mackin","stars":492,"forks":53,"primaryLanguage":"Shell","license":null,"createdAt":"2024-02-27T14:23:57Z","pushedAt":"2026-11-13T01:43:12Z","archived":false,"owner":{"login":"abdoufermat5","name":"Abdou","type":"User","url":"https://github.com/abdoufermat5","location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":4,"id":"MDEwOlJlcG9zaXRvcnkyMzcwNTYyOTg=","name":"pwa-with-vanilla-js","nameWithOwner":"ibrahima92/pwa-with-vanilla-js","url":"https://github.com/ibrahima92/pwa-with-vanilla-js","description":"Progressive Web App built with HTML, CSS and JavaScript","stars":275,"forks":168,"primaryLanguage":"JavaScript","license":null,"createdAt":"2020-01-29T18:43:39Z","pushedAt":"2024-08-05T18:55:22Z","archived":false,"owner":{"login":"ibrahima92","name":"Ibrahima Ndaw","type":"User","url":"https://github.com/ibrahima92","location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "4a565b7d8ff67003",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "596bfa8325814b10",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

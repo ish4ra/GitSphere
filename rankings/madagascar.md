@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 25 Nov 2026 | <a href="../data/MG.json">JSON</a> |
+| 🟡 Provisional | **5** | 25 Nov 2026 | <a href="../data/MG.json">JSON</a> |
 
 </div>
 
@@ -49,6 +49,13 @@
 <td align="right">30</td>
 <td>Lua</td>
 </tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/fetrarij.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fetrarij/ngx-daterangepicker-material"><b>fetrarij/ngx-daterangepicker-material</b></a><br><sub>Date range picker for Angular 16-22. Predefined ranges, time picker, Material look. Works with standalone, SSR and zone…</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">256</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -57,8 +64,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 276 stars; 4 attributed candidates are tracked.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 253 stars; 5 attributed candidates are tracked.
+- 116 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 174 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

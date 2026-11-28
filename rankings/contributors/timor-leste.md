@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/TL.json">JSON</a> |
+| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/contributors/TL.json">JSON</a> |
 
 </div>
 
@@ -124,6 +124,15 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/hugomonizdorego"><img src="https://avatars.githubusercontent.com/u/34202898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hugomonizdorego"><b>Hugo Moniz do Rego</b></a><br><sub>&#64;hugomonizdorego · 0 followers</sub></td>
+<td align="right"><b>129</b></td>
+<td align="right">82</td>
+<td align="right">32</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/Celio-err"><img src="https://avatars.githubusercontent.com/u/239068681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Celio-err"><b>Celio Sousa Silva</b></a><br><sub>&#64;Celio-err · 3 followers</sub></td>
 <td align="right"><b>125</b></td>
 <td align="right">115</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/KituDoutel"><img src="https://avatars.githubusercontent.com/u/171775551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KituDoutel"><b>Francisco KiTu</b></a><br><sub>&#64;KituDoutel · 6 followers</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">54</td>
@@ -141,7 +150,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
+<td><a href="https://github.com/aersida"><img src="https://avatars.githubusercontent.com/u/1767870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aersida"><b>Aersida</b></a><br><sub>&#64;aersida · 0 followers</sub></td>
+<td align="right"><b>56</b></td>
+<td align="right">35</td>
+<td align="right">9</td>
+<td align="right">0</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/timorleste"><img src="https://avatars.githubusercontent.com/u/24618720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timorleste"><b>Degree Background: Information Management (Associate Degree), Information Syste…</b></a><br><sub>&#64;timorleste · 3 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">38</td>
@@ -150,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/bmzashura"><img src="https://avatars.githubusercontent.com/u/42881594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bmzashura"><b>Bemis Huntala</b></a><br><sub>&#64;bmzashura · 6 followers</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">20</td>
@@ -159,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/sergiojosevalente"><img src="https://avatars.githubusercontent.com/u/74915846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergiojosevalente"><b>Sergio Jose Valente Da Cruz</b></a><br><sub>&#64;sergiojosevalente · 14 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">1</td>
@@ -168,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
 <td><a href="https://github.com/feliciofernandez24"><img src="https://avatars.githubusercontent.com/u/40064663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feliciofernandez24"><b>Felicio</b></a><br><sub>&#64;feliciofernandez24 · 3 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -183,7 +201,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 29 of 215 discovered developers (186 awaiting measurement).
+- **Measured:** 33 of 215 discovered developers (182 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 49 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 26 Nov 2026 | <a href="../data/NI.json">JSON</a> |
+| 🟡 Provisional | **3** | 26 Nov 2026 | <a href="../data/NI.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,13 @@
 <td align="right">71</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/JezerM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JezerM/web-greeter"><b>JezerM/web-greeter</b></a><br><sub>A modern, visually appealing greeter for LightDM.</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">19</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -43,8 +50,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 391 stars; 2 attributed candidates are tracked.
-- 117 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 269 stars; 3 attributed candidates are tracked.
+- 112 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 112 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

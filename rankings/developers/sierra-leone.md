@@ -88,7 +88,7 @@
 <td align="right">10</td>
 <td><a href="https://github.com/Alusp"><img src="https://avatars.githubusercontent.com/u/43528594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alusp"><b>Alusine Jalloh</b></a><br><sub>&#64;Alusp</sub></td>
 <td align="right"><b>43</b></td>
-<td align="right">48</td>
+<td align="right">49</td>
 <td><sub>Sierra Leone</sub></td>
 </tr>
 <tr>
@@ -837,7 +837,7 @@
 <td align="right">117</td>
 <td><a href="https://github.com/Jmsandi"><img src="https://avatars.githubusercontent.com/u/95098405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jmsandi"><b>jm sandi</b></a><br><sub>&#64;Jmsandi</sub></td>
 <td align="right"><b>3</b></td>
-<td align="right">48</td>
+<td align="right">49</td>
 <td><sub>Sierra Leone</sub></td>
 </tr>
 <tr>

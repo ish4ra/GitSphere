@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 25 Nov 2026 | <a href="../data/MO.json">JSON</a> |
+| 🟡 Provisional | **14** | 25 Nov 2026 | <a href="../data/MO.json">JSON</a> |
 
 </div>
 
@@ -105,6 +105,20 @@
 <td align="right">20</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/jarvisaoieong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jarvisaoieong/redux-architecture"><b>jarvisaoieong/redux-architecture</b></a><br><sub>elm architecture in redux with redux-loop</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">6</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/rebeccaeexu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebeccaeexu/Awesome-High-Dynamic-Range-Imaging"><b>rebeccaeexu/Awesome-High-Dynamic-Range-Imaging</b></a><br><sub>A collection of HDR imaging papers.</sub></td>
+<td align="right"><b>250</b></td>
+<td align="right">13</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -113,8 +127,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 314 stars; 12 attributed candidates are tracked.
-- 31 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 250 stars; 14 attributed candidates are tracked.
+- 22 multi-repository owners are queued for expansion.
 - **Location discovery:** term 1 of 16 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -207,7 +207,7 @@
 <td align="right">27</td>
 <td><a href="https://github.com/ahmedrangel"><img src="https://avatars.githubusercontent.com/u/50090595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmedrangel"><b>Ahmed Rangel</b></a><br><sub>&#64;ahmedrangel</sub></td>
 <td align="right"><b>43</b></td>
-<td align="right">56</td>
+<td align="right">57</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>

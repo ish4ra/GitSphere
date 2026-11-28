@@ -5,7 +5,7 @@
 "country": {"code":"NR","name":"Nauru","slug":"nauru"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":16,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":16,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":21,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE1MjMxMDc=","login":"Melonbwead","name":"Melon","url":"https://github.com/Melonbwead","avatarUrl":"https://avatars.githubusercontent.com/u/1523107?s=80&v=4","followers":115,"publicRepos":80,"location":"Verse","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-27"},
   {"rank":2,"id":"MDQ6VXNlcjMwMTgwMTY=","login":"nutsi","name":null,"url":"https://github.com/nutsi","avatarUrl":"https://avatars.githubusercontent.com/u/3018016?s=80&v=4","followers":15,"publicRepos":33,"location":"Yaren","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
@@ -24,8 +24,8 @@
   {"rank":15,"id":"MDQ6VXNlcjgzNDgzNjc3","login":"Phillh56","name":"Phill Hardstaff","url":"https://github.com/Phillh56","avatarUrl":"https://avatars.githubusercontent.com/u/83483677?s=80&v=4","followers":0,"publicRepos":0,"location":"Yaren, Nauru","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":16,"id":"MDQ6VXNlcjY2Mzg5MjAw","login":"Rocky121068","name":"Rocky1968","url":"https://github.com/Rocky121068","avatarUrl":"https://avatars.githubusercontent.com/u/66389200?s=80&v=4","followers":0,"publicRepos":0,"location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "e6775fa1e7c17477",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "3d661fc1b775477b",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

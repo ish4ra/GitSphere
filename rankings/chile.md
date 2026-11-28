@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **95** | 25 Nov 2026 | <a href="../data/CL.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/CL.json">JSON</a> |
 
 </div>
 
@@ -284,7 +284,7 @@
 <td align="right">38</td>
 <td><img src="https://github.com/ppizarror.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ppizarror/pygame-menu"><b>ppizarror/pygame-menu</b></a><br><sub>A menu for pygame (pygame-ce also supported!). Simple, and easy to use</sub></td>
 <td align="right"><b>610</b></td>
-<td align="right">151</td>
+<td align="right">150</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -297,23 +297,23 @@
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/iegomez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iegomez/mosquitto-go-auth"><b>iegomez/mosquitto-go-auth</b></a> <sub>archived</sub><br><sub>Auth plugin for mosquitto.</sub></td>
-<td align="right"><b>604</b></td>
+<td align="right"><b>603</b></td>
 <td align="right">225</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">41</td>
+<td><img src="https://github.com/darkxex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darkxex/ProsperoStore"><b>darkxex/ProsperoStore</b></a><br><sub>Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000) https://discord.gg/Drx8tsqq3B</sub></td>
+<td align="right"><b>582</b></td>
+<td align="right">33</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">42</td>
 <td><img src="https://github.com/DarkGhostHunter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DarkGhostHunter/Larapass"><b>DarkGhostHunter/Larapass</b></a> <sub>archived</sub><br><sub>Authenticate users with just their device, fingerprint or biometric data. Goodbye passwords!</sub></td>
 <td align="right"><b>581</b></td>
 <td align="right">64</td>
 <td>PHP</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/darkxex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darkxex/ProsperoStore"><b>darkxex/ProsperoStore</b></a><br><sub>Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000) https://discord.gg/Drx8tsqq3B</sub></td>
-<td align="right"><b>571</b></td>
-<td align="right">33</td>
-<td>C++</td>
 </tr>
 <tr>
 <td align="right">43</td>
@@ -686,15 +686,50 @@
 <td align="right">16</td>
 <td>PHP</td>
 </tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/DarkGhostHunter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DarkGhostHunter/Laraguard"><b>DarkGhostHunter/Laraguard</b></a> <sub>archived</sub><br><sub>&quot;On-premises 2FA Authentication for all your users out-of-the-box</sub></td>
+<td align="right"><b>264</b></td>
+<td align="right">24</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/juanbrujo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juanbrujo/jQuery-Timelinr"><b>juanbrujo/jQuery-Timelinr</b></a><br><sub>Dando vida al tiempo / Giving life to time</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">102</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/dccuchile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dccuchile/CC5205"><b>dccuchile/CC5205</b></a><br><sub>Introducción a la Minería de Datos</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">61</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/andrewcooke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrewcooke/simple-crypt"><b>andrewcooke/simple-crypt</b></a><br><sub>Simple, secure encryption and decryption for Python 2.7 and 3</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">73</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/jakeajames.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jakeajames/jelbrekLib"><b>jakeajames/jelbrekLib</b></a><br><sub>Give me tfp0, I give you jelbrek</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">58</td>
+<td>C</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 272 stars; 95 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 259 stars; 104 attributed candidates are tracked.
 - 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

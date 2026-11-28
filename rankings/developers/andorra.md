@@ -93,17 +93,17 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/imnotquasar"><img src="https://avatars.githubusercontent.com/u/91174081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imnotquasar"><b>ImNotQuasar</b></a><br><sub>&#64;imnotquasar</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">5</td>
+<td><sub>Andorra, Principality of Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/damarnez"><img src="https://avatars.githubusercontent.com/u/1387222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damarnez"><b>Dani Martin Jimenez</b></a><br><sub>&#64;damarnez</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">89</td>
 <td><sub>Andorra</sub></td>
-</tr>
-<tr>
-<td align="right">12</td>
-<td><a href="https://github.com/imnotquasar"><img src="https://avatars.githubusercontent.com/u/91174081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imnotquasar"><b>ImNotQuasar</b></a><br><sub>&#64;imnotquasar</sub></td>
-<td align="right"><b>106</b></td>
-<td align="right">5</td>
-<td><sub>Andorra, Principality of Andorra</sub></td>
 </tr>
 <tr>
 <td align="right">13</td>
@@ -116,7 +116,7 @@
 <td align="right">14</td>
 <td><a href="https://github.com/facundomedica"><img src="https://avatars.githubusercontent.com/u/14063057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/facundomedica"><b>Facundo Medica</b></a><br><sub>&#64;facundomedica</sub></td>
 <td align="right"><b>93</b></td>
-<td align="right">33</td>
+<td align="right">34</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
@@ -184,16 +184,16 @@
 </tr>
 <tr>
 <td align="right">24</td>
-<td><a href="https://github.com/alexcastano"><img src="https://avatars.githubusercontent.com/u/1745859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexcastano"><b>Alex Castaño</b></a><br><sub>&#64;alexcastano</sub></td>
-<td align="right"><b>51</b></td>
-<td align="right">34</td>
+<td><a href="https://github.com/sgirones"><img src="https://avatars.githubusercontent.com/u/597063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sgirones"><b>Salvador Gironès Gil</b></a><br><sub>&#64;sgirones</sub></td>
+<td align="right"><b>50</b></td>
+<td align="right">69</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><a href="https://github.com/sgirones"><img src="https://avatars.githubusercontent.com/u/597063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sgirones"><b>Salvador Gironès Gil</b></a><br><sub>&#64;sgirones</sub></td>
+<td><a href="https://github.com/alexcastano"><img src="https://avatars.githubusercontent.com/u/1745859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexcastano"><b>Alex Castaño</b></a><br><sub>&#64;alexcastano</sub></td>
 <td align="right"><b>50</b></td>
-<td align="right">69</td>
+<td align="right">34</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>

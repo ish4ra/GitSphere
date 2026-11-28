@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/amidos2006"><img src="https://avatars.githubusercontent.com/u/1292799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amidos2006"><b>Ahmed Khalifa</b></a><br><sub>&#64;amidos2006</sub></td>
-<td align="right"><b>102</b></td>
+<td align="right"><b>103</b></td>
 <td align="right">72</td>
 <td><sub>Gzira, Malta</sub></td>
 </tr>
@@ -289,16 +289,16 @@
 </tr>
 <tr>
 <td align="right">39</td>
-<td><a href="https://github.com/mccxiv"><img src="https://avatars.githubusercontent.com/u/1700359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mccxiv"><b>Andrea Stella</b></a><br><sub>&#64;mccxiv</sub></td>
-<td align="right"><b>59</b></td>
-<td align="right">45</td>
+<td><a href="https://github.com/marian2js"><img src="https://avatars.githubusercontent.com/u/4909681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marian2js"><b>Mariano Pardo</b></a><br><sub>&#64;marian2js</sub></td>
+<td align="right"><b>58</b></td>
+<td align="right">49</td>
 <td><sub>Malta</sub></td>
 </tr>
 <tr>
 <td align="right">40</td>
-<td><a href="https://github.com/marian2js"><img src="https://avatars.githubusercontent.com/u/4909681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marian2js"><b>Mariano Pardo</b></a><br><sub>&#64;marian2js</sub></td>
+<td><a href="https://github.com/mccxiv"><img src="https://avatars.githubusercontent.com/u/1700359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mccxiv"><b>Andrea Stella</b></a><br><sub>&#64;mccxiv</sub></td>
 <td align="right"><b>58</b></td>
-<td align="right">49</td>
+<td align="right">45</td>
 <td><sub>Malta</sub></td>
 </tr>
 <tr>

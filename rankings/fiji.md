@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 28 Nov 2026 | <a href="../data/FJ.json">JSON</a> |
+| 🟡 Provisional | **3** | 28 Nov 2026 | <a href="../data/FJ.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,13 @@
 <td align="right">35</td>
 <td>Kotlin</td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/JonGates.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JonGates/jon"><b>JonGates/jon</b></a><br><sub>jon 是一款LINUX系统攻防工具箱，包含扫描，入侵，痕迹清理，木马，网站测试等各种黑客工具。Jon is a toolbox of Linux, including scanning, intrusion, trace cleanin…</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">53</td>
+<td>C</td>
+</tr>
 </tbody>
 </table>
 
@@ -43,8 +50,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 272 stars; 2 attributed candidates are tracked.
-- 120 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 251 stars; 3 attributed candidates are tracked.
+- 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 32 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

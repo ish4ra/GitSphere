@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/ibraum"><img src="https://avatars.githubusercontent.com/u/141491421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibraum"><b>KONDO Ibrahim</b></a><br><sub>&#64;ibraum</sub></td>
-<td align="right"><b>105</b></td>
+<td align="right"><b>104</b></td>
 <td align="right">56</td>
 <td><sub>Lomé, TOGO</sub></td>
 </tr>

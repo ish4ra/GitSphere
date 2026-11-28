@@ -444,8 +444,8 @@
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/alvincrisuy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alvincrisuy/clashX"><b>alvincrisuy/clashX</b></a><br><sub>A rule based shadowsocks proxy with GUI for Mac base on clash.</sub></td>
-<td align="right"><b>599</b></td>
-<td align="right">4,686</td>
+<td align="right"><b>600</b></td>
+<td align="right">4,685</td>
 <td>Swift</td>
 </tr>
 <tr>
@@ -465,7 +465,7 @@
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/accntech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/accntech/shad-ui"><b>accntech/shad-ui</b></a><br><sub>Avalonia-based UI Library inspired by shadcn and Suki UI Library</sub></td>
-<td align="right"><b>585</b></td>
+<td align="right"><b>588</b></td>
 <td align="right">58</td>
 <td>C#</td>
 </tr>

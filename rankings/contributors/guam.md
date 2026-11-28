@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 23 Nov 2026 | <a href="../../data/contributors/GU.json">JSON</a> |
+| 🟡 Provisional | **17** | 23 Nov 2026 | <a href="../../data/contributors/GU.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/rangellu"><img src="https://avatars.githubusercontent.com/u/257935271?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rangellu"><b>Rangel Eauri Lu</b></a><br><sub>&#64;rangellu · 1 followers</sub></td>
+<td align="right"><b>25</b></td>
+<td align="right">20</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/lujangeo"><img src="https://avatars.githubusercontent.com/u/5105685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lujangeo"><b>lujangeo</b></a><br><sub>&#64;lujangeo · 0 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">11</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/ThaumX"><img src="https://avatars.githubusercontent.com/u/30677680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThaumX"><b>ThaumX</b></a><br><sub>&#64;ThaumX · 8 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">9</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/AlfredoLondono"><img src="https://avatars.githubusercontent.com/u/106455907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlfredoLondono"><b>Alfredo Londono</b></a><br><sub>&#64;AlfredoLondono · 0 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">9</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/mfmitchell24"><img src="https://avatars.githubusercontent.com/u/200572949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mfmitchell24"><b>Mfalmog</b></a><br><sub>&#64;mfmitchell24 · 0 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">2</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/ReyBan82"><img src="https://avatars.githubusercontent.com/u/91646027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ReyBan82"><b>Renante B Baniaga</b></a><br><sub>&#64;ReyBan82 · 67 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">0</td>
@@ -132,7 +141,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
+<td><a href="https://github.com/KrizelDeveloper"><img src="https://avatars.githubusercontent.com/u/76911816?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KrizelDeveloper"><b>Krizel J. Dela Cruz</b></a><br><sub>&#64;KrizelDeveloper · 0 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/cidne"><img src="https://avatars.githubusercontent.com/u/95468490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cidne"><b>cidne</b></a><br><sub>&#64;cidne · 0 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">4</td>
@@ -141,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/ChairGTables"><img src="https://avatars.githubusercontent.com/u/9557142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChairGTables"><b>Jurichii</b></a><br><sub>&#64;ChairGTables · 5 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -150,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/guamencja"><img src="https://avatars.githubusercontent.com/u/56258709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guamencja"><b>guam</b></a><br><sub>&#64;guamencja · 4 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -165,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 36 of 179 discovered developers (143 awaiting measurement).
+- **Measured:** 41 of 179 discovered developers (138 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 7 of 34 in round 1.

@@ -81,7 +81,7 @@
 <td align="right">9</td>
 <td><img src="https://github.com/devmuaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devmuaz/flutter-clean-architecture"><b>devmuaz/flutter-clean-architecture</b></a><br><sub>A flutter clean architecture series, the way we build clean apps.</sub></td>
 <td align="right"><b>584</b></td>
-<td align="right">150</td>
+<td align="right">149</td>
 <td>Dart</td>
 </tr>
 <tr>

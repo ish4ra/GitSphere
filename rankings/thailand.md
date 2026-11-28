@@ -599,13 +599,13 @@
 <td align="right">83</td>
 <td><img src="https://github.com/bongtrop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bongtrop/hbctool"><b>bongtrop/hbctool</b></a><br><sub>Hermes Bytecode Reverse Engineering Tool (Assemble/Disassemble Hermes Bytecode)</sub></td>
 <td align="right"><b>649</b></td>
-<td align="right">102</td>
+<td align="right">103</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/DevL0rd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DevL0rd/SkyNX"><b>DevL0rd/SkyNX</b></a><br><sub>Stream your PC games to your Nintendo Switch without Android!</sub></td>
-<td align="right"><b>645</b></td>
+<td align="right"><b>646</b></td>
 <td align="right">46</td>
 <td>C</td>
 </tr>
@@ -647,8 +647,8 @@
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/zdk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zdk/lowfat"><b>zdk/lowfat</b></a><br><sub>lowfat - slim your command output. strips noise, saves tokens.</sub></td>
-<td align="right"><b>589</b></td>
-<td align="right">17</td>
+<td align="right"><b>588</b></td>
+<td align="right">15</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -660,17 +660,17 @@
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/akexorcist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akexorcist/GoogleDirectionLibrary"><b>akexorcist/GoogleDirectionLibrary</b></a><br><sub>&#91;Android&#93; Library for Google Direction API for Google Maps Android API v2</sub></td>
-<td align="right"><b>574</b></td>
-<td align="right">172</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">93</td>
 <td><img src="https://github.com/natural.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/natural/java2python"><b>natural/java2python</b></a><br><sub>Simple but effective library to translate Java source code to Python.</sub></td>
 <td align="right"><b>573</b></td>
 <td align="right">243</td>
 <td>Python</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/akexorcist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akexorcist/GoogleDirectionLibrary"><b>akexorcist/GoogleDirectionLibrary</b></a><br><sub>&#91;Android&#93; Library for Google Direction API for Google Maps Android API v2</sub></td>
+<td align="right"><b>573</b></td>
+<td align="right">172</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">94</td>

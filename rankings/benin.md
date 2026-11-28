@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 25 Nov 2026 | <a href="../data/BJ.json">JSON</a> |
+| 🟡 Provisional | **10** | 25 Nov 2026 | <a href="../data/BJ.json">JSON</a> |
 
 </div>
 
@@ -84,6 +84,13 @@
 <td align="right">97</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/paroi-tech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/paroi-tech/direct-vuex"><b>paroi-tech/direct-vuex</b></a> <sub>archived</sub><br><sub>Use and implement your Vuex store with TypeScript types. Compatible with the Vue 3 composition API.</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">14</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -92,7 +99,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 344 stars; 9 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 254 stars; 10 attributed candidates are tracked.
 - **Location discovery:** term 0 of 86 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -51,17 +51,17 @@
 </tr>
 <tr>
 <td align="right">5</td>
-<td><a href="https://github.com/bridgecoresystems-cmd"><img src="https://avatars.githubusercontent.com/u/236211990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bridgecoresystems-cmd"><b>BridgeCore SYSTEMS</b></a><br><sub>&#64;bridgecoresystems-cmd</sub></td>
-<td align="right"><b>109</b></td>
-<td align="right">2</td>
-<td><sub>Turkmenistan</sub></td>
+<td><a href="https://github.com/octonet29"><img src="https://avatars.githubusercontent.com/u/58729614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/octonet29"><b>Gulbahar</b></a><br><sub>&#64;octonet29</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">6</td>
+<td><sub>Ashgabat, Turkmenistan</sub></td>
 </tr>
 <tr>
 <td align="right">6</td>
-<td><a href="https://github.com/octonet29"><img src="https://avatars.githubusercontent.com/u/58729614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/octonet29"><b>Gulbahar</b></a><br><sub>&#64;octonet29</sub></td>
-<td align="right"><b>103</b></td>
-<td align="right">6</td>
-<td><sub>Ashgabat, Turkmenistan</sub></td>
+<td><a href="https://github.com/bridgecoresystems-cmd"><img src="https://avatars.githubusercontent.com/u/236211990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bridgecoresystems-cmd"><b>BridgeCore SYSTEMS</b></a><br><sub>&#64;bridgecoresystems-cmd</sub></td>
+<td align="right"><b>102</b></td>
+<td align="right">2</td>
+<td><sub>Turkmenistan</sub></td>
 </tr>
 <tr>
 <td align="right">7</td>
@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><a href="https://github.com/Kesha005"><img src="https://avatars.githubusercontent.com/u/106481430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kesha005"><b>Kerimberdi Saparow</b></a><br><sub>&#64;Kesha005</sub></td>
-<td align="right"><b>67</b></td>
+<td align="right"><b>66</b></td>
 <td align="right">37</td>
 <td><sub>Turkmenistan</sub></td>
 </tr>

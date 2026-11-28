@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **16** | 03 Nov 2026 | <a href="../data/RW.json">JSON</a> |
-
-> **Not yet re-verified.** 6 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **11** | 26 Nov 2026 | <a href="../data/RW.json">JSON</a> |
 
 </div>
 
@@ -95,45 +93,10 @@
 </tr>
 <tr>
 <td align="right">11</td>
-<td><img src="https://github.com/Arrax250.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arrax250/system_engineering-devops"><b>Arrax250/system&#95;engineering-devops</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">1</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">12</td>
-<td><img src="https://github.com/Elie250.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Elie250/Theos-art"><b>Elie250/Theos-art</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">1</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td><img src="https://github.com/ellengondoun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ellengondoun/Ellen_Gondoun"><b>ellengondoun/Ellen&#95;Gondoun</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">1</td>
-<td>SCSS</td>
-</tr>
-<tr>
-<td align="right">14</td>
-<td><img src="https://github.com/Gashugijeanbosco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gashugijeanbosco/Parallel-Computing-impact-to-deep-learning-model"><b>Gashugijeanbosco/Parallel-Computing-impact-to-deep-learning-model</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">1</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">15</td>
-<td><img src="https://github.com/NGABO1io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NGABO1io/Only"><b>NGABO1io/Only</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">1</td>
-<td>Move</td>
-</tr>
-<tr>
-<td align="right">16</td>
-<td><img src="https://github.com/niyoyitaibrahim73-netizen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/niyoyitaibrahim73-netizen/My-money-"><b>niyoyitaibrahim73-netizen/My-money-</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/david-legend.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/david-legend/david-legend.github.io"><b>david-legend/david-legend.github.io</b></a><br><sub>I present to you the version 2 of my portfolio website https://davidcobbina.com . The design is elegant, simple minimal…</sub></td>
+<td align="right"><b>262</b></td>
+<td align="right">68</td>
+<td>Dart</td>
 </tr>
 </tbody>
 </table>
@@ -141,11 +104,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 16 attributed candidates are tracked.
-- 6 entries were carried over from the previous dataset and are pending revalidation.
-- 118 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 262 stars; 11 attributed candidates are tracked.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 36 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

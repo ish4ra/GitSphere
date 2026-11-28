@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 25 Nov 2026 | <a href="../data/PA.json">JSON</a> |
+| 🟡 Provisional | **2** | 25 Nov 2026 | <a href="../data/PA.json">JSON</a> |
 
 </div>
 
@@ -28,6 +28,13 @@
 <td align="right">195</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/migueesc123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/migueesc123/PowerBIRESTAPI"><b>migueesc123/PowerBIRESTAPI</b></a><br><sub>A Microsoft Power BI Data Connector or Power Query Connector for the Power BI REST API</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">85</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -36,8 +43,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 5,852 stars; 1 attributed candidates are tracked.
-- 120 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 257 stars; 2 attributed candidates are tracked.
+- 116 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 81 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

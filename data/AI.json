@@ -5,10 +5,10 @@
 "country": {"code":"AI","name":"Anguilla","slug":"anguilla"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":23,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":22,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":22,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":22,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "5de36b084a717d35",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "7dc64c53d9991202",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

@@ -640,7 +640,7 @@
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/Davenchy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Davenchy/live-torrent"><b>Davenchy/live-torrent</b></a> <sub>archived</sub><br><sub>Torrent Web Client</sub></td>
-<td align="right"><b>633</b></td>
+<td align="right"><b>632</b></td>
 <td align="right">201</td>
 <td>TypeScript</td>
 </tr>

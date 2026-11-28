@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/MQ.json">JSON</a> |
+| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/contributors/MQ.json">JSON</a> |
 
 </div>
 
@@ -214,6 +214,15 @@
 </tr>
 <tr>
 <td align="right">22</td>
+<td><a href="https://github.com/kylian97"><img src="https://avatars.githubusercontent.com/u/103132638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kylian97"><b>kylian&#95;b</b></a><br><sub>&#64;kylian97 · 9 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><a href="https://github.com/giovanny972"><img src="https://avatars.githubusercontent.com/u/49912844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giovanny972"><b>giovanny adelaide</b></a><br><sub>&#64;giovanny972 · 17 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
@@ -222,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
 <td><a href="https://github.com/jbsselim972"><img src="https://avatars.githubusercontent.com/u/10562702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jbsselim972"><b>Selim Jean-Baptiste-Simone</b></a><br><sub>&#64;jbsselim972 · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -231,7 +240,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">25</td>
 <td><a href="https://github.com/jrouvel"><img src="https://avatars.githubusercontent.com/u/4440394?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jrouvel"><b>Jerome Rouvel</b></a><br><sub>&#64;jrouvel · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -246,10 +255,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 32 of 170 discovered developers (138 awaiting measurement).
+- **Measured:** 36 of 170 discovered developers (134 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 4 of 23 in round 1.
+- **Location discovery:** term 7 of 23 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

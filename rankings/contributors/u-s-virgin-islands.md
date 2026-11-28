@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/VI.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/VI.json">JSON</a> |
 
 </div>
 
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/nnLabs-io"><img src="https://avatars.githubusercontent.com/u/256591167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nnLabs-io"><b>Daniel Hill</b></a><br><sub>&#64;nnLabs-io · 0 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">3</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/maxmelehin14-arch"><img src="https://avatars.githubusercontent.com/u/255315834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maxmelehin14-arch"><b>maxwells-workshop</b></a><br><sub>&#64;maxmelehin14-arch · 0 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/thesteinagen"><img src="https://avatars.githubusercontent.com/u/256230609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thesteinagen"><b>Jeffrey Epstein</b></a><br><sub>&#64;thesteinagen · 1 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/ASN219412"><img src="https://avatars.githubusercontent.com/u/302217131?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ASN219412"><b>AS219412</b></a><br><sub>&#64;ASN219412 · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/majesticlimo"><img src="https://avatars.githubusercontent.com/u/336293356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/majesticlimo"><b>Majestic Limo and Tour</b></a><br><sub>&#64;majesticlimo · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -138,7 +147,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 27 of 31 discovered developers (4 awaiting measurement).
+- **Measured:** 31 of 31 discovered developers (0 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 5 of 24 in round 1.

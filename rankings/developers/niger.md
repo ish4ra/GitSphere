@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **388** | 24 Nov 2026 | <a href="../../data/developers/NE.json">JSON</a> |
+| 🟡 Provisional | **405** | 24 Nov 2026 | <a href="../../data/developers/NE.json">JSON</a> |
 
 </div>
 
@@ -2067,671 +2067,790 @@
 </tr>
 <tr>
 <td align="right">293</td>
+<td><a href="https://github.com/mamaneMAROU"><img src="https://avatars.githubusercontent.com/u/133972094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mamaneMAROU"><b>mamane</b></a><br><sub>&#64;mamaneMAROU</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>NIGER</sub></td>
+</tr>
+<tr>
+<td align="right">294</td>
 <td><a href="https://github.com/MASSOUR80719452"><img src="https://avatars.githubusercontent.com/u/193838865?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MASSOUR80719452"><b>Nalokoyo Tassaou</b></a><br><sub>&#64;MASSOUR80719452</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">294</td>
+<td align="right">295</td>
 <td><a href="https://github.com/Mayataw"><img src="https://avatars.githubusercontent.com/u/26542329?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mayataw"><b>SADIKOU Salissou</b></a><br><sub>&#64;Mayataw</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Zinder, NIGER</sub></td>
 </tr>
 <tr>
-<td align="right">295</td>
+<td align="right">296</td>
 <td><a href="https://github.com/MAYATAW3633138ss"><img src="https://avatars.githubusercontent.com/u/135314504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MAYATAW3633138ss"><b>SADIKOU Salissou</b></a><br><sub>&#64;MAYATAW3633138ss</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niamey, NIGER</sub></td>
 </tr>
 <tr>
-<td align="right">296</td>
+<td align="right">297</td>
 <td><a href="https://github.com/MM-202"><img src="https://avatars.githubusercontent.com/u/85689718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MM-202"><b>Mansour</b></a><br><sub>&#64;MM-202</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">297</td>
+<td align="right">298</td>
 <td><a href="https://github.com/moizaboubakar23-sudo"><img src="https://avatars.githubusercontent.com/u/317540436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moizaboubakar23-sudo"><b>Moussa Aboubacar</b></a><br><sub>&#64;moizaboubakar23-sudo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">298</td>
+<td align="right">299</td>
 <td><a href="https://github.com/moustaphamoutari-max"><img src="https://avatars.githubusercontent.com/u/340956982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moustaphamoutari-max"><b>Moustapha Moutari</b></a><br><sub>&#64;moustaphamoutari-max</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Zinder Niger</sub></td>
 </tr>
 <tr>
-<td align="right">299</td>
+<td align="right">300</td>
 <td><a href="https://github.com/mrDirkDald"><img src="https://avatars.githubusercontent.com/u/328730428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrDirkDald"><b>Mr.DirkDald</b></a><br><sub>&#64;mrDirkDald</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Dosso, Dosso, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">300</td>
+<td align="right">301</td>
 <td><a href="https://github.com/nachitotano"><img src="https://avatars.githubusercontent.com/u/145152132?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nachitotano"><b>nachitotano</b></a><br><sub>&#64;nachitotano</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">301</td>
+<td align="right">302</td>
 <td><a href="https://github.com/nazal2013"><img src="https://avatars.githubusercontent.com/u/17025650?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nazal2013"><b>Chaibou OUMAROU</b></a><br><sub>&#64;nazal2013</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">302</td>
+<td align="right">303</td>
 <td><a href="https://github.com/Noah-Hatzi"><img src="https://avatars.githubusercontent.com/u/86130363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Noah-Hatzi"><b>Noah Hatzi</b></a><br><sub>&#64;Noah-Hatzi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">303</td>
+<td align="right">304</td>
 <td><a href="https://github.com/O-girl"><img src="https://avatars.githubusercontent.com/u/118051336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/O-girl"><b>Nwaosuji Sarah</b></a><br><sub>&#64;O-girl</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">304</td>
+<td align="right">305</td>
 <td><a href="https://github.com/oWypad"><img src="https://avatars.githubusercontent.com/u/79660721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oWypad"><b>oWypad</b></a><br><sub>&#64;oWypad</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>niger</sub></td>
 </tr>
 <tr>
-<td align="right">305</td>
+<td align="right">306</td>
 <td><a href="https://github.com/PostmannDave"><img src="https://avatars.githubusercontent.com/u/114063683?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PostmannDave"><b>Sjef</b></a><br><sub>&#64;PostmannDave</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">306</td>
+<td align="right">307</td>
 <td><a href="https://github.com/PROFISC-NIGER"><img src="https://avatars.githubusercontent.com/u/138974834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PROFISC-NIGER"><b>PROFISC NIGER</b></a><br><sub>&#64;PROFISC-NIGER</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niamey - Niger</sub></td>
 </tr>
 <tr>
-<td align="right">307</td>
+<td align="right">308</td>
 <td><a href="https://github.com/r4fale"><img src="https://avatars.githubusercontent.com/u/108592829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r4fale"><b>r4fale</b></a><br><sub>&#64;r4fale</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">308</td>
+<td align="right">309</td>
 <td><a href="https://github.com/rvuskieszlugi"><img src="https://avatars.githubusercontent.com/u/105128332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rvuskieszlugi"><b>4effz&#95;</b></a><br><sub>&#64;rvuskieszlugi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">309</td>
+<td align="right">310</td>
 <td><a href="https://github.com/safianouyacouba"><img src="https://avatars.githubusercontent.com/u/32944790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/safianouyacouba"><b>Yacoubou yacoubouibirahim</b></a><br><sub>&#64;safianouyacouba</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">310</td>
+<td align="right">311</td>
 <td><a href="https://github.com/Saiduabdu"><img src="https://avatars.githubusercontent.com/u/115347702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Saiduabdu"><b>Abdulsamad</b></a><br><sub>&#64;Saiduabdu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">311</td>
+<td align="right">312</td>
 <td><a href="https://github.com/Savok5"><img src="https://avatars.githubusercontent.com/u/94996895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Savok5"><b>Мама Діми</b></a><br><sub>&#64;Savok5</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">312</td>
+<td align="right">313</td>
 <td><a href="https://github.com/ShanksAss"><img src="https://avatars.githubusercontent.com/u/97320595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShanksAss"><b>Khali</b></a><br><sub>&#64;ShanksAss</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">313</td>
+<td align="right">314</td>
 <td><a href="https://github.com/simplecloudgg"><img src="https://avatars.githubusercontent.com/u/101505944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simplecloudgg"><b>simplecloud.gg</b></a><br><sub>&#64;simplecloudgg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">314</td>
+<td align="right">315</td>
 <td><a href="https://github.com/solunixmansourab"><img src="https://avatars.githubusercontent.com/u/101867870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/solunixmansourab"><b>Mansour Abdoulaye</b></a><br><sub>&#64;solunixmansourab</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niamey/Niger</sub></td>
 </tr>
 <tr>
-<td align="right">315</td>
+<td align="right">316</td>
 <td><a href="https://github.com/theorangepilled"><img src="https://avatars.githubusercontent.com/u/150329616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/theorangepilled"><b>Guido</b></a><br><sub>&#64;theorangepilled</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">316</td>
+<td align="right">317</td>
 <td><a href="https://github.com/TimZzEnteredGodMode"><img src="https://avatars.githubusercontent.com/u/93729030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TimZzEnteredGodMode"><b>Timmy</b></a><br><sub>&#64;TimZzEnteredGodMode</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>gaya, dosso, niger</sub></td>
 </tr>
 <tr>
-<td align="right">317</td>
+<td align="right">318</td>
 <td><a href="https://github.com/yacouba7"><img src="https://avatars.githubusercontent.com/u/2310361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yacouba7"><b>YACOUBA</b></a><br><sub>&#64;yacouba7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tahoua Niger</sub></td>
 </tr>
 <tr>
-<td align="right">318</td>
+<td align="right">319</td>
 <td><a href="https://github.com/yahbabban"><img src="https://avatars.githubusercontent.com/u/95049372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yahbabban"><b>Chaibou Oumarou</b></a><br><sub>&#64;yahbabban</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niamey, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">319</td>
+<td align="right">320</td>
 <td><a href="https://github.com/Zouleyhatou"><img src="https://avatars.githubusercontent.com/u/228515940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zouleyhatou"><b>Adamou yacouba</b></a><br><sub>&#64;Zouleyhatou</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">320</td>
+<td align="right">321</td>
 <td><a href="https://github.com/019issaka"><img src="https://avatars.githubusercontent.com/u/123460349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/019issaka"><b>Issaka Idrissa Seydou</b></a><br><sub>&#64;019issaka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">321</td>
+<td align="right">322</td>
 <td><a href="https://github.com/03Dkaka"><img src="https://avatars.githubusercontent.com/u/36446945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/03Dkaka"><b>Malla</b></a><br><sub>&#64;03Dkaka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">322</td>
+<td align="right">323</td>
 <td><a href="https://github.com/1238127381273"><img src="https://avatars.githubusercontent.com/u/131621868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1238127381273"><b>grubyww</b></a><br><sub>&#64;1238127381273</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">323</td>
+<td align="right">324</td>
 <td><a href="https://github.com/33apate"><img src="https://avatars.githubusercontent.com/u/119135009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/33apate"><b>Apate</b></a><br><sub>&#64;33apate</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">324</td>
+<td align="right">325</td>
 <td><a href="https://github.com/90929181"><img src="https://avatars.githubusercontent.com/u/123459760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/90929181"><b>Sam-oune</b></a><br><sub>&#64;90929181</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey-Niger</sub></td>
 </tr>
 <tr>
-<td align="right">325</td>
+<td align="right">326</td>
 <td><a href="https://github.com/Abdoul1512"><img src="https://avatars.githubusercontent.com/u/222057546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdoul1512"><b>Abdoul Rachid</b></a><br><sub>&#64;Abdoul1512</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">326</td>
+<td align="right">327</td>
 <td><a href="https://github.com/abdoulayenahima-pixel"><img src="https://avatars.githubusercontent.com/u/313067352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdoulayenahima-pixel"><b>Nahima Abdoulaye</b></a><br><sub>&#64;abdoulayenahima-pixel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">327</td>
+<td align="right">328</td>
 <td><a href="https://github.com/abdouljams-del"><img src="https://avatars.githubusercontent.com/u/221989568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdouljams-del"><b>JADI SANI</b></a><br><sub>&#64;abdouljams-del</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">328</td>
+<td align="right">329</td>
 <td><a href="https://github.com/abdoulkarim-lab"><img src="https://avatars.githubusercontent.com/u/261222680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdoulkarim-lab"><b>A.Karim</b></a><br><sub>&#64;abdoulkarim-lab</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">329</td>
+<td align="right">330</td>
 <td><a href="https://github.com/Abdourhamane"><img src="https://avatars.githubusercontent.com/u/13453492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdourhamane"><b>Abdourhamane</b></a><br><sub>&#64;Abdourhamane</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey (Niger)</sub></td>
 </tr>
 <tr>
-<td align="right">330</td>
+<td align="right">331</td>
 <td><a href="https://github.com/acdevbot"><img src="https://avatars.githubusercontent.com/u/223713791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acdevbot"><b>Chérif Hadiza</b></a><br><sub>&#64;acdevbot</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey Niger</sub></td>
 </tr>
 <tr>
-<td align="right">331</td>
+<td align="right">332</td>
 <td><a href="https://github.com/Ahamaster"><img src="https://avatars.githubusercontent.com/u/64485591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ahamaster"><b>ДавидовичХан</b></a><br><sub>&#64;Ahamaster</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">332</td>
-<td><a href="https://github.com/Ataoufi"><img src="https://avatars.githubusercontent.com/u/210247278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ataoufi"><b>Ataoufi</b></a><br><sub>&#64;Ataoufi</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td><sub>Niamey, Niger</sub></td>
-</tr>
-<tr>
 <td align="right">333</td>
-<td><a href="https://github.com/audiopending"><img src="https://avatars.githubusercontent.com/u/74854255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/audiopending"><b>audiopending</b></a><br><sub>&#64;audiopending</sub></td>
+<td><a href="https://github.com/ARGeodata"><img src="https://avatars.githubusercontent.com/u/356723410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ARGeodata"><b>A.R.Geodata</b></a><br><sub>&#64;ARGeodata</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>Niger</sub></td>
+<td><sub>Niamey,Niger</sub></td>
 </tr>
 <tr>
 <td align="right">334</td>
-<td><a href="https://github.com/Bnmusa19"><img src="https://avatars.githubusercontent.com/u/120266752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bnmusa19"><b>Ibrahim musa Muhammad</b></a><br><sub>&#64;Bnmusa19</sub></td>
+<td><a href="https://github.com/ArrayCheats"><img src="https://avatars.githubusercontent.com/u/123833157?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArrayCheats"><b>Array</b></a><br><sub>&#64;ArrayCheats</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
 <td align="right">335</td>
-<td><a href="https://github.com/BRAIMS-227"><img src="https://avatars.githubusercontent.com/u/226810255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BRAIMS-227"><b>BRAIMS-²²7 AURA</b></a><br><sub>&#64;BRAIMS-227</sub></td>
+<td><a href="https://github.com/Ataoufi"><img src="https://avatars.githubusercontent.com/u/210247278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ataoufi"><b>Ataoufi</b></a><br><sub>&#64;Ataoufi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>Niger</sub></td>
+<td><sub>Niamey, Niger</sub></td>
 </tr>
 <tr>
 <td align="right">336</td>
-<td><a href="https://github.com/Caylou"><img src="https://avatars.githubusercontent.com/u/11743208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Caylou"><b>Caleb Cain</b></a><br><sub>&#64;Caylou</sub></td>
+<td><a href="https://github.com/audiopending"><img src="https://avatars.githubusercontent.com/u/74854255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/audiopending"><b>audiopending</b></a><br><sub>&#64;audiopending</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
 <td align="right">337</td>
-<td><a href="https://github.com/CodeBorn01"><img src="https://avatars.githubusercontent.com/u/143612477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CodeBorn01"><b>CodeBorn</b></a><br><sub>&#64;CodeBorn01</sub></td>
+<td><a href="https://github.com/Awakingo"><img src="https://avatars.githubusercontent.com/u/190652704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Awakingo"><b>awakingo</b></a><br><sub>&#64;Awakingo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>Niamey, Niger</sub></td>
+<td><sub>Niamey/Niger</sub></td>
 </tr>
 <tr>
 <td align="right">338</td>
-<td><a href="https://github.com/DanAbdou2023"><img src="https://avatars.githubusercontent.com/u/129276270?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanAbdou2023"><b>Dan Abdou</b></a><br><sub>&#64;DanAbdou2023</sub></td>
+<td><a href="https://github.com/ayvuu"><img src="https://avatars.githubusercontent.com/u/70712817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ayvuu"><b>ayvu</b></a><br><sub>&#64;ayvuu</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>niger</sub></td>
+</tr>
+<tr>
+<td align="right">339</td>
+<td><a href="https://github.com/Bnmusa19"><img src="https://avatars.githubusercontent.com/u/120266752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bnmusa19"><b>Ibrahim musa Muhammad</b></a><br><sub>&#64;Bnmusa19</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">339</td>
-<td><a href="https://github.com/Desay84"><img src="https://avatars.githubusercontent.com/u/195754204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Desay84"><b>Ali Galadima Adamou</b></a><br><sub>&#64;Desay84</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td><sub>Niamey, Niger</sub></td>
-</tr>
-<tr>
 <td align="right">340</td>
-<td><a href="https://github.com/devrezeh"><img src="https://avatars.githubusercontent.com/u/43315907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devrezeh"><b>devrezeh</b></a><br><sub>&#64;devrezeh</sub></td>
+<td><a href="https://github.com/BRAIMS-227"><img src="https://avatars.githubusercontent.com/u/226810255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BRAIMS-227"><b>BRAIMS-²²7 AURA</b></a><br><sub>&#64;BRAIMS-227</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
 <td align="right">341</td>
-<td><a href="https://github.com/dggalileo"><img src="https://avatars.githubusercontent.com/u/208307479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dggalileo"><b>Bassir Chaibou</b></a><br><sub>&#64;dggalileo</sub></td>
+<td><a href="https://github.com/Caylou"><img src="https://avatars.githubusercontent.com/u/11743208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Caylou"><b>Caleb Cain</b></a><br><sub>&#64;Caylou</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
 <td align="right">342</td>
+<td><a href="https://github.com/Cheickms"><img src="https://avatars.githubusercontent.com/u/178897221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cheickms"><b>Ousseini Cheffou mohamed salah</b></a><br><sub>&#64;Cheickms</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger, niamey</sub></td>
+</tr>
+<tr>
+<td align="right">343</td>
+<td><a href="https://github.com/CodeBorn01"><img src="https://avatars.githubusercontent.com/u/143612477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CodeBorn01"><b>CodeBorn</b></a><br><sub>&#64;CodeBorn01</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niamey, Niger</sub></td>
+</tr>
+<tr>
+<td align="right">344</td>
+<td><a href="https://github.com/DanAbdou2023"><img src="https://avatars.githubusercontent.com/u/129276270?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanAbdou2023"><b>Dan Abdou</b></a><br><sub>&#64;DanAbdou2023</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger</sub></td>
+</tr>
+<tr>
+<td align="right">345</td>
+<td><a href="https://github.com/Desay84"><img src="https://avatars.githubusercontent.com/u/195754204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Desay84"><b>Ali Galadima Adamou</b></a><br><sub>&#64;Desay84</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niamey, Niger</sub></td>
+</tr>
+<tr>
+<td align="right">346</td>
+<td><a href="https://github.com/devrezeh"><img src="https://avatars.githubusercontent.com/u/43315907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devrezeh"><b>devrezeh</b></a><br><sub>&#64;devrezeh</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger</sub></td>
+</tr>
+<tr>
+<td align="right">347</td>
+<td><a href="https://github.com/dggalileo"><img src="https://avatars.githubusercontent.com/u/208307479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dggalileo"><b>Bassir Chaibou</b></a><br><sub>&#64;dggalileo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger</sub></td>
+</tr>
+<tr>
+<td align="right">348</td>
 <td><a href="https://github.com/DIGITALPATCHSYSTEM"><img src="https://avatars.githubusercontent.com/u/58737190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DIGITALPATCHSYSTEM"><b>DPS Multimedia</b></a><br><sub>&#64;DIGITALPATCHSYSTEM</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey-Niger</sub></td>
 </tr>
 <tr>
-<td align="right">343</td>
+<td align="right">349</td>
 <td><a href="https://github.com/Dizelact"><img src="https://avatars.githubusercontent.com/u/149517779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dizelact"><b>Penus negra</b></a><br><sub>&#64;Dizelact</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>niger</sub></td>
 </tr>
 <tr>
-<td align="right">344</td>
+<td align="right">350</td>
 <td><a href="https://github.com/dominuss2"><img src="https://avatars.githubusercontent.com/u/54488523?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dominuss2"><b>INDIVIDUSH23</b></a><br><sub>&#64;dominuss2</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey,Niger</sub></td>
 </tr>
 <tr>
-<td align="right">345</td>
+<td align="right">351</td>
+<td><a href="https://github.com/EST-NIGER"><img src="https://avatars.githubusercontent.com/u/83229268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EST-NIGER"><b>EST-NIGER</b></a><br><sub>&#64;EST-NIGER</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>quartier plateau rue des grandes école, Niamey-…</sub></td>
+</tr>
+<tr>
+<td align="right">352</td>
 <td><a href="https://github.com/Extremeinterpol"><img src="https://avatars.githubusercontent.com/u/171247817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Extremeinterpol"><b>yamato</b></a><br><sub>&#64;Extremeinterpol</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">346</td>
+<td align="right">353</td>
 <td><a href="https://github.com/fluxtionhere"><img src="https://avatars.githubusercontent.com/u/131437428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fluxtionhere"><b>mogged by fluxtion</b></a><br><sub>&#64;fluxtionhere</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>niger</sub></td>
 </tr>
 <tr>
-<td align="right">347</td>
+<td align="right">354</td>
 <td><a href="https://github.com/frrrwwf"><img src="https://avatars.githubusercontent.com/u/210717970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frrrwwf"><b>frrrwwf</b></a><br><sub>&#64;frrrwwf</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>niger</sub></td>
 </tr>
 <tr>
-<td align="right">348</td>
+<td align="right">355</td>
 <td><a href="https://github.com/Galdyt"><img src="https://avatars.githubusercontent.com/u/97748164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Galdyt"><b>Galdyt</b></a><br><sub>&#64;Galdyt</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>niger</sub></td>
 </tr>
 <tr>
-<td align="right">349</td>
+<td align="right">356</td>
 <td><a href="https://github.com/globalmamane-createn"><img src="https://avatars.githubusercontent.com/u/282452665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/globalmamane-createn"><b>mamane</b></a><br><sub>&#64;globalmamane-createn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>niger</sub></td>
 </tr>
 <tr>
-<td align="right">350</td>
+<td align="right">357</td>
+<td><a href="https://github.com/GltHub-Copilot"><img src="https://avatars.githubusercontent.com/u/255080680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GltHub-Copilot"><b>Ada67 🍇master</b></a><br><sub>&#64;GltHub-Copilot</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger, Niamey</sub></td>
+</tr>
+<tr>
+<td align="right">358</td>
 <td><a href="https://github.com/go2ai-technologies"><img src="https://avatars.githubusercontent.com/u/136443101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/go2ai-technologies"><b>Go2ai</b></a><br><sub>&#64;go2ai-technologies</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">351</td>
+<td align="right">359</td>
 <td><a href="https://github.com/gobuster"><img src="https://avatars.githubusercontent.com/u/70701251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gobuster"><b>John Davis</b></a><br><sub>&#64;gobuster</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">352</td>
+<td align="right">360</td>
 <td><a href="https://github.com/haliloumamanekhalid"><img src="https://avatars.githubusercontent.com/u/208348513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haliloumamanekhalid"><b>Khalid</b></a><br><sub>&#64;haliloumamanekhalid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey-Niger</sub></td>
 </tr>
 <tr>
-<td align="right">353</td>
+<td align="right">361</td>
 <td><a href="https://github.com/hygzu"><img src="https://avatars.githubusercontent.com/u/109863642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hygzu"><b>hygzu</b></a><br><sub>&#64;hygzu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">354</td>
+<td align="right">362</td>
 <td><a href="https://github.com/ibrahimniger"><img src="https://avatars.githubusercontent.com/u/151464273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibrahimniger"><b>Leader Ibrahim</b></a><br><sub>&#64;ibrahimniger</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">355</td>
+<td align="right">363</td>
 <td><a href="https://github.com/idrissaSeyniIssoufou"><img src="https://avatars.githubusercontent.com/u/159637933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/idrissaSeyniIssoufou"><b>Idrissa Seyni</b></a><br><sub>&#64;idrissaSeyniIssoufou</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">356</td>
+<td align="right">364</td>
 <td><a href="https://github.com/ilasoltah"><img src="https://avatars.githubusercontent.com/u/25744158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ilasoltah"><b>Samaila</b></a><br><sub>&#64;ilasoltah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">357</td>
+<td align="right">365</td>
 <td><a href="https://github.com/ionletitgo-alt"><img src="https://avatars.githubusercontent.com/u/229847123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ionletitgo-alt"><b>Invisible</b></a><br><sub>&#64;ionletitgo-alt</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">358</td>
+<td align="right">366</td>
+<td><a href="https://github.com/iremdey"><img src="https://avatars.githubusercontent.com/u/152192301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iremdey"><b>ibrahim issoufou dosso</b></a><br><sub>&#64;iremdey</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niamey/Niger</sub></td>
+</tr>
+<tr>
+<td align="right">367</td>
 <td><a href="https://github.com/IsmailISSAKarimou"><img src="https://avatars.githubusercontent.com/u/194847107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IsmailISSAKarimou"><b>Ismail ISSA KARIMOU</b></a><br><sub>&#64;IsmailISSAKarimou</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>NIamey - Niger</sub></td>
 </tr>
 <tr>
-<td align="right">359</td>
+<td align="right">368</td>
+<td><a href="https://github.com/issaismael19-byte"><img src="https://avatars.githubusercontent.com/u/242715794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/issaismael19-byte"><b>Ismaël Issa</b></a><br><sub>&#64;issaismael19-byte</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niamey-Niger</sub></td>
+</tr>
+<tr>
+<td align="right">369</td>
 <td><a href="https://github.com/issouf3"><img src="https://avatars.githubusercontent.com/u/61783752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/issouf3"><b>Youssouf</b></a><br><sub>&#64;issouf3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">360</td>
+<td align="right">370</td>
 <td><a href="https://github.com/Issouf667"><img src="https://avatars.githubusercontent.com/u/114653670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Issouf667"><b>Hamada Issouf</b></a><br><sub>&#64;Issouf667</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey-Niger</sub></td>
 </tr>
 <tr>
-<td align="right">361</td>
+<td align="right">371</td>
+<td><a href="https://github.com/jeanslink22-sudo"><img src="https://avatars.githubusercontent.com/u/325690732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeanslink22-sudo"><b>Jeans Link</b></a><br><sub>&#64;jeanslink22-sudo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger</sub></td>
+</tr>
+<tr>
+<td align="right">372</td>
 <td><a href="https://github.com/JuMommy"><img src="https://avatars.githubusercontent.com/u/220538725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JuMommy"><b>Ju</b></a><br><sub>&#64;JuMommy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">362</td>
+<td align="right">373</td>
 <td><a href="https://github.com/Kapacuk666"><img src="https://avatars.githubusercontent.com/u/102885516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kapacuk666"><b>Kapacuk666</b></a><br><sub>&#64;Kapacuk666</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">363</td>
+<td align="right">374</td>
 <td><a href="https://github.com/kasuashop"><img src="https://avatars.githubusercontent.com/u/55345775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kasuashop"><b>KasuaShop</b></a><br><sub>&#64;kasuashop</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">364</td>
+<td align="right">375</td>
 <td><a href="https://github.com/KitfagInc"><img src="https://avatars.githubusercontent.com/u/95076821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KitfagInc"><b>Kitfag Incorporated</b></a><br><sub>&#64;KitfagInc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">365</td>
+<td align="right">376</td>
+<td><a href="https://github.com/mamadoukader"><img src="https://avatars.githubusercontent.com/u/33283384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mamadoukader"><b>mamadoukader</b></a><br><sub>&#64;mamadoukader</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger</sub></td>
+</tr>
+<tr>
+<td align="right">377</td>
 <td><a href="https://github.com/marieBoukari"><img src="https://avatars.githubusercontent.com/u/83655567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marieBoukari"><b>Mariama Ibrahim Boukari</b></a><br><sub>&#64;marieBoukari</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey /Niger</sub></td>
 </tr>
 <tr>
-<td align="right">366</td>
+<td align="right">378</td>
 <td><a href="https://github.com/marlinx001"><img src="https://avatars.githubusercontent.com/u/196959513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marlinx001"><b>Promise</b></a><br><sub>&#64;marlinx001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">367</td>
+<td align="right">379</td>
 <td><a href="https://github.com/miniger"><img src="https://avatars.githubusercontent.com/u/107045718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miniger"><b>Sabiou Aboubacar Aminou</b></a><br><sub>&#64;miniger</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">368</td>
+<td align="right">380</td>
 <td><a href="https://github.com/mkfhassane"><img src="https://avatars.githubusercontent.com/u/256128950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkfhassane"><b>Issa Maikarfi Hassane</b></a><br><sub>&#64;mkfhassane</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">369</td>
+<td align="right">381</td>
 <td><a href="https://github.com/MOHAMED-cmd-p"><img src="https://avatars.githubusercontent.com/u/193279871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MOHAMED-cmd-p"><b>MOHAMED HAMID</b></a><br><sub>&#64;MOHAMED-cmd-p</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">370</td>
+<td align="right">382</td>
 <td><a href="https://github.com/Moussa-A23"><img src="https://avatars.githubusercontent.com/u/231633304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Moussa-A23"><b>Assoumane Mamane Boubacar</b></a><br><sub>&#64;Moussa-A23</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">371</td>
+<td align="right">383</td>
 <td><a href="https://github.com/nameiwa"><img src="https://avatars.githubusercontent.com/u/141746480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nameiwa"><b>nameiwa</b></a><br><sub>&#64;nameiwa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>niamey-niger</sub></td>
 </tr>
 <tr>
-<td align="right">372</td>
+<td align="right">384</td>
+<td><a href="https://github.com/Nigerdeveloper"><img src="https://avatars.githubusercontent.com/u/28890276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nigerdeveloper"><b>Nigerdeveloper</b></a><br><sub>&#64;Nigerdeveloper</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niamey/Niger</sub></td>
+</tr>
+<tr>
+<td align="right">385</td>
 <td><a href="https://github.com/opperkht-jpg"><img src="https://avatars.githubusercontent.com/u/239886545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/opperkht-jpg"><b>opperKHT</b></a><br><sub>&#64;opperkht-jpg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>niger</sub></td>
 </tr>
 <tr>
-<td align="right">373</td>
+<td align="right">386</td>
 <td><a href="https://github.com/oumaroumahamadou"><img src="https://avatars.githubusercontent.com/u/69687445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oumaroumahamadou"><b>Mahamadou Oumarou</b></a><br><sub>&#64;oumaroumahamadou</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niamey-Niger</sub></td>
 </tr>
 <tr>
-<td align="right">374</td>
+<td align="right">387</td>
 <td><a href="https://github.com/oussamabacar"><img src="https://avatars.githubusercontent.com/u/202055598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oussamabacar"><b>Oussamabacar</b></a><br><sub>&#64;oussamabacar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>NIGER AGADEZ</sub></td>
 </tr>
 <tr>
-<td align="right">375</td>
+<td align="right">388</td>
 <td><a href="https://github.com/rachidngade"><img src="https://avatars.githubusercontent.com/u/12531151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rachidngade"><b>Rachid Amadou N&#39;gadé</b></a><br><sub>&#64;rachidngade</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>NIGER</sub></td>
 </tr>
 <tr>
-<td align="right">376</td>
+<td align="right">389</td>
 <td><a href="https://github.com/Radakal"><img src="https://avatars.githubusercontent.com/u/103636768?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Radakal"><b>Ramatou Adakal</b></a><br><sub>&#64;Radakal</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Maradi Niger</sub></td>
 </tr>
 <tr>
-<td align="right">377</td>
+<td align="right">390</td>
 <td><a href="https://github.com/REVERSIOPIDORASIO"><img src="https://avatars.githubusercontent.com/u/234191370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/REVERSIOPIDORASIO"><b>REVERSIOPIDORASIO</b></a><br><sub>&#64;REVERSIOPIDORASIO</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>G496+MQM, Niamey, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">378</td>
+<td align="right">391</td>
 <td><a href="https://github.com/sacha-maintenance-preventive"><img src="https://avatars.githubusercontent.com/u/314041820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sacha-maintenance-preventive"><b>Salmane Alzouma Chaïbou</b></a><br><sub>&#64;sacha-maintenance-preventive</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">379</td>
+<td align="right">392</td>
 <td><a href="https://github.com/saidordi3"><img src="https://avatars.githubusercontent.com/u/234156445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saidordi3"><b>lepirate sahad</b></a><br><sub>&#64;saidordi3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">380</td>
+<td align="right">393</td>
 <td><a href="https://github.com/ShinyLO"><img src="https://avatars.githubusercontent.com/u/140859647?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShinyLO"><b>Shiny</b></a><br><sub>&#64;ShinyLO</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>niger</sub></td>
 </tr>
 <tr>
-<td align="right">381</td>
+<td align="right">394</td>
+<td><a href="https://github.com/snigersaurus"><img src="https://avatars.githubusercontent.com/u/312106251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/snigersaurus"><b>Niger Saurus.</b></a><br><sub>&#64;snigersaurus</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger</sub></td>
+</tr>
+<tr>
+<td align="right">395</td>
 <td><a href="https://github.com/souleymanemarwana8-blip"><img src="https://avatars.githubusercontent.com/u/247870299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/souleymanemarwana8-blip"><b>MARWANA HAISSOU SOULEYMANE</b></a><br><sub>&#64;souleymanemarwana8-blip</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">382</td>
+<td align="right">396</td>
 <td><a href="https://github.com/soum-aila"><img src="https://avatars.githubusercontent.com/u/123458751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soum-aila"><b>Ibrahim Halidou Soumaila</b></a><br><sub>&#64;soum-aila</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger / Niamey</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">397</td>
 <td><a href="https://github.com/Soumay23"><img src="https://avatars.githubusercontent.com/u/126006023?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Soumay23"><b>El hadji Ari Mamane</b></a><br><sub>&#64;Soumay23</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Diffa/Niger contry</sub></td>
 </tr>
 <tr>
-<td align="right">384</td>
+<td align="right">398</td>
 <td><a href="https://github.com/SpookDevelopment"><img src="https://avatars.githubusercontent.com/u/59127931?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SpookDevelopment"><b>Spook Development</b></a><br><sub>&#64;SpookDevelopment</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">385</td>
+<td align="right">399</td>
+<td><a href="https://github.com/szcverbatvs"><img src="https://avatars.githubusercontent.com/u/207243740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/szcverbatvs"><b>sprite</b></a><br><sub>&#64;szcverbatvs</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger</sub></td>
+</tr>
+<tr>
+<td align="right">400</td>
+<td><a href="https://github.com/tchabe"><img src="https://avatars.githubusercontent.com/u/35776317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tchabe"><b>Abdourahamane YACOUBA</b></a><br><sub>&#64;tchabe</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger</sub></td>
+</tr>
+<tr>
+<td align="right">401</td>
 <td><a href="https://github.com/vault8166demo"><img src="https://avatars.githubusercontent.com/u/125231382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vault8166demo"><b>Vault 8166 Demo</b></a><br><sub>&#64;vault8166demo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger</sub></td>
 </tr>
 <tr>
-<td align="right">386</td>
+<td align="right">402</td>
+<td><a href="https://github.com/yacoubasouley9766"><img src="https://avatars.githubusercontent.com/u/218233100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yacoubasouley9766"><b>YACOUBA SOULEY</b></a><br><sub>&#64;yacoubasouley9766</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Niger</sub></td>
+</tr>
+<tr>
+<td align="right">403</td>
 <td><a href="https://github.com/Yssou"><img src="https://avatars.githubusercontent.com/u/99196511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yssou"><b>Salifououmarou Youssoufa</b></a><br><sub>&#64;Yssou</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger/Niamey</sub></td>
 </tr>
 <tr>
-<td align="right">387</td>
+<td align="right">404</td>
 <td><a href="https://github.com/zakariahamanih-zhh"><img src="https://avatars.githubusercontent.com/u/316168134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zakariahamanih-zhh"><b>Zakaria Hamani</b></a><br><sub>&#64;zakariahamanih-zhh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>niamey,niger</sub></td>
 </tr>
 <tr>
-<td align="right">388</td>
+<td align="right">405</td>
 <td><a href="https://github.com/Zosh1337"><img src="https://avatars.githubusercontent.com/u/152674414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zosh1337"><b>Zosh</b></a><br><sub>&#64;Zosh1337</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -2745,8 +2864,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 388 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 65 in round 1.
+- Organizations are excluded. 405 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 1 of 65 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

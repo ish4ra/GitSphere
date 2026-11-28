@@ -171,7 +171,7 @@
 <tr>
 <td align="right">22</td>
 <td><a href="https://github.com/aameralduais"><img src="https://avatars.githubusercontent.com/u/1178705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aameralduais"><b>Aamer Alduais</b></a><br><sub>&#64;aameralduais</sub></td>
-<td align="right"><b>157</b></td>
+<td align="right"><b>155</b></td>
 <td align="right">89</td>
 <td><sub>Sana&#39;a, Yemen</sub></td>
 </tr>
@@ -205,38 +205,38 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><a href="https://github.com/halqupati"><img src="https://avatars.githubusercontent.com/u/48286288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halqupati"><b>Hussien&#95;Alqupati</b></a><br><sub>&#64;halqupati</sub></td>
-<td align="right"><b>111</b></td>
-<td align="right">44</td>
-<td><sub>Sana&#39;a-Yemen</sub></td>
-</tr>
-<tr>
-<td align="right">28</td>
 <td><a href="https://github.com/AladdinAlhazmi"><img src="https://avatars.githubusercontent.com/u/53558716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AladdinAlhazmi"><b>Aladdin Alhazmi</b></a><br><sub>&#64;AladdinAlhazmi</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">19</td>
 <td><sub>Yemen</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">28</td>
 <td><a href="https://github.com/akramghaleb"><img src="https://avatars.githubusercontent.com/u/46090581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akramghaleb"><b>Akram Ghaleb</b></a><br><sub>&#64;akramghaleb</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">223</td>
 <td><sub>Yemen</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
-<td><a href="https://github.com/MXD-K1"><img src="https://avatars.githubusercontent.com/u/185599708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MXD-K1"><b>Mohammed Al-Shugaa</b></a><br><sub>&#64;MXD-K1</sub></td>
-<td align="right"><b>106</b></td>
-<td align="right">11</td>
-<td><sub>Yemen, Sana&#39;a</sub></td>
+<td align="right">29</td>
+<td><a href="https://github.com/halqupati"><img src="https://avatars.githubusercontent.com/u/48286288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halqupati"><b>Hussien&#95;Alqupati</b></a><br><sub>&#64;halqupati</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">44</td>
+<td><sub>Sana&#39;a-Yemen</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">30</td>
 <td><a href="https://github.com/Osama-Alathwari"><img src="https://avatars.githubusercontent.com/u/102828046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Osama-Alathwari"><b>Osama Alathwari</b></a><br><sub>&#64;Osama-Alathwari</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">16</td>
 <td><sub>Yemen</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/MXD-K1"><img src="https://avatars.githubusercontent.com/u/185599708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MXD-K1"><b>Mohammed Al-Shugaa</b></a><br><sub>&#64;MXD-K1</sub></td>
+<td align="right"><b>102</b></td>
+<td align="right">11</td>
+<td><sub>Yemen, Sana&#39;a</sub></td>
 </tr>
 <tr>
 <td align="right">32</td>
@@ -1495,7 +1495,7 @@
 <td align="right">211</td>
 <td><a href="https://github.com/mf0wzi"><img src="https://avatars.githubusercontent.com/u/30725615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mf0wzi"><b>Mohammed Fowzi</b></a><br><sub>&#64;mf0wzi</sub></td>
 <td align="right"><b>1</b></td>
-<td align="right">73</td>
+<td align="right">72</td>
 <td><sub>Yemen</sub></td>
 </tr>
 <tr>

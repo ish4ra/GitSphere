@@ -3,21 +3,12 @@
 "mode": "repositories",
 "methodologyVersion": "1.0.0",
 "country": {"code":"TK","name":"Tokelau","slug":"tokelau"},
-"status": "stale",
+"status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":8,"ownerExpansionBacklog":10,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":13,"unresolved":0},"exhaustive":false},
-"repositories": [
-  {"rank":1,"id":null,"name":"awise-paulo","nameWithOwner":"awise-dorensbach/awise-paulo","url":"https://github.com/awise-dorensbach/awise-paulo","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-03-12T17:07:22Z","pushedAt":"2024-03-12T17:07:32Z","archived":false,"owner":{"login":"awise-dorensbach","name":"awise-dorensbach","type":"User","url":"https://github.com/awise-dorensbach","location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
-  {"rank":2,"id":null,"name":"Twelve","nameWithOwner":"ayratcpp/Twelve","url":"https://github.com/ayratcpp/Twelve","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-07-20T15:39:43Z","pushedAt":"2025-07-20T15:39:43Z","archived":false,"owner":{"login":"ayratcpp","name":null,"type":"User","url":"https://github.com/ayratcpp","location":"Токелау","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
-  {"rank":3,"id":null,"name":"cccccc","nameWithOwner":"cheguang/cccccc","url":"https://github.com/cheguang/cccccc","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-05-28T01:11:30Z","pushedAt":"2021-05-28T01:11:30Z","archived":false,"owner":{"login":"cheguang","name":"guangche","type":"User","url":"https://github.com/cheguang","location":"7439 ,Kling Track ,North Ken ,Alabama ,Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
-  {"rank":4,"id":null,"name":"dragonkekofmeister","nameWithOwner":"dragonkekofmeister/dragonkekofmeister","url":"https://github.com/dragonkekofmeister/dragonkekofmeister","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-24T22:30:45Z","pushedAt":"2024-09-24T22:30:54Z","archived":false,"owner":{"login":"dragonkekofmeister","name":null,"type":"User","url":"https://github.com/dragonkekofmeister","location":"Tokelau (TK)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
-  {"rank":5,"id":null,"name":"edingdeadasted","nameWithOwner":"edingdeadasted/edingdeadasted","url":"https://github.com/edingdeadasted/edingdeadasted","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-28T00:43:11Z","pushedAt":"2024-09-28T00:43:23Z","archived":false,"owner":{"login":"edingdeadasted","name":null,"type":"User","url":"https://github.com/edingdeadasted","location":"Tokelau (TK)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
-  {"rank":6,"id":null,"name":"Test","nameWithOwner":"Mou-tk/Test","url":"https://github.com/Mou-tk/Test","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-07-16T03:22:59Z","pushedAt":"2025-07-16T03:22:59Z","archived":false,"owner":{"login":"Mou-tk","name":"Mou","type":"User","url":"https://github.com/Mou-tk","location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
-  {"rank":7,"id":null,"name":"busy","nameWithOwner":"ruvverfmb/busy","url":"https://github.com/ruvverfmb/busy","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-10-07T13:37:14Z","pushedAt":"2025-10-07T13:44:39Z","archived":false,"owner":{"login":"ruvverfmb","name":null,"type":"User","url":"https://github.com/ruvverfmb","location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
-  {"rank":8,"id":null,"name":"reverse-geocoding-tiles","nameWithOwner":"spot-work/reverse-geocoding-tiles","url":"https://github.com/spot-work/reverse-geocoding-tiles","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-02-12T09:24:22Z","pushedAt":"2025-02-12T10:36:58Z","archived":false,"owner":{"login":"spot-work","name":"SpotWORK","type":"Organization","url":"https://github.com/spot-work","location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true}
-],
-"contentHash": "8d1f7f54a81fe64b",
-"updatedAt": "2026-11-27T20:39:08.642Z",
-"verifiedOn": "2026-10-24",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":10,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":13,"unresolved":0},"exhaustive":false},
+"repositories": [],
+"contentHash": "b5a51384647fe373",
+"updatedAt": "2026-11-28T12:22:54.128Z",
+"verifiedOn": null,
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

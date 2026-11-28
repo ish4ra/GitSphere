@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **68** | 25 Nov 2026 | <a href="../data/NG.json">JSON</a> |
+| 🟡 Provisional | **71** | 25 Nov 2026 | <a href="../data/NG.json">JSON</a> |
 
 </div>
 
@@ -254,16 +254,16 @@
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/ayoisaiah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ayoisaiah/focus"><b>ayoisaiah/focus</b></a><br><sub>A fully featured productivity timer for the command line, based on the Pomodoro Technique. Supports Linux, Windows, and…</sub></td>
-<td align="right"><b>582</b></td>
-<td align="right">37</td>
+<td><img src="https://github.com/thecodearcher.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thecodearcher/limen"><b>thecodearcher/limen</b></a><br><sub>Modern, composable authentication for Go</sub></td>
+<td align="right"><b>584</b></td>
+<td align="right">29</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td><img src="https://github.com/thecodearcher.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thecodearcher/limen"><b>thecodearcher/limen</b></a><br><sub>Modern, composable authentication for Go</sub></td>
-<td align="right"><b>577</b></td>
-<td align="right">28</td>
+<td><img src="https://github.com/ayoisaiah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ayoisaiah/focus"><b>ayoisaiah/focus</b></a><br><sub>A fully featured productivity timer for the command line, based on the Pomodoro Technique. Supports Linux, Windows, and…</sub></td>
+<td align="right"><b>582</b></td>
+<td align="right">37</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -497,6 +497,27 @@
 <td align="right">101</td>
 <td>PHP</td>
 </tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/Xor-el.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Xor-el/CryptoLib4Pascal"><b>Xor-el/CryptoLib4Pascal</b></a><br><sub>Crypto for Modern Object Pascal</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">78</td>
+<td>Pascal</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/stephenjude.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stephenjude/laravel-wallet"><b>stephenjude/laravel-wallet</b></a><br><sub>A simple wallet implementation for Laravel.</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">24</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/omnirexflora-labs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/omnirexflora-labs/omnicoreagent"><b>omnirexflora-labs/omnicoreagent</b></a><br><sub>An agent runtime for Python. Give your agent real work. Keep control: every action checked before it runs, every run su…</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">58</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -505,8 +526,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 272 stars; 68 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 254 stars; 71 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

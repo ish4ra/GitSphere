@@ -5,12 +5,12 @@
 "country": {"code":"PF","name":"French Polynesia","slug":"french-polynesia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":673,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":82,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":55,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":673,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":81,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":55,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxODQwNzc4Njg=","name":"spring-addons","nameWithOwner":"ch4mpy/spring-addons","url":"https://github.com/ch4mpy/spring-addons","description":"OAuth2 / OIDC for Spring backends of SPAs and mobile apps: the Spring Security beans the official starters leave to you (authorities, CORS, 2xx/401 for fetch,…","stars":673,"forks":98,"primaryLanguage":"Java","license":{"spdxId":"Apache-2.0"},"createdAt":"2019-04-29T13:37:17Z","pushedAt":"2026-11-23T16:09:02Z","archived":false,"owner":{"login":"ch4mpy","name":"Jérôme Wacongne","type":"User","url":"https://github.com/ch4mpy","location":"Papeete, French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "8182aeb7b97ae99a",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "4e90834a7510401b",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-28",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

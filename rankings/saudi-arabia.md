@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **55** | 25 Nov 2026 | <a href="../data/SA.json">JSON</a> |
+| 🟡 Provisional | **59** | 25 Nov 2026 | <a href="../data/SA.json">JSON</a> |
 
 </div>
 
@@ -406,6 +406,34 @@
 <td align="right">132</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/Abdulrah33m.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdulrah33m/Cl0neMast3r"><b>Abdulrah33m/Cl0neMast3r</b></a><br><sub>Git all your favorite tools in one click</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">103</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/alhazmy13.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alhazmy13/MediaPicker"><b>alhazmy13/MediaPicker</b></a> <sub>archived</sub><br><sub>Media Picker is an Android Libary that lets you to select multiple images or video</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">84</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/WindVChen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WindVChen/DiffAttack"><b>WindVChen/DiffAttack</b></a><br><sub>An unrestricted attack based on diffusion models that can achieve both good transferability and imperceptibility.</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">21</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/rn0x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rn0x/Quran-Data"><b>rn0x/Quran-Data</b></a><br><sub>يوفر المشروع قواعد البيانات للقرآن الكريم بصيغ متعددة مثل JSON و CSV و SQLite، ويشمل أيضًا واجهة برمجة تطبيقات (API) لع…</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">51</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -414,8 +442,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 274 stars; 55 attributed candidates are tracked.
-- 95 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 252 stars; 59 attributed candidates are tracked.
+- 94 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

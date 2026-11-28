@@ -5,7 +5,7 @@
 "country": {"code":"MP","name":"Northern Mariana Islands","slug":"northern-mariana-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":26,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":26,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOB3VWLA","login":"donnaada","name":"Donna Ada","url":"https://github.com/donnaada","avatarUrl":"https://avatars.githubusercontent.com/u/125130284?s=80&v=4","followers":27,"publicRepos":55,"location":"Saipan, MP","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjYzOTcxMzE0","login":"stephenalonzo","name":"Stephen Alonzo","url":"https://github.com/stephenalonzo","avatarUrl":"https://avatars.githubusercontent.com/u/63971314?s=80&v=4","followers":14,"publicRepos":30,"location":"Saipan, MP","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22"},
@@ -25,8 +25,8 @@
   {"rank":16,"id":"MDQ6VXNlcjcwMjg2NTEy","login":"Oceania-The-Queen","name":null,"url":"https://github.com/Oceania-The-Queen","avatarUrl":"https://avatars.githubusercontent.com/u/70286512?s=80&v=4","followers":0,"publicRepos":0,"location":"Northern Mariana Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":17,"id":"U_kgDODQ8pxw","login":"SajalKeshari","name":"Sajal Keshari","url":"https://github.com/SajalKeshari","avatarUrl":"https://avatars.githubusercontent.com/u/219097543?s=80&v=4","followers":0,"publicRepos":0,"location":"Northern Mariana Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "020140d12c8d1062",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "ac40af14e20547d6",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

@@ -5,10 +5,10 @@
 "country": {"code":"BT","name":"Bhutan","slug":"bhutan"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":139,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":38,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":138,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":38,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "d14a396289a7191f",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "19c84e3e49cc5a28",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

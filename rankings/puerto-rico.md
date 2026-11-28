@@ -108,8 +108,8 @@
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/Cuperino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cuperino/QPrompt-Teleprompter"><b>Cuperino/QPrompt-Teleprompter</b></a><br><sub>Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth perfor…</sub></td>
-<td align="right"><b>625</b></td>
-<td align="right">62</td>
+<td align="right"><b>627</b></td>
+<td align="right">63</td>
 <td>QML</td>
 </tr>
 <tr>
@@ -247,7 +247,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 292 stars; 31 attributed candidates are tracked.
-- 103 multi-repository owners are queued for expansion.
+- 101 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

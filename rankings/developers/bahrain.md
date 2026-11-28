@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/mufarrah"><img src="https://avatars.githubusercontent.com/u/67714308?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mufarrah"><b>A.Rahman Mufarrah</b></a><br><sub>&#64;mufarrah</sub></td>
-<td align="right"><b>103</b></td>
+<td align="right"><b>102</b></td>
 <td align="right">36</td>
 <td><sub>Bahrain</sub></td>
 </tr>
@@ -277,7 +277,7 @@
 <td align="right">37</td>
 <td><a href="https://github.com/nasoooor29"><img src="https://avatars.githubusercontent.com/u/62251201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nasoooor29"><b>Naser Hussain</b></a><br><sub>&#64;nasoooor29</sub></td>
 <td align="right"><b>20</b></td>
-<td align="right">57</td>
+<td align="right">59</td>
 <td><sub>bahrain</sub></td>
 </tr>
 <tr>

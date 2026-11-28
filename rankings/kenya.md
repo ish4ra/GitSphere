@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **66** | 25 Nov 2026 | <a href="../data/KE.json">JSON</a> |
+| 🟡 Provisional | **70** | 25 Nov 2026 | <a href="../data/KE.json">JSON</a> |
 
 </div>
 
@@ -165,7 +165,7 @@
 <td align="right">21</td>
 <td><img src="https://github.com/jama5262.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jama5262/jiffy"><b>jama5262/jiffy</b></a><br><sub>Jiffy is a Flutter (Android, IOS and Web) date time package for parsing, manipulating, querying and formatting dates</sub></td>
 <td align="right"><b>631</b></td>
-<td align="right">140</td>
+<td align="right">139</td>
 <td>Dart</td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@
 <td align="right">23</td>
 <td><img src="https://github.com/joelkanyi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joelkanyi/FocusBloom"><b>joelkanyi/FocusBloom</b></a><br><sub>A Kotlin Multiplatform app that helps users enhance their productivity and time management skills through focused work…</sub></td>
 <td align="right"><b>588</b></td>
-<td align="right">75</td>
+<td align="right">74</td>
 <td>Kotlin</td>
 </tr>
 <tr>
@@ -483,6 +483,34 @@
 <td align="right">47</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/CODEHOMIE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CODEHOMIE/Flutter-Onboarding-UI-Concept"><b>CODEHOMIE/Flutter-Onboarding-UI-Concept</b></a><br><sub>A conceptual design for on boarding screens for mobile apps. This app provides you with all the information you need to…</sub></td>
+<td align="right"><b>264</b></td>
+<td align="right">50</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/peter-kimanzi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/peter-kimanzi/food-ecommerce"><b>peter-kimanzi/food-ecommerce</b></a><br><sub>a website to sell food products</sub></td>
+<td align="right"><b>264</b></td>
+<td align="right">49</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/MeshackMusundi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MeshackMusundi/SignalChat"><b>MeshackMusundi/SignalChat</b></a><br><sub>WPF-MVVM instant messaging application using SignalR</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">93</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/Dark-Xploit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dark-Xploit/CypherX-Ultra"><b>Dark-Xploit/CypherX-Ultra</b></a><br><sub>Mini Version of CypherX which is very lightweight and has multi-session support</sub></td>
+<td align="right"><b>250</b></td>
+<td align="right">919</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -491,8 +519,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 270 stars; 66 attributed candidates are tracked.
-- 107 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 250 stars; 70 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

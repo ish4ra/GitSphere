@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **73** | 25 Nov 2026 | <a href="../data/GE.json">JSON</a> |
+| 🟡 Provisional | **77** | 25 Nov 2026 | <a href="../data/GE.json">JSON</a> |
 
 </div>
 
@@ -205,23 +205,23 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/themidnightgospel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/themidnightgospel/Imposter"><b>themidnightgospel/Imposter</b></a><br><sub>Mocking library with the perfect balance of Performance and Intuitive API</sub></td>
-<td align="right"><b>650</b></td>
-<td align="right">16</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">28</td>
 <td><img src="https://github.com/watscho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/watscho/express-mongodb-rest-api-boilerplate"><b>watscho/express-mongodb-rest-api-boilerplate</b></a><br><sub>A boilerplate for Node.js apps / Rest API / Authentication from scratch - express, mongodb (mongoose). Typescript</sub></td>
-<td align="right"><b>649</b></td>
+<td align="right"><b>650</b></td>
 <td align="right">87</td>
 <td>TypeScript</td>
 </tr>
 <tr>
+<td align="right">28</td>
+<td><img src="https://github.com/themidnightgospel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/themidnightgospel/Imposter"><b>themidnightgospel/Imposter</b></a><br><sub>Mocking library with the perfect balance of Performance and Intuitive API</sub></td>
+<td align="right"><b>649</b></td>
+<td align="right">16</td>
+<td>C#</td>
+</tr>
+<tr>
 <td align="right">29</td>
 <td><img src="https://github.com/Nikita-Filonov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nikita-Filonov/ai-review"><b>Nikita-Filonov/ai-review</b></a><br><sub>🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built wi…</sub></td>
-<td align="right"><b>614</b></td>
-<td align="right">104</td>
+<td align="right"><b>615</b></td>
+<td align="right">105</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/tornikegomareli.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tornikegomareli/Talkify"><b>tornikegomareli/Talkify</b></a><br><sub>Lightning-fast, free, local first voice dictation for macOS with on-device transcription</sub></td>
-<td align="right"><b>598</b></td>
+<td align="right"><b>599</b></td>
 <td align="right">41</td>
 <td>Swift</td>
 </tr>
@@ -249,7 +249,7 @@
 <td align="right">33</td>
 <td><img src="https://github.com/h-mdm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/h-mdm/hmdm-server"><b>h-mdm/hmdm-server</b></a><br><sub>Mobile Device Management System for Android: web control panel. Manage Android devices, install and update apps, get de…</sub></td>
 <td align="right"><b>573</b></td>
-<td align="right">270</td>
+<td align="right">274</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -532,6 +532,34 @@
 <td align="right">67</td>
 <td>Ruby</td>
 </tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/DimiMikadze.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DimiMikadze/laravel-angular-cms"><b>DimiMikadze/laravel-angular-cms</b></a> <sub>archived</sub><br><sub>CMS built on Laravel, AngularJS and Material Design</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">98</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/ncherepashka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ncherepashka/game-store"><b>ncherepashka/game-store</b></a></td>
+<td align="right"><b>263</b></td>
+<td align="right">37</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/JubaKitiashvili.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JubaKitiashvili/expo-pretext"><b>JubaKitiashvili/expo-pretext</b></a><br><sub>Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashLi…</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">13</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/georgegach.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/georgegach/flowiz"><b>georgegach/flowiz</b></a><br><sub>Converts Optical Flow files to images and optionally compiles them to a video. Flow viewer GUI is also available. Check…</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">31</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -540,8 +568,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 281 stars; 73 attributed candidates are tracked.
-- 126 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 251 stars; 77 attributed candidates are tracked.
+- 124 multi-repository owners are queued for expansion.
 - **Location discovery:** term 9 of 167 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

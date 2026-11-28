@@ -5,12 +5,12 @@
 "country": {"code":"AG","name":"Antigua & Barbuda","slug":"antigua-barbuda"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":572,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":53,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":572,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":52,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
-  {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyNzU4Nzk5NTY=","name":"diktat","nameWithOwner":"saveourtool/diktat","url":"https://github.com/saveourtool/diktat","description":"Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs","stars":572,"forks":40,"primaryLanguage":"Kotlin","license":{"spdxId":"MIT"},"createdAt":"2020-06-29T17:14:54Z","pushedAt":"2026-06-03T09:05:01Z","archived":false,"owner":{"login":"saveourtool","name":"Save Our Tool!","type":"Organization","url":"https://github.com/saveourtool","location":"Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
+  {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyNzU4Nzk5NTY=","name":"diktat","nameWithOwner":"saveourtool/diktat","url":"https://github.com/saveourtool/diktat","description":"Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs","stars":572,"forks":40,"primaryLanguage":"Kotlin","license":{"spdxId":"MIT"},"createdAt":"2020-06-29T17:14:54Z","pushedAt":"2026-06-03T09:05:01Z","archived":false,"owner":{"login":"saveourtool","name":"Save Our Tool!","type":"Organization","url":"https://github.com/saveourtool","location":"Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "6131e6aa5aff6143",
-"updatedAt": "2026-11-27T20:39:08.642Z",
-"verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"contentHash": "0707dc3ee423baff",
+"updatedAt": "2026-11-28T12:22:54.128Z",
+"verifiedOn": "2026-11-28",
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

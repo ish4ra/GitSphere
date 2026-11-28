@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **69** | 25 Nov 2026 | <a href="../data/IS.json">JSON</a> |
+| 🟡 Provisional | **74** | 25 Nov 2026 | <a href="../data/IS.json">JSON</a> |
 
 </div>
 
@@ -504,6 +504,41 @@
 <td align="right">12</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/philcockfield.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/philcockfield/ui-harness"><b>philcockfield/ui-harness</b></a> <sub>archived</sub><br><sub>Create, isolate and test modular UI components in React.</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">10</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/etactica.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/etactica/mqtt-malaria"><b>etactica/mqtt-malaria</b></a><br><sub>Attacking MQTT systems with Mosquittos (scalability and load testing utilities for MQTT environments)</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">56</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/klimeryk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/klimeryk/dealwithit"><b>klimeryk/dealwithit</b></a><br><sub>Fully client-side Deal With It GIF emoji generator.</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">8</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/Jayprecode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jayprecode/country-state-dropdown"><b>Jayprecode/country-state-dropdown</b></a><br><sub>This Component is built with Nextjs, Tailwindcss, Shadcn-ui &amp; Zustand for state management</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">17</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/jh3y.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jh3y/lid-plane"><b>jh3y/lid-plane</b></a><br><sub>Your MacBook has the folding animation at home. A lid-angle-driven progressive blur for macOS.</sub></td>
+<td align="right"><b>250</b></td>
+<td align="right">15</td>
+<td>Swift</td>
+</tr>
 </tbody>
 </table>
 
@@ -512,8 +547,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 270 stars; 69 attributed candidates are tracked.
-- 67 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 250 stars; 74 attributed candidates are tracked.
+- 59 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

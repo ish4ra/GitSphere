@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 25 Nov 2026 | <a href="../data/DO.json">JSON</a> |
+| 🟡 Provisional | **21** | 25 Nov 2026 | <a href="../data/DO.json">JSON</a> |
 
 </div>
 
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/juliourena.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juliourena/SharpNoPSExec"><b>juliourena/SharpNoPSExec</b></a><br><sub>Get file less command execution for lateral movement.</sub></td>
-<td align="right"><b>647</b></td>
+<td align="right"><b>648</b></td>
 <td align="right">92</td>
 <td>C#</td>
 </tr>
@@ -161,6 +161,13 @@
 <td align="right">62</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/lab-cosmo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lab-cosmo/upet"><b>lab-cosmo/upet</b></a><br><sub>Universal machine-learning models for advanced atomistic simulations</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">27</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -169,8 +176,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 276 stars; 20 attributed candidates are tracked.
-- 97 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 253 stars; 21 attributed candidates are tracked.
+- 96 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

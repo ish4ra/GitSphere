@@ -5,10 +5,10 @@
 "country": {"code":"AW","name":"Aruba","slug":"aruba"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":96,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":95,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "a683c01fcb00998b",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "31e47a6c8d698e33",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

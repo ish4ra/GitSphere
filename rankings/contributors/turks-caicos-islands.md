@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 23 Nov 2026 | <a href="../../data/contributors/TC.json">JSON</a> |
+| 🟡 Provisional | **10** | 23 Nov 2026 | <a href="../../data/contributors/TC.json">JSON</a> |
 
 </div>
 
@@ -95,6 +95,24 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/highwavestour"><img src="https://avatars.githubusercontent.com/u/296995902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/highwavestour"><b>High Wave Tours</b></a><br><sub>&#64;highwavestour · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/villatropidero-rental"><img src="https://avatars.githubusercontent.com/u/304621348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/villatropidero-rental"><b>villatropidero</b></a><br><sub>&#64;villatropidero-rental · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -102,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 27 of 32 discovered developers (5 awaiting measurement).
+- **Measured:** 31 of 32 discovered developers (1 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 29 in round 1.

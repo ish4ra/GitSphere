@@ -207,7 +207,7 @@
 <td align="right">27</td>
 <td><a href="https://github.com/ricardochl"><img src="https://avatars.githubusercontent.com/u/35105981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ricardochl"><b>Ricardo Chavarria</b></a><br><sub>&#64;ricardochl</sub></td>
 <td align="right"><b>47</b></td>
-<td align="right">49</td>
+<td align="right">53</td>
 <td><sub>Honduras</sub></td>
 </tr>
 <tr>
@@ -417,7 +417,7 @@
 <td align="right">57</td>
 <td><a href="https://github.com/crywhat7"><img src="https://avatars.githubusercontent.com/u/72893398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crywhat7"><b>MILTON ALEJANDRO BARRIENTOS HERNÁNDEZ</b></a><br><sub>&#64;crywhat7</sub></td>
 <td align="right"><b>4</b></td>
-<td align="right">50</td>
+<td align="right">51</td>
 <td><sub>Honduras</sub></td>
 </tr>
 <tr>
@@ -970,7 +970,7 @@
 <td align="right">136</td>
 <td><a href="https://github.com/jshwelz"><img src="https://avatars.githubusercontent.com/u/2672772?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jshwelz"><b>Joshua Welchez</b></a><br><sub>&#64;jshwelz</sub></td>
 <td align="right"><b>2</b></td>
-<td align="right">49</td>
+<td align="right">50</td>
 <td><sub>Honduras</sub></td>
 </tr>
 <tr>

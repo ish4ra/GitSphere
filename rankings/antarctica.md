@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **45** | 25 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
+| 🟡 Provisional | **48** | 25 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
 
 </div>
 
@@ -336,6 +336,27 @@
 <td align="right">32</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/Washi1337.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Washi1337/Echo"><b>Washi1337/Echo</b></a><br><sub>Generic static analysis framework.</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">39</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/TheProjectLumina.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheProjectLumina/LuminaClient"><b>TheProjectLumina/LuminaClient</b></a><br><sub>Lumina Client For Android With Cross Platform Proxy Support</sub></td>
+<td align="right"><b>262</b></td>
+<td align="right">75</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/boxkit"><b>ublue-os/boxkit</b></a><br><sub>Build your own custom OCI distrobox container</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">105</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -344,7 +365,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 276 stars; 45 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 254 stars; 48 attributed candidates are tracked.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

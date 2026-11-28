@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 25 Nov 2026 | <a href="../data/JO.json">JSON</a> |
+| 🟡 Provisional | **24** | 25 Nov 2026 | <a href="../data/JO.json">JSON</a> |
 
 </div>
 
@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/NSAntoine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NSAntoine/Santander"><b>NSAntoine/Santander</b></a><br><sub>Unsandboxed File System manager for iOS devices</sub></td>
-<td align="right"><b>573</b></td>
+<td align="right"><b>572</b></td>
 <td align="right">187</td>
 <td>Swift</td>
 </tr>
@@ -175,6 +175,20 @@
 <td align="right">236</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/YahyaOdeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YahyaOdeh/HealthWatcher"><b>YahyaOdeh/HealthWatcher</b></a><br><sub>Android Application that can estimate Heart rate, Blood pressure, Respiration rate and Oxygen rate from only the camera…</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">117</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/zrashwani.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zrashwani/arachnid"><b>zrashwani/arachnid</b></a><br><sub>Crawl all unique internal links found on a given website, and extract SEO related information - supports javascript bas…</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">59</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -183,8 +197,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 276 stars; 22 attributed candidates are tracked.
-- 116 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 254 stars; 24 attributed candidates are tracked.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 106 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

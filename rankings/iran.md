@@ -283,8 +283,8 @@
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/icubaby.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icubaby/SideRail"><b>icubaby/SideRail</b></a><br><sub>Bold control panel for your server, one-click deploy on Railway</sub></td>
-<td align="right"><b>598</b></td>
-<td align="right">1,582</td>
+<td align="right"><b>597</b></td>
+<td align="right">1,586</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -318,7 +318,7 @@
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/matnbaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matnbaz/matnbaz"><b>matnbaz/matnbaz</b></a> <sub>archived</sub><br><sub>Source-code for the &quot;matnbaz&quot; project (Archived)</sub></td>
-<td align="right"><b>573</b></td>
+<td align="right"><b>572</b></td>
 <td align="right">19</td>
 <td>TypeScript</td>
 </tr>

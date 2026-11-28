@@ -331,31 +331,31 @@
 </tr>
 <tr>
 <td align="right">45</td>
-<td><a href="https://github.com/Awambeng"><img src="https://avatars.githubusercontent.com/u/114798938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Awambeng"><b>Awambeng</b></a><br><sub>&#64;Awambeng</sub></td>
-<td align="right"><b>112</b></td>
-<td align="right">75</td>
-<td><sub>West, Cameroon</sub></td>
-</tr>
-<tr>
-<td align="right">46</td>
 <td><a href="https://github.com/kamdjouduplex"><img src="https://avatars.githubusercontent.com/u/7534464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kamdjouduplex"><b>Duplex</b></a><br><sub>&#64;kamdjouduplex</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">145</td>
 <td><sub>Cameroon</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">46</td>
 <td><a href="https://github.com/Starland9"><img src="https://avatars.githubusercontent.com/u/86841267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Starland9"><b>Landry Simo</b></a><br><sub>&#64;Starland9</sub></td>
-<td align="right"><b>107</b></td>
+<td align="right"><b>106</b></td>
 <td align="right">148</td>
 <td><sub>Douala, Cameroon</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">47</td>
 <td><a href="https://github.com/CarlTeclancing"><img src="https://avatars.githubusercontent.com/u/89694441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CarlTeclancing"><b>Yuven Carlson D</b></a><br><sub>&#64;CarlTeclancing</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">179</td>
 <td><sub>Yaounde cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/Awambeng"><img src="https://avatars.githubusercontent.com/u/114798938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Awambeng"><b>Awambeng</b></a><br><sub>&#64;Awambeng</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">76</td>
+<td><sub>West, Cameroon</sub></td>
 </tr>
 <tr>
 <td align="right">49</td>
@@ -387,17 +387,17 @@
 </tr>
 <tr>
 <td align="right">53</td>
-<td><a href="https://github.com/Kimbohlovette"><img src="https://avatars.githubusercontent.com/u/37558983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kimbohlovette"><b>KIMBOH LOVETTE</b></a><br><sub>&#64;Kimbohlovette</sub></td>
-<td align="right"><b>88</b></td>
-<td align="right">71</td>
-<td><sub>Cameroon</sub></td>
-</tr>
-<tr>
-<td align="right">54</td>
 <td><a href="https://github.com/bansikah22"><img src="https://avatars.githubusercontent.com/u/180421787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bansikah22"><b>Noel Bansikah</b></a><br><sub>&#64;bansikah22</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">79</td>
 <td><sub>Bangangte, Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/Kimbohlovette"><img src="https://avatars.githubusercontent.com/u/37558983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kimbohlovette"><b>KIMBOH LOVETTE</b></a><br><sub>&#64;Kimbohlovette</sub></td>
+<td align="right"><b>87</b></td>
+<td align="right">72</td>
+<td><sub>Cameroon</sub></td>
 </tr>
 <tr>
 <td align="right">55</td>
@@ -423,7 +423,7 @@
 <tr>
 <td align="right">58</td>
 <td><a href="https://github.com/MaitreWaff"><img src="https://avatars.githubusercontent.com/u/8455859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MaitreWaff"><b>MaitreWaff</b></a><br><sub>&#64;MaitreWaff</sub></td>
-<td align="right"><b>81</b></td>
+<td align="right"><b>80</b></td>
 <td align="right">72</td>
 <td><sub>Cameroon</sub></td>
 </tr>

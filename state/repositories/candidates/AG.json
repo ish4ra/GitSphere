@@ -3,6 +3,6 @@
 "country": {"code":"AG","name":"Antigua & Barbuda","slug":"antigua-barbuda"},
 "count": 1,
 "repositories": [
-  {"id":"MDEwOlJlcG9zaXRvcnkyNzU4Nzk5NTY=","name":"saveourtool/diktat","stars":572,"forks":40,"language":"Kotlin","license":"MIT","description":"Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs","archived":false,"createdAt":"2020-06-29T17:14:54Z","pushedAt":"2026-06-03T09:05:01Z","owner":{"id":"MDEyOk9yZ2FuaXphdGlvbjg2MzY4NDU5","login":"saveourtool","type":"Organization","name":"Save Our Tool!","location":"Antigua and Barbuda"},"attribution":{"code":"AG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-25T04:24:15.695Z","verifiedAt":"2026-11-25T04:24:15.695Z","cycle":1}
+  {"id":"MDEwOlJlcG9zaXRvcnkyNzU4Nzk5NTY=","name":"saveourtool/diktat","stars":572,"forks":40,"language":"Kotlin","license":"MIT","description":"Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs","archived":false,"createdAt":"2020-06-29T17:14:54Z","pushedAt":"2026-06-03T09:05:01Z","owner":{"id":"MDEyOk9yZ2FuaXphdGlvbjg2MzY4NDU5","login":"saveourtool","type":"Organization","name":"Save Our Tool!","location":"Antigua and Barbuda"},"attribution":{"code":"AG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-28T12:10:50.374Z","verifiedAt":"2026-11-28T12:10:50.374Z","cycle":1,"revalidatedAt":"2026-11-28T12:10:50.374Z"}
 ]
 }

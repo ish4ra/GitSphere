@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 25 Nov 2026 | <a href="../data/AZ.json">JSON</a> |
+| 🟡 Provisional | **17** | 25 Nov 2026 | <a href="../data/AZ.json">JSON</a> |
 
 </div>
 
@@ -126,6 +126,20 @@
 <td align="right">50</td>
 <td>HTML</td>
 </tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/AfigAliyev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AfigAliyev/Cinemax"><b>AfigAliyev/Cinemax</b></a><br><sub>Cinemax is a Movies &amp; TV Shows application for Android.</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">29</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/tislib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tislib/apibrew"><b>tislib/apibrew</b></a><br><sub>APIBrew is Low code software to automate building CRUDs from yaml files</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">8</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -134,8 +148,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 296 stars; 15 attributed candidates are tracked.
-- 123 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 256 stars; 17 attributed candidates are tracked.
+- 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

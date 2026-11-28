@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **892** | 22 Nov 2026 | <a href="../../data/developers/FI.json">JSON</a> |
+| 🟡 Provisional | **926** | 22 Nov 2026 | <a href="../../data/developers/FI.json">JSON</a> |
 
 </div>
 
@@ -283,7 +283,7 @@
 <tr>
 <td align="right">38</td>
 <td><a href="https://github.com/osdnk"><img src="https://avatars.githubusercontent.com/u/25709300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/osdnk"><b>Michał Osadnik</b></a><br><sub>&#64;osdnk</sub></td>
-<td align="right"><b>818</b></td>
+<td align="right"><b>817</b></td>
 <td align="right">179</td>
 <td><sub>Espoo</sub></td>
 </tr>
@@ -381,7 +381,7 @@
 <tr>
 <td align="right">52</td>
 <td><a href="https://github.com/phadej"><img src="https://avatars.githubusercontent.com/u/51087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phadej"><b>Oleg Grenrus</b></a><br><sub>&#64;phadej</sub></td>
-<td align="right"><b>603</b></td>
+<td align="right"><b>602</b></td>
 <td align="right">611</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
@@ -534,17 +534,17 @@
 </tr>
 <tr>
 <td align="right">74</td>
+<td><a href="https://github.com/AmirhosseinAhrari"><img src="https://avatars.githubusercontent.com/u/21006723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmirhosseinAhrari"><b>Amirhossein Ahrari</b></a><br><sub>&#64;AmirhosseinAhrari</sub></td>
+<td align="right"><b>412</b></td>
+<td align="right">4</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
 <td><a href="https://github.com/adhorn"><img src="https://avatars.githubusercontent.com/u/900174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adhorn"><b>Adrian Hornsby</b></a><br><sub>&#64;adhorn</sub></td>
 <td align="right"><b>410</b></td>
 <td align="right">101</td>
 <td><sub>Espoo, Finland</sub></td>
-</tr>
-<tr>
-<td align="right">75</td>
-<td><a href="https://github.com/AmirhosseinAhrari"><img src="https://avatars.githubusercontent.com/u/21006723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmirhosseinAhrari"><b>Amirhossein Ahrari</b></a><br><sub>&#64;AmirhosseinAhrari</sub></td>
-<td align="right"><b>408</b></td>
-<td align="right">4</td>
-<td><sub>Finland</sub></td>
 </tr>
 <tr>
 <td align="right">76</td>
@@ -626,7 +626,7 @@
 <tr>
 <td align="right">87</td>
 <td><a href="https://github.com/raine"><img src="https://avatars.githubusercontent.com/u/11027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raine"><b>Raine Virta</b></a><br><sub>&#64;raine</sub></td>
-<td align="right"><b>347</b></td>
+<td align="right"><b>348</b></td>
 <td align="right">275</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
@@ -647,7 +647,7 @@
 <tr>
 <td align="right">90</td>
 <td><a href="https://github.com/brylie"><img src="https://avatars.githubusercontent.com/u/17307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brylie"><b>Brylie</b></a><br><sub>&#64;brylie</sub></td>
-<td align="right"><b>333</b></td>
+<td align="right"><b>332</b></td>
 <td align="right">177</td>
 <td><sub>Finland</sub></td>
 </tr>
@@ -1486,24 +1486,24 @@
 </tr>
 <tr>
 <td align="right">210</td>
-<td><a href="https://github.com/peholmst"><img src="https://avatars.githubusercontent.com/u/193337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peholmst"><b>Petter Holmström</b></a><br><sub>&#64;peholmst</sub></td>
-<td align="right"><b>179</b></td>
-<td align="right">33</td>
-<td><sub>Turku / Pargas, Finland</sub></td>
-</tr>
-<tr>
-<td align="right">211</td>
 <td><a href="https://github.com/jehna"><img src="https://avatars.githubusercontent.com/u/2676795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jehna"><b>Jesse Luoto</b></a><br><sub>&#64;jehna</sub></td>
 <td align="right"><b>178</b></td>
 <td align="right">121</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">211</td>
 <td><a href="https://github.com/shusso"><img src="https://avatars.githubusercontent.com/u/590002?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shusso"><b>Samuel Husso</b></a><br><sub>&#64;shusso</sub></td>
 <td align="right"><b>178</b></td>
 <td align="right">34</td>
 <td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">212</td>
+<td><a href="https://github.com/peholmst"><img src="https://avatars.githubusercontent.com/u/193337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peholmst"><b>Petter Holmström</b></a><br><sub>&#64;peholmst</sub></td>
+<td align="right"><b>178</b></td>
+<td align="right">33</td>
+<td><sub>Turku / Pargas, Finland</sub></td>
 </tr>
 <tr>
 <td align="right">213</td>
@@ -2522,3744 +2522,3982 @@
 </tr>
 <tr>
 <td align="right">358</td>
+<td><a href="https://github.com/xiaohan2012"><img src="https://avatars.githubusercontent.com/u/789353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiaohan2012"><b>Xiao Han</b></a><br><sub>&#64;xiaohan2012</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">170</td>
+<td><sub>Helsinki, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">359</td>
+<td><a href="https://github.com/hessu"><img src="https://avatars.githubusercontent.com/u/1135075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hessu"><b>Heikki Hannikainen</b></a><br><sub>&#64;hessu</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">99</td>
+<td><sub>Helsinki, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">360</td>
+<td><a href="https://github.com/natj"><img src="https://avatars.githubusercontent.com/u/3612029?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/natj"><b>Joonas Nättilä</b></a><br><sub>&#64;natj</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">43</td>
+<td><sub>Helsinki</sub></td>
+</tr>
+<tr>
+<td align="right">361</td>
+<td><a href="https://github.com/yutkin"><img src="https://avatars.githubusercontent.com/u/2982775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yutkin"><b>Dmitry Yutkin</b></a><br><sub>&#64;yutkin</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">39</td>
+<td><sub>Helsini, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">362</td>
 <td><a href="https://github.com/Joelrau"><img src="https://avatars.githubusercontent.com/u/38787176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Joelrau"><b>quaK</b></a><br><sub>&#64;Joelrau</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">11</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">359</td>
-<td><a href="https://github.com/xiaohan2012"><img src="https://avatars.githubusercontent.com/u/789353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiaohan2012"><b>Xiao Han</b></a><br><sub>&#64;xiaohan2012</sub></td>
-<td align="right"><b>108</b></td>
-<td align="right">0</td>
-<td><sub>Helsinki, Finland</sub></td>
-</tr>
-<tr>
-<td align="right">360</td>
+<td align="right">363</td>
 <td><a href="https://github.com/lautis"><img src="https://avatars.githubusercontent.com/u/19264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lautis"><b>Ville Lautanala</b></a><br><sub>&#64;lautis</sub></td>
 <td align="right"><b>107</b></td>
-<td align="right">0</td>
+<td align="right">138</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">361</td>
-<td><a href="https://github.com/ekelokorpi"><img src="https://avatars.githubusercontent.com/u/1164289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ekelokorpi"><b>Eemeli Kelokorpi</b></a><br><sub>&#64;ekelokorpi</sub></td>
-<td align="right"><b>104</b></td>
-<td align="right">0</td>
+<td align="right">364</td>
+<td><a href="https://github.com/mvirkkunen"><img src="https://avatars.githubusercontent.com/u/1131906?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvirkkunen"><b>Matti Virkkunen</b></a><br><sub>&#64;mvirkkunen</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">88</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">362</td>
+<td align="right">365</td>
+<td><a href="https://github.com/ztane"><img src="https://avatars.githubusercontent.com/u/704200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ztane"><b>Antti Haapala</b></a><br><sub>&#64;ztane</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">74</td>
+<td><sub>Oulu, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">366</td>
+<td><a href="https://github.com/jhedberg"><img src="https://avatars.githubusercontent.com/u/1032570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jhedberg"><b>Johan Hedberg</b></a><br><sub>&#64;jhedberg</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">23</td>
+<td><sub>Helsinki</sub></td>
+</tr>
+<tr>
+<td align="right">367</td>
+<td><a href="https://github.com/jhvst"><img src="https://avatars.githubusercontent.com/u/1684211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jhvst"><b>Juuso Haavisto</b></a><br><sub>&#64;jhvst</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">80</td>
+<td><sub>Oulu, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">368</td>
+<td><a href="https://github.com/thomasdeppisch"><img src="https://avatars.githubusercontent.com/u/18114953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thomasdeppisch"><b>Thomas Deppisch</b></a><br><sub>&#64;thomasdeppisch</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">20</td>
+<td><sub>Espoo, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">369</td>
+<td><a href="https://github.com/asolin"><img src="https://avatars.githubusercontent.com/u/2668346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asolin"><b>Arno Solin</b></a><br><sub>&#64;asolin</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">10</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">370</td>
+<td><a href="https://github.com/miikka"><img src="https://avatars.githubusercontent.com/u/34607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miikka"><b>Miikka Koskinen</b></a><br><sub>&#64;miikka</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">189</td>
+<td><sub>Helsinki, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">371</td>
+<td><a href="https://github.com/elhigu"><img src="https://avatars.githubusercontent.com/u/696345?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elhigu"><b>Mikael Lepistö</b></a><br><sub>&#64;elhigu</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">67</td>
+<td><sub>Tampere</sub></td>
+</tr>
+<tr>
+<td align="right">372</td>
+<td><a href="https://github.com/ekelokorpi"><img src="https://avatars.githubusercontent.com/u/1164289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ekelokorpi"><b>Eemeli Kelokorpi</b></a><br><sub>&#64;ekelokorpi</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">17</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">373</td>
+<td><a href="https://github.com/cheery"><img src="https://avatars.githubusercontent.com/u/1215420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cheery"><b>Henri Tuhola</b></a><br><sub>&#64;cheery</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">140</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">374</td>
+<td><a href="https://github.com/cxcorp"><img src="https://avatars.githubusercontent.com/u/21111572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cxcorp"><b>Joona Heikkilä</b></a><br><sub>&#64;cxcorp</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">130</td>
+<td><sub>Helsinki, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">375</td>
+<td><a href="https://github.com/ahihi"><img src="https://avatars.githubusercontent.com/u/738615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahihi"><b>miranda</b></a><br><sub>&#64;ahihi</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">102</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">376</td>
+<td><a href="https://github.com/kovipu"><img src="https://avatars.githubusercontent.com/u/22123257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kovipu"><b>Konsta Purtsi</b></a><br><sub>&#64;kovipu</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">67</td>
+<td><sub>Turku, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">377</td>
+<td><a href="https://github.com/ryndaniels"><img src="https://avatars.githubusercontent.com/u/397565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ryndaniels"><b>Ryn Daniels</b></a><br><sub>&#64;ryndaniels</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">24</td>
+<td><sub>Helsinki, FI</sub></td>
+</tr>
+<tr>
+<td align="right">378</td>
+<td><a href="https://github.com/kesali"><img src="https://avatars.githubusercontent.com/u/1327988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kesali"><b>Dursunali Keskin</b></a><br><sub>&#64;kesali</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">22</td>
+<td><sub>Helsinki</sub></td>
+</tr>
+<tr>
+<td align="right">379</td>
+<td><a href="https://github.com/esa-kian"><img src="https://avatars.githubusercontent.com/u/19409516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/esa-kian"><b>Esa Kian</b></a><br><sub>&#64;esa-kian</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">216</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">380</td>
+<td><a href="https://github.com/LittleFox94"><img src="https://avatars.githubusercontent.com/u/2444973?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LittleFox94"><b>Mara Sophie Grosch</b></a><br><sub>&#64;LittleFox94</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">71</td>
+<td><sub>Vantaa, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">381</td>
+<td><a href="https://github.com/tornado80"><img src="https://avatars.githubusercontent.com/u/10155290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tornado80"><b>Amir Rajabi</b></a><br><sub>&#64;tornado80</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">32</td>
+<td><sub>Helsinki, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">382</td>
+<td><a href="https://github.com/crl-n"><img src="https://avatars.githubusercontent.com/u/65853349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crl-n"><b>Carl Nysten</b></a><br><sub>&#64;crl-n</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">31</td>
+<td><sub>Helsinki</sub></td>
+</tr>
+<tr>
+<td align="right">383</td>
+<td><a href="https://github.com/varjolintu"><img src="https://avatars.githubusercontent.com/u/24570482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/varjolintu"><b>Sami Vänttinen</b></a><br><sub>&#64;varjolintu</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">16</td>
+<td><sub>Oulu, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">384</td>
+<td><a href="https://github.com/NestoriSyynimaa"><img src="https://avatars.githubusercontent.com/u/31915053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NestoriSyynimaa"><b>Nestori Syynimaa</b></a><br><sub>&#64;NestoriSyynimaa</sub></td>
+<td align="right"><b>102</b></td>
+<td align="right">3</td>
+<td><sub>Tampere, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">385</td>
 <td><a href="https://github.com/kometbomb"><img src="https://avatars.githubusercontent.com/u/1084137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kometbomb"><b>Tero Lindeman</b></a><br><sub>&#64;kometbomb</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">363</td>
+<td align="right">386</td>
 <td><a href="https://github.com/unsound"><img src="https://avatars.githubusercontent.com/u/310440?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unsound"><b>Erik Larsson</b></a><br><sub>&#64;unsound</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">364</td>
+<td align="right">387</td>
 <td><a href="https://github.com/villesau"><img src="https://avatars.githubusercontent.com/u/2647016?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/villesau"><b>Ville Saukkonen</b></a><br><sub>&#64;villesau</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">365</td>
+<td align="right">388</td>
 <td><a href="https://github.com/endor"><img src="https://avatars.githubusercontent.com/u/21019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/endor"><b>Frank Prößdorf</b></a><br><sub>&#64;endor</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">366</td>
+<td align="right">389</td>
 <td><a href="https://github.com/tphakala"><img src="https://avatars.githubusercontent.com/u/7030001?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tphakala"><b>Tomi P. Hakala</b></a><br><sub>&#64;tphakala</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Muurame, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">367</td>
+<td align="right">390</td>
 <td><a href="https://github.com/szabodanika"><img src="https://avatars.githubusercontent.com/u/25702868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/szabodanika"><b>Dániel Szabó</b></a><br><sub>&#64;szabodanika</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">368</td>
+<td align="right">391</td>
 <td><a href="https://github.com/pojala"><img src="https://avatars.githubusercontent.com/u/65348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pojala"><b>Pauli Ojala</b></a><br><sub>&#64;pojala</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">369</td>
+<td align="right">392</td>
 <td><a href="https://github.com/ronivay"><img src="https://avatars.githubusercontent.com/u/28525550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ronivay"><b>Roni Väyrynen</b></a><br><sub>&#64;ronivay</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">0</td>
 <td><sub>Järvenpää, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">370</td>
+<td align="right">393</td>
 <td><a href="https://github.com/tatut"><img src="https://avatars.githubusercontent.com/u/83725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tatut"><b>Tatu Tarvainen</b></a><br><sub>&#64;tatut</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">371</td>
+<td align="right">394</td>
 <td><a href="https://github.com/imcvampire"><img src="https://avatars.githubusercontent.com/u/9426721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imcvampire"><b>Quoc-Anh Nguyen</b></a><br><sub>&#64;imcvampire</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">372</td>
+<td align="right">395</td>
 <td><a href="https://github.com/kasper"><img src="https://avatars.githubusercontent.com/u/925851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kasper"><b>Kasper Hirvikoski</b></a><br><sub>&#64;kasper</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">373</td>
+<td align="right">396</td>
 <td><a href="https://github.com/paazmaya"><img src="https://avatars.githubusercontent.com/u/369881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paazmaya"><b>Juga Paazmaya</b></a><br><sub>&#64;paazmaya</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">374</td>
+<td align="right">397</td>
 <td><a href="https://github.com/sdsykes"><img src="https://avatars.githubusercontent.com/u/32757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sdsykes"><b>Stephen Sykes</b></a><br><sub>&#64;sdsykes</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">375</td>
+<td align="right">398</td>
 <td><a href="https://github.com/jonifreeman"><img src="https://avatars.githubusercontent.com/u/54306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jonifreeman"><b>Joni Freeman</b></a><br><sub>&#64;jonifreeman</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">376</td>
+<td align="right">399</td>
 <td><a href="https://github.com/YIZHUANG"><img src="https://avatars.githubusercontent.com/u/28932103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YIZHUANG"><b>yi</b></a><br><sub>&#64;YIZHUANG</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">377</td>
+<td align="right">400</td>
 <td><a href="https://github.com/Teemu"><img src="https://avatars.githubusercontent.com/u/53298?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Teemu"><b>Teemu</b></a><br><sub>&#64;Teemu</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">378</td>
+<td align="right">401</td>
 <td><a href="https://github.com/DavidDiazGuerra"><img src="https://avatars.githubusercontent.com/u/43950921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DavidDiazGuerra"><b>David Díaz-Guerra Aparicio</b></a><br><sub>&#64;DavidDiazGuerra</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">379</td>
+<td align="right">402</td>
 <td><a href="https://github.com/marzer"><img src="https://avatars.githubusercontent.com/u/3958019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marzer"><b>Mark Gillard</b></a><br><sub>&#64;marzer</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">380</td>
+<td align="right">403</td>
 <td><a href="https://github.com/tomi"><img src="https://avatars.githubusercontent.com/u/10324676?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomi"><b>Tomi Turtiainen</b></a><br><sub>&#64;tomi</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">381</td>
+<td align="right">404</td>
 <td><a href="https://github.com/lasselukkari"><img src="https://avatars.githubusercontent.com/u/1687972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lasselukkari"><b>Lasse Lukkari</b></a><br><sub>&#64;lasselukkari</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">382</td>
+<td align="right">405</td>
 <td><a href="https://github.com/FruitieX"><img src="https://avatars.githubusercontent.com/u/3673134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FruitieX"><b>Rasmus Lövegren</b></a><br><sub>&#64;FruitieX</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">406</td>
 <td><a href="https://github.com/laamaa"><img src="https://avatars.githubusercontent.com/u/5983254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laamaa"><b>Jonne Kokkonen</b></a><br><sub>&#64;laamaa</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Janakkala, FI</sub></td>
 </tr>
 <tr>
-<td align="right">384</td>
+<td align="right">407</td>
 <td><a href="https://github.com/vil"><img src="https://avatars.githubusercontent.com/u/59320967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vil"><b>Vili</b></a><br><sub>&#64;vil</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">385</td>
+<td align="right">408</td>
 <td><a href="https://github.com/Bananymous"><img src="https://avatars.githubusercontent.com/u/68776844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bananymous"><b>Oskari Alaranta</b></a><br><sub>&#64;Bananymous</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">386</td>
+<td align="right">409</td>
 <td><a href="https://github.com/i-tu"><img src="https://avatars.githubusercontent.com/u/2201932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/i-tu"><b>Ian Tuomi</b></a><br><sub>&#64;i-tu</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">387</td>
+<td align="right">410</td>
+<td><a href="https://github.com/fpapado"><img src="https://avatars.githubusercontent.com/u/3210764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fpapado"><b>Fotis Papadogeorgopoulos</b></a><br><sub>&#64;fpapado</sub></td>
+<td align="right"><b>83</b></td>
+<td align="right">0</td>
+<td><sub>Helsinki, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">411</td>
 <td><a href="https://github.com/tmatilai"><img src="https://avatars.githubusercontent.com/u/79116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tmatilai"><b>Teemu Matilainen</b></a><br><sub>&#64;tmatilai</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">388</td>
+<td align="right">412</td>
 <td><a href="https://github.com/Ciantic"><img src="https://avatars.githubusercontent.com/u/64731?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ciantic"><b>Jari Pennanen</b></a><br><sub>&#64;Ciantic</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Finland, Jyväskylä</sub></td>
 </tr>
 <tr>
-<td align="right">389</td>
+<td align="right">413</td>
 <td><a href="https://github.com/mikkokko"><img src="https://avatars.githubusercontent.com/u/12015391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikkokko"><b>Mikko Kokko</b></a><br><sub>&#64;mikkokko</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">390</td>
+<td align="right">414</td>
 <td><a href="https://github.com/rsaarelm"><img src="https://avatars.githubusercontent.com/u/41840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rsaarelm"><b>Risto Saarelma</b></a><br><sub>&#64;rsaarelm</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">391</td>
+<td align="right">415</td>
 <td><a href="https://github.com/eliaskosunen"><img src="https://avatars.githubusercontent.com/u/9979059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eliaskosunen"><b>Elias Kosunen</b></a><br><sub>&#64;eliaskosunen</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Vantaa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">392</td>
+<td align="right">416</td>
+<td><a href="https://github.com/MergHQ"><img src="https://avatars.githubusercontent.com/u/5868954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MergHQ"><b>Hugo Holmqvist</b></a><br><sub>&#64;MergHQ</sub></td>
+<td align="right"><b>80</b></td>
+<td align="right">0</td>
+<td><sub>Helsinki, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">417</td>
 <td><a href="https://github.com/noxdafox"><img src="https://avatars.githubusercontent.com/u/4214888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noxdafox"><b>Matteo Cafasso</b></a><br><sub>&#64;noxdafox</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">393</td>
+<td align="right">418</td>
 <td><a href="https://github.com/bountyyfi"><img src="https://avatars.githubusercontent.com/u/198902004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bountyyfi"><b>Bountyy Oy</b></a><br><sub>&#64;bountyyfi</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Vantaa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">394</td>
+<td align="right">419</td>
 <td><a href="https://github.com/aceisScope"><img src="https://avatars.githubusercontent.com/u/1046686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aceisScope"><b>Binghui Liu</b></a><br><sub>&#64;aceisScope</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">395</td>
+<td align="right">420</td>
 <td><a href="https://github.com/jaukia"><img src="https://avatars.githubusercontent.com/u/270490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaukia"><b>Janne Aukia</b></a><br><sub>&#64;jaukia</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">396</td>
+<td align="right">421</td>
 <td><a href="https://github.com/hawku"><img src="https://avatars.githubusercontent.com/u/387502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hawku"><b>Mikko Jaakkola</b></a><br><sub>&#64;hawku</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Kuopio, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">397</td>
+<td align="right">422</td>
 <td><a href="https://github.com/axelpale"><img src="https://avatars.githubusercontent.com/u/992081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/axelpale"><b>Akseli Palén</b></a><br><sub>&#64;axelpale</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Tampere</sub></td>
 </tr>
 <tr>
-<td align="right">398</td>
+<td align="right">423</td>
 <td><a href="https://github.com/CoderGamester"><img src="https://avatars.githubusercontent.com/u/6152746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CoderGamester"><b>Miguel Tomas</b></a><br><sub>&#64;CoderGamester</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">399</td>
+<td align="right">424</td>
 <td><a href="https://github.com/jaantollander"><img src="https://avatars.githubusercontent.com/u/11181985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaantollander"><b>Jaan Tollander de Balsch</b></a><br><sub>&#64;jaantollander</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">400</td>
+<td align="right">425</td>
 <td><a href="https://github.com/mpeltonen"><img src="https://avatars.githubusercontent.com/u/68196?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpeltonen"><b>Mikko Peltonen</b></a><br><sub>&#64;mpeltonen</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">401</td>
+<td align="right">426</td>
 <td><a href="https://github.com/vhakulinen"><img src="https://avatars.githubusercontent.com/u/4594126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vhakulinen"><b>Ville Hakulinen</b></a><br><sub>&#64;vhakulinen</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">402</td>
+<td align="right">427</td>
 <td><a href="https://github.com/mikoskinen"><img src="https://avatars.githubusercontent.com/u/143570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikoskinen"><b>Mikael Koskinen</b></a><br><sub>&#64;mikoskinen</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">403</td>
+<td align="right">428</td>
 <td><a href="https://github.com/mpastell"><img src="https://avatars.githubusercontent.com/u/430863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpastell"><b>Matti Pastell</b></a><br><sub>&#64;mpastell</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">404</td>
+<td align="right">429</td>
 <td><a href="https://github.com/SamiPerttu"><img src="https://avatars.githubusercontent.com/u/16256430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SamiPerttu"><b>Sami Perttu</b></a><br><sub>&#64;SamiPerttu</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">405</td>
+<td align="right">430</td>
 <td><a href="https://github.com/epiphone"><img src="https://avatars.githubusercontent.com/u/1923531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/epiphone"><b>Aleksi Pekkala</b></a><br><sub>&#64;epiphone</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">406</td>
+<td align="right">431</td>
 <td><a href="https://github.com/jarvis394"><img src="https://avatars.githubusercontent.com/u/37776763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jarvis394"><b>Vladislav Ekushev</b></a><br><sub>&#64;jarvis394</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">407</td>
+<td align="right">432</td>
 <td><a href="https://github.com/MickGyver"><img src="https://avatars.githubusercontent.com/u/8739202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MickGyver"><b>MickGyver</b></a><br><sub>&#64;MickGyver</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">408</td>
+<td align="right">433</td>
 <td><a href="https://github.com/aleksilassila"><img src="https://avatars.githubusercontent.com/u/25369243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aleksilassila"><b>Aleksi Lassila</b></a><br><sub>&#64;aleksilassila</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">409</td>
+<td align="right">434</td>
 <td><a href="https://github.com/juzzlin"><img src="https://avatars.githubusercontent.com/u/2587783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juzzlin"><b>Jussi Lind</b></a><br><sub>&#64;juzzlin</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">410</td>
+<td align="right">435</td>
+<td><a href="https://github.com/amoilanen"><img src="https://avatars.githubusercontent.com/u/709180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amoilanen"><b>Anton Moilanen</b></a><br><sub>&#64;amoilanen</sub></td>
+<td align="right"><b>70</b></td>
+<td align="right">0</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">436</td>
 <td><a href="https://github.com/Eldemarkki"><img src="https://avatars.githubusercontent.com/u/38920928?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eldemarkki"><b>Eetu Mäenpää</b></a><br><sub>&#64;Eldemarkki</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">411</td>
+<td align="right">437</td>
 <td><a href="https://github.com/Matoking"><img src="https://avatars.githubusercontent.com/u/959667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Matoking"><b>Janne Pulkkinen</b></a><br><sub>&#64;Matoking</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">412</td>
+<td align="right">438</td>
 <td><a href="https://github.com/tomgilder"><img src="https://avatars.githubusercontent.com/u/756862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomgilder"><b>Tom Gilder</b></a><br><sub>&#64;tomgilder</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">413</td>
+<td align="right">439</td>
 <td><a href="https://github.com/jamestthompson3"><img src="https://avatars.githubusercontent.com/u/19915504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamestthompson3"><b>jamestthompson3</b></a><br><sub>&#64;jamestthompson3</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">414</td>
+<td align="right">440</td>
 <td><a href="https://github.com/LaihoE"><img src="https://avatars.githubusercontent.com/u/80683769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LaihoE"><b>LaihoE</b></a><br><sub>&#64;LaihoE</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">415</td>
+<td align="right">441</td>
 <td><a href="https://github.com/mikehodz"><img src="https://avatars.githubusercontent.com/u/5001455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikehodz"><b>Mike H</b></a><br><sub>&#64;mikehodz</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">416</td>
+<td align="right">442</td>
 <td><a href="https://github.com/Squalius-cephalus"><img src="https://avatars.githubusercontent.com/u/80631232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Squalius-cephalus"><b>Juho T.</b></a><br><sub>&#64;Squalius-cephalus</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Turku</sub></td>
 </tr>
 <tr>
-<td align="right">417</td>
+<td align="right">443</td>
+<td><a href="https://github.com/villeristi"><img src="https://avatars.githubusercontent.com/u/2413192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/villeristi"><b>Ville R.</b></a><br><sub>&#64;villeristi</sub></td>
+<td align="right"><b>68</b></td>
+<td align="right">0</td>
+<td><sub>Tampere</sub></td>
+</tr>
+<tr>
+<td align="right">444</td>
 <td><a href="https://github.com/linuswillner"><img src="https://avatars.githubusercontent.com/u/18148938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/linuswillner"><b>Linus Willner</b></a><br><sub>&#64;linuswillner</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">418</td>
+<td align="right">445</td>
 <td><a href="https://github.com/tksuoran"><img src="https://avatars.githubusercontent.com/u/994606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tksuoran"><b>Timo Suoranta</b></a><br><sub>&#64;tksuoran</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">419</td>
+<td align="right">446</td>
 <td><a href="https://github.com/ali-rantakari"><img src="https://avatars.githubusercontent.com/u/89539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ali-rantakari"><b>Ali Rantakari</b></a><br><sub>&#64;ali-rantakari</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">420</td>
+<td align="right">447</td>
 <td><a href="https://github.com/hhyyrylainen"><img src="https://avatars.githubusercontent.com/u/3796411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hhyyrylainen"><b>Henri Hyyryläinen</b></a><br><sub>&#64;hhyyrylainen</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">421</td>
+<td align="right">448</td>
 <td><a href="https://github.com/ToniA"><img src="https://avatars.githubusercontent.com/u/2128464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ToniA"><b>Toni</b></a><br><sub>&#64;ToniA</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Kaarina, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">422</td>
+<td align="right">449</td>
 <td><a href="https://github.com/UniversalToolCompiler"><img src="https://avatars.githubusercontent.com/u/35923850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UniversalToolCompiler"><b>Corentin Demougeot</b></a><br><sub>&#64;UniversalToolCompiler</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">423</td>
+<td align="right">450</td>
 <td><a href="https://github.com/erikjuhani"><img src="https://avatars.githubusercontent.com/u/15418377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erikjuhani"><b>Erik Kinnunen</b></a><br><sub>&#64;erikjuhani</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">424</td>
+<td align="right">451</td>
 <td><a href="https://github.com/skeskinen"><img src="https://avatars.githubusercontent.com/u/908332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skeskinen"><b>Santtu Keskinen</b></a><br><sub>&#64;skeskinen</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">425</td>
+<td align="right">452</td>
 <td><a href="https://github.com/tungvoduc"><img src="https://avatars.githubusercontent.com/u/6437873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tungvoduc"><b>Tung Vo</b></a><br><sub>&#64;tungvoduc</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">426</td>
+<td align="right">453</td>
 <td><a href="https://github.com/aajanki"><img src="https://avatars.githubusercontent.com/u/353043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aajanki"><b>Antti Ajanki</b></a><br><sub>&#64;aajanki</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">427</td>
+<td align="right">454</td>
 <td><a href="https://github.com/christophgysin"><img src="https://avatars.githubusercontent.com/u/527924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/christophgysin"><b>Christoph Gysin</b></a><br><sub>&#64;christophgysin</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">428</td>
+<td align="right">455</td>
 <td><a href="https://github.com/vergoh"><img src="https://avatars.githubusercontent.com/u/4665189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vergoh"><b>Teemu Toivola</b></a><br><sub>&#64;vergoh</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">429</td>
+<td align="right">456</td>
 <td><a href="https://github.com/pavdmyt"><img src="https://avatars.githubusercontent.com/u/10200820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pavdmyt"><b>Pavel Dmytrenko</b></a><br><sub>&#64;pavdmyt</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">430</td>
+<td align="right">457</td>
 <td><a href="https://github.com/ttalvitie"><img src="https://avatars.githubusercontent.com/u/2422716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ttalvitie"><b>Topi Talvitie</b></a><br><sub>&#64;ttalvitie</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">431</td>
+<td align="right">458</td>
 <td><a href="https://github.com/ttu"><img src="https://avatars.githubusercontent.com/u/589786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ttu"><b>Tomi Tuhkanen</b></a><br><sub>&#64;ttu</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">432</td>
+<td align="right">459</td>
 <td><a href="https://github.com/Uninen"><img src="https://avatars.githubusercontent.com/u/43100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Uninen"><b>Ville Säävuori</b></a><br><sub>&#64;Uninen</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Turku, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">433</td>
+<td align="right">460</td>
 <td><a href="https://github.com/edwinsamar"><img src="https://avatars.githubusercontent.com/u/3524061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edwinsamar"><b>Edwin Samar</b></a><br><sub>&#64;edwinsamar</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">434</td>
+<td align="right">461</td>
 <td><a href="https://github.com/emillaine"><img src="https://avatars.githubusercontent.com/u/7543552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emillaine"><b>Emil Laine</b></a><br><sub>&#64;emillaine</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">435</td>
+<td align="right">462</td>
 <td><a href="https://github.com/samiheikki"><img src="https://avatars.githubusercontent.com/u/8615573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samiheikki"><b>Sami Suo-Heikki</b></a><br><sub>&#64;samiheikki</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>Turku, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">436</td>
+<td align="right">463</td>
 <td><a href="https://github.com/vsariola"><img src="https://avatars.githubusercontent.com/u/5684185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vsariola"><b>Veikko Sariola</b></a><br><sub>&#64;vsariola</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">437</td>
+<td align="right">464</td>
 <td><a href="https://github.com/jpvanhal"><img src="https://avatars.githubusercontent.com/u/250983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jpvanhal"><b>Janne Vanhala</b></a><br><sub>&#64;jpvanhal</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">438</td>
+<td align="right">465</td>
 <td><a href="https://github.com/pixelsign"><img src="https://avatars.githubusercontent.com/u/1482533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pixelsign"><b>Angelos Arnis</b></a><br><sub>&#64;pixelsign</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">439</td>
+<td align="right">466</td>
 <td><a href="https://github.com/sam-hosseini"><img src="https://avatars.githubusercontent.com/u/6043781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sam-hosseini"><b>Sam Hosseini</b></a><br><sub>&#64;sam-hosseini</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">440</td>
+<td align="right">467</td>
 <td><a href="https://github.com/scoopr"><img src="https://avatars.githubusercontent.com/u/3896?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scoopr"><b>Mikko Lehtonen</b></a><br><sub>&#64;scoopr</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Vantaa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">441</td>
+<td align="right">468</td>
 <td><a href="https://github.com/nevalla"><img src="https://avatars.githubusercontent.com/u/455844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nevalla"><b>Lauri Nevala</b></a><br><sub>&#64;nevalla</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">442</td>
+<td align="right">469</td>
 <td><a href="https://github.com/orbitbot"><img src="https://avatars.githubusercontent.com/u/2631164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orbitbot"><b>Patrik Johnson</b></a><br><sub>&#64;orbitbot</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">443</td>
+<td align="right">470</td>
 <td><a href="https://github.com/daniellandau"><img src="https://avatars.githubusercontent.com/u/1044056?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daniellandau"><b>Daniel Landau</b></a><br><sub>&#64;daniellandau</sub></td>
 <td align="right"><b>53</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">444</td>
+<td align="right">471</td>
 <td><a href="https://github.com/cyndis"><img src="https://avatars.githubusercontent.com/u/154330?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cyndis"><b>Mikko Perttunen</b></a><br><sub>&#64;cyndis</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">445</td>
+<td align="right">472</td>
 <td><a href="https://github.com/TimoSalomaki"><img src="https://avatars.githubusercontent.com/u/1816448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TimoSalomaki"><b>Timo Salomäki (MSFT)</b></a><br><sub>&#64;TimoSalomaki</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">446</td>
+<td align="right">473</td>
 <td><a href="https://github.com/egaga"><img src="https://avatars.githubusercontent.com/u/138295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/egaga"><b>Henrik Huttunen</b></a><br><sub>&#64;egaga</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">447</td>
+<td align="right">474</td>
 <td><a href="https://github.com/Nezz"><img src="https://avatars.githubusercontent.com/u/431167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nezz"><b>Adam Kapos</b></a><br><sub>&#64;Nezz</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">448</td>
+<td align="right">475</td>
 <td><a href="https://github.com/riju"><img src="https://avatars.githubusercontent.com/u/975872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riju"><b>Rijubrata Bhaumik</b></a><br><sub>&#64;riju</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">449</td>
+<td align="right">476</td>
 <td><a href="https://github.com/vhelin"><img src="https://avatars.githubusercontent.com/u/6417746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vhelin"><b>Ville Helin</b></a><br><sub>&#64;vhelin</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Kivistö, Vantaa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">450</td>
+<td align="right">477</td>
+<td><a href="https://github.com/jonasman"><img src="https://avatars.githubusercontent.com/u/1762910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jonasman"><b>João Nunes</b></a><br><sub>&#64;jonasman</sub></td>
+<td align="right"><b>50</b></td>
+<td align="right">0</td>
+<td><sub>Helsinki</sub></td>
+</tr>
+<tr>
+<td align="right">478</td>
 <td><a href="https://github.com/kasbert"><img src="https://avatars.githubusercontent.com/u/1442215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kasbert"><b>Jarkko Sonninen</b></a><br><sub>&#64;kasbert</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">451</td>
+<td align="right">479</td>
 <td><a href="https://github.com/nguymin4"><img src="https://avatars.githubusercontent.com/u/6953273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nguymin4"><b>Minh Son Nguyen</b></a><br><sub>&#64;nguymin4</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">452</td>
+<td align="right">480</td>
 <td><a href="https://github.com/Paul-Browne"><img src="https://avatars.githubusercontent.com/u/2651729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Paul-Browne"><b>Paul Browne</b></a><br><sub>&#64;Paul-Browne</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">453</td>
+<td align="right">481</td>
 <td><a href="https://github.com/gerard"><img src="https://avatars.githubusercontent.com/u/1658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gerard"><b>Gerard Lledó</b></a><br><sub>&#64;gerard</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">454</td>
+<td align="right">482</td>
 <td><a href="https://github.com/trautonen"><img src="https://avatars.githubusercontent.com/u/1641063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trautonen"><b>Tapio Rautonen</b></a><br><sub>&#64;trautonen</sub></td>
 <td align="right"><b>44</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">455</td>
+<td align="right">483</td>
 <td><a href="https://github.com/henripar"><img src="https://avatars.githubusercontent.com/u/55137381?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/henripar"><b>Henri Parviainen</b></a><br><sub>&#64;henripar</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">456</td>
+<td align="right">484</td>
 <td><a href="https://github.com/laurikari"><img src="https://avatars.githubusercontent.com/u/1168306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laurikari"><b>Ville Laurikari</b></a><br><sub>&#64;laurikari</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">457</td>
+<td align="right">485</td>
 <td><a href="https://github.com/Noxime"><img src="https://avatars.githubusercontent.com/u/5536352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Noxime"><b>Aaro Perämaa</b></a><br><sub>&#64;Noxime</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">458</td>
+<td align="right">486</td>
 <td><a href="https://github.com/ernoaapa"><img src="https://avatars.githubusercontent.com/u/662535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ernoaapa"><b>Erno Aapa</b></a><br><sub>&#64;ernoaapa</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">459</td>
+<td align="right">487</td>
 <td><a href="https://github.com/mtkopone"><img src="https://avatars.githubusercontent.com/u/285399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mtkopone"><b>Mikko Koponen</b></a><br><sub>&#64;mtkopone</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">460</td>
+<td align="right">488</td>
 <td><a href="https://github.com/otsaloma"><img src="https://avatars.githubusercontent.com/u/237265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/otsaloma"><b>Osmo Salomaa</b></a><br><sub>&#64;otsaloma</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">461</td>
+<td align="right">489</td>
 <td><a href="https://github.com/rudi-q"><img src="https://avatars.githubusercontent.com/u/47895214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rudi-q"><b>Rudi Kilperti</b></a><br><sub>&#64;rudi-q</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki 🇫🇮</sub></td>
 </tr>
 <tr>
-<td align="right">462</td>
+<td align="right">490</td>
 <td><a href="https://github.com/urholaukkarinen"><img src="https://avatars.githubusercontent.com/u/5576504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/urholaukkarinen"><b>Urho Laukkarinen</b></a><br><sub>&#64;urholaukkarinen</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">463</td>
+<td align="right">491</td>
 <td><a href="https://github.com/antonKalinin"><img src="https://avatars.githubusercontent.com/u/3993255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antonKalinin"><b>Anton Kalinin</b></a><br><sub>&#64;antonKalinin</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">464</td>
+<td align="right">492</td>
 <td><a href="https://github.com/elonen"><img src="https://avatars.githubusercontent.com/u/2125766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elonen"><b>elonen</b></a><br><sub>&#64;elonen</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">465</td>
+<td align="right">493</td>
 <td><a href="https://github.com/paulilaaso"><img src="https://avatars.githubusercontent.com/u/225475693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paulilaaso"><b>pauli</b></a><br><sub>&#64;paulilaaso</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">0</td>
 <td><sub>helsinki, finland</sub></td>
 </tr>
 <tr>
-<td align="right">466</td>
+<td align="right">494</td>
 <td><a href="https://github.com/Z1ni"><img src="https://avatars.githubusercontent.com/u/669686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Z1ni"><b>Mark Mäkinen</b></a><br><sub>&#64;Z1ni</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">467</td>
+<td align="right">495</td>
 <td><a href="https://github.com/andrei7c4"><img src="https://avatars.githubusercontent.com/u/20026426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrei7c4"><b>Andrei Mehiläinen</b></a><br><sub>&#64;andrei7c4</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">468</td>
+<td align="right">496</td>
 <td><a href="https://github.com/fador"><img src="https://avatars.githubusercontent.com/u/196490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fador"><b>Marko Viitanen</b></a><br><sub>&#64;fador</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">469</td>
+<td align="right">497</td>
 <td><a href="https://github.com/MarkusSintonen"><img src="https://avatars.githubusercontent.com/u/12939780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarkusSintonen"><b>MarkusSintonen</b></a><br><sub>&#64;MarkusSintonen</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">470</td>
+<td align="right">498</td>
 <td><a href="https://github.com/Soft"><img src="https://avatars.githubusercontent.com/u/40366?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Soft"><b>Samuel Laurén</b></a><br><sub>&#64;Soft</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">471</td>
+<td align="right">499</td>
 <td><a href="https://github.com/tml1024"><img src="https://avatars.githubusercontent.com/u/310731?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tml1024"><b>Tor Lillqvist</b></a><br><sub>&#64;tml1024</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, FI</sub></td>
 </tr>
 <tr>
-<td align="right">472</td>
+<td align="right">500</td>
 <td><a href="https://github.com/nyyManni"><img src="https://avatars.githubusercontent.com/u/11259167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nyyManni"><b>Henrik Nyman</b></a><br><sub>&#64;nyyManni</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">473</td>
+<td align="right">501</td>
 <td><a href="https://github.com/talmobi"><img src="https://avatars.githubusercontent.com/u/1460615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/talmobi"><b>talmobi</b></a><br><sub>&#64;talmobi</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">474</td>
+<td align="right">502</td>
 <td><a href="https://github.com/nurettincoban"><img src="https://avatars.githubusercontent.com/u/5160151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nurettincoban"><b>Nurettin Çoban</b></a><br><sub>&#64;nurettincoban</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">475</td>
+<td align="right">503</td>
 <td><a href="https://github.com/TuomoKu"><img src="https://avatars.githubusercontent.com/u/29172317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TuomoKu"><b>Tuomo Kulomaa</b></a><br><sub>&#64;TuomoKu</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">476</td>
+<td align="right">504</td>
 <td><a href="https://github.com/ethangreen-dev"><img src="https://avatars.githubusercontent.com/u/70916930?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ethangreen-dev"><b>Ethan Green</b></a><br><sub>&#64;ethangreen-dev</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">477</td>
+<td align="right">505</td>
 <td><a href="https://github.com/ktuukkan"><img src="https://avatars.githubusercontent.com/u/853379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ktuukkan"><b>Kimmo Tuukkanen</b></a><br><sub>&#64;ktuukkan</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">478</td>
+<td align="right">506</td>
 <td><a href="https://github.com/svsool"><img src="https://avatars.githubusercontent.com/u/1452141?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/svsool"><b>Svyat</b></a><br><sub>&#64;svsool</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">479</td>
+<td align="right">507</td>
 <td><a href="https://github.com/vrubleg"><img src="https://avatars.githubusercontent.com/u/2157439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vrubleg"><b>Evgeny Vrublevsky</b></a><br><sub>&#64;vrubleg</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">480</td>
+<td align="right">508</td>
 <td><a href="https://github.com/juusaw"><img src="https://avatars.githubusercontent.com/u/13107558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juusaw"><b>Juuso Mikkonen</b></a><br><sub>&#64;juusaw</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">481</td>
+<td align="right">509</td>
 <td><a href="https://github.com/lmparppei"><img src="https://avatars.githubusercontent.com/u/20226704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lmparppei"><b>L-M Parppei</b></a><br><sub>&#64;lmparppei</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">482</td>
+<td align="right">510</td>
 <td><a href="https://github.com/Tapanila"><img src="https://avatars.githubusercontent.com/u/1529210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tapanila"><b>Teemu Tapanila</b></a><br><sub>&#64;Tapanila</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">483</td>
+<td align="right">511</td>
 <td><a href="https://github.com/vstirbu"><img src="https://avatars.githubusercontent.com/u/1288047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vstirbu"><b>Vlad Știrbu</b></a><br><sub>&#64;vstirbu</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">484</td>
+<td align="right">512</td>
 <td><a href="https://github.com/hasanirtiza"><img src="https://avatars.githubusercontent.com/u/22005154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasanirtiza"><b>Irtiza Hasan</b></a><br><sub>&#64;hasanirtiza</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland.</sub></td>
 </tr>
 <tr>
-<td align="right">485</td>
+<td align="right">513</td>
 <td><a href="https://github.com/mjaakko"><img src="https://avatars.githubusercontent.com/u/32361480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mjaakko"><b>Jaakko Malkki</b></a><br><sub>&#64;mjaakko</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">486</td>
+<td align="right">514</td>
 <td><a href="https://github.com/Jarzka"><img src="https://avatars.githubusercontent.com/u/5528061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jarzka"><b>Jari Hanhela</b></a><br><sub>&#64;Jarzka</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">487</td>
+<td align="right">515</td>
+<td><a href="https://github.com/JuhaKiili"><img src="https://avatars.githubusercontent.com/u/1525350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JuhaKiili"><b>Juha Kiili</b></a><br><sub>&#64;JuhaKiili</sub></td>
+<td align="right"><b>32</b></td>
+<td align="right">0</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">516</td>
 <td><a href="https://github.com/Lodin"><img src="https://avatars.githubusercontent.com/u/8037479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lodin"><b>Vladimir Rindevich</b></a><br><sub>&#64;Lodin</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">488</td>
+<td align="right">517</td>
 <td><a href="https://github.com/Ape"><img src="https://avatars.githubusercontent.com/u/156318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ape"><b>Lauri Niskanen</b></a><br><sub>&#64;Ape</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">489</td>
+<td align="right">518</td>
+<td><a href="https://github.com/buggedcom"><img src="https://avatars.githubusercontent.com/u/2810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/buggedcom"><b>Oliver Lillie</b></a><br><sub>&#64;buggedcom</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">0</td>
+<td><sub>Helsinki, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">519</td>
 <td><a href="https://github.com/a1ien"><img src="https://avatars.githubusercontent.com/u/280794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a1ien"><b>Ilya Averyanov</b></a><br><sub>&#64;a1ien</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">490</td>
+<td align="right">520</td>
 <td><a href="https://github.com/alamminsalo"><img src="https://avatars.githubusercontent.com/u/5585454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alamminsalo"><b>alamminsalo</b></a><br><sub>&#64;alamminsalo</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">491</td>
+<td align="right">521</td>
 <td><a href="https://github.com/lasa01"><img src="https://avatars.githubusercontent.com/u/3680681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lasa01"><b>Lassi Säike</b></a><br><sub>&#64;lasa01</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">492</td>
+<td align="right">522</td>
+<td><a href="https://github.com/neonmoe"><img src="https://avatars.githubusercontent.com/u/22432472?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neonmoe"><b>Jens Pitkänen</b></a><br><sub>&#64;neonmoe</sub></td>
+<td align="right"><b>30</b></td>
+<td align="right">0</td>
+<td><sub>Helsinki, Finland</sub></td>
+</tr>
+<tr>
+<td align="right">523</td>
 <td><a href="https://github.com/tow"><img src="https://avatars.githubusercontent.com/u/8143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tow"><b>Toby White</b></a><br><sub>&#64;tow</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">493</td>
+<td align="right">524</td>
 <td><a href="https://github.com/yorak"><img src="https://avatars.githubusercontent.com/u/1326935?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yorak"><b>Jussi Rasku</b></a><br><sub>&#64;yorak</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Seinäjoki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">494</td>
+<td align="right">525</td>
 <td><a href="https://github.com/damskaggep"><img src="https://avatars.githubusercontent.com/u/47434250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damskaggep"><b>Eero-Pekka Damskägg</b></a><br><sub>&#64;damskaggep</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">495</td>
+<td align="right">526</td>
 <td><a href="https://github.com/vesse"><img src="https://avatars.githubusercontent.com/u/738763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vesse"><b>Vesa Poikajärvi</b></a><br><sub>&#64;vesse</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">496</td>
+<td align="right">527</td>
 <td><a href="https://github.com/villeheikkila"><img src="https://avatars.githubusercontent.com/u/39014440?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/villeheikkila"><b>Ville Heikkilä</b></a><br><sub>&#64;villeheikkila</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">497</td>
+<td align="right">528</td>
 <td><a href="https://github.com/jkytoela"><img src="https://avatars.githubusercontent.com/u/26070640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jkytoela"><b>Jaakko Kytölä</b></a><br><sub>&#64;jkytoela</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">498</td>
+<td align="right">529</td>
 <td><a href="https://github.com/juhakivekas"><img src="https://avatars.githubusercontent.com/u/4203628?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juhakivekas"><b>Juha Kivekäs</b></a><br><sub>&#64;juhakivekas</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">499</td>
+<td align="right">530</td>
 <td><a href="https://github.com/viljoviitanen"><img src="https://avatars.githubusercontent.com/u/791012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/viljoviitanen"><b>Viljo Viitanen</b></a><br><sub>&#64;viljoviitanen</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Jyväskylä, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">500</td>
+<td align="right">531</td>
+<td><a href="https://github.com/anttihirvonen"><img src="https://avatars.githubusercontent.com/u/705066?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anttihirvonen"><b>Antti Hirvonen</b></a><br><sub>&#64;anttihirvonen</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">0</td>
+<td><sub>Finland, Espoo</sub></td>
+</tr>
+<tr>
+<td align="right">532</td>
 <td><a href="https://github.com/dronir"><img src="https://avatars.githubusercontent.com/u/1353970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dronir"><b>Olli Wilkman</b></a><br><sub>&#64;dronir</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">501</td>
+<td align="right">533</td>
 <td><a href="https://github.com/holli"><img src="https://avatars.githubusercontent.com/u/100112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/holli"><b>Olli Huotari</b></a><br><sub>&#64;holli</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">502</td>
+<td align="right">534</td>
 <td><a href="https://github.com/Taitava"><img src="https://avatars.githubusercontent.com/u/13002142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Taitava"><b>Jarkko Linnanvirta</b></a><br><sub>&#64;Taitava</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Pori, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">503</td>
+<td align="right">535</td>
 <td><a href="https://github.com/Finrandojin"><img src="https://avatars.githubusercontent.com/u/30663969?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Finrandojin"><b>Finrandojin</b></a><br><sub>&#64;Finrandojin</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Kirkkonummi, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">504</td>
+<td align="right">536</td>
 <td><a href="https://github.com/khrykin"><img src="https://avatars.githubusercontent.com/u/5675885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khrykin"><b>Dmitry Khrykin</b></a><br><sub>&#64;khrykin</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">505</td>
+<td align="right">537</td>
 <td><a href="https://github.com/teemu-l"><img src="https://avatars.githubusercontent.com/u/14867206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teemu-l"><b>Teemu Laurila</b></a><br><sub>&#64;teemu-l</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">506</td>
+<td align="right">538</td>
 <td><a href="https://github.com/alaisi"><img src="https://avatars.githubusercontent.com/u/88996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alaisi"><b>Antti Laisi</b></a><br><sub>&#64;alaisi</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Inari, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">507</td>
+<td align="right">539</td>
 <td><a href="https://github.com/CTalvio"><img src="https://avatars.githubusercontent.com/u/4365015?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CTalvio"><b>Casper Talvio</b></a><br><sub>&#64;CTalvio</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">508</td>
+<td align="right">540</td>
 <td><a href="https://github.com/Lurkki14"><img src="https://avatars.githubusercontent.com/u/44469719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lurkki14"><b>Jussi Kuokkanen</b></a><br><sub>&#64;Lurkki14</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">509</td>
+<td align="right">541</td>
 <td><a href="https://github.com/NikolayRys"><img src="https://avatars.githubusercontent.com/u/2265459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NikolayRys"><b>Nikolay Rys</b></a><br><sub>&#64;NikolayRys</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">510</td>
+<td align="right">542</td>
 <td><a href="https://github.com/Jakedismo"><img src="https://avatars.githubusercontent.com/u/32139094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jakedismo"><b>Jokke Ruokolainen</b></a><br><sub>&#64;Jakedismo</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">0</td>
 <td><sub>Tampere</sub></td>
 </tr>
 <tr>
-<td align="right">511</td>
+<td align="right">543</td>
 <td><a href="https://github.com/jonniek"><img src="https://avatars.githubusercontent.com/u/16519907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jonniek"><b>Jonnie</b></a><br><sub>&#64;jonniek</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">512</td>
+<td align="right">544</td>
 <td><a href="https://github.com/mkko"><img src="https://avatars.githubusercontent.com/u/142544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkko"><b>Mikko Välimäki</b></a><br><sub>&#64;mkko</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Tampere</sub></td>
 </tr>
 <tr>
-<td align="right">513</td>
+<td align="right">545</td>
 <td><a href="https://github.com/rootSunc"><img src="https://avatars.githubusercontent.com/u/53606355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rootSunc"><b>rootSunc</b></a><br><sub>&#64;rootSunc</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">514</td>
+<td align="right">546</td>
 <td><a href="https://github.com/jusu"><img src="https://avatars.githubusercontent.com/u/379206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jusu"><b>jusu</b></a><br><sub>&#64;jusu</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">515</td>
+<td align="right">547</td>
 <td><a href="https://github.com/antonvladyka"><img src="https://avatars.githubusercontent.com/u/4227840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antonvladyka"><b>Anton</b></a><br><sub>&#64;antonvladyka</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Espoo</sub></td>
 </tr>
 <tr>
-<td align="right">516</td>
+<td align="right">548</td>
 <td><a href="https://github.com/bwachter"><img src="https://avatars.githubusercontent.com/u/767461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bwachter"><b>Bernd Wachter</b></a><br><sub>&#64;bwachter</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">517</td>
+<td align="right">549</td>
 <td><a href="https://github.com/Hellenic"><img src="https://avatars.githubusercontent.com/u/1734471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hellenic"><b>Hannu Kärkkäinen</b></a><br><sub>&#64;Hellenic</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">518</td>
+<td align="right">550</td>
 <td><a href="https://github.com/akuukka"><img src="https://avatars.githubusercontent.com/u/13734351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akuukka"><b>Antti Kuukka</b></a><br><sub>&#64;akuukka</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">519</td>
+<td align="right">551</td>
 <td><a href="https://github.com/eerotal"><img src="https://avatars.githubusercontent.com/u/29021564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eerotal"><b>Eero Talus</b></a><br><sub>&#64;eerotal</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">520</td>
+<td align="right">552</td>
 <td><a href="https://github.com/GitMag"><img src="https://avatars.githubusercontent.com/u/34399030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GitMag"><b>Magnus Forsblom</b></a><br><sub>&#64;GitMag</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>FInland</sub></td>
 </tr>
 <tr>
-<td align="right">521</td>
+<td align="right">553</td>
 <td><a href="https://github.com/haatos"><img src="https://avatars.githubusercontent.com/u/61107536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haatos"><b>Tomi Haapalainen</b></a><br><sub>&#64;haatos</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">522</td>
+<td align="right">554</td>
 <td><a href="https://github.com/troinine"><img src="https://avatars.githubusercontent.com/u/13124764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/troinine"><b>Tero Roininen</b></a><br><sub>&#64;troinine</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">523</td>
+<td align="right">555</td>
 <td><a href="https://github.com/johman10"><img src="https://avatars.githubusercontent.com/u/5371454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johman10"><b>Johan</b></a><br><sub>&#64;johman10</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">524</td>
+<td align="right">556</td>
 <td><a href="https://github.com/MatteoGioioso"><img src="https://avatars.githubusercontent.com/u/43592430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatteoGioioso"><b>Matteo Gioioso</b></a><br><sub>&#64;MatteoGioioso</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">525</td>
+<td align="right">557</td>
 <td><a href="https://github.com/jussiniinikoski"><img src="https://avatars.githubusercontent.com/u/5627860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jussiniinikoski"><b>Jussi Niinikoski</b></a><br><sub>&#64;jussiniinikoski</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
 <td><sub>Turku, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">526</td>
+<td align="right">558</td>
 <td><a href="https://github.com/maciej-gurban"><img src="https://avatars.githubusercontent.com/u/3663640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maciej-gurban"><b>Maciej Gurban</b></a><br><sub>&#64;maciej-gurban</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">527</td>
+<td align="right">559</td>
 <td><a href="https://github.com/uuksu"><img src="https://avatars.githubusercontent.com/u/8851723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uuksu"><b>Mikko Uuksulainen</b></a><br><sub>&#64;uuksu</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">528</td>
+<td align="right">560</td>
+<td><a href="https://github.com/tryffel"><img src="https://avatars.githubusercontent.com/u/44293095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tryffel"><b>Tero Vierimaa</b></a><br><sub>&#64;tryffel</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">0</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">561</td>
 <td><a href="https://github.com/Jazqa"><img src="https://avatars.githubusercontent.com/u/18004783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jazqa"><b>Jasu</b></a><br><sub>&#64;Jazqa</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td><sub>Jyväskylä, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">529</td>
+<td align="right">562</td>
 <td><a href="https://github.com/tmakkonen"><img src="https://avatars.githubusercontent.com/u/71305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tmakkonen"><b>Tuomo Makkonen</b></a><br><sub>&#64;tmakkonen</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">530</td>
+<td align="right">563</td>
+<td><a href="https://github.com/amirrezaDev1378"><img src="https://avatars.githubusercontent.com/u/19181935?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amirrezaDev1378"><b>Amirreza hossein panah</b></a><br><sub>&#64;amirrezaDev1378</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">0</td>
+<td><sub>Finland</sub></td>
+</tr>
+<tr>
+<td align="right">564</td>
 <td><a href="https://github.com/meceware"><img src="https://avatars.githubusercontent.com/u/16402717?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meceware"><b>Mehmet Celik</b></a><br><sub>&#64;meceware</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">0</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">531</td>
+<td align="right">565</td>
 <td><a href="https://github.com/leopeltola"><img src="https://avatars.githubusercontent.com/u/49021946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leopeltola"><b>leopeltola</b></a><br><sub>&#64;leopeltola</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">532</td>
+<td align="right">566</td>
 <td><a href="https://github.com/v0xeII"><img src="https://avatars.githubusercontent.com/u/159119913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/v0xeII"><b>Max</b></a><br><sub>&#64;v0xeII</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">7</td>
 <td><sub>finland</sub></td>
 </tr>
 <tr>
-<td align="right">533</td>
+<td align="right">567</td>
 <td><a href="https://github.com/aanckar"><img src="https://avatars.githubusercontent.com/u/15939124?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aanckar"><b>Andreas Anckar</b></a><br><sub>&#64;aanckar</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">534</td>
+<td align="right">568</td>
 <td><a href="https://github.com/JjyKsi"><img src="https://avatars.githubusercontent.com/u/58300208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JjyKsi"><b>JjyKsi</b></a><br><sub>&#64;JjyKsi</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">535</td>
+<td align="right">569</td>
 <td><a href="https://github.com/danavitski"><img src="https://avatars.githubusercontent.com/u/54046071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danavitski"><b>Daan Kivits</b></a><br><sub>&#64;danavitski</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">8</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">536</td>
+<td align="right">570</td>
 <td><a href="https://github.com/RazBalin"><img src="https://avatars.githubusercontent.com/u/24548498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RazBalin"><b>Raz Balin</b></a><br><sub>&#64;RazBalin</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">537</td>
+<td align="right">571</td>
 <td><a href="https://github.com/ducnguyenquang1112001"><img src="https://avatars.githubusercontent.com/u/106806670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ducnguyenquang1112001"><b>Nguyễn Quang Đức</b></a><br><sub>&#64;ducnguyenquang1112001</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">538</td>
+<td align="right">572</td>
 <td><a href="https://github.com/daminhogit"><img src="https://avatars.githubusercontent.com/u/115324827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daminhogit"><b>Damilola Adesanya</b></a><br><sub>&#64;daminhogit</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">33</td>
 <td><sub>Oulu, FInland</sub></td>
 </tr>
 <tr>
-<td align="right">539</td>
+<td align="right">573</td>
 <td><a href="https://github.com/Ragun11"><img src="https://avatars.githubusercontent.com/u/148462684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ragun11"><b>Ragun Chandralingam</b></a><br><sub>&#64;Ragun11</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">11</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">540</td>
+<td align="right">574</td>
 <td><a href="https://github.com/truburt"><img src="https://avatars.githubusercontent.com/u/8006287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/truburt"><b>Vova Vaulin-Belskii</b></a><br><sub>&#64;truburt</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">541</td>
+<td align="right">575</td>
 <td><a href="https://github.com/aarnesa"><img src="https://avatars.githubusercontent.com/u/9770672?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aarnesa"><b>Aarne Saarnio</b></a><br><sub>&#64;aarnesa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">542</td>
+<td align="right">576</td>
 <td><a href="https://github.com/apomelov"><img src="https://avatars.githubusercontent.com/u/3628210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apomelov"><b>Alexey</b></a><br><sub>&#64;apomelov</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Finland, Espoo</sub></td>
 </tr>
 <tr>
-<td align="right">543</td>
+<td align="right">577</td>
 <td><a href="https://github.com/hakaotu"><img src="https://avatars.githubusercontent.com/u/7211272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hakaotu"><b>Tuomo Hakaoja</b></a><br><sub>&#64;hakaotu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">544</td>
+<td align="right">578</td>
 <td><a href="https://github.com/heinx"><img src="https://avatars.githubusercontent.com/u/1080326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heinx"><b>Antti Heinonen</b></a><br><sub>&#64;heinx</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">545</td>
+<td align="right">579</td>
 <td><a href="https://github.com/mattirk"><img src="https://avatars.githubusercontent.com/u/8425155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattirk"><b>Matti Rita-Kasari</b></a><br><sub>&#64;mattirk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">546</td>
+<td align="right">580</td>
 <td><a href="https://github.com/8wil"><img src="https://avatars.githubusercontent.com/u/7455505?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/8wil"><b>greenify</b></a><br><sub>&#64;8wil</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">547</td>
+<td align="right">581</td>
 <td><a href="https://github.com/ahti-saari"><img src="https://avatars.githubusercontent.com/u/13100996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahti-saari"><b>Ahti Saari</b></a><br><sub>&#64;ahti-saari</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">548</td>
+<td align="right">582</td>
 <td><a href="https://github.com/aidarm"><img src="https://avatars.githubusercontent.com/u/7494158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aidarm"><b>Aidar Mukhamadiev</b></a><br><sub>&#64;aidarm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">549</td>
+<td align="right">583</td>
 <td><a href="https://github.com/aittomakia"><img src="https://avatars.githubusercontent.com/u/14307417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aittomakia"><b>Ari Aittomäki</b></a><br><sub>&#64;aittomakia</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">550</td>
+<td align="right">584</td>
 <td><a href="https://github.com/akisir"><img src="https://avatars.githubusercontent.com/u/5437200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akisir"><b>Aki Sirviö</b></a><br><sub>&#64;akisir</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">551</td>
+<td align="right">585</td>
 <td><a href="https://github.com/alonsourbano"><img src="https://avatars.githubusercontent.com/u/11561727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alonsourbano"><b>Alonso Urbano</b></a><br><sub>&#64;alonsourbano</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">552</td>
+<td align="right">586</td>
 <td><a href="https://github.com/anadigi"><img src="https://avatars.githubusercontent.com/u/13509416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anadigi"><b>anadigi</b></a><br><sub>&#64;anadigi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">553</td>
+<td align="right">587</td>
 <td><a href="https://github.com/Andreas-s4"><img src="https://avatars.githubusercontent.com/u/12098076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Andreas-s4"><b>S4logout</b></a><br><sub>&#64;Andreas-s4</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">554</td>
+<td align="right">588</td>
 <td><a href="https://github.com/andyparfei"><img src="https://avatars.githubusercontent.com/u/9014070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andyparfei"><b>Antti Parviainen</b></a><br><sub>&#64;andyparfei</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsinki, Finland &amp; Digisphere</sub></td>
 </tr>
 <tr>
-<td align="right">555</td>
+<td align="right">589</td>
 <td><a href="https://github.com/anttila3"><img src="https://avatars.githubusercontent.com/u/6585696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anttila3"><b>Tatu Anttila</b></a><br><sub>&#64;anttila3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">556</td>
+<td align="right">590</td>
 <td><a href="https://github.com/AnuKristiina"><img src="https://avatars.githubusercontent.com/u/10041997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnuKristiina"><b>Anu Lipsanen</b></a><br><sub>&#64;AnuKristiina</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">557</td>
+<td align="right">591</td>
 <td><a href="https://github.com/anurada"><img src="https://avatars.githubusercontent.com/u/8940201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anurada"><b>basanta bhattarai</b></a><br><sub>&#64;anurada</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">558</td>
+<td align="right">592</td>
 <td><a href="https://github.com/arihurtta"><img src="https://avatars.githubusercontent.com/u/18679231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arihurtta"><b>Ari Hurtta</b></a><br><sub>&#64;arihurtta</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">559</td>
+<td align="right">593</td>
 <td><a href="https://github.com/ArtKop"><img src="https://avatars.githubusercontent.com/u/26383031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArtKop"><b>Artur Kopitca</b></a><br><sub>&#64;ArtKop</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland, Espoo</sub></td>
 </tr>
 <tr>
-<td align="right">560</td>
+<td align="right">594</td>
 <td><a href="https://github.com/artosan"><img src="https://avatars.githubusercontent.com/u/1660532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/artosan"><b>artosan</b></a><br><sub>&#64;artosan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>finland</sub></td>
 </tr>
 <tr>
-<td align="right">561</td>
+<td align="right">595</td>
 <td><a href="https://github.com/aruokoniemi"><img src="https://avatars.githubusercontent.com/u/20416350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aruokoniemi"><b>Aleksi Ruokoniemi</b></a><br><sub>&#64;aruokoniemi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lappeenranta, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">562</td>
+<td align="right">596</td>
 <td><a href="https://github.com/arvimanninen"><img src="https://avatars.githubusercontent.com/u/6501922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arvimanninen"><b>Arvi Manninen</b></a><br><sub>&#64;arvimanninen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">563</td>
+<td align="right">597</td>
 <td><a href="https://github.com/atteco"><img src="https://avatars.githubusercontent.com/u/12693888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atteco"><b>atteco</b></a><br><sub>&#64;atteco</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Jyväskylä, Central Finland</sub></td>
 </tr>
 <tr>
-<td align="right">564</td>
+<td align="right">598</td>
 <td><a href="https://github.com/Autum11"><img src="https://avatars.githubusercontent.com/u/18259878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Autum11"><b>Shishir Singh Timalsina</b></a><br><sub>&#64;Autum11</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">565</td>
+<td align="right">599</td>
 <td><a href="https://github.com/avr72"><img src="https://avatars.githubusercontent.com/u/6720010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avr72"><b>Yingfeng Shen</b></a><br><sub>&#64;avr72</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">566</td>
+<td align="right">600</td>
 <td><a href="https://github.com/azidin"><img src="https://avatars.githubusercontent.com/u/10179603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/azidin"><b>Azidin</b></a><br><sub>&#64;azidin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">567</td>
+<td align="right">601</td>
 <td><a href="https://github.com/bhex"><img src="https://avatars.githubusercontent.com/u/7009042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bhex"><b>bhex</b></a><br><sub>&#64;bhex</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">568</td>
+<td align="right">602</td>
 <td><a href="https://github.com/borgstro"><img src="https://avatars.githubusercontent.com/u/8543160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/borgstro"><b>Anne Borgström</b></a><br><sub>&#64;borgstro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">569</td>
+<td align="right">603</td>
 <td><a href="https://github.com/busebuz"><img src="https://avatars.githubusercontent.com/u/12123317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/busebuz"><b>Buse Buz Yalug</b></a><br><sub>&#64;busebuz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">570</td>
+<td align="right">604</td>
 <td><a href="https://github.com/Christer-Ekholm"><img src="https://avatars.githubusercontent.com/u/14319030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Christer-Ekholm"><b>Christer Ekholm</b></a><br><sub>&#64;Christer-Ekholm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">571</td>
+<td align="right">605</td>
 <td><a href="https://github.com/chrnelson"><img src="https://avatars.githubusercontent.com/u/17739306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrnelson"><b>Christian Nelson</b></a><br><sub>&#64;chrnelson</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Vasa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">572</td>
+<td align="right">606</td>
 <td><a href="https://github.com/Core-Xii"><img src="https://avatars.githubusercontent.com/u/1627085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Core-Xii"><b>hypertele Xii</b></a><br><sub>&#64;Core-Xii</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">573</td>
+<td align="right">607</td>
 <td><a href="https://github.com/cowtownaerosol"><img src="https://avatars.githubusercontent.com/u/15086857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cowtownaerosol"><b>Celia Faiola</b></a><br><sub>&#64;cowtownaerosol</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Kuopio, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">574</td>
+<td align="right">608</td>
 <td><a href="https://github.com/dande691"><img src="https://avatars.githubusercontent.com/u/25671793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dande691"><b>Dickersson</b></a><br><sub>&#64;dande691</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">575</td>
+<td align="right">609</td>
 <td><a href="https://github.com/dazeandconfusion"><img src="https://avatars.githubusercontent.com/u/30808755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dazeandconfusion"><b>mariia</b></a><br><sub>&#64;dazeandconfusion</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">576</td>
+<td align="right">610</td>
 <td><a href="https://github.com/Droxtor"><img src="https://avatars.githubusercontent.com/u/6633164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Droxtor"><b>Droxtor</b></a><br><sub>&#64;Droxtor</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">577</td>
+<td align="right">611</td>
 <td><a href="https://github.com/DrunkenCat"><img src="https://avatars.githubusercontent.com/u/14197278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DrunkenCat"><b>Arto Hänninen</b></a><br><sub>&#64;DrunkenCat</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Vantaa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">578</td>
+<td align="right">612</td>
 <td><a href="https://github.com/eleaf34"><img src="https://avatars.githubusercontent.com/u/9378780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eleaf34"><b>Eleaf</b></a><br><sub>&#64;eleaf34</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">579</td>
+<td align="right">613</td>
 <td><a href="https://github.com/email2sivakumar"><img src="https://avatars.githubusercontent.com/u/946602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/email2sivakumar"><b>Feswa</b></a><br><sub>&#64;email2sivakumar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">580</td>
+<td align="right">614</td>
 <td><a href="https://github.com/empee"><img src="https://avatars.githubusercontent.com/u/6131477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/empee"><b>Markus</b></a><br><sub>&#64;empee</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Ylöjärvi, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">581</td>
+<td align="right">615</td>
 <td><a href="https://github.com/ErikLitonius"><img src="https://avatars.githubusercontent.com/u/1151438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ErikLitonius"><b>Erik Litonius</b></a><br><sub>&#64;ErikLitonius</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsingfors, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">582</td>
+<td align="right">616</td>
 <td><a href="https://github.com/hanhaka"><img src="https://avatars.githubusercontent.com/u/6880618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hanhaka"><b>Hannu</b></a><br><sub>&#64;hanhaka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">583</td>
+<td align="right">617</td>
 <td><a href="https://github.com/ilkant"><img src="https://avatars.githubusercontent.com/u/18149564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ilkant"><b>Ilpo Kantonen</b></a><br><sub>&#64;ilkant</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">584</td>
+<td align="right">618</td>
 <td><a href="https://github.com/jaber17"><img src="https://avatars.githubusercontent.com/u/8782803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaber17"><b>Jaber Ahmed</b></a><br><sub>&#64;jaber17</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Espoo,Finland</sub></td>
 </tr>
 <tr>
-<td align="right">585</td>
+<td align="right">619</td>
 <td><a href="https://github.com/JanneEdelman"><img src="https://avatars.githubusercontent.com/u/6265661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JanneEdelman"><b>Janne Edelman</b></a><br><sub>&#64;JanneEdelman</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">586</td>
+<td align="right">620</td>
 <td><a href="https://github.com/jrahkone"><img src="https://avatars.githubusercontent.com/u/3007291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jrahkone"><b>Jukka-Pekka Rahkonen</b></a><br><sub>&#64;jrahkone</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland, Espoo</sub></td>
 </tr>
 <tr>
-<td align="right">587</td>
+<td align="right">621</td>
 <td><a href="https://github.com/kizzaGarhu"><img src="https://avatars.githubusercontent.com/u/4990073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kizzaGarhu"><b>kizzaGarhu</b></a><br><sub>&#64;kizzaGarhu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Jyväskylä Finland</sub></td>
 </tr>
 <tr>
-<td align="right">588</td>
+<td align="right">622</td>
 <td><a href="https://github.com/l-ml"><img src="https://avatars.githubusercontent.com/u/7043807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/l-ml"><b>Leo-Matti Lehtonen</b></a><br><sub>&#64;l-ml</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">589</td>
+<td align="right">623</td>
 <td><a href="https://github.com/lauramatilda"><img src="https://avatars.githubusercontent.com/u/23529668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lauramatilda"><b>Laura K-N</b></a><br><sub>&#64;lauramatilda</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">590</td>
+<td align="right">624</td>
 <td><a href="https://github.com/maniku1976"><img src="https://avatars.githubusercontent.com/u/16638224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maniku1976"><b>Maria Niku</b></a><br><sub>&#64;maniku1976</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">591</td>
+<td align="right">625</td>
 <td><a href="https://github.com/masysma"><img src="https://avatars.githubusercontent.com/u/2863081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/masysma"><b>Matti Sysmäläinen</b></a><br><sub>&#64;masysma</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">592</td>
+<td align="right">626</td>
 <td><a href="https://github.com/milahti"><img src="https://avatars.githubusercontent.com/u/6698398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/milahti"><b>Mika Lahti</b></a><br><sub>&#64;milahti</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Europe, Finland, Hyvinkää</sub></td>
 </tr>
 <tr>
-<td align="right">593</td>
+<td align="right">627</td>
 <td><a href="https://github.com/olberg"><img src="https://avatars.githubusercontent.com/u/5949653?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olberg"><b>olberg</b></a><br><sub>&#64;olberg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">594</td>
+<td align="right">628</td>
 <td><a href="https://github.com/ollijm"><img src="https://avatars.githubusercontent.com/u/1059803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ollijm"><b>Olli Miettinen</b></a><br><sub>&#64;ollijm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">595</td>
+<td align="right">629</td>
 <td><a href="https://github.com/Ovasjar"><img src="https://avatars.githubusercontent.com/u/22651919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ovasjar"><b>Jari Ovaskainen</b></a><br><sub>&#64;Ovasjar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">596</td>
+<td align="right">630</td>
 <td><a href="https://github.com/rikerfi"><img src="https://avatars.githubusercontent.com/u/17685527?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rikerfi"><b>Rikerfi</b></a><br><sub>&#64;rikerfi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">597</td>
+<td align="right">631</td>
 <td><a href="https://github.com/rParkkinen"><img src="https://avatars.githubusercontent.com/u/26428171?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rParkkinen"><b>Roope Parkkinen</b></a><br><sub>&#64;rParkkinen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">598</td>
+<td align="right">632</td>
 <td><a href="https://github.com/ruuhkis"><img src="https://avatars.githubusercontent.com/u/3104437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruuhkis"><b>Pasi Matalamäki</b></a><br><sub>&#64;ruuhkis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">599</td>
+<td align="right">633</td>
 <td><a href="https://github.com/Saigonen"><img src="https://avatars.githubusercontent.com/u/1651565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Saigonen"><b>Matti Saikkonen</b></a><br><sub>&#64;Saigonen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">600</td>
+<td align="right">634</td>
 <td><a href="https://github.com/tomilepp"><img src="https://avatars.githubusercontent.com/u/1502348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomilepp"><b>Tomi Leppikangas</b></a><br><sub>&#64;tomilepp</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">601</td>
+<td align="right">635</td>
 <td><a href="https://github.com/wiiwiih"><img src="https://avatars.githubusercontent.com/u/17479360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wiiwiih"><b>Vilma Lappi</b></a><br><sub>&#64;wiiwiih</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">602</td>
+<td align="right">636</td>
 <td><a href="https://github.com/Abosede"><img src="https://avatars.githubusercontent.com/u/4558514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abosede"><b>Olusola Abosede Folorunso</b></a><br><sub>&#64;Abosede</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">603</td>
+<td align="right">637</td>
 <td><a href="https://github.com/aliceDitto"><img src="https://avatars.githubusercontent.com/u/13032191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliceDitto"><b>Alice</b></a><br><sub>&#64;aliceDitto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">604</td>
+<td align="right">638</td>
 <td><a href="https://github.com/ammansik"><img src="https://avatars.githubusercontent.com/u/6387975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ammansik"><b>André M</b></a><br><sub>&#64;ammansik</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsink, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">605</td>
+<td align="right">639</td>
 <td><a href="https://github.com/amsaren"><img src="https://avatars.githubusercontent.com/u/3703442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amsaren"><b>Ari-Matti Saren</b></a><br><sub>&#64;amsaren</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">606</td>
+<td align="right">640</td>
 <td><a href="https://github.com/anders81fin"><img src="https://avatars.githubusercontent.com/u/13577582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anders81fin"><b>Antti Korsumäki</b></a><br><sub>&#64;anders81fin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">607</td>
+<td align="right">641</td>
 <td><a href="https://github.com/anttipalola"><img src="https://avatars.githubusercontent.com/u/2484408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anttipalola"><b>Antti Palola</b></a><br><sub>&#64;anttipalola</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">608</td>
+<td align="right">642</td>
 <td><a href="https://github.com/anttirauramo"><img src="https://avatars.githubusercontent.com/u/22196059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anttirauramo"><b>Antti Rauramo</b></a><br><sub>&#64;anttirauramo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">609</td>
+<td align="right">643</td>
 <td><a href="https://github.com/anygrid"><img src="https://avatars.githubusercontent.com/u/8644112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anygrid"><b>anygrid</b></a><br><sub>&#64;anygrid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">610</td>
+<td align="right">644</td>
 <td><a href="https://github.com/ArbKadrijaj"><img src="https://avatars.githubusercontent.com/u/6098389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArbKadrijaj"><b>Arb Kadrijaj</b></a><br><sub>&#64;ArbKadrijaj</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">611</td>
+<td align="right">645</td>
 <td><a href="https://github.com/armel12"><img src="https://avatars.githubusercontent.com/u/22823377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/armel12"><b>Armel</b></a><br><sub>&#64;armel12</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki Finland</sub></td>
 </tr>
 <tr>
-<td align="right">612</td>
+<td align="right">646</td>
 <td><a href="https://github.com/arttun"><img src="https://avatars.githubusercontent.com/u/19529813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arttun"><b>Arttu Nieminen</b></a><br><sub>&#64;arttun</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">613</td>
+<td align="right">647</td>
 <td><a href="https://github.com/arvoisa"><img src="https://avatars.githubusercontent.com/u/22906889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arvoisa"><b>Olli Koskimäki</b></a><br><sub>&#64;arvoisa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">614</td>
+<td align="right">648</td>
 <td><a href="https://github.com/asihvo"><img src="https://avatars.githubusercontent.com/u/13358900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asihvo"><b>AP Sihvonen</b></a><br><sub>&#64;asihvo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">615</td>
+<td align="right">649</td>
 <td><a href="https://github.com/asikaim"><img src="https://avatars.githubusercontent.com/u/8900200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asikaim"><b>mma</b></a><br><sub>&#64;asikaim</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">616</td>
+<td align="right">650</td>
 <td><a href="https://github.com/asneuvon"><img src="https://avatars.githubusercontent.com/u/7933268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asneuvon"><b>Samuli Neuvonen</b></a><br><sub>&#64;asneuvon</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">617</td>
+<td align="right">651</td>
 <td><a href="https://github.com/attilakiss84"><img src="https://avatars.githubusercontent.com/u/7526869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/attilakiss84"><b>Attila Kiss</b></a><br><sub>&#64;attilakiss84</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">618</td>
+<td align="right">652</td>
 <td><a href="https://github.com/Aunustico"><img src="https://avatars.githubusercontent.com/u/17524525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aunustico"><b>Miika Ihonen</b></a><br><sub>&#64;Aunustico</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">619</td>
+<td align="right">653</td>
 <td><a href="https://github.com/azabiw"><img src="https://avatars.githubusercontent.com/u/15063411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/azabiw"><b>Ossi Vanhala</b></a><br><sub>&#64;azabiw</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">620</td>
+<td align="right">654</td>
 <td><a href="https://github.com/bbistrom"><img src="https://avatars.githubusercontent.com/u/16987977?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bbistrom"><b>Benjamin Biström</b></a><br><sub>&#64;bbistrom</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Turku, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">621</td>
+<td align="right">655</td>
 <td><a href="https://github.com/Borancer"><img src="https://avatars.githubusercontent.com/u/25013351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Borancer"><b>Borancer</b></a><br><sub>&#64;Borancer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">622</td>
+<td align="right">656</td>
 <td><a href="https://github.com/braincelli"><img src="https://avatars.githubusercontent.com/u/14037369?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/braincelli"><b>WaterCoin</b></a><br><sub>&#64;braincelli</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">623</td>
+<td align="right">657</td>
 <td><a href="https://github.com/Bullterrieri"><img src="https://avatars.githubusercontent.com/u/29450536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bullterrieri"><b>Sami Sipinen</b></a><br><sub>&#64;Bullterrieri</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Ikaalinen, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">624</td>
+<td align="right">658</td>
 <td><a href="https://github.com/calmjm"><img src="https://avatars.githubusercontent.com/u/25742015?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/calmjm"><b>Janne Määttä</b></a><br><sub>&#64;calmjm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">625</td>
+<td align="right">659</td>
 <td><a href="https://github.com/Carppi"><img src="https://avatars.githubusercontent.com/u/17889770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Carppi"><b>Carppi</b></a><br><sub>&#64;Carppi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">626</td>
+<td align="right">660</td>
 <td><a href="https://github.com/challenger11"><img src="https://avatars.githubusercontent.com/u/21307794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/challenger11"><b>Bimal Raj Sitaula</b></a><br><sub>&#64;challenger11</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>finland</sub></td>
 </tr>
 <tr>
-<td align="right">627</td>
+<td align="right">661</td>
 <td><a href="https://github.com/chandmalu"><img src="https://avatars.githubusercontent.com/u/8058377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chandmalu"><b>Chand Malu</b></a><br><sub>&#64;chandmalu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">628</td>
+<td align="right">662</td>
 <td><a href="https://github.com/chrysafi"><img src="https://avatars.githubusercontent.com/u/11761795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrysafi"><b>Anna Chrysafi</b></a><br><sub>&#64;chrysafi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">629</td>
+<td align="right">663</td>
 <td><a href="https://github.com/cjuha"><img src="https://avatars.githubusercontent.com/u/5306783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cjuha"><b>Juha Törmänen</b></a><br><sub>&#64;cjuha</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">630</td>
+<td align="right">664</td>
 <td><a href="https://github.com/ckohtala"><img src="https://avatars.githubusercontent.com/u/4709683?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ckohtala"><b>ckohtala</b></a><br><sub>&#64;ckohtala</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">631</td>
+<td align="right">665</td>
 <td><a href="https://github.com/CodeBro"><img src="https://avatars.githubusercontent.com/u/2874799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CodeBro"><b>Kalle Kuismanen</b></a><br><sub>&#64;CodeBro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">632</td>
+<td align="right">666</td>
 <td><a href="https://github.com/Connectible"><img src="https://avatars.githubusercontent.com/u/8556380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Connectible"><b>Connectible</b></a><br><sub>&#64;Connectible</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">633</td>
+<td align="right">667</td>
 <td><a href="https://github.com/Daealis"><img src="https://avatars.githubusercontent.com/u/11420986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Daealis"><b>Daealis</b></a><br><sub>&#64;Daealis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">634</td>
+<td align="right">668</td>
 <td><a href="https://github.com/darkki"><img src="https://avatars.githubusercontent.com/u/5562502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darkki"><b>darkk!</b></a><br><sub>&#64;darkki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">635</td>
+<td align="right">669</td>
 <td><a href="https://github.com/DataDigger88"><img src="https://avatars.githubusercontent.com/u/12952363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DataDigger88"><b>DataDigger88</b></a><br><sub>&#64;DataDigger88</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">636</td>
+<td align="right">670</td>
 <td><a href="https://github.com/datatriever"><img src="https://avatars.githubusercontent.com/u/123418314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/datatriever"><b>Datatriever</b></a><br><sub>&#64;datatriever</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Espoo, Finland, Tellus</sub></td>
 </tr>
 <tr>
-<td align="right">637</td>
+<td align="right">671</td>
 <td><a href="https://github.com/DealWithMeal-zz"><img src="https://avatars.githubusercontent.com/u/6593943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DealWithMeal-zz"><b>Ilia Bazanov</b></a><br><sub>&#64;DealWithMeal-zz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">638</td>
+<td align="right">672</td>
 <td><a href="https://github.com/deepakakkil123"><img src="https://avatars.githubusercontent.com/u/9155888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deepakakkil123"><b>Deepak</b></a><br><sub>&#64;deepakakkil123</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Tampere,Finland</sub></td>
 </tr>
 <tr>
-<td align="right">639</td>
+<td align="right">673</td>
 <td><a href="https://github.com/Defrosted"><img src="https://avatars.githubusercontent.com/u/31098780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Defrosted"><b>Eetu Rinta-Jaskari</b></a><br><sub>&#64;Defrosted</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Vantaa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">640</td>
+<td align="right">674</td>
 <td><a href="https://github.com/deriantt"><img src="https://avatars.githubusercontent.com/u/4613425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deriantt"><b>Deniz Anttila</b></a><br><sub>&#64;deriantt</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">641</td>
+<td align="right">675</td>
 <td><a href="https://github.com/devrimvardar"><img src="https://avatars.githubusercontent.com/u/4957291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devrimvardar"><b>Devrim Vardar</b></a><br><sub>&#64;devrimvardar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">642</td>
+<td align="right">676</td>
 <td><a href="https://github.com/edomutaf"><img src="https://avatars.githubusercontent.com/u/10303461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edomutaf"><b>Edward Mutafungwa</b></a><br><sub>&#64;edomutaf</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">643</td>
+<td align="right">677</td>
 <td><a href="https://github.com/eerokosk"><img src="https://avatars.githubusercontent.com/u/19760387?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eerokosk"><b>Eero Koskikallio</b></a><br><sub>&#64;eerokosk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland, Kerava</sub></td>
 </tr>
 <tr>
-<td align="right">644</td>
+<td align="right">678</td>
 <td><a href="https://github.com/Efigaa"><img src="https://avatars.githubusercontent.com/u/12879959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Efigaa"><b>Jarmo Pakarinen</b></a><br><sub>&#64;Efigaa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Pori, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">645</td>
+<td align="right">679</td>
 <td><a href="https://github.com/Eksuma"><img src="https://avatars.githubusercontent.com/u/26205382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eksuma"><b>Eksuma</b></a><br><sub>&#64;Eksuma</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">646</td>
+<td align="right">680</td>
 <td><a href="https://github.com/elechi123"><img src="https://avatars.githubusercontent.com/u/10913352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elechi123"><b>Onyekachi Young Elechi</b></a><br><sub>&#64;elechi123</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Espoo - Finland</sub></td>
 </tr>
 <tr>
-<td align="right">647</td>
+<td align="right">681</td>
 <td><a href="https://github.com/ElinaKarppinen"><img src="https://avatars.githubusercontent.com/u/12045577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ElinaKarppinen"><b>Elina Karppinen</b></a><br><sub>&#64;ElinaKarppinen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">648</td>
+<td align="right">682</td>
 <td><a href="https://github.com/enobian"><img src="https://avatars.githubusercontent.com/u/20284134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enobian"><b>Jesse Juuti</b></a><br><sub>&#64;enobian</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">649</td>
+<td align="right">683</td>
 <td><a href="https://github.com/es-moll"><img src="https://avatars.githubusercontent.com/u/13537811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/es-moll"><b>Maria Zhukova</b></a><br><sub>&#64;es-moll</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Espoo Finland</sub></td>
 </tr>
 <tr>
-<td align="right">650</td>
+<td align="right">684</td>
 <td><a href="https://github.com/Excitor"><img src="https://avatars.githubusercontent.com/u/1226312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Excitor"><b>Robin Backman</b></a><br><sub>&#64;Excitor</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">651</td>
+<td align="right">685</td>
 <td><a href="https://github.com/HerraLampila"><img src="https://avatars.githubusercontent.com/u/6096267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HerraLampila"><b>Otto Lampila</b></a><br><sub>&#64;HerraLampila</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">652</td>
+<td align="right">686</td>
 <td><a href="https://github.com/hkajava"><img src="https://avatars.githubusercontent.com/u/1818914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hkajava"><b>Henri Kajava</b></a><br><sub>&#64;hkajava</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">653</td>
+<td align="right">687</td>
 <td><a href="https://github.com/IlpoHarkonen"><img src="https://avatars.githubusercontent.com/u/19841749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IlpoHarkonen"><b>IlpoHarkonen</b></a><br><sub>&#64;IlpoHarkonen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">654</td>
+<td align="right">688</td>
 <td><a href="https://github.com/jalomann"><img src="https://avatars.githubusercontent.com/u/2914565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jalomann"><b>Jarmo Koivunen</b></a><br><sub>&#64;jalomann</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">655</td>
+<td align="right">689</td>
 <td><a href="https://github.com/jonihietala"><img src="https://avatars.githubusercontent.com/u/11852963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jonihietala"><b>Joni Hietala</b></a><br><sub>&#64;jonihietala</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">656</td>
+<td align="right">690</td>
 <td><a href="https://github.com/jupru"><img src="https://avatars.githubusercontent.com/u/7655876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jupru"><b>Juha Ruohonen</b></a><br><sub>&#64;jupru</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">657</td>
+<td align="right">691</td>
 <td><a href="https://github.com/jylilaht"><img src="https://avatars.githubusercontent.com/u/28629264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jylilaht"><b>jylilaht</b></a><br><sub>&#64;jylilaht</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">658</td>
+<td align="right">692</td>
 <td><a href="https://github.com/keijosalonen"><img src="https://avatars.githubusercontent.com/u/15676684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keijosalonen"><b>Keijo Salonen</b></a><br><sub>&#64;keijosalonen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Jyväskylä, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">659</td>
+<td align="right">693</td>
 <td><a href="https://github.com/kmukku"><img src="https://avatars.githubusercontent.com/u/5237035?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kmukku"><b>Keijo Mukku</b></a><br><sub>&#64;kmukku</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">660</td>
+<td align="right">694</td>
 <td><a href="https://github.com/Oscar-97"><img src="https://avatars.githubusercontent.com/u/91684376?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Oscar-97"><b>Oscar H.</b></a><br><sub>&#64;Oscar-97</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">661</td>
+<td align="right">695</td>
 <td><a href="https://github.com/pschumi"><img src="https://avatars.githubusercontent.com/u/1144073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pschumi"><b>Petri Suutarinen</b></a><br><sub>&#64;pschumi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lohja, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">662</td>
+<td align="right">696</td>
 <td><a href="https://github.com/ranjinirk"><img src="https://avatars.githubusercontent.com/u/7814393?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ranjinirk"><b>Ranjini RK</b></a><br><sub>&#64;ranjinirk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">663</td>
+<td align="right">697</td>
 <td><a href="https://github.com/rsalm"><img src="https://avatars.githubusercontent.com/u/5433589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rsalm"><b>Riku Salminen</b></a><br><sub>&#64;rsalm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">664</td>
+<td align="right">698</td>
 <td><a href="https://github.com/terotoi"><img src="https://avatars.githubusercontent.com/u/12820122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/terotoi"><b>terotoi</b></a><br><sub>&#64;terotoi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">665</td>
+<td align="right">699</td>
 <td><a href="https://github.com/tomimas"><img src="https://avatars.githubusercontent.com/u/1262193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomimas"><b>Tomi Suuronen</b></a><br><sub>&#64;tomimas</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">666</td>
+<td align="right">700</td>
 <td><a href="https://github.com/tommipenttila"><img src="https://avatars.githubusercontent.com/u/2362616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tommipenttila"><b>Tommi Penttilä</b></a><br><sub>&#64;tommipenttila</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">667</td>
+<td align="right">701</td>
 <td><a href="https://github.com/tonijaaskelainen"><img src="https://avatars.githubusercontent.com/u/16157431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonijaaskelainen"><b>Toni Jääskeläinen</b></a><br><sub>&#64;tonijaaskelainen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">668</td>
+<td align="right">702</td>
 <td><a href="https://github.com/Tupsu"><img src="https://avatars.githubusercontent.com/u/1933950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tupsu"><b>Teemu Räsänen</b></a><br><sub>&#64;Tupsu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">669</td>
+<td align="right">703</td>
 <td><a href="https://github.com/virtanenanttim"><img src="https://avatars.githubusercontent.com/u/16084761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/virtanenanttim"><b>virtanenanttim</b></a><br><sub>&#64;virtanenanttim</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">670</td>
+<td align="right">704</td>
 <td><a href="https://github.com/vuorisalmi"><img src="https://avatars.githubusercontent.com/u/6758444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vuorisalmi"><b>Jussi Vuorisalmi</b></a><br><sub>&#64;vuorisalmi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">671</td>
+<td align="right">705</td>
 <td><a href="https://github.com/xproltd"><img src="https://avatars.githubusercontent.com/u/28985340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xproltd"><b>XPro Oy</b></a><br><sub>&#64;xproltd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">672</td>
+<td align="right">706</td>
 <td><a href="https://github.com/xufang"><img src="https://avatars.githubusercontent.com/u/1262388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xufang"><b>xufang</b></a><br><sub>&#64;xufang</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">673</td>
+<td align="right">707</td>
 <td><a href="https://github.com/2ardor6"><img src="https://avatars.githubusercontent.com/u/4822638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2ardor6"><b>jarkko.virtamaa</b></a><br><sub>&#64;2ardor6</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">674</td>
+<td align="right">708</td>
 <td><a href="https://github.com/AalJa"><img src="https://avatars.githubusercontent.com/u/26085762?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AalJa"><b>jarmo R Aaltonen</b></a><br><sub>&#64;AalJa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>South of Finland</sub></td>
 </tr>
 <tr>
-<td align="right">675</td>
+<td align="right">709</td>
 <td><a href="https://github.com/AbhishekS-NN"><img src="https://avatars.githubusercontent.com/u/11057163?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbhishekS-NN"><b>Abhishek Shekar</b></a><br><sub>&#64;AbhishekS-NN</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">676</td>
+<td align="right">710</td>
 <td><a href="https://github.com/Acmer77"><img src="https://avatars.githubusercontent.com/u/12033786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Acmer77"><b>Acmer77</b></a><br><sub>&#64;Acmer77</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">677</td>
+<td align="right">711</td>
 <td><a href="https://github.com/Acrodactyla"><img src="https://avatars.githubusercontent.com/u/8137981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Acrodactyla"><b>Acrodactyla</b></a><br><sub>&#64;Acrodactyla</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">678</td>
+<td align="right">712</td>
 <td><a href="https://github.com/aharlio"><img src="https://avatars.githubusercontent.com/u/16015530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aharlio"><b>aharlio</b></a><br><sub>&#64;aharlio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">679</td>
+<td align="right">713</td>
 <td><a href="https://github.com/aheavenx"><img src="https://avatars.githubusercontent.com/u/28729279?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aheavenx"><b>Alex Störgermann</b></a><br><sub>&#64;aheavenx</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">680</td>
+<td align="right">714</td>
 <td><a href="https://github.com/ahniemi"><img src="https://avatars.githubusercontent.com/u/13833026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahniemi"><b>Antti H Niemi</b></a><br><sub>&#64;ahniemi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">681</td>
+<td align="right">715</td>
 <td><a href="https://github.com/ahro"><img src="https://avatars.githubusercontent.com/u/1076102?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahro"><b>ahro</b></a><br><sub>&#64;ahro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">682</td>
+<td align="right">716</td>
 <td><a href="https://github.com/AivonOy"><img src="https://avatars.githubusercontent.com/u/4621058?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AivonOy"><b>AivonOy</b></a><br><sub>&#64;AivonOy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">683</td>
+<td align="right">717</td>
 <td><a href="https://github.com/akjulu"><img src="https://avatars.githubusercontent.com/u/3025829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akjulu"><b>armund</b></a><br><sub>&#64;akjulu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">684</td>
+<td align="right">718</td>
 <td><a href="https://github.com/Akseli1111"><img src="https://avatars.githubusercontent.com/u/30683850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Akseli1111"><b>Akseli1111</b></a><br><sub>&#64;Akseli1111</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">685</td>
+<td align="right">719</td>
 <td><a href="https://github.com/aleksipihkanen"><img src="https://avatars.githubusercontent.com/u/5748459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aleksipihkanen"><b>Aleksi Pihkanen</b></a><br><sub>&#64;aleksipihkanen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">686</td>
+<td align="right">720</td>
 <td><a href="https://github.com/aleksiranki"><img src="https://avatars.githubusercontent.com/u/3141755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aleksiranki"><b>Aleksi Ranki</b></a><br><sub>&#64;aleksiranki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">687</td>
+<td align="right">721</td>
 <td><a href="https://github.com/aleksispillai"><img src="https://avatars.githubusercontent.com/u/5762580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aleksispillai"><b>Aleksis Pillai</b></a><br><sub>&#64;aleksispillai</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">688</td>
+<td align="right">722</td>
 <td><a href="https://github.com/AlexeyTsy"><img src="https://avatars.githubusercontent.com/u/22601455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexeyTsy"><b>Alexey Tsykunov</b></a><br><sub>&#64;AlexeyTsy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">689</td>
+<td align="right">723</td>
 <td><a href="https://github.com/andersville"><img src="https://avatars.githubusercontent.com/u/4718294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andersville"><b>andersville</b></a><br><sub>&#64;andersville</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">690</td>
+<td align="right">724</td>
 <td><a href="https://github.com/AndiOu"><img src="https://avatars.githubusercontent.com/u/29335054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndiOu"><b>Antti</b></a><br><sub>&#64;AndiOu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">691</td>
+<td align="right">725</td>
 <td><a href="https://github.com/Andy1966"><img src="https://avatars.githubusercontent.com/u/5513887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Andy1966"><b>Andy</b></a><br><sub>&#64;Andy1966</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">692</td>
+<td align="right">726</td>
 <td><a href="https://github.com/anhakkar"><img src="https://avatars.githubusercontent.com/u/5389518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anhakkar"><b>Antti Hakkarainen</b></a><br><sub>&#64;anhakkar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">693</td>
+<td align="right">727</td>
 <td><a href="https://github.com/anhamala"><img src="https://avatars.githubusercontent.com/u/8775804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anhamala"><b>Antti PJ Hämäläinen</b></a><br><sub>&#64;anhamala</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">694</td>
+<td align="right">728</td>
 <td><a href="https://github.com/AnnakaisaLermunen"><img src="https://avatars.githubusercontent.com/u/12730635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnnakaisaLermunen"><b>Leo Sormunen</b></a><br><sub>&#64;AnnakaisaLermunen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">695</td>
+<td align="right">729</td>
 <td><a href="https://github.com/antpaana"><img src="https://avatars.githubusercontent.com/u/6028994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antpaana"><b>Antti Paananen</b></a><br><sub>&#64;antpaana</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Jyväskylä, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">696</td>
+<td align="right">730</td>
 <td><a href="https://github.com/AnttiKarkkainen"><img src="https://avatars.githubusercontent.com/u/24490375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnttiKarkkainen"><b>Antti Kärkkäinen</b></a><br><sub>&#64;AnttiKarkkainen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">697</td>
+<td align="right">731</td>
 <td><a href="https://github.com/anttimakela"><img src="https://avatars.githubusercontent.com/u/10183738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anttimakela"><b>Antti Mäkelä</b></a><br><sub>&#64;anttimakela</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Turku, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">698</td>
+<td align="right">732</td>
 <td><a href="https://github.com/ArashBroumand"><img src="https://avatars.githubusercontent.com/u/20267961?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArashBroumand"><b>Arash Broumand</b></a><br><sub>&#64;ArashBroumand</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">699</td>
+<td align="right">733</td>
 <td><a href="https://github.com/Ardelorezo"><img src="https://avatars.githubusercontent.com/u/23655401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ardelorezo"><b>Alpi Jokinen</b></a><br><sub>&#64;Ardelorezo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">700</td>
+<td align="right">734</td>
 <td><a href="https://github.com/argtus"><img src="https://avatars.githubusercontent.com/u/11436442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/argtus"><b>argtus</b></a><br><sub>&#64;argtus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">701</td>
+<td align="right">735</td>
 <td><a href="https://github.com/ariantti"><img src="https://avatars.githubusercontent.com/u/9782115?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ariantti"><b>Ari-Antti Tervonen</b></a><br><sub>&#64;ariantti</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland, Kajaani</sub></td>
 </tr>
 <tr>
-<td align="right">702</td>
+<td align="right">736</td>
 <td><a href="https://github.com/Arska134"><img src="https://avatars.githubusercontent.com/u/5425311?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arska134"><b>Ari Salonen</b></a><br><sub>&#64;Arska134</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">703</td>
+<td align="right">737</td>
 <td><a href="https://github.com/artnetepin"><img src="https://avatars.githubusercontent.com/u/14889924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/artnetepin"><b>Artem Netepin</b></a><br><sub>&#64;artnetepin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">704</td>
+<td align="right">738</td>
 <td><a href="https://github.com/ArtoKeskiniva"><img src="https://avatars.githubusercontent.com/u/16415799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArtoKeskiniva"><b>artkessinch</b></a><br><sub>&#64;ArtoKeskiniva</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">705</td>
+<td align="right">739</td>
 <td><a href="https://github.com/arttuska"><img src="https://avatars.githubusercontent.com/u/3789198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arttuska"><b>Arttu Uskali</b></a><br><sub>&#64;arttuska</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">706</td>
+<td align="right">740</td>
 <td><a href="https://github.com/Artzax"><img src="https://avatars.githubusercontent.com/u/11279619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Artzax"><b>Arttu</b></a><br><sub>&#64;Artzax</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">707</td>
+<td align="right">741</td>
 <td><a href="https://github.com/assen-velichkov"><img src="https://avatars.githubusercontent.com/u/10449516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/assen-velichkov"><b>Asen Velichkov</b></a><br><sub>&#64;assen-velichkov</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">708</td>
+<td align="right">742</td>
 <td><a href="https://github.com/ayzitdicle"><img src="https://avatars.githubusercontent.com/u/12434994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ayzitdicle"><b>ayzitdicle</b></a><br><sub>&#64;ayzitdicle</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">709</td>
+<td align="right">743</td>
 <td><a href="https://github.com/Baavoz"><img src="https://avatars.githubusercontent.com/u/21040581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Baavoz"><b>baavoz</b></a><br><sub>&#64;Baavoz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">710</td>
+<td align="right">744</td>
 <td><a href="https://github.com/bbthess"><img src="https://avatars.githubusercontent.com/u/31761043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bbthess"><b>Theresa Boatemaa Baidoo</b></a><br><sub>&#64;bbthess</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki Finland</sub></td>
 </tr>
 <tr>
-<td align="right">711</td>
+<td align="right">745</td>
 <td><a href="https://github.com/birdbybird"><img src="https://avatars.githubusercontent.com/u/1276224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/birdbybird"><b>Maria Starodubtseva</b></a><br><sub>&#64;birdbybird</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">712</td>
+<td align="right">746</td>
 <td><a href="https://github.com/blagovestpetrov"><img src="https://avatars.githubusercontent.com/u/1632801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blagovestpetrov"><b>Blagovest Petrov</b></a><br><sub>&#64;blagovestpetrov</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">713</td>
+<td align="right">747</td>
 <td><a href="https://github.com/BohseOnkel63"><img src="https://avatars.githubusercontent.com/u/9931607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BohseOnkel63"><b>Ilkka Mannelin</b></a><br><sub>&#64;BohseOnkel63</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">714</td>
+<td align="right">748</td>
 <td><a href="https://github.com/BPG-InfoTech"><img src="https://avatars.githubusercontent.com/u/34909849?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BPG-InfoTech"><b>Besarion Gugushvili (ბესარიონ გუგუშვილი)</b></a><br><sub>&#64;BPG-InfoTech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Vantaa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">715</td>
+<td align="right">749</td>
 <td><a href="https://github.com/Caius1"><img src="https://avatars.githubusercontent.com/u/16825308?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Caius1"><b>Kai Pirttiniemi</b></a><br><sub>&#64;Caius1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">716</td>
+<td align="right">750</td>
 <td><a href="https://github.com/carcar294"><img src="https://avatars.githubusercontent.com/u/20538215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carcar294"><b>carcar</b></a><br><sub>&#64;carcar294</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">717</td>
+<td align="right">751</td>
 <td><a href="https://github.com/cfluci"><img src="https://avatars.githubusercontent.com/u/31613201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cfluci"><b>Cfluci</b></a><br><sub>&#64;cfluci</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">718</td>
+<td align="right">752</td>
 <td><a href="https://github.com/ChitraVivek"><img src="https://avatars.githubusercontent.com/u/17853150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChitraVivek"><b>ChitraVivek</b></a><br><sub>&#64;ChitraVivek</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">719</td>
+<td align="right">753</td>
 <td><a href="https://github.com/cthappylife"><img src="https://avatars.githubusercontent.com/u/17879337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cthappylife"><b>Tong CHANG</b></a><br><sub>&#64;cthappylife</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">720</td>
+<td align="right">754</td>
 <td><a href="https://github.com/daeora"><img src="https://avatars.githubusercontent.com/u/20611117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daeora"><b>Daeora</b></a><br><sub>&#64;daeora</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">721</td>
+<td align="right">755</td>
 <td><a href="https://github.com/Datariihi"><img src="https://avatars.githubusercontent.com/u/11769135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Datariihi"><b>Datariihi</b></a><br><sub>&#64;Datariihi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Seinäjoki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">722</td>
+<td align="right">756</td>
 <td><a href="https://github.com/davoturo"><img src="https://avatars.githubusercontent.com/u/20230607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davoturo"><b>davoturo</b></a><br><sub>&#64;davoturo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">723</td>
+<td align="right">757</td>
 <td><a href="https://github.com/Dexamin"><img src="https://avatars.githubusercontent.com/u/23222151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dexamin"><b>Dexamin</b></a><br><sub>&#64;Dexamin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">724</td>
+<td align="right">758</td>
 <td><a href="https://github.com/dkudinov"><img src="https://avatars.githubusercontent.com/u/1485322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dkudinov"><b>Dmitry Kudinov</b></a><br><sub>&#64;dkudinov</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">725</td>
+<td align="right">759</td>
 <td><a href="https://github.com/Donniedarkoz"><img src="https://avatars.githubusercontent.com/u/3165668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Donniedarkoz"><b>Hezekiah</b></a><br><sub>&#64;Donniedarkoz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">726</td>
+<td align="right">760</td>
 <td><a href="https://github.com/Ducknowwed"><img src="https://avatars.githubusercontent.com/u/151965360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ducknowwed"><b>Unknowwed</b></a><br><sub>&#64;Ducknowwed</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">727</td>
+<td align="right">761</td>
 <td><a href="https://github.com/duri93"><img src="https://avatars.githubusercontent.com/u/23726882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duri93"><b>Nicola Durighetto</b></a><br><sub>&#64;duri93</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">728</td>
+<td align="right">762</td>
 <td><a href="https://github.com/eeallo"><img src="https://avatars.githubusercontent.com/u/6094156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eeallo"><b>Eero L</b></a><br><sub>&#64;eeallo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">729</td>
+<td align="right">763</td>
 <td><a href="https://github.com/Eludings"><img src="https://avatars.githubusercontent.com/u/34161851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eludings"><b>Eludings</b></a><br><sub>&#64;Eludings</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">730</td>
+<td align="right">764</td>
 <td><a href="https://github.com/emeijori"><img src="https://avatars.githubusercontent.com/u/8770253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emeijori"><b>Emil Riikonen</b></a><br><sub>&#64;emeijori</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Jyväskylä, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">731</td>
+<td align="right">765</td>
 <td><a href="https://github.com/EnergySnail"><img src="https://avatars.githubusercontent.com/u/6517573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EnergySnail"><b>Eero</b></a><br><sub>&#64;EnergySnail</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">732</td>
+<td align="right">766</td>
 <td><a href="https://github.com/enyak"><img src="https://avatars.githubusercontent.com/u/1184359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enyak"><b>Kim Ekblad</b></a><br><sub>&#64;enyak</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">733</td>
+<td align="right">767</td>
 <td><a href="https://github.com/erikschmidt3001"><img src="https://avatars.githubusercontent.com/u/1197114?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erikschmidt3001"><b>Erik</b></a><br><sub>&#64;erikschmidt3001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">734</td>
+<td align="right">768</td>
 <td><a href="https://github.com/evdomene"><img src="https://avatars.githubusercontent.com/u/26541619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evdomene"><b>evdomene</b></a><br><sub>&#64;evdomene</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">735</td>
+<td align="right">769</td>
 <td><a href="https://github.com/fisuKlonkku"><img src="https://avatars.githubusercontent.com/u/1565755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fisuKlonkku"><b>Antti Haikala</b></a><br><sub>&#64;fisuKlonkku</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">736</td>
+<td align="right">770</td>
 <td><a href="https://github.com/I3rawler"><img src="https://avatars.githubusercontent.com/u/32264706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/I3rawler"><b>Ville W</b></a><br><sub>&#64;I3rawler</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">737</td>
+<td align="right">771</td>
 <td><a href="https://github.com/iris-yu"><img src="https://avatars.githubusercontent.com/u/8639336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iris-yu"><b>iris-yu</b></a><br><sub>&#64;iris-yu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">738</td>
+<td align="right">772</td>
 <td><a href="https://github.com/j-vee"><img src="https://avatars.githubusercontent.com/u/19985430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/j-vee"><b>Juhani Väätäjä</b></a><br><sub>&#64;j-vee</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Turku, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">739</td>
+<td align="right">773</td>
 <td><a href="https://github.com/jaakko-m"><img src="https://avatars.githubusercontent.com/u/1921161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaakko-m"><b>Jaakko M</b></a><br><sub>&#64;jaakko-m</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">740</td>
+<td align="right">774</td>
 <td><a href="https://github.com/jkolkka"><img src="https://avatars.githubusercontent.com/u/11076992?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jkolkka"><b>Joonas Kolkka</b></a><br><sub>&#64;jkolkka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">741</td>
+<td align="right">775</td>
 <td><a href="https://github.com/julegoa"><img src="https://avatars.githubusercontent.com/u/879306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/julegoa"><b>Jukka Leino</b></a><br><sub>&#64;julegoa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki Finland</sub></td>
 </tr>
 <tr>
-<td align="right">742</td>
+<td align="right">776</td>
 <td><a href="https://github.com/jwakooli"><img src="https://avatars.githubusercontent.com/u/1904010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jwakooli"><b>Wakooli Joseph</b></a><br><sub>&#64;jwakooli</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">743</td>
+<td align="right">777</td>
 <td><a href="https://github.com/KaarloHirvi"><img src="https://avatars.githubusercontent.com/u/34439179?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KaarloHirvi"><b>Kaarlo &#39;Kalle&#39; Hirvi</b></a><br><sub>&#64;KaarloHirvi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Vantaa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">744</td>
+<td align="right">778</td>
 <td><a href="https://github.com/Kreunz"><img src="https://avatars.githubusercontent.com/u/33286478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kreunz"><b>Kreunz</b></a><br><sub>&#64;Kreunz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">745</td>
+<td align="right">779</td>
 <td><a href="https://github.com/laaksonen"><img src="https://avatars.githubusercontent.com/u/1666510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laaksonen"><b>Lauri Laaksonen</b></a><br><sub>&#64;laaksonen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">746</td>
+<td align="right">780</td>
 <td><a href="https://github.com/lamedh"><img src="https://avatars.githubusercontent.com/u/1800266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lamedh"><b>Lauri Laaksonen</b></a><br><sub>&#64;lamedh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Kotka, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">747</td>
+<td align="right">781</td>
 <td><a href="https://github.com/lauriparviainen"><img src="https://avatars.githubusercontent.com/u/6441726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lauriparviainen"><b>Lauri Parviainen</b></a><br><sub>&#64;lauriparviainen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki - Finland</sub></td>
 </tr>
 <tr>
-<td align="right">748</td>
+<td align="right">782</td>
 <td><a href="https://github.com/Mantsuria"><img src="https://avatars.githubusercontent.com/u/4996895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mantsuria"><b>Mantsuria</b></a><br><sub>&#64;Mantsuria</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki Finland</sub></td>
 </tr>
 <tr>
-<td align="right">749</td>
+<td align="right">783</td>
 <td><a href="https://github.com/mattiku"><img src="https://avatars.githubusercontent.com/u/195656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattiku"><b>Matti Kuonanoja</b></a><br><sub>&#64;mattiku</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">750</td>
+<td align="right">784</td>
 <td><a href="https://github.com/metsak"><img src="https://avatars.githubusercontent.com/u/15201090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/metsak"><b>metsak</b></a><br><sub>&#64;metsak</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">751</td>
+<td align="right">785</td>
 <td><a href="https://github.com/mexgui"><img src="https://avatars.githubusercontent.com/u/5850316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mexgui"><b>Jeremi Roivas</b></a><br><sub>&#64;mexgui</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Turku, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">752</td>
+<td align="right">786</td>
 <td><a href="https://github.com/mikaelkarvajalka"><img src="https://avatars.githubusercontent.com/u/85900247?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikaelkarvajalka"><b>mikaelkarvajalka</b></a><br><sub>&#64;mikaelkarvajalka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">753</td>
+<td align="right">787</td>
 <td><a href="https://github.com/MkkLn"><img src="https://avatars.githubusercontent.com/u/18614715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MkkLn"><b>Mikko Laine</b></a><br><sub>&#64;MkkLn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">754</td>
+<td align="right">788</td>
 <td><a href="https://github.com/mkorhonen"><img src="https://avatars.githubusercontent.com/u/8456897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkorhonen"><b>Mikko Korhonen</b></a><br><sub>&#64;mkorhonen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">755</td>
+<td align="right">789</td>
 <td><a href="https://github.com/oxygan"><img src="https://avatars.githubusercontent.com/u/17769382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oxygan"><b>oxygan</b></a><br><sub>&#64;oxygan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">756</td>
+<td align="right">790</td>
 <td><a href="https://github.com/Peerlez"><img src="https://avatars.githubusercontent.com/u/5331758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Peerlez"><b>Antti</b></a><br><sub>&#64;Peerlez</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">757</td>
+<td align="right">791</td>
 <td><a href="https://github.com/PekkaRuuska"><img src="https://avatars.githubusercontent.com/u/7378355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PekkaRuuska"><b>Pekka Ruuska</b></a><br><sub>&#64;PekkaRuuska</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">758</td>
+<td align="right">792</td>
 <td><a href="https://github.com/pimiz"><img src="https://avatars.githubusercontent.com/u/6949403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pimiz"><b>pimiz</b></a><br><sub>&#64;pimiz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">759</td>
+<td align="right">793</td>
 <td><a href="https://github.com/pvehvila"><img src="https://avatars.githubusercontent.com/u/13777720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pvehvila"><b>Pekko</b></a><br><sub>&#64;pvehvila</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Riihimäki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">760</td>
+<td align="right">794</td>
 <td><a href="https://github.com/rabbewalter"><img src="https://avatars.githubusercontent.com/u/13788804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rabbewalter"><b>rabbewalter</b></a><br><sub>&#64;rabbewalter</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki Finland</sub></td>
 </tr>
 <tr>
-<td align="right">761</td>
+<td align="right">795</td>
 <td><a href="https://github.com/Rengierof"><img src="https://avatars.githubusercontent.com/u/11182478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rengierof"><b>Rengierof</b></a><br><sub>&#64;Rengierof</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">762</td>
+<td align="right">796</td>
 <td><a href="https://github.com/ronipetertormanen"><img src="https://avatars.githubusercontent.com/u/138982882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ronipetertormanen"><b>Roni Peter Tormanen</b></a><br><sub>&#64;ronipetertormanen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">763</td>
+<td align="right">797</td>
 <td><a href="https://github.com/SOS-Bob"><img src="https://avatars.githubusercontent.com/u/13051278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SOS-Bob"><b>Peacebob</b></a><br><sub>&#64;SOS-Bob</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">764</td>
+<td align="right">798</td>
 <td><a href="https://github.com/teemukorh"><img src="https://avatars.githubusercontent.com/u/1035213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teemukorh"><b>Teemu Korhonen</b></a><br><sub>&#64;teemukorh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">765</td>
+<td align="right">799</td>
 <td><a href="https://github.com/tiptyper"><img src="https://avatars.githubusercontent.com/u/10966117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tiptyper"><b>tiptyper</b></a><br><sub>&#64;tiptyper</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">766</td>
+<td align="right">800</td>
 <td><a href="https://github.com/tmfour888"><img src="https://avatars.githubusercontent.com/u/9643467?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tmfour888"><b>Janne Askola</b></a><br><sub>&#64;tmfour888</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">767</td>
+<td align="right">801</td>
 <td><a href="https://github.com/Tuokki"><img src="https://avatars.githubusercontent.com/u/6375854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tuokki"><b>Tuomas Saranen</b></a><br><sub>&#64;Tuokki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">768</td>
+<td align="right">802</td>
 <td><a href="https://github.com/uitiu"><img src="https://avatars.githubusercontent.com/u/1064689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uitiu"><b>Tia Honkanen</b></a><br><sub>&#64;uitiu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">769</td>
+<td align="right">803</td>
 <td><a href="https://github.com/112Dator"><img src="https://avatars.githubusercontent.com/u/94840461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/112Dator"><b>112Dator</b></a><br><sub>&#64;112Dator</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland, Tampere</sub></td>
 </tr>
 <tr>
-<td align="right">770</td>
+<td align="right">804</td>
 <td><a href="https://github.com/ahakaste"><img src="https://avatars.githubusercontent.com/u/18718670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahakaste"><b>Ari Hakaste</b></a><br><sub>&#64;ahakaste</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">771</td>
+<td align="right">805</td>
 <td><a href="https://github.com/airaksinenkaroliina"><img src="https://avatars.githubusercontent.com/u/6782026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/airaksinenkaroliina"><b>Karoliina Airaksinen</b></a><br><sub>&#64;airaksinenkaroliina</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">772</td>
+<td align="right">806</td>
 <td><a href="https://github.com/ais6000"><img src="https://avatars.githubusercontent.com/u/25297279?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ais6000"><b>Sami Asmundi</b></a><br><sub>&#64;ais6000</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">773</td>
+<td align="right">807</td>
 <td><a href="https://github.com/ajrautio"><img src="https://avatars.githubusercontent.com/u/17847494?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ajrautio"><b>Anssi Rautio</b></a><br><sub>&#64;ajrautio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mikkeli / Finland</sub></td>
 </tr>
 <tr>
-<td align="right">774</td>
+<td align="right">808</td>
 <td><a href="https://github.com/akeskinen"><img src="https://avatars.githubusercontent.com/u/8901984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akeskinen"><b>Antti Keskinen</b></a><br><sub>&#64;akeskinen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">775</td>
+<td align="right">809</td>
 <td><a href="https://github.com/akuMaku"><img src="https://avatars.githubusercontent.com/u/5284770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akuMaku"><b>Aku Meriläinen</b></a><br><sub>&#64;akuMaku</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Rovaniemi, Lapland, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">776</td>
+<td align="right">810</td>
 <td><a href="https://github.com/alanspesialist"><img src="https://avatars.githubusercontent.com/u/11898794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alanspesialist"><b>Pasi Hämäläinen</b></a><br><sub>&#64;alanspesialist</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">777</td>
+<td align="right">811</td>
 <td><a href="https://github.com/aleksivaan"><img src="https://avatars.githubusercontent.com/u/23168820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aleksivaan"><b>Aleksi Vuorenmaa</b></a><br><sub>&#64;aleksivaan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">778</td>
+<td align="right">812</td>
 <td><a href="https://github.com/alexkarpenk"><img src="https://avatars.githubusercontent.com/u/8971062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexkarpenk"><b>Alexander Karpenko</b></a><br><sub>&#64;alexkarpenk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">779</td>
+<td align="right">813</td>
 <td><a href="https://github.com/algaekmlee"><img src="https://avatars.githubusercontent.com/u/5351732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/algaekmlee"><b>KML</b></a><br><sub>&#64;algaekmlee</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">780</td>
+<td align="right">814</td>
 <td><a href="https://github.com/AllMost"><img src="https://avatars.githubusercontent.com/u/10087924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AllMost"><b>AllMost</b></a><br><sub>&#64;AllMost</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">781</td>
+<td align="right">815</td>
 <td><a href="https://github.com/amarkus"><img src="https://avatars.githubusercontent.com/u/1758734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amarkus"><b>Markus Aukeala</b></a><br><sub>&#64;amarkus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">782</td>
+<td align="right">816</td>
 <td><a href="https://github.com/anatoliykim"><img src="https://avatars.githubusercontent.com/u/7089946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anatoliykim"><b>Anatoliy Kim</b></a><br><sub>&#64;anatoliykim</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">783</td>
+<td align="right">817</td>
 <td><a href="https://github.com/AndrewAni"><img src="https://avatars.githubusercontent.com/u/4901412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndrewAni"><b>Andrei Anishchenko</b></a><br><sub>&#64;AndrewAni</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">784</td>
+<td align="right">818</td>
 <td><a href="https://github.com/andynosebone"><img src="https://avatars.githubusercontent.com/u/6113516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andynosebone"><b>Antti Y.</b></a><br><sub>&#64;andynosebone</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">785</td>
+<td align="right">819</td>
 <td><a href="https://github.com/ansaria1"><img src="https://avatars.githubusercontent.com/u/3075130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ansaria1"><b>Aftab Ansari</b></a><br><sub>&#64;ansaria1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">786</td>
+<td align="right">820</td>
 <td><a href="https://github.com/AnttiHoo"><img src="https://avatars.githubusercontent.com/u/3972833?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnttiHoo"><b>Antti Honkanen</b></a><br><sub>&#64;AnttiHoo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">787</td>
+<td align="right">821</td>
 <td><a href="https://github.com/ari-rantanen"><img src="https://avatars.githubusercontent.com/u/17594322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ari-rantanen"><b>Ari Rantanen</b></a><br><sub>&#64;ari-rantanen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">788</td>
+<td align="right">822</td>
 <td><a href="https://github.com/Arimea"><img src="https://avatars.githubusercontent.com/u/6060825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arimea"><b>Arimea</b></a><br><sub>&#64;Arimea</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Rovaniemi, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">789</td>
+<td align="right">823</td>
 <td><a href="https://github.com/AriRusila"><img src="https://avatars.githubusercontent.com/u/1124005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AriRusila"><b>Ari Rusila</b></a><br><sub>&#64;AriRusila</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">790</td>
+<td align="right">824</td>
 <td><a href="https://github.com/arjakatajamaki"><img src="https://avatars.githubusercontent.com/u/8538109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arjakatajamaki"><b>Arja Katajamäki</b></a><br><sub>&#64;arjakatajamaki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Turku, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">791</td>
+<td align="right">825</td>
 <td><a href="https://github.com/Arska86"><img src="https://avatars.githubusercontent.com/u/7848145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arska86"><b>Arska</b></a><br><sub>&#64;Arska86</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">792</td>
+<td align="right">826</td>
 <td><a href="https://github.com/Arto1234"><img src="https://avatars.githubusercontent.com/u/9713909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arto1234"><b>Arto Rasimus</b></a><br><sub>&#64;Arto1234</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">793</td>
+<td align="right">827</td>
 <td><a href="https://github.com/ArtsiX"><img src="https://avatars.githubusercontent.com/u/11723607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArtsiX"><b>Leevi Autioniemi</b></a><br><sub>&#64;ArtsiX</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">794</td>
+<td align="right">828</td>
 <td><a href="https://github.com/arttukalli"><img src="https://avatars.githubusercontent.com/u/10222674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arttukalli"><b>Arttu Kalli</b></a><br><sub>&#64;arttukalli</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">795</td>
+<td align="right">829</td>
 <td><a href="https://github.com/asfawabe"><img src="https://avatars.githubusercontent.com/u/4092469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asfawabe"><b>Asfaw Abera</b></a><br><sub>&#64;asfawabe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">796</td>
+<td align="right">830</td>
 <td><a href="https://github.com/asiiskonen"><img src="https://avatars.githubusercontent.com/u/33401589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asiiskonen"><b>Antti Siiskonen</b></a><br><sub>&#64;asiiskonen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">797</td>
+<td align="right">831</td>
 <td><a href="https://github.com/attepaarni"><img src="https://avatars.githubusercontent.com/u/17568825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/attepaarni"><b>Atte Päärni</b></a><br><sub>&#64;attepaarni</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">798</td>
+<td align="right">832</td>
 <td><a href="https://github.com/atthee"><img src="https://avatars.githubusercontent.com/u/18591956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atthee"><b>atthee</b></a><br><sub>&#64;atthee</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">799</td>
+<td align="right">833</td>
 <td><a href="https://github.com/AttracsBuilder"><img src="https://avatars.githubusercontent.com/u/3438258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AttracsBuilder"><b>AttracsBuilder</b></a><br><sub>&#64;AttracsBuilder</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kokkola, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">800</td>
+<td align="right">834</td>
 <td><a href="https://github.com/axido"><img src="https://avatars.githubusercontent.com/u/9164125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/axido"><b>axido</b></a><br><sub>&#64;axido</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">801</td>
+<td align="right">835</td>
 <td><a href="https://github.com/Axxuu"><img src="https://avatars.githubusercontent.com/u/17080730?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Axxuu"><b>Aku Karjalainen</b></a><br><sub>&#64;Axxuu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">802</td>
+<td align="right">836</td>
 <td><a href="https://github.com/babattaja"><img src="https://avatars.githubusercontent.com/u/7632066?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/babattaja"><b>Baba</b></a><br><sub>&#64;babattaja</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">803</td>
+<td align="right">837</td>
 <td><a href="https://github.com/bbraithwa"><img src="https://avatars.githubusercontent.com/u/8910570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bbraithwa"><b>Billy Braithwaite</b></a><br><sub>&#64;bbraithwa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kuopio, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">804</td>
+<td align="right">838</td>
 <td><a href="https://github.com/bennerc"><img src="https://avatars.githubusercontent.com/u/5407887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bennerc"><b>Christian Benner</b></a><br><sub>&#64;bennerc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki / Finland</sub></td>
 </tr>
 <tr>
-<td align="right">805</td>
+<td align="right">839</td>
 <td><a href="https://github.com/berfloo"><img src="https://avatars.githubusercontent.com/u/8210640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/berfloo"><b>Cuong Tran</b></a><br><sub>&#64;berfloo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">806</td>
+<td align="right">840</td>
 <td><a href="https://github.com/blistudio"><img src="https://avatars.githubusercontent.com/u/6795110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blistudio"><b>Blistud:io</b></a><br><sub>&#64;blistudio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">807</td>
+<td align="right">841</td>
 <td><a href="https://github.com/Bogdan1023"><img src="https://avatars.githubusercontent.com/u/10152927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bogdan1023"><b>Bogdan Udrescu</b></a><br><sub>&#64;Bogdan1023</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki,Finland</sub></td>
 </tr>
 <tr>
-<td align="right">808</td>
+<td align="right">842</td>
 <td><a href="https://github.com/Brynder"><img src="https://avatars.githubusercontent.com/u/22101035?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Brynder"><b>Brynder</b></a><br><sub>&#64;Brynder</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">809</td>
+<td align="right">843</td>
 <td><a href="https://github.com/Bugista"><img src="https://avatars.githubusercontent.com/u/13829113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bugista"><b>Ossi Rajala</b></a><br><sub>&#64;Bugista</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jyväskylä, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">810</td>
+<td align="right">844</td>
 <td><a href="https://github.com/bunnywar"><img src="https://avatars.githubusercontent.com/u/25041360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bunnywar"><b>Bushra Nawar</b></a><br><sub>&#64;bunnywar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">811</td>
+<td align="right">845</td>
 <td><a href="https://github.com/c-gonza"><img src="https://avatars.githubusercontent.com/u/24352262?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/c-gonza"><b>Cassandra Gonzalez</b></a><br><sub>&#64;c-gonza</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">812</td>
+<td align="right">846</td>
 <td><a href="https://github.com/C0rnH0lio"><img src="https://avatars.githubusercontent.com/u/18287660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/C0rnH0lio"><b>Simon</b></a><br><sub>&#64;C0rnH0lio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">813</td>
+<td align="right">847</td>
 <td><a href="https://github.com/calaghan"><img src="https://avatars.githubusercontent.com/u/12598609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/calaghan"><b>Niko Kalinainen</b></a><br><sub>&#64;calaghan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">814</td>
+<td align="right">848</td>
 <td><a href="https://github.com/Calveen"><img src="https://avatars.githubusercontent.com/u/20225997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Calveen"><b>Kelvin Chikezie</b></a><br><sub>&#64;Calveen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">815</td>
+<td align="right">849</td>
 <td><a href="https://github.com/CarloRogers"><img src="https://avatars.githubusercontent.com/u/6383970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CarloRogers"><b>Carlo Rogers</b></a><br><sub>&#64;CarloRogers</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">816</td>
+<td align="right">850</td>
 <td><a href="https://github.com/Chungpie"><img src="https://avatars.githubusercontent.com/u/18725524?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chungpie"><b>Trung</b></a><br><sub>&#64;Chungpie</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">817</td>
+<td align="right">851</td>
 <td><a href="https://github.com/crandrei"><img src="https://avatars.githubusercontent.com/u/29038632?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crandrei"><b>Cristian Andrei</b></a><br><sub>&#64;crandrei</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">818</td>
+<td align="right">852</td>
 <td><a href="https://github.com/Cybeet"><img src="https://avatars.githubusercontent.com/u/1738102?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cybeet"><b>Cybeet</b></a><br><sub>&#64;Cybeet</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>127.0.0.1 (or alternatively, Finland)</sub></td>
 </tr>
 <tr>
-<td align="right">819</td>
+<td align="right">853</td>
 <td><a href="https://github.com/dangkhanhchi"><img src="https://avatars.githubusercontent.com/u/12866567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dangkhanhchi"><b>Chi</b></a><br><sub>&#64;dangkhanhchi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">820</td>
+<td align="right">854</td>
 <td><a href="https://github.com/danjarule"><img src="https://avatars.githubusercontent.com/u/24755708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danjarule"><b>DANIEL KIMUTAI</b></a><br><sub>&#64;danjarule</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland.</sub></td>
 </tr>
 <tr>
-<td align="right">821</td>
+<td align="right">855</td>
 <td><a href="https://github.com/DariaUno"><img src="https://avatars.githubusercontent.com/u/11899167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DariaUno"><b>Daria</b></a><br><sub>&#64;DariaUno</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">822</td>
+<td align="right">856</td>
 <td><a href="https://github.com/datadiwan"><img src="https://avatars.githubusercontent.com/u/178592601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/datadiwan"><b>DataDiwan</b></a><br><sub>&#64;datadiwan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">823</td>
+<td align="right">857</td>
 <td><a href="https://github.com/De-vast"><img src="https://avatars.githubusercontent.com/u/17239101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/De-vast"><b>Niko</b></a><br><sub>&#64;De-vast</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kotka, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">824</td>
+<td align="right">858</td>
 <td><a href="https://github.com/dedseriouz"><img src="https://avatars.githubusercontent.com/u/25525496?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dedseriouz"><b>DedSeriouz</b></a><br><sub>&#64;dedseriouz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">825</td>
+<td align="right">859</td>
 <td><a href="https://github.com/DeeYyIi"><img src="https://avatars.githubusercontent.com/u/22515036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DeeYyIi"><b>Markku Virtanen</b></a><br><sub>&#64;DeeYyIi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">826</td>
+<td align="right">860</td>
 <td><a href="https://github.com/dejafoo"><img src="https://avatars.githubusercontent.com/u/7879950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dejafoo"><b>Tero Lipponen</b></a><br><sub>&#64;dejafoo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">827</td>
+<td align="right">861</td>
 <td><a href="https://github.com/Diapam"><img src="https://avatars.githubusercontent.com/u/15155444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Diapam"><b>Toni.K</b></a><br><sub>&#64;Diapam</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">828</td>
+<td align="right">862</td>
 <td><a href="https://github.com/dinsq"><img src="https://avatars.githubusercontent.com/u/6552373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dinsq"><b>Saku Tuominen</b></a><br><sub>&#64;dinsq</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">829</td>
+<td align="right">863</td>
 <td><a href="https://github.com/dmakaroff-rw"><img src="https://avatars.githubusercontent.com/u/27850827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmakaroff-rw"><b>Dmitry Makarov</b></a><br><sub>&#64;dmakaroff-rw</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">830</td>
+<td align="right">864</td>
 <td><a href="https://github.com/DMRMcKee"><img src="https://avatars.githubusercontent.com/u/14852735?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DMRMcKee"><b>Dave McKee</b></a><br><sub>&#64;DMRMcKee</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">831</td>
+<td align="right">865</td>
 <td><a href="https://github.com/dooker"><img src="https://avatars.githubusercontent.com/u/10001557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dooker"><b>Ingmar Ross</b></a><br><sub>&#64;dooker</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">832</td>
+<td align="right">866</td>
 <td><a href="https://github.com/Dreamaholic"><img src="https://avatars.githubusercontent.com/u/5959050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dreamaholic"><b>Dreamaholic</b></a><br><sub>&#64;Dreamaholic</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">833</td>
+<td align="right">867</td>
 <td><a href="https://github.com/Drosanski"><img src="https://avatars.githubusercontent.com/u/18325760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Drosanski"><b>Stanislav Drosanski</b></a><br><sub>&#64;Drosanski</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">834</td>
+<td align="right">868</td>
 <td><a href="https://github.com/easmala"><img src="https://avatars.githubusercontent.com/u/16918677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/easmala"><b>Eero Asmala</b></a><br><sub>&#64;easmala</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">835</td>
+<td align="right">869</td>
 <td><a href="https://github.com/echlinm"><img src="https://avatars.githubusercontent.com/u/18668250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/echlinm"><b>Moriah Echlin</b></a><br><sub>&#64;echlinm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">836</td>
+<td align="right">870</td>
 <td><a href="https://github.com/ekvirtanen"><img src="https://avatars.githubusercontent.com/u/8094129?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ekvirtanen"><b>Kristian Virtanen</b></a><br><sub>&#64;ekvirtanen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">837</td>
+<td align="right">871</td>
 <td><a href="https://github.com/ElenaNeu"><img src="https://avatars.githubusercontent.com/u/139997470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ElenaNeu"><b>Elena Neu</b></a><br><sub>&#64;ElenaNeu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">838</td>
+<td align="right">872</td>
 <td><a href="https://github.com/eliapeura"><img src="https://avatars.githubusercontent.com/u/24189562?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eliapeura"><b>Elia Peura</b></a><br><sub>&#64;eliapeura</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">839</td>
+<td align="right">873</td>
 <td><a href="https://github.com/eliasvalt"><img src="https://avatars.githubusercontent.com/u/26282185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eliasvalt"><b>eliasvalt</b></a><br><sub>&#64;eliasvalt</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>FInland</sub></td>
 </tr>
 <tr>
-<td align="right">840</td>
+<td align="right">874</td>
 <td><a href="https://github.com/emultia"><img src="https://avatars.githubusercontent.com/u/10366022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emultia"><b>Evgen Multia</b></a><br><sub>&#64;emultia</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">841</td>
+<td align="right">875</td>
 <td><a href="https://github.com/erakkun"><img src="https://avatars.githubusercontent.com/u/8999555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erakkun"><b>erakkun</b></a><br><sub>&#64;erakkun</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">842</td>
+<td align="right">876</td>
 <td><a href="https://github.com/eranpet"><img src="https://avatars.githubusercontent.com/u/10773330?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eranpet"><b>Petri Eränkö</b></a><br><sub>&#64;eranpet</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">843</td>
+<td align="right">877</td>
 <td><a href="https://github.com/EskoMalm"><img src="https://avatars.githubusercontent.com/u/12293875?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EskoMalm"><b>Esko Malm</b></a><br><sub>&#64;EskoMalm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">844</td>
+<td align="right">878</td>
 <td><a href="https://github.com/Filippus"><img src="https://avatars.githubusercontent.com/u/11085847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Filippus"><b>Vilppu P.</b></a><br><sub>&#64;Filippus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">845</td>
+<td align="right">879</td>
 <td><a href="https://github.com/geokatkot"><img src="https://avatars.githubusercontent.com/u/23211109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geokatkot"><b>Geokätköt.fi</b></a><br><sub>&#64;geokatkot</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Vantaa, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">846</td>
+<td align="right">880</td>
 <td><a href="https://github.com/ghaziamanullah"><img src="https://avatars.githubusercontent.com/u/864098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghaziamanullah"><b>Amanullah Ghazi</b></a><br><sub>&#64;ghaziamanullah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">847</td>
+<td align="right">881</td>
 <td><a href="https://github.com/GinaLiu"><img src="https://avatars.githubusercontent.com/u/1355073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GinaLiu"><b>Liu Jia</b></a><br><sub>&#64;GinaLiu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">848</td>
+<td align="right">882</td>
 <td><a href="https://github.com/Hamid1995"><img src="https://avatars.githubusercontent.com/u/10416425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hamid1995"><b>Hamid</b></a><br><sub>&#64;Hamid1995</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">849</td>
+<td align="right">883</td>
 <td><a href="https://github.com/harila"><img src="https://avatars.githubusercontent.com/u/7919817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/harila"><b>harila</b></a><br><sub>&#64;harila</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">850</td>
+<td align="right">884</td>
 <td><a href="https://github.com/Helldone"><img src="https://avatars.githubusercontent.com/u/4015057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Helldone"><b>Fallu Stuntman</b></a><br><sub>&#64;Helldone</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">851</td>
+<td align="right">885</td>
 <td><a href="https://github.com/Jackson-Maynard"><img src="https://avatars.githubusercontent.com/u/105274547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jackson-Maynard"><b>Jackson Maynard</b></a><br><sub>&#64;Jackson-Maynard</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">852</td>
+<td align="right">886</td>
 <td><a href="https://github.com/jannemikola"><img src="https://avatars.githubusercontent.com/u/22579931?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jannemikola"><b>Janne Mikola</b></a><br><sub>&#64;jannemikola</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">853</td>
+<td align="right">887</td>
 <td><a href="https://github.com/jcpuhakka"><img src="https://avatars.githubusercontent.com/u/12549840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jcpuhakka"><b>John Puhakka</b></a><br><sub>&#64;jcpuhakka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">854</td>
+<td align="right">888</td>
 <td><a href="https://github.com/JuhoL"><img src="https://avatars.githubusercontent.com/u/3930460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JuhoL"><b>Juho Lepistö</b></a><br><sub>&#64;JuhoL</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">855</td>
+<td align="right">889</td>
 <td><a href="https://github.com/JussiNiutanen"><img src="https://avatars.githubusercontent.com/u/9977082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JussiNiutanen"><b>Jussi Niutanen</b></a><br><sub>&#64;JussiNiutanen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">856</td>
+<td align="right">890</td>
 <td><a href="https://github.com/Jvkka"><img src="https://avatars.githubusercontent.com/u/22265398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jvkka"><b>Jukka</b></a><br><sub>&#64;Jvkka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">857</td>
+<td align="right">891</td>
 <td><a href="https://github.com/Kapt9"><img src="https://avatars.githubusercontent.com/u/4677397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kapt9"><b>Kapt9</b></a><br><sub>&#64;Kapt9</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">858</td>
+<td align="right">892</td>
 <td><a href="https://github.com/karimattila"><img src="https://avatars.githubusercontent.com/u/14140505?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karimattila"><b>Kari</b></a><br><sub>&#64;karimattila</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">859</td>
+<td align="right">893</td>
 <td><a href="https://github.com/katja-andreeva"><img src="https://avatars.githubusercontent.com/u/1331893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/katja-andreeva"><b>Katja Andreeva</b></a><br><sub>&#64;katja-andreeva</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">860</td>
+<td align="right">894</td>
 <td><a href="https://github.com/Khalma"><img src="https://avatars.githubusercontent.com/u/5966368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Khalma"><b>Teemu</b></a><br><sub>&#64;Khalma</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">861</td>
+<td align="right">895</td>
 <td><a href="https://github.com/kpachbiu88"><img src="https://avatars.githubusercontent.com/u/2962737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kpachbiu88"><b>Konstantin Nikolaev</b></a><br><sub>&#64;kpachbiu88</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">862</td>
+<td align="right">896</td>
 <td><a href="https://github.com/liberalgold"><img src="https://avatars.githubusercontent.com/u/11182251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liberalgold"><b>LiberalGold</b></a><br><sub>&#64;liberalgold</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">863</td>
+<td align="right">897</td>
 <td><a href="https://github.com/lodeth"><img src="https://avatars.githubusercontent.com/u/5853007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lodeth"><b>Matti Bäckman</b></a><br><sub>&#64;lodeth</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Porvoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">864</td>
+<td align="right">898</td>
 <td><a href="https://github.com/maketues"><img src="https://avatars.githubusercontent.com/u/19502225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maketues"><b>Maketues</b></a><br><sub>&#64;maketues</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">865</td>
+<td align="right">899</td>
 <td><a href="https://github.com/mipanula"><img src="https://avatars.githubusercontent.com/u/994669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mipanula"><b>Mikko Panula</b></a><br><sub>&#64;mipanula</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">866</td>
+<td align="right">900</td>
 <td><a href="https://github.com/mojala"><img src="https://avatars.githubusercontent.com/u/1654905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mojala"><b>Markku Ojala</b></a><br><sub>&#64;mojala</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">867</td>
+<td align="right">901</td>
 <td><a href="https://github.com/mossymountain"><img src="https://avatars.githubusercontent.com/u/13772620?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mossymountain"><b>mossymountain</b></a><br><sub>&#64;mossymountain</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">868</td>
+<td align="right">902</td>
 <td><a href="https://github.com/mrjarikoivisto"><img src="https://avatars.githubusercontent.com/u/1777933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrjarikoivisto"><b>Jari Koivisto</b></a><br><sub>&#64;mrjarikoivisto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland, Karkkila</sub></td>
 </tr>
 <tr>
-<td align="right">869</td>
+<td align="right">903</td>
 <td><a href="https://github.com/MrPam"><img src="https://avatars.githubusercontent.com/u/1453752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrPam"><b>Pii Paappanen</b></a><br><sub>&#64;MrPam</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">870</td>
+<td align="right">904</td>
 <td><a href="https://github.com/muneerahsan"><img src="https://avatars.githubusercontent.com/u/17137854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muneerahsan"><b>Ahsan Muneer</b></a><br><sub>&#64;muneerahsan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">871</td>
+<td align="right">905</td>
 <td><a href="https://github.com/nickehallgren"><img src="https://avatars.githubusercontent.com/u/2547034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nickehallgren"><b>Niclas Hallgren</b></a><br><sub>&#64;nickehallgren</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">872</td>
+<td align="right">906</td>
 <td><a href="https://github.com/nikotakk"><img src="https://avatars.githubusercontent.com/u/17097583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nikotakk"><b>Niko Myllymäki</b></a><br><sub>&#64;nikotakk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Espoo, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">873</td>
+<td align="right">907</td>
 <td><a href="https://github.com/phalonen"><img src="https://avatars.githubusercontent.com/u/1991063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phalonen"><b>Petteri Halonen</b></a><br><sub>&#64;phalonen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">874</td>
+<td align="right">908</td>
 <td><a href="https://github.com/PixelCuboid"><img src="https://avatars.githubusercontent.com/u/8149436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PixelCuboid"><b>Abdelrahman</b></a><br><sub>&#64;PixelCuboid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">875</td>
+<td align="right">909</td>
 <td><a href="https://github.com/Rintsi92"><img src="https://avatars.githubusercontent.com/u/20757732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rintsi92"><b>Joni Rinta-Kahila</b></a><br><sub>&#64;Rintsi92</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">876</td>
+<td align="right">910</td>
 <td><a href="https://github.com/rogasus"><img src="https://avatars.githubusercontent.com/u/20682886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rogasus"><b>Antti Ruokonen</b></a><br><sub>&#64;rogasus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">877</td>
+<td align="right">911</td>
 <td><a href="https://github.com/Rusila"><img src="https://avatars.githubusercontent.com/u/5695694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rusila"><b>Ari Rusila</b></a><br><sub>&#64;Rusila</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jyvaskyla, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">878</td>
+<td align="right">912</td>
 <td><a href="https://github.com/sakhuttu"><img src="https://avatars.githubusercontent.com/u/18714555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sakhuttu"><b>Saku Huttunen</b></a><br><sub>&#64;sakhuttu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oulu, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">879</td>
+<td align="right">913</td>
 <td><a href="https://github.com/Samviljan"><img src="https://avatars.githubusercontent.com/u/10303679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Samviljan"><b>Sami Viljanen</b></a><br><sub>&#64;Samviljan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jyväskylä, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">880</td>
+<td align="right">914</td>
 <td><a href="https://github.com/squonkbadger"><img src="https://avatars.githubusercontent.com/u/11218036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/squonkbadger"><b>Badger</b></a><br><sub>&#64;squonkbadger</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">881</td>
+<td align="right">915</td>
 <td><a href="https://github.com/svarjo"><img src="https://avatars.githubusercontent.com/u/10115243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/svarjo"><b>Sami Varjo</b></a><br><sub>&#64;svarjo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">882</td>
+<td align="right">916</td>
 <td><a href="https://github.com/Teemu-A"><img src="https://avatars.githubusercontent.com/u/17832703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Teemu-A"><b>Teemu Anttila</b></a><br><sub>&#64;Teemu-A</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">883</td>
+<td align="right">917</td>
 <td><a href="https://github.com/thx71"><img src="https://avatars.githubusercontent.com/u/1979049?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thx71"><b>Scream 313</b></a><br><sub>&#64;thx71</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">884</td>
+<td align="right">918</td>
 <td><a href="https://github.com/tomppaz"><img src="https://avatars.githubusercontent.com/u/11664795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomppaz"><b>TomppaZ</b></a><br><sub>&#64;tomppaz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Finland</sub></td>
 </tr>
 <tr>
-<td align="right">885</td>
+<td align="right">919</td>
 <td><a href="https://github.com/TUTOpen"><img src="https://avatars.githubusercontent.com/u/1212995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TUTOpen"><b>TUTOpen Group</b></a><br><sub>&#64;TUTOpen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tampere, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">886</td>
+<td align="right">920</td>
 <td><a href="https://github.com/xhexhex"><img src="https://avatars.githubusercontent.com/u/33899245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xhexhex"><b>Henrik Lindberg</b></a><br><sub>&#64;xhexhex</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">887</td>
+<td align="right">921</td>
 <td><a href="https://github.com/xxxxYang"><img src="https://avatars.githubusercontent.com/u/15618088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xxxxYang"><b>xxxxYang</b></a><br><sub>&#64;xxxxYang</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Helsinki, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">888</td>
+<td align="right">922</td>
 <td><a href="https://github.com/AKZP"><img src="https://avatars.githubusercontent.com/u/16205299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AKZP"><b>Tony Lindström</b></a><br><sub>&#64;AKZP</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Kotka, Finland</sub></td>
 </tr>
 <tr>
-<td align="right">889</td>
+<td align="right">923</td>
 <td><a href="https://github.com/bird-script-light"><img src="https://avatars.githubusercontent.com/u/359919862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bird-script-light"><b>bird-script-light</b></a><br><sub>&#64;bird-script-light</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">890</td>
+<td align="right">924</td>
 <td><a href="https://github.com/icyphox"><img src="https://avatars.githubusercontent.com/u/17672379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icyphox"><b>Anirudh Oppiliappan</b></a><br><sub>&#64;icyphox</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">891</td>
+<td align="right">925</td>
 <td><a href="https://github.com/Jun-ramos-1987"><img src="https://avatars.githubusercontent.com/u/359824623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jun-ramos-1987"><b>Jun-ramos-1987</b></a><br><sub>&#64;Jun-ramos-1987</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Helsinki</sub></td>
 </tr>
 <tr>
-<td align="right">892</td>
+<td align="right">926</td>
 <td><a href="https://github.com/pexea12"><img src="https://avatars.githubusercontent.com/u/10600525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pexea12"><b>Dzung Nguyen P. Thien</b></a><br><sub>&#64;pexea12</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -6273,7 +6511,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 892 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 926 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 176 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

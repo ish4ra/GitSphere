@@ -333,13 +333,13 @@
 <td align="right">45</td>
 <td><img src="https://github.com/hypnoglow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hypnoglow/helm-s3"><b>hypnoglow/helm-s3</b></a><br><sub>⎈ Helm plugin that adds support for AWS S3 as a chart repository.</sub></td>
 <td align="right"><b>614</b></td>
-<td align="right">172</td>
+<td align="right">171</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/plp13.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/plp13/qman"><b>plp13/qman</b></a><br><sub>A more modern man page viewer for our terminals</sub></td>
-<td align="right"><b>609</b></td>
+<td align="right"><b>611</b></td>
 <td align="right">23</td>
 <td>C</td>
 </tr>
@@ -347,13 +347,13 @@
 <td align="right">47</td>
 <td><img src="https://github.com/opencobra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/opencobra/cobrapy"><b>opencobra/cobrapy</b></a><br><sub>COBRApy is a package for constraint-based modeling of metabolic networks.</sub></td>
 <td align="right"><b>601</b></td>
-<td align="right">245</td>
+<td align="right">246</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/protesilaos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/protesilaos/ef-themes"><b>protesilaos/ef-themes</b></a><br><sub>Colourful and legible themes for GNU Emacs</sub></td>
-<td align="right"><b>598</b></td>
+<td align="right"><b>599</b></td>
 <td align="right">34</td>
 <td>Emacs Lisp</td>
 </tr>
@@ -367,7 +367,7 @@
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/zakirullin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zakirullin/tiny-compiler"><b>zakirullin/tiny-compiler</b></a><br><sub>A tiny compiler for a language featuring LL(2) grammar. With Lexer, Parser, ASM-like codegen and VM. Complex enough to…</sub></td>
-<td align="right"><b>579</b></td>
+<td align="right"><b>580</b></td>
 <td align="right">44</td>
 <td>C</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 327 stars; 121 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 327 stars; 129 attributed candidates are tracked.
 - 84 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

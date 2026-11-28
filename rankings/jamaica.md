@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 25 Nov 2026 | <a href="../data/JM.json">JSON</a> |
+| 🟡 Provisional | **14** | 25 Nov 2026 | <a href="../data/JM.json">JSON</a> |
 
 </div>
 
@@ -105,6 +105,20 @@
 <td align="right">70</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/trevoirwilliams.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trevoirwilliams/HR.LeaveManagement.CleanArchitecture-dotnet5"><b>trevoirwilliams/HR.LeaveManagement.CleanArchitecture-dotnet5</b></a> <sub>archived</sub><br><sub>Educational Project to demonstrate MediatR, CQRS &amp; Onion/Clean Architecture in ASP.NET Core</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">157</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/jordanliu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jordanliu/themecn"><b>jordanliu/themecn</b></a><br><sub>A real-time theme generator for shadcn/ui, create and preview beautiful themes instantly</sub></td>
+<td align="right"><b>250</b></td>
+<td align="right">27</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -113,8 +127,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 274 stars; 12 attributed candidates are tracked.
-- 87 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 250 stars; 14 attributed candidates are tracked.
+- 81 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 70 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

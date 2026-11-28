@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **22** | 01 Nov 2026 | <a href="../data/LB.json">JSON</a> |
-
-> **Not yet re-verified.** 14 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **8** | 25 Nov 2026 | <a href="../data/LB.json">JSON</a> |
 
 </div>
 
@@ -61,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/RaffiKian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RaffiKian/RKCalendar"><b>RaffiKian/RKCalendar</b></a><br><sub>SwiftUI Simple Calendar / Date Picker for iOS</sub></td>
-<td align="right"><b>584</b></td>
+<td align="right"><b>585</b></td>
 <td align="right">72</td>
 <td>Swift</td>
 </tr>
@@ -79,115 +77,16 @@
 <td align="right">55</td>
 <td>PowerShell</td>
 </tr>
-<tr>
-<td align="right">9</td>
-<td><img src="https://github.com/nabilaayoubi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nabilaayoubi/mips"><b>nabilaayoubi/mips</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">2</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">10</td>
-<td><img src="https://github.com/bilalhdh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bilalhdh/bFlipText"><b>bilalhdh/bFlipText</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">1</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">11</td>
-<td><img src="https://github.com/01issa01.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/01issa01/bank2"><b>01issa01/bank2</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">12</td>
-<td><img src="https://github.com/10elitebrains.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/10elitebrains/10elitebrains"><b>10elitebrains/10elitebrains</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td><img src="https://github.com/1982MSM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1982MSM/Mohamed1982"><b>1982MSM/Mohamed1982</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">14</td>
-<td><img src="https://github.com/1hadisa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1hadisa/Network-Intrusion-Detection-System"><b>1hadisa/Network-Intrusion-Detection-System</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">15</td>
-<td><img src="https://github.com/1sarakayello.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1sarakayello/Groceries"><b>1sarakayello/Groceries</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">16</td>
-<td><img src="https://github.com/2011999.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/2011999/2011999"><b>2011999/2011999</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">17</td>
-<td><img src="https://github.com/2024Success.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/2024Success/Data-Science-Ecosystem"><b>2024Success/Data-Science-Ecosystem</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">18</td>
-<td><img src="https://github.com/22231055-oss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/22231055-oss/clinic-projectsalehhoujeiry"><b>22231055-oss/clinic-projectsalehhoujeiry</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>Dart</td>
-</tr>
-<tr>
-<td align="right">19</td>
-<td><img src="https://github.com/7xa5h.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/7xa5h/portfolio"><b>7xa5h/portfolio</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>Astro</td>
-</tr>
-<tr>
-<td align="right">20</td>
-<td><img src="https://github.com/82030131aliS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/82030131aliS/social-media-master"><b>82030131aliS/social-media-master</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">21</td>
-<td><img src="https://github.com/82530126-cloud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/82530126-cloud/Mohammad_Nasser"><b>82530126-cloud/Mohammad&#95;Nasser</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">22</td>
-<td><img src="https://github.com/a7laagamer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/a7laagamer/A7Admin-Panel-Finder"><b>a7laagamer/A7Admin-Panel-Finder</b></a></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 22 attributed candidates are tracked.
-- 14 entries were carried over from the previous dataset and are pending revalidation.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 341 stars; 8 attributed candidates are tracked.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 61 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

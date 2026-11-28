@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-23T12:49:00.735Z",
 "terms": {"count":161,"fingerprint":"161:151a06d9"},
-"termIndex": 3,
+"termIndex": 5,
 "specIndex": 0,
-"active": null,
+"active": {"term":"Myanmar","kind":"users","queue":[{"metric":[0,50000000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-28T11:55:51.200Z","stats":{"splits":1,"leaves":1,"pages":1}},
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":370},
-"updatedAt": "2026-11-25T23:57:47.149Z"
+"stats": {"requests":18,"pages":17,"accounts":370},
+"updatedAt": "2026-11-28T11:55:51.200Z"
 }

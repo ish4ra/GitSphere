@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **32** | 22 Nov 2026 | <a href="../../data/contributors/BM.json">JSON</a> |
+| 🟡 Provisional | **36** | 22 Nov 2026 | <a href="../../data/contributors/BM.json">JSON</a> |
 
 </div>
 
@@ -268,6 +268,15 @@
 </tr>
 <tr>
 <td align="right">28</td>
+<td><a href="https://github.com/DukeWF"><img src="https://avatars.githubusercontent.com/u/26487327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DukeWF"><b>Fan WANG</b></a><br><sub>&#64;DukeWF · 16 followers</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">29</td>
 <td><a href="https://github.com/DenisPitcher"><img src="https://avatars.githubusercontent.com/u/1757400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DenisPitcher"><b>Denis Pitcher</b></a><br><sub>&#64;DenisPitcher · 4 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -276,7 +285,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">30</td>
 <td><a href="https://github.com/cpedro"><img src="https://avatars.githubusercontent.com/u/4924103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cpedro"><b>Chris Pedro</b></a><br><sub>&#64;cpedro · 2 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">4</td>
@@ -285,7 +294,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">31</td>
+<td><a href="https://github.com/danielarcher-dev"><img src="https://avatars.githubusercontent.com/u/73228758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielarcher-dev"><b>Daniel Archer</b></a><br><sub>&#64;danielarcher-dev · 0 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">32</td>
 <td><a href="https://github.com/uhasan1"><img src="https://avatars.githubusercontent.com/u/22601480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uhasan1"><b>Umar Hasan</b></a><br><sub>&#64;uhasan1 · 5 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -294,7 +312,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">33</td>
 <td><a href="https://github.com/Aborio"><img src="https://avatars.githubusercontent.com/u/96600815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aborio"><b>Agustin Borio</b></a><br><sub>&#64;Aborio · 2 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -303,11 +321,29 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">34</td>
 <td><a href="https://github.com/2048li"><img src="https://avatars.githubusercontent.com/u/7392383?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2048li"><b>shentanli</b></a><br><sub>&#64;2048li · 12 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><a href="https://github.com/Venderbad"><img src="https://avatars.githubusercontent.com/u/70248957?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Venderbad"><b>Zed L</b></a><br><sub>&#64;Venderbad · 34 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><a href="https://github.com/nahoskins"><img src="https://avatars.githubusercontent.com/u/3333792?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nahoskins"><b>Nick Hoskins</b></a><br><sub>&#64;nahoskins · 9 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">1</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -318,7 +354,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 42 of 273 discovered developers (231 awaiting measurement).
+- **Measured:** 47 of 273 discovered developers (226 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 21 in round 1.

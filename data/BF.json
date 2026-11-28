@@ -5,15 +5,15 @@
 "country": {"code":"BF","name":"Burkina Faso","slug":"burkina-faso"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":425,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":134,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":115,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":425,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":128,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":115,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk2MTU3ODI2","name":"Jumper","nameWithOwner":"Yonaba/Jumper","url":"https://github.com/Yonaba/Jumper","description":"Fast, lightweight and easy-to-use pathfinding library for grid-based games","stars":653,"forks":129,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2012-10-10T13:34:13Z","pushedAt":"2022-10-21T09:02:33Z","archived":false,"owner":{"login":"Yonaba","name":"Roland","type":"User","url":"https://github.com/Yonaba","location":"Ouagadougou (Burkina Faso)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-28"},
-  {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk1MTYzMTgw","name":"Moses","nameWithOwner":"Yonaba/Moses","url":"https://github.com/Yonaba/Moses","description":"Utility library for functional programming in Lua","stars":652,"forks":102,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2012-07-24T08:42:19Z","pushedAt":"2019-12-18T02:39:18Z","archived":false,"owner":{"login":"Yonaba","name":"Roland","type":"User","url":"https://github.com/Yonaba","location":"Ouagadougou (Burkina Faso)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
+  {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk1MTYzMTgw","name":"Moses","nameWithOwner":"Yonaba/Moses","url":"https://github.com/Yonaba/Moses","description":"Utility library for functional programming in Lua","stars":652,"forks":102,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2012-07-24T08:42:19Z","pushedAt":"2019-12-18T02:39:18Z","archived":false,"owner":{"login":"Yonaba","name":"Roland","type":"User","url":"https://github.com/Yonaba","location":"Ouagadougou (Burkina Faso)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-28"},
   {"rank":3,"id":"MDEwOlJlcG9zaXRvcnk1NTQ0MzY4","name":"30log","nameWithOwner":"Yonaba/30log","url":"https://github.com/Yonaba/30log","description":"30 lines library for object orientation in Lua","stars":485,"forks":51,"primaryLanguage":"Lua","license":{"spdxId":"NOASSERTION"},"createdAt":"2012-08-24T18:49:37Z","pushedAt":"2021-05-08T02:47:43Z","archived":false,"owner":{"login":"Yonaba","name":"Roland","type":"User","url":"https://github.com/Yonaba","location":"Ouagadougou (Burkina Faso)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
   {"rank":4,"id":"MDEwOlJlcG9zaXRvcnk4ODYwMDg3OA==","name":"awesome-one-person-games","nameWithOwner":"Yonaba/awesome-one-person-games","url":"https://github.com/Yonaba/awesome-one-person-games","description":":video_game: A curated list of successul games, made (quite) entirely by a lone gamedev.","stars":425,"forks":29,"primaryLanguage":null,"license":{"spdxId":"CC0-1.0"},"createdAt":"2017-04-18T08:27:09Z","pushedAt":"2026-10-27T15:52:52Z","archived":false,"owner":{"login":"Yonaba","name":"Roland","type":"User","url":"https://github.com/Yonaba","location":"Ouagadougou (Burkina Faso)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "4cb735117175d664",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "3305c8aa066543fe",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

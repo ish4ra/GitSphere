@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/jtuckayo"><img src="https://avatars.githubusercontent.com/u/31755955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jtuckayo"><b>Julius Tuckayo</b></a><br><sub>&#64;jtuckayo</sub></td>
-<td align="right"><b>11</b></td>
+<td align="right"><b>10</b></td>
 <td align="right">14</td>
 <td><sub>Port Morseby, Papua New Guinea</sub></td>
 </tr>
@@ -3873,7 +3873,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 549 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 68 in round 1.
+- **Location discovery:** term 3 of 68 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

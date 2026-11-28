@@ -599,7 +599,7 @@
 <td align="right">83</td>
 <td><img src="https://github.com/MBSTUPC.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MBSTUPC/tech-companies-in-bangladesh"><b>MBSTUPC/tech-companies-in-bangladesh</b></a><br><sub>List of tech companies to help developers to find job.</sub></td>
 <td align="right"><b>649</b></td>
-<td align="right">393</td>
+<td align="right">394</td>
 <td>—</td>
 </tr>
 <tr>
@@ -612,9 +612,9 @@
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/Quincunx33.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Quincunx33/Ai-jailbreak"><b>Quincunx33/Ai-jailbreak</b></a><br><sub>A collection of jailbreak prompts and exploit techniques for local and frontier AI models, with modern methods for Qwen…</sub></td>
-<td align="right"><b>632</b></td>
-<td align="right">98</td>
-<td>JavaScript</td>
+<td align="right"><b>640</b></td>
+<td align="right">97</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">86</td>
@@ -641,7 +641,7 @@
 <td align="right">89</td>
 <td><img src="https://github.com/OpenBangla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpenBangla/OpenBangla-Keyboard"><b>OpenBangla/OpenBangla-Keyboard</b></a><br><sub>An OpenSource, Unicode compliant Bengali Input Method</sub></td>
 <td align="right"><b>627</b></td>
-<td align="right">91</td>
+<td align="right">92</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -654,65 +654,65 @@
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/Mahmud0808.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mahmud0808/PixelLauncherEnhanced"><b>Mahmud0808/PixelLauncherEnhanced</b></a><br><sub>An Xposed module to unleash the full potential of your launcher!</sub></td>
-<td align="right"><b>610</b></td>
+<td align="right"><b>623</b></td>
 <td align="right">46</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">92</td>
+<td><img src="https://github.com/siambhau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/siambhau/FreeFireApi"><b>siambhau/FreeFireApi</b></a><br><sub>Free Fire Centralized REST API — 34 endpoints across 19 groups. Player Info, JWT, Ban Check, Guild Tools, Bind/Unbind,…</sub></td>
+<td align="right"><b>599</b></td>
+<td align="right">69</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">93</td>
 <td><img src="https://github.com/TareqMonwer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TareqMonwer/Django-School-Management"><b>TareqMonwer/Django-School-Management</b></a><br><sub>Transform your school with our intuitive Django School Management System. Seamlessly manage payments, simplify e-admiss…</sub></td>
 <td align="right"><b>598</b></td>
 <td align="right">270</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">94</td>
 <td><img src="https://github.com/rng70.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rng70/Hacking-Resources"><b>rng70/Hacking-Resources</b></a><br><sub>This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, b…</sub></td>
 <td align="right"><b>593</b></td>
 <td align="right">145</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">94</td>
+<td align="right">95</td>
 <td><img src="https://github.com/seeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/seeam/Practical-Digital-Product-Design-2025-Free"><b>seeam/Practical-Digital-Product-Design-2025-Free</b></a><br><sub>A free version of my paid use interface and digital product design course in Bengali.</sub></td>
-<td align="right"><b>589</b></td>
+<td align="right"><b>590</b></td>
 <td align="right">182</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">96</td>
 <td><img src="https://github.com/hasinhayder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hasinhayder/tailwind-cards"><b>hasinhayder/tailwind-cards</b></a><br><sub>A growing collection of text/image cards you can use/copy-paste in your tailwind css projects</sub></td>
-<td align="right"><b>589</b></td>
+<td align="right"><b>590</b></td>
 <td align="right">74</td>
 <td>CSS</td>
 </tr>
 <tr>
-<td align="right">96</td>
-<td><img src="https://github.com/kmhmubin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kmhmubin/Face-Recognition-Attendance-System"><b>kmhmubin/Face-Recognition-Attendance-System</b></a><br><sub>Face Detection &#124; Recognition &#124; Attendance</sub></td>
-<td align="right"><b>584</b></td>
-<td align="right">203</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">97</td>
-<td><img src="https://github.com/codewithsadee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codewithsadee/grilli"><b>codewithsadee/grilli</b></a><br><sub>Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript.</sub></td>
-<td align="right"><b>579</b></td>
-<td align="right">315</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">98</td>
 <td><img src="https://github.com/Mahmud0808.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mahmud0808/TeleDrive"><b>Mahmud0808/TeleDrive</b></a><br><sub>Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optiona…</sub></td>
-<td align="right"><b>579</b></td>
-<td align="right">67</td>
+<td align="right"><b>590</b></td>
+<td align="right">69</td>
 <td>Kotlin</td>
 </tr>
 <tr>
+<td align="right">98</td>
+<td><img src="https://github.com/kmhmubin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kmhmubin/Face-Recognition-Attendance-System"><b>kmhmubin/Face-Recognition-Attendance-System</b></a><br><sub>Face Detection &#124; Recognition &#124; Attendance</sub></td>
+<td align="right"><b>585</b></td>
+<td align="right">205</td>
+<td>Python</td>
+</tr>
+<tr>
 <td align="right">99</td>
-<td><img src="https://github.com/siambhau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/siambhau/FreeFireApi"><b>siambhau/FreeFireApi</b></a><br><sub>Free Fire Centralized REST API — 34 endpoints across 19 groups. Player Info, JWT, Ban Check, Guild Tools, Bind/Unbind,…</sub></td>
-<td align="right"><b>579</b></td>
-<td align="right">67</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/codewithsadee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codewithsadee/grilli"><b>codewithsadee/grilli</b></a><br><sub>Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript.</sub></td>
+<td align="right"><b>580</b></td>
+<td align="right">317</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">100</td>

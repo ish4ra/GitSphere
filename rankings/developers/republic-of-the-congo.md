@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/Cooger17"><img src="https://avatars.githubusercontent.com/u/91452422?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cooger17"><b>Cooger17</b></a><br><sub>&#64;Cooger17</sub></td>
-<td align="right"><b>30</b></td>
+<td align="right"><b>31</b></td>
 <td align="right">30</td>
 <td><sub>Congo Brazzaville</sub></td>
 </tr>
@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/steve111MV"><img src="https://avatars.githubusercontent.com/u/12065902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/steve111MV"><b>Steve NDENDE</b></a><br><sub>&#64;steve111MV</sub></td>
-<td align="right"><b>13</b></td>
+<td align="right"><b>12</b></td>
 <td align="right">28</td>
 <td><sub>Congo - Brazzaville</sub></td>
 </tr>

@@ -5,10 +5,10 @@
 "country": {"code":"GA","name":"Gabon","slug":"gabon"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":148,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":45,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":144,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":45,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "cad5767a45d75379",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "8a192a1186908b27",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

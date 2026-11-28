@@ -584,7 +584,7 @@
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/teeotsa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/teeotsa/windows-11-debloat"><b>teeotsa/windows-11-debloat</b></a><br><sub>Script to optimize your installation of Windows 11.</sub></td>
-<td align="right"><b>617</b></td>
+<td align="right"><b>616</b></td>
 <td align="right">57</td>
 <td>PowerShell</td>
 </tr>
@@ -620,7 +620,7 @@
 <td align="right">86</td>
 <td><img src="https://github.com/postalsys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/postalsys/imapflow"><b>postalsys/imapflow</b></a><br><sub>IMAP Client library for EmailEngine Email API (https://emailengine.app)</sub></td>
 <td align="right"><b>586</b></td>
-<td align="right">88</td>
+<td align="right">89</td>
 <td>TypeScript</td>
 </tr>
 <tr>

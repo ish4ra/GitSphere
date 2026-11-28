@@ -3,12 +3,14 @@
 "mode": "repositories",
 "methodologyVersion": "1.0.0",
 "country": {"code":"SO","name":"Somalia","slug":"somalia"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":127,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":99,"unresolved":0},"exhaustive":false},
-"repositories": [],
-"contentHash": "674ba67c6587ab77",
-"updatedAt": "2026-11-28T03:23:20.276Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"coverage": {"basis":"partial","cutoffStars":262,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":99,"unresolved":0},"exhaustive":false},
+"repositories": [
+  {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxOTI5MzA3Njk=","name":"pish","nameWithOwner":"Cabdulahi/pish","url":"https://github.com/Cabdulahi/pish","description":null,"stars":262,"forks":76,"primaryLanguage":"Python","license":null,"createdAt":"2019-06-20T14:04:07Z","pushedAt":"2023-11-17T03:21:58Z","archived":false,"owner":{"login":"Cabdulahi","name":"Cabdulahi Sharif","type":"User","url":"https://github.com/Cabdulahi","location":"Mogadishu","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-28"}
+],
+"contentHash": "bb28ab6af44bf6cf",
+"updatedAt": "2026-11-28T12:22:54.128Z",
+"verifiedOn": "2026-11-28",
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

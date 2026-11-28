@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **84** | 25 Nov 2026 | <a href="../data/AM.json">JSON</a> |
+| 🟡 Provisional | **91** | 25 Nov 2026 | <a href="../data/AM.json">JSON</a> |
 
 </div>
 
@@ -255,7 +255,7 @@
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/nerdyslacker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nerdyslacker/desktop-web-browsers"><b>nerdyslacker/desktop-web-browsers</b></a><br><sub>Almost full list of all desktop web browsers</sub></td>
-<td align="right"><b>634</b></td>
+<td align="right"><b>637</b></td>
 <td align="right">63</td>
 <td>HTML</td>
 </tr>
@@ -609,6 +609,55 @@
 <td align="right">50</td>
 <td>C#</td>
 </tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/VanHakobyan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VanHakobyan/DesignPatterns"><b>VanHakobyan/DesignPatterns</b></a><br><sub>:key:Elements of Reusable Object-Oriented Software:unlock:is a software engineering book describing software design pat…</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">81</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/ai-forever.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ai-forever/MoVQGAN"><b>ai-forever/MoVQGAN</b></a><br><sub>MoVQGAN - model for the image encoding and reconstruction</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">18</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/armcha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/armcha/AutoLinkTextViewV2"><b>armcha/AutoLinkTextViewV2</b></a><br><sub>AutoLinkTextView is a TextView that supports automatic detection of Hashtags (#), Mentions (&#64;) , URLs (http://), Phone…</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">33</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/lotsoftick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lotsoftick/openclaw_client"><b>lotsoftick/openclaw&#95;client</b></a><br><sub>OpenClaw web client</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">25</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/infoculture.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/infoculture/plainrussian"><b>infoculture/plainrussian</b></a><br><sub>Plain Russian Language / Понятный (простой) русский язык.</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">60</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/ai-forever.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ai-forever/ru-dolph"><b>ai-forever/ru-dolph</b></a><br><sub>RUDOLPH: One Hyper-Tasking Transformer can be creative as DALL-E and GPT-3 and smart as CLIP</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">28</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/EngineerSpock.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EngineerSpock/postgres-course-ru"><b>EngineerSpock/postgres-course-ru</b></a></td>
+<td align="right"><b>250</b></td>
+<td align="right">210</td>
+<td>PLpgSQL</td>
+</tr>
 </tbody>
 </table>
 
@@ -617,8 +666,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 280 stars; 84 attributed candidates are tracked.
-- 104 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 250 stars; 91 attributed candidates are tracked.
+- 102 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

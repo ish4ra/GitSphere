@@ -5,10 +5,10 @@
 "roundStartedAt": "2026-11-23T12:50:53.845Z",
 "terms": {"count":68,"fingerprint":"68:47cca7a0"},
 "termIndex": 0,
-"specIndex": 0,
-"active": {"term":"Maldives","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjYwMA==","page":13,"retrieved":600,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-23T12:50:53.845Z","stats":{"pages":12}},
+"specIndex": 1,
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":600},
-"updatedAt": "2026-11-23T12:50:53.845Z"
+"stats": {"requests":18,"pages":18,"accounts":867},
+"updatedAt": "2026-11-28T11:57:04.531Z"
 }

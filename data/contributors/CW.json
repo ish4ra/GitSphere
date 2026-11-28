@@ -5,7 +5,7 @@
 "country": {"code":"CW","name":"Curaçao","slug":"curacao"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":83,"measuredAccounts":41,"measurementBacklog":42,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":16,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":83,"measuredAccounts":46,"measurementBacklog":37,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":16,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE3MzM3Mg==","login":"BalusC","name":"Bauke Scholtz","url":"https://github.com/BalusC","avatarUrl":"https://avatars.githubusercontent.com/u/173372?s=80&v=4","followers":448,"publicRepos":14,"location":"Willemstad, Curaçao","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":3909,"commits":3043,"pullRequests":591,"reviews":41,"issues":220,"repositories":14,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjY4Mjk3MDAy","login":"JObersi10","name":null,"url":"https://github.com/JObersi10","avatarUrl":"https://avatars.githubusercontent.com/u/68297002?s=80&v=4","followers":2,"publicRepos":22,"location":"Willemstad, Curaçao","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":712,"commits":612,"pullRequests":77,"reviews":0,"issues":1,"repositories":21,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -31,8 +31,8 @@
   {"rank":22,"id":"MDQ6VXNlcjc3OTE4Mw==","login":"plopezbarbosa","name":"Pierre López Barbosa","url":"https://github.com/plopezbarbosa","avatarUrl":"https://avatars.githubusercontent.com/u/779183?s=80&v=4","followers":62,"publicRepos":1,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-28","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-28T03:00:00Z","windowTo":"2026-11-28T03:00:00Z","measuredOn":"2026-11-28"}},
   {"rank":23,"id":"MDQ6VXNlcjU5MDY4Mzc5","login":"Riick97","name":"Ulric Ricardo","url":"https://github.com/Riick97","avatarUrl":"https://avatars.githubusercontent.com/u/59068379?s=80&v=4","followers":1,"publicRepos":6,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "7ddd28a251a3c4d5",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "e65cb2c6f6cd63c6",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

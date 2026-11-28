@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **59** | 25 Nov 2026 | <a href="../data/NP.json">JSON</a> |
+| 🟡 Provisional | **63** | 25 Nov 2026 | <a href="../data/NP.json">JSON</a> |
 
 </div>
 
@@ -165,7 +165,7 @@
 <td align="right">21</td>
 <td><img src="https://github.com/Dovakiin0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dovakiin0/Kitsune"><b>Dovakiin0/Kitsune</b></a><br><sub>Stream anime with no Ads</sub></td>
 <td align="right"><b>590</b></td>
-<td align="right">247</td>
+<td align="right">248</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -434,6 +434,34 @@
 <td align="right">199</td>
 <td>HTML</td>
 </tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/l3lackcurtains.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/l3lackcurtains/flutter-for-wordpress-app"><b>l3lackcurtains/flutter-for-wordpress-app</b></a><br><sub>:jack&#95;o&#95;lantern: Cross-platform wordpress news app built with Flutter and WP REST API.</sub></td>
+<td align="right"><b>267</b></td>
+<td align="right">119</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/vijaydwivedi75.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vijaydwivedi75/gnn-lspe"><b>vijaydwivedi75/gnn-lspe</b></a><br><sub>Source code for GNN-LSPE (Graph Neural Networks with Learnable Structural and Positional Representations), ICLR 2022</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">37</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/neplexlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neplexlabs/canvacord"><b>neplexlabs/canvacord</b></a> <sub>archived</sub><br><sub>Easily generate images using react-like components in nodejs. Canvacord is suitable for creating dynamic images such as…</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">71</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/programiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/programiz/python-course"><b>programiz/python-course</b></a></td>
+<td align="right"><b>253</b></td>
+<td align="right">188</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -442,8 +470,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 274 stars; 59 attributed candidates are tracked.
-- 109 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 253 stars; 63 attributed candidates are tracked.
+- 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 69 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

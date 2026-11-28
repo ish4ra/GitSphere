@@ -1,14 +1,16 @@
 {
 "schemaVersion": 3,
 "country": "MS",
-"round": 1,
-"roundStartedAt": "2026-11-23T12:50:24.229Z",
+"round": 2,
+"roundStartedAt": "2026-11-28T11:56:29.314Z",
 "terms": {"count":8,"fingerprint":"8:98c7b861"},
-"termIndex": 6,
+"termIndex": 0,
 "specIndex": 0,
 "active": null,
 "unresolved": [],
-"completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":41},
-"updatedAt": "2026-11-26T08:25:44.339Z"
+"completedRounds": [
+  {"round":1,"startedAt":"2026-11-23T12:50:24.229Z","completedAt":"2026-11-28T11:56:29.314Z","terms":8,"unresolved":0}
+],
+"stats": {"requests":16,"pages":16,"accounts":41},
+"updatedAt": "2026-11-28T11:56:29.314Z"
 }

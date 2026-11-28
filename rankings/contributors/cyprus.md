@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **37** | 22 Nov 2026 | <a href="../../data/contributors/CY.json">JSON</a> |
+| 🟡 Provisional | **41** | 22 Nov 2026 | <a href="../../data/contributors/CY.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/chromealex"><img src="https://avatars.githubusercontent.com/u/5654506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chromealex"><b>Alex Silaev</b></a><br><sub>&#64;chromealex · 215 followers</sub></td>
+<td><a href="https://github.com/chromealex"><img src="https://avatars.githubusercontent.com/u/5654506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chromealex"><b>Alex Silaev</b></a><br><sub>&#64;chromealex · 214 followers</sub></td>
 <td align="right"><b>12,750</b></td>
 <td align="right">12,543</td>
 <td align="right">199</td>
@@ -313,6 +313,15 @@
 </tr>
 <tr>
 <td align="right">33</td>
+<td><a href="https://github.com/ckyrkou"><img src="https://avatars.githubusercontent.com/u/20202138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ckyrkou"><b>Christos Kyrkou</b></a><br><sub>&#64;ckyrkou · 106 followers</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><a href="https://github.com/larixer"><img src="https://avatars.githubusercontent.com/u/1259926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/larixer"><b>Victor Vlasenko</b></a><br><sub>&#64;larixer · 118 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">0</td>
@@ -321,7 +330,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">35</td>
 <td><a href="https://github.com/atercattus"><img src="https://avatars.githubusercontent.com/u/433484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atercattus"><b>Aleksey Akulovich</b></a><br><sub>&#64;atercattus · 283 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">8</td>
@@ -330,7 +339,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">36</td>
+<td><a href="https://github.com/Dumebi-Nwanze"><img src="https://avatars.githubusercontent.com/u/83673696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dumebi-Nwanze"><b>Dumebi Nwanze</b></a><br><sub>&#64;Dumebi-Nwanze · 0 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">37</td>
 <td><a href="https://github.com/rjrockzz"><img src="https://avatars.githubusercontent.com/u/24719007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rjrockzz"><b>codιng вloĸe</b></a><br><sub>&#64;rjrockzz · 133 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">7</td>
@@ -339,7 +357,25 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">38</td>
+<td><a href="https://github.com/hervoyager"><img src="https://avatars.githubusercontent.com/u/138567858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hervoyager"><b>Voyage</b></a><br><sub>&#64;hervoyager · 116 followers</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><a href="https://github.com/candelibas"><img src="https://avatars.githubusercontent.com/u/918975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/candelibas"><b>Can Delibas</b></a><br><sub>&#64;candelibas · 104 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">40</td>
 <td><a href="https://github.com/kourouklides"><img src="https://avatars.githubusercontent.com/u/3631407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kourouklides"><b>Ioannis Kourouklides</b></a><br><sub>&#64;kourouklides · 128 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -348,7 +384,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">41</td>
 <td><a href="https://github.com/Sanaebadi97"><img src="https://avatars.githubusercontent.com/u/26750131?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sanaebadi97"><b>Sana Ebadi</b></a><br><sub>&#64;Sanaebadi97 · 398 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -363,7 +399,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 42 of 449 discovered developers (407 awaiting measurement).
+- **Measured:** 47 of 458 discovered developers (411 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 105 in round 1.

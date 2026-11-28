@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/PM.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/developers/PM.json">JSON</a> |
 
 </div>
 
@@ -128,24 +128,66 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/brifa"><img src="https://avatars.githubusercontent.com/u/36285424?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brifa"><b>brifa</b></a><br><sub>&#64;brifa</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Saint-Pierre et Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/MatyW31"><img src="https://avatars.githubusercontent.com/u/63795176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatyW31"><b>mathieu lavail</b></a><br><sub>&#64;MatyW31</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Saint pierre et miquelon</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/raymond-kimberlee"><img src="https://avatars.githubusercontent.com/u/309589828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raymond-kimberlee"><b>ᚱᚨᚷᛁᚾᛗᚢᚾᛞ</b></a><br><sub>&#64;raymond-kimberlee</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Saint Pierre and Miquelon</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
+<td><a href="https://github.com/Alrim"><img src="https://avatars.githubusercontent.com/u/5845383?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alrim"><b>Raphaël MICHEL</b></a><br><sub>&#64;Alrim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Saint-Pierre, Saint-Pierre-et-Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/JeanCharles-MG"><img src="https://avatars.githubusercontent.com/u/94843103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JeanCharles-MG"><b>Jean-Charles PHILIPPE</b></a><br><sub>&#64;JeanCharles-MG</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Saint Pierre et Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
 <td><a href="https://github.com/jrlrnvvd73"><img src="https://avatars.githubusercontent.com/u/321600854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jrlrnvvd73"><b>Veronica Smith</b></a><br><sub>&#64;jrlrnvvd73</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>North Timothyfort, Saint Pierre and Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/RMichel-MG"><img src="https://avatars.githubusercontent.com/u/67067447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RMichel-MG"><b>Raphaël MICHEL</b></a><br><sub>&#64;RMichel-MG</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Saint-Pierre-et-Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/Yann-BC"><img src="https://avatars.githubusercontent.com/u/82453787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yann-BC"><b>Yann-BC</b></a><br><sub>&#64;Yann-BC</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Saint-Pierre et Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/Zax975"><img src="https://avatars.githubusercontent.com/u/91169399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zax975"><b>✘avier DETCHEVERRY</b></a><br><sub>&#64;Zax975</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Saint-Pierre et Miquelon</sub></td>
 </tr>
 </tbody>
 </table>
@@ -155,8 +197,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 6 of 22 in round 1.
+- Organizations are excluded. 24 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 9 of 22 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

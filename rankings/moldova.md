@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **26** | 25 Nov 2026 | <a href="../data/MD.json">JSON</a> |
+| 🟡 Provisional | **31** | 25 Nov 2026 | <a href="../data/MD.json">JSON</a> |
 
 </div>
 
@@ -203,6 +203,41 @@
 <td align="right">12</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/vova07.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vova07/yii2-start"><b>vova07/yii2-start</b></a><br><sub>Yii2-Start application</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">108</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/omuleanu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/omuleanu/ValueInjecter"><b>omuleanu/ValueInjecter</b></a><br><sub>convention based mapper</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">36</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/face-hh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/face-hh/fextify"><b>face-hh/fextify</b></a><br><sub>A simple text editor written in Rust using Tauri, inspired by Obsidian.</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">22</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/ebs-integrator.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ebs-integrator/ebs-design"><b>ebs-integrator/ebs-design</b></a><br><sub>A React-based UI toolkit for enterprise grade applications</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">13</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/face-hh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/face-hh/lyntr"><b>face-hh/lyntr</b></a> <sub>archived</sub><br><sub>Micro-blogging social media - with an IQ test. https://lyntr.com</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">63</td>
+<td>Svelte</td>
+</tr>
 </tbody>
 </table>
 
@@ -211,8 +246,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 280 stars; 26 attributed candidates are tracked.
-- 95 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 251 stars; 31 attributed candidates are tracked.
+- 91 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

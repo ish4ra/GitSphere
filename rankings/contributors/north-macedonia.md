@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **26** | 22 Nov 2026 | <a href="../../data/contributors/MK.json">JSON</a> |
+| 🟡 Provisional | **28** | 22 Nov 2026 | <a href="../../data/contributors/MK.json">JSON</a> |
 
 </div>
 
@@ -232,6 +232,15 @@
 </tr>
 <tr>
 <td align="right">24</td>
+<td><a href="https://github.com/KostaLaz"><img src="https://avatars.githubusercontent.com/u/44593214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KostaLaz"><b>Kosta Lazarevski</b></a><br><sub>&#64;KostaLaz · 14 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">8</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/Paceski"><img src="https://avatars.githubusercontent.com/u/82279522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Paceski"><b>Petar</b></a><br><sub>&#64;Paceski · 20 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -240,7 +249,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">26</td>
 <td><a href="https://github.com/JustAnotherHeroRiding"><img src="https://avatars.githubusercontent.com/u/118216868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JustAnotherHeroRiding"><b>Kristijan Kocev</b></a><br><sub>&#64;JustAnotherHeroRiding · 0 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">4</td>
@@ -249,7 +258,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">27</td>
+<td><a href="https://github.com/tdelev"><img src="https://avatars.githubusercontent.com/u/1218951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tdelev"><b>Tomche Delev</b></a><br><sub>&#64;tdelev · 104 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/DimitrijaT"><img src="https://avatars.githubusercontent.com/u/32930367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DimitrijaT"><b>Dimitrija Timeski</b></a><br><sub>&#64;DimitrijaT · 21 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -264,7 +282,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 32 of 745 discovered developers (713 awaiting measurement).
+- **Measured:** 36 of 942 discovered developers (906 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 142 in round 1.

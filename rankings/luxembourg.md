@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **61** | 25 Nov 2026 | <a href="../data/LU.json">JSON</a> |
+| 🟡 Provisional | **66** | 25 Nov 2026 | <a href="../data/LU.json">JSON</a> |
 
 </div>
 
@@ -178,14 +178,14 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/AplaProject.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AplaProject/go-apla"><b>AplaProject/go-apla</b></a><br><sub>A blockchain platform with a simplified programming language</sub></td>
-<td align="right"><b>620</b></td>
+<td align="right"><b>619</b></td>
 <td align="right">89</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/kmkz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kmkz/Pentesting"><b>kmkz/Pentesting</b></a><br><sub>Tricks for penetration testing</sub></td>
-<td align="right"><b>591</b></td>
+<td align="right"><b>593</b></td>
 <td align="right">148</td>
 <td>PowerShell</td>
 </tr>
@@ -448,6 +448,41 @@
 <td align="right">5</td>
 <td>C#</td>
 </tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/nmrr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nmrr/flipperzero-geigercounter"><b>nmrr/flipperzero-geigercounter</b></a><br><sub>☢☢ A geiger counter application for the Flipper Zero ☢☢</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">6</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/righel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/righel/gitlab-version-nse"><b>righel/gitlab-version-nse</b></a><br><sub>Nmap script to guess&#42; a GitLab version.</sub></td>
+<td align="right"><b>255</b></td>
+<td align="right">41</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/eurostat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eurostat/searoute"><b>eurostat/searoute</b></a><br><sub>Compute shortest maritime routes between ports</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">46</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/qdm12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qdm12/deunhealth"><b>qdm12/deunhealth</b></a><br><sub>Binary program to restart unhealthy Docker containers</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">10</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/eurostat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eurostat/gridviz"><b>eurostat/gridviz</b></a><br><sub>A library for visualizing gridded data 🌐</sub></td>
+<td align="right"><b>250</b></td>
+<td align="right">13</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -456,8 +491,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 271 stars; 61 attributed candidates are tracked.
-- 86 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 250 stars; 66 attributed candidates are tracked.
+- 81 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

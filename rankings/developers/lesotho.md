@@ -795,7 +795,7 @@
 <td align="right">111</td>
 <td><a href="https://github.com/davidmothae3"><img src="https://avatars.githubusercontent.com/u/73819054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidmothae3"><b>RudraDav3</b></a><br><sub>&#64;davidmothae3</sub></td>
 <td align="right"><b>1</b></td>
-<td align="right">30</td>
+<td align="right">31</td>
 <td><sub>Southern Africa , Kingdom of Lesotho</sub></td>
 </tr>
 <tr>

@@ -1,10 +1,6 @@
 {
 "schemaVersion": 3,
 "country": {"code":"NF","name":"Norfolk Island","slug":"norfolk-island"},
-"count": 3,
-"repositories": [
-  {"name":"lemonthebestolob/lemonthebestolob","stars":0,"forks":0,"archived":false,"createdAt":"2024-09-30T15:31:00Z","pushedAt":"2024-09-30T15:31:18Z","owner":{"login":"lemonthebestolob","type":"User","location":"Norfolk Island (NF)"},"attribution":{"code":"NF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T05:14:43.056Z","id":"legacy:lemonthebestolob/lemonthebestolob","legacy":true},
-  {"name":"Specularpota/sketch-data-populator","stars":0,"forks":0,"archived":false,"createdAt":"2023-12-18T20:52:40Z","pushedAt":"2023-12-18T20:52:41Z","owner":{"login":"Specularpota","type":"User","name":"Specularpota","location":"Norfolk Island"},"attribution":{"code":"NF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T05:14:43.056Z","id":"legacy:specularpota/sketch-data-populator","legacy":true},
-  {"name":"swebster94/verbose-octo-waffle","stars":0,"forks":0,"archived":false,"createdAt":"2026-09-26T03:56:56Z","pushedAt":"2026-09-26T03:56:58Z","owner":{"login":"swebster94","type":"User","name":"Steven Webster","location":"New Max, Norfolk Island"},"attribution":{"code":"NF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T05:14:43.056Z","id":"legacy:swebster94/verbose-octo-waffle","legacy":true}
-]
+"count": 0,
+"repositories": []
 }

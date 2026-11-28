@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **31** | 22 Nov 2026 | <a href="../../data/contributors/LT.json">JSON</a> |
+| 🟡 Provisional | **35** | 22 Nov 2026 | <a href="../../data/contributors/LT.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/kibertoad"><img src="https://avatars.githubusercontent.com/u/1847934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kibertoad"><b>Igor Savin</b></a><br><sub>&#64;kibertoad · 398 followers</sub></td>
+<td><a href="https://github.com/kibertoad"><img src="https://avatars.githubusercontent.com/u/1847934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kibertoad"><b>Igor Savin</b></a><br><sub>&#64;kibertoad · 399 followers</sub></td>
 <td align="right"><b>22,534</b></td>
 <td align="right">15,069</td>
 <td align="right">5,197</td>
@@ -178,7 +178,7 @@
 </tr>
 <tr>
 <td align="right">18</td>
-<td><a href="https://github.com/mkobuolys"><img src="https://avatars.githubusercontent.com/u/17415795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkobuolys"><b>Mangirdas Kazlauskas</b></a><br><sub>&#64;mkobuolys · 840 followers</sub></td>
+<td><a href="https://github.com/mkobuolys"><img src="https://avatars.githubusercontent.com/u/17415795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkobuolys"><b>Mangirdas Kazlauskas</b></a><br><sub>&#64;mkobuolys · 839 followers</sub></td>
 <td align="right"><b>291</b></td>
 <td align="right">256</td>
 <td align="right">29</td>
@@ -232,6 +232,15 @@
 </tr>
 <tr>
 <td align="right">24</td>
+<td><a href="https://github.com/arukompas"><img src="https://avatars.githubusercontent.com/u/8697942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arukompas"><b>Arunas Skirius</b></a><br><sub>&#64;arukompas · 146 followers</sub></td>
+<td align="right"><b>72</b></td>
+<td align="right">52</td>
+<td align="right">10</td>
+<td align="right">4</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/pbrilius"><img src="https://avatars.githubusercontent.com/u/8288767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pbrilius"><b>Povilas Brilius</b></a><br><sub>&#64;pbrilius · 205 followers</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">53</td>
@@ -240,7 +249,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">26</td>
 <td><a href="https://github.com/Nercury"><img src="https://avatars.githubusercontent.com/u/106180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nercury"><b>Nerijus Arlauskas</b></a><br><sub>&#64;Nercury · 137 followers</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">34</td>
@@ -249,7 +258,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">27</td>
+<td><a href="https://github.com/Ghost-Rider-gu"><img src="https://avatars.githubusercontent.com/u/1051058?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ghost-Rider-gu"><b>Golubnichenko Iurii</b></a><br><sub>&#64;Ghost-Rider-gu · 117 followers</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">19</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/justinas"><img src="https://avatars.githubusercontent.com/u/662666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justinas"><b>Justinas Stankevičius</b></a><br><sub>&#64;justinas · 320 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">10</td>
@@ -258,7 +276,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">29</td>
 <td><a href="https://github.com/Miceuz"><img src="https://avatars.githubusercontent.com/u/533263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Miceuz"><b>Albertas Mickėnas</b></a><br><sub>&#64;Miceuz · 192 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">11</td>
@@ -267,7 +285,16 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">30</td>
+<td><a href="https://github.com/stylemistake"><img src="https://avatars.githubusercontent.com/u/1516236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stylemistake"><b>Aleksej Komarov</b></a><br><sub>&#64;stylemistake · 102 followers</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">5</td>
+<td align="right">1</td>
+<td align="right">9</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">31</td>
 <td><a href="https://github.com/maksim-volkmann"><img src="https://avatars.githubusercontent.com/u/15999593?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maksim-volkmann"><b>Maksim</b></a><br><sub>&#64;maksim-volkmann · 128 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">7</td>
@@ -276,7 +303,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">32</td>
 <td><a href="https://github.com/mmozuras"><img src="https://avatars.githubusercontent.com/u/54526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmozuras"><b>Mindaugas Mozūras</b></a><br><sub>&#64;mmozuras · 184 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">6</td>
@@ -285,7 +312,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">33</td>
+<td><a href="https://github.com/ViliusKraujutis"><img src="https://avatars.githubusercontent.com/u/1859636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ViliusKraujutis"><b>Vilius Kraujutis</b></a><br><sub>&#64;ViliusKraujutis · 106 followers</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><a href="https://github.com/irenemmassy"><img src="https://avatars.githubusercontent.com/u/40125398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irenemmassy"><b>Irene Arvydas Ranonis</b></a><br><sub>&#64;irenemmassy · 677 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -294,7 +330,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">35</td>
 <td><a href="https://github.com/cx-lukas-salkauskas-x"><img src="https://avatars.githubusercontent.com/u/524216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cx-lukas-salkauskas-x"><b>Lukas Salkauskas</b></a><br><sub>&#64;cx-lukas-salkauskas-x · 98 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -309,7 +345,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 33 of 458 discovered developers (425 awaiting measurement).
+- **Measured:** 37 of 462 discovered developers (425 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 135 in round 1.

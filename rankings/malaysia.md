@@ -304,7 +304,7 @@
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/EXALAB.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EXALAB/AnLinux-Adfree"><b>EXALAB/AnLinux-Adfree</b></a><br><sub>AnLinux, Ad free version.</sub></td>
-<td align="right"><b>629</b></td>
+<td align="right"><b>630</b></td>
 <td align="right">60</td>
 <td>Java</td>
 </tr>
@@ -319,7 +319,7 @@
 <td align="right">43</td>
 <td><img src="https://github.com/bluwy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bluwy/create-vite-extra"><b>bluwy/create-vite-extra</b></a><br><sub>Extra Vite templates</sub></td>
 <td align="right"><b>604</b></td>
-<td align="right">103</td>
+<td align="right">102</td>
 <td>CSS</td>
 </tr>
 <tr>
@@ -353,7 +353,7 @@
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/AbedElazizShe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AbedElazizShe/LightCompressor"><b>AbedElazizShe/LightCompressor</b></a> <sub>archived</sub><br><sub>A powerful and easy-to-use video compression library for android uses MediaCodec API.</sub></td>
-<td align="right"><b>585</b></td>
+<td align="right"><b>584</b></td>
 <td align="right">134</td>
 <td>Kotlin</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 273 stars; 102 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 273 stars; 115 attributed candidates are tracked.
 - 104 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

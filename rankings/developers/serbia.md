@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **221** | 22 Nov 2026 | <a href="../../data/developers/RS.json">JSON</a> |
+| 🟡 Provisional | **234** | 22 Nov 2026 | <a href="../../data/developers/RS.json">JSON</a> |
 
 </div>
 
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/mohamed-taman"><img src="https://avatars.githubusercontent.com/u/3659405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohamed-taman"><b>Mohamed Taman</b></a><br><sub>&#64;mohamed-taman</sub></td>
-<td align="right"><b>925</b></td>
+<td align="right"><b>924</b></td>
 <td align="right">34</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
@@ -1115,454 +1115,545 @@
 </tr>
 <tr>
 <td align="right">157</td>
-<td><a href="https://github.com/dreikanter"><img src="https://avatars.githubusercontent.com/u/126636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dreikanter"><b>Alex Musayev</b></a><br><sub>&#64;dreikanter</sub></td>
-<td align="right"><b>104</b></td>
-<td align="right">0</td>
-<td><sub>Novi Sad, Serbia</sub></td>
+<td><a href="https://github.com/kunicmarko20"><img src="https://avatars.githubusercontent.com/u/13528674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kunicmarko20"><b>Marko Kunic</b></a><br><sub>&#64;kunicmarko20</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">117</td>
+<td><sub>Serbia</sub></td>
 </tr>
 <tr>
 <td align="right">158</td>
+<td><a href="https://github.com/Kivooeo"><img src="https://avatars.githubusercontent.com/u/75776246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kivooeo"><b>Kivooeo</b></a><br><sub>&#64;Kivooeo</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">46</td>
+<td><sub>Serbia, Novi Sad</sub></td>
+</tr>
+<tr>
+<td align="right">159</td>
+<td><a href="https://github.com/DreyAnd"><img src="https://avatars.githubusercontent.com/u/58053372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DreyAnd"><b>DreyAnd</b></a><br><sub>&#64;DreyAnd</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">17</td>
+<td><sub>Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">160</td>
+<td><a href="https://github.com/anicmarko9"><img src="https://avatars.githubusercontent.com/u/73799942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anicmarko9"><b>Marko Anić</b></a><br><sub>&#64;anicmarko9</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">4</td>
+<td><sub>Belgrade</sub></td>
+</tr>
+<tr>
+<td align="right">161</td>
+<td><a href="https://github.com/dreikanter"><img src="https://avatars.githubusercontent.com/u/126636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dreikanter"><b>Alex Musayev</b></a><br><sub>&#64;dreikanter</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">115</td>
+<td><sub>Novi Sad, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">162</td>
+<td><a href="https://github.com/cryptoniknik"><img src="https://avatars.githubusercontent.com/u/134150446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cryptoniknik"><b>cryptoniknik</b></a><br><sub>&#64;cryptoniknik</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">1</td>
+<td><sub>Belgrad</sub></td>
+</tr>
+<tr>
+<td align="right">163</td>
+<td><a href="https://github.com/xtenzQ"><img src="https://avatars.githubusercontent.com/u/10103127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xtenzQ"><b>Nikita Rusetskii</b></a><br><sub>&#64;xtenzQ</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">72</td>
+<td><sub>Belgrade, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">164</td>
+<td><a href="https://github.com/fkoler"><img src="https://avatars.githubusercontent.com/u/116383431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fkoler"><b>Ferenc Koler</b></a><br><sub>&#64;fkoler</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">30</td>
+<td><sub>Earth/Europe/Serbia/Novi&#95;Sad</sub></td>
+</tr>
+<tr>
+<td align="right">165</td>
+<td><a href="https://github.com/vavilichev"><img src="https://avatars.githubusercontent.com/u/22970240?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vavilichev"><b>vavilichev</b></a><br><sub>&#64;vavilichev</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">15</td>
+<td><sub>Belgrade, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">166</td>
 <td><a href="https://github.com/svlada"><img src="https://avatars.githubusercontent.com/u/845095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/svlada"><b>Vladimir Stanković</b></a><br><sub>&#64;svlada</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Serbia, Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">159</td>
+<td align="right">167</td>
 <td><a href="https://github.com/ubavic"><img src="https://avatars.githubusercontent.com/u/53820106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ubavic"><b>Nikola Ubavić</b></a><br><sub>&#64;ubavic</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">160</td>
+<td align="right">168</td>
 <td><a href="https://github.com/kornrunner"><img src="https://avatars.githubusercontent.com/u/725986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kornrunner"><b>Boris Momčilović</b></a><br><sub>&#64;kornrunner</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">161</td>
+<td align="right">169</td>
 <td><a href="https://github.com/vydd"><img src="https://avatars.githubusercontent.com/u/2054352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vydd"><b>Danilo Vidovic</b></a><br><sub>&#64;vydd</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">162</td>
+<td align="right">170</td>
 <td><a href="https://github.com/stefanpejcic"><img src="https://avatars.githubusercontent.com/u/6408320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefanpejcic"><b>Stefan Pejcic</b></a><br><sub>&#64;stefanpejcic</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">163</td>
+<td align="right">171</td>
 <td><a href="https://github.com/sasa95"><img src="https://avatars.githubusercontent.com/u/13697709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sasa95"><b>Sasha Drmic</b></a><br><sub>&#64;sasa95</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">164</td>
+<td align="right">172</td>
 <td><a href="https://github.com/anbud"><img src="https://avatars.githubusercontent.com/u/7756140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anbud"><b>Andrej Budinčević</b></a><br><sub>&#64;anbud</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">165</td>
+<td align="right">173</td>
 <td><a href="https://github.com/lazarljubenovic"><img src="https://avatars.githubusercontent.com/u/7661457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lazarljubenovic"><b>Lazar Ljubenović</b></a><br><sub>&#64;lazarljubenovic</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Niš, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">166</td>
+<td align="right">174</td>
 <td><a href="https://github.com/Momciloo"><img src="https://avatars.githubusercontent.com/u/15079459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Momciloo"><b>Momcilo Popov</b></a><br><sub>&#64;Momciloo</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">167</td>
+<td align="right">175</td>
 <td><a href="https://github.com/nmilosev"><img src="https://avatars.githubusercontent.com/u/11432491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nmilosev"><b>Nemanja Milosevic</b></a><br><sub>&#64;nmilosev</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Novi Sad, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">168</td>
+<td align="right">176</td>
 <td><a href="https://github.com/nemanjarogic"><img src="https://avatars.githubusercontent.com/u/12249325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nemanjarogic"><b>Nemanja Rogic</b></a><br><sub>&#64;nemanjarogic</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">169</td>
+<td align="right">177</td>
 <td><a href="https://github.com/M1z23R"><img src="https://avatars.githubusercontent.com/u/560612?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/M1z23R"><b>Dimitrije Randjelovic</b></a><br><sub>&#64;M1z23R</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Nis, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">170</td>
+<td align="right">178</td>
 <td><a href="https://github.com/filiparag"><img src="https://avatars.githubusercontent.com/u/4471044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filiparag"><b>Filip Parag</b></a><br><sub>&#64;filiparag</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">171</td>
+<td align="right">179</td>
 <td><a href="https://github.com/gzigzigzeo"><img src="https://avatars.githubusercontent.com/u/27830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gzigzigzeo"><b>Viktor Sokolov</b></a><br><sub>&#64;gzigzigzeo</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">172</td>
+<td align="right">180</td>
 <td><a href="https://github.com/Palm1r"><img src="https://avatars.githubusercontent.com/u/9195189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Palm1r"><b>Petr Mironychev</b></a><br><sub>&#64;Palm1r</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Serbia, Novi Sad</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">181</td>
 <td><a href="https://github.com/vtr0n"><img src="https://avatars.githubusercontent.com/u/18473198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vtr0n"><b>Valery Krasnoselsky</b></a><br><sub>&#64;vtr0n</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Belgrage, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">182</td>
 <td><a href="https://github.com/stn1slv"><img src="https://avatars.githubusercontent.com/u/20664330?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stn1slv"><b>Stanislav Deviatov</b></a><br><sub>&#64;stn1slv</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Novi Sad, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">183</td>
 <td><a href="https://github.com/vlsergey"><img src="https://avatars.githubusercontent.com/u/969363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vlsergey"><b>Sergey Vladimirov</b></a><br><sub>&#64;vlsergey</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">184</td>
 <td><a href="https://github.com/mcekovic"><img src="https://avatars.githubusercontent.com/u/2050764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mcekovic"><b>Mileta Cekovic</b></a><br><sub>&#64;mcekovic</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">185</td>
 <td><a href="https://github.com/jkb0o"><img src="https://avatars.githubusercontent.com/u/122736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jkb0o"><b>Yasha Borevich</b></a><br><sub>&#64;jkb0o</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">178</td>
+<td align="right">186</td>
 <td><a href="https://github.com/chibisov"><img src="https://avatars.githubusercontent.com/u/522462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chibisov"><b>Gennady Chibisov</b></a><br><sub>&#64;chibisov</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">179</td>
+<td align="right">187</td>
 <td><a href="https://github.com/mrven"><img src="https://avatars.githubusercontent.com/u/6444269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrven"><b>Ivan Vostrikov</b></a><br><sub>&#64;mrven</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Serbia, Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">180</td>
+<td align="right">188</td>
 <td><a href="https://github.com/toorshia"><img src="https://avatars.githubusercontent.com/u/2143873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/toorshia"><b>Bojan Duricic</b></a><br><sub>&#64;toorshia</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">189</td>
 <td><a href="https://github.com/Anbeeld"><img src="https://avatars.githubusercontent.com/u/95904103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anbeeld"><b>Ivan Neustroev</b></a><br><sub>&#64;Anbeeld</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">182</td>
+<td align="right">190</td>
+<td><a href="https://github.com/nyudenkov"><img src="https://avatars.githubusercontent.com/u/14141649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nyudenkov"><b>Nikita Iudenkov</b></a><br><sub>&#64;nyudenkov</sub></td>
+<td align="right"><b>55</b></td>
+<td align="right">0</td>
+<td><sub>Novi Sad, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">191</td>
 <td><a href="https://github.com/pamburus"><img src="https://avatars.githubusercontent.com/u/12778560?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pamburus"><b>Pavel Ivanov</b></a><br><sub>&#64;pamburus</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">192</td>
 <td><a href="https://github.com/whaleyxbt"><img src="https://avatars.githubusercontent.com/u/165095936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/whaleyxbt"><b>whaley</b></a><br><sub>&#64;whaleyxbt</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>serbia</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">193</td>
+<td><a href="https://github.com/mladenilic"><img src="https://avatars.githubusercontent.com/u/7901221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mladenilic"><b>Mladen Ilić</b></a><br><sub>&#64;mladenilic</sub></td>
+<td align="right"><b>50</b></td>
+<td align="right">0</td>
+<td><sub>Belgrade, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">194</td>
 <td><a href="https://github.com/Aracki"><img src="https://avatars.githubusercontent.com/u/6129986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aracki"><b>Ivan Aracki</b></a><br><sub>&#64;Aracki</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">195</td>
 <td><a href="https://github.com/deseven"><img src="https://avatars.githubusercontent.com/u/1761803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deseven"><b>Ivan Novohatski</b></a><br><sub>&#64;deseven</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">196</td>
 <td><a href="https://github.com/getjump"><img src="https://avatars.githubusercontent.com/u/1342807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/getjump"><b>Pavel Savinov</b></a><br><sub>&#64;getjump</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">197</td>
 <td><a href="https://github.com/nemanja-m"><img src="https://avatars.githubusercontent.com/u/20483530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nemanja-m"><b>Nemanja Milićević</b></a><br><sub>&#64;nemanja-m</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Novi Sad</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">198</td>
 <td><a href="https://github.com/Nodge"><img src="https://avatars.githubusercontent.com/u/1094801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nodge"><b>Maksim Zemskov</b></a><br><sub>&#64;Nodge</sub></td>
 <td align="right"><b>44</b></td>
 <td align="right">0</td>
 <td><sub>Serbia, Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">199</td>
 <td><a href="https://github.com/tshatrov"><img src="https://avatars.githubusercontent.com/u/4077725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tshatrov"><b>tshatrov</b></a><br><sub>&#64;tshatrov</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">200</td>
 <td><a href="https://github.com/WildChlamydia"><img src="https://avatars.githubusercontent.com/u/2891003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WildChlamydia"><b>Maksim Kuprashevich</b></a><br><sub>&#64;WildChlamydia</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Serbia, Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">201</td>
 <td><a href="https://github.com/ognjengt"><img src="https://avatars.githubusercontent.com/u/1406687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ognjengt"><b>Ognjen Gatalo</b></a><br><sub>&#64;ognjengt</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">202</td>
 <td><a href="https://github.com/AlexeyBelezeko"><img src="https://avatars.githubusercontent.com/u/1054094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexeyBelezeko"><b>Aleksei</b></a><br><sub>&#64;AlexeyBelezeko</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">203</td>
 <td><a href="https://github.com/MeanEYE"><img src="https://avatars.githubusercontent.com/u/1911594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MeanEYE"><b>Mladen Mijatov</b></a><br><sub>&#64;MeanEYE</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">204</td>
 <td><a href="https://github.com/misa-j"><img src="https://avatars.githubusercontent.com/u/61361900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/misa-j"><b>Miša Jakovljević</b></a><br><sub>&#64;misa-j</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">205</td>
+<td><a href="https://github.com/savicprvoslav"><img src="https://avatars.githubusercontent.com/u/6024230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/savicprvoslav"><b>Savic Prvoslav</b></a><br><sub>&#64;savicprvoslav</sub></td>
+<td align="right"><b>39</b></td>
+<td align="right">0</td>
+<td><sub>Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">206</td>
 <td><a href="https://github.com/ikarenkov"><img src="https://avatars.githubusercontent.com/u/17216532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ikarenkov"><b>Karenkov Igor</b></a><br><sub>&#64;ikarenkov</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">207</td>
 <td><a href="https://github.com/BugiDev"><img src="https://avatars.githubusercontent.com/u/4005545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BugiDev"><b>Bogdan Begovic</b></a><br><sub>&#64;BugiDev</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">208</td>
 <td><a href="https://github.com/draganbabic"><img src="https://avatars.githubusercontent.com/u/7902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/draganbabic"><b>Dragan Babić</b></a><br><sub>&#64;draganbabic</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Novi Sad, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">209</td>
 <td><a href="https://github.com/dtrajko"><img src="https://avatars.githubusercontent.com/u/1981147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dtrajko"><b>Dejan Trajkovic</b></a><br><sub>&#64;dtrajko</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">210</td>
 <td><a href="https://github.com/mr-fatalyst"><img src="https://avatars.githubusercontent.com/u/57370227?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mr-fatalyst"><b>Nikita Ryzhenkov</b></a><br><sub>&#64;mr-fatalyst</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">211</td>
 <td><a href="https://github.com/somewebmedia"><img src="https://avatars.githubusercontent.com/u/2186159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/somewebmedia"><b>Some Web Media</b></a><br><sub>&#64;somewebmedia</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">212</td>
+<td><a href="https://github.com/eymengunay"><img src="https://avatars.githubusercontent.com/u/242627?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eymengunay"><b>Eymen Gunay</b></a><br><sub>&#64;eymengunay</sub></td>
+<td align="right"><b>32</b></td>
+<td align="right">0</td>
+<td><sub>Belgrade</sub></td>
+</tr>
+<tr>
+<td align="right">213</td>
 <td><a href="https://github.com/sopov"><img src="https://avatars.githubusercontent.com/u/325038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sopov"><b>Leonid Sopov</b></a><br><sub>&#64;sopov</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">214</td>
 <td><a href="https://github.com/stkeky"><img src="https://avatars.githubusercontent.com/u/16312404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stkeky"><b>Stefan Ristanović</b></a><br><sub>&#64;stkeky</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Novi Sad, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">215</td>
+<td><a href="https://github.com/itechmeat"><img src="https://avatars.githubusercontent.com/u/42838667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itechmeat"><b>Serg Eroshe</b></a><br><sub>&#64;itechmeat</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">0</td>
+<td><sub>Novi Sad, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">216</td>
 <td><a href="https://github.com/Lolomgrofl"><img src="https://avatars.githubusercontent.com/u/46270806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lolomgrofl"><b>Luka Vuksanović</b></a><br><sub>&#64;Lolomgrofl</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">217</td>
 <td><a href="https://github.com/soulthreads"><img src="https://avatars.githubusercontent.com/u/314805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soulthreads"><b>Anton Lobashev</b></a><br><sub>&#64;soulthreads</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">218</td>
 <td><a href="https://github.com/Wlada"><img src="https://avatars.githubusercontent.com/u/1298077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wlada"><b>Vladimir</b></a><br><sub>&#64;Wlada</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
-<td><a href="https://github.com/itechmeat"><img src="https://avatars.githubusercontent.com/u/42838667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itechmeat"><b>Serg Eroshe</b></a><br><sub>&#64;itechmeat</sub></td>
-<td align="right"><b>26</b></td>
-<td align="right">0</td>
-<td><sub>Novi Sad, Serbia</sub></td>
-</tr>
-<tr>
-<td align="right">207</td>
+<td align="right">219</td>
 <td><a href="https://github.com/nikitowsky"><img src="https://avatars.githubusercontent.com/u/14042959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nikitowsky"><b>Nikita Borisovskiy</b></a><br><sub>&#64;nikitowsky</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Serbia, Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">220</td>
 <td><a href="https://github.com/StefanKovac"><img src="https://avatars.githubusercontent.com/u/3994155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StefanKovac"><b>StefanKovac</b></a><br><sub>&#64;StefanKovac</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Novi Sad, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">221</td>
 <td><a href="https://github.com/Mitrichius"><img src="https://avatars.githubusercontent.com/u/7609386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mitrichius"><b>Dmitry Kolosov</b></a><br><sub>&#64;Mitrichius</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">0</td>
 <td><sub>Novi Sad</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">222</td>
 <td><a href="https://github.com/alexejn"><img src="https://avatars.githubusercontent.com/u/19667729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexejn"><b>Alexej Ne</b></a><br><sub>&#64;alexejn</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">223</td>
 <td><a href="https://github.com/OpenSource03"><img src="https://avatars.githubusercontent.com/u/29690431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OpenSource03"><b>Dejan Žegarac</b></a><br><sub>&#64;OpenSource03</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Serbia, Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">224</td>
 <td><a href="https://github.com/Ivan-Feofanov"><img src="https://avatars.githubusercontent.com/u/9822135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ivan-Feofanov"><b>Ivan Feofanov</b></a><br><sub>&#64;Ivan-Feofanov</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">0</td>
 <td><sub>Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">225</td>
 <td><a href="https://github.com/sevdokimov"><img src="https://avatars.githubusercontent.com/u/669696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sevdokimov"><b>Sergey Evdokimov</b></a><br><sub>&#64;sevdokimov</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">226</td>
 <td><a href="https://github.com/josshad"><img src="https://avatars.githubusercontent.com/u/755348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josshad"><b>Danila Gusev</b></a><br><sub>&#64;josshad</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">227</td>
+<td><a href="https://github.com/predmijat"><img src="https://avatars.githubusercontent.com/u/8684411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/predmijat"><b>Predrag Mijatovic</b></a><br><sub>&#64;predmijat</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">0</td>
+<td><sub>Belgrade</sub></td>
+</tr>
+<tr>
+<td align="right">228</td>
 <td><a href="https://github.com/M4444"><img src="https://avatars.githubusercontent.com/u/7422442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/M4444"><b>Miloš Stojanović</b></a><br><sub>&#64;M4444</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">229</td>
 <td><a href="https://github.com/symstu"><img src="https://avatars.githubusercontent.com/u/19371604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/symstu"><b>Maksym Stukalo</b></a><br><sub>&#64;symstu</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">13</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">230</td>
 <td><a href="https://github.com/nenadpnc"><img src="https://avatars.githubusercontent.com/u/2998730?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nenadpnc"><b>Nenad Panić</b></a><br><sub>&#64;nenadpnc</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">231</td>
 <td><a href="https://github.com/saxon1964"><img src="https://avatars.githubusercontent.com/u/71132278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saxon1964"><b>saxon</b></a><br><sub>&#64;saxon1964</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">232</td>
 <td><a href="https://github.com/grundiss"><img src="https://avatars.githubusercontent.com/u/2481018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/grundiss"><b>Grigoriy Karelin</b></a><br><sub>&#64;grundiss</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">16</td>
 <td><sub>Mali Zvornik, Serbia</sub></td>
 </tr>
 <tr>
-<td align="right">220</td>
+<td align="right">233</td>
 <td><a href="https://github.com/emil1ob01"><img src="https://avatars.githubusercontent.com/u/359926697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emil1ob01"><b>emil1ob01</b></a><br><sub>&#64;emil1ob01</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Belgrade</sub></td>
 </tr>
 <tr>
-<td align="right">221</td>
+<td align="right">234</td>
 <td><a href="https://github.com/NomGamni"><img src="https://avatars.githubusercontent.com/u/296436081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NomGamni"><b>Yulia Bezginova</b></a><br><sub>&#64;NomGamni</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1576,7 +1667,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 221 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 234 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

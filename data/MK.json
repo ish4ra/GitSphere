@@ -5,7 +5,7 @@
 "country": {"code":"MK","name":"North Macedonia","slug":"north-macedonia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":318,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":115,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":142,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":318,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":109,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":142,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDONkPybA","name":"kaneo","nameWithOwner":"usekaneo/kaneo","url":"https://github.com/usekaneo/kaneo","description":"⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.","stars":9895,"forks":970,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2024-12-31T08:25:09Z","pushedAt":"2026-11-24T08:21:51Z","archived":false,"owner":{"login":"usekaneo","name":"kaneo.app","type":"Organization","url":"https://github.com/usekaneo","location":"Macedonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxODYwNDM3MTU=","name":"coding-problems","nameWithOwner":"MTrajK/coding-problems","url":"https://github.com/MTrajK/coding-problems","description":"Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures","stars":3405,"forks":629,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2019-05-10T19:29:20Z","pushedAt":"2025-11-26T18:48:39Z","archived":false,"owner":{"login":"MTrajK","name":"Meto Trajkovski","type":"User","url":"https://github.com/MTrajK","location":"Skopje","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-26"},
@@ -21,8 +21,8 @@
   {"rank":12,"id":"MDEwOlJlcG9zaXRvcnkxMzI4MTU5Nzg=","name":"awesome-testing-tools","nameWithOwner":"ZoranPandovski/awesome-testing-tools","url":"https://github.com/ZoranPandovski/awesome-testing-tools","description":"A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.","stars":387,"forks":224,"primaryLanguage":"CSS","license":{"spdxId":"CC0-1.0"},"createdAt":"2018-05-09T21:45:15Z","pushedAt":"2026-10-21T16:49:11Z","archived":false,"owner":{"login":"ZoranPandovski","name":"Zoran Pandovski","type":"User","url":"https://github.com/ZoranPandovski","location":"Bitola, North Macedonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
   {"rank":13,"id":"MDEwOlJlcG9zaXRvcnkyNzQ0NjAwNw==","name":"tipso","nameWithOwner":"object505/tipso","url":"https://github.com/object505/tipso","description":"A Lightweight Responsive jQuery Tooltip Plugin","stars":318,"forks":115,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2014-12-02T18:07:28Z","pushedAt":"2019-03-20T10:20:55Z","archived":false,"owner":{"login":"object505","name":"Bojan Petkovski","type":"User","url":"https://github.com/object505","location":"Skopje","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "e011b8da83945075",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "981f09a146289dbd",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

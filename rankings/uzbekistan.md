@@ -87,8 +87,8 @@
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/ramziddin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ramziddin/solid-skills"><b>ramziddin/solid-skills</b></a><br><sub>AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture</sub></td>
-<td align="right"><b>641</b></td>
-<td align="right">72</td>
+<td align="right"><b>642</b></td>
+<td align="right">73</td>
 <td>—</td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 271 stars; 28 attributed candidates are tracked.
-- 109 multi-repository owners are queued for expansion.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

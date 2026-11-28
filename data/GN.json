@@ -5,10 +5,10 @@
 "country": {"code":"GN","name":"Guinea","slug":"guinea"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":142,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":76,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":141,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":76,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "a99adfef653d61ac",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "b9e1cd83de9dc1e6",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

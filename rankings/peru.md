@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **54** | 25 Nov 2026 | <a href="../data/PE.json">JSON</a> |
+| 🟡 Provisional | **57** | 25 Nov 2026 | <a href="../data/PE.json">JSON</a> |
 
 </div>
 
@@ -399,6 +399,27 @@
 <td align="right">38</td>
 <td>C</td>
 </tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/elbereth.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elbereth/DragonUnPACKer"><b>elbereth/DragonUnPACKer</b></a><br><sub>Free/Open source game file resource explorer/unpacking tool made easy!</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">23</td>
+<td>Pascal</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/escueladigital.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/escueladigital/EDgrid"><b>escueladigital/EDgrid</b></a><br><sub>CSS/Sass library for responsive layouts &#124; Libreria CSS/Sass para construir layouts responsive</sub></td>
+<td align="right"><b>262</b></td>
+<td align="right">165</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/Pablituuu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Pablituuu/react-video-editor"><b>Pablituuu/react-video-editor</b></a><br><sub>Online video editor alternative to canva and capcut. React video editor.</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">60</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -407,8 +428,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 272 stars; 54 attributed candidates are tracked.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 251 stars; 57 attributed candidates are tracked.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 118 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

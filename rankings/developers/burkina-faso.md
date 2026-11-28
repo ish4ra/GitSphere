@@ -247,31 +247,31 @@
 </tr>
 <tr>
 <td align="right">33</td>
+<td><a href="https://github.com/donnikurosaki"><img src="https://avatars.githubusercontent.com/u/126399753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donnikurosaki"><b>DARA Dieudonné Goumba</b></a><br><sub>&#64;donnikurosaki</sub></td>
+<td align="right"><b>21</b></td>
+<td align="right">38</td>
+<td><sub>Burkina Faso, Ouagadougou</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><a href="https://github.com/astridgrace"><img src="https://avatars.githubusercontent.com/u/142365147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astridgrace"><b>astridgrace</b></a><br><sub>&#64;astridgrace</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">14</td>
 <td><sub>Ouagadougou, Burkina Faso</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">35</td>
 <td><a href="https://github.com/time-bandite"><img src="https://avatars.githubusercontent.com/u/6539924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/time-bandite"><b>André Sékou ZONGO</b></a><br><sub>&#64;time-bandite</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">21</td>
 <td><sub>Avenue de la Nation, Bobo-Dioulasso, Burkina Fa…</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">36</td>
 <td><a href="https://github.com/yenteck"><img src="https://avatars.githubusercontent.com/u/16417198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yenteck"><b>Yentema Nadjoari</b></a><br><sub>&#64;yenteck</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">20</td>
 <td><sub>Ouagadougou,Burkina Faso</sub></td>
-</tr>
-<tr>
-<td align="right">36</td>
-<td><a href="https://github.com/donnikurosaki"><img src="https://avatars.githubusercontent.com/u/126399753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donnikurosaki"><b>DARA Dieudonné Goumba</b></a><br><sub>&#64;donnikurosaki</sub></td>
-<td align="right"><b>19</b></td>
-<td align="right">38</td>
-<td><sub>Burkina Faso, Ouagadougou</sub></td>
 </tr>
 <tr>
 <td align="right">37</td>

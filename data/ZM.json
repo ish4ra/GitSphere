@@ -5,13 +5,15 @@
 "country": {"code":"ZM","name":"Zambia","slug":"zambia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":291,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":124,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":83,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":254,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":119,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":83,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMTUzOTA4NzY=","name":"CommunityWriterPrograms","nameWithOwner":"malgamves/CommunityWriterPrograms","url":"https://github.com/malgamves/CommunityWriterPrograms","description":"A list of Developer Community Writer Programs","stars":4208,"forks":746,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2019-10-15T20:30:34Z","pushedAt":"2026-07-31T10:02:13Z","archived":false,"owner":{"login":"malgamves","name":"Daniel Madalitso Phiri","type":"User","url":"https://github.com/malgamves","location":"Lusaka, Zambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
-  {"rank":2,"id":"R_kgDOMSrmPQ","name":"ui","nameWithOwner":"kampsy/ui","url":"https://github.com/kampsy/ui","description":"A Svelte 5 UI component library, inspired by Vercel's Geist, thoughtfully designed to deliver consistent and cohesive web experiences.","stars":291,"forks":8,"primaryLanguage":"Svelte","license":{"spdxId":"MIT"},"createdAt":"2024-07-06T08:43:45Z","pushedAt":"2026-09-28T14:13:21Z","archived":false,"owner":{"login":"kampsy","name":"kampsy","type":"User","url":"https://github.com/kampsy","location":"Zambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
+  {"rank":2,"id":"R_kgDOMSrmPQ","name":"ui","nameWithOwner":"kampsy/ui","url":"https://github.com/kampsy/ui","description":"A Svelte 5 UI component library, inspired by Vercel's Geist, thoughtfully designed to deliver consistent and cohesive web experiences.","stars":291,"forks":8,"primaryLanguage":"Svelte","license":{"spdxId":"MIT"},"createdAt":"2024-07-06T08:43:45Z","pushedAt":"2026-09-28T14:13:21Z","archived":false,"owner":{"login":"kampsy","name":"kampsy","type":"User","url":"https://github.com/kampsy","location":"Zambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"},
+  {"rank":3,"id":"MDEwOlJlcG9zaXRvcnk0MDIwNzQzMTg=","name":"thedevilseye","nameWithOwner":"ritchiemwewa/thedevilseye","url":"https://github.com/ritchiemwewa/thedevilseye","description":"An osint tool that uses Ahmia.fi to get hidden services and descriptions that match with the users query.","stars":269,"forks":34,"primaryLanguage":null,"license":null,"createdAt":"2021-09-01T13:38:36Z","pushedAt":"2025-12-14T23:02:03Z","archived":false,"owner":{"login":"ritchiemwewa","name":"Ritchie Mwewa","type":"User","url":"https://github.com/ritchiemwewa","location":"Zambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"},
+  {"rank":4,"id":"MDEwOlJlcG9zaXRvcnkzNzQ2MzAyMDU=","name":"oxdork","nameWithOwner":"ritchiemwewa/oxdork","url":"https://github.com/ritchiemwewa/oxdork","description":"Google dorking tool","stars":254,"forks":30,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2021-06-07T10:48:43Z","pushedAt":"2026-01-01T22:24:41Z","archived":true,"owner":{"login":"ritchiemwewa","name":"Ritchie Mwewa","type":"User","url":"https://github.com/ritchiemwewa","location":"Zambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "bdc47fd5f75621ef",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "804a0011f71dcf58",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"IM","name":"Isle of Man","slug":"isle-of-man"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":343,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":123,"candidates":5,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":39,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":343,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":5,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":39,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk0OTAwOTk1MA==","name":"HowToBeAProgrammer","nameWithOwner":"braydie/HowToBeAProgrammer","url":"https://github.com/braydie/HowToBeAProgrammer","description":"A guide on how to be a Programmer - originally published by Robert L Read","stars":16322,"forks":1349,"primaryLanguage":null,"license":null,"createdAt":"2016-01-04T16:47:54Z","pushedAt":"2025-09-28T17:08:19Z","archived":false,"owner":{"login":"braydie","name":"Braydie Grove","type":"User","url":"https://github.com/braydie","location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyNzIxNzYx","name":"autosize","nameWithOwner":"jackmoore/autosize","url":"https://github.com/jackmoore/autosize","description":"Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.","stars":5079,"forks":689,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2011-11-06T19:21:21Z","pushedAt":"2023-02-15T07:30:24Z","archived":true,"owner":{"login":"jackmoore","name":"Jack Moore","type":"User","url":"https://github.com/jackmoore","location":"Florida, man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
@@ -13,8 +13,8 @@
   {"rank":4,"id":"MDEwOlJlcG9zaXRvcnkyNzYwNzkx","name":"zoom","nameWithOwner":"jackmoore/zoom","url":"https://github.com/jackmoore/zoom","description":"jQuery plugin for zooming images on mouseover.","stars":1534,"forks":447,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2011-11-12T08:25:57Z","pushedAt":"2025-09-07T17:36:57Z","archived":true,"owner":{"login":"jackmoore","name":"Jack Moore","type":"User","url":"https://github.com/jackmoore","location":"Florida, man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":5,"id":"MDEwOlJlcG9zaXRvcnk2ODYwMzI4","name":"wheelzoom","nameWithOwner":"jackmoore/wheelzoom","url":"https://github.com/jackmoore/wheelzoom","description":"A small script for zooming IMG elements with the mousewheel/trackpad.","stars":343,"forks":93,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2012-11-26T05:35:03Z","pushedAt":"2019-09-19T12:45:17Z","archived":true,"owner":{"login":"jackmoore","name":"Jack Moore","type":"User","url":"https://github.com/jackmoore","location":"Florida, man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "1268306b2d1c5194",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "0ed414eabd3bea1c",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

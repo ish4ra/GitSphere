@@ -5,12 +5,12 @@
 "country": {"code":"PN","name":"Pitcairn Islands","slug":"pitcairn-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":9,"measuredAccounts":9,"measurementBacklog":0,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":18,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":9,"measuredAccounts":9,"measurementBacklog":0,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":18,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYzMTE2Nzg4","login":"Hi30MC","name":"Ash Duimstra","url":"https://github.com/Hi30MC","avatarUrl":"https://avatars.githubusercontent.com/u/63116788?s=80&v=4","followers":4,"publicRepos":20,"location":"WVGX+WJQ, Adamstown PCRN 1ZZ, Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":227,"commits":218,"pullRequests":1,"reviews":0,"issues":0,"repositories":8,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "46d03bf452f4cb97",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "629985f3bc15a5f8",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

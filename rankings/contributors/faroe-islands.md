@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **32** | 22 Nov 2026 | <a href="../../data/contributors/FO.json">JSON</a> |
+| 🟡 Provisional | **35** | 22 Nov 2026 | <a href="../../data/contributors/FO.json">JSON</a> |
 
 </div>
 
@@ -241,6 +241,24 @@
 </tr>
 <tr>
 <td align="right">25</td>
+<td><a href="https://github.com/OddmarDam"><img src="https://avatars.githubusercontent.com/u/4441007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OddmarDam"><b>Oddmar Dam</b></a><br><sub>&#64;OddmarDam · 6 followers</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">1</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/lsv3255-creator"><img src="https://avatars.githubusercontent.com/u/327406878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lsv3255-creator"><b>licode</b></a><br><sub>&#64;lsv3255-creator · 0 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">27</td>
 <td><a href="https://github.com/Smilex"><img src="https://avatars.githubusercontent.com/u/887918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smilex"><b>Ian T. Jacobsen</b></a><br><sub>&#64;Smilex · 17 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">3</td>
@@ -249,7 +267,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">28</td>
 <td><a href="https://github.com/bartalclementsen"><img src="https://avatars.githubusercontent.com/u/7447591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bartalclementsen"><b>Bartal Clementsen</b></a><br><sub>&#64;bartalclementsen · 1 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
@@ -258,7 +276,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">29</td>
 <td><a href="https://github.com/TheRealZekre"><img src="https://avatars.githubusercontent.com/u/84916547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheRealZekre"><b>Signar Rasmussen</b></a><br><sub>&#64;TheRealZekre · 0 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
@@ -267,7 +285,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">30</td>
 <td><a href="https://github.com/shishpt"><img src="https://avatars.githubusercontent.com/u/8984291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shishpt"><b>Shishir Patel</b></a><br><sub>&#64;shishpt · 7 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">4</td>
@@ -276,7 +294,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">31</td>
+<td><a href="https://github.com/RudiPersson"><img src="https://avatars.githubusercontent.com/u/12712893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RudiPersson"><b>Rudi Persson</b></a><br><sub>&#64;RudiPersson · 7 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">32</td>
 <td><a href="https://github.com/slang123"><img src="https://avatars.githubusercontent.com/u/7000708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slang123"><b>Tummas Joensen</b></a><br><sub>&#64;slang123 · 5 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -285,7 +312,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">33</td>
 <td><a href="https://github.com/Niflheimrx"><img src="https://avatars.githubusercontent.com/u/22873437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Niflheimrx"><b>Niflheimrx</b></a><br><sub>&#64;Niflheimrx · 11 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -294,7 +321,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">34</td>
 <td><a href="https://github.com/theodorjohannesen"><img src="https://avatars.githubusercontent.com/u/7534750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/theodorjohannesen"><b>Theodor E. Johannesen</b></a><br><sub>&#64;theodorjohannesen · 3 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -303,7 +330,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">35</td>
 <td><a href="https://github.com/avn1694"><img src="https://avatars.githubusercontent.com/u/21276344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avn1694"><b>Andreas</b></a><br><sub>&#64;avn1694 · 0 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -318,7 +345,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 39 of 122 discovered developers (83 awaiting measurement).
+- **Measured:** 44 of 122 discovered developers (78 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 8 of 50 in round 1.

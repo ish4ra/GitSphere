@@ -5,7 +5,7 @@
 "country": {"code":"AG","name":"Antigua & Barbuda","slug":"antigua-barbuda"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":61,"measuredAccounts":43,"measurementBacklog":18,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":34,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":61,"measuredAccounts":48,"measurementBacklog":13,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":34,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCCsksQ","login":"FaraPatton","name":"Citizen_97","url":"https://github.com/FaraPatton","avatarUrl":"https://avatars.githubusercontent.com/u/137045169?s=80&v=4","followers":0,"publicRepos":6,"location":"Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":372,"commits":352,"pullRequests":14,"reviews":0,"issues":0,"repositories":6,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":2,"id":"U_kgDOBiJCFQ","login":"jeantkg","name":"Jean","url":"https://github.com/jeantkg","avatarUrl":"https://avatars.githubusercontent.com/u/102908437?s=80&v=4","followers":11,"publicRepos":4,"location":"Antigua & Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":237,"commits":222,"pullRequests":8,"reviews":2,"issues":0,"repositories":4,"windowFrom":"2025-11-26T08:00:00Z","windowTo":"2026-11-26T08:00:00Z","measuredOn":"2026-11-26"}},
@@ -28,8 +28,8 @@
   {"rank":19,"id":"U_kgDOE8dK7Q","login":"Diegoc32","name":"Diego","url":"https://github.com/Diegoc32","avatarUrl":"https://avatars.githubusercontent.com/u/331827949?s=80&v=4","followers":0,"publicRepos":1,"location":"Vieja Antigua y Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-28","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-28T03:00:00Z","windowTo":"2026-11-28T03:00:00Z","measuredOn":"2026-11-28"}},
   {"rank":20,"id":"MDQ6VXNlcjkwNDgxMDQ1","login":"Agalvf","name":"Alejandro Galvis Florez","url":"https://github.com/Agalvf","avatarUrl":"https://avatars.githubusercontent.com/u/90481045?s=80&v=4","followers":5,"publicRepos":6,"location":"Isla en Antigua y Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}}
 ],
-"contentHash": "7eb9aee06a25b9ba",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "940cc6899958579c",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

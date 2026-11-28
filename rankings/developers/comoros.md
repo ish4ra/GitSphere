@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **53** | 23 Nov 2026 | <a href="../../data/developers/KM.json">JSON</a> |
+| 🟡 Provisional | **52** | 23 Nov 2026 | <a href="../../data/developers/KM.json">JSON</a> |
 
 </div>
 
@@ -345,48 +345,41 @@
 </tr>
 <tr>
 <td align="right">47</td>
-<td><a href="https://github.com/Chenle187"><img src="https://avatars.githubusercontent.com/u/304287053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chenle187"><b>Adán</b></a><br><sub>&#64;Chenle187</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td><sub>Nueva Comoras</sub></td>
-</tr>
-<tr>
-<td align="right">48</td>
 <td><a href="https://github.com/difoua"><img src="https://avatars.githubusercontent.com/u/76606733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/difoua"><b>Fouad IBRAHIM</b></a><br><sub>&#64;difoua</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Comoros</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">48</td>
 <td><a href="https://github.com/Faouzidine-Houdhaifi"><img src="https://avatars.githubusercontent.com/u/315624599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Faouzidine-Houdhaifi"><b>Faouzidine Houdhaifi</b></a><br><sub>&#64;Faouzidine-Houdhaifi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Comores, Moroni</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">49</td>
 <td><a href="https://github.com/geoffintelligence-byte"><img src="https://avatars.githubusercontent.com/u/249107883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geoffintelligence-byte"><b>MyNameIsGeoff</b></a><br><sub>&#64;geoffintelligence-byte</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Comores</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">50</td>
 <td><a href="https://github.com/hdninetyfour"><img src="https://avatars.githubusercontent.com/u/152382750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hdninetyfour"><b>HASSANI DJALOUD</b></a><br><sub>&#64;hdninetyfour</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Moroni, Comoros</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">51</td>
 <td><a href="https://github.com/kaderb"><img src="https://avatars.githubusercontent.com/u/6330125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaderb"><b>Kader Irchad Barry</b></a><br><sub>&#64;kaderb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Moroni, Comoros Islands</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">52</td>
 <td><a href="https://github.com/NovaKom-startup"><img src="https://avatars.githubusercontent.com/u/283351938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NovaKom-startup"><b>NovaKom</b></a><br><sub>&#64;NovaKom-startup</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -400,7 +393,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 53 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 52 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 9 of 88 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

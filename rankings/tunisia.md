@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **42** | 25 Nov 2026 | <a href="../data/TN.json">JSON</a> |
+| 🟡 Provisional | **44** | 25 Nov 2026 | <a href="../data/TN.json">JSON</a> |
 
 </div>
 
@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/Ademking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ademking/BetterViewer"><b>Ademking/BetterViewer</b></a><br><sub>A fast image viewer and editor for your browser and desktop</sub></td>
-<td align="right"><b>583</b></td>
+<td align="right"><b>584</b></td>
 <td align="right">32</td>
 <td>TypeScript</td>
 </tr>
@@ -315,6 +315,20 @@
 <td align="right">68</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/Hmzbo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hmzbo/Football-Analytics-with-Deep-Learning-and-Computer-Vision"><b>Hmzbo/Football-Analytics-with-Deep-Learning-and-Computer-Vision</b></a></td>
+<td align="right"><b>263</b></td>
+<td align="right">73</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/bessemHmidi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bessemHmidi/AngularBeans"><b>bessemHmidi/AngularBeans</b></a></td>
+<td align="right"><b>250</b></td>
+<td align="right">85</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -323,8 +337,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 271 stars; 42 attributed candidates are tracked.
-- 107 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 250 stars; 44 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

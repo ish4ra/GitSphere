@@ -198,66 +198,66 @@
 </tr>
 <tr>
 <td align="right">26</td>
+<td><a href="https://github.com/knathwani-hue"><img src="https://avatars.githubusercontent.com/u/298909069?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/knathwani-hue"><b>Krisha Nathwani</b></a><br><sub>&#64;knathwani-hue</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>saint vincent and the grenadines</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
 <td><a href="https://github.com/managerdigimarketing-byte"><img src="https://avatars.githubusercontent.com/u/276346640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/managerdigimarketing-byte"><b>Nyorkia Cupid</b></a><br><sub>&#64;managerdigimarketing-byte</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Saint Vincent and the Grenadines</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">28</td>
 <td><a href="https://github.com/roman-struchev-libertexgroup"><img src="https://avatars.githubusercontent.com/u/81408782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roman-struchev-libertexgroup"><b>Roman Struchev (Libertex)</b></a><br><sub>&#64;roman-struchev-libertexgroup</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Saint Vincent and the Grenadines</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">29</td>
 <td><a href="https://github.com/stalkrdancingman"><img src="https://avatars.githubusercontent.com/u/183162187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stalkrdancingman"><b>stalkrdancingman</b></a><br><sub>&#64;stalkrdancingman</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>St. Vincent &amp; Grenadines (VC)</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">30</td>
 <td><a href="https://github.com/ALASKACorporation"><img src="https://avatars.githubusercontent.com/u/177580567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ALASKACorporation"><b>ALASKA Corporation</b></a><br><sub>&#64;ALASKACorporation</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Saint Vincent and the Grenadines</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">31</td>
 <td><a href="https://github.com/Dominic577"><img src="https://avatars.githubusercontent.com/u/186504254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dominic577"><b>KoolCreeper64</b></a><br><sub>&#64;Dominic577</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Saint Vincent and the Grenadines</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">32</td>
 <td><a href="https://github.com/donrickgarnes"><img src="https://avatars.githubusercontent.com/u/55724805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donrickgarnes"><b>donrickgarnes</b></a><br><sub>&#64;donrickgarnes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Saint Vincent and The Grenadines</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">33</td>
 <td><a href="https://github.com/FCILLC"><img src="https://avatars.githubusercontent.com/u/247166325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FCILLC"><b>Libertex</b></a><br><sub>&#64;FCILLC</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Stoney Ground, Kingstown, VC0100, Saint Vincent…</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">34</td>
 <td><a href="https://github.com/Jableio"><img src="https://avatars.githubusercontent.com/u/106208935?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jableio"><b>Jable</b></a><br><sub>&#64;Jableio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Saint Vincent and the Grenadines</sub></td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><a href="https://github.com/knathwani-hue"><img src="https://avatars.githubusercontent.com/u/298909069?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/knathwani-hue"><b>Krisha Nathwani</b></a><br><sub>&#64;knathwani-hue</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td><sub>saint vincent and the grenadines</sub></td>
 </tr>
 <tr>
 <td align="right">35</td>

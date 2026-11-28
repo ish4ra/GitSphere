@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **91** | 25 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -311,7 +311,7 @@
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/SIA-IOTechnology.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SIA-IOTechnology/Kittysploit-framework"><b>SIA-IOTechnology/Kittysploit-framework</b></a><br><sub>Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generato…</sub></td>
-<td align="right"><b>635</b></td>
+<td align="right"><b>634</b></td>
 <td align="right">101</td>
 <td>Python</td>
 </tr>
@@ -332,7 +332,7 @@
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/0ki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0ki/mikrotik-tools"><b>0ki/mikrotik-tools</b></a><br><sub>Tools for Mikrotik devices</sub></td>
-<td align="right"><b>600</b></td>
+<td align="right"><b>601</b></td>
 <td align="right">185</td>
 <td>Shell</td>
 </tr>
@@ -340,14 +340,14 @@
 <td align="right">46</td>
 <td><img src="https://github.com/evanca.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evanca/quick-portfolio"><b>evanca/quick-portfolio</b></a><br><sub>&#91;DISCONTINUED&#93; Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll them…</sub></td>
 <td align="right"><b>598</b></td>
-<td align="right">5,700</td>
+<td align="right">5,699</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/finchalyzer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/finchalyzer/slinky"><b>finchalyzer/slinky</b></a><br><sub>Export your Sketch designs as HTML email templates</sub></td>
 <td align="right"><b>593</b></td>
-<td align="right">27</td>
+<td align="right">26</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -658,15 +658,78 @@
 <td align="right">190</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/onlyoffice.github.io"><b>ONLYOFFICE/onlyoffice.github.io</b></a><br><sub>ONLYOFFICE plugins. Code, resources, and styling for the Plugin Marketplace and Plugins Manager.</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">511</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/skibish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skibish/ddns"><b>skibish/ddns</b></a><br><sub>Personal DDNS client with Digital Ocean Networking DNS as backend.</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">24</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/klesun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/klesun/deep-assoc-completion"><b>klesun/deep-assoc-completion</b></a><br><sub>A phpstorm plugin for associative array key typing and completion</sub></td>
+<td align="right"><b>267</b></td>
+<td align="right">21</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/ruzrobert.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ruzrobert/ShowDesktopOneMonitor"><b>ruzrobert/ShowDesktopOneMonitor</b></a><br><sub>Win + D for One Monitor (Show Desktop only for One Monitor)</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">26</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/kj89.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kj89/testnet_manuals"><b>kj89/testnet&#95;manuals</b></a></td>
+<td align="right"><b>261</b></td>
+<td align="right">523</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/sorokin-vladimir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sorokin-vladimir/tele"><b>sorokin-vladimir/tele</b></a><br><sub>Telegram client for the terminal: a keyboard-first TUI, background daemon and a CLI, written in Go</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">37</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/gsamat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gsamat/amanu"><b>gsamat/amanu</b></a><br><sub>Records and transcribes online meetings. Automatically</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">52</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/lafriks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lafriks/go-tiled"><b>lafriks/go-tiled</b></a><br><sub>Go library to parse Tiled map editor file format (TMX) and render map to image</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">52</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/slikts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slikts/tooling"><b>slikts/tooling</b></a><br><sub>🧰 (Not currently) up-to-date list of JavaScript and TypeScript tooling resources</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">9</td>
+<td>HTML</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 273 stars; 91 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 254 stars; 102 attributed candidates are tracked.
 - 90 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

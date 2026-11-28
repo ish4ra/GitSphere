@@ -296,17 +296,17 @@
 </tr>
 <tr>
 <td align="right">40</td>
+<td><a href="https://github.com/Ashakour1"><img src="https://avatars.githubusercontent.com/u/116094561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ashakour1"><b>A.shakour Mohammed</b></a><br><sub>&#64;Ashakour1</sub></td>
+<td align="right"><b>55</b></td>
+<td align="right">71</td>
+<td><sub>Somalia-Mogadishu</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
 <td><a href="https://github.com/abdirizak-alaaja"><img src="https://avatars.githubusercontent.com/u/102373033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdirizak-alaaja"><b>Abdirisak abdullahi hussein</b></a><br><sub>&#64;abdirizak-alaaja</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">18</td>
 <td><sub>Mogadishu , Somalia</sub></td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><a href="https://github.com/Ashakour1"><img src="https://avatars.githubusercontent.com/u/116094561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ashakour1"><b>A.shakour Mohammed</b></a><br><sub>&#64;Ashakour1</sub></td>
-<td align="right"><b>54</b></td>
-<td align="right">71</td>
-<td><sub>Somalia-Mogadishu</sub></td>
 </tr>
 <tr>
 <td align="right">42</td>

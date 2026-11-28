@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **79** | 25 Nov 2026 | <a href="../data/MA.json">JSON</a> |
+| 🟡 Provisional | **86** | 25 Nov 2026 | <a href="../data/MA.json">JSON</a> |
 
 </div>
 
@@ -220,7 +220,7 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/wassim249.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wassim249/YT-Navigator"><b>wassim249/YT-Navigator</b></a><br><sub>YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Ex…</sub></td>
-<td align="right"><b>611</b></td>
+<td align="right"><b>609</b></td>
 <td align="right">78</td>
 <td>Python</td>
 </tr>
@@ -574,6 +574,55 @@
 <td align="right">16</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/yjose.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yjose/twitter-bot"><b>yjose/twitter-bot</b></a> <sub>archived</sub><br><sub>Node js twitter bot to send auto welcome message for your new followers</sub></td>
+<td align="right"><b>267</b></td>
+<td align="right">223</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/SaadAhla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SaadAhla/dark-kill"><b>SaadAhla/dark-kill</b></a><br><sub>A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation B…</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">52</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/souhaildev0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/souhaildev0/modifio"><b>souhaildev0/modifio</b></a><br><sub>Convert unlimited files locally on your browser using wasm and ffmpeg</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">108</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/yezz123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yezz123/ai-template"><b>yezz123/ai-template</b></a><br><sub>Multi-tenant SaaS boilerplate built on FastAPI &amp; Authx :sparkles:</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">41</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/bougarfaoui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bougarfaoui/ng-socket-io"><b>bougarfaoui/ng-socket-io</b></a><br><sub>Socket.IO module for Angular</sub></td>
+<td align="right"><b>255</b></td>
+<td align="right">55</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/akiyamaSM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akiyamaSM/larapoll"><b>akiyamaSM/larapoll</b></a><br><sub>A Laravel package to manage your polls</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">58</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/0xPwny.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xPwny/Apkatshu"><b>0xPwny/Apkatshu</b></a><br><sub>Apkatshu is a Tool for extracting urls , emails , ip address , and interesting data from APK files</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">37</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -582,7 +631,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 285 stars; 79 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 251 stars; 86 attributed candidates are tracked.
 - 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

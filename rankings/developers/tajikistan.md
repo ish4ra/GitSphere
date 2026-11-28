@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/faridun-dev"><img src="https://avatars.githubusercontent.com/u/121972180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/faridun-dev"><b>Faridun Fatkhullozoda</b></a><br><sub>&#64;faridun-dev</sub></td>
-<td align="right"><b>108</b></td>
+<td align="right"><b>107</b></td>
 <td align="right">19</td>
 <td><sub>Dushanbe, Tajikistan</sub></td>
 </tr>

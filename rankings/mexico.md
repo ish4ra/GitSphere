@@ -429,17 +429,17 @@
 </tr>
 <tr>
 <td align="right">59</td>
+<td><img src="https://github.com/luisbocanegra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn"><b>luisbocanegra/plasma-smart-video-wallpaper-reborn</b></a><br><sub>Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.</sub></td>
+<td align="right"><b>644</b></td>
+<td align="right">45</td>
+<td>QML</td>
+</tr>
+<tr>
+<td align="right">60</td>
 <td><img src="https://github.com/vicenteguerra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vicenteguerra/git-deploy"><b>vicenteguerra/git-deploy</b></a><br><sub>Php Script for Auto-Pull in server (Using WebHook from GitLab, GitHub and Bitbucket)</sub></td>
 <td align="right"><b>643</b></td>
 <td align="right">229</td>
 <td>PHP</td>
-</tr>
-<tr>
-<td align="right">60</td>
-<td><img src="https://github.com/luisbocanegra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn"><b>luisbocanegra/plasma-smart-video-wallpaper-reborn</b></a><br><sub>Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.</sub></td>
-<td align="right"><b>641</b></td>
-<td align="right">45</td>
-<td>QML</td>
 </tr>
 <tr>
 <td align="right">61</td>
@@ -465,14 +465,14 @@
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/ONElua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONElua/AutoPlugin2"><b>ONElua/AutoPlugin2</b></a><br><sub>Next AutoPlugin 2</sub></td>
-<td align="right"><b>592</b></td>
+<td align="right"><b>594</b></td>
 <td align="right">52</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/Tmeister.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tmeister/wp-api-jwt-auth"><b>Tmeister/wp-api-jwt-auth</b></a><br><sub>A simple plugin to add JSON Web Token (JWT) Authentication to WP REST API</sub></td>
-<td align="right"><b>590</b></td>
+<td align="right"><b>589</b></td>
 <td align="right">155</td>
 <td>TypeScript</td>
 </tr>
@@ -485,22 +485,22 @@
 </tr>
 <tr>
 <td align="right">67</td>
+<td><img src="https://github.com/samboy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/samboy/MaraDNS"><b>samboy/MaraDNS</b></a><br><sub>MaraDNS: A small open-source DNS server</sub></td>
+<td align="right"><b>576</b></td>
+<td align="right">69</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">68</td>
 <td><img src="https://github.com/jonmircha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonmircha/youtube-js"><b>jonmircha/youtube-js</b></a><br><sub>Repositorio de códigos del Curso JavaScript de &#64;jonmircha</sub></td>
 <td align="right"><b>575</b></td>
 <td align="right">580</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">68</td>
-<td><img src="https://github.com/samboy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/samboy/MaraDNS"><b>samboy/MaraDNS</b></a><br><sub>MaraDNS: A small open-source DNS server</sub></td>
-<td align="right"><b>575</b></td>
-<td align="right">69</td>
-<td>C</td>
-</tr>
-<tr>
 <td align="right">69</td>
 <td><img src="https://github.com/maquina-app.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maquina-app/rails-mcp-server"><b>maquina-app/rails-mcp-server</b></a><br><sub>A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large L…</sub></td>
-<td align="right"><b>573</b></td>
+<td align="right"><b>574</b></td>
 <td align="right">36</td>
 <td>Ruby</td>
 </tr>

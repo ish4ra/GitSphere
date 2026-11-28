@@ -184,24 +184,24 @@
 </tr>
 <tr>
 <td align="right">24</td>
-<td><a href="https://github.com/pemawangchuk2023"><img src="https://avatars.githubusercontent.com/u/140195033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pemawangchuk2023"><b>Pema Wangchuk</b></a><br><sub>&#64;pemawangchuk2023</sub></td>
-<td align="right"><b>17</b></td>
-<td align="right">31</td>
-<td><sub>Thimphu Bhutan</sub></td>
-</tr>
-<tr>
-<td align="right">25</td>
 <td><a href="https://github.com/sangay-yonten"><img src="https://avatars.githubusercontent.com/u/91883596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sangay-yonten"><b>Sangay Yonten</b></a><br><sub>&#64;sangay-yonten</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">10</td>
 <td><sub>Thimphu, Bhutan</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">25</td>
 <td><a href="https://github.com/divyashC"><img src="https://avatars.githubusercontent.com/u/60650433?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/divyashC"><b>Divyash Chhetri</b></a><br><sub>&#64;divyashC</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">44</td>
 <td><sub>Bhutan</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/pemawangchuk2023"><img src="https://avatars.githubusercontent.com/u/140195033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pemawangchuk2023"><b>Pema Wangchuk</b></a><br><sub>&#64;pemawangchuk2023</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">31</td>
+<td><sub>Thimphu Bhutan</sub></td>
 </tr>
 <tr>
 <td align="right">27</td>
@@ -1157,31 +1157,31 @@
 </tr>
 <tr>
 <td align="right">163</td>
+<td><a href="https://github.com/ntdorji"><img src="https://avatars.githubusercontent.com/u/15306143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntdorji"><b>Ngawang</b></a><br><sub>&#64;ntdorji</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">39</td>
+<td><sub>Thimphu, Bhutan</sub></td>
+</tr>
+<tr>
+<td align="right">164</td>
 <td><a href="https://github.com/pramodtng"><img src="https://avatars.githubusercontent.com/u/90597098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pramodtng"><b>Pramod Tamang</b></a><br><sub>&#64;pramodtng</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">35</td>
 <td><sub>Thimphu, Bhutan</sub></td>
 </tr>
 <tr>
-<td align="right">164</td>
+<td align="right">165</td>
 <td><a href="https://github.com/Y0geshsharma"><img src="https://avatars.githubusercontent.com/u/22994405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Y0geshsharma"><b>Yogesh Sharma</b></a><br><sub>&#64;Y0geshsharma</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">34</td>
 <td><sub>Samtse,Bhutan</sub></td>
 </tr>
 <tr>
-<td align="right">165</td>
+<td align="right">166</td>
 <td><a href="https://github.com/tsheringtashi"><img src="https://avatars.githubusercontent.com/u/34204854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tsheringtashi"><b>Tashi</b></a><br><sub>&#64;tsheringtashi</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">32</td>
 <td><sub>Bhutan</sub></td>
-</tr>
-<tr>
-<td align="right">166</td>
-<td><a href="https://github.com/ntdorji"><img src="https://avatars.githubusercontent.com/u/15306143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntdorji"><b>Ngawang</b></a><br><sub>&#64;ntdorji</sub></td>
-<td align="right"><b>1</b></td>
-<td align="right">31</td>
-<td><sub>Thimphu, Bhutan</sub></td>
 </tr>
 <tr>
 <td align="right">167</td>

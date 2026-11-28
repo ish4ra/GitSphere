@@ -5,7 +5,7 @@
 "country": {"code":"JE","name":"Jersey","slug":"jersey"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":62,"measuredAccounts":35,"measurementBacklog":27,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":17,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":62,"measuredAccounts":40,"measurementBacklog":22,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":17,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEwMDk4NzQ=","login":"simonbrowndotje","name":"Simon Brown","url":"https://github.com/simonbrowndotje","avatarUrl":"https://avatars.githubusercontent.com/u/1009874?s=80&v=4","followers":765,"publicRepos":5,"location":"Jersey, Channel Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":708,"commits":692,"pullRequests":0,"reviews":0,"issues":5,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjg0Mzc0MTk=","login":"ColinLubout","name":"Colin Lubout","url":"https://github.com/ColinLubout","avatarUrl":"https://avatars.githubusercontent.com/u/8437419?s=80&v=4","followers":0,"publicRepos":4,"location":"Jersey (Channel Islands)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":59,"commits":39,"pullRequests":18,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -19,8 +19,8 @@
   {"rank":10,"id":"MDQ6VXNlcjIyNDAxMDM3","login":"ablanco24","name":"Andrew Blanco","url":"https://github.com/ablanco24","avatarUrl":"https://avatars.githubusercontent.com/u/22401037?s=80&v=4","followers":0,"publicRepos":4,"location":"North New Jersey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":11,"id":"MDQ6VXNlcjQzMzc2Mjcy","login":"joshraslowsky","name":"Joshua Raslowksy","url":"https://github.com/joshraslowsky","avatarUrl":"https://avatars.githubusercontent.com/u/43376272?s=80&v=4","followers":0,"publicRepos":2,"location":"Central Jersey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27","contributions":{"public":1,"commits":0,"pullRequests":1,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-27T11:00:00Z","windowTo":"2026-11-27T11:00:00Z","measuredOn":"2026-11-27"}}
 ],
-"contentHash": "848e5601bc489123",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "21eb1d1c940d83c1",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

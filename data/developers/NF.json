@@ -5,7 +5,7 @@
 "country": {"code":"NF","name":"Norfolk Island","slug":"norfolk-island"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":6,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":19,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":6,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":19,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI2MzMxMDc3","login":"mark-ssd","name":"Mark SSD","url":"https://github.com/mark-ssd","avatarUrl":"https://avatars.githubusercontent.com/u/26331077?s=80&v=4","followers":5,"publicRepos":14,"location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDQ6VXNlcjg2NjMzNjE4","login":"FoxerMoxer","name":"FoxerMoxer","url":"https://github.com/FoxerMoxer","avatarUrl":"https://avatars.githubusercontent.com/u/86633618?s=80&v=4","followers":1,"publicRepos":6,"location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -14,8 +14,8 @@
   {"rank":5,"id":"U_kgDOCtSMQg","login":"DiddyFreakyLover","name":null,"url":"https://github.com/DiddyFreakyLover","avatarUrl":"https://avatars.githubusercontent.com/u/181701698?s=80&v=4","followers":0,"publicRepos":0,"location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":6,"id":"MDQ6VXNlcjY3NjAwMjAx","login":"lliku","name":"liku","url":"https://github.com/lliku","avatarUrl":"https://avatars.githubusercontent.com/u/67600201?s=80&v=4","followers":0,"publicRepos":0,"location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "997f18c08b42c849",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "44db760b81ef0415",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

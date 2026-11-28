@@ -149,24 +149,24 @@
 </tr>
 <tr>
 <td align="right">19</td>
+<td><a href="https://github.com/Drago-cod"><img src="https://avatars.githubusercontent.com/u/264761673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Drago-cod"><b>Drago Samuel Jared</b></a><br><sub>&#64;Drago-cod</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">24</td>
+<td><sub>Juba, South Sudan</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/bearded7"><img src="https://avatars.githubusercontent.com/u/43548354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bearded7"><b>XaLabs03</b></a><br><sub>&#64;bearded7</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">11</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/JamesMayen"><img src="https://avatars.githubusercontent.com/u/122860076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JamesMayen"><b>James Mayen</b></a><br><sub>&#64;JamesMayen</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">29</td>
 <td><sub>South Sudan</sub></td>
-</tr>
-<tr>
-<td align="right">21</td>
-<td><a href="https://github.com/Drago-cod"><img src="https://avatars.githubusercontent.com/u/264761673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Drago-cod"><b>Drago Samuel Jared</b></a><br><sub>&#64;Drago-cod</sub></td>
-<td align="right"><b>12</b></td>
-<td align="right">23</td>
-<td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
 <td align="right">22</td>

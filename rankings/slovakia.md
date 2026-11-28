@@ -318,14 +318,14 @@
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/NightMean.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NightMean/OlliteRT"><b>NightMean/OlliteRT</b></a><br><sub>Turn your Android phone into an OpenAI-compatible LLM inference server - Fully local, private and Open Source</sub></td>
-<td align="right"><b>650</b></td>
-<td align="right">99</td>
+<td align="right"><b>657</b></td>
+<td align="right">100</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/ckissi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ckissi/kinetics"><b>ckissi/kinetics</b></a><br><sub>A library of interface animations built on spring physics instead of fixed-duration easing.</sub></td>
-<td align="right"><b>647</b></td>
+<td align="right"><b>648</b></td>
 <td align="right">63</td>
 <td>HTML</td>
 </tr>
@@ -346,7 +346,7 @@
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/gabonator.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gabonator/LA104"><b>gabonator/LA104</b></a><br><sub>LA104 logic analyser alternative firmware and experiments</sub></td>
-<td align="right"><b>600</b></td>
+<td align="right"><b>601</b></td>
 <td align="right">94</td>
 <td>C</td>
 </tr>
@@ -368,22 +368,22 @@
 <td align="right">50</td>
 <td><img src="https://github.com/darsain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darsain/fpsmeter"><b>darsain/fpsmeter</b></a><br><sub>Sexy, fast, and themable FPS meter.</sub></td>
 <td align="right"><b>582</b></td>
-<td align="right">46</td>
+<td align="right">45</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">51</td>
+<td><img src="https://github.com/mrshu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrshu/github-statuses"><b>mrshu/github-statuses</b></a><br><sub>The &quot;Missing GitHub Status Page&quot; -- a Flat Data attempt at historically documenting GitHub statuses</sub></td>
+<td align="right"><b>579</b></td>
+<td align="right">27</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">52</td>
 <td><img src="https://github.com/oliver-kriska.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oliver-kriska/claude-elixir-phoenix"><b>oliver-kriska/claude-elixir-phoenix</b></a><br><sub>Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrat…</sub></td>
 <td align="right"><b>578</b></td>
 <td align="right">45</td>
 <td>Python</td>
-</tr>
-<tr>
-<td align="right">52</td>
-<td><img src="https://github.com/mrshu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrshu/github-statuses"><b>mrshu/github-statuses</b></a><br><sub>The &quot;Missing GitHub Status Page&quot; -- a Flat Data attempt at historically documenting GitHub statuses</sub></td>
-<td align="right"><b>578</b></td>
-<td align="right">27</td>
-<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">53</td>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 348 stars; 120 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 348 stars; 130 attributed candidates are tracked.
 - 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

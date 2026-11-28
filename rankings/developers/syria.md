@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/firasuke"><img src="https://avatars.githubusercontent.com/u/46160727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/firasuke"><b>Firas Khana</b></a><br><sub>&#64;firasuke</sub></td>
-<td align="right"><b>225</b></td>
+<td align="right"><b>224</b></td>
 <td align="right">65</td>
 <td><sub>Aleppo, Syria</sub></td>
 </tr>
@@ -191,17 +191,17 @@
 </tr>
 <tr>
 <td align="right">25</td>
-<td><a href="https://github.com/muhammedelsami"><img src="https://avatars.githubusercontent.com/u/69201829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muhammedelsami"><b>Muhammed Elşami</b></a><br><sub>&#64;muhammedelsami</sub></td>
-<td align="right"><b>104</b></td>
-<td align="right">35</td>
-<td><sub>Sivas, Syria</sub></td>
-</tr>
-<tr>
-<td align="right">26</td>
 <td><a href="https://github.com/nebrassy"><img src="https://avatars.githubusercontent.com/u/15095738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nebrassy"><b>Nebrassy</b></a><br><sub>&#64;nebrassy</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">96</td>
 <td><sub>Latakia, Syria</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/muhammedelsami"><img src="https://avatars.githubusercontent.com/u/69201829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muhammedelsami"><b>Muhammed Elşami</b></a><br><sub>&#64;muhammedelsami</sub></td>
+<td align="right"><b>102</b></td>
+<td align="right">35</td>
+<td><sub>Sivas, Syria</sub></td>
 </tr>
 <tr>
 <td align="right">27</td>

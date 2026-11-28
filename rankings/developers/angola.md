@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/MarcioQuimbundo"><img src="https://avatars.githubusercontent.com/u/29952508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcioQuimbundo"><b>Márcio Quimbundo</b></a><br><sub>&#64;MarcioQuimbundo</sub></td>
-<td align="right"><b>604</b></td>
+<td align="right"><b>605</b></td>
 <td align="right">168</td>
 <td><sub>Luanda, Angola</sub></td>
 </tr>
@@ -156,17 +156,17 @@
 </tr>
 <tr>
 <td align="right">20</td>
-<td><a href="https://github.com/AfonsoAfony"><img src="https://avatars.githubusercontent.com/u/144967415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AfonsoAfony"><b>Afonso Narciso Da Silva</b></a><br><sub>&#64;AfonsoAfony</sub></td>
-<td align="right"><b>149</b></td>
-<td align="right">20</td>
-<td><sub>Luanda/Angola</sub></td>
+<td><a href="https://github.com/Jovanysfive"><img src="https://avatars.githubusercontent.com/u/115149298?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jovanysfive"><b>Job Bento</b></a><br><sub>&#64;Jovanysfive</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">11</td>
+<td><sub>Angola/Luanda</sub></td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td><a href="https://github.com/Jovanysfive"><img src="https://avatars.githubusercontent.com/u/115149298?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jovanysfive"><b>Job Bento</b></a><br><sub>&#64;Jovanysfive</sub></td>
-<td align="right"><b>149</b></td>
-<td align="right">11</td>
-<td><sub>Angola/Luanda</sub></td>
+<td><a href="https://github.com/AfonsoAfony"><img src="https://avatars.githubusercontent.com/u/144967415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AfonsoAfony"><b>Afonso Narciso Da Silva</b></a><br><sub>&#64;AfonsoAfony</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">20</td>
+<td><sub>Luanda/Angola</sub></td>
 </tr>
 <tr>
 <td align="right">22</td>
@@ -198,43 +198,43 @@
 </tr>
 <tr>
 <td align="right">26</td>
-<td><a href="https://github.com/NzolaKiampava"><img src="https://avatars.githubusercontent.com/u/81561091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NzolaKiampava"><b>Nzola Kiampava</b></a><br><sub>&#64;NzolaKiampava</sub></td>
-<td align="right"><b>112</b></td>
-<td align="right">118</td>
-<td><sub>Luanda, Angola</sub></td>
-</tr>
-<tr>
-<td align="right">27</td>
 <td><a href="https://github.com/pedromassangocode"><img src="https://avatars.githubusercontent.com/u/67424416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pedromassangocode"><b>Pedro Massango</b></a><br><sub>&#64;pedromassangocode</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">7</td>
 <td><sub>Luanda, Angola</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">27</td>
 <td><a href="https://github.com/Ariadne3512"><img src="https://avatars.githubusercontent.com/u/24960316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ariadne3512"><b>Ariadne Afonso Pinzi</b></a><br><sub>&#64;Ariadne3512</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">14</td>
 <td><sub>Angola</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">28</td>
 <td><a href="https://github.com/delfinasilva"><img src="https://avatars.githubusercontent.com/u/97134237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/delfinasilva"><b>Delfina Silva</b></a><br><sub>&#64;delfinasilva</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">8</td>
 <td><sub>Angola - Luanda</sub></td>
 </tr>
 <tr>
+<td align="right">29</td>
+<td><a href="https://github.com/NzolaKiampava"><img src="https://avatars.githubusercontent.com/u/81561091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NzolaKiampava"><b>Nzola Kiampava</b></a><br><sub>&#64;NzolaKiampava</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">118</td>
+<td><sub>Luanda, Angola</sub></td>
+</tr>
+<tr>
 <td align="right">30</td>
 <td><a href="https://github.com/Goreth-Manuel"><img src="https://avatars.githubusercontent.com/u/70892358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Goreth-Manuel"><b>Goreth-Manuel</b></a><br><sub>&#64;Goreth-Manuel</sub></td>
-<td align="right"><b>104</b></td>
+<td align="right"><b>105</b></td>
 <td align="right">31</td>
 <td><sub>Luanda, Angola</sub></td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><a href="https://github.com/Antonio-Gabriel"><img src="https://avatars.githubusercontent.com/u/69061087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Antonio-Gabriel"><b>Antonio Gabriel</b></a><br><sub>&#64;Antonio-Gabriel</sub></td>
-<td align="right"><b>103</b></td>
+<td align="right"><b>104</b></td>
 <td align="right">173</td>
 <td><sub>Luanda-Angola</sub></td>
 </tr>

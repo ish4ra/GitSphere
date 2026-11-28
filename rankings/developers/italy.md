@@ -24,14 +24,14 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/antirez"><img src="https://avatars.githubusercontent.com/u/65632?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antirez"><b>Salvatore Sanfilippo</b></a><br><sub>&#64;antirez</sub></td>
-<td align="right"><b>32,841</b></td>
+<td align="right"><b>32,844</b></td>
 <td align="right">115</td>
 <td><sub>Catania, Sicily, Italy</sub></td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/mcollina"><img src="https://avatars.githubusercontent.com/u/52195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mcollina"><b>Matteo Collina</b></a><br><sub>&#64;mcollina</sub></td>
-<td align="right"><b>11,502</b></td>
+<td align="right"><b>11,509</b></td>
 <td align="right">662</td>
 <td><sub>Forlì, Italy</sub></td>
 </tr>
@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><a href="https://github.com/bocaletto-luca"><img src="https://avatars.githubusercontent.com/u/58043613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bocaletto-luca"><b>Bocaletto Luca</b></a><br><sub>&#64;bocaletto-luca</sub></td>
-<td align="right"><b>2,352</b></td>
+<td align="right"><b>2,345</b></td>
 <td align="right">291</td>
 <td><sub>Italy</sub></td>
 </tr>
@@ -178,7 +178,7 @@
 <tr>
 <td align="right">23</td>
 <td><a href="https://github.com/edoardottt"><img src="https://avatars.githubusercontent.com/u/35783570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edoardottt"><b>Edoardo Ottavianelli</b></a><br><sub>&#64;edoardottt</sub></td>
-<td align="right"><b>1,789</b></td>
+<td align="right"><b>1,792</b></td>
 <td align="right">73</td>
 <td><sub>Italy</sub></td>
 </tr>
@@ -283,7 +283,7 @@
 <tr>
 <td align="right">38</td>
 <td><a href="https://github.com/whatyouhide"><img src="https://avatars.githubusercontent.com/u/3890250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/whatyouhide"><b>Andrea Leopardi</b></a><br><sub>&#64;whatyouhide</sub></td>
-<td align="right"><b>1,239</b></td>
+<td align="right"><b>1,238</b></td>
 <td align="right">84</td>
 <td><sub>Italy</sub></td>
 </tr>
@@ -304,7 +304,7 @@
 <tr>
 <td align="right">41</td>
 <td><a href="https://github.com/remorses"><img src="https://avatars.githubusercontent.com/u/31321188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/remorses"><b>Tommy D. Rossi</b></a><br><sub>&#64;remorses</sub></td>
-<td align="right"><b>1,185</b></td>
+<td align="right"><b>1,186</b></td>
 <td align="right">680</td>
 <td><sub>italy</sub></td>
 </tr>
@@ -437,7 +437,7 @@
 <tr>
 <td align="right">60</td>
 <td><a href="https://github.com/WillyJL"><img src="https://avatars.githubusercontent.com/u/49810075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WillyJL"><b>WillyJL</b></a><br><sub>&#64;WillyJL</sub></td>
-<td align="right"><b>918</b></td>
+<td align="right"><b>920</b></td>
 <td align="right">71</td>
 <td><sub>Italy</sub></td>
 </tr>
@@ -998,7 +998,7 @@
 <td align="right">140</td>
 <td><a href="https://github.com/Eomm"><img src="https://avatars.githubusercontent.com/u/11404065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eomm"><b>Manuel Spigolon</b></a><br><sub>&#64;Eomm</sub></td>
 <td align="right"><b>470</b></td>
-<td align="right">300</td>
+<td align="right">299</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
@@ -1276,23 +1276,23 @@
 </tr>
 <tr>
 <td align="right">180</td>
+<td><a href="https://github.com/galeone"><img src="https://avatars.githubusercontent.com/u/8427788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/galeone"><b>Paolo Galeone</b></a><br><sub>&#64;galeone</sub></td>
+<td align="right"><b>381</b></td>
+<td align="right">83</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">181</td>
 <td><a href="https://github.com/Semplicementeio"><img src="https://avatars.githubusercontent.com/u/60159705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Semplicementeio"><b>Luca</b></a><br><sub>&#64;Semplicementeio</sub></td>
 <td align="right"><b>381</b></td>
 <td align="right">6</td>
 <td><sub>Milan, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">182</td>
 <td><a href="https://github.com/LeyckerS"><img src="https://avatars.githubusercontent.com/u/104737119?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LeyckerS"><b>LeyckerS</b></a><br><sub>&#64;LeyckerS</sub></td>
 <td align="right"><b>380</b></td>
 <td align="right">3</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">182</td>
-<td><a href="https://github.com/galeone"><img src="https://avatars.githubusercontent.com/u/8427788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/galeone"><b>Paolo Galeone</b></a><br><sub>&#64;galeone</sub></td>
-<td align="right"><b>378</b></td>
-<td align="right">83</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
@@ -1416,17 +1416,17 @@
 </tr>
 <tr>
 <td align="right">200</td>
+<td><a href="https://github.com/gioboa"><img src="https://avatars.githubusercontent.com/u/35845425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gioboa"><b>Giorgio Boa</b></a><br><sub>&#64;gioboa</sub></td>
+<td align="right"><b>354</b></td>
+<td align="right">245</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">201</td>
 <td><a href="https://github.com/LivingtonMerello98"><img src="https://avatars.githubusercontent.com/u/162736759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LivingtonMerello98"><b>Livington Merello</b></a><br><sub>&#64;LivingtonMerello98</sub></td>
 <td align="right"><b>354</b></td>
 <td align="right">80</td>
 <td><sub>Italy, Milan</sub></td>
-</tr>
-<tr>
-<td align="right">201</td>
-<td><a href="https://github.com/gioboa"><img src="https://avatars.githubusercontent.com/u/35845425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gioboa"><b>Giorgio Boa</b></a><br><sub>&#64;gioboa</sub></td>
-<td align="right"><b>353</b></td>
-<td align="right">245</td>
-<td><sub>Italy</sub></td>
 </tr>
 <tr>
 <td align="right">202</td>
@@ -2228,24 +2228,24 @@
 </tr>
 <tr>
 <td align="right">316</td>
+<td><a href="https://github.com/albertosantini"><img src="https://avatars.githubusercontent.com/u/328179?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/albertosantini"><b>Alberto Santini</b></a><br><sub>&#64;albertosantini</sub></td>
+<td align="right"><b>240</b></td>
+<td align="right">21</td>
+<td><sub>Milan, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">317</td>
 <td><a href="https://github.com/Meshmi2"><img src="https://avatars.githubusercontent.com/u/28824564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Meshmi2"><b>massimo trovati</b></a><br><sub>&#64;Meshmi2</sub></td>
 <td align="right"><b>239</b></td>
 <td align="right">59</td>
 <td><sub>Castione Della Presolana</sub></td>
 </tr>
 <tr>
-<td align="right">317</td>
+<td align="right">318</td>
 <td><a href="https://github.com/cozis"><img src="https://avatars.githubusercontent.com/u/80131537?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cozis"><b>Francesco Cozzuto</b></a><br><sub>&#64;cozis</sub></td>
 <td align="right"><b>238</b></td>
 <td align="right">61</td>
 <td><sub>Naples, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">318</td>
-<td><a href="https://github.com/albertosantini"><img src="https://avatars.githubusercontent.com/u/328179?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/albertosantini"><b>Alberto Santini</b></a><br><sub>&#64;albertosantini</sub></td>
-<td align="right"><b>238</b></td>
-<td align="right">21</td>
-<td><sub>Milan, Italy</sub></td>
 </tr>
 <tr>
 <td align="right">319</td>
@@ -3719,59 +3719,59 @@
 </tr>
 <tr>
 <td align="right">529</td>
+<td><a href="https://github.com/spaghettidba"><img src="https://avatars.githubusercontent.com/u/7592822?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spaghettidba"><b>Gianluca Sartori</b></a><br><sub>&#64;spaghettidba</sub></td>
+<td align="right"><b>165</b></td>
+<td align="right">22</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">530</td>
 <td><a href="https://github.com/hackademix"><img src="https://avatars.githubusercontent.com/u/376122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hackademix"><b>Giorgio Maone</b></a><br><sub>&#64;hackademix</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">7</td>
 <td><sub>Palermo, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">530</td>
+<td align="right">531</td>
 <td><a href="https://github.com/wdalmut"><img src="https://avatars.githubusercontent.com/u/551974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wdalmut"><b>Walter Dal Mut</b></a><br><sub>&#64;wdalmut</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">322</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">531</td>
+<td align="right">532</td>
 <td><a href="https://github.com/lucab85"><img src="https://avatars.githubusercontent.com/u/24267107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucab85"><b>Luca Berton</b></a><br><sub>&#64;lucab85</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">116</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">532</td>
+<td align="right">533</td>
 <td><a href="https://github.com/phosphore"><img src="https://avatars.githubusercontent.com/u/1053079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phosphore"><b>Lorenzo Stella</b></a><br><sub>&#64;phosphore</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">62</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">533</td>
+<td align="right">534</td>
 <td><a href="https://github.com/danterolle"><img src="https://avatars.githubusercontent.com/u/45731605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danterolle"><b>Dario Camonita</b></a><br><sub>&#64;danterolle</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">33</td>
 <td><sub>Italy, Sicily</sub></td>
 </tr>
 <tr>
-<td align="right">534</td>
+<td align="right">535</td>
 <td><a href="https://github.com/ShakibaMirbagheri"><img src="https://avatars.githubusercontent.com/u/218757987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShakibaMirbagheri"><b>Shakiba Mirbagheri</b></a><br><sub>&#64;ShakibaMirbagheri</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">28</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">535</td>
+<td align="right">536</td>
 <td><a href="https://github.com/musixmatch"><img src="https://avatars.githubusercontent.com/u/247389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/musixmatch"><b>Musixmatch</b></a><br><sub>&#64;musixmatch</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">26</td>
 <td><sub>Bologna, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">536</td>
-<td><a href="https://github.com/spaghettidba"><img src="https://avatars.githubusercontent.com/u/7592822?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spaghettidba"><b>Gianluca Sartori</b></a><br><sub>&#64;spaghettidba</sub></td>
-<td align="right"><b>164</b></td>
-<td align="right">22</td>
-<td><sub>Italy</sub></td>
 </tr>
 <tr>
 <td align="right">537</td>
@@ -6218,808 +6218,808 @@
 </tr>
 <tr>
 <td align="right">886</td>
+<td><a href="https://github.com/johnou"><img src="https://avatars.githubusercontent.com/u/323497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnou"><b>Johno Crawford</b></a><br><sub>&#64;johnou</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">166</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">887</td>
+<td><a href="https://github.com/gabrieleromanato"><img src="https://avatars.githubusercontent.com/u/1553348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabrieleromanato"><b>Gabriele Romanato</b></a><br><sub>&#64;gabrieleromanato</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">90</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">888</td>
+<td><a href="https://github.com/Zorgatone"><img src="https://avatars.githubusercontent.com/u/2664036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zorgatone"><b>Tommaso Ricci</b></a><br><sub>&#64;Zorgatone</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">72</td>
+<td><sub>Turin, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">889</td>
 <td><a href="https://github.com/mo-gaafar"><img src="https://avatars.githubusercontent.com/u/46086535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mo-gaafar"><b>Mohamed Gaafer</b></a><br><sub>&#64;mo-gaafar</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">50</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">887</td>
+<td align="right">890</td>
+<td><a href="https://github.com/kesiev"><img src="https://avatars.githubusercontent.com/u/248723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kesiev"><b>Francesco Cottone</b></a><br><sub>&#64;kesiev</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">46</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">891</td>
+<td><a href="https://github.com/nickprock"><img src="https://avatars.githubusercontent.com/u/11136646?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nickprock"><b>Nicola Procopio</b></a><br><sub>&#64;nickprock</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">38</td>
+<td><sub>Vibo Valentia</sub></td>
+</tr>
+<tr>
+<td align="right">892</td>
 <td><a href="https://github.com/aaumaitre"><img src="https://avatars.githubusercontent.com/u/51878683?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aaumaitre"><b>aaumaitre</b></a><br><sub>&#64;aaumaitre</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">15</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">888</td>
-<td><a href="https://github.com/kesiev"><img src="https://avatars.githubusercontent.com/u/248723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kesiev"><b>Francesco Cottone</b></a><br><sub>&#64;kesiev</sub></td>
-<td align="right"><b>108</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">889</td>
-<td><a href="https://github.com/cxnturi0n"><img src="https://avatars.githubusercontent.com/u/75443422?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cxnturi0n"><b>Fabio Cinicolo</b></a><br><sub>&#64;cxnturi0n</sub></td>
-<td align="right"><b>107</b></td>
-<td align="right">0</td>
-<td><sub>Naples, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">890</td>
-<td><a href="https://github.com/vmihalachi"><img src="https://avatars.githubusercontent.com/u/956257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vmihalachi"><b>Vlad Mihalachi</b></a><br><sub>&#64;vmihalachi</sub></td>
-<td align="right"><b>106</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">891</td>
-<td><a href="https://github.com/Pungyeon"><img src="https://avatars.githubusercontent.com/u/8821665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pungyeon"><b>Lasse Martin Jakobsen</b></a><br><sub>&#64;Pungyeon</sub></td>
-<td align="right"><b>105</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">892</td>
-<td><a href="https://github.com/bropat"><img src="https://avatars.githubusercontent.com/u/2305255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bropat"><b>bropat</b></a><br><sub>&#64;bropat</sub></td>
-<td align="right"><b>104</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
 <td align="right">893</td>
-<td><a href="https://github.com/Eleirbag89"><img src="https://avatars.githubusercontent.com/u/10547598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eleirbag89"><b>Grimstack</b></a><br><sub>&#64;Eleirbag89</sub></td>
-<td align="right"><b>104</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/netoarmando"><img src="https://avatars.githubusercontent.com/u/217367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/netoarmando"><b>Armando Neto</b></a><br><sub>&#64;netoarmando</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">11</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
 <td align="right">894</td>
-<td><a href="https://github.com/davidefiocco"><img src="https://avatars.githubusercontent.com/u/4547987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidefiocco"><b>Davide Fiocco</b></a><br><sub>&#64;davidefiocco</sub></td>
-<td align="right"><b>103</b></td>
-<td align="right">0</td>
-<td><sub>Verona, Italy</sub></td>
+<td><a href="https://github.com/ogulcan"><img src="https://avatars.githubusercontent.com/u/734094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ogulcan"><b>Ogulcan Orhan</b></a><br><sub>&#64;ogulcan</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">11</td>
+<td><sub>Rome, Italia</sub></td>
 </tr>
 <tr>
 <td align="right">895</td>
+<td><a href="https://github.com/cxnturi0n"><img src="https://avatars.githubusercontent.com/u/75443422?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cxnturi0n"><b>Fabio Cinicolo</b></a><br><sub>&#64;cxnturi0n</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">22</td>
+<td><sub>Naples, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">896</td>
+<td><a href="https://github.com/Cyofanni"><img src="https://avatars.githubusercontent.com/u/9744101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cyofanni"><b>Giovanni Mazzocchin</b></a><br><sub>&#64;Cyofanni</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">9</td>
+<td><sub>Padua, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">897</td>
+<td><a href="https://github.com/404answernotfound"><img src="https://avatars.githubusercontent.com/u/79904453?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/404answernotfound"><b>Lorenzo Pieri</b></a><br><sub>&#64;404answernotfound</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">153</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">898</td>
+<td><a href="https://github.com/trumbitta"><img src="https://avatars.githubusercontent.com/u/462705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trumbitta"><b>William Ghelfi</b></a><br><sub>&#64;trumbitta</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">94</td>
+<td><sub>Cagliari, IT</sub></td>
+</tr>
+<tr>
+<td align="right">899</td>
+<td><a href="https://github.com/dvd-bnc"><img src="https://avatars.githubusercontent.com/u/29352339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dvd-bnc"><b>Davide Bianco</b></a><br><sub>&#64;dvd-bnc</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">93</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">900</td>
+<td><a href="https://github.com/Fahien"><img src="https://avatars.githubusercontent.com/u/6058008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fahien"><b>Antonio Caggiano</b></a><br><sub>&#64;Fahien</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">88</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">901</td>
+<td><a href="https://github.com/gsora"><img src="https://avatars.githubusercontent.com/u/145909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gsora"><b>Gianguido Sorà</b></a><br><sub>&#64;gsora</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">86</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">902</td>
+<td><a href="https://github.com/scotu"><img src="https://avatars.githubusercontent.com/u/868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scotu"><b>Matteo Scotuzzi</b></a><br><sub>&#64;scotu</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">51</td>
+<td><sub>Brescia (Italy)</sub></td>
+</tr>
+<tr>
+<td align="right">903</td>
+<td><a href="https://github.com/FrancescoCaracciolo"><img src="https://avatars.githubusercontent.com/u/67018178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrancescoCaracciolo"><b>Francesco Caracciolo</b></a><br><sub>&#64;FrancescoCaracciolo</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">45</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">904</td>
+<td><a href="https://github.com/grammaton"><img src="https://avatars.githubusercontent.com/u/5629589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/grammaton"><b>Giuseppe Silvi</b></a><br><sub>&#64;grammaton</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">43</td>
+<td><sub>Rome, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">905</td>
+<td><a href="https://github.com/vmihalachi"><img src="https://avatars.githubusercontent.com/u/956257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vmihalachi"><b>Vlad Mihalachi</b></a><br><sub>&#64;vmihalachi</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">12</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">906</td>
+<td><a href="https://github.com/moebiusmania"><img src="https://avatars.githubusercontent.com/u/1764542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moebiusmania"><b>Salvatore Laisa 🇮🇹 🇪🇺</b></a><br><sub>&#64;moebiusmania</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">107</td>
+<td><sub>Milano, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">907</td>
+<td><a href="https://github.com/siddharthdeore"><img src="https://avatars.githubusercontent.com/u/12745747?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/siddharthdeore"><b>Siddharth Deore</b></a><br><sub>&#64;siddharthdeore</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">72</td>
+<td><sub>Genova, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">908</td>
+<td><a href="https://github.com/valerionew"><img src="https://avatars.githubusercontent.com/u/17505995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/valerionew"><b>Valerio</b></a><br><sub>&#64;valerionew</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">66</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">909</td>
+<td><a href="https://github.com/sinadalvand"><img src="https://avatars.githubusercontent.com/u/7107442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sinadalvand"><b>Sina Dalvand</b></a><br><sub>&#64;sinadalvand</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">44</td>
+<td><sub>Padova, Veneto, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">910</td>
+<td><a href="https://github.com/Pungyeon"><img src="https://avatars.githubusercontent.com/u/8821665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pungyeon"><b>Lasse Martin Jakobsen</b></a><br><sub>&#64;Pungyeon</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">37</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">911</td>
+<td><a href="https://github.com/Baio1977"><img src="https://avatars.githubusercontent.com/u/59058746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Baio1977"><b>Baio77</b></a><br><sub>&#64;Baio1977</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">35</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">912</td>
+<td><a href="https://github.com/soumayaerradi"><img src="https://avatars.githubusercontent.com/u/56691815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soumayaerradi"><b>Soumaya Erradi</b></a><br><sub>&#64;soumayaerradi</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">33</td>
+<td><sub>Brescia, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">913</td>
+<td><a href="https://github.com/Hypnootize"><img src="https://avatars.githubusercontent.com/u/19785551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hypnootize"><b>Hypnootize</b></a><br><sub>&#64;Hypnootize</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">15</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">914</td>
+<td><a href="https://github.com/stefano-k"><img src="https://avatars.githubusercontent.com/u/1144784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefano-k"><b>Stefano Karapetsas</b></a><br><sub>&#64;stefano-k</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">8</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">915</td>
+<td><a href="https://github.com/ilmanzo"><img src="https://avatars.githubusercontent.com/u/1872816?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ilmanzo"><b>Andrea Manzini</b></a><br><sub>&#64;ilmanzo</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">139</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">916</td>
+<td><a href="https://github.com/VaiTon"><img src="https://avatars.githubusercontent.com/u/12072630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VaiTon"><b>VaiTon</b></a><br><sub>&#64;VaiTon</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">97</td>
+<td><sub>Bologna, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">917</td>
+<td><a href="https://github.com/akiross"><img src="https://avatars.githubusercontent.com/u/884092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akiross"><b>Alessandro Re</b></a><br><sub>&#64;akiross</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">82</td>
+<td><sub>Italy, with 99% confidence.</sub></td>
+</tr>
+<tr>
+<td align="right">918</td>
+<td><a href="https://github.com/simone-sanfratello"><img src="https://avatars.githubusercontent.com/u/5823031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simone-sanfratello"><b>Simone Sanfratello</b></a><br><sub>&#64;simone-sanfratello</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">69</td>
+<td><sub>Tuscany, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">919</td>
+<td><a href="https://github.com/ceres-c"><img src="https://avatars.githubusercontent.com/u/24912818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ceres-c"><b>Federico Cerutti</b></a><br><sub>&#64;ceres-c</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">59</td>
+<td><sub>Brescia</sub></td>
+</tr>
+<tr>
+<td align="right">920</td>
+<td><a href="https://github.com/Tozzigh"><img src="https://avatars.githubusercontent.com/u/61799388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tozzigh"><b>Tozzigh</b></a><br><sub>&#64;Tozzigh</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">56</td>
+<td><sub>Marcellina</sub></td>
+</tr>
+<tr>
+<td align="right">921</td>
+<td><a href="https://github.com/EmanueleMinotto"><img src="https://avatars.githubusercontent.com/u/417201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EmanueleMinotto"><b>Emanuele Minotto</b></a><br><sub>&#64;EmanueleMinotto</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">55</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">922</td>
+<td><a href="https://github.com/matteobachetti"><img src="https://avatars.githubusercontent.com/u/7190189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matteobachetti"><b>Matteo Bachetti</b></a><br><sub>&#64;matteobachetti</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">50</td>
+<td><sub>Selargius (CA), Italy</sub></td>
+</tr>
+<tr>
+<td align="right">923</td>
+<td><a href="https://github.com/vcuculo"><img src="https://avatars.githubusercontent.com/u/642555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vcuculo"><b>Vittorio Cuculo</b></a><br><sub>&#64;vcuculo</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">39</td>
+<td><sub>Bologna, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">924</td>
+<td><a href="https://github.com/Eleirbag89"><img src="https://avatars.githubusercontent.com/u/10547598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eleirbag89"><b>Grimstack</b></a><br><sub>&#64;Eleirbag89</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">22</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">925</td>
+<td><a href="https://github.com/DavideDeplano"><img src="https://avatars.githubusercontent.com/u/92041322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DavideDeplano"><b>Davide Deplano</b></a><br><sub>&#64;DavideDeplano</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">17</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">926</td>
+<td><a href="https://github.com/ordex"><img src="https://avatars.githubusercontent.com/u/3433035?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ordex"><b>Antonio Quartulli</b></a><br><sub>&#64;ordex</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">14</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">927</td>
+<td><a href="https://github.com/dentex"><img src="https://avatars.githubusercontent.com/u/2931982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dentex"><b>dentex</b></a><br><sub>&#64;dentex</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">11</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">928</td>
+<td><a href="https://github.com/bropat"><img src="https://avatars.githubusercontent.com/u/2305255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bropat"><b>bropat</b></a><br><sub>&#64;bropat</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">8</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">929</td>
+<td><a href="https://github.com/tteofili"><img src="https://avatars.githubusercontent.com/u/512815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tteofili"><b>Tommaso Teofili</b></a><br><sub>&#64;tteofili</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">86</td>
+<td><sub>Rome, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">930</td>
+<td><a href="https://github.com/3clyp50"><img src="https://avatars.githubusercontent.com/u/155005371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3clyp50"><b>Alessandro Frau</b></a><br><sub>&#64;3clyp50</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">79</td>
+<td><sub>Milano, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">931</td>
+<td><a href="https://github.com/madbob"><img src="https://avatars.githubusercontent.com/u/166089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madbob"><b>Roberto Guido</b></a><br><sub>&#64;madbob</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">64</td>
+<td><sub>Turin, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">932</td>
+<td><a href="https://github.com/piccoloaiutante"><img src="https://avatars.githubusercontent.com/u/867842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/piccoloaiutante"><b>Michele Capra</b></a><br><sub>&#64;piccoloaiutante</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">60</td>
+<td><sub>Brescia</sub></td>
+</tr>
+<tr>
+<td align="right">933</td>
+<td><a href="https://github.com/volpino"><img src="https://avatars.githubusercontent.com/u/165090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/volpino"><b>Federico Scrinzi</b></a><br><sub>&#64;volpino</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">59</td>
+<td><sub>Trento, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">934</td>
+<td><a href="https://github.com/lupino3"><img src="https://avatars.githubusercontent.com/u/200139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lupino3"><b>Andrea Spadaccini</b></a><br><sub>&#64;lupino3</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">57</td>
+<td><sub>Catania, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">935</td>
+<td><a href="https://github.com/Randagio13"><img src="https://avatars.githubusercontent.com/u/3518596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Randagio13"><b>Alessandro Casazza</b></a><br><sub>&#64;Randagio13</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">56</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">936</td>
+<td><a href="https://github.com/berry-13"><img src="https://avatars.githubusercontent.com/u/81851188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/berry-13"><b>Marco Beretta</b></a><br><sub>&#64;berry-13</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">45</td>
+<td><sub>Milan, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">937</td>
+<td><a href="https://github.com/aldesantis"><img src="https://avatars.githubusercontent.com/u/395073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aldesantis"><b>Alessandro Desantis</b></a><br><sub>&#64;aldesantis</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">35</td>
+<td><sub>Rome, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">938</td>
+<td><a href="https://github.com/afercia"><img src="https://avatars.githubusercontent.com/u/1682452?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/afercia"><b>Andrea Fercia</b></a><br><sub>&#64;afercia</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">33</td>
+<td><sub>Roma, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">939</td>
+<td><a href="https://github.com/luigibonati"><img src="https://avatars.githubusercontent.com/u/10627659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luigibonati"><b>Luigi Bonati</b></a><br><sub>&#64;luigibonati</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">26</td>
+<td><sub>Genoa, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">940</td>
+<td><a href="https://github.com/davidefiocco"><img src="https://avatars.githubusercontent.com/u/4547987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidefiocco"><b>Davide Fiocco</b></a><br><sub>&#64;davidefiocco</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">19</td>
+<td><sub>Verona, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">941</td>
+<td><a href="https://github.com/condatek"><img src="https://avatars.githubusercontent.com/u/1432306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/condatek"><b>Oliver Lee Chachou</b></a><br><sub>&#64;condatek</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">8</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">942</td>
+<td><a href="https://github.com/miczza"><img src="https://avatars.githubusercontent.com/u/7353871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miczza"><b>Michele Mazza</b></a><br><sub>&#64;miczza</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">5</td>
+<td><sub>Livorno, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">943</td>
+<td><a href="https://github.com/giandifra"><img src="https://avatars.githubusercontent.com/u/44344581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giandifra"><b>Gian Marco Di Francesco</b></a><br><sub>&#64;giandifra</sub></td>
+<td align="right"><b>102</b></td>
+<td align="right">45</td>
+<td><sub>Sant&#39;Egidio alla Vibrata</sub></td>
+</tr>
+<tr>
+<td align="right">944</td>
 <td><a href="https://github.com/alewin"><img src="https://avatars.githubusercontent.com/u/980844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alewin"><b>Alessio Koci</b></a><br><sub>&#64;alewin</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">896</td>
-<td><a href="https://github.com/giandifra"><img src="https://avatars.githubusercontent.com/u/44344581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giandifra"><b>Gian Marco Di Francesco</b></a><br><sub>&#64;giandifra</sub></td>
-<td align="right"><b>102</b></td>
-<td align="right">0</td>
-<td><sub>Sant&#39;Egidio alla Vibrata</sub></td>
-</tr>
-<tr>
-<td align="right">897</td>
+<td align="right">945</td>
 <td><a href="https://github.com/lucavenir"><img src="https://avatars.githubusercontent.com/u/28173024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucavenir"><b>Luca Venir</b></a><br><sub>&#64;lucavenir</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Udine, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">898</td>
-<td><a href="https://github.com/madbob"><img src="https://avatars.githubusercontent.com/u/166089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madbob"><b>Roberto Guido</b></a><br><sub>&#64;madbob</sub></td>
-<td align="right"><b>102</b></td>
-<td align="right">0</td>
-<td><sub>Turin, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">899</td>
+<td align="right">946</td>
 <td><a href="https://github.com/aozora"><img src="https://avatars.githubusercontent.com/u/148886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aozora"><b>aozora</b></a><br><sub>&#64;aozora</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Milan, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">900</td>
+<td align="right">947</td>
 <td><a href="https://github.com/awgn"><img src="https://avatars.githubusercontent.com/u/31423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awgn"><b>Nicola Bonelli</b></a><br><sub>&#64;awgn</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">901</td>
+<td align="right">948</td>
 <td><a href="https://github.com/gasparesganga"><img src="https://avatars.githubusercontent.com/u/8983200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gasparesganga"><b>Gaspare Sganga</b></a><br><sub>&#64;gasparesganga</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">902</td>
+<td align="right">949</td>
 <td><a href="https://github.com/zenkay"><img src="https://avatars.githubusercontent.com/u/223858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zenkay"><b>Andrea Mostosi</b></a><br><sub>&#64;zenkay</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Milan (IT)</sub></td>
 </tr>
 <tr>
-<td align="right">903</td>
+<td align="right">950</td>
 <td><a href="https://github.com/mauricius"><img src="https://avatars.githubusercontent.com/u/7000852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mauricius"><b>Maurizio Bonani</b></a><br><sub>&#64;mauricius</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">904</td>
+<td align="right">951</td>
 <td><a href="https://github.com/Simizfo"><img src="https://avatars.githubusercontent.com/u/29689637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Simizfo"><b>Simone Franco</b></a><br><sub>&#64;Simizfo</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">905</td>
+<td align="right">952</td>
 <td><a href="https://github.com/daquinoaldo"><img src="https://avatars.githubusercontent.com/u/18645793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daquinoaldo"><b>Aldo D&#39;Aquino</b></a><br><sub>&#64;daquinoaldo</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">906</td>
+<td align="right">953</td>
 <td><a href="https://github.com/LorenzoLaCorte"><img src="https://avatars.githubusercontent.com/u/49609738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LorenzoLaCorte"><b>Lorenzo La Corte</b></a><br><sub>&#64;LorenzoLaCorte</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Genoa, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">907</td>
+<td align="right">954</td>
 <td><a href="https://github.com/remogatto"><img src="https://avatars.githubusercontent.com/u/22067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/remogatto"><b>Andrea Fazzi</b></a><br><sub>&#64;remogatto</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Trieste, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">908</td>
+<td align="right">955</td>
 <td><a href="https://github.com/YannickJadoul"><img src="https://avatars.githubusercontent.com/u/8025744?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YannickJadoul"><b>Yannick Jadoul</b></a><br><sub>&#64;YannickJadoul</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Rome, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">909</td>
+<td align="right">956</td>
 <td><a href="https://github.com/giacomoferretti"><img src="https://avatars.githubusercontent.com/u/1778595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giacomoferretti"><b>Giacomo Ferretti</b></a><br><sub>&#64;giacomoferretti</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">0</td>
 <td><sub>Milan, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">910</td>
+<td align="right">957</td>
+<td><a href="https://github.com/sherpya"><img src="https://avatars.githubusercontent.com/u/120074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sherpya"><b>Gianluigi Tiesi</b></a><br><sub>&#64;sherpya</sub></td>
+<td align="right"><b>97</b></td>
+<td align="right">0</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">958</td>
 <td><a href="https://github.com/exalted"><img src="https://avatars.githubusercontent.com/u/314398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/exalted"><b>Ali</b></a><br><sub>&#64;exalted</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">911</td>
+<td align="right">959</td>
 <td><a href="https://github.com/marcocesarato"><img src="https://avatars.githubusercontent.com/u/36447518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcocesarato"><b>Marco Cesarato</b></a><br><sub>&#64;marcocesarato</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Padua, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">912</td>
+<td align="right">960</td>
 <td><a href="https://github.com/nicmart"><img src="https://avatars.githubusercontent.com/u/443063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicmart"><b>Nicolò Martini</b></a><br><sub>&#64;nicmart</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Padova</sub></td>
 </tr>
 <tr>
-<td align="right">913</td>
+<td align="right">961</td>
 <td><a href="https://github.com/streambinder"><img src="https://avatars.githubusercontent.com/u/7783188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/streambinder"><b>Davide Pucci</b></a><br><sub>&#64;streambinder</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Rome, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">914</td>
+<td align="right">962</td>
 <td><a href="https://github.com/Nokse22"><img src="https://avatars.githubusercontent.com/u/44558032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nokse22"><b>Nokse</b></a><br><sub>&#64;Nokse22</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">915</td>
+<td align="right">963</td>
+<td><a href="https://github.com/garutilorenzo"><img src="https://avatars.githubusercontent.com/u/4757326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/garutilorenzo"><b>Lorenzo Garuti</b></a><br><sub>&#64;garutilorenzo</sub></td>
+<td align="right"><b>94</b></td>
+<td align="right">0</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">964</td>
 <td><a href="https://github.com/csparpa"><img src="https://avatars.githubusercontent.com/u/5172190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/csparpa"><b>Claudio Sparpaglione</b></a><br><sub>&#64;csparpa</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Milan, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">916</td>
+<td align="right">965</td>
 <td><a href="https://github.com/lraton"><img src="https://avatars.githubusercontent.com/u/50119007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lraton"><b>Filippo Notari</b></a><br><sub>&#64;lraton</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Perugia, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">917</td>
+<td align="right">966</td>
 <td><a href="https://github.com/mtorromeo"><img src="https://avatars.githubusercontent.com/u/51503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mtorromeo"><b>Massimiliano Torromeo</b></a><br><sub>&#64;mtorromeo</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Como, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">918</td>
+<td align="right">967</td>
 <td><a href="https://github.com/palexdev"><img src="https://avatars.githubusercontent.com/u/16880178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/palexdev"><b>Alessadro Parisi</b></a><br><sub>&#64;palexdev</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">919</td>
+<td align="right">968</td>
 <td><a href="https://github.com/sergix44"><img src="https://avatars.githubusercontent.com/u/4172890?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergix44"><b>Sergio Brighenti</b></a><br><sub>&#64;sergix44</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Verona, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">920</td>
+<td align="right">969</td>
 <td><a href="https://github.com/0xMassi"><img src="https://avatars.githubusercontent.com/u/88933932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xMassi"><b>Valerio</b></a><br><sub>&#64;0xMassi</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">921</td>
+<td align="right">970</td>
 <td><a href="https://github.com/gsscoder"><img src="https://avatars.githubusercontent.com/u/1194228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gsscoder"><b>koder0x</b></a><br><sub>&#64;gsscoder</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">922</td>
+<td align="right">971</td>
 <td><a href="https://github.com/joeyates"><img src="https://avatars.githubusercontent.com/u/137838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joeyates"><b>Joe Yates</b></a><br><sub>&#64;joeyates</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Florence, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">923</td>
+<td align="right">972</td>
 <td><a href="https://github.com/giovantenne"><img src="https://avatars.githubusercontent.com/u/917400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giovantenne"><b>giovantenne</b></a><br><sub>&#64;giovantenne</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">924</td>
+<td align="right">973</td>
 <td><a href="https://github.com/restyler"><img src="https://avatars.githubusercontent.com/u/775507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/restyler"><b>restyler</b></a><br><sub>&#64;restyler</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">925</td>
+<td align="right">974</td>
 <td><a href="https://github.com/antdimot"><img src="https://avatars.githubusercontent.com/u/126246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antdimot"><b>Antonio Di Motta</b></a><br><sub>&#64;antdimot</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">926</td>
+<td align="right">975</td>
 <td><a href="https://github.com/Mirkoddd"><img src="https://avatars.githubusercontent.com/u/2301451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mirkoddd"><b>Mirko Dimartino</b></a><br><sub>&#64;Mirkoddd</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">927</td>
+<td align="right">976</td>
 <td><a href="https://github.com/nitefood"><img src="https://avatars.githubusercontent.com/u/24555810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nitefood"><b>Adriano</b></a><br><sub>&#64;nitefood</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">928</td>
+<td align="right">977</td>
 <td><a href="https://github.com/sniperwolf"><img src="https://avatars.githubusercontent.com/u/741938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sniperwolf"><b>Fabrizio Fallico</b></a><br><sub>&#64;sniperwolf</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Bergamo, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">929</td>
+<td align="right">978</td>
 <td><a href="https://github.com/woxxy"><img src="https://avatars.githubusercontent.com/u/764128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/woxxy"><b>It me</b></a><br><sub>&#64;woxxy</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">930</td>
+<td align="right">979</td>
 <td><a href="https://github.com/chuckcarpenter"><img src="https://avatars.githubusercontent.com/u/706378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chuckcarpenter"><b>Chuck Carpenter</b></a><br><sub>&#64;chuckcarpenter</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Como, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">931</td>
+<td align="right">980</td>
 <td><a href="https://github.com/giocomai"><img src="https://avatars.githubusercontent.com/u/11276752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giocomai"><b>Giorgio Comai</b></a><br><sub>&#64;giocomai</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Trentino</sub></td>
 </tr>
 <tr>
-<td align="right">932</td>
+<td align="right">981</td>
 <td><a href="https://github.com/PaoloCuscela"><img src="https://avatars.githubusercontent.com/u/23332257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PaoloCuscela"><b>Paolo Cuscela</b></a><br><sub>&#64;PaoloCuscela</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Parma, IT</sub></td>
 </tr>
 <tr>
-<td align="right">933</td>
+<td align="right">982</td>
 <td><a href="https://github.com/nicrusso7"><img src="https://avatars.githubusercontent.com/u/8685805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicrusso7"><b>Nicola Russo</b></a><br><sub>&#64;nicrusso7</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Milano, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">934</td>
+<td align="right">983</td>
 <td><a href="https://github.com/SPRITZ-Research-Group"><img src="https://avatars.githubusercontent.com/u/29401533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SPRITZ-Research-Group"><b>SPRITZ Research Group</b></a><br><sub>&#64;SPRITZ-Research-Group</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">935</td>
+<td align="right">984</td>
 <td><a href="https://github.com/astanin"><img src="https://avatars.githubusercontent.com/u/71802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astanin"><b>Sergey Astanin</b></a><br><sub>&#64;astanin</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Turin, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">936</td>
+<td align="right">985</td>
 <td><a href="https://github.com/CiaccoDavide"><img src="https://avatars.githubusercontent.com/u/3226096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CiaccoDavide"><b>Ciacco Davide</b></a><br><sub>&#64;CiaccoDavide</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">937</td>
+<td align="right">986</td>
 <td><a href="https://github.com/cstrap"><img src="https://avatars.githubusercontent.com/u/146691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cstrap"><b>Christian Strappazzon</b></a><br><sub>&#64;cstrap</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">938</td>
+<td align="right">987</td>
 <td><a href="https://github.com/lucasepe"><img src="https://avatars.githubusercontent.com/u/585381?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucasepe"><b>Luca Sepe</b></a><br><sub>&#64;lucasepe</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">939</td>
+<td align="right">988</td>
 <td><a href="https://github.com/Michele0303"><img src="https://avatars.githubusercontent.com/u/31160531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Michele0303"><b>Michele Fiori</b></a><br><sub>&#64;Michele0303</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">940</td>
+<td align="right">989</td>
+<td><a href="https://github.com/davide-coccomini"><img src="https://avatars.githubusercontent.com/u/20495003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davide-coccomini"><b>Davide Coccomini</b></a><br><sub>&#64;davide-coccomini</sub></td>
+<td align="right"><b>83</b></td>
+<td align="right">0</td>
+<td><sub>Pisa, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">990</td>
+<td><a href="https://github.com/ffalcinelli"><img src="https://avatars.githubusercontent.com/u/1167082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ffalcinelli"><b>Fabio Falcinelli</b></a><br><sub>&#64;ffalcinelli</sub></td>
+<td align="right"><b>83</b></td>
+<td align="right">0</td>
+<td><sub>Rome, Italy</sub></td>
+</tr>
+<tr>
+<td align="right">991</td>
 <td><a href="https://github.com/flaviotordini"><img src="https://avatars.githubusercontent.com/u/3410671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flaviotordini"><b>Flavio Tordini</b></a><br><sub>&#64;flaviotordini</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">941</td>
+<td align="right">992</td>
 <td><a href="https://github.com/zofe"><img src="https://avatars.githubusercontent.com/u/261951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zofe"><b>Felice Ostuni</b></a><br><sub>&#64;zofe</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">942</td>
+<td align="right">993</td>
+<td><a href="https://github.com/manuelbua"><img src="https://avatars.githubusercontent.com/u/819314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manuelbua"><b>dudez</b></a><br><sub>&#64;manuelbua</sub></td>
+<td align="right"><b>82</b></td>
+<td align="right">0</td>
+<td><sub>Italy</sub></td>
+</tr>
+<tr>
+<td align="right">994</td>
 <td><a href="https://github.com/ZigRazor"><img src="https://avatars.githubusercontent.com/u/16266721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZigRazor"><b>ZigRazor</b></a><br><sub>&#64;ZigRazor</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Rome, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">943</td>
+<td align="right">995</td>
 <td><a href="https://github.com/AmenRa"><img src="https://avatars.githubusercontent.com/u/11797097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmenRa"><b>Elias Bassani</b></a><br><sub>&#64;AmenRa</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Milan, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">944</td>
+<td align="right">996</td>
 <td><a href="https://github.com/andrei1058"><img src="https://avatars.githubusercontent.com/u/13315829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrei1058"><b>Andrei Dascălu</b></a><br><sub>&#64;andrei1058</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">945</td>
+<td align="right">997</td>
 <td><a href="https://github.com/brosssh"><img src="https://avatars.githubusercontent.com/u/44944126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brosssh"><b>brosssh</b></a><br><sub>&#64;brosssh</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Milan, Italy</sub></td>
 </tr>
 <tr>
-<td align="right">946</td>
+<td align="right">998</td>
 <td><a href="https://github.com/echo-devim"><img src="https://avatars.githubusercontent.com/u/11312542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/echo-devim"><b>echo-devim</b></a><br><sub>&#64;echo-devim</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">947</td>
+<td align="right">999</td>
 <td><a href="https://github.com/gabriele-tomassetti"><img src="https://avatars.githubusercontent.com/u/12112299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabriele-tomassetti"><b>Gabriele Tomassetti</b></a><br><sub>&#64;gabriele-tomassetti</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Italy</sub></td>
 </tr>
 <tr>
-<td align="right">948</td>
+<td align="right">1000</td>
 <td><a href="https://github.com/helloIAmPau"><img src="https://avatars.githubusercontent.com/u/1024472?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/helloIAmPau"><b>Pasquale Boemio</b></a><br><sub>&#64;helloIAmPau</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Casoria (Na)</sub></td>
-</tr>
-<tr>
-<td align="right">949</td>
-<td><a href="https://github.com/marcoslin"><img src="https://avatars.githubusercontent.com/u/3048916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcoslin"><b>Marcos Lin</b></a><br><sub>&#64;marcoslin</sub></td>
-<td align="right"><b>79</b></td>
-<td align="right">0</td>
-<td><sub>Rome, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">950</td>
-<td><a href="https://github.com/h4t0n"><img src="https://avatars.githubusercontent.com/u/13604122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/h4t0n"><b>Andrea Tarquini</b></a><br><sub>&#64;h4t0n</sub></td>
-<td align="right"><b>78</b></td>
-<td align="right">0</td>
-<td><sub>Pisa, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">951</td>
-<td><a href="https://github.com/marcomontalbano"><img src="https://avatars.githubusercontent.com/u/1681269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcomontalbano"><b>Marco Montalbano</b></a><br><sub>&#64;marcomontalbano</sub></td>
-<td align="right"><b>78</b></td>
-<td align="right">0</td>
-<td><sub>Milan, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">952</td>
-<td><a href="https://github.com/Nuked88"><img src="https://avatars.githubusercontent.com/u/1554140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nuked88"><b>Nuked</b></a><br><sub>&#64;Nuked88</sub></td>
-<td align="right"><b>78</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">953</td>
-<td><a href="https://github.com/santoru"><img src="https://avatars.githubusercontent.com/u/32750504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/santoru"><b>Alessio Santoru</b></a><br><sub>&#64;santoru</sub></td>
-<td align="right"><b>78</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">954</td>
-<td><a href="https://github.com/davidegironi"><img src="https://avatars.githubusercontent.com/u/1426098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidegironi"><b>Davide Gironi</b></a><br><sub>&#64;davidegironi</sub></td>
-<td align="right"><b>77</b></td>
-<td align="right">0</td>
-<td><sub>Italia</sub></td>
-</tr>
-<tr>
-<td align="right">955</td>
-<td><a href="https://github.com/readbeyond"><img src="https://avatars.githubusercontent.com/u/5318774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/readbeyond"><b>ReadBeyond</b></a><br><sub>&#64;readbeyond</sub></td>
-<td align="right"><b>77</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">956</td>
-<td><a href="https://github.com/trippo"><img src="https://avatars.githubusercontent.com/u/497169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trippo"><b>Alberto Peripolli</b></a><br><sub>&#64;trippo</sub></td>
-<td align="right"><b>77</b></td>
-<td align="right">0</td>
-<td><sub>Valdagno</sub></td>
-</tr>
-<tr>
-<td align="right">957</td>
-<td><a href="https://github.com/dodo-reach"><img src="https://avatars.githubusercontent.com/u/254021826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dodo-reach"><b>dodo-reach</b></a><br><sub>&#64;dodo-reach</sub></td>
-<td align="right"><b>76</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">958</td>
-<td><a href="https://github.com/eciavatta"><img src="https://avatars.githubusercontent.com/u/4194510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eciavatta"><b>Emiliano Ciavatta</b></a><br><sub>&#64;eciavatta</sub></td>
-<td align="right"><b>76</b></td>
-<td align="right">0</td>
-<td><sub>Italia</sub></td>
-</tr>
-<tr>
-<td align="right">959</td>
-<td><a href="https://github.com/Londeren"><img src="https://avatars.githubusercontent.com/u/757427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Londeren"><b>Sergey Lebedev</b></a><br><sub>&#64;Londeren</sub></td>
-<td align="right"><b>76</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">960</td>
-<td><a href="https://github.com/nilooy"><img src="https://avatars.githubusercontent.com/u/32486682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nilooy"><b>Niloy</b></a><br><sub>&#64;nilooy</sub></td>
-<td align="right"><b>76</b></td>
-<td align="right">0</td>
-<td><sub>Torino, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">961</td>
-<td><a href="https://github.com/andrealufino"><img src="https://avatars.githubusercontent.com/u/758939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrealufino"><b>Andrea Mario Lufino</b></a><br><sub>&#64;andrealufino</sub></td>
-<td align="right"><b>75</b></td>
-<td align="right">0</td>
-<td><sub>Milan, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">962</td>
-<td><a href="https://github.com/ologe"><img src="https://avatars.githubusercontent.com/u/22067384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ologe"><b>Eugeniu Olog</b></a><br><sub>&#64;ologe</sub></td>
-<td align="right"><b>75</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">963</td>
-<td><a href="https://github.com/riccardomusmeci"><img src="https://avatars.githubusercontent.com/u/11062163?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riccardomusmeci"><b>Riccardo Musmeci</b></a><br><sub>&#64;riccardomusmeci</sub></td>
-<td align="right"><b>75</b></td>
-<td align="right">0</td>
-<td><sub>Milano, IT</sub></td>
-</tr>
-<tr>
-<td align="right">964</td>
-<td><a href="https://github.com/lapo-luchini"><img src="https://avatars.githubusercontent.com/u/420454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lapo-luchini"><b>Lapo Luchini</b></a><br><sub>&#64;lapo-luchini</sub></td>
-<td align="right"><b>73</b></td>
-<td align="right">0</td>
-<td><sub>Milano, Italia</sub></td>
-</tr>
-<tr>
-<td align="right">965</td>
-<td><a href="https://github.com/MisterY52"><img src="https://avatars.githubusercontent.com/u/11368116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MisterY52"><b>Andrea</b></a><br><sub>&#64;MisterY52</sub></td>
-<td align="right"><b>73</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">966</td>
-<td><a href="https://github.com/fede-vaccaro"><img src="https://avatars.githubusercontent.com/u/33399189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fede-vaccaro"><b>Federico Vaccaro</b></a><br><sub>&#64;fede-vaccaro</sub></td>
-<td align="right"><b>72</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">967</td>
-<td><a href="https://github.com/Fs00"><img src="https://avatars.githubusercontent.com/u/30041551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fs00"><b>Francesco Saltori</b></a><br><sub>&#64;Fs00</sub></td>
-<td align="right"><b>72</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">968</td>
-<td><a href="https://github.com/grip-unina"><img src="https://avatars.githubusercontent.com/u/35218268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/grip-unina"><b>grip-unina</b></a><br><sub>&#64;grip-unina</sub></td>
-<td align="right"><b>72</b></td>
-<td align="right">0</td>
-<td><sub>Napoli (Italy)</sub></td>
-</tr>
-<tr>
-<td align="right">969</td>
-<td><a href="https://github.com/nicolezattarin"><img src="https://avatars.githubusercontent.com/u/72666452?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicolezattarin"><b>Nicole Zattarin</b></a><br><sub>&#64;nicolezattarin</sub></td>
-<td align="right"><b>72</b></td>
-<td align="right">0</td>
-<td><sub>Milan, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">970</td>
-<td><a href="https://github.com/sblantipodi"><img src="https://avatars.githubusercontent.com/u/4722227?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sblantipodi"><b>Davide Perini</b></a><br><sub>&#64;sblantipodi</sub></td>
-<td align="right"><b>72</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">971</td>
-<td><a href="https://github.com/Zavy86"><img src="https://avatars.githubusercontent.com/u/2051811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zavy86"><b>Manuel Zavatta</b></a><br><sub>&#64;Zavy86</sub></td>
-<td align="right"><b>72</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">972</td>
-<td><a href="https://github.com/andreax79"><img src="https://avatars.githubusercontent.com/u/1288154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreax79"><b>Andrea Bonomi</b></a><br><sub>&#64;andreax79</sub></td>
-<td align="right"><b>71</b></td>
-<td align="right">0</td>
-<td><sub>Milan, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">973</td>
-<td><a href="https://github.com/davidepatti"><img src="https://avatars.githubusercontent.com/u/3337669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidepatti"><b>Davide Patti</b></a><br><sub>&#64;davidepatti</sub></td>
-<td align="right"><b>71</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">974</td>
-<td><a href="https://github.com/marcogdepinto"><img src="https://avatars.githubusercontent.com/u/15181426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcogdepinto"><b>Marco Giuseppe de Pinto</b></a><br><sub>&#64;marcogdepinto</sub></td>
-<td align="right"><b>71</b></td>
-<td align="right">0</td>
-<td><sub>Molfetta, BA, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">975</td>
-<td><a href="https://github.com/dexpota"><img src="https://avatars.githubusercontent.com/u/7031675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dexpota"><b>Fabrizio Destro</b></a><br><sub>&#64;dexpota</sub></td>
-<td align="right"><b>70</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">976</td>
-<td><a href="https://github.com/imDema"><img src="https://avatars.githubusercontent.com/u/20422970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imDema"><b>Luca</b></a><br><sub>&#64;imDema</sub></td>
-<td align="right"><b>70</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">977</td>
-<td><a href="https://github.com/mpelteshki"><img src="https://avatars.githubusercontent.com/u/39273158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpelteshki"><b>Martin Pelteshki</b></a><br><sub>&#64;mpelteshki</sub></td>
-<td align="right"><b>70</b></td>
-<td align="right">0</td>
-<td><sub>Milan, Lombardy, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">978</td>
-<td><a href="https://github.com/gi-dellav"><img src="https://avatars.githubusercontent.com/u/61155988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gi-dellav"><b>Giuseppe Della Vedova</b></a><br><sub>&#64;gi-dellav</sub></td>
-<td align="right"><b>69</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">979</td>
-<td><a href="https://github.com/ITzTravelInTime"><img src="https://avatars.githubusercontent.com/u/23339020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ITzTravelInTime"><b>ITzTravelInTime</b></a><br><sub>&#64;ITzTravelInTime</sub></td>
-<td align="right"><b>69</b></td>
-<td align="right">0</td>
-<td><sub>Naples, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">980</td>
-<td><a href="https://github.com/Green-bms"><img src="https://avatars.githubusercontent.com/u/89488863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Green-bms"><b>Sergio Ghirardelli</b></a><br><sub>&#64;Green-bms</sub></td>
-<td align="right"><b>68</b></td>
-<td align="right">0</td>
-<td><sub>Cogorno (Genoa - Italy)</sub></td>
-</tr>
-<tr>
-<td align="right">981</td>
-<td><a href="https://github.com/mgallo"><img src="https://avatars.githubusercontent.com/u/1528511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgallo"><b>Marco Gallo</b></a><br><sub>&#64;mgallo</sub></td>
-<td align="right"><b>68</b></td>
-<td align="right">0</td>
-<td><sub>Pavia (Italy)</sub></td>
-</tr>
-<tr>
-<td align="right">982</td>
-<td><a href="https://github.com/Pagghiu"><img src="https://avatars.githubusercontent.com/u/5406873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pagghiu"><b>Stefano Cristiano</b></a><br><sub>&#64;Pagghiu</sub></td>
-<td align="right"><b>67</b></td>
-<td align="right">0</td>
-<td><sub>Milano</sub></td>
-</tr>
-<tr>
-<td align="right">983</td>
-<td><a href="https://github.com/Lelonio"><img src="https://avatars.githubusercontent.com/u/21023829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lelonio"><b>Emanuele Maio</b></a><br><sub>&#64;Lelonio</sub></td>
-<td align="right"><b>66</b></td>
-<td align="right">0</td>
-<td><sub>Civitavecchia, Roma</sub></td>
-</tr>
-<tr>
-<td align="right">984</td>
-<td><a href="https://github.com/alessandrofrancesconi"><img src="https://avatars.githubusercontent.com/u/1595223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alessandrofrancesconi"><b>Alessandro Francesconi</b></a><br><sub>&#64;alessandrofrancesconi</sub></td>
-<td align="right"><b>65</b></td>
-<td align="right">0</td>
-<td><sub>Bologna, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">985</td>
-<td><a href="https://github.com/Giotino"><img src="https://avatars.githubusercontent.com/u/4963274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Giotino"><b>Giovanni Minotti</b></a><br><sub>&#64;Giotino</sub></td>
-<td align="right"><b>65</b></td>
-<td align="right">0</td>
-<td><sub>Genoa, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">986</td>
-<td><a href="https://github.com/henomis"><img src="https://avatars.githubusercontent.com/u/6398965?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/henomis"><b>Simone Vellei</b></a><br><sub>&#64;henomis</sub></td>
-<td align="right"><b>65</b></td>
-<td align="right">0</td>
-<td><sub>Grottammare</sub></td>
-</tr>
-<tr>
-<td align="right">987</td>
-<td><a href="https://github.com/Oblomov"><img src="https://avatars.githubusercontent.com/u/1464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Oblomov"><b>Oblomov</b></a><br><sub>&#64;Oblomov</sub></td>
-<td align="right"><b>65</b></td>
-<td align="right">0</td>
-<td><sub>Catania, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">988</td>
-<td><a href="https://github.com/seeuinscope"><img src="https://avatars.githubusercontent.com/u/92185084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seeuinscope"><b>Riccardo Malatesta</b></a><br><sub>&#64;seeuinscope</sub></td>
-<td align="right"><b>64</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">989</td>
-<td><a href="https://github.com/thom311"><img src="https://avatars.githubusercontent.com/u/1295078?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thom311"><b>Thomas Haller</b></a><br><sub>&#64;thom311</sub></td>
-<td align="right"><b>64</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">990</td>
-<td><a href="https://github.com/birabittoh"><img src="https://avatars.githubusercontent.com/u/26506860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/birabittoh"><b>Marco Andronaco</b></a><br><sub>&#64;birabittoh</sub></td>
-<td align="right"><b>63</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">991</td>
-<td><a href="https://github.com/cgapps"><img src="https://avatars.githubusercontent.com/u/6230315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cgapps"><b>Joey Rizzoli</b></a><br><sub>&#64;cgapps</sub></td>
-<td align="right"><b>63</b></td>
-<td align="right">0</td>
-<td><sub>Italia</sub></td>
-</tr>
-<tr>
-<td align="right">992</td>
-<td><a href="https://github.com/enricopolanski"><img src="https://avatars.githubusercontent.com/u/16064771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enricopolanski"><b>Enrico Polanski</b></a><br><sub>&#64;enricopolanski</sub></td>
-<td align="right"><b>63</b></td>
-<td align="right">0</td>
-<td><sub>Rome - Italy</sub></td>
-</tr>
-<tr>
-<td align="right">993</td>
-<td><a href="https://github.com/g-battaglia"><img src="https://avatars.githubusercontent.com/u/66565007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/g-battaglia"><b>Giacomo Battaglia</b></a><br><sub>&#64;g-battaglia</sub></td>
-<td align="right"><b>63</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">994</td>
-<td><a href="https://github.com/Ircama"><img src="https://avatars.githubusercontent.com/u/8292987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ircama"><b>Ircama</b></a><br><sub>&#64;Ircama</sub></td>
-<td align="right"><b>63</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">995</td>
-<td><a href="https://github.com/loregr"><img src="https://avatars.githubusercontent.com/u/7204248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loregr"><b>Lorenzo Greco</b></a><br><sub>&#64;loregr</sub></td>
-<td align="right"><b>63</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">996</td>
-<td><a href="https://github.com/lucafalasco"><img src="https://avatars.githubusercontent.com/u/4623726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucafalasco"><b>Luca Falasco</b></a><br><sub>&#64;lucafalasco</sub></td>
-<td align="right"><b>63</b></td>
-<td align="right">0</td>
-<td><sub>Brescia</sub></td>
-</tr>
-<tr>
-<td align="right">997</td>
-<td><a href="https://github.com/marcoturi"><img src="https://avatars.githubusercontent.com/u/314901?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcoturi"><b>Marco Turi</b></a><br><sub>&#64;marcoturi</sub></td>
-<td align="right"><b>63</b></td>
-<td align="right">0</td>
-<td><sub>Turin, Italy</sub></td>
-</tr>
-<tr>
-<td align="right">998</td>
-<td><a href="https://github.com/IntelligenzaArtificiale"><img src="https://avatars.githubusercontent.com/u/108482353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IntelligenzaArtificiale"><b>Intelligenza Artificiale Italia</b></a><br><sub>&#64;IntelligenzaArtificiale</sub></td>
-<td align="right"><b>62</b></td>
-<td align="right">0</td>
-<td><sub>Milano</sub></td>
-</tr>
-<tr>
-<td align="right">999</td>
-<td><a href="https://github.com/paolostivanin"><img src="https://avatars.githubusercontent.com/u/1040943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paolostivanin"><b>Paolo Stivanin</b></a><br><sub>&#64;paolostivanin</sub></td>
-<td align="right"><b>62</b></td>
-<td align="right">0</td>
-<td><sub>Italy</sub></td>
-</tr>
-<tr>
-<td align="right">1000</td>
-<td><a href="https://github.com/mustangostang"><img src="https://avatars.githubusercontent.com/u/96861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mustangostang"><b>Vlad Andersen</b></a><br><sub>&#64;mustangostang</sub></td>
-<td align="right"><b>61</b></td>
-<td align="right">0</td>
-<td><sub>Chiavari, Italy</sub></td>
 </tr>
 </tbody>
 </table>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1,300 attributed developers are tracked; the cutoff is 61 followers.
+- Organizations are excluded. 1,300 attributed developers are tracked; the cutoff is 79 followers.
 - **Location discovery:** term 0 of 171 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

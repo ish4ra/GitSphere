@@ -5,7 +5,7 @@
 "country": {"code":"GD","name":"Grenada","slug":"grenada"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":304,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":70,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":15,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":304,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":69,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":15,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk0OTYxMDc5OA==","name":"TelegramBots","nameWithOwner":"rubenlagus/TelegramBots","url":"https://github.com/rubenlagus/TelegramBots","description":"Java library to create bots using Telegram Bots API","stars":5563,"forks":1368,"primaryLanguage":"Java","license":{"spdxId":"MIT"},"createdAt":"2016-01-14T00:13:07Z","pushedAt":"2026-11-24T22:58:24Z","archived":false,"owner":{"login":"rubenlagus","name":"Ruben Bermudez","type":"User","url":"https://github.com/rubenlagus","location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMTYwNDMyMDY=","name":"ta","nameWithOwner":"bukosabino/ta","url":"https://github.com/bukosabino/ta","description":"Technical Analysis Library using Pandas and Numpy","stars":5261,"forks":1160,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"MIT"},"createdAt":"2018-01-02T18:08:48Z","pushedAt":"2026-03-18T13:04:55Z","archived":false,"owner":{"login":"bukosabino","name":"Darío López Padial","type":"User","url":"https://github.com/bukosabino","location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-25"},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"MDEwOlJlcG9zaXRvcnk2OTkxOTk0Nw==","name":"TelegramApi","nameWithOwner":"rubenlagus/TelegramApi","url":"https://github.com/rubenlagus/TelegramApi","description":"Java library to create Telegram Clients","stars":310,"forks":107,"primaryLanguage":"Java","license":{"spdxId":"MIT"},"createdAt":"2016-10-03T23:38:30Z","pushedAt":"2022-03-25T05:07:33Z","archived":false,"owner":{"login":"rubenlagus","name":"Ruben Bermudez","type":"User","url":"https://github.com/rubenlagus","location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-27"},
   {"rank":8,"id":"MDEwOlJlcG9zaXRvcnkyNzYzNDExOTg=","name":"DaemonMode.jl","nameWithOwner":"dmolina/DaemonMode.jl","url":"https://github.com/dmolina/DaemonMode.jl","description":"Client-Daemon workflow to run faster scripts in Julia","stars":304,"forks":22,"primaryLanguage":"Julia","license":{"spdxId":"MIT"},"createdAt":"2020-07-01T09:57:37Z","pushedAt":"2026-01-20T14:23:37Z","archived":false,"owner":{"login":"dmolina","name":"Daniel Molina","type":"User","url":"https://github.com/dmolina","location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "641617586417476d",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "533be600f1b09298",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

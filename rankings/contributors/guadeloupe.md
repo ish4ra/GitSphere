@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/GP.json">JSON</a> |
+| 🟡 Provisional | **26** | 22 Nov 2026 | <a href="../../data/contributors/GP.json">JSON</a> |
 
 </div>
 
@@ -160,6 +160,15 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/SioTyron"><img src="https://avatars.githubusercontent.com/u/150246608?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SioTyron"><b>Tyron</b></a><br><sub>&#64;SioTyron · 1 followers</sub></td>
+<td align="right"><b>27</b></td>
+<td align="right">24</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/ntxsay"><img src="https://avatars.githubusercontent.com/u/39699697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntxsay"><b>Loïc Bastaraud</b></a><br><sub>&#64;ntxsay · 1 followers</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">22</td>
@@ -168,7 +177,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/totopsy"><img src="https://avatars.githubusercontent.com/u/5053004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/totopsy"><b>Thomas Fontaine</b></a><br><sub>&#64;totopsy · 6 followers</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">2</td>
@@ -177,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/lsl3468a"><img src="https://avatars.githubusercontent.com/u/66391065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lsl3468a"><b>Ludivine Lsr</b></a><br><sub>&#64;lsl3468a · 4 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">15</td>
@@ -186,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/BLVCK971"><img src="https://avatars.githubusercontent.com/u/40273232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BLVCK971"><b>Yoel Pépin</b></a><br><sub>&#64;BLVCK971 · 18 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">13</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/teddy-dubal"><img src="https://avatars.githubusercontent.com/u/7427796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teddy-dubal"><b>Teddy</b></a><br><sub>&#64;teddy-dubal · 4 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">5</td>
@@ -204,7 +213,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/ELITEindev"><img src="https://avatars.githubusercontent.com/u/44844449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ELITEindev"><b>Ethan Lacoste</b></a><br><sub>&#64;ELITEindev · 2 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">1</td>
@@ -213,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/DevGlee"><img src="https://avatars.githubusercontent.com/u/56635346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DevGlee"><b>Arnaud</b></a><br><sub>&#64;DevGlee · 2 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -222,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
 <td><a href="https://github.com/owatte"><img src="https://avatars.githubusercontent.com/u/991136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/owatte"><b>Oliver Watte</b></a><br><sub>&#64;owatte · 12 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -231,10 +240,19 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">25</td>
 <td><a href="https://github.com/iamcryptoki"><img src="https://avatars.githubusercontent.com/u/22425397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamcryptoki"><b>Gael Gentil</b></a><br><sub>&#64;iamcryptoki · 141 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/nanousheka"><img src="https://avatars.githubusercontent.com/u/33180915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nanousheka"><b>NanoushekaDZiles</b></a><br><sub>&#64;nanousheka · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -246,7 +264,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 37 of 267 discovered developers (230 awaiting measurement).
+- **Measured:** 42 of 267 discovered developers (225 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 5 of 25 in round 1.

@@ -52,8 +52,8 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/muco-rolle"><img src="https://avatars.githubusercontent.com/u/43722815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muco-rolle"><b>Trésor Muco</b></a><br><sub>&#64;muco-rolle</sub></td>
-<td align="right"><b>102</b></td>
-<td align="right">150</td>
+<td align="right"><b>103</b></td>
+<td align="right">151</td>
 <td><sub>Bujumbura, Burundi</sub></td>
 </tr>
 <tr>
@@ -2496,7 +2496,7 @@
 <td align="right">354</td>
 <td><a href="https://github.com/amosndayikeza-dev"><img src="https://avatars.githubusercontent.com/u/237403306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amosndayikeza-dev"><b>Amos NDAYIKEZA</b></a><br><sub>&#64;amosndayikeza-dev</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">41</td>
+<td align="right">42</td>
 <td><sub>Bujumbura,Burundi</sub></td>
 </tr>
 <tr>

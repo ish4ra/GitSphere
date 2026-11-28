@@ -5,7 +5,7 @@
 "country": {"code":"NU","name":"Niue","slug":"niue"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":20,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY2NDc0NDQ=","login":"Muchiachio","name":"Muchiachio","url":"https://github.com/Muchiachio","avatarUrl":"https://avatars.githubusercontent.com/u/6647444?s=80&v=4","followers":131,"publicRepos":0,"location":"Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":2,"id":"MDQ6VXNlcjE3NDIwNDc5","login":"duckls","name":"zhouyou xiang","url":"https://github.com/duckls","avatarUrl":"https://avatars.githubusercontent.com/u/17420479?s=80&v=4","followers":5,"publicRepos":29,"location":"0487 ,Jewell Locks ,Ardistown ,Arkansas ,Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -23,8 +23,8 @@
   {"rank":14,"id":"U_kgDODdC8pQ","login":"r2hipa","name":"Ar-Tu Hipa","url":"https://github.com/r2hipa","avatarUrl":"https://avatars.githubusercontent.com/u/231783589?s=80&v=4","followers":0,"publicRepos":0,"location":"Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":15,"id":"MDQ6VXNlcjYyODYxMTQ0","login":"Reign23319","name":"Reign23319","url":"https://github.com/Reign23319","avatarUrl":"https://avatars.githubusercontent.com/u/62861144?s=80&v=4","followers":0,"publicRepos":0,"location":"Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "f4d63cbc173493cf",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "2e0b5f8349d2858d",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

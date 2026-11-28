@@ -261,16 +261,16 @@
 </tr>
 <tr>
 <td align="right">35</td>
-<td><a href="https://github.com/ohrionmartin"><img src="https://avatars.githubusercontent.com/u/38046346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ohrionmartin"><b>Oh Martin</b></a><br><sub>&#64;ohrionmartin</sub></td>
+<td><a href="https://github.com/Wilhit"><img src="https://avatars.githubusercontent.com/u/41920891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wilhit"><b>Wilhit</b></a><br><sub>&#64;Wilhit</sub></td>
 <td align="right"><b>18</b></td>
-<td align="right">27</td>
+<td align="right">43</td>
 <td><sub>Namibia</sub></td>
 </tr>
 <tr>
 <td align="right">36</td>
-<td><a href="https://github.com/Wilhit"><img src="https://avatars.githubusercontent.com/u/41920891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wilhit"><b>Wilhit</b></a><br><sub>&#64;Wilhit</sub></td>
-<td align="right"><b>17</b></td>
-<td align="right">43</td>
+<td><a href="https://github.com/ohrionmartin"><img src="https://avatars.githubusercontent.com/u/38046346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ohrionmartin"><b>Oh Martin</b></a><br><sub>&#64;ohrionmartin</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">27</td>
 <td><sub>Namibia</sub></td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 25 Nov 2026 | <a href="../data/MU.json">JSON</a> |
+| 🟡 Provisional | **12** | 25 Nov 2026 | <a href="../data/MU.json">JSON</a> |
 
 </div>
 
@@ -84,6 +84,27 @@
 <td align="right">35</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/yuvraj108c.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yuvraj108c/ComfyUI_InvSR"><b>yuvraj108c/ComfyUI&#95;InvSR</b></a><br><sub>ComfyUI wrapper for InvSR (Arbitrary-steps Image Super-resolution via Diffusion Inversion)</sub></td>
+<td align="right"><b>264</b></td>
+<td align="right">16</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/yuvraj108c.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yuvraj108c/ComfyUI-Upscaler-Tensorrt"><b>yuvraj108c/ComfyUI-Upscaler-Tensorrt</b></a><br><sub>2-4x faster ComfyUI Image Upscaling using Tensorrt ⚡</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">47</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/eznix86.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eznix86/docker-registry-ui"><b>eznix86/docker-registry-ui</b></a><br><sub>Yet another docker registry UI</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">13</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -92,8 +113,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 273 stars; 9 attributed candidates are tracked.
-- 71 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 251 stars; 12 attributed candidates are tracked.
+- 68 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 94 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

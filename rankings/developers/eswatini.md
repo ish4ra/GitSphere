@@ -550,7 +550,7 @@
 <td align="right">76</td>
 <td><a href="https://github.com/chlemvelase"><img src="https://avatars.githubusercontent.com/u/117954889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chlemvelase"><b>Sihle Mthembu</b></a><br><sub>&#64;chlemvelase</sub></td>
 <td align="right"><b>1</b></td>
-<td align="right">19</td>
+<td align="right">21</td>
 <td><sub>mbabane, ESwatini</sub></td>
 </tr>
 <tr>

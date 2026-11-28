@@ -5,12 +5,13 @@
 "country": {"code":"PA","name":"Panama","slug":"panama"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":5852,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":120,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":81,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":257,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":116,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":81,"unresolved":0},"exhaustive":false},
 "repositories": [
-  {"rank":1,"id":"R_kgDOU4zrqA","name":"vapi-network","nameWithOwner":"vAPI-Network/vapi-network","url":"https://github.com/vAPI-Network/vapi-network","description":"Buyer-controlled client for x402 API payments in USDC on Base.","stars":5852,"forks":195,"primaryLanguage":"TypeScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2026-10-02T13:05:19Z","pushedAt":"2026-11-24T19:34:42Z","archived":false,"owner":{"login":"vAPI-Network","name":"vAPI Network","type":"Organization","url":"https://github.com/vAPI-Network","location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
+  {"rank":1,"id":"R_kgDOU4zrqA","name":"vapi-network","nameWithOwner":"vAPI-Network/vapi-network","url":"https://github.com/vAPI-Network/vapi-network","description":"Buyer-controlled client for x402 API payments in USDC on Base.","stars":5852,"forks":195,"primaryLanguage":"TypeScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2026-10-02T13:05:19Z","pushedAt":"2026-11-24T19:34:42Z","archived":false,"owner":{"login":"vAPI-Network","name":"vAPI Network","type":"Organization","url":"https://github.com/vAPI-Network","location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
+  {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk5NTI4MTcwOQ==","name":"PowerBIRESTAPI","nameWithOwner":"migueesc123/PowerBIRESTAPI","url":"https://github.com/migueesc123/PowerBIRESTAPI","description":"A Microsoft Power BI Data Connector or Power Query Connector for the Power BI REST API","stars":257,"forks":85,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2017-06-24T07:06:59Z","pushedAt":"2023-08-30T23:35:17Z","archived":false,"owner":{"login":"migueesc123","name":"Miguel Escobar","type":"User","url":"https://github.com/migueesc123","location":"Panamá","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "c4156e54f28aa9c1",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "19546ca59eca714e",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

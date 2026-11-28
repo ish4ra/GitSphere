@@ -3,17 +3,12 @@
 "mode": "repositories",
 "methodologyVersion": "1.0.0",
 "country": {"code":"PN","name":"Pitcairn Islands","slug":"pitcairn-islands"},
-"status": "stale",
+"status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":4,"ownerExpansionBacklog":6,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":18,"unresolved":0},"exhaustive":false},
-"repositories": [
-  {"rank":1,"id":null,"name":"Data_Science_Institute","nameWithOwner":"21Arne42/Data_Science_Institute","url":"https://github.com/21Arne42/Data_Science_Institute","description":null,"stars":0,"forks":0,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2024-03-01T13:27:11Z","pushedAt":"2024-03-01T11:29:19Z","archived":false,"owner":{"login":"21Arne42","name":"Arne L.","type":"User","url":"https://github.com/21Arne42","location":"Pitcairn Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
-  {"rank":2,"id":null,"name":"Image_magic","nameWithOwner":"dillan55539/Image_magic","url":"https://github.com/dillan55539/Image_magic","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2017-06-12T09:30:56Z","pushedAt":"2017-06-12T09:30:57Z","archived":false,"owner":{"login":"dillan55539","name":"Dillan Kihn","type":"User","url":"https://github.com/dillan55539","location":"Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
-  {"rank":3,"id":null,"name":"penflyingjoe","nameWithOwner":"penflyingjoe/penflyingjoe","url":"https://github.com/penflyingjoe/penflyingjoe","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-30T04:50:59Z","pushedAt":"2024-09-30T04:51:20Z","archived":false,"owner":{"login":"penflyingjoe","name":null,"type":"User","url":"https://github.com/penflyingjoe","location":"Pitcairn Islands (PN)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
-  {"rank":4,"id":null,"name":"d3-plugins","nameWithOwner":"WaterBreathMan/d3-plugins","url":"https://github.com/WaterBreathMan/d3-plugins","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-19T17:34:24Z","pushedAt":"2023-12-19T17:34:24Z","archived":false,"owner":{"login":"WaterBreathMan","name":"WaterBreathMan","type":"User","url":"https://github.com/WaterBreathMan","location":"Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
-],
-"contentHash": "6e268ba8c0120a2a",
-"updatedAt": "2026-11-26T08:53:16.527Z",
-"verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":6,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":7,"terms":18,"unresolved":0},"exhaustive":false},
+"repositories": [],
+"contentHash": "8a662a563c758d02",
+"updatedAt": "2026-11-28T12:22:54.128Z",
+"verifiedOn": null,
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

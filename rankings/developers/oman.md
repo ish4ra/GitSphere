@@ -191,17 +191,17 @@
 </tr>
 <tr>
 <td align="right">25</td>
+<td><a href="https://github.com/foxoman"><img src="https://avatars.githubusercontent.com/u/5356677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/foxoman"><b>Sultan Al Isaiee</b></a><br><sub>&#64;foxoman</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">584</td>
+<td><sub>Oman</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
 <td><a href="https://github.com/xZAYEDx"><img src="https://avatars.githubusercontent.com/u/46198029?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xZAYEDx"><b>ZAYED AL-GAWI</b></a><br><sub>&#64;xZAYEDx</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">19</td>
 <td><sub>Muscat,Oman</sub></td>
-</tr>
-<tr>
-<td align="right">26</td>
-<td><a href="https://github.com/foxoman"><img src="https://avatars.githubusercontent.com/u/5356677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/foxoman"><b>Sultan Al Isaiee</b></a><br><sub>&#64;foxoman</sub></td>
-<td align="right"><b>102</b></td>
-<td align="right">583</td>
-<td><sub>Oman</sub></td>
 </tr>
 <tr>
 <td align="right">27</td>

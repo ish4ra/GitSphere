@@ -5,12 +5,12 @@
 "country": {"code":"TM","name":"Turkmenistan","slug":"turkmenistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":2512,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":123,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2512,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":118,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk3NjQ1NTQ2Mw==","name":"mpb","nameWithOwner":"vbauerster/mpb","url":"https://github.com/vbauerster/mpb","description":"multi progress bar for Go cli applications","stars":2512,"forks":132,"primaryLanguage":"Go","license":{"spdxId":"Unlicense"},"createdAt":"2016-12-14T11:56:29Z","pushedAt":"2026-10-21T00:26:56Z","archived":false,"owner":{"login":"vbauerster","name":"Vladimir Bauer","type":"User","url":"https://github.com/vbauerster","location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "f0ce57ae668f52bf",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "ab3d3a8779d599c3",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-26",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

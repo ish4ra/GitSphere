@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/GW.json">JSON</a> |
+| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/contributors/GW.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/snrpato"><img src="https://avatars.githubusercontent.com/u/35657683?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/snrpato"><b>PA Mensah</b></a><br><sub>&#64;snrpato · 103 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/mamadudarame"><img src="https://avatars.githubusercontent.com/u/39845955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mamadudarame"><b>Mamadu Darame</b></a><br><sub>&#64;mamadudarame · 1 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -123,7 +132,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/baldeinfamara10-droid"><img src="https://avatars.githubusercontent.com/u/261684557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baldeinfamara10-droid"><b>Infamara bruxo07</b></a><br><sub>&#64;baldeinfamara10-droid · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/DionisioSeuna"><img src="https://avatars.githubusercontent.com/u/72158735?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DionisioSeuna"><b>Dionisio Seuna</b></a><br><sub>&#64;DionisioSeuna · 6 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/Arcangel002"><img src="https://avatars.githubusercontent.com/u/115397042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arcangel002"><b>Chinoza Eze</b></a><br><sub>&#64;Arcangel002 · 1 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/emanuelnanquida779-oss"><img src="https://avatars.githubusercontent.com/u/251407086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emanuelnanquida779-oss"><b>Emanuking</b></a><br><sub>&#64;emanuelnanquida779-oss · 0 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/mobiss-dev"><img src="https://avatars.githubusercontent.com/u/297487370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mobiss-dev"><b>MOBISS SARL</b></a><br><sub>&#64;mobiss-dev · 0 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/bruyby"><img src="https://avatars.githubusercontent.com/u/32962373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bruyby"><b>Caitson Canpintam</b></a><br><sub>&#64;bruyby · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -177,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/ItchonDev"><img src="https://avatars.githubusercontent.com/u/214507122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ItchonDev"><b>Itchon Cardoso</b></a><br><sub>&#64;ItchonDev · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -192,7 +201,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 36 of 56 discovered developers (20 awaiting measurement).
+- **Measured:** 41 of 57 discovered developers (16 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 9 of 49 in round 1.

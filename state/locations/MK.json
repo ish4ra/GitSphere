@@ -5,10 +5,10 @@
 "roundStartedAt": "2026-11-23T12:48:18.732Z",
 "terms": {"count":142,"fingerprint":"142:4b57df91"},
 "termIndex": 0,
-"specIndex": 0,
-"active": {"term":"North Macedonia","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjYwMA==","page":13,"retrieved":600,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-23T12:48:18.732Z","stats":{"pages":12}},
+"specIndex": 1,
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":12,"accounts":600},
-"updatedAt": "2026-11-23T12:48:18.732Z"
+"stats": {"requests":18,"pages":18,"accounts":868},
+"updatedAt": "2026-11-28T11:55:43.920Z"
 }

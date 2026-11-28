@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 25 Nov 2026 | <a href="../data/CR.json">JSON</a> |
+| 🟡 Provisional | **24** | 25 Nov 2026 | <a href="../data/CR.json">JSON</a> |
 
 </div>
 
@@ -161,6 +161,34 @@
 <td align="right">24</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/skylartaylor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skylartaylor/gbos-vm"><b>skylartaylor/gbos-vm</b></a><br><sub>Run Googlebook OS in a GPU-accelerated VM on Apple Silicon Macs</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">24</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/Klerith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Klerith/nest-heroes-backend"><b>Klerith/nest-heroes-backend</b></a></td>
+<td align="right"><b>260</b></td>
+<td align="right">42</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/Klerith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Klerith/curso-VSCode"><b>Klerith/curso-VSCode</b></a><br><sub>El repositorio del curso donde trabajaremos para mejorar el uso de VSCode</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">247</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/calirojas506.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/calirojas506/vue-inspector"><b>calirojas506/vue-inspector</b></a><br><sub>Vue.js Inspector for Mobile Devices</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">6</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -169,8 +197,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 298 stars; 20 attributed candidates are tracked.
-- 107 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 257 stars; 24 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 58 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

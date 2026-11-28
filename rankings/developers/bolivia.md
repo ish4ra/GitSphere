@@ -156,17 +156,17 @@
 </tr>
 <tr>
 <td align="right">20</td>
-<td><a href="https://github.com/mauudev"><img src="https://avatars.githubusercontent.com/u/4335429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mauudev"><b>Mauricio Trigo Uriona</b></a><br><sub>&#64;mauudev</sub></td>
-<td align="right"><b>140</b></td>
-<td align="right">34</td>
-<td><sub>Cochabamba - Bolivia</sub></td>
-</tr>
-<tr>
-<td align="right">21</td>
 <td><a href="https://github.com/AndyIbanez"><img src="https://avatars.githubusercontent.com/u/892112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndyIbanez"><b>Andy Ibanez</b></a><br><sub>&#64;AndyIbanez</sub></td>
 <td align="right"><b>139</b></td>
 <td align="right">47</td>
 <td><sub>Bolivia</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/mauudev"><img src="https://avatars.githubusercontent.com/u/4335429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mauudev"><b>Mauricio Trigo Uriona</b></a><br><sub>&#64;mauudev</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">34</td>
+<td><sub>Cochabamba - Bolivia</sub></td>
 </tr>
 <tr>
 <td align="right">22</td>
@@ -317,17 +317,17 @@
 </tr>
 <tr>
 <td align="right">43</td>
-<td><a href="https://github.com/igidio"><img src="https://avatars.githubusercontent.com/u/61283392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/igidio"><b>Salvador Cáceres C.</b></a><br><sub>&#64;igidio</sub></td>
-<td align="right"><b>62</b></td>
-<td align="right">29</td>
-<td><sub>Bolivia</sub></td>
-</tr>
-<tr>
-<td align="right">44</td>
 <td><a href="https://github.com/ggonzalez94"><img src="https://avatars.githubusercontent.com/u/17907743?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ggonzalez94"><b>Gustavo Gonzalez</b></a><br><sub>&#64;ggonzalez94</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">80</td>
 <td><sub>Santa Cruz de la SIerra, Bolivia</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/igidio"><img src="https://avatars.githubusercontent.com/u/61283392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/igidio"><b>Salvador Cáceres C.</b></a><br><sub>&#64;igidio</sub></td>
+<td align="right"><b>59</b></td>
+<td align="right">29</td>
+<td><sub>Bolivia</sub></td>
 </tr>
 <tr>
 <td align="right">45</td>

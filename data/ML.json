@@ -5,10 +5,10 @@
 "country": {"code":"ML","name":"Mali","slug":"mali"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":140,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":80,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":138,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":80,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "cd7c0350bab36160",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "aeb52aa10d6f7235",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

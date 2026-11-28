@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **67** | 25 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
+| 🟡 Provisional | **73** | 25 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
 
 </div>
 
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/it-projects-llc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/it-projects-llc/odoo-saas-tools"><b>it-projects-llc/odoo-saas-tools</b></a><br><sub>Odoo SaaS Tools — tools for SaaS Businesses. Sale and manage Odoo databases.</sub></td>
-<td align="right"><b>637</b></td>
+<td align="right"><b>638</b></td>
 <td align="right">598</td>
 <td>Python</td>
 </tr>
@@ -241,7 +241,7 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/Nai64.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nai64/Nai64Patches"><b>Nai64/Nai64Patches</b></a><br><sub>A curated collection of Morphe patches that tune, unlock and declutter Android games. Skip ads, bypass license checks,…</sub></td>
-<td align="right"><b>605</b></td>
+<td align="right"><b>619</b></td>
 <td align="right">15</td>
 <td>Kotlin</td>
 </tr>
@@ -490,6 +490,48 @@
 <td align="right">99</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/vi-k.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vi-k/bubble"><b>vi-k/bubble</b></a><br><sub>Speech bubble for Flutter</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">59</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/sultan99.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sultan99/react-on-lambda"><b>sultan99/react-on-lambda</b></a><br><sub>A JavaScript library for building React applications in more functional way. Alternative to JSX.</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">56</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/talgautb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/talgautb/frontenders"><b>talgautb/frontenders</b></a><br><sub>List of awesome frontenders</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">38</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/AGGIB.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AGGIB/Stroq"><b>AGGIB/Stroq</b></a><br><sub>Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local ho…</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">22</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/icerockdev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icerockdev/libs.kmp.icerock.dev"><b>icerockdev/libs.kmp.icerock.dev</b></a><br><sub>Kotlin Multiplatform libraries list with info auto-fetch</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">57</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/Aldeshov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aldeshov/ADBFileExplorer"><b>Aldeshov/ADBFileExplorer</b></a><br><sub>File Explorer for Android devices</sub></td>
+<td align="right"><b>255</b></td>
+<td align="right">37</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -498,8 +540,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 270 stars; 67 attributed candidates are tracked.
-- 104 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 255 stars; 73 attributed candidates are tracked.
+- 101 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

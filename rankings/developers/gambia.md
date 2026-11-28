@@ -177,52 +177,52 @@
 </tr>
 <tr>
 <td align="right">23</td>
-<td><a href="https://github.com/Mamadou8bah"><img src="https://avatars.githubusercontent.com/u/167534888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mamadou8bah"><b>Mamadou Bah</b></a><br><sub>&#64;Mamadou8bah</sub></td>
-<td align="right"><b>14</b></td>
-<td align="right">29</td>
-<td><sub>Lamin Kerewan, Western Gambia</sub></td>
-</tr>
-<tr>
-<td align="right">24</td>
 <td><a href="https://github.com/DarboeDev"><img src="https://avatars.githubusercontent.com/u/125799918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DarboeDev"><b>Muhammed Darboe</b></a><br><sub>&#64;DarboeDev</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">18</td>
 <td><sub>The Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">24</td>
 <td><a href="https://github.com/Fatimatrawally"><img src="https://avatars.githubusercontent.com/u/97140518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fatimatrawally"><b>Camara</b></a><br><sub>&#64;Fatimatrawally</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
 <td><sub>Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">25</td>
 <td><a href="https://github.com/mahad8v"><img src="https://avatars.githubusercontent.com/u/59770815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mahad8v"><b>Muhammed Bojang</b></a><br><sub>&#64;mahad8v</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">57</td>
 <td><sub>Bijilo, The Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">26</td>
 <td><a href="https://github.com/Karim-Mane"><img src="https://avatars.githubusercontent.com/u/84502011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Karim-Mane"><b>Karim MANE</b></a><br><sub>&#64;Karim-Mane</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">22</td>
 <td><sub>Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">27</td>
 <td><a href="https://github.com/gambarry"><img src="https://avatars.githubusercontent.com/u/94072221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gambarry"><b>Amadou Barry</b></a><br><sub>&#64;gambarry</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">15</td>
 <td><sub>The Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">28</td>
 <td><a href="https://github.com/Baboucar"><img src="https://avatars.githubusercontent.com/u/20600766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Baboucar"><b>Baboucarr</b></a><br><sub>&#64;Baboucar</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">11</td>
 <td><sub>Gambia</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/Mamadou8bah"><img src="https://avatars.githubusercontent.com/u/167534888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mamadou8bah"><b>Mamadou Bah</b></a><br><sub>&#64;Mamadou8bah</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">29</td>
+<td><sub>Lamin Kerewan, Western Gambia</sub></td>
 </tr>
 <tr>
 <td align="right">30</td>

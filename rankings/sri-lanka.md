@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **84** | 25 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **91** | 25 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -247,16 +247,16 @@
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/nisalgunawardhana.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nisalgunawardhana/Github-for-beginners"><b>nisalgunawardhana/Github-for-beginners</b></a><br><sub>Welcome to the GitHub for Beginners practice repository! This repo is designed to help you learn and practice essential…</sub></td>
+<td><img src="https://github.com/yoosuf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yoosuf/Messenger"><b>yoosuf/Messenger</b></a><br><sub>Relational messaging database schema for one-to-one and group chat apps with attachments and MySQL Workbench model.</sub></td>
 <td align="right"><b>608</b></td>
-<td align="right">1,056</td>
+<td align="right">151</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/yoosuf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yoosuf/Messenger"><b>yoosuf/Messenger</b></a><br><sub>Relational messaging database schema for one-to-one and group chat apps with attachments and MySQL Workbench model.</sub></td>
-<td align="right"><b>608</b></td>
-<td align="right">151</td>
+<td><img src="https://github.com/nisalgunawardhana.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nisalgunawardhana/Github-for-beginners"><b>nisalgunawardhana/Github-for-beginners</b></a><br><sub>Welcome to the GitHub for Beginners practice repository! This repo is designed to help you learn and practice essential…</sub></td>
+<td align="right"><b>607</b></td>
+<td align="right">1,056</td>
 <td>—</td>
 </tr>
 <tr>
@@ -609,6 +609,55 @@
 <td align="right">91</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/NavodPeiris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NavodPeiris/speechlib"><b>NavodPeiris/speechlib</b></a><br><sub>Speechlib is a library that unifies speaker diarization, transcription and speaker recognition in a single pipeline to…</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">25</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/heshanera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heshanera/HealthPlus"><b>heshanera/HealthPlus</b></a><br><sub>A Management System for a Health Care Facility. The system includes Registration of patients, Making appointments, Stor…</sub></td>
+<td align="right"><b>267</b></td>
+<td align="right">137</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/poorna-soysa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/poorna-soysa/url-shortener-app"><b>poorna-soysa/url-shortener-app</b></a><br><sub>This repository contains a n URL Shortener sample application built with .NET 10 , NET Aspire, PostgreSQL</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">98</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/neutralinojs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neutralinojs/neutralinojs.github.io"><b>neutralinojs/neutralinojs.github.io</b></a><br><sub>The official website and documentation of Neutralinojs</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">194</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/upekshaip.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/upekshaip/tg-ytdlp-bot"><b>upekshaip/tg-ytdlp-bot</b></a><br><sub>This is a telegram deployable bot for downloading any private video files from any site (Intergrated with yt-dlp). Also…</sub></td>
+<td align="right"><b>258</b></td>
+<td align="right">130</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/prabhasha2006.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prabhasha2006/Red-Dragon"><b>prabhasha2006/Red-Dragon</b></a><br><sub>Welcome To ☬𝗥𝗘𝗗༒𝗗𝗥𝗔𝗚𝗢𝗡-𝗕𝗢𝗧࿐</sub></td>
+<td align="right"><b>255</b></td>
+<td align="right">4,110</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/pranauv1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pranauv1/AI-Video-Translation"><b>pranauv1/AI-Video-Translation</b></a> <sub>archived</sub><br><sub>A simple Google Colab notebook which can translate an original video into multiple languages along with lip sync.</sub></td>
+<td align="right"><b>255</b></td>
+<td align="right">42</td>
+<td>Jupyter Notebook</td>
+</tr>
 </tbody>
 </table>
 
@@ -617,8 +666,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 278 stars; 84 attributed candidates are tracked.
-- 94 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 255 stars; 91 attributed candidates are tracked.
+- 90 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

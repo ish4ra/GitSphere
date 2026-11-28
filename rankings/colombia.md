@@ -227,14 +227,14 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/AngelSanchezT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AngelSanchezT/books-1"><b>AngelSanchezT/books-1</b></a><br><sub>Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, REST, TDD, BDD, and Startups.</sub></td>
-<td align="right"><b>622</b></td>
-<td align="right">230</td>
+<td align="right"><b>623</b></td>
+<td align="right">231</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/zarfadev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zarfadev/Navicat_Patch_v18"><b>zarfadev/Navicat&#95;Patch&#95;v18</b></a><br><sub>This repository provides a simple and effective solution to unlock all premium features of Navicat Premium v18. Follow…</sub></td>
-<td align="right"><b>595</b></td>
+<td align="right"><b>598</b></td>
 <td align="right">107</td>
 <td>—</td>
 </tr>
@@ -247,17 +247,17 @@
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/DiegoRBaquero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DiegoRBaquero/BTorrent"><b>DiegoRBaquero/BTorrent</b></a><br><sub>:globe&#95;with&#95;meridians: Fully-featured WebTorrent Client</sub></td>
-<td align="right"><b>583</b></td>
-<td align="right">98</td>
-<td>HTML</td>
+<td><img src="https://github.com/DevCop95.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DevCop95/bugbounty-lab101"><b>DevCop95/bugbounty-lab101</b></a><br><sub>A complete bug bounty workspace for HackerOne researchers. Includes scope enforcement, automated recon/vuln pipeline (4…</sub></td>
+<td align="right"><b>586</b></td>
+<td align="right">94</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/DevCop95.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DevCop95/bugbounty-lab101"><b>DevCop95/bugbounty-lab101</b></a><br><sub>A complete bug bounty workspace for HackerOne researchers. Includes scope enforcement, automated recon/vuln pipeline (4…</sub></td>
-<td align="right"><b>579</b></td>
-<td align="right">95</td>
-<td>Shell</td>
+<td><img src="https://github.com/DiegoRBaquero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DiegoRBaquero/BTorrent"><b>DiegoRBaquero/BTorrent</b></a><br><sub>:globe&#95;with&#95;meridians: Fully-featured WebTorrent Client</sub></td>
+<td align="right"><b>584</b></td>
+<td align="right">98</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">35</td>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 283 stars; 105 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 283 stars; 109 attributed candidates are tracked.
 - 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 119 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -689,22 +689,22 @@
 <tr>
 <td align="right">96</td>
 <td><img src="https://github.com/Razee4315.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Razee4315/Paperling"><b>Razee4315/Paperling</b></a><br><sub>A minimal, distraction-free markdown editor built with Tauri, React, and TypeScript</sub></td>
-<td align="right"><b>605</b></td>
+<td align="right"><b>606</b></td>
 <td align="right">42</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/Shahrayar123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Shahrayar123/Python-Projects"><b>Shahrayar123/Python-Projects</b></a><br><sub>A comprehensive list of Python projects</sub></td>
-<td align="right"><b>592</b></td>
+<td align="right"><b>593</b></td>
 <td align="right">438</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">98</td>
 <td><img src="https://github.com/shanraisshan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shanraisshan/claude-code-hooks"><b>shanraisshan/claude-code-hooks</b></a><br><sub>claude code hooks - adding voice on each hook</sub></td>
-<td align="right"><b>574</b></td>
-<td align="right">61</td>
+<td align="right"><b>575</b></td>
+<td align="right">62</td>
 <td>HTML</td>
 </tr>
 <tr>

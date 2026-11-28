@@ -5,7 +5,7 @@
 "country": {"code":"VU","name":"Vanuatu","slug":"vanuatu"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":78,"measuredAccounts":27,"measurementBacklog":51,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":21,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":78,"measuredAccounts":31,"measurementBacklog":47,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":21,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY2MjgxNTQx","login":"jah-ky","name":"Jackson","url":"https://github.com/jah-ky","avatarUrl":"https://avatars.githubusercontent.com/u/66281541?s=80&v=4","followers":3,"publicRepos":5,"location":"Port Vila (Vanuatu)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":483,"commits":366,"pullRequests":116,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":2,"id":"MDQ6VXNlcjEwMDQwMTcw","login":"alfnitacoder","name":"AlffieGeorge","url":"https://github.com/alfnitacoder","avatarUrl":"https://avatars.githubusercontent.com/u/10040170?s=80&v=4","followers":16,"publicRepos":17,"location":"Port Vila","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":207,"commits":164,"pullRequests":37,"reviews":0,"issues":0,"repositories":6,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
@@ -19,8 +19,8 @@
   {"rank":10,"id":"MDQ6VXNlcjE1ODE3MjYz","login":"angeu4","name":"Angelus Eutherius","url":"https://github.com/angeu4","avatarUrl":"https://avatars.githubusercontent.com/u/15817263?s=80&v=4","followers":4,"publicRepos":5,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":11,"id":"MDQ6VXNlcjM3NTAzNTE=","login":"SolaFide","name":"Michael Smith","url":"https://github.com/SolaFide","avatarUrl":"https://avatars.githubusercontent.com/u/3750351?s=80&v=4","followers":0,"publicRepos":6,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}}
 ],
-"contentHash": "8a321953f7b6111f",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "58e3d6da61d8b69e",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

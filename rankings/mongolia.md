@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 25 Nov 2026 | <a href="../data/MN.json">JSON</a> |
+| 🟡 Provisional | **7** | 25 Nov 2026 | <a href="../data/MN.json">JSON</a> |
 
 </div>
 
@@ -56,6 +56,20 @@
 <td align="right">20</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/tortuvshin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tortuvshin/intelligo.store"><b>tortuvshin/intelligo.store</b></a> <sub>archived</sub><br><sub>A headless GraphQL commerce platform offers fast, dynamic, and personalized shopping experiences with customizable onli…</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">120</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/weahforsage.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/weahforsage/react-native-animated-pagination-dots"><b>weahforsage/react-native-animated-pagination-dots</b></a></td>
+<td align="right"><b>251</b></td>
+<td align="right">35</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -64,8 +78,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 304 stars; 5 attributed candidates are tracked.
-- 124 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 251 stars; 7 attributed candidates are tracked.
+- 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 152 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

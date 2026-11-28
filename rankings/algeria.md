@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **43** | 25 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
+| 🟡 Provisional | **45** | 25 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
 
 </div>
 
@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/codiume.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codiume/orbit"><b>codiume/orbit</b></a><br><sub>Collection of useful integrations &amp; components for the Astro ecosystem. ⭐️ Star to support our work!</sub></td>
-<td align="right"><b>628</b></td>
+<td align="right"><b>627</b></td>
 <td align="right">24</td>
 <td>TypeScript</td>
 </tr>
@@ -322,6 +322,20 @@
 <td align="right">43</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/redouane59.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/redouane59/twittered"><b>redouane59/twittered</b></a><br><sub>Twitter API client for Java developers</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">63</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/skuza-oss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skuza-oss/downhill-revived"><b>skuza-oss/downhill-revived</b></a><br><sub>A PC port of Downhill Domination (PS2), built on a matching decompilation. Bring your own disc.</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">38</td>
+<td>C</td>
+</tr>
 </tbody>
 </table>
 
@@ -330,8 +344,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 280 stars; 43 attributed candidates are tracked.
-- 105 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 254 stars; 45 attributed candidates are tracked.
+- 103 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

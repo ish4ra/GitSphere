@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **30** | 22 Nov 2026 | <a href="../../data/contributors/KR.json">JSON</a> |
+| 🟡 Provisional | **33** | 22 Nov 2026 | <a href="../../data/contributors/KR.json">JSON</a> |
 
 </div>
 
@@ -259,6 +259,33 @@
 </tr>
 <tr>
 <td align="right">27</td>
+<td><a href="https://github.com/idkwim"><img src="https://avatars.githubusercontent.com/u/4337087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/idkwim"><b>.</b></a><br><sub>&#64;idkwim · 103 followers</sub></td>
+<td align="right"><b>86</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><a href="https://github.com/kimsama"><img src="https://avatars.githubusercontent.com/u/564941?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kimsama"><b>Kim, Hyoun Woo</b></a><br><sub>&#64;kimsama · 255 followers</sub></td>
+<td align="right"><b>69</b></td>
+<td align="right">34</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/eunmin"><img src="https://avatars.githubusercontent.com/u/1837478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eunmin"><b>Eunmin Kim</b></a><br><sub>&#64;eunmin · 128 followers</sub></td>
+<td align="right"><b>59</b></td>
+<td align="right">53</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">30</td>
 <td><a href="https://github.com/JoeCP17"><img src="https://avatars.githubusercontent.com/u/76832303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoeCP17"><b>Ueibin Kim</b></a><br><sub>&#64;JoeCP17 · 113 followers</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">53</td>
@@ -267,7 +294,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">31</td>
 <td><a href="https://github.com/rheehot"><img src="https://avatars.githubusercontent.com/u/7463532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rheehot"><b>Peter Lee Jong Woo</b></a><br><sub>&#64;rheehot · 271 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">3</td>
@@ -276,7 +303,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">32</td>
 <td><a href="https://github.com/codewalkerster"><img src="https://avatars.githubusercontent.com/u/2783234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codewalkerster"><b>Chris</b></a><br><sub>&#64;codewalkerster · 114 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">18</td>
@@ -285,7 +312,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">33</td>
 <td><a href="https://github.com/pjc0247"><img src="https://avatars.githubusercontent.com/u/1961216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pjc0247"><b>Park June Chul</b></a><br><sub>&#64;pjc0247 · 158 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -300,7 +327,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 30 of 1,476 discovered developers (1,446 awaiting measurement).
+- **Measured:** 34 of 1,527 discovered developers (1,493 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 152 in round 1.

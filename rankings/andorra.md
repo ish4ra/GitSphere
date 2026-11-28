@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 25 Nov 2026 | <a href="../data/AD.json">JSON</a> |
+| 🟡 Provisional | **17** | 25 Nov 2026 | <a href="../data/AD.json">JSON</a> |
 
 </div>
 
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/AlexAltea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexAltea/unicorn.js"><b>AlexAltea/unicorn.js</b></a><br><sub>Unicorn CPU emulator framework port for JavaScript</sub></td>
-<td align="right"><b>606</b></td>
+<td align="right"><b>607</b></td>
 <td align="right">45</td>
 <td>JavaScript</td>
 </tr>
@@ -133,6 +133,13 @@
 <td align="right">53</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/Cinderella-Man.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cinderella-Man/how-to-enable-p2p-on-nvidia-gpus"><b>Cinderella-Man/how-to-enable-p2p-on-nvidia-gpus</b></a><br><sub>Notes on enabling GPU-to-GPU (p2p) data exchange</sub></td>
+<td align="right"><b>258</b></td>
+<td align="right">34</td>
+<td>Cuda</td>
+</tr>
 </tbody>
 </table>
 
@@ -141,8 +148,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 292 stars; 16 attributed candidates are tracked.
-- 84 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 258 stars; 17 attributed candidates are tracked.
+- 83 multi-repository owners are queued for expansion.
 - **Location discovery:** term 3 of 23 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/contributors/LI.json">JSON</a> |
+| 🟡 Provisional | **27** | 22 Nov 2026 | <a href="../../data/contributors/LI.json">JSON</a> |
 
 </div>
 
@@ -178,6 +178,15 @@
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/TOLDOTECHNIK"><img src="https://avatars.githubusercontent.com/u/6407553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TOLDOTECHNIK"><b>TOLDOTECHNIK</b></a><br><sub>&#64;TOLDOTECHNIK · 22 followers</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">14</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/Unflexibel"><img src="https://avatars.githubusercontent.com/u/135437116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Unflexibel"><b>Unflexibel</b></a><br><sub>&#64;Unflexibel · 1 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
@@ -186,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/vad-babushkin"><img src="https://avatars.githubusercontent.com/u/9576572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vad-babushkin"><b>vad babushkin</b></a><br><sub>&#64;vad-babushkin · 54 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">7</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/laabidiRayen"><img src="https://avatars.githubusercontent.com/u/117037061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laabidiRayen"><b>Rayen laabidi</b></a><br><sub>&#64;laabidiRayen · 8 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">8</td>
@@ -204,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/mrmotchy"><img src="https://avatars.githubusercontent.com/u/72343164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrmotchy"><b>mr.motchy</b></a><br><sub>&#64;mrmotchy · 337 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">2</td>
@@ -213,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/502BadGatewayFL"><img src="https://avatars.githubusercontent.com/u/195455464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/502BadGatewayFL"><b>502 Bad Gateway</b></a><br><sub>&#64;502BadGatewayFL · 3 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -222,7 +231,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
+<td><a href="https://github.com/lstk44"><img src="https://avatars.githubusercontent.com/u/104567451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lstk44"><b>Lukas Stark</b></a><br><sub>&#64;lstk44 · 1 followers</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/tpcgold"><img src="https://avatars.githubusercontent.com/u/66625570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tpcgold"><b>Goldener Stefan</b></a><br><sub>&#64;tpcgold · 3 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
@@ -231,7 +249,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">26</td>
 <td><a href="https://github.com/peterbeck"><img src="https://avatars.githubusercontent.com/u/561186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peterbeck"><b>Peter Beck</b></a><br><sub>&#64;peterbeck · 13 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -240,7 +258,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">27</td>
 <td><a href="https://github.com/szero"><img src="https://avatars.githubusercontent.com/u/15748979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/szero"><b>szero</b></a><br><sub>&#64;szero · 16 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -255,7 +273,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 33 of 254 discovered developers (221 awaiting measurement).
+- **Measured:** 38 of 254 discovered developers (216 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 5 of 24 in round 1.

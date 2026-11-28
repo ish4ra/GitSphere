@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 25 Nov 2026 | <a href="../data/KW.json">JSON</a> |
+| 🟡 Provisional | **17** | 25 Nov 2026 | <a href="../data/KW.json">JSON</a> |
 
 </div>
 
@@ -126,6 +126,20 @@
 <td align="right">14</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/MaaSTaaR.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MaaSTaaR/539kernel"><b>MaaSTaaR/539kernel</b></a><br><sub>539kernel is a simple x86 32bit educational kernel which has been written especially for the book &quot;A Journey in Creatin…</sub></td>
+<td align="right"><b>258</b></td>
+<td align="right">31</td>
+<td>Assembly</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/Voulnet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Voulnet/CVE-2017-8759-Exploit-sample"><b>Voulnet/CVE-2017-8759-Exploit-sample</b></a><br><sub>Running CVE-2017-8759 exploit sample.</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">89</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -134,8 +148,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 288 stars; 15 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 256 stars; 17 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 32 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

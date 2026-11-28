@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **95** | 22 Nov 2026 | <a href="../../data/developers/VA.json">JSON</a> |
+| 🟡 Provisional | **95** | 24 Nov 2026 | <a href="../../data/developers/VA.json">JSON</a> |
 
 </div>
 

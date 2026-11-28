@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/PS.json">JSON</a> |
+| 🟡 Provisional | **28** | 22 Nov 2026 | <a href="../../data/contributors/PS.json">JSON</a> |
 
 </div>
 
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/Seraj-Omar"><img src="https://avatars.githubusercontent.com/u/153351518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Seraj-Omar"><b>Seraj Omar</b></a><br><sub>&#64;Seraj-Omar · 126 followers</sub></td>
+<td align="right"><b>258</b></td>
+<td align="right">226</td>
+<td align="right">18</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/a7med1st"><img src="https://avatars.githubusercontent.com/u/195343280?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a7med1st"><b>Ahmed M. Al-Shaikh Khalil</b></a><br><sub>&#64;a7med1st · 0 followers</sub></td>
 <td align="right"><b>220</b></td>
 <td align="right">216</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/hashimsaffarini"><img src="https://avatars.githubusercontent.com/u/124286269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hashimsaffarini"><b>Hashim Saffarini</b></a><br><sub>&#64;hashimsaffarini · 126 followers</sub></td>
 <td align="right"><b>205</b></td>
 <td align="right">197</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/heba-mustafa59"><img src="https://avatars.githubusercontent.com/u/163648306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heba-mustafa59"><b>Heba Jalil ☆</b></a><br><sub>&#64;heba-mustafa59 · 645 followers</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">103</td>
@@ -123,8 +132,8 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
-<td><a href="https://github.com/AsselAlAssel"><img src="https://avatars.githubusercontent.com/u/77459566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AsselAlAssel"><b>AsselAlAssel</b></a><br><sub>&#64;AsselAlAssel · 104 followers</sub></td>
+<td align="right">13</td>
+<td><a href="https://github.com/AsselAlAssel"><img src="https://avatars.githubusercontent.com/u/77459566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AsselAlAssel"><b>AsselAlAssel</b></a><br><sub>&#64;AsselAlAssel · 103 followers</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">87</td>
 <td align="right">24</td>
@@ -132,7 +141,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/maisamkhader363-a11y"><img src="https://avatars.githubusercontent.com/u/236195981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maisamkhader363-a11y"><b>Maisam khader</b></a><br><sub>&#64;maisamkhader363-a11y · 0 followers</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">55</td>
@@ -141,7 +150,25 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
+<td><a href="https://github.com/waleedafifi90"><img src="https://avatars.githubusercontent.com/u/57403758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/waleedafifi90"><b>Waleed A. Afifi</b></a><br><sub>&#64;waleedafifi90 · 103 followers</sub></td>
+<td align="right"><b>69</b></td>
+<td align="right">60</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/skmail"><img src="https://avatars.githubusercontent.com/u/3670810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skmail"><b>skmail</b></a><br><sub>&#64;skmail · 107 followers</sub></td>
+<td align="right"><b>63</b></td>
+<td align="right">60</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/MohammedAnwar18"><img src="https://avatars.githubusercontent.com/u/105022929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohammedAnwar18"><b>Mohammed Anwar</b></a><br><sub>&#64;MohammedAnwar18 · 0 followers</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">37</td>
@@ -150,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">18</td>
 <td><a href="https://github.com/abedAbulail"><img src="https://avatars.githubusercontent.com/u/167705829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abedAbulail"><b>ABEDALRAHMAN ABULAIL</b></a><br><sub>&#64;abedAbulail · 0 followers</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">32</td>
@@ -159,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">19</td>
 <td><a href="https://github.com/msafadi"><img src="https://avatars.githubusercontent.com/u/301707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msafadi"><b>Mohammed Safadi</b></a><br><sub>&#64;msafadi · 494 followers</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">36</td>
@@ -168,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
 <td><a href="https://github.com/sunnyfoggy"><img src="https://avatars.githubusercontent.com/u/191257357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sunnyfoggy"><b>Sunny</b></a><br><sub>&#64;sunnyfoggy · 480 followers</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">34</td>
@@ -177,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/ahedmafarjeh"><img src="https://avatars.githubusercontent.com/u/91636357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahedmafarjeh"><b>Ahed Mafarjeh</b></a><br><sub>&#64;ahedmafarjeh · 0 followers</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">23</td>
@@ -186,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">22</td>
 <td><a href="https://github.com/1242890-pixel"><img src="https://avatars.githubusercontent.com/u/294304798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1242890-pixel"><b>ahmed idkadiek</b></a><br><sub>&#64;1242890-pixel · 0 followers</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">18</td>
@@ -195,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">23</td>
 <td><a href="https://github.com/salahamassi"><img src="https://avatars.githubusercontent.com/u/17902030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/salahamassi"><b>Salah Nahed</b></a><br><sub>&#64;salahamassi · 104 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">20</td>
@@ -204,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">24</td>
 <td><a href="https://github.com/TareqK"><img src="https://avatars.githubusercontent.com/u/18736962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TareqK"><b>Tareq Kirresh طارق قرش</b></a><br><sub>&#64;TareqK · 98 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">19</td>
@@ -213,7 +240,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">25</td>
 <td><a href="https://github.com/ahmadRagheb"><img src="https://avatars.githubusercontent.com/u/23044675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmadRagheb"><b>ahmadRagheb</b></a><br><sub>&#64;ahmadRagheb · 78 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
@@ -222,7 +249,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">26</td>
 <td><a href="https://github.com/shadeed"><img src="https://avatars.githubusercontent.com/u/8038659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shadeed"><b>Ahmad Shadeed</b></a><br><sub>&#64;shadeed · 1,858 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -231,7 +258,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">27</td>
+<td><a href="https://github.com/wafa200099"><img src="https://avatars.githubusercontent.com/u/79041670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wafa200099"><b>wafa alomour</b></a><br><sub>&#64;wafa200099 · 163 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/abasjr"><img src="https://avatars.githubusercontent.com/u/36306922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abasjr"><b>Abas D. Baskoro</b></a><br><sub>&#64;abasjr · 148 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -246,7 +282,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 32 of 406 discovered developers (374 awaiting measurement).
+- **Measured:** 36 of 408 discovered developers (372 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 141 in round 1.

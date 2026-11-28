@@ -5,7 +5,7 @@
 "country": {"code":"VG","name":"British Virgin Islands","slug":"british-virgin-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":86,"measuredAccounts":42,"measurementBacklog":44,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":19,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":86,"measuredAccounts":47,"measurementBacklog":39,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":19,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBv6zYw","login":"AI-Isaiah","name":null,"url":"https://github.com/AI-Isaiah","avatarUrl":"https://avatars.githubusercontent.com/u/117355363?s=80&v=4","followers":4,"publicRepos":26,"location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":4068,"commits":2839,"pullRequests":1181,"reviews":0,"issues":43,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjUzMjMz","login":"justmoon","name":"Stefan Thomas","url":"https://github.com/justmoon","avatarUrl":"https://avatars.githubusercontent.com/u/53233?s=80&v=4","followers":555,"publicRepos":156,"location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27","contributions":{"public":1848,"commits":1848,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
@@ -24,8 +24,8 @@
   {"rank":15,"id":"U_kgDOEE1hog","login":"DeLenglobal","name":"Delen Global","url":"https://github.com/DeLenglobal","avatarUrl":"https://avatars.githubusercontent.com/u/273506722?s=80&v=4","followers":0,"publicRepos":1,"location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-28","contributions":{"public":3,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-28T03:00:00Z","windowTo":"2026-11-28T03:00:00Z","measuredOn":"2026-11-28"}},
   {"rank":16,"id":"U_kgDOERvHaQ","login":"cryptsurf","name":"CryptSurf VPN","url":"https://github.com/cryptsurf","avatarUrl":"https://avatars.githubusercontent.com/u/287033193?s=80&v=4","followers":0,"publicRepos":1,"location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "4bfa08233af3f536",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "fd52ed0ba6d73e9d",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

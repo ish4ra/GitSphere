@@ -527,45 +527,45 @@
 </tr>
 <tr>
 <td align="right">73</td>
-<td><a href="https://github.com/lkfo415579"><img src="https://avatars.githubusercontent.com/u/10741881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lkfo415579"><b>Revo</b></a><br><sub>&#64;lkfo415579</sub></td>
-<td align="right"><b>18</b></td>
-<td align="right">66</td>
-<td><sub>Macau</sub></td>
-</tr>
-<tr>
-<td align="right">74</td>
 <td><a href="https://github.com/BeteixZ"><img src="https://avatars.githubusercontent.com/u/17287792?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BeteixZ"><b>Izaiah Zhang</b></a><br><sub>&#64;BeteixZ</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">30</td>
 <td><sub>Macau</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">74</td>
 <td><a href="https://github.com/amangkim"><img src="https://avatars.githubusercontent.com/u/46288213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amangkim"><b>Amang Kim</b></a><br><sub>&#64;amangkim</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">13</td>
 <td><sub>Macau, SAR</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">75</td>
 <td><a href="https://github.com/igarashikenshin"><img src="https://avatars.githubusercontent.com/u/22168953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/igarashikenshin"><b>yanlau</b></a><br><sub>&#64;igarashikenshin</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">12</td>
 <td><sub>Macau</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">76</td>
 <td><a href="https://github.com/WeirongChen"><img src="https://avatars.githubusercontent.com/u/25228432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WeirongChen"><b>WEI-RONG CHEN</b></a><br><sub>&#64;WeirongChen</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">12</td>
 <td><sub>Macao SAR</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">77</td>
 <td><a href="https://github.com/icechain"><img src="https://avatars.githubusercontent.com/u/44037913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icechain"><b>IceChain</b></a><br><sub>&#64;icechain</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">2</td>
 <td><sub>Macao</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/lkfo415579"><img src="https://avatars.githubusercontent.com/u/10741881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lkfo415579"><b>Revo</b></a><br><sub>&#64;lkfo415579</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">66</td>
+<td><sub>Macau</sub></td>
 </tr>
 <tr>
 <td align="right">79</td>
@@ -1677,7 +1677,7 @@
 <td align="right">237</td>
 <td><a href="https://github.com/weng-pang"><img src="https://avatars.githubusercontent.com/u/7587960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/weng-pang"><b>Weng Long Pang</b></a><br><sub>&#64;weng-pang</sub></td>
 <td align="right"><b>3</b></td>
-<td align="right">71</td>
+<td align="right">72</td>
 <td><sub>Macao</sub></td>
 </tr>
 <tr>

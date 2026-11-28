@@ -5,13 +5,14 @@
 "country": {"code":"FJ","name":"Fiji","slug":"fiji"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":272,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":120,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":251,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":117,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDORrasTQ","name":"ppt-agent-workflow-san","nameWithOwner":"mucsbr/ppt-agent-workflow-san","url":"https://github.com/mucsbr/ppt-agent-workflow-san","description":"渐进交互式ppt生成skill","stars":657,"forks":68,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-03-19T15:03:16Z","pushedAt":"2026-09-02T15:14:03Z","archived":false,"owner":{"login":"mucsbr","name":"beingS","type":"User","url":"https://github.com/mucsbr","location":"0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"},
-  {"rank":2,"id":"R_kgDOG6nywg","name":"PrivacySpace","nameWithOwner":"GeekTR/PrivacySpace","url":"https://github.com/GeekTR/PrivacySpace","description":"隐秘空间/PrivacySpace","stars":272,"forks":35,"primaryLanguage":"Kotlin","license":{"spdxId":"MIT"},"createdAt":"2022-02-27T11:54:25Z","pushedAt":"2022-05-18T08:39:22Z","archived":false,"owner":{"login":"GeekTR","name":"Rui Tang","type":"User","url":"https://github.com/GeekTR","location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
+  {"rank":2,"id":"R_kgDOG6nywg","name":"PrivacySpace","nameWithOwner":"GeekTR/PrivacySpace","url":"https://github.com/GeekTR/PrivacySpace","description":"隐秘空间/PrivacySpace","stars":272,"forks":35,"primaryLanguage":"Kotlin","license":{"spdxId":"MIT"},"createdAt":"2022-02-27T11:54:25Z","pushedAt":"2022-05-18T08:39:22Z","archived":false,"owner":{"login":"GeekTR","name":"Rui Tang","type":"User","url":"https://github.com/GeekTR","location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"},
+  {"rank":3,"id":"MDEwOlJlcG9zaXRvcnk3MDY3MjM3Ng==","name":"jon","nameWithOwner":"JonGates/jon","url":"https://github.com/JonGates/jon","description":"jon 是一款LINUX系统攻防工具箱，包含扫描，入侵，痕迹清理，木马，网站测试等各种黑客工具。Jon is a toolbox of Linux, including scanning, intrusion, trace cleaning, Trojan horse, website testing and oth…","stars":251,"forks":53,"primaryLanguage":"C","license":null,"createdAt":"2016-10-12T07:01:38Z","pushedAt":"2016-10-12T07:08:58Z","archived":false,"owner":{"login":"JonGates","name":"Jon Gates","type":"User","url":"https://github.com/JonGates","location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "e796c2d0497a7553",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "b634c324f150cebe",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-28",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

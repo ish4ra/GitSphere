@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 25 Nov 2026 | <a href="../data/GH.json">JSON</a> |
+| 🟡 Provisional | **11** | 25 Nov 2026 | <a href="../data/GH.json">JSON</a> |
 
 </div>
 
@@ -91,6 +91,13 @@
 <td align="right">15</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/MusheAbdulHakim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MusheAbdulHakim/Laravel-Smarthr"><b>MusheAbdulHakim/Laravel-Smarthr</b></a><br><sub>A complete hr management system developed with the laravel framework.</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">123</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -99,8 +106,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 275 stars; 10 attributed candidates are tracked.
-- 121 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 252 stars; 11 attributed candidates are tracked.
+- 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

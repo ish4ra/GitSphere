@@ -206,7 +206,7 @@
 <tr>
 <td align="right">27</td>
 <td><a href="https://github.com/tochratana"><img src="https://avatars.githubusercontent.com/u/159990218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tochratana"><b>Toch Ratana</b></a><br><sub>&#64;tochratana</sub></td>
-<td align="right"><b>105</b></td>
+<td align="right"><b>104</b></td>
 <td align="right">73</td>
 <td><sub>Phnom Penh, Cambodia</sub></td>
 </tr>
@@ -220,7 +220,7 @@
 <tr>
 <td align="right">29</td>
 <td><a href="https://github.com/phathsopheakmeangkuol2007-netizen"><img src="https://avatars.githubusercontent.com/u/234181718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phathsopheakmeangkuol2007-netizen"><b>Phath Sopheakmeangkuol</b></a><br><sub>&#64;phathsopheakmeangkuol2007-netizen</sub></td>
-<td align="right"><b>101</b></td>
+<td align="right"><b>103</b></td>
 <td align="right">16</td>
 <td><sub>Cambodia</sub></td>
 </tr>

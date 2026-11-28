@@ -324,17 +324,17 @@
 </tr>
 <tr>
 <td align="right">44</td>
+<td><a href="https://github.com/APKnation"><img src="https://avatars.githubusercontent.com/u/189861655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/APKnation"><b>AtanasI Kafuka</b></a><br><sub>&#64;APKnation</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">57</td>
+<td><sub>DODOMA -TANZANIA</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
 <td><a href="https://github.com/gisacc54"><img src="https://avatars.githubusercontent.com/u/26409239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gisacc54"><b>Gift Msigwa</b></a><br><sub>&#64;gisacc54</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">64</td>
 <td><sub>Tanzania</sub></td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><a href="https://github.com/APKnation"><img src="https://avatars.githubusercontent.com/u/189861655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/APKnation"><b>apk</b></a><br><sub>&#64;APKnation</sub></td>
-<td align="right"><b>118</b></td>
-<td align="right">57</td>
-<td><sub>DODOMA -TANZANIA</sub></td>
 </tr>
 <tr>
 <td align="right">46</td>
@@ -374,7 +374,7 @@
 <tr>
 <td align="right">51</td>
 <td><a href="https://github.com/zechtz"><img src="https://avatars.githubusercontent.com/u/5102513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zechtz"><b>Mtabe</b></a><br><sub>&#64;zechtz</sub></td>
-<td align="right"><b>108</b></td>
+<td align="right"><b>106</b></td>
 <td align="right">111</td>
 <td><sub>Arusha Tanzania</sub></td>
 </tr>

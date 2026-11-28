@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **51** | 25 Nov 2026 | <a href="../data/UY.json">JSON</a> |
+| 🟡 Provisional | **58** | 25 Nov 2026 | <a href="../data/UY.json">JSON</a> |
 
 </div>
 
@@ -378,6 +378,55 @@
 <td align="right">26</td>
 <td>Ruby</td>
 </tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/pote.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pote/gvp"><b>pote/gvp</b></a><br><sub>Go Versioning Packager</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">28</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/HorusSoftwareUY.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin"><b>HorusSoftwareUY/MaterialDesignControlsPlugin</b></a> <sub>archived</sub><br><sub>Material Design Controls Plugin for Xamarin.Forms</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">36</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/ElMassimo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ElMassimo/vite-plugin-image-presets"><b>ElMassimo/vite-plugin-image-presets</b></a><br><sub>🖼 Image Presets for Vite.js apps</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">7</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/httpdss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/httpdss/collectd-web"><b>httpdss/collectd-web</b></a><br><sub>Modern, customizable web frontend for Collectd. Visualize system metrics through a responsive dashboard, deploy in minu…</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">73</td>
+<td>Perl</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/spastorino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spastorino/dynosaur"><b>spastorino/dynosaur</b></a></td>
+<td align="right"><b>257</b></td>
+<td align="right">14</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/ionicthemes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ionicthemes/ionic-wordpress-integration"><b>ionicthemes/ionic-wordpress-integration</b></a><br><sub>Ionic Wordpress starter app 😎. Learn how to communicate your ionic app with Wordpress REST API with this starter and d…</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">123</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/atarallo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atarallo/TECMINT_MONITOR"><b>atarallo/TECMINT&#95;MONITOR</b></a><br><sub>A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM Usage in Linux. Originally published on htt…</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">148</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -386,8 +435,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 274 stars; 51 attributed candidates are tracked.
-- 104 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 251 stars; 58 attributed candidates are tracked.
+- 103 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 80 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

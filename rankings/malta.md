@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 25 Nov 2026 | <a href="../data/MT.json">JSON</a> |
+| 🟡 Provisional | **25** | 25 Nov 2026 | <a href="../data/MT.json">JSON</a> |
 
 </div>
 
@@ -182,6 +182,20 @@
 <td align="right">36</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/mattcg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mattcg/socks5-http-client"><b>mattcg/socks5-http-client</b></a><br><sub>SOCKS v5 HTTP client implementation in JavaScript for Node.js.</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">27</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/CM2Walki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CM2Walki/CSGO"><b>CM2Walki/CSGO</b></a> <sub>archived</sub><br><sub>Dockerfile for automated build of a CS:GO gameserver: https://hub.docker.com/r/cm2network/csgo/</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">78</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -190,8 +204,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 271 stars; 23 attributed candidates are tracked.
-- 80 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 252 stars; 25 attributed candidates are tracked.
+- 73 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 104 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

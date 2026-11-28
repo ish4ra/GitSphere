@@ -5,12 +5,12 @@
 "country": {"code":"NU","name":"Niue","slug":"niue"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":15,"measuredAccounts":15,"measurementBacklog":0,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":15,"measuredAccounts":15,"measurementBacklog":0,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":20,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjkwNjEwNzk=","login":"Kasp42","name":"Vladislav Kasperov","url":"https://github.com/Kasp42","avatarUrl":"https://avatars.githubusercontent.com/u/9061079?s=80&v=4","followers":3,"publicRepos":20,"location":"Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":128,"commits":112,"pullRequests":7,"reviews":4,"issues":0,"repositories":5,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "e285da62632dc1df",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "5a5a181a90b84bd5",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

@@ -23,17 +23,17 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/PrinsFrank"><img src="https://avatars.githubusercontent.com/u/25006490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PrinsFrank"><b>PrinsFrank</b></a><br><sub>&#64;PrinsFrank</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">101</td>
+<td><sub>Haarlem, Netherlands &amp; Longyearbyen, Svalbard</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/10d9e"><img src="https://avatars.githubusercontent.com/u/1556714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/10d9e"><b>lodge</b></a><br><sub>&#64;10d9e</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">116</td>
 <td><sub>Svalbard</sub></td>
-</tr>
-<tr>
-<td align="right">2</td>
-<td><a href="https://github.com/PrinsFrank"><img src="https://avatars.githubusercontent.com/u/25006490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PrinsFrank"><b>PrinsFrank</b></a><br><sub>&#64;PrinsFrank</sub></td>
-<td align="right"><b>106</b></td>
-<td align="right">101</td>
-<td><sub>Haarlem, Netherlands &amp; Longyearbyen, Svalbard</sub></td>
 </tr>
 <tr>
 <td align="right">3</td>

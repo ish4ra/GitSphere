@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/Venderbad"><img src="https://avatars.githubusercontent.com/u/70248957?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Venderbad"><b>Zed L</b></a><br><sub>&#64;Venderbad</sub></td>
-<td align="right"><b>35</b></td>
+<td align="right"><b>34</b></td>
 <td align="right">20</td>
 <td><sub>Bermuda, Under The Sea</sub></td>
 </tr>

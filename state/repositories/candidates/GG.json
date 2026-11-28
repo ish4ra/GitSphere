@@ -1,8 +1,10 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GG","name":"Guernsey","slug":"guernsey"},
-"count": 1,
+"count": 3,
 "repositories": [
-  {"id":"R_kgDOK9-v8A","name":"tris203/precognition.nvim","stars":1388,"forks":17,"language":"Lua","license":"MIT","description":"💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.","archived":false,"createdAt":"2023-12-26T23:49:41Z","pushedAt":"2026-10-15T10:52:43Z","owner":{"id":"MDQ6VXNlcjE4NDQ0MzAy","login":"tris203","type":"User","name":"Tristan Knight","location":"Guernsey"},"attribution":{"code":"GG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-26T18:56:52.569Z","verifiedAt":"2026-11-26T18:56:52.569Z","cycle":1,"revalidatedAt":"2026-11-26T18:56:52.569Z"}
+  {"id":"R_kgDOK9-v8A","name":"tris203/precognition.nvim","stars":1388,"forks":17,"language":"Lua","license":"MIT","description":"💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.","archived":false,"createdAt":"2023-12-26T23:49:41Z","pushedAt":"2026-10-15T10:52:43Z","owner":{"id":"MDQ6VXNlcjE4NDQ0MzAy","login":"tris203","type":"User","name":"Tristan Knight","location":"Guernsey"},"attribution":{"code":"GG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-26T18:56:52.569Z","verifiedAt":"2026-11-26T18:56:52.569Z","cycle":1,"revalidatedAt":"2026-11-26T18:56:52.569Z"},
+  {"id":"MDEwOlJlcG9zaXRvcnkxNzkxNzQ1","name":"damieng/DamienGKit","stars":264,"forks":159,"language":"C#","license":"NOASSERTION","description":"Useful utility classes and helpers from DamienG.com","archived":false,"createdAt":"2011-05-24T04:49:03Z","pushedAt":"2026-05-21T14:09:06Z","owner":{"id":"MDQ6VXNlcjExODk1MQ==","login":"damieng","type":"User","name":"Damien Guard","location":"Guernsey"},"attribution":{"code":"GG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-28T11:44:33.205Z","verifiedAt":"2026-11-28T11:44:33.205Z","cycle":1},
+  {"id":"R_kgDOKzfYpw","name":"tris203/hawtkeys.nvim","stars":251,"forks":6,"language":"Lua","license":"MIT","description":"⌨️🔥 Suggest new easy to hit keymaps and find issues with your current key map configurations","archived":false,"createdAt":"2023-11-29T11:54:35Z","pushedAt":"2026-03-09T20:05:58Z","owner":{"id":"MDQ6VXNlcjE4NDQ0MzAy","login":"tris203","type":"User","name":"Tristan Knight","location":"Guernsey"},"attribution":{"code":"GG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-28T11:53:01.237Z","verifiedAt":"2026-11-28T11:53:01.237Z","cycle":1}
 ]
 }

@@ -5,7 +5,7 @@
 "country": {"code":"TC","name":"Turks & Caicos Islands","slug":"turks-caicos-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":20,"ownerExpansionBacklog":25,"candidates":20,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":29,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":20,"ownerExpansionBacklog":24,"candidates":20,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":29,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"anayadoraelk","nameWithOwner":"anayadoraelk/anayadoraelk","url":"https://github.com/anayadoraelk/anayadoraelk","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-14T07:46:00Z","pushedAt":"2024-09-14T07:46:10Z","archived":false,"owner":{"login":"anayadoraelk","name":null,"type":"User","url":"https://github.com/anayadoraelk","location":"Turks & Caicos Islands (TC)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"aquaeliakruger","nameWithOwner":"aquaeliakruger/aquaeliakruger","url":"https://github.com/aquaeliakruger/aquaeliakruger","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-14T07:35:30Z","pushedAt":"2024-09-14T07:35:45Z","archived":false,"owner":{"login":"aquaeliakruger","name":null,"type":"User","url":"https://github.com/aquaeliakruger","location":"Turks & Caicos Islands (TC)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
@@ -28,8 +28,8 @@
   {"rank":19,"id":null,"name":"VSSApi","nameWithOwner":"TargonYazilim/VSSApi","url":"https://github.com/TargonYazilim/VSSApi","description":null,"stars":0,"forks":0,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2024-08-29T17:57:30Z","pushedAt":"2024-08-29T17:58:27Z","archived":false,"owner":{"login":"TargonYazilim","name":"Targon","type":"Organization","url":"https://github.com/TargonYazilim","location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
   {"rank":20,"id":null,"name":"theme","nameWithOwner":"techpreneur02/theme","url":"https://github.com/techpreneur02/theme","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2026-07-05T05:37:04Z","pushedAt":"2026-07-05T05:37:48Z","archived":false,"owner":{"login":"techpreneur02","name":"Sherwin Cruz","type":"User","url":"https://github.com/techpreneur02","location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true}
 ],
-"contentHash": "03a00d07d2323ff4",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "8777bd40419c9256",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-10-31",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

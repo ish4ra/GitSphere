@@ -5,14 +5,14 @@
 "country": {"code":"TD","name":"Chad","slug":"chad"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1810,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":141,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":74,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1810,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":138,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":74,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMjUzODEzMTg=","name":"adversarial-robustness-toolbox","nameWithOwner":"Trusted-AI/adversarial-robustness-toolbox","url":"https://github.com/Trusted-AI/adversarial-robustness-toolbox","description":"Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams","stars":6330,"forks":1357,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2018-03-15T14:40:43Z","pushedAt":"2026-11-25T07:52:43Z","archived":false,"owner":{"login":"Trusted-AI","name":"Trusted-AI","type":"Organization","url":"https://github.com/Trusted-AI","location":"IBM","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxNDU3NjExMjM=","name":"AIF360","nameWithOwner":"Trusted-AI/AIF360","url":"https://github.com/Trusted-AI/AIF360","description":"A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets a…","stars":2885,"forks":930,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2018-08-22T20:47:15Z","pushedAt":"2026-06-15T19:55:33Z","archived":false,"owner":{"login":"Trusted-AI","name":"Trusted-AI","type":"Organization","url":"https://github.com/Trusted-AI","location":"IBM","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-26"},
   {"rank":3,"id":"MDEwOlJlcG9zaXRvcnkxOTYzNDA5MDc=","name":"AIX360","nameWithOwner":"Trusted-AI/AIX360","url":"https://github.com/Trusted-AI/AIX360","description":"Interpretability and explainability of data and machine learning models","stars":1810,"forks":329,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2019-07-11T07:17:48Z","pushedAt":"2026-09-05T16:08:26Z","archived":false,"owner":{"login":"Trusted-AI","name":"Trusted-AI","type":"Organization","url":"https://github.com/Trusted-AI","location":"IBM","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "fe7c1b22ac8e4eb1",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "1cd008065acda924",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

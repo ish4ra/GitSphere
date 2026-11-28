@@ -5,7 +5,7 @@
 "country": {"code":"MF","name":"St. Martin","slug":"st-martin"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":26,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":12,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":26,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":12,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ2ODIzMjg=","login":"Sandra97","name":"Sandra Decoux","url":"https://github.com/Sandra97","avatarUrl":"https://avatars.githubusercontent.com/u/4682328?s=80&v=4","followers":21,"publicRepos":17,"location":"Saint-Martin (Caribbean)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"U_kgDOCJ-JFw","login":"lucilebgt","name":"Lucile Bergeat","url":"https://github.com/lucilebgt","avatarUrl":"https://avatars.githubusercontent.com/u/144673047?s=80&v=4","followers":13,"publicRepos":18,"location":"saint martin","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -34,8 +34,8 @@
   {"rank":25,"id":"U_kgDOCzxVyw","login":"thierrysxm97150","name":null,"url":"https://github.com/thierrysxm97150","avatarUrl":"https://avatars.githubusercontent.com/u/188503499?s=80&v=4","followers":0,"publicRepos":0,"location":"saint martin","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"},
   {"rank":26,"id":"MDQ6VXNlcjE5MjI3MzQ2","login":"WillyHoteratus","name":"Willy","url":"https://github.com/WillyHoteratus","avatarUrl":"https://avatars.githubusercontent.com/u/19227346?s=80&v=4","followers":0,"publicRepos":0,"location":"Saint Martin","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "8a559bed07d233b0",
-"updatedAt": "2026-11-27T20:39:08.642Z",
+"contentHash": "c23dd95def64ce45",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-27T20:39:08.642Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

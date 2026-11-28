@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **79** | 25 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟡 Provisional | **86** | 25 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -325,7 +325,7 @@
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/alekseykulikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alekseykulikov/storage"><b>alekseykulikov/storage</b></a><br><sub>Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage)</sub></td>
-<td align="right"><b>595</b></td>
+<td align="right"><b>594</b></td>
 <td align="right">20</td>
 <td>JavaScript</td>
 </tr>
@@ -574,6 +574,55 @@
 <td align="right">67</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/tinrab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tinrab/meower"><b>tinrab/meower</b></a><br><sub>Social network for cats</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">44</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/inejc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/inejc/painters"><b>inejc/painters</b></a><br><sub>:art: Winning solution for the Painter by Numbers competition on Kaggle.</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">55</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/Vaskivskyi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vaskivskyi/ha-asusrouter"><b>Vaskivskyi/ha-asusrouter</b></a><br><sub>Monitor and control your AsusWRT-powered router from Home Assistant</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">35</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/IRNAS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IRNAS/ppk2-api-python"><b>IRNAS/ppk2-api-python</b></a><br><sub>Power Profiling Kit 2 unofficial python api.</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">69</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/inueni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/inueni/birdy"><b>inueni/birdy</b></a><br><sub>A super awesome Twitter API client for Python.</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">45</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/mitjafelicijan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mitjafelicijan/xdgctl"><b>mitjafelicijan/xdgctl</b></a><br><sub>TUI for managing XDG default applications</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">3</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/damogranlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/damogranlabs/VS-Code-STM32-IDE"><b>damogranlabs/VS-Code-STM32-IDE</b></a> <sub>archived</sub><br><sub>Use VS Code as STM32 IDE with CubeMX</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">50</td>
+<td>C</td>
+</tr>
 </tbody>
 </table>
 
@@ -582,8 +631,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 275 stars; 79 attributed candidates are tracked.
-- 75 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 254 stars; 86 attributed candidates are tracked.
+- 71 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

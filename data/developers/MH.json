@@ -5,7 +5,7 @@
 "country": {"code":"MH","name":"Marshall Islands","slug":"marshall-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":38,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":62,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":38,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":9,"terms":62,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUyMDU2OTk=","login":"Naville","name":"Zhang","url":"https://github.com/Naville","avatarUrl":"https://avatars.githubusercontent.com/u/5205699?s=80&v=4","followers":1319,"publicRepos":22,"location":"lib/Analysis","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-28"},
   {"rank":2,"id":"U_kgDOCCV75Q","login":"P20-ORG","name":"P20","url":"https://github.com/P20-ORG","avatarUrl":"https://avatars.githubusercontent.com/u/136674277?s=80&v=4","followers":713,"publicRepos":1,"location":"Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
@@ -40,14 +40,14 @@
   {"rank":31,"id":"MDQ6VXNlcjYwNzI2MDA3","login":"dbobrien","name":"Derrick Bukka O'Brien","url":"https://github.com/dbobrien","avatarUrl":"https://avatars.githubusercontent.com/u/60726007?s=80&v=4","followers":0,"publicRepos":0,"location":"Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-28"},
   {"rank":32,"id":"MDQ6VXNlcjI4OTk0MTY3","login":"effertz86202","name":"Suzanne Effertz","url":"https://github.com/effertz86202","avatarUrl":"https://avatars.githubusercontent.com/u/28994167?s=80&v=4","followers":0,"publicRepos":0,"location":"Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-28"},
   {"rank":33,"id":"MDQ6VXNlcjg1MjYxMjE4","login":"goldenscode","name":"GT","url":"https://github.com/goldenscode","avatarUrl":"https://avatars.githubusercontent.com/u/85261218?s=80&v=4","followers":0,"publicRepos":0,"location":"Republic of the Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-28"},
-  {"rank":34,"id":"MDQ6VXNlcjIyOTkxMzk5","login":"keanulebsack","name":"Jan","url":"https://github.com/keanulebsack","avatarUrl":"https://avatars.githubusercontent.com/u/22991399?s=80&v=4","followers":0,"publicRepos":0,"location":"Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":35,"id":"U_kgDODZYqwQ","login":"kobe-bryant90","name":"big fish","url":"https://github.com/kobe-bryant90","avatarUrl":"https://avatars.githubusercontent.com/u/227945153?s=80&v=4","followers":0,"publicRepos":0,"location":"marshall islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":36,"id":"MDQ6VXNlcjMwMTkzNTAy","login":"opalihall","name":"Neuro Boost IQ","url":"https://github.com/opalihall","avatarUrl":"https://avatars.githubusercontent.com/u/30193502?s=80&v=4","followers":0,"publicRepos":0,"location":"Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":37,"id":"MDQ6VXNlcjI0ODQ5NTg4","login":"Trade12Trading","name":null,"url":"https://github.com/Trade12Trading","avatarUrl":"https://avatars.githubusercontent.com/u/24849588?s=80&v=4","followers":0,"publicRepos":0,"location":"Majuro, Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":34,"id":"MDQ6VXNlcjIyOTkxMzk5","login":"keanulebsack","name":"Jan","url":"https://github.com/keanulebsack","avatarUrl":"https://avatars.githubusercontent.com/u/22991399?s=80&v=4","followers":0,"publicRepos":0,"location":"Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-28"},
+  {"rank":35,"id":"U_kgDODZYqwQ","login":"kobe-bryant90","name":"big fish","url":"https://github.com/kobe-bryant90","avatarUrl":"https://avatars.githubusercontent.com/u/227945153?s=80&v=4","followers":0,"publicRepos":0,"location":"marshall islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-28"},
+  {"rank":36,"id":"MDQ6VXNlcjMwMTkzNTAy","login":"opalihall","name":"Neuro Boost IQ","url":"https://github.com/opalihall","avatarUrl":"https://avatars.githubusercontent.com/u/30193502?s=80&v=4","followers":0,"publicRepos":0,"location":"Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-28"},
+  {"rank":37,"id":"MDQ6VXNlcjI0ODQ5NTg4","login":"Trade12Trading","name":null,"url":"https://github.com/Trade12Trading","avatarUrl":"https://avatars.githubusercontent.com/u/24849588?s=80&v=4","followers":0,"publicRepos":0,"location":"Majuro, Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-28"},
   {"rank":38,"id":"U_kgDOB8VGyg","login":"Unli5672","name":"Kai kisim","url":"https://github.com/Unli5672","avatarUrl":"https://avatars.githubusercontent.com/u/130369226?s=80&v=4","followers":0,"publicRepos":0,"location":"Marshall Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "c758bd759ef80610",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "cd5424aa6d218c2a",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

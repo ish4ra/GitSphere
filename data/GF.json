@@ -5,13 +5,13 @@
 "country": {"code":"GF","name":"French Guiana","slug":"french-guiana"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1274,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":65,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":35,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1274,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":63,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":35,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzODg4NDAzNTE=","name":"Mortal","nameWithOwner":"Equim-chan/Mortal","url":"https://github.com/Equim-chan/Mortal","description":"🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.","stars":1623,"forks":235,"primaryLanguage":"Rust","license":{"spdxId":"AGPL-3.0"},"createdAt":"2021-07-23T15:08:48Z","pushedAt":"2025-09-28T14:29:24Z","archived":false,"owner":{"login":"Equim-chan","name":"Equim","type":"User","url":"https://github.com/Equim-chan","location":"GF(2)","attribution":{"confidence":"medium","evidence":"country-code"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyNDM4MTA2NzI=","name":"mjai-reviewer","nameWithOwner":"Equim-chan/mjai-reviewer","url":"https://github.com/Equim-chan/mjai-reviewer","description":"🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.","stars":1274,"forks":142,"primaryLanguage":"Rust","license":{"spdxId":"Apache-2.0"},"createdAt":"2020-02-28T16:49:04Z","pushedAt":"2025-02-22T07:35:31Z","archived":false,"owner":{"login":"Equim-chan","name":"Equim","type":"User","url":"https://github.com/Equim-chan","location":"GF(2)","attribution":{"confidence":"medium","evidence":"country-code"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "22065bc93d9329bb",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "9ceae777ea69dd6d",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-26",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

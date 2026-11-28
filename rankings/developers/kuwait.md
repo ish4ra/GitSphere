@@ -221,7 +221,7 @@
 <td align="right">29</td>
 <td><a href="https://github.com/Maryom"><img src="https://avatars.githubusercontent.com/u/3218401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maryom"><b>Mariam AlJamea</b></a><br><sub>&#64;Maryom</sub></td>
 <td align="right"><b>60</b></td>
-<td align="right">46</td>
+<td align="right">45</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 <tr>

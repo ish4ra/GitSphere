@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 23 Nov 2026 | <a href="../../data/developers/MS.json">JSON</a> |
+| 🟢 Published | **18** | 23 Nov 2026 | <a href="../../data/developers/MS.json">JSON</a> |
 
 </div>
 
@@ -153,10 +153,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running.
+- **Status:** Published. Every discovery term for this country was searched without unresolved partitions and the global scan has passed this ranking’s cutoff where applicable.
+- **Basis:** certified by complete location discovery for this country.
 - Organizations are excluded. 18 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 6 of 8 in round 1.
+- **Location discovery:** round completed 28 Nov 2026.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

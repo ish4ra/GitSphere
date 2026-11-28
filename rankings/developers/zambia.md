@@ -114,38 +114,38 @@
 </tr>
 <tr>
 <td align="right">14</td>
-<td><a href="https://github.com/swengineermwi"><img src="https://avatars.githubusercontent.com/u/40128242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/swengineermwi"><b>Mwila B.K.</b></a><br><sub>&#64;swengineermwi</sub></td>
-<td align="right"><b>114</b></td>
-<td align="right">58</td>
-<td><sub>Zambia</sub></td>
-</tr>
-<tr>
-<td align="right">15</td>
 <td><a href="https://github.com/KayLemba"><img src="https://avatars.githubusercontent.com/u/79506105?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KayLemba"><b>Kalolo Chola Lemba</b></a><br><sub>&#64;KayLemba</sub></td>
 <td align="right"><b>113</b></td>
 <td align="right">100</td>
 <td><sub>Lusaka, Zambia</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">15</td>
 <td><a href="https://github.com/twmbx"><img src="https://avatars.githubusercontent.com/u/536306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/twmbx"><b>Twaambo Haamucenje</b></a><br><sub>&#64;twmbx</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">30</td>
 <td><sub>Ndola, Zambia</sub></td>
 </tr>
 <tr>
+<td align="right">16</td>
+<td><a href="https://github.com/Beardless-sheik"><img src="https://avatars.githubusercontent.com/u/44676055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Beardless-sheik"><b>Alick Nyirenda</b></a><br><sub>&#64;Beardless-sheik</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">44</td>
+<td><sub>Lusaka, Zambia</sub></td>
+</tr>
+<tr>
 <td align="right">17</td>
 <td><a href="https://github.com/YambwaImwaka"><img src="https://avatars.githubusercontent.com/u/88658526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YambwaImwaka"><b>Yambwa Imwaka</b></a><br><sub>&#64;YambwaImwaka</sub></td>
-<td align="right"><b>107</b></td>
+<td align="right"><b>106</b></td>
 <td align="right">24</td>
 <td><sub>Zambia</sub></td>
 </tr>
 <tr>
 <td align="right">18</td>
-<td><a href="https://github.com/Beardless-sheik"><img src="https://avatars.githubusercontent.com/u/44676055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Beardless-sheik"><b>Alick Nyirenda</b></a><br><sub>&#64;Beardless-sheik</sub></td>
-<td align="right"><b>106</b></td>
-<td align="right">44</td>
-<td><sub>Lusaka, Zambia</sub></td>
+<td><a href="https://github.com/swengineermwi"><img src="https://avatars.githubusercontent.com/u/40128242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/swengineermwi"><b>Mwila B.K.</b></a><br><sub>&#64;swengineermwi</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">58</td>
+<td><sub>Zambia</sub></td>
 </tr>
 <tr>
 <td align="right">19</td>

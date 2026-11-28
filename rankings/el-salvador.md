@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **51** | 25 Nov 2026 | <a href="../data/SV.json">JSON</a> |
+| 🟡 Provisional | **54** | 25 Nov 2026 | <a href="../data/SV.json">JSON</a> |
 
 </div>
 
@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/Androz2091.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Androz2091/discord-player"><b>Androz2091/discord-player</b></a><br><sub>A powerful, high-performance music framework for Discord bots, featuring seamless playback, advanced audio filters, cro…</sub></td>
-<td align="right"><b>639</b></td>
+<td align="right"><b>638</b></td>
 <td align="right">195</td>
 <td>TypeScript</td>
 </tr>
@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/beihaili.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/beihaili/Get-Started-with-Web3"><b>beihaili/Get-Started-with-Web3</b></a><br><sub>Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt an…</sub></td>
-<td align="right"><b>614</b></td>
+<td align="right"><b>615</b></td>
 <td align="right">61</td>
 <td>JavaScript</td>
 </tr>
@@ -378,6 +378,27 @@
 <td align="right">14</td>
 <td>Swift</td>
 </tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/williamcruzme.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/williamcruzme/vue-gates"><b>williamcruzme/vue-gates</b></a><br><sub>🔒 A Vue.js &amp; Nuxt.js plugin that allows you to use roles and permissions in your components or DOM elements, also comp…</sub></td>
+<td align="right"><b>262</b></td>
+<td align="right">28</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/anthonyshort.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anthonyshort/stitch-css"><b>anthonyshort/stitch-css</b></a><br><sub>CSS patterns for Compass</sub></td>
+<td align="right"><b>258</b></td>
+<td align="right">18</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/rnag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rnag/dataclass-wizard"><b>rnag/dataclass-wizard</b></a><br><sub>Simple, elegant, wizarding tools for interacting with Python&#39;s dataclasses.</sub></td>
+<td align="right"><b>250</b></td>
+<td align="right">40</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -386,8 +407,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 270 stars; 51 attributed candidates are tracked.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 250 stars; 54 attributed candidates are tracked.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 71 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

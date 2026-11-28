@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 25 Nov 2026 | <a href="../data/TT.json">JSON</a> |
+| 🟡 Provisional | **21** | 25 Nov 2026 | <a href="../data/TT.json">JSON</a> |
 
 </div>
 
@@ -88,7 +88,7 @@
 <td align="right">10</td>
 <td><img src="https://github.com/labstack.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/labstack/gommon"><b>labstack/gommon</b></a><br><sub>Common packages for Go</sub></td>
 <td align="right"><b>598</b></td>
-<td align="right">105</td>
+<td align="right">106</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -161,6 +161,13 @@
 <td align="right">15</td>
 <td>CSS</td>
 </tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/hyusap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hyusap/deconstructor"><b>hyusap/deconstructor</b></a><br><sub>A beautiful and interactive web application that deconstructs words into their meaningful parts and explains their etym…</sub></td>
+<td align="right"><b>264</b></td>
+<td align="right">24</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -169,8 +176,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 304 stars; 20 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 264 stars; 21 attributed candidates are tracked.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 46 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

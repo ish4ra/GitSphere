@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CD","name":"DR Congo","slug":"dr-congo"},
-"count": 1,
+"count": 2,
 "repositories": [
-  {"id":"MDEwOlJlcG9zaXRvcnkzNTM1NDYwMTk=","name":"foocker/deeplearningtheory","stars":279,"forks":26,"license":"Apache-2.0","archived":false,"createdAt":"2021-04-01T02:14:18Z","pushedAt":"2026-03-14T03:39:20Z","owner":{"id":"MDQ6VXNlcjIxOTY1MzYx","login":"foocker","type":"User","name":"fq","location":"CD"},"attribution":{"code":"CD","confidence":"medium","evidence":"country-code"},"seenAt":"2026-11-28T02:48:06.547Z","verifiedAt":"2026-11-28T02:48:06.547Z","cycle":1}
+  {"id":"MDEwOlJlcG9zaXRvcnkzNTM1NDYwMTk=","name":"foocker/deeplearningtheory","stars":279,"forks":26,"license":"Apache-2.0","archived":false,"createdAt":"2021-04-01T02:14:18Z","pushedAt":"2026-03-14T03:39:20Z","owner":{"id":"MDQ6VXNlcjIxOTY1MzYx","login":"foocker","type":"User","name":"fq","location":"CD"},"attribution":{"code":"CD","confidence":"medium","evidence":"country-code"},"seenAt":"2026-11-28T02:48:06.547Z","verifiedAt":"2026-11-28T02:48:06.547Z","cycle":1},
+  {"id":"MDEwOlJlcG9zaXRvcnkxMDMwNDc1MDQ=","name":"donmbelembe/vue-dragscroll","stars":264,"forks":33,"language":"Vue","license":"MIT","description":"A vue directive to make a scrollable element scroll by draging to the scroll direction","archived":false,"createdAt":"2017-09-10T17:18:28Z","pushedAt":"2026-09-14T08:07:17Z","owner":{"id":"MDQ6VXNlcjEwNDczMjc3","login":"donmbelembe","type":"User","location":"Kinshasa, DRC"},"attribution":{"code":"CD","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-28T11:44:28.982Z","verifiedAt":"2026-11-28T11:44:28.982Z","cycle":1}
 ]
 }

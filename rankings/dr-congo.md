@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 28 Nov 2026 | <a href="../data/CD.json">JSON</a> |
+| 🟡 Provisional | **2** | 28 Nov 2026 | <a href="../data/CD.json">JSON</a> |
 
 </div>
 
@@ -28,6 +28,13 @@
 <td align="right">26</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/donmbelembe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/donmbelembe/vue-dragscroll"><b>donmbelembe/vue-dragscroll</b></a><br><sub>A vue directive to make a scrollable element scroll by draging to the scroll direction</sub></td>
+<td align="right"><b>264</b></td>
+<td align="right">33</td>
+<td>Vue</td>
+</tr>
 </tbody>
 </table>
 
@@ -36,8 +43,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 279 stars; 1 attributed candidates are tracked.
-- 129 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 264 stars; 2 attributed candidates are tracked.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 2 of 112 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

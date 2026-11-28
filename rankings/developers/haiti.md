@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/jkenley"><img src="https://avatars.githubusercontent.com/u/8725648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jkenley"><b>Kenley Jean</b></a><br><sub>&#64;jkenley</sub></td>
-<td align="right"><b>87</b></td>
+<td align="right"><b>86</b></td>
 <td align="right">53</td>
 <td><sub>Haiti</sub></td>
 </tr>
@@ -130,7 +130,7 @@
 <td align="right">16</td>
 <td><a href="https://github.com/midsonlajeanty"><img src="https://avatars.githubusercontent.com/u/63215721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/midsonlajeanty"><b>Louis Midson Lajeanty</b></a><br><sub>&#64;midsonlajeanty</sub></td>
 <td align="right"><b>40</b></td>
-<td align="right">55</td>
+<td align="right">56</td>
 <td><sub>Haiti</sub></td>
 </tr>
 <tr>

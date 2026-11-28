@@ -3,9 +3,9 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"MS","name":"Montserrat","slug":"montserrat"},
-"status": "provisional",
+"status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":8,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"location-discovery","cutoffFollowers":0,"candidates":18,"location":{"complete":true,"completeWithoutGaps":true,"round":2,"termIndex":0,"terms":8,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEyMDUwMjY=","login":"manishval","name":null,"url":"https://github.com/manishval","avatarUrl":"https://avatars.githubusercontent.com/u/1205026?s=80&v=4","followers":14,"publicRepos":33,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjE1Njg1Mzc2","login":"MagicStarTrace","name":"Magic","url":"https://github.com/MagicStarTrace","avatarUrl":"https://avatars.githubusercontent.com/u/15685376?s=80&v=4","followers":6,"publicRepos":22,"location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -26,8 +26,8 @@
   {"rank":17,"id":"U_kgDOC0g4wQ","login":"Plata-ui","name":"Plata","url":"https://github.com/Plata-ui","avatarUrl":"https://avatars.githubusercontent.com/u/189282497?s=80&v=4","followers":0,"publicRepos":0,"location":"Carrer Verge de Montserrat, 8","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":18,"id":"MDQ6VXNlcjI4OTk3MTY5","login":"schiller89159","name":"Pietro Schiller","url":"https://github.com/schiller89159","avatarUrl":"https://avatars.githubusercontent.com/u/28997169?s=80&v=4","followers":0,"publicRepos":0,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-27"}
 ],
-"contentHash": "9de9d2b2896cf771",
-"updatedAt": "2026-11-27T02:53:26.992Z",
+"contentHash": "e2ff076c2c80a14b",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-27T02:53:26.992Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

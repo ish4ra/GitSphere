@@ -5,12 +5,14 @@
 "country": {"code":"GG","name":"Guernsey","slug":"guernsey"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1388,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":85,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":24,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":251,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":85,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":8,"terms":24,"unresolved":0},"exhaustive":false},
 "repositories": [
-  {"rank":1,"id":"R_kgDOK9-v8A","name":"precognition.nvim","nameWithOwner":"tris203/precognition.nvim","url":"https://github.com/tris203/precognition.nvim","description":"💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.","stars":1388,"forks":17,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2023-12-26T23:49:41Z","pushedAt":"2026-10-15T10:52:43Z","archived":false,"owner":{"login":"tris203","name":"Tristan Knight","type":"User","url":"https://github.com/tris203","location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"}
+  {"rank":1,"id":"R_kgDOK9-v8A","name":"precognition.nvim","nameWithOwner":"tris203/precognition.nvim","url":"https://github.com/tris203/precognition.nvim","description":"💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.","stars":1388,"forks":17,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2023-12-26T23:49:41Z","pushedAt":"2026-10-15T10:52:43Z","archived":false,"owner":{"login":"tris203","name":"Tristan Knight","type":"User","url":"https://github.com/tris203","location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
+  {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxNzkxNzQ1","name":"DamienGKit","nameWithOwner":"damieng/DamienGKit","url":"https://github.com/damieng/DamienGKit","description":"Useful utility classes and helpers from DamienG.com","stars":264,"forks":159,"primaryLanguage":"C#","license":{"spdxId":"NOASSERTION"},"createdAt":"2011-05-24T04:49:03Z","pushedAt":"2026-05-21T14:09:06Z","archived":false,"owner":{"login":"damieng","name":"Damien Guard","type":"User","url":"https://github.com/damieng","location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"},
+  {"rank":3,"id":"R_kgDOKzfYpw","name":"hawtkeys.nvim","nameWithOwner":"tris203/hawtkeys.nvim","url":"https://github.com/tris203/hawtkeys.nvim","description":"⌨️🔥 Suggest new easy to hit keymaps and find issues with your current key map configurations","stars":251,"forks":6,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2023-11-29T11:54:35Z","pushedAt":"2026-03-09T20:05:58Z","archived":false,"owner":{"login":"tris203","name":"Tristan Knight","type":"User","url":"https://github.com/tris203","location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "1453e0c3367c49f0",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "d844c87e29603ac3",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-26",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

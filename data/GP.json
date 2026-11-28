@@ -5,13 +5,13 @@
 "country": {"code":"GP","name":"Guadeloupe","slug":"guadeloupe"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":533,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":141,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":25,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":533,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":139,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":25,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk3OTY3NjI2MQ==","name":"snowden-archive","nameWithOwner":"iamcryptoki/snowden-archive","url":"https://github.com/iamcryptoki/snowden-archive","description":"💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.","stars":1443,"forks":204,"primaryLanguage":null,"license":null,"createdAt":"2017-01-21T22:15:48Z","pushedAt":"2020-01-14T12:59:22Z","archived":false,"owner":{"login":"iamcryptoki","name":"Gael Gentil","type":"User","url":"https://github.com/iamcryptoki","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyMjE3MzYz","name":"twmn","nameWithOwner":"sboli/twmn","url":"https://github.com/sboli/twmn","description":"A notification system for tiling window managers","stars":533,"forks":46,"primaryLanguage":"C++","license":{"spdxId":"LGPL-3.0"},"createdAt":"2011-08-16T18:17:09Z","pushedAt":"2025-10-23T11:07:05Z","archived":false,"owner":{"login":"sboli","name":"Bolivar Stephen","type":"User","url":"https://github.com/sboli","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "a0ea1e9bf770680a",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "9620c62b7e4d047f",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

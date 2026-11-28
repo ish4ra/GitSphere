@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/VA.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/contributors/VA.json">JSON</a> |
 
 </div>
 
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/kn0del"><img src="https://avatars.githubusercontent.com/u/246881185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kn0del"><b>KNØDEL</b></a><br><sub>&#64;kn0del · 0 followers</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">19</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/Bayu-Risanto"><img src="https://avatars.githubusercontent.com/u/36344804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bayu-Risanto"><b>Christoforus Bayu Risanto</b></a><br><sub>&#64;Bayu-Risanto · 3 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">21</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/NOPR9D"><img src="https://avatars.githubusercontent.com/u/75882457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NOPR9D"><b>NOPR9D ☄️</b></a><br><sub>&#64;NOPR9D · 16 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">14</td>
@@ -123,7 +132,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/meereuk"><img src="https://avatars.githubusercontent.com/u/86495699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meereuk"><b>KKUL</b></a><br><sub>&#64;meereuk · 2 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">10</td>
@@ -132,7 +141,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
+<td><a href="https://github.com/vitomc2"><img src="https://avatars.githubusercontent.com/u/224875111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vitomc2"><b>Vito</b></a><br><sub>&#64;vitomc2 · 0 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/game-web-maker"><img src="https://avatars.githubusercontent.com/u/267652295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/game-web-maker"><b>Ayan The Alpha 2655</b></a><br><sub>&#64;game-web-maker · 0 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">1</td>
@@ -141,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/EddCova11"><img src="https://avatars.githubusercontent.com/u/80143867?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EddCova11"><b>Eduardo Cova</b></a><br><sub>&#64;EddCova11 · 1 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
@@ -150,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/dru91ce"><img src="https://avatars.githubusercontent.com/u/98011531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dru91ce"><b>dru91ce</b></a><br><sub>&#64;dru91ce · 4 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
@@ -159,7 +177,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/kubonnt"><img src="https://avatars.githubusercontent.com/u/60918070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kubonnt"><b>kubonnt</b></a><br><sub>&#64;kubonnt · 15 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -168,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
 <td><a href="https://github.com/arturoregueira"><img src="https://avatars.githubusercontent.com/u/153575836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arturoregueira"><b>Arturo Regueira</b></a><br><sub>&#64;arturoregueira · 2 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -177,7 +195,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
+<td><a href="https://github.com/EgorCorp-228"><img src="https://avatars.githubusercontent.com/u/102915483?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EgorCorp-228"><b>EgorCorp-228</b></a><br><sub>&#64;EgorCorp-228 · 0 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">21</td>
 <td><a href="https://github.com/Darkw3ll"><img src="https://avatars.githubusercontent.com/u/104673537?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Darkw3ll"><b>Darkwell</b></a><br><sub>&#64;Darkw3ll · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -192,7 +219,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 27 of 95 discovered developers (68 awaiting measurement).
+- **Measured:** 31 of 95 discovered developers (64 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 17 in round 1.

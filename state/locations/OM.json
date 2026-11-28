@@ -6,9 +6,9 @@
 "terms": {"count":41,"fingerprint":"41:e2d8c6fc"},
 "termIndex": 0,
 "specIndex": 0,
-"active": {"term":"Oman","kind":"users","queue":[{"metric":[0,1562500],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-24T01:05:37.688Z","stats":{"splits":6,"leaves":6,"pages":6}},
+"active": {"term":"Oman","kind":"users","queue":[{"metric":[0,195312],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-24T01:05:37.688Z","stats":{"splits":9,"leaves":9,"pages":9}},
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":12,"pages":6,"accounts":0},
+"stats": {"requests":18,"pages":9,"accounts":0},
 "updatedAt": "2026-11-24T01:05:37.688Z"
 }

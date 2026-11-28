@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **28** | 22 Nov 2026 | <a href="../../data/contributors/RW.json">JSON</a> |
+| 🟡 Provisional | **31** | 22 Nov 2026 | <a href="../../data/contributors/RW.json">JSON</a> |
 
 </div>
 
@@ -196,6 +196,24 @@
 </tr>
 <tr>
 <td align="right">20</td>
+<td><a href="https://github.com/brunoblaise"><img src="https://avatars.githubusercontent.com/u/25270994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brunoblaise"><b>Mudacumura Brunoblaise</b></a><br><sub>&#64;brunoblaise · 103 followers</sub></td>
+<td align="right"><b>185</b></td>
+<td align="right">185</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/claranceliberi"><img src="https://avatars.githubusercontent.com/u/60586899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/claranceliberi"><b>Clarance Liberiste Ntwari</b></a><br><sub>&#64;claranceliberi · 104 followers</sub></td>
+<td align="right"><b>178</b></td>
+<td align="right">69</td>
+<td align="right">96</td>
+<td align="right">8</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">22</td>
 <td><a href="https://github.com/Timtech4u"><img src="https://avatars.githubusercontent.com/u/11256481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Timtech4u"><b>Timothy Olaleke</b></a><br><sub>&#64;Timtech4u · 251 followers</sub></td>
 <td align="right"><b>167</b></td>
 <td align="right">138</td>
@@ -204,7 +222,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">23</td>
 <td><a href="https://github.com/hirwajeaneric"><img src="https://avatars.githubusercontent.com/u/59798231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hirwajeaneric"><b>HIRWA Jean Eric</b></a><br><sub>&#64;hirwajeaneric · 112 followers</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">140</td>
@@ -213,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">24</td>
 <td><a href="https://github.com/Muhodari"><img src="https://avatars.githubusercontent.com/u/56129880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muhodari"><b>Muhodari Sage</b></a><br><sub>&#64;Muhodari · 161 followers</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">118</td>
@@ -222,7 +240,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">25</td>
 <td><a href="https://github.com/ericmaniraguha"><img src="https://avatars.githubusercontent.com/u/44385819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ericmaniraguha"><b>Eric Maniraguha</b></a><br><sub>&#64;ericmaniraguha · 127 followers</sub></td>
 <td align="right"><b>121</b></td>
 <td align="right">91</td>
@@ -231,7 +249,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">26</td>
 <td><a href="https://github.com/ProgrammerDATCH"><img src="https://avatars.githubusercontent.com/u/128073754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ProgrammerDATCH"><b>Mr. David</b></a><br><sub>&#64;ProgrammerDATCH · 891 followers</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">69</td>
@@ -240,7 +258,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">27</td>
 <td><a href="https://github.com/innocentemutabazi"><img src="https://avatars.githubusercontent.com/u/159420918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/innocentemutabazi"><b>Innocente Mutabazi Umuhuza</b></a><br><sub>&#64;innocentemutabazi · 177 followers</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">54</td>
@@ -249,7 +267,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">28</td>
 <td><a href="https://github.com/ABDUSALIMSUBAHIELBASHI"><img src="https://avatars.githubusercontent.com/u/217039418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ABDUSALIMSUBAHIELBASHI"><b>Abdu Salim &#91; Mr push &#93;</b></a><br><sub>&#64;ABDUSALIMSUBAHIELBASHI · 255 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">9</td>
@@ -258,7 +276,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">29</td>
 <td><a href="https://github.com/kenessajr"><img src="https://avatars.githubusercontent.com/u/5709541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenessajr"><b>Remy Muhire</b></a><br><sub>&#64;kenessajr · 151 followers</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">16</td>
@@ -267,10 +285,19 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">30</td>
 <td><a href="https://github.com/divinecharlotte"><img src="https://avatars.githubusercontent.com/u/60146030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/divinecharlotte"><b>Divine Charlotte</b></a><br><sub>&#64;divinecharlotte · 131 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">9</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/mwafrika"><img src="https://avatars.githubusercontent.com/u/25848053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mwafrika"><b>MWAFRIKA MUFUNGIZI</b></a><br><sub>&#64;mwafrika · 107 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">5</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -282,7 +309,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 30 of 427 discovered developers (397 awaiting measurement).
+- **Measured:** 34 of 433 discovered developers (399 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 36 in round 1.

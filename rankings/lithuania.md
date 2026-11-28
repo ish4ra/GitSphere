@@ -283,8 +283,8 @@
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/podo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/podo/awesome-framer"><b>podo/awesome-framer</b></a><br><sub>A curated list of awesome things related to Framer prototyping tool</sub></td>
-<td align="right"><b>622</b></td>
-<td align="right">53</td>
+<td align="right"><b>621</b></td>
+<td align="right">54</td>
 <td>—</td>
 </tr>
 <tr>
@@ -304,30 +304,30 @@
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/ekvedaras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ekvedaras/redis-gui"><b>ekvedaras/redis-gui</b></a><br><sub>🔬 Modern graphical user interface to peek into redis database</sub></td>
-<td align="right"><b>589</b></td>
+<td align="right"><b>591</b></td>
 <td align="right">39</td>
 <td>Vue</td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/if-not-nil.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/if-not-nil/revo"><b>if-not-nil/revo</b></a><br><sub>a dynamic language for the joy of programming</sub></td>
-<td align="right"><b>585</b></td>
+<td align="right"><b>586</b></td>
 <td align="right">25</td>
 <td>Zig</td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><img src="https://github.com/mkobuolys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mkobuolys/flutter-design-challenges"><b>mkobuolys/flutter-design-challenges</b></a><br><sub>Flutter Design Challenges</sub></td>
-<td align="right"><b>575</b></td>
-<td align="right">159</td>
-<td>Dart</td>
-</tr>
-<tr>
-<td align="right">44</td>
 <td><img src="https://github.com/aras-p.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aras-p/hlsl2glslfork"><b>aras-p/hlsl2glslfork</b></a><br><sub>HLSL to GLSL language translator based on ATI&#39;s HLSL2GLSL. Used in Unity.</sub></td>
 <td align="right"><b>575</b></td>
 <td align="right">140</td>
 <td>C++</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/mkobuolys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mkobuolys/flutter-design-challenges"><b>mkobuolys/flutter-design-challenges</b></a><br><sub>Flutter Design Challenges</sub></td>
+<td align="right"><b>574</b></td>
+<td align="right">159</td>
+<td>Dart</td>
 </tr>
 <tr>
 <td align="right">45</td>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 287 stars; 109 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 287 stars; 115 attributed candidates are tracked.
 - 96 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

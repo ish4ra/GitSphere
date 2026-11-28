@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **27** | 03 Nov 2026 | <a href="../data/VE.json">JSON</a> |
+| 🟠 Stale | **31** | 03 Nov 2026 | <a href="../data/VE.json">JSON</a> |
 
 > **Not yet re-verified.** 9 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -75,15 +75,15 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/mardous.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mardous/BoomingMusic"><b>mardous/BoomingMusic</b></a><br><sub>Clean, fast, and Material-driven Android music player with powerful features.</sub></td>
-<td align="right"><b>628</b></td>
-<td align="right">62</td>
+<td align="right"><b>634</b></td>
+<td align="right">63</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/Th3-822.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Th3-822/rapidleech"><b>Th3-822/rapidleech</b></a> <sub>archived</sub></td>
 <td align="right"><b>595</b></td>
-<td align="right">500</td>
+<td align="right">499</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -151,62 +151,90 @@
 </tr>
 <tr>
 <td align="right">19</td>
+<td><img src="https://github.com/hgouveia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hgouveia/node-downloader-helper"><b>hgouveia/node-downloader-helper</b></a><br><sub>A simple http file downloader for node.js</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">54</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/angel-rs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/angel-rs/css-color-filter-generator"><b>angel-rs/css-color-filter-generator</b></a><br><sub>Generate custom css filter property to achieve any target color :art:</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">52</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/alexanyernas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexanyernas/Biblioteca"><b>alexanyernas/Biblioteca</b></a><br><sub>Colección de libros recomendados en formato PDF que he realizado para ti y así puedas mejorar tus habilidades como prog…</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">36</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/NTBBloodbath.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NTBBloodbath/doom-one.nvim"><b>NTBBloodbath/doom-one.nvim</b></a><br><sub>doom-emacs&#39; doom-one Lua port for Neovim</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">34</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><img src="https://github.com/Ccubik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ccubik/Curso-de-Wordpress-Base"><b>Ccubik/Curso-de-Wordpress-Base</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">24</td>
 <td><img src="https://github.com/Aileen-Moreno.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aileen-Moreno/ArToolKit"><b>Aileen-Moreno/ArToolKit</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">25</td>
 <td><img src="https://github.com/angele1996.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/angele1996/escuela"><b>angele1996/escuela</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">26</td>
 <td><img src="https://github.com/asah-software.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asah-software/sparc-kolbe"><b>asah-software/sparc-kolbe</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">27</td>
 <td><img src="https://github.com/DoubleBeast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DoubleBeast/Cacti_Doc"><b>DoubleBeast/Cacti&#95;Doc</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>CSS</td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">28</td>
 <td><img src="https://github.com/ferjyanez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ferjyanez/Medina-Yanez-ThesisUNIMET2018"><b>ferjyanez/Medina-Yanez-ThesisUNIMET2018</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">29</td>
 <td><img src="https://github.com/fjasis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fjasis/la-vieja-a2018"><b>fjasis/la-vieja-a2018</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">30</td>
 <td><img src="https://github.com/HillaryMarian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HillaryMarian/python-ipysheet"><b>HillaryMarian/python-ipysheet</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">31</td>
 <td><img src="https://github.com/ItsMylifeBaby.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ItsMylifeBaby/Proyecto_3_Java"><b>ItsMylifeBaby/Proyecto&#95;3&#95;Java</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -220,9 +248,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 27 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 0 stars; 31 attributed candidates are tracked.
 - 9 entries were carried over from the previous dataset and are pending revalidation.
-- 118 multi-repository owners are queued for expansion.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 127 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 25 Nov 2026 | <a href="../data/ME.json">JSON</a> |
+| 🟡 Provisional | **18** | 25 Nov 2026 | <a href="../data/ME.json">JSON</a> |
 
 </div>
 
@@ -140,6 +140,13 @@
 <td align="right">30</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/QuasarApp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/QuasarApp/Qt-Secret"><b>QuasarApp/Qt-Secret</b></a> <sub>archived</sub><br><sub>Simple encryption library supporting RSA and AES algorithms.</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">72</td>
+<td>C++</td>
+</tr>
 </tbody>
 </table>
 
@@ -148,8 +155,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 277 stars; 17 attributed candidates are tracked.
-- 40 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 269 stars; 18 attributed candidates are tracked.
+- 34 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 44 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

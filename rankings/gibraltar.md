@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 25 Nov 2026 | <a href="../data/GI.json">JSON</a> |
+| 🟡 Provisional | **9** | 25 Nov 2026 | <a href="../data/GI.json">JSON</a> |
 
 </div>
 
@@ -77,6 +77,13 @@
 <td align="right">122</td>
 <td>Solidity</td>
 </tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/miohtama.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miohtama/ztanesh"><b>miohtama/ztanesh</b></a><br><sub>Improve your UNIX command line experience and productivity with ztanesh project: the tools will make your shell more po…</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">54</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -85,8 +92,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 308 stars; 8 attributed candidates are tracked.
-- 128 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 268 stars; 9 attributed candidates are tracked.
+- 127 multi-repository owners are queued for expansion.
 - **Location discovery:** term 6 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

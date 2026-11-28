@@ -5,7 +5,7 @@
 "country": {"code":"BO","name":"Bolivia","slug":"bolivia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":272,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":118,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":125,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":272,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":117,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":125,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOGr3TSA","name":"sol","nameWithOwner":"ospfranco/sol","url":"https://github.com/ospfranco/sol","description":"MacOS launcher & command palette","stars":3226,"forks":199,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-01-16T19:08:40Z","pushedAt":"2026-11-24T13:47:49Z","archived":false,"owner":{"login":"ospfranco","name":"Oscar Franco","type":"User","url":"https://github.com/ospfranco","location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyODYzMjgxODY=","name":"qobuz-dl","nameWithOwner":"vitiko98/qobuz-dl","url":"https://github.com/vitiko98/qobuz-dl","description":"A complete Lossless and Hi-Res music downloader for Qobuz","stars":2422,"forks":319,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2020-08-09T22:39:40Z","pushedAt":"2025-07-19T03:04:07Z","archived":false,"owner":{"login":"vitiko98","name":"Vitiko","type":"User","url":"https://github.com/vitiko98","location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"R_kgDORhKbbA","name":"MCP-Packet-Tracer","nameWithOwner":"Mats2208/MCP-Packet-Tracer","url":"https://github.com/Mats2208/MCP-Packet-Tracer","description":"AI-powered Cisco Packet Tracer automation over MCP. Describe a network in natural language and it generates, validates and deploys full topologies (OSPF, EIGRP…","stars":424,"forks":33,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-03-08T00:28:57Z","pushedAt":"2026-11-11T22:14:56Z","archived":false,"owner":{"login":"Mats2208","name":"Mateo Andres Soto Gareca","type":"User","url":"https://github.com/Mats2208","location":"Santa Cruz, Bolivia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
   {"rank":9,"id":"MDEwOlJlcG9zaXRvcnk1MjU2NTMwOQ==","name":"deoplete-ternjs","nameWithOwner":"carlitux/deoplete-ternjs","url":"https://github.com/carlitux/deoplete-ternjs","description":"deoplete.nvim source for javascript","stars":272,"forks":24,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2016-02-25T23:50:32Z","pushedAt":"2019-12-19T18:27:01Z","archived":false,"owner":{"login":"carlitux","name":"Luis Carlos Cruz Carballo","type":"User","url":"https://github.com/carlitux","location":"Cochabamba - Bolivia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-28"}
 ],
-"contentHash": "a85564ec7a64c68e",
-"updatedAt": "2026-11-28T03:23:20.276Z",
+"contentHash": "5e45955aa3a4bdee",
+"updatedAt": "2026-11-28T12:22:54.128Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-28T03:23:20.276Z"
+"generatedAt": "2026-11-28T12:22:54.128Z"
 }

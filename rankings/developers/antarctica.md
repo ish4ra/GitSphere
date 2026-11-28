@@ -193,7 +193,7 @@
 <td align="right">25</td>
 <td><a href="https://github.com/DrBrad"><img src="https://avatars.githubusercontent.com/u/20123198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DrBrad"><b>Brad</b></a><br><sub>&#64;DrBrad</sub></td>
 <td align="right"><b>64</b></td>
-<td align="right">79</td>
+<td align="right">80</td>
 <td><sub>Antarctica</sub></td>
 </tr>
 <tr>

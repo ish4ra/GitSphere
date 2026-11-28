@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **51** | 25 Nov 2026 | <a href="../data/BY.json">JSON</a> |
+| 🟡 Provisional | **55** | 25 Nov 2026 | <a href="../data/BY.json">JSON</a> |
 
 </div>
 
@@ -378,6 +378,34 @@
 <td align="right">33</td>
 <td>HTML</td>
 </tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/npupko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/npupko/awesome-helix"><b>npupko/awesome-helix</b></a><br><sub>A curated list of awesome Helix editor resources, plugins, themes, and tools.</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">16</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/MitrofD.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MitrofD/AnalogJoystick"><b>MitrofD/AnalogJoystick</b></a><br><sub>A customizable analog joystick for SpriteKit with circular or square movement, supporting events for begin, move, and e…</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">41</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/Lolendor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lolendor/LBox"><b>Lolendor/LBox</b></a><br><sub>A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources,…</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">20</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/sybrexsys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sybrexsys/VersyPDF"><b>sybrexsys/VersyPDF</b></a><br><sub>VersyPDF is a high-quality, industry-strength PDF library for C/C++ programming languages meeting the requirements of t…</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">46</td>
+<td>C</td>
+</tr>
 </tbody>
 </table>
 
@@ -386,8 +414,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 274 stars; 51 attributed candidates are tracked.
-- 106 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 254 stars; 55 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

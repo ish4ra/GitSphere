@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **39** | 25 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **42** | 25 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/AleksaMCode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AleksaMCode/WiFi-password-stealer"><b>AleksaMCode/WiFi-password-stealer</b></a><br><sub>Simple Windows and Linux keystroke injection tool that exfiltrates stored WiFi data (SSID and password).</sub></td>
-<td align="right"><b>611</b></td>
+<td align="right"><b>612</b></td>
 <td align="right">53</td>
 <td>PowerShell</td>
 </tr>
@@ -294,6 +294,27 @@
 <td align="right">18</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/codaxy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codaxy/wkhtmltopdf"><b>codaxy/wkhtmltopdf</b></a> <sub>archived</sub><br><sub>C# wrapper around excellent wkhtmltopdf console utility.</sub></td>
+<td align="right"><b>267</b></td>
+<td align="right">83</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/Nbc66.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nbc66/source-sdk-2013-ce"><b>Nbc66/source-sdk-2013-ce</b></a><br><sub>Source SDK 2013 Community Edition is a fork of the 2013 sdk repo of the source engine which fixes most of the things th…</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">92</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/code-forge-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/code-forge-io/remix-toast"><b>code-forge-io/remix-toast</b></a><br><sub>Server side implementation of toast notifications in Remix</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">15</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -302,8 +323,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 274 stars; 39 attributed candidates are tracked.
-- 24 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 260 stars; 42 attributed candidates are tracked.
+- 16 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

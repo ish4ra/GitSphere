@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 25 Nov 2026 | <a href="../data/GT.json">JSON</a> |
+| 🟡 Provisional | **16** | 25 Nov 2026 | <a href="../data/GT.json">JSON</a> |
 
 </div>
 
@@ -126,6 +126,13 @@
 <td align="right">86</td>
 <td>PHP</td>
 </tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/dxnst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dxnst/nord-backgrounds"><b>dxnst/nord-backgrounds</b></a><br><sub>An icy-cool ❄️ collection of wallpapers for your nord rice. WIP.</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">23</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -134,8 +141,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 301 stars; 15 attributed candidates are tracked.
-- 121 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 261 stars; 16 attributed candidates are tracked.
+- 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
